@@ -8,12 +8,12 @@ import requests
 
 #cofig
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
-DEFAULT_BACK_TRACK_TIME=timedelta(minutes=10)
-DELETE_DELTA=timedelta(days=7)
+DEFAULT_BACK_TRACK_TIME=timedelta(hours=2,minutes=40)
+DELETE_DELTA=timedelta(days=3)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
 JSON_DIR = './json/api.json'
 
-now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong"))
+now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong")).replace(tzinfo=None)
 
 class ProgramData(object):
     def __init__(self, last_update_t):
@@ -62,6 +62,7 @@ class History():
             last_update = history[id]['last_update']
             last_dt = datetime.strptime(last_update, '%Y-%m-%dT%H:%M:%S')
             if now-delta > last_dt:
+                print(f'del: {id}') #test
                 del history[id]
 
 def get_as_obj(t_strg):
@@ -88,7 +89,13 @@ else:
 t = data.last_update_t
 while t <= now:
     t_strg = f'{t.year}{t.month:02d}{t.day:02d}-{t.hour:02d}{t.minute:02d}'
-    print(t_strg)
+
+    try:
+        msg = get_as_obj(t_strg)
+        history.push_msg(msg)
+    except Exception as e:
+        print(f'{t_strg}[E]: {e}')
+
     t += timedelta(minutes=1)
 data.last_update_t = t
 
