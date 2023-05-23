@@ -1,5 +1,5 @@
 on:
-  push:
+  #push:
   schedule:
   - cron:  '*/10 * * * *'
 jobs:
@@ -17,5 +17,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ./log ./json ./temp
-          git commit -m "github action"
+          git commit -m "update news"
           git push
