@@ -11,10 +11,11 @@ from bs4 import BeautifulSoup
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
 DEFAULT_BACK_TRACK_TIME=timedelta(days=1)
 DELETE_DELTA=timedelta(days=3)
+NOW_BUFFER_DELTA=timedelta(minutes=1)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
 JSON_DIR = './json/api.json'
 
-now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong")).replace(tzinfo=None)
+now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong")).replace(tzinfo=None)-NOW_BUFFER_DELTA
 
 class ProgramData(object):
     def __init__(self, last_update_t):
