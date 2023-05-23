@@ -5,9 +5,11 @@ from zoneinfo import ZoneInfo
 import json
 import xmltodict
 import requests
+import xml.etree.ElementTree as ET
 
 #cofig
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
+#API_URL = 'https://pastebin.com/raw/eCeiVfTW?'
 DEFAULT_BACK_TRACK_TIME=timedelta(hours=2,minutes=40)
 DELETE_DELTA=timedelta(days=3)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
@@ -66,9 +68,11 @@ class History():
                 del history[id]
 
 def get_as_obj(t_strg):
-    res = requests.get(API_URL+t_strg)
+    res = requests.get(API_URL+t_strg, allow_redirects=True)
     if res.ok:
         xml = res.content
+        purged_xml = xml.decode('utf-8','ignore') #.encode('utf-8')
+        print(res.text)
         data_dict = xmltodict.parse(xml)
         message = data_dict['list']['message']
         return message
@@ -85,6 +89,16 @@ if os.path.exists(PROGRAM_DATA_DIR):
         data = pickle.load(f)
 else:
     data = ProgramData(now-DEFAULT_BACK_TRACK_TIME)
+
+
+
+
+#msg = get_as_obj('20230523-1340')
+msg = get_as_obj('20230523-1337')
+
+history.push_msg(msg)
+
+exit()
 
 t = data.last_update_t
 while t <= now:
