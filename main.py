@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 #cofig
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
 #API_URL = 'https://pastebin.com/raw/eCeiVfTW?'
-DEFAULT_BACK_TRACK_TIME=timedelta(hours=2,minutes=40)
+DEFAULT_BACK_TRACK_TIME=timedelta(hours=5)
 DELETE_DELTA=timedelta(days=3)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
 JSON_DIR = './json/api.json'
@@ -76,7 +76,6 @@ def get_as_obj(t_strg):
         xml = res.content
         purged_xml = xml.decode('utf-8','ignore').rstrip('\x00').encode('utf-8')
         purged_xml = str(BeautifulSoup(purged_xml, features='xml')) #repair broken
-        print(purged_xml)
         data_dict = xmltodict.parse(purged_xml)
         message = data_dict['list']['message']
         return message
@@ -93,16 +92,6 @@ if os.path.exists(PROGRAM_DATA_DIR):
         data = pickle.load(f)
 else:
     data = ProgramData(now-DEFAULT_BACK_TRACK_TIME)
-
-
-
-
-#msg = get_as_obj('20230523-1340')
-msg = get_as_obj('20230523-1255')
-
-history.push_msg(msg)
-
-exit()
 
 t = data.last_update_t
 while t <= now:
