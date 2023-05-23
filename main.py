@@ -13,6 +13,8 @@ DELETE_DELTA=timedelta(days=7)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
 JSON_DIR = './json/api.json'
 
+now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong"))
+
 class ProgramData(object):
     def __init__(self, last_update_t):
         self.last_update_t = last_update_t
@@ -59,7 +61,7 @@ class History():
         for id in list(history):
             last_update = history[id]['last_update']
             last_dt = datetime.strptime(last_update, '%Y-%m-%dT%H:%M:%S')
-            if datetime.now()-delta > last_dt:
+            if now-delta > last_dt:
                 del history[id]
 
 def get_as_obj(t_strg):
@@ -72,28 +74,10 @@ def get_as_obj(t_strg):
         #print(json.dumps(message, ensure_ascii=False))
 
 
-history = History()
-history.remove_expire()
-print(history)
-exit()
-
-msg = get_as_obj('20230522-1248')
-history.push_msg(msg)
-msg = get_as_obj('20230522-1255')
-history.push_msg(msg)
-msg = get_as_obj('20230522-1341')
-history.push_msg(msg)
-
-
-print(history)
-history.save()
-
-exit()
-
 os.makedirs('./temp', exist_ok=True)
 os.makedirs('./json', exist_ok=True)
 
-now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong"))
+history = History()
 
 if os.path.exists(PROGRAM_DATA_DIR):
     with open(PROGRAM_DATA_DIR, 'rb') as f:
@@ -110,3 +94,6 @@ data.last_update_t = t
 
 with open(PROGRAM_DATA_DIR, 'wb') as f:
     pickle.dump(data, f)
+
+history.remove_expire()
+history.save()
