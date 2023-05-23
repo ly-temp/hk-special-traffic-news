@@ -47,7 +47,7 @@ def push_msg(history, message):
 
 history = {}
 if(os.path.exists(JSON_DIR)):
-    with open(JSON_DIR, 'wb') as f:
+    with open(JSON_DIR, 'r') as f:
         history = json.load(f)
 
 msg = get_as_obj('20230522-1248')
@@ -57,6 +57,8 @@ push_msg(history, msg)
 msg = get_as_obj('20230522-1341')
 push_msg(history, msg)
 
+with open(JSON_DIR, 'w') as f:
+    json.dump(history, f, ensure_ascii=False, indent=4)
 print(json.dumps(history, ensure_ascii=False))
 exit()
 
