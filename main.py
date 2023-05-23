@@ -74,7 +74,7 @@ def get_as_obj(t_strg):
     if res.ok:
         xml = res.content
         purged_xml = xml.decode('utf-8','ignore').rstrip('\x00').encode('utf-8')
-        purged_xml = str(BeautifulSoup(purged_xml, features='html.parser')) #repair broken
+        purged_xml = str(BeautifulSoup(purged_xml, features='xml')) #repair broken
         data_dict = xmltodict.parse(purged_xml)
         message = data_dict['list']['message']
         return message
