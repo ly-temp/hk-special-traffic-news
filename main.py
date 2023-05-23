@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 import json
 import xmltodict
 import requests
-import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup
 
 #cofig
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
@@ -41,7 +41,10 @@ class History():
 
         update_msg = {}
         for e in ['ANNOUNCEMENT_DATE','INCIDENT_STATUS_EN','INCIDENT_STATUS_CN','ID','CONTENT_EN','CONTENT_CN']:
-            update_msg[e] = message.pop(e)
+            try:
+                update_msg[e] = message.pop(e)
+            except:
+                update_msg[e] = '' #repair broken
         message_t = update_msg.pop('ANNOUNCEMENT_DATE')
 
         if incident_id in history:
@@ -71,9 +74,10 @@ def get_as_obj(t_strg):
     res = requests.get(API_URL+t_strg, allow_redirects=True)
     if res.ok:
         xml = res.content
-        purged_xml = xml.decode('utf-8','ignore') #.encode('utf-8')
-        print(res.text)
-        data_dict = xmltodict.parse(xml)
+        purged_xml = xml.decode('utf-8','ignore').rstrip('\x00').encode('utf-8')
+        purged_xml = str(BeautifulSoup(purged_xml, features='xml')) #repair broken
+        print(purged_xml)
+        data_dict = xmltodict.parse(purged_xml)
         message = data_dict['list']['message']
         return message
         #print(json.dumps(message, ensure_ascii=False))
@@ -94,7 +98,7 @@ else:
 
 
 #msg = get_as_obj('20230523-1340')
-msg = get_as_obj('20230523-1337')
+msg = get_as_obj('20230523-1255')
 
 history.push_msg(msg)
 
