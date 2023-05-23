@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 #cofig
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
 #API_URL = 'https://pastebin.com/raw/eCeiVfTW?'
-DEFAULT_BACK_TRACK_TIME=timedelta(hours=5)
+DEFAULT_BACK_TRACK_TIME=timedelta(days=1)
 DELETE_DELTA=timedelta(days=3)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
 JSON_DIR = './json/api.json'
