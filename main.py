@@ -2,6 +2,9 @@ import os
 import pickle
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
+import json
+import xmltodict
+import requests
 
 #cofig
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
@@ -11,6 +14,19 @@ PROGRAM_DATA_DIR = './temp/program_data.pickle'
 class ProgramData(object):
     def __init__(self, last_update_t):
         self.last_update_t = last_update_t
+
+def get_json(t_strg):
+    res = requests.get(API_URL+t_strg)
+    if res.ok:
+        xml = res.content
+        data_dict = xmltodict.parse(xml)
+        message = data_dict.get('list').get('message')
+        incident_id = message.pop('INCIDENT_NUMBER')
+        message = {incident_id: message}
+        print(json.dumps(message, ensure_ascii=False))
+    
+get_json('20230522-1248')
+exit()
 
 os.makedirs('./temp', exist_ok=True)
 os.makedirs('./json', exist_ok=True)
