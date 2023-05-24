@@ -1403,13 +1403,50 @@
                 "CONTENT_CN": "因交通意外，長青公路(往九龍方向)近長青隧道入口的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
             },
             "2023-05-24T10:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
                 "ID": "80575",
                 "CONTENT_EN": "Part of the lanes of Cheung Tsing Highway (Kowloon bound) near Cheung Tsing Tunnel which was closed due to traffic accident is re-opened to all traffic.",
                 "CONTENT_CN": "較早前因交通意外而封閉的長青公路(往九龍方向)近長青隧道的部份行車線現已解封。"
             }
         },
         "last_update": "2023-05-24T10:47:00"
+    },
+    "IN-23-02093": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cotton Tree Drive",
+            "LOCATION_CN": "紅棉路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "uphill",
+            "DIRECTION_CN": "上山",
+            "NEAR_LANDMARK_EN": "Hong Kong Park Sports Centre",
+            "NEAR_LANDMARK_CN": "香港公園體育館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-05-24T11:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80576",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cotton Tree Drive (uphill bound) near Hong Kong Park Sports Centre is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，紅棉路(上山方向)近香港公園體育館的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-05-24T11:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80577",
+                "CONTENT_EN": "Part of the lanes of Cotton Tree Drive (uphill bound) near Hong Kong Park Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的紅棉路(上山方向)近香港公園體育館的部份行車線現已解封。"
+            }
+        },
+        "last_update": "2023-05-24T11:07:00"
     }
 }
