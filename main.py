@@ -42,7 +42,7 @@ class History():
         history = self.history
         incident_id = message.pop('INCIDENT_NUMBER')
 
-        location = message['LOCATION_CN'] or message['NEAR_LANDMARK_CN'] or message['DIRECTION_CN']
+        location = message['NEAR_LANDMARK_CN'] or message['LOCATION_CN'] or message['DIRECTION_CN']
         district = get_district(location)
 
         update_msg = {}
