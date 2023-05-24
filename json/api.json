@@ -201,9 +201,16 @@
                 "ID": "80586",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Ning Road Roundabout (Hang Hau Road bound) near Ying Yip Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，寶寧路迴旋處(往坑口道方向)近影業路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-05-24T17:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80590",
+                "CONTENT_EN": "Part of the lanes of Po Ning Road Roundabout (Hang Hau Road bound) near Ying Yip Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的寶寧路迴旋處(往坑口道方向)近影業路的部份行車線現已解封。"
             }
         },
-        "last_update": "2023-05-24T17:02:00",
+        "last_update": "2023-05-24T17:54:00",
         "district": "元朗區"
     },
     "IN-23-02097": {
@@ -270,9 +277,23 @@
                 "ID": "80589",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近兆康港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-05-24T17:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80591",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Hung Tin Road.   Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近兆康港鐵站的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近洪天路。  現時上址交通擠塞。"
+            },
+            "2023-05-24T18:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80593",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近兆康港鐵站的部份行車線現已解封。車龍有待消散。"
             }
         },
-        "last_update": "2023-05-24T17:46:00",
+        "last_update": "2023-05-24T18:05:00",
         "district": "屯門區"
     }
 }
