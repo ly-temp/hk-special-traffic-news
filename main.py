@@ -9,13 +9,16 @@ from bs4 import BeautifulSoup
 
 #cofig
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
-DEFAULT_BACK_TRACK_TIME=timedelta(days=1)
+GEO_API_URL = 'https://www.als.ogcio.gov.hk/lookup'
+DEFAULT_BACK_TRACK_TIME=timedelta(hours=4)
 DELETE_DELTA=timedelta(days=3)
 NOW_BUFFER_DELTA=timedelta(minutes=1)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
 JSON_DIR = './json/api.json'
 
 now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong")).replace(tzinfo=None)-NOW_BUFFER_DELTA
+
+
 
 class ProgramData(object):
     def __init__(self, last_update_t):
@@ -39,6 +42,9 @@ class History():
         history = self.history
         incident_id = message.pop('INCIDENT_NUMBER')
 
+        location = message['LOCATION_CN'] or message['NEAR_LANDMARK_CN'] or message['DIRECTION_CN']
+        district = get_district(location)
+
         update_msg = {}
         for e in ['ANNOUNCEMENT_DATE','INCIDENT_STATUS_EN','INCIDENT_STATUS_CN','ID','CONTENT_EN','CONTENT_CN']:
             try:
@@ -58,7 +64,8 @@ class History():
                 'message':{
                     message_t: update_msg
                 },
-                'last_update': message_t
+                'last_update': message_t,
+                'district': district
             }})
 
     def remove_expire(self, delta=DELETE_DELTA):
@@ -80,6 +87,23 @@ def get_as_obj(t_strg):
         message = data_dict['list']['message']
         return message
         #print(json.dumps(message, ensure_ascii=False))
+
+
+def get_district(location):
+    res = requests.post(GEO_API_URL,
+        headers={
+            'Accept-Language': 'zh-Hant',
+            'Accept-Encoding': 'gzip'
+        },
+        data={
+            'q': location,
+            'n': 1,
+            't': 80
+        }
+    )
+    dict = xmltodict.parse(res.content)
+    return dict['AddressLookupResult']['SuggestedAddress']['Address']['PremisesAddress']['ChiPremisesAddress']['ChiDistrict']['DcDistrict']
+
 
 
 os.makedirs('./temp', exist_ok=True)
