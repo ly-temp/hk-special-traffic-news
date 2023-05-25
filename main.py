@@ -43,7 +43,10 @@ class History():
         incident_id = message.pop('INCIDENT_NUMBER')
 
         location = message['NEAR_LANDMARK_CN'] or message['LOCATION_CN'] or message['DIRECTION_CN']
-        district = get_district(location)
+        if location == None:
+            district = None
+        else:
+            district = get_district(location)
 
         update_msg = {}
         for e in ['ANNOUNCEMENT_DATE','INCIDENT_STATUS_EN','INCIDENT_STATUS_CN','ID','CONTENT_EN','CONTENT_CN']:
@@ -103,8 +106,6 @@ def get_district(location):
     )
     dict = xmltodict.parse(res.content)
     return dict['AddressLookupResult']['SuggestedAddress']['Address']['PremisesAddress']['ChiPremisesAddress']['ChiDistrict']['DcDistrict']
-
-
 
 os.makedirs('./temp', exist_ok=True)
 os.makedirs('./json', exist_ok=True)
