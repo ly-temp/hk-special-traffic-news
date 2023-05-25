@@ -1,0 +1,73 @@
+{
+    "IN-23-02112": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Maryknoll Convent School (Primary Section)",
+            "NEAR_LANDMARK_CN": "瑪利諾修院學校(小學部)",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-05-25T13:41:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "80623",
+                "CONTENT_EN": "The slow lane of Waterloo Road flyover (Tsim Sha Tsui bound) near Maryknoll Convent School (Primary Section) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道天橋(往尖沙咀方向)近瑪利諾修院學校(小學部)的慢線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2023-05-25T16:36:24",
+        "last_announcement": "2023-05-25T13:41:00"
+    },
+    "IN-23-02113": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Lek Yuen Estate",
+            "NEAR_LANDMARK_CN": "瀝源邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-05-25T16:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80624",
+                "CONTENT_EN": "Due to road incident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Lek Yuen Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因道路事故，大埔公路　–　沙田段(往大埔方向)近瀝源邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-05-25T16:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80625",
+                "CONTENT_EN": "Due to road incident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Lek Yuen Estate is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Tai Po Road - Sha Tin (Tai Po bound) ends at Tsing Sha Highway near Tai Wai Tunnel exit and Shing Mun Tunnel Road near Mei Lam Estate.   Traffic is congested now.",
+                "CONTENT_CN": "因道路事故，大埔公路　–　沙田段(往大埔方向)近瀝源邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在大埔公路　–　沙田段(往大埔方向)的車龍龍尾已到青沙公路近大圍隧道出口及城門隧道公路近美林邨。  現時上址交通擠塞。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2023-05-25T16:36:24",
+        "last_announcement": "2023-05-25T16:28:00"
+    }
+}
