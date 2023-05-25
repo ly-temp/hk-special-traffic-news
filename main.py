@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 #cofig
 API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2F%2Fwww.td.gov.hk%2Ftc%2Fspecial_news%2Ftrafficnews.xml&time='
 GEO_API_URL = 'https://www.als.ogcio.gov.hk/lookup'
-DEFAULT_BACK_TRACK_TIME=timedelta(hours=4)
+DEFAULT_BACK_TRACK_TIME=timedelta(hours=1)
 DELETE_DELTA=timedelta(days=3)
 GET_BUFFER_DELTA=timedelta(minutes=1)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
@@ -56,11 +56,13 @@ class History():
         message_t = update_msg.pop('ANNOUNCEMENT_DATE')
 
         if incident_id in history:
-            history[incident_id]['message'].update({
-                message_t: update_msg
-            })
-            history[incident_id]['last_update'] = now_iso
-            history[incident_id]['last_announcement'] = message_t
+            msg = history[incident_id]['message']
+            if not message_t in msg:
+                history[incident_id]['message'].update({
+                    message_t: update_msg
+                })
+                history[incident_id]['last_update'] = now_iso
+                history[incident_id]['last_announcement'] = message_t
         else:
             history.update({incident_id:{
                 'description': message,
