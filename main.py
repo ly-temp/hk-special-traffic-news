@@ -12,13 +12,12 @@ API_URL = 'https://api.data.gov.hk/v1/historical-archive/get-file?url=https%3A%2
 GEO_API_URL = 'https://www.als.ogcio.gov.hk/lookup'
 DEFAULT_BACK_TRACK_TIME=timedelta(hours=4)
 DELETE_DELTA=timedelta(days=3)
-NOW_BUFFER_DELTA=timedelta(minutes=1)
+GET_BUFFER_DELTA=timedelta(minutes=1)
 PROGRAM_DATA_DIR = './temp/program_data.pickle'
 JSON_DIR = './json/api.json'
 
-now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong")).replace(tzinfo=None)-NOW_BUFFER_DELTA
-
-
+now = datetime.now(tz=ZoneInfo("Asia/Hong_Kong")).replace(tzinfo=None)
+now_iso = now.replace(microsecond=0).isoformat()
 
 class ProgramData(object):
     def __init__(self, last_update_t):
@@ -60,15 +59,17 @@ class History():
             history[incident_id]['message'].update({
                 message_t: update_msg
             })
-            history[incident_id]['last_update'] = message_t
+            history[incident_id]['last_update'] = now_iso
+            history[incident_id]['last_announcement'] = message_t
         else:
             history.update({incident_id:{
                 'description': message,
                 'message':{
                     message_t: update_msg
                 },
-                'last_update': message_t,
-                'district': district
+                'district': district,
+                'last_update': now_iso,
+                'last_announcement': message_t
             }})
 
     def remove_expire(self, delta=DELETE_DELTA):
@@ -119,7 +120,7 @@ else:
     data = ProgramData(now-DEFAULT_BACK_TRACK_TIME)
 
 t = data.last_update_t
-while t <= now:
+while t <= now-GET_BUFFER_DELTA:
     t_strg = f'{t.year}{t.month:02d}{t.day:02d}-{t.hour:02d}{t.minute:02d}'
 
     try:
