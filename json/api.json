@@ -259,10 +259,17 @@
                 "ID": "80635",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Tsuen Wan bound) near Mei Foo Sun Chuen is closed to all traffic. Only remaining lane(s) is available to motorists.",
                 "CONTENT_CN": "因交通意外，葵涌道(往荃灣方向)近美孚新邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2023-05-26T13:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80636",
+                "CONTENT_EN": "Part of the lanes of Kwai Chung Road (Tsuen Wan bound) near Mei Foo Sun Chuen which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的葵涌道(往荃灣方向)近美孚新邨的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-05-26T12:49:34",
-        "last_announcement": "2023-05-26T12:38:00"
+        "last_update": "2023-05-26T13:28:10",
+        "last_announcement": "2023-05-26T13:14:00"
     }
 }
