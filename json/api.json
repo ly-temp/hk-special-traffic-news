@@ -695,11 +695,18 @@
                 "ID": "80659",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wan Po Road (Tseung Kwan O Industrial Estate bound) near Wan O Road is closed to all traffic. \nOnly remaining lane is available to motorists.",
                 "CONTENT_CN": "因交通意外，環保大道(往將軍澳工業邨方向)近環澳路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            },
+            "2023-05-28T07:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80663",
+                "CONTENT_EN": "Part of the lanes of Wan Po Road (Tseung Kwan O Industrial Estate bound) near Wan O Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的環保大道(往將軍澳工業邨方向)近環澳路的部份行車線現已解封。"
             }
         },
         "district": "西貢區",
-        "last_update": "2023-05-28T06:17:09",
-        "last_announcement": "2023-05-28T05:59:00"
+        "last_update": "2023-05-28T07:47:24",
+        "last_announcement": "2023-05-28T07:40:00"
     },
     "IN-23-02131": {
         "description": {
@@ -727,10 +734,17 @@
                 "ID": "80661",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Lek Yuen Estate is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大埔公路–沙田段(往大埔方向)近瀝源邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-05-28T07:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80662",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Lek Yuen Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路–沙田段(往大埔方向)近瀝源邨的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-05-28T06:47:35",
-        "last_announcement": "2023-05-28T06:40:00"
+        "last_update": "2023-05-28T07:47:24",
+        "last_announcement": "2023-05-28T07:28:00"
     }
 }
