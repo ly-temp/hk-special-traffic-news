@@ -649,11 +649,18 @@
                 "ID": "80657",
                 "CONTENT_EN": "Due to emergency repair of road surface , the lane no. 2 of Chatham Road South (Kwun Tong bound) near Hong Chong Road is closed to all traffic. \nOnly remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，漆咸道南(往觀塘方向)近康莊道的第2線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            },
+            "2023-05-28T06:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80660",
+                "CONTENT_EN": "The lane no. 2 of Chatham Road South (Kwun Tong bound) near Hong Chong Road which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的漆咸道南(往觀塘方向)近康莊道的第2線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2023-05-28T01:53:58",
-        "last_announcement": "2023-05-28T01:35:00"
+        "last_update": "2023-05-28T06:17:09",
+        "last_announcement": "2023-05-28T06:05:00"
     },
     "IN-23-02130": {
         "description": {
@@ -681,10 +688,17 @@
                 "ID": "80658",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Wan Po Road (Tseung Kwan O Industrial Estate bound) near Wan O Road are closed to all traffic.",
                 "CONTENT_CN": "因交通意外，環保大道(往將軍澳工業邨方向)近環澳路的全線現已封閉。"
+            },
+            "2023-05-28T05:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80659",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wan Po Road (Tseung Kwan O Industrial Estate bound) near Wan O Road is closed to all traffic. \nOnly remaining lane is available to motorists.",
+                "CONTENT_CN": "因交通意外，環保大道(往將軍澳工業邨方向)近環澳路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
             }
         },
         "district": "西貢區",
-        "last_update": "2023-05-28T05:49:32",
-        "last_announcement": "2023-05-28T05:37:00"
+        "last_update": "2023-05-28T06:17:09",
+        "last_announcement": "2023-05-28T05:59:00"
     }
 }
