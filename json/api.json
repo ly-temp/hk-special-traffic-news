@@ -622,5 +622,37 @@
         "district": "九龍城區",
         "last_update": "2023-05-27T17:56:36",
         "last_announcement": "2023-05-27T17:40:00"
+    },
+    "IN-23-02129": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Chatham Road South",
+            "LOCATION_CN": "漆咸道南",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Hong Chong Road",
+            "NEAR_LANDMARK_CN": "康莊道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-05-28T01:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80657",
+                "CONTENT_EN": "Due to emergency repair of road surface , the lane no. 2 of Chatham Road South (Kwun Tong bound) near Hong Chong Road is closed to all traffic. \nOnly remaining lanes are available to motorists.",
+                "CONTENT_CN": "因緊急路面維修，漆咸道南(往觀塘方向)近康莊道的第2線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-05-28T01:53:58",
+        "last_announcement": "2023-05-28T01:35:00"
     }
 }
