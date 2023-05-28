@@ -707,5 +707,37 @@
         "district": "西貢區",
         "last_update": "2023-05-28T20:19:25",
         "last_announcement": "2023-05-28T20:04:00"
+    },
+    "IN-23-02136": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Chung",
+            "DIRECTION_CN": "葵涌",
+            "NEAR_LANDMARK_EN": "Choi Hung Estate",
+            "NEAR_LANDMARK_CN": "彩虹邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-05-29T07:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80674",
+                "CONTENT_EN": "Lung Cheung Road (Kwai Chung bound) near Choi Hung Estate is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "龍翔道(往葵涌方向)近彩虹邨的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2023-05-29T07:38:14",
+        "last_announcement": "2023-05-29T07:24:00"
     }
 }
