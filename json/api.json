@@ -1175,5 +1175,37 @@
         "district": "九龍城區",
         "last_update": "2023-05-29T15:41:39",
         "last_announcement": "2023-05-29T15:31:00"
+    },
+    "IN-23-02150": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Chung",
+            "DIRECTION_CN": "葵涌",
+            "NEAR_LANDMARK_EN": "Lai Chi Kok Park",
+            "NEAR_LANDMARK_CN": "荔枝角公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-05-29T16:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80704",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwai Chung bound) near Lai Chi Kok Park is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，呈祥道(往葵涌方向)近荔枝角公園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2023-05-29T16:09:47",
+        "last_announcement": "2023-05-29T16:01:00"
     }
 }
