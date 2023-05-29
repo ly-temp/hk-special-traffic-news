@@ -950,11 +950,18 @@
                 "ID": "80687",
                 "CONTENT_EN": "Princess Margaret Road (Cross Harbour Tunnel bound) is busy. Motorists passing through the above road section is advised to drive with utmost care and patience.",
                 "CONTENT_CN": "公主道(往海底隧道方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2023-05-29T10:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80693",
+                "CONTENT_EN": "Traffic at Princess Margaret Road (Cross Harbour Tunnel bound) has resumed normal.",
+                "CONTENT_CN": "公主道(往海底隧道方向)的交通現已恢復正常。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2023-05-29T09:42:18",
-        "last_announcement": "2023-05-29T09:05:00"
+        "last_update": "2023-05-29T10:50:07",
+        "last_announcement": "2023-05-29T10:28:00"
     },
     "IN-23-02142": {
         "description": {
@@ -994,5 +1001,37 @@
         "district": "油尖旺區",
         "last_update": "2023-05-29T10:30:45",
         "last_announcement": "2023-05-29T10:13:00"
+    },
+    "IN-23-02143": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Gascoigne Road",
+            "LOCATION_CN": "加士居道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom",
+            "DIRECTION_CN": "紅磡",
+            "NEAR_LANDMARK_EN": "Methodist College",
+            "NEAR_LANDMARK_CN": "循道中學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-05-29T10:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80692",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Gascoigne Road (Hung Hom bound) near Methodist College is closed to all traffic. \nOnly remaining lanes are available to motorists.",
+                "CONTENT_CN": "因水管緊急維修，加士居道(往紅磡方向)近循道中學的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-05-29T10:50:07",
+        "last_announcement": "2023-05-29T10:27:00"
     }
 }
