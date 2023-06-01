@@ -2446,11 +2446,18 @@
                 "ID": "80840",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of San Tin Highway (Sheung Shui bound) near Mai Po San Tsuen is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on San Tin Highway (Sheung Shui bound) ends at Yuen Long Highway near Sham Chung Tsuen.   Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，新田公路(往上水方向)近米埔新村的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在新田公路(往上水方向)的車龍龍尾已到元朗公路近深涌村。  現時上址交通擠塞。"
+            },
+            "2023-06-01T10:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80847",
+                "CONTENT_EN": "Part of the lanes of San Tin Highway (Sheung Shui bound) near Mai Po San Tsuen which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的新田公路(往上水方向)近米埔新村的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "元朗區",
-        "last_update": "2023-06-01T10:55:52",
-        "last_announcement": "2023-06-01T10:06:00"
+        "last_update": "2023-06-01T11:29:12",
+        "last_announcement": "2023-06-01T10:59:00"
     },
     "IN-23-02207": {
         "description": {
@@ -2556,10 +2563,17 @@
                 "ID": "80841",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近觀塘碼頭的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-01T10:53:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "80846",
+                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近觀塘碼頭的慢線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-06-01T10:55:52",
-        "last_announcement": "2023-06-01T10:19:00"
+        "last_update": "2023-06-01T11:29:12",
+        "last_announcement": "2023-06-01T10:53:00"
     }
 }
