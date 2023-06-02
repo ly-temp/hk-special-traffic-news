@@ -2433,5 +2433,37 @@
         "district": "中西區",
         "last_update": "2023-06-02T19:22:44",
         "last_announcement": "2023-06-02T19:15:00"
+    },
+    "IN-23-02239": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "To Kwa Wan",
+            "DIRECTION_CN": "土瓜灣",
+            "NEAR_LANDMARK_EN": "Winslow Street",
+            "NEAR_LANDMARK_CN": "溫思勞街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T19:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80908",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (To Kwa Wan bound) near Winslow Street are closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道北(往土瓜灣方向)近溫思勞街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2023-06-02T20:19:55",
+        "last_announcement": "2023-06-02T19:52:00"
     }
 }
