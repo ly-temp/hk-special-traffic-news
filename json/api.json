@@ -77,45 +77,6 @@
         "last_update": "2023-05-30T17:15:44",
         "last_announcement": "2023-05-30T16:51:00"
     },
-    "IN-23-02171": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "So Uk Estate",
-            "NEAR_LANDMARK_CN": "蘇屋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-30T16:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80752",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Lung Cheung Road (Kwun Tong bound) near So Uk Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近蘇屋邨的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-05-30T16:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80753",
-                "CONTENT_EN": "The fast lane of Lung Cheung Road (Kwun Tong bound) near So Uk Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往觀塘方向)近蘇屋邨的快線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-05-30T16:57:15",
-        "last_announcement": "2023-05-30T16:40:00"
-    },
     "IN-23-02162": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2426,5 +2387,69 @@
         "district": "沙田區",
         "last_update": "2023-06-02T16:21:31",
         "last_announcement": "2023-06-02T15:57:00"
+    },
+    "IN-23-02234": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Tsuen Tsing Interchange",
+            "NEAR_LANDMARK_CN": "荃青交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T16:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80895",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tsuen Wan Road (Tuen Mun bound) near Tsuen Tsing Interchange is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，荃灣路(往屯門方向)近荃青交匯處的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-06-02T17:08:09",
+        "last_announcement": "2023-06-02T16:57:00"
+    },
+    "IN-23-02233": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hoi Hing Road",
+            "LOCATION_CN": "海興路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Tai Chung Road",
+            "NEAR_LANDMARK_CN": "大涌道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T16:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80894",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hoi Hing Road (Tuen Mun bound) near Tai Chung Road roundabout is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，海興路(往屯門方向)近大涌道迴旋處的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2023-06-02T17:08:09",
+        "last_announcement": "2023-06-02T16:57:00"
     }
 }
