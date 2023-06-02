@@ -77,45 +77,6 @@
         "last_update": "2023-05-30T17:15:44",
         "last_announcement": "2023-05-30T16:51:00"
     },
-    "IN-23-02170": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road West",
-            "LOCATION_CN": "太子道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Grand Century Place",
-            "NEAR_LANDMARK_CN": "新世紀廣場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-30T15:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80750",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near Grand Century Place is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，太子道西(往大角咀方向)近新世紀廣場的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-05-30T15:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80751",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near Grand Century Place which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道西(往大角咀方向)近新世紀廣場的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2023-05-30T16:08:52",
-        "last_announcement": "2023-05-30T15:55:00"
-    },
     "IN-23-02171": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2382,10 +2343,88 @@
                 "ID": "80889",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Kowloon City bound) near Pitt Street are closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往九龍城方向)近碧街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-02T15:54:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "80891",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Kowloon City bound) near Pitt Street which were closed due to traffic accident are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往九龍城方向)近碧街的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2023-06-02T15:58:12",
-        "last_announcement": "2023-06-02T15:46:00"
+        "last_update": "2023-06-02T16:21:31",
+        "last_announcement": "2023-06-02T15:54:00"
+    },
+    "IN-23-02231": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "How Ming Street",
+            "LOCATION_CN": "巧明街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hoi Bun Road",
+            "NEAR_LANDMARK_CN": "海濱道",
+            "BETWEEN_LANDMARK_EN": "Wai Yip Street",
+            "BETWEEN_LANDMARK_CN": "偉業街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T15:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80890",
+                "CONTENT_EN": "Due to traffic accident , the only lane of How Ming Street between Hoi Bun Road and Wai Yip Street is closed to all traffic.   Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因交通意外，巧明街介乎海濱道與偉業街之間的唯一行車線現已封閉。  駕駛人士請考慮改用其他道路。"
+            },
+            "2023-06-02T16:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80893",
+                "CONTENT_EN": "The only lane of How Ming Street  between Hoi Bun Road and Wai Yip Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的巧明街介乎海濱道與偉業街之間的唯一行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-06-02T16:21:31",
+        "last_announcement": "2023-06-02T16:10:00"
+    },
+    "IN-23-02232": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
+            "INCIDENT_DETAIL_CN": "車輛着火",
+            "LOCATION_EN": "Yuen Wo Road",
+            "LOCATION_CN": "源禾路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Fo Tan",
+            "DIRECTION_CN": "火炭",
+            "NEAR_LANDMARK_EN": "Sha Tin Rural Committee Road",
+            "NEAR_LANDMARK_CN": "沙田鄉事會路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T15:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80892",
+                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Yuen Wo Road (Fo Tan bound) near Sha Tin Rural Committee Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛着火，源禾路(往火炭方向)近沙田鄉事會路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2023-06-02T16:21:31",
+        "last_announcement": "2023-06-02T15:57:00"
     }
 }
