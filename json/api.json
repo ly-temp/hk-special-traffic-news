@@ -38,45 +38,6 @@
         "last_update": "2023-05-31T16:59:59",
         "last_announcement": "2023-05-31T16:50:00"
     },
-    "IN-23-02173": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Cheung Sha Wan Road",
-            "LOCATION_CN": "長沙灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mei Foo",
-            "DIRECTION_CN": "美孚",
-            "NEAR_LANDMARK_EN": "Tai Nan West Street",
-            "NEAR_LANDMARK_CN": "大南西街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-30T18:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80758",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Cheung Sha Wan Road (Mei Foo bound) near Tai Nan West Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，長沙灣道(往美孚方向)近大南西街的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-05-30T18:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80761",
-                "CONTENT_EN": "The slow lane of Cheung Sha Wan Road (Mei Foo bound) near Tai Nan West Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的長沙灣道(往美孚方向)近大南西街的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-05-30T19:15:13",
-        "last_announcement": "2023-05-30T18:59:00"
-    },
     "IN-23-02174": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2389,11 +2350,18 @@
                 "ID": "80901",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Kwai Chung bound) near Elizabethan Court is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往葵涌方向)近依利沙伯大廈的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-02T19:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80906",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Kwai Chung bound) near Elizabethan Court which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往葵涌方向)近依利沙伯大廈的慢線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2023-06-02T18:07:29",
-        "last_announcement": "2023-06-02T17:56:00"
+        "last_update": "2023-06-02T19:22:44",
+        "last_announcement": "2023-06-02T19:10:00"
     },
     "IN-23-02237": {
         "description": {
@@ -2492,10 +2460,17 @@
                 "ID": "80905",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Garden Road (Wan Chai bound) near Queensway is closed to all traffic. Only remaining lane(s) is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，花園道(往灣仔方向)近金鐘道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2023-06-02T19:15:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "80907",
+                "CONTENT_EN": "The slow lane of Garden Road (Wan Chai bound) near Queensway which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的花園道(往灣仔方向)近金鐘道的慢線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2023-06-02T19:12:45",
-        "last_announcement": "2023-06-02T18:55:00"
+        "last_update": "2023-06-02T19:22:44",
+        "last_announcement": "2023-06-02T19:15:00"
     }
 }
