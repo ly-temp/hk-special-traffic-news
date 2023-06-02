@@ -38,59 +38,6 @@
         "last_update": "2023-05-31T16:59:59",
         "last_announcement": "2023-05-31T16:50:00"
     },
-    "IN-23-02159": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Tai Hang Road",
-            "LOCATION_CN": "大坑道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Wang Fung Terrace",
-            "NEAR_LANDMARK_CN": "宏豐臺",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-30T09:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80729",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Tai Hang Road (both bounds) near Wang Fung Terrace are closed to all traffic. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，大坑道(來回方向)近宏豐臺的全線現已封閉。 現時上址交通繁忙。"
-            },
-            "2023-05-30T09:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80731",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Tai Hang Road (both bounds) between Wang Fung Terrace and Tai Hang Drive are still being closed to all traffic.   Members of the public are advised to pay attention to radio / TV announcements on traffic conditions.",
-                "CONTENT_CN": "因塌樹，大坑道(來回方向)介乎宏豐臺與大坑徑之間的全線仍然封閉。  市民請留意電台/電視廣播的最新交通情況。"
-            },
-            "2023-05-30T11:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80744",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Tai Hang Road (both bounds) between Wang Fung Terrace and Tai Hang Drive are still being closed to all traffic.   Affected bus routes 11, 41A and 63 have been diverted.   Members of the public are advised to pay attention to radio / TV announcements on traffic conditions.",
-                "CONTENT_CN": "因塌樹，大坑道(來回方向)介乎宏豐臺與大坑徑之間的全線仍然封閉。  受影響巴士路線11、41A及63須改道行駛。  市民請留意電台/電視廣播的最新交通情況。"
-            },
-            "2023-05-30T14:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80746",
-                "CONTENT_EN": "All lanes of Tai Hang Road (both bounds) between Wang Fung Terrace and Tai Hang Drive which was closed due to fallen tree is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因塌樹而封閉的大坑道(來回方向)介乎宏豐臺與大坑徑之間的全線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2023-05-30T14:43:58",
-        "last_announcement": "2023-05-30T14:31:00"
-    },
     "IN-23-02167": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
