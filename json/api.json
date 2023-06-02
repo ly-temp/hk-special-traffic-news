@@ -91,84 +91,6 @@
         "last_update": "2023-05-30T14:43:58",
         "last_announcement": "2023-05-30T14:31:00"
     },
-    "IN-23-02160": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Wo Che Estate",
-            "NEAR_LANDMARK_CN": "禾輋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-30T09:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80730",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po Road - Sha Tin (Sheung Shui bound) near Wo Che Estate is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往上水方向)近禾輋邨的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-05-30T09:31:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "80732",
-                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Sheung Shui bound) near Wo Che Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往上水方向)近禾輋邨的慢線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-05-30T10:12:21",
-        "last_announcement": "2023-05-30T09:31:00"
-    },
-    "IN-23-02161": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Victoria Park Road",
-            "LOCATION_CN": "維園道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "North Point",
-            "DIRECTION_CN": "北角",
-            "NEAR_LANDMARK_EN": "Causeway Bay Typhoon Shelter",
-            "NEAR_LANDMARK_CN": "銅鑼灣避風塘",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-30T09:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80733",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Victoria Park Road (North Point bound) near Causeway Bay Typhoon Shelter is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，維園道(往北角方向)近銅鑼灣避風塘的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-05-30T09:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80735",
-                "CONTENT_EN": "Part of the lanes of Victoria Park Road (North Point bound) near Causeway Bay Typhoon Shelter which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的維園道(往北角方向)近銅鑼灣避風塘的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-05-30T10:12:21",
-        "last_announcement": "2023-05-30T09:54:00"
-    },
     "IN-23-02163": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2412,5 +2334,200 @@
         "district": "葵青區",
         "last_update": "2023-06-02T09:12:10",
         "last_announcement": "2023-06-02T08:29:00"
+    },
+    "IN-23-02221": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wai Yip Street Flyover",
+            "LOCATION_CN": "偉業街天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Kai Yip Estate",
+            "NEAR_LANDMARK_CN": "啟業邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T09:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80872",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wai Yip Street Flyover (Kwun Tong bound) near Kai Yip Estate is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，偉業街天橋(往觀塘方向)近啟業邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-02T09:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80875",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wai Yip Street Flyover (Kwun Tong bound) near Kai Yip Estate is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Wai Yip Street Flyover (Kwun Tong bound) ends at Lung Cheung Road near Wong Tai Sin MTR Station.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，偉業街天橋(往觀塘方向)近啟業邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在偉業街天橋(往觀塘方向)的車龍龍尾已到龍翔道近黃大仙港鐵站。  現時上址交通擠塞。"
+            },
+            "2023-06-02T09:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80880",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wai Yip Street Flyover (Kwun Tong bound) near Kai Yip Estate is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Wai Yip Street Flyover (Kwun Tong bound) ends at Lung Cheung Road near Lung Cheung Road Lookout.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，偉業街天橋(往觀塘方向)近啟業邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在偉業街天橋(往觀塘方向)的車龍龍尾已到龍翔道近龍翔道眺望處。  現時上址交通擠塞。"
+            },
+            "2023-06-02T09:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80881",
+                "CONTENT_EN": "Part of the lanes of Wai Yip Street Flyover (Kwun Tong bound) near Kai Yip Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的偉業街天橋(往觀塘方向)近啟業邨的部份行車線現已解封。車龍有待消散。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-06-02T10:34:18",
+        "last_announcement": "2023-06-02T09:37:00"
+    },
+    "IN-23-02224": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Playground",
+            "NEAR_LANDMARK_CN": "龍翔道遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T09:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80878",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Playground is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道遊樂場的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-02T10:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80883",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Playground which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近龍翔道遊樂場的慢線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2023-06-02T10:34:18",
+        "last_announcement": "2023-06-02T10:01:00"
+    },
+    "IN-23-02222": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Shing Mun Tunnel Road",
+            "LOCATION_CN": "城門隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": "Hong Kong Heritage Museum",
+            "NEAR_LANDMARK_CN": "香港文化博物館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T09:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80877",
+                "CONTENT_EN": "Part of the lanes of Shing Mun Tunnel Road (Sha Tin bound) near Hong Kong Heritage Museum which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的城門隧道公路(往沙田方向)近香港文化博物館的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2023-06-02T10:34:18",
+        "last_announcement": "2023-06-02T09:24:00"
+    },
+    "IN-23-02225": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kowloon Flour Mills",
+            "NEAR_LANDMARK_CN": "九龍麵粉廠",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T09:29:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80879",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近九龍麵粉廠的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-02T09:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80882",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Kwun Tong Bypass (Yau Tong bound) ends at Kwun Tong Bypass near Electrical And Mechanical Services Department Headquarters.   Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近九龍麵粉廠的慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在觀塘繞道(往油塘方向)的車龍龍尾已到觀塘繞道近機電工程署總部大樓。  現時上址交通擠塞。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2023-06-02T10:34:18",
+        "last_announcement": "2023-06-02T09:45:00"
+    },
+    "IN-23-02223": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Argyle Street",
+            "LOCATION_CN": "亞皆老街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Kok Tsui",
+            "DIRECTION_CN": "大角咀",
+            "NEAR_LANDMARK_EN": "Nathan Road",
+            "NEAR_LANDMARK_CN": "彌敦道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-02T09:21:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "80876",
+                "CONTENT_EN": "Part of the lanes of Argyle Street (Tai Kok Tsui bound) near Nathan Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街(往大角咀方向)近彌敦道的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-06-02T10:34:18",
+        "last_announcement": "2023-06-02T09:21:00"
     }
 }
