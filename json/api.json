@@ -2107,5 +2107,37 @@
         "district": "黃大仙區",
         "last_update": "2023-06-03T11:10:17",
         "last_announcement": "2023-06-03T10:50:00"
+    },
+    "IN-23-02242": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-03T12:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80914",
+                "CONTENT_EN": "Due to emergency repair of road surface, vehicles of length exceeding 7 meters travelling on Canal Road East are prohibited to make left turning onto Yiu Wa Street. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，車長超逾七米的車輛不能由堅拿道東左轉入耀華街。 現時上址交通繁忙。"
+            }
+        },
+        "district": null,
+        "last_update": "2023-06-03T13:16:18",
+        "last_announcement": "2023-06-03T12:49:00"
     }
 }
