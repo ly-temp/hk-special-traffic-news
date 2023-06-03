@@ -38,45 +38,6 @@
         "last_update": "2023-05-31T20:34:17",
         "last_announcement": "2023-05-31T19:54:00"
     },
-    "IN-23-02195": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Tuen Mun Town Plaza",
-            "NEAR_LANDMARK_CN": "屯門市廣場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-31T19:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80809",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tuen Mun Road (Yuen Long bound) near Tuen Mun Town Plaza is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近屯門市廣場的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-05-31T19:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80810",
-                "CONTENT_EN": "The fast lane of Tuen Mun Road (Yuen Long bound) near Tuen Mun Town Plaza which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往元朗方向)近屯門市廣場的快線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2023-05-31T19:57:20",
-        "last_announcement": "2023-05-31T19:47:00"
-    },
     "IN-23-02197": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2196,5 +2157,44 @@
         "district": "九龍城區",
         "last_update": "2023-06-03T17:36:22",
         "last_announcement": "2023-06-03T17:18:00"
+    },
+    "IN-23-02253": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Argyle Street",
+            "LOCATION_CN": "亞皆老街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon City",
+            "DIRECTION_CN": "九龍城",
+            "NEAR_LANDMARK_EN": "Tong Mi Road",
+            "NEAR_LANDMARK_CN": "塘尾道",
+            "BETWEEN_LANDMARK_EN": "Reclamation Street",
+            "BETWEEN_LANDMARK_CN": "新填地街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-03T19:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80931",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Argyle Street (Kowloon City bound) between Tong Mi Road and Reclamation Street are closed to all traffic.   Affected KMB bus routes 18,241X,33A,37,52X,66X,72X,87B,265B, N293,270P,272X have been diverted.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，亞皆老街(往九龍城方向)介乎塘尾道與新填地街之間的全線現已封閉。  受影響九巴路線18,241X,33A,37,52X,66X,72X,87B,265B,N293,270P,272X 須改道行駛。  現時上址交通繁忙。"
+            },
+            "2023-06-03T20:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80932",
+                "CONTENT_EN": "Due to watermain burst, vehicles on Cherry Street (Kowloon City bound) have to turn left onto Tong Mei Road, and cannot travel straight to Argyle Street. Affected bus route(s) has(have) been diverted. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，在櫻桃街往九龍城方向的車輛必須左轉入塘尾道，而不能直駛往亞皆老街。 受影響巴士路線須改道行駛。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-06-03T20:24:40",
+        "last_announcement": "2023-06-03T20:06:00"
     }
 }
