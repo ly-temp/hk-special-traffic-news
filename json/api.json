@@ -38,84 +38,6 @@
         "last_update": "2023-05-31T16:59:59",
         "last_announcement": "2023-05-31T16:50:00"
     },
-    "IN-23-02185": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Lion Rock Tunnel",
-            "NEAR_LANDMARK_CN": "獅子山隧道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-31T09:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80786",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Kwun Tong bound) near Lion Rock Tunnel is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近獅子山隧道的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-05-31T09:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80790",
-                "CONTENT_EN": "The fast lane of Lung Cheung Road (Kwun Tong bound) near Lion Rock Tunnel which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近獅子山隧道的快線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-05-31T10:46:31",
-        "last_announcement": "2023-05-31T09:47:00"
-    },
-    "IN-23-02186": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Hong Ning Road",
-            "NEAR_LANDMARK_CN": "康寧道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-31T09:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80787",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Ning Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近康寧道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-05-31T09:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80789",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Ning Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近康寧道的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2023-05-31T10:46:31",
-        "last_announcement": "2023-05-31T09:41:00"
-    },
     "IN-23-02187": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2185,5 +2107,37 @@
         "district": "九龍城區",
         "last_update": "2023-06-02T21:39:38",
         "last_announcement": "2023-06-02T21:21:00"
+    },
+    "IN-23-02241": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
+            "NEAR_LANDMARK_CN": "龍翔道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-03T10:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80912",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Waterloo Road (Lion Rock Tunnel bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lane(s) is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，窩打老道(往獅子山隧道方向)近龍翔道公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2023-06-03T10:53:56",
+        "last_announcement": "2023-06-03T10:25:00"
     }
 }
