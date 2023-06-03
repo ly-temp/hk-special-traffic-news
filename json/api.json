@@ -1,43 +1,4 @@
 {
-    "IN-23-02197": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Hillier Street",
-            "LOCATION_CN": "禧利街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Shun Tak Centre",
-            "DIRECTION_CN": "信德中心",
-            "NEAR_LANDMARK_EN": "Connaught Road Central",
-            "NEAR_LANDMARK_CN": "干諾道中",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-05-31T20:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80813",
-                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Hillier Street (Shun Tak Centre bound) near Connaught Road Central is closed to all traffic. \nOnly remaining lanes are available to motorists.",
-                "CONTENT_CN": "因水管緊急維修，禧利街(往信德中心方向)近干諾道中的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
-            },
-            "2023-06-01T07:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80816",
-                "CONTENT_EN": "The fast lane of Hillier Street (Shun Tak Centre bound) near Connaught Road Central which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的禧利街(往信德中心方向)近干諾道中的快線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2023-06-01T07:42:55",
-        "last_announcement": "2023-06-01T07:27:00"
-    },
     "IN-23-02196": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
