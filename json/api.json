@@ -844,11 +844,18 @@
                 "ID": "80915",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Po Kong Village Road (Choi Hung Road bound) near Wong Tai Sin Telephone Exchange is closed to all traffic. \nOnly remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，蒲崗村道(往彩虹道方向)近黃大仙電話機樓的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            },
+            "2023-06-05T06:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80947",
+                "CONTENT_EN": "Part of the lanes of Po Kong Village Road (Choi Hung Road bound) near Wong Tai Sin Telephone Exchange which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的蒲崗村道(往彩虹道方向)近黃大仙電話機樓的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2023-06-03T13:26:21",
-        "last_announcement": "2023-06-03T13:13:00"
+        "last_update": "2023-06-05T06:33:41",
+        "last_announcement": "2023-06-05T06:19:00"
     },
     "IN-23-02244": {
         "description": {
@@ -993,11 +1000,18 @@
                 "ID": "80922",
                 "CONTENT_EN": "Due to emergency repair of road surface , the middle lane of Lung Cheung Road (Tsuen Wan bound) near Tai Hom Substation is closed to all traffic. \nOnly remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，龍翔道(往荃灣方向)近大磡變電站的中線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            },
+            "2023-06-05T06:15:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "80945",
+                "CONTENT_EN": "The middle lane of Lung Cheung Road (Tsuen Wan bound) near Tai Hom Substation which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的龍翔道(往荃灣方向)近大磡變電站的中線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-06-03T15:26:15",
-        "last_announcement": "2023-06-03T15:12:00"
+        "last_update": "2023-06-05T06:33:41",
+        "last_announcement": "2023-06-05T06:15:00"
     },
     "IN-23-02249": {
         "description": {
