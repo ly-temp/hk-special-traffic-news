@@ -1,43 +1,4 @@
 {
-    "IN-23-02232": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Yuen Wo Road",
-            "LOCATION_CN": "源禾路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Fo Tan",
-            "DIRECTION_CN": "火炭",
-            "NEAR_LANDMARK_EN": "Sha Tin Rural Committee Road",
-            "NEAR_LANDMARK_CN": "沙田鄉事會路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-02T15:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80892",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Yuen Wo Road (Fo Tan bound) near Sha Tin Rural Committee Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，源禾路(往火炭方向)近沙田鄉事會路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-02T17:00:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "80896",
-                "CONTENT_EN": "Part of the lanes of Yuen Wo Road (Fo Tan bound) near Sha Tin Rural Committee Road which was closed due to vehicle on fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的源禾路(往火炭方向)近沙田鄉事會路的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-06-02T17:21:23",
-        "last_announcement": "2023-06-02T17:00:00"
-    },
     "IN-23-02234": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1500,11 +1461,18 @@
                 "ID": "80976",
                 "CONTENT_EN": "Due to emergency incident, vehicles on Kweilin Street are still prohibited to make right turning onto Yu Chau Street. Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，沿桂林街的車輛仍然不能右轉入汝州街。 現時上址交通繁忙。"
+            },
+            "2023-06-05T17:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80992",
+                "CONTENT_EN": "The banning of right turning of vehicles from Kweilin Street onto Yu Chau Street due to emergency incident is cancelled.",
+                "CONTENT_CN": "較早前因突發事件，沿桂林街的車輛不能右轉入汝州街的交通安排經已取消。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-06-05T12:27:03",
-        "last_announcement": "2023-06-05T12:17:00"
+        "last_update": "2023-06-05T17:28:28",
+        "last_announcement": "2023-06-05T17:02:00"
     },
     "IN-23-02275": {
         "description": {
