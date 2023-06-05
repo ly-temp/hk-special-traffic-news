@@ -1766,10 +1766,49 @@
                 "ID": "80984",
                 "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Ching Cheung Road (Kwai Chung bound) near Caritas Medical Centre is closed to all traffic. \nOnly the middle and slow lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，呈祥道(往葵涌方向)近明愛醫院的快線現已封閉。\n駕駛人士只可使用中線及慢線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-05T15:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "80986",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Ching Cheung Road (Kwai Chung bound) near Caritas Medical Centre is still being closed to all traffic. Only the middle and slow lanes are available to motorists. Traffic queue on Ching Cheung Road (Kwai Chung bound) ends at Lung Cheung Road near Lung Cheung Road Lookout. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，呈祥道(往葵涌方向)近明愛醫院的快線仍然封閉。 駕駛人士只可使用中線及慢線行車。 現時在呈祥道(往葵涌方向)的車龍龍尾已到龍翔道近龍翔道眺望處。 現時上址交通擠塞。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-06-05T14:44:49",
-        "last_announcement": "2023-06-05T14:32:00"
+        "last_update": "2023-06-05T15:21:47",
+        "last_announcement": "2023-06-05T15:05:00"
+    },
+    "IN-23-02279": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kowloon Flour Mills",
+            "NEAR_LANDMARK_CN": "九龍麵粉廠",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-05T15:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "80987",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is closed to all traffic. Only the fast and middle lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近九龍麵粉廠的慢線現已封閉。 駕駛人士只可使用快線及中線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2023-06-05T15:21:47",
+        "last_announcement": "2023-06-05T15:11:00"
     }
 }
