@@ -1879,11 +1879,18 @@
                 "ID": "81019",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Phoenix House is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近豐力樓的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-06T14:34:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81023",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Phoenix House which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近豐力樓的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2023-06-06T14:16:16",
-        "last_announcement": "2023-06-06T13:55:00"
+        "last_update": "2023-06-06T14:50:36",
+        "last_announcement": "2023-06-06T14:34:00"
     },
     "IN-23-02297": {
         "description": {
@@ -1911,10 +1918,17 @@
                 "ID": "81020",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wai Yip Street (Mong Kok bound) near Telford Gardens is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，偉業街(往旺角方向)近德福花園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-06T14:33:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81022",
+                "CONTENT_EN": "Part of the lanes of Wai Yip Street (Mong Kok bound) near Telford Gardens which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的偉業街(往旺角方向)近德福花園的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-06-06T14:16:16",
-        "last_announcement": "2023-06-06T14:03:00"
+        "last_update": "2023-06-06T14:50:36",
+        "last_announcement": "2023-06-06T14:33:00"
     }
 }
