@@ -116,45 +116,6 @@
         "last_update": "2023-06-03T19:24:56",
         "last_announcement": "2023-06-03T19:15:00"
     },
-    "IN-23-02252": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Victory Avenue",
-            "NEAR_LANDMARK_CN": "勝利道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-03T17:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80928",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Argyle Street (Yau Ma Tei bound) near Victory Avenue is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，亞皆老街(往油麻地方向)近勝利道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-03T17:18:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "80929",
-                "CONTENT_EN": "Part of the lanes of Argyle Street (Yau Ma Tei bound) near Victory Avenue which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街(往油麻地方向)近勝利道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2023-06-03T17:36:22",
-        "last_announcement": "2023-06-03T17:18:00"
-    },
     "IN-23-02253": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1854,11 +1815,18 @@
                 "ID": "81031",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近龍翔工業大廈的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-06T17:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81033",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往荃灣方向)近龍翔工業大廈的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-06-06T17:32:30",
-        "last_announcement": "2023-06-06T17:16:00"
+        "last_update": "2023-06-06T17:42:53",
+        "last_announcement": "2023-06-06T17:31:00"
     },
     "IN-23-02303": {
         "description": {
@@ -1891,5 +1859,37 @@
         "district": "沙田區",
         "last_update": "2023-06-06T17:32:30",
         "last_announcement": "2023-06-06T17:22:00"
+    },
+    "IN-23-02304": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Tai Po Tsai Village",
+            "NEAR_LANDMARK_CN": "大埔仔村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-06T17:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81034",
+                "CONTENT_EN": "Due to fallen tree , all lanes of Clear Water Bay Road (both bounds) near Tai Po Tsai Village are closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因塌樹，清水灣道(來回方向)近大埔仔村的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2023-06-06T17:42:53",
+        "last_announcement": "2023-06-06T17:31:00"
     }
 }
