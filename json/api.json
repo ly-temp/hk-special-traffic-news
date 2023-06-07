@@ -2244,11 +2244,18 @@
                 "ID": "81058",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Tuen Mun Road (Kowloon bound) near Ting Kau is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近汀九的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-07T07:51:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81060",
+                "CONTENT_EN": "The slow lane of Tuen Mun Road (Kowloon bound) near Ting Kau which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近汀九的慢線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2023-06-07T07:14:39",
-        "last_announcement": "2023-06-07T06:58:00"
+        "last_update": "2023-06-07T09:24:11",
+        "last_announcement": "2023-06-07T07:51:00"
     },
     "IN-23-02316": {
         "description": {
@@ -2276,10 +2283,141 @@
                 "ID": "81059",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Pok Fu Lam Road (Central bound) near Mount Davis Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，薄扶林道(往中環方向)近摩星嶺道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-07T07:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81061",
+                "CONTENT_EN": "Part of the lanes of Pok Fu Lam Road (Central bound) near Mount Davis Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的薄扶林道(往中環方向)近摩星嶺道的部份行車線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2023-06-07T07:55:23",
-        "last_announcement": "2023-06-07T07:43:00"
+        "last_update": "2023-06-07T09:24:11",
+        "last_announcement": "2023-06-07T07:57:00"
+    },
+    "IN-23-02317": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "San Tin Highway",
+            "LOCATION_CN": "新田公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Pok Wai",
+            "NEAR_LANDMARK_CN": "壆圍",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-07T08:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81062",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of San Tin Highway (Sheung Shui bound) near Pok Wai is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，新田公路(往上水方向)近壆圍的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-07T08:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81063",
+                "CONTENT_EN": "The fast lane of San Tin Highway (Sheung Shui bound) near Pok Wai which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的新田公路(往上水方向)近壆圍的快線現已解封。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2023-06-07T09:24:11",
+        "last_announcement": "2023-06-07T08:26:00"
+    },
+    "IN-23-02318": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "North West Tsing Yi Interchange",
+            "LOCATION_CN": "青衣西北交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tsing Yi Administration Building",
+            "NEAR_LANDMARK_CN": "青衣行政大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-07T08:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81064",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of North West Tsing Yi Interchange (Kowloon bound) near Tsing Yi Administration Building is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青衣西北交匯處(往九龍方向)近青衣行政大樓的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-07T08:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81065",
+                "CONTENT_EN": "Part of the lanes of North West Tsing Yi Interchange (Kowloon bound) near Tsing Yi Administration Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青衣西北交匯處(往九龍方向)近青衣行政大樓的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2023-06-07T09:24:11",
+        "last_announcement": "2023-06-07T08:32:00"
+    },
+    "IN-23-02319": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kwun Tong Public Pier",
+            "NEAR_LANDMARK_CN": "觀塘公衆碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-07T08:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81066",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Public Pier is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近觀塘公衆碼頭的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-07T08:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81067",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Public Pier is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Kwun Tong Bypass (Yau Tong bound) ends at Kwun Tong Bypass near EMSD Headquarters.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近觀塘公衆碼頭的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在觀塘繞道(往油塘方向)的車龍龍尾已到觀塘繞道近機電工程署總部大樓。  現時上址交通擠塞。"
+            },
+            "2023-06-07T09:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81068",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Public Pier which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近觀塘公衆碼頭的部份行車線現已解封。車龍有待消散。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-06-07T09:24:11",
+        "last_announcement": "2023-06-07T09:10:00"
     }
 }
