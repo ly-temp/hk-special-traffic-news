@@ -123,91 +123,6 @@
         "last_update": "2023-06-05T06:43:45",
         "last_announcement": "2023-06-05T06:24:00"
     },
-    "IN-23-02254": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Scaffolding",
-            "INCIDENT_DETAIL_CN": "棚架倒塌",
-            "LOCATION_EN": "Chuen Lung Street",
-            "LOCATION_CN": "川龍街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tsui Road",
-            "DIRECTION_CN": "沙咀道",
-            "NEAR_LANDMARK_EN": "San Tsuen Street",
-            "NEAR_LANDMARK_CN": "新村街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-04T03:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80933",
-                "CONTENT_EN": "Due to fallen scaffolding , all lanes of Chuen Lung Street (Sha Tsui Road bound) near San Tsuen Street are closed to all traffic.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因棚架倒塌，川龍街(往沙咀道方向)近新村街的全線現已封閉。  駕駛人士請考慮改用其他道路。"
-            },
-            "2023-06-04T09:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80934",
-                "CONTENT_EN": "All lanes of Chuen Lung Street (Sha Tsui Road bound) near San Tsuen Street which was closed due to fallen scaffolding is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因棚架倒塌而封閉的川龍街(往沙咀道方向)近新村街的全線現已解封。"
-            },
-            "2023-06-04T09:56:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "80937",
-                "CONTENT_EN": "All lanes of Chuen Lung Street (Sha Tsui Road bound) near San Tsuen Street which was closed due to fallen scaffolding is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因棚架倒塌而封閉的川龍街(往沙咀道方向)近新村街的全線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2023-06-04T11:01:10",
-        "last_announcement": "2023-06-04T09:56:00"
-    },
-    "IN-23-02255": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-04T10:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80938",
-                "CONTENT_EN": "Due to traffic accident, the only lane of the slip road leading from Aberdeen Tunnel (Wan Chai bound) to Wong Nai Chung Gap Road is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因交通意外，由香港仔隧道(灣仔方向)往黃泥涌峽道的支路唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2023-06-04T10:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80940",
-                "CONTENT_EN": "The only lane of the slip road leading from Aberdeen Tunnel (Wan Chai bound) to Wong Nai Chung Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的由香港仔隧道(灣仔方向)往黃泥涌道的支路唯一行車線現已解封。"
-            }
-        },
-        "district": null,
-        "last_update": "2023-06-04T11:01:10",
-        "last_announcement": "2023-06-04T10:30:00"
-    },
     "IN-23-02257": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2453,11 +2368,25 @@
                 "ID": "81073",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kai Cheung Road (Kai Tak Tunnel bound) near Wang Chiu Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Kai Cheung Road (Kai Tak Tunnel bound) ends at Lung Cheung Road near Tin Ma Court.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，啓祥道(往啟德隧道方向)近宏照道的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在啓祥道(往啟德隧道方向)的車龍龍尾已到龍翔道近天馬苑。  現時上址交通擠塞。"
+            },
+            "2023-06-07T10:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81076",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kai Cheung Road (Kai Tak Tunnel bound) near Wang Chiu Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Kai Cheung Road (Kai Tak Tunnel bound) ends at Lung Cheung Road near Phoenix House.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，啓祥道(往啟德隧道方向)近宏照道的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在啓祥道(往啟德隧道方向)的車龍龍尾已到龍翔道近豐力樓。  現時上址交通擠塞。"
+            },
+            "2023-06-07T10:54:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81077",
+                "CONTENT_EN": "Part of the lanes of Kai Cheung Road (Kai Tak Tunnel bound) near Wang Chiu Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的啓祥道(往啟德隧道方向)近宏照道的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-06-07T10:43:08",
-        "last_announcement": "2023-06-07T10:08:00"
+        "last_update": "2023-06-07T11:10:23",
+        "last_announcement": "2023-06-07T10:54:00"
     },
     "IN-23-02322": {
         "description": {
@@ -2517,10 +2446,49 @@
                 "ID": "81074",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Tai Po Road - Sha Tin (Kowloon bound) near Fo Tan MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近火炭港鐵站的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-07T10:35:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81075",
+                "CONTENT_EN": "The fast lane of Tai Po Road - Sha Tin (Kowloon bound) near Fo Tan MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近火炭港鐵站的快線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-06-07T10:43:08",
-        "last_announcement": "2023-06-07T10:32:00"
+        "last_update": "2023-06-07T11:10:23",
+        "last_announcement": "2023-06-07T10:35:00"
+    },
+    "IN-23-02326": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon Bay",
+            "DIRECTION_CN": "九龍灣",
+            "NEAR_LANDMARK_EN": "Kai Yip Estate",
+            "NEAR_LANDMARK_CN": "啟業邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-07T10:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81078",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Kowloon Bay bound) near Kai Yip Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往九龍灣方向)近啟業邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-06-07T11:10:23",
+        "last_announcement": "2023-06-07T10:56:00"
     }
 }
