@@ -123,45 +123,6 @@
         "last_update": "2023-06-05T06:43:45",
         "last_announcement": "2023-06-05T06:24:00"
     },
-    "IN-23-02258": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Tram Incident",
-            "INCIDENT_HEADING_CN": "電車事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tram service disruption",
-            "LOCATION_CN": "電車服務受阻",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-04T21:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "80943",
-                "CONTENT_EN": "Due to traffic accident, both bounds tram services between Kennedy Town Terminus and Hill Road are suspended.",
-                "CONTENT_CN": "因交通意外，介乎堅尼地城總站及山道之間的來回方向電車服務暫停。"
-            },
-            "2023-06-04T21:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "80944",
-                "CONTENT_EN": "Both bounds tram services between Kennedy Town Terminus and Hill Road which were suspended due to traffic accident have been resumed.",
-                "CONTENT_CN": "較早前因交通意外而暫停的介乎堅尼地城總站與山道之間的來回方向電車服務現已恢復正常。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2023-06-04T22:16:01",
-        "last_announcement": "2023-06-04T21:54:00"
-    },
     "IN-23-02259": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
