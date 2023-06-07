@@ -2857,11 +2857,18 @@
                 "ID": "81101",
                 "CONTENT_EN": "Due to emergency incident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，呈祥道(往荃灣方向)近明愛醫院的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-07T17:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81104",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre which was closed due to emergency incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因突發事件而封閉的呈祥道(往荃灣方向)近明愛醫院的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-06-07T17:11:47",
-        "last_announcement": "2023-06-07T17:00:00"
+        "last_update": "2023-06-07T17:43:45",
+        "last_announcement": "2023-06-07T17:37:00"
     },
     "IN-23-02338": {
         "description": {
@@ -2889,10 +2896,17 @@
                 "ID": "81102",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Tuen Mun Road (Tsuen Wan bound) near Ting Kau are closed to all traffic. Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因交通意外，屯門公路(往荃灣方向)近汀九的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            },
+            "2023-06-07T17:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81103",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Tuen Mun Road (Tsuen Wan bound) near Ting Kau are closed to all traffic. \nMeanwhile, the fast lane of Tuen Mun Road (Tuen Mun bound) near Ting Kau is also closed.   Traffic queue on Tuen Mun Road (Tsuen Wan bound) ends at Tuen Mun Road (Tsuen Wan bound) near Sham Tseng.   Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因交通意外，屯門公路(往荃灣方向)近汀九的全線現已封閉。\n同時，屯門公路(往屯門方向)近汀九的快線亦已封閉。  現時在屯門公路(往荃灣方向)的車龍龍尾已到屯門公路(往荃灣方向)近深井。  駕駛人士請考慮改用其他道路。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2023-06-07T17:33:31",
-        "last_announcement": "2023-06-07T17:24:00"
+        "last_update": "2023-06-07T17:43:45",
+        "last_announcement": "2023-06-07T17:27:00"
     }
 }
