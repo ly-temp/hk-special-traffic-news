@@ -1533,3 +1533,5 @@ del: IN-23-02253
 20230608-0702[E]: HTTPSConnectionPool(host='s3-ap-southeast-1.amazonaws.com', port=443): Max retries exceeded with url: /historical-resource-archive/2023/06/07/https%253A%252F%252Fwww.td.gov.hk%252Ftc%252Fspecial_news%252Ftrafficnews.xml/1904 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f079b275720>, 'Connection to s3-ap-southeast-1.amazonaws.com timed out. (connect timeout=None)'))
 20230608-0708[E]: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
+2023-06-08 07:24:14
+
