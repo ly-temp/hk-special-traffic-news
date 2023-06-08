@@ -2917,10 +2917,49 @@
                 "ID": "81154",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Kowloon bound) near Tuen Mun Hospital is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近屯門醫院的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-08T16:07:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81157",
+                "CONTENT_EN": "The slow lane of Tuen Mun Road (Kowloon bound) near Tuen Mun Hospital which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近屯門醫院的慢線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2023-06-08T15:36:53",
-        "last_announcement": "2023-06-08T15:29:00"
+        "last_update": "2023-06-08T16:19:37",
+        "last_announcement": "2023-06-08T16:07:00"
+    },
+    "IN-23-02362": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "King's Road",
+            "LOCATION_CN": "英皇道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "North Point Road",
+            "NEAR_LANDMARK_CN": "北角道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-08T15:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81156",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of King's Road (Chai Wan bound) near North Point Road is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因車輛故障，英皇道(往柴灣方向)近北角道的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2023-06-08T16:19:37",
+        "last_announcement": "2023-06-08T15:57:00"
     }
 }
