@@ -2807,11 +2807,18 @@
                 "ID": "81143",
                 "CONTENT_EN": "Due to traffic accident , one-lane-two-way traffic arrangement is being implemented on Tai Tam Road near The Hong Kong Girl Guide Association Cecma Mar Venture House.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大潭道近女童軍馬沈慧芙野外訓練中心現已實施單線雙程行車措施。  現時上址交通繁忙。"
+            },
+            "2023-06-08T14:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81148",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tai Tam Road near The Hong Kong Girl Guide Association Cecma Mar Venture House due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於大潭道近女童軍馬沈慧芙野外訓練中心實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "葵青區",
-        "last_update": "2023-06-08T14:08:01",
-        "last_announcement": "2023-06-08T13:45:00"
+        "last_update": "2023-06-08T14:38:24",
+        "last_announcement": "2023-06-08T14:23:00"
     },
     "IN-23-02357": {
         "description": {
@@ -2878,10 +2885,17 @@
                 "ID": "81145",
                 "CONTENT_EN": "Due to road incident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因道路事故，大埔公路　–　沙田段(往大埔方向)近禾輋邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-08T14:24:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81149",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的大埔公路　–　沙田段(往大埔方向)近禾輋邨的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-06-08T14:27:42",
-        "last_announcement": "2023-06-08T14:09:00"
+        "last_update": "2023-06-08T14:38:24",
+        "last_announcement": "2023-06-08T14:24:00"
     }
 }
