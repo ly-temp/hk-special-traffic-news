@@ -3697,11 +3697,18 @@
                 "ID": "81241",
                 "CONTENT_EN": "Due to traffic accident , all lanes of the slip road leading from Lung Shan Tunnel  to Fanling Highway (Lok Ma Chau bound) is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，由龍山隧道通往粉嶺公路(往落馬洲方向) 的支路的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2023-06-09T15:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81246",
+                "CONTENT_EN": "Due to traffic accident , all lanes of the slip road leading from Lung Shan Tunnel to Fanling Highway (Lok Ma Chau bound) is closed to all traffic.   Motorists heading to Lok Ma Chau are advised to use Sha Tau Kok Road westbound and San Wan Road.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由龍山隧道通往粉嶺公路(往落馬洲方向) 的支路的全線現已封閉。  前往落馬洲的駕駛人士請改用沙頭角公路西行及新運路。  現時上址交通繁忙。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-06-09T14:54:34",
-        "last_announcement": "2023-06-09T14:45:00"
+        "last_update": "2023-06-09T16:10:22",
+        "last_announcement": "2023-06-09T15:35:00"
     },
     "IN-23-02401": {
         "description": {
@@ -3736,10 +3743,17 @@
                 "ID": "81245",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate are still being closed to all traffic.   Traffic queue on Wong Chu Road (Tuen Mun Road bound) ends at Lung Fu Road near Tuen Mun Golf Centre.   Motorists may use Lung Mun Road and Tsing Wan Road.",
                 "CONTENT_CN": "因交通意外，皇珠路(往屯門公路方向)近友愛邨的全線仍然封閉。  現時在皇珠路(往屯門公路方向)的車龍龍尾已到龍富路近屯門高爾夫球中心。  駕駛人士可改用龍門路及青雲路。"
+            },
+            "2023-06-09T15:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81247",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate are still being closed to all traffic. Also, the fast lane of Wong Chu Road (Lung Fu Road bound) is closed to all traffic.   Traffic queue on Wong Chu Road (Tuen Mun Road bound) ends at Lung Fu Road near Tuen Mun Golf Centre.   Motorists may use Lung Mun Road and Tsing Wan Road.",
+                "CONTENT_CN": "因交通意外，皇珠路(往屯門公路方向)近友愛邨的全線仍然封閉。另外，皇珠路(往龍富路方向)的快線封閉。  現時在皇珠路(往屯門公路方向)的車龍龍尾已到龍富路近屯門高爾夫球中心。  駕駛人士可改用龍門路及青雲路。"
             }
         },
         "district": "屯門區",
-        "last_update": "2023-06-09T15:52:25",
-        "last_announcement": "2023-06-09T15:45:00"
+        "last_update": "2023-06-09T16:10:22",
+        "last_announcement": "2023-06-09T15:59:00"
     }
 }
