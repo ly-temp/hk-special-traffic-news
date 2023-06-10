@@ -3654,10 +3654,56 @@
                 "ID": "81272",
                 "CONTENT_EN": "Due to watermain burst , the middle and slow lanes of Kwun Tong Road (Wong Tai Sin bound) near Lower Ngau Tau Kok Estate are closed to all traffic. Only the fast lane is available to motorists.",
                 "CONTENT_CN": "因水管爆裂，觀塘道(往黃大仙方向)近牛頭角下邨的中線及慢線現已封閉。 駕駛人士只可使用快線行車。"
+            },
+            "2023-06-10T07:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81275",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Kwun Tong Road (Wong Tai Sin bound) near Lower Ngau Tau Kok Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.",
+                "CONTENT_CN": "因水管爆裂，觀塘道(往黃大仙方向)近牛頭角下邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-06-10T06:44:34",
-        "last_announcement": "2023-06-10T06:20:00"
+        "last_update": "2023-06-10T09:08:05",
+        "last_announcement": "2023-06-10T07:49:00"
+    },
+    "IN-23-02415": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Kok Tsui",
+            "DIRECTION_CN": "大角咀",
+            "NEAR_LANDMARK_EN": "West Kowloon Law Courts Building",
+            "NEAR_LANDMARK_CN": "西九龍法院大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-10T08:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81276",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of West Kowloon Corridor (Tai Kok Tsui bound) near West Kowloon Law Courts Building is closed to all traffic. Only remaining lane(s) is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，西九龍走廊(往大角咀方向)近西九龍法院大樓的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2023-06-10T08:50:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81277",
+                "CONTENT_EN": "The slow lane of West Kowloon Corridor (Tai Kok Tsui bound) near West Kowloon Law Courts Building which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的西九龍走廊(往大角咀方向)近西九龍法院大樓的慢線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2023-06-10T09:08:05",
+        "last_announcement": "2023-06-10T08:50:00"
     }
 }
