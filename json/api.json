@@ -1,43 +1,4 @@
 {
-    "IN-23-02408": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Prosperous Garden",
-            "NEAR_LANDMARK_CN": "駿發花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-09T19:33:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81262",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，加士居道天橋(往紅磡方向)近駿發花園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-09T19:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81267",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的加士居道天橋(往紅磡方向)近駿發花園的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2023-06-09T20:33:13",
-        "last_announcement": "2023-06-09T19:48:00"
-    },
     "IN-23-02409": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1540,5 +1501,37 @@
         "district": "觀塘區",
         "last_update": "2023-06-12T18:23:03",
         "last_announcement": "2023-06-12T18:08:00"
+    },
+    "IN-23-02451": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Pui To Road",
+            "LOCATION_CN": "杯渡路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Castle Peak Road - Castle Peak Bay",
+            "DIRECTION_CN": "青山公路　–　青山灣段",
+            "NEAR_LANDMARK_EN": "Tuen Mun Heung Sze Wui Road",
+            "NEAR_LANDMARK_CN": "屯門鄉事會路",
+            "BETWEEN_LANDMARK_EN": "Tuen Mun Road",
+            "BETWEEN_LANDMARK_CN": "屯門公路",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-12T20:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81350",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Pui To Road (Castle Peak Road - Castle Peak Bay bound) between Tuen Mun Heung Sze Wui Road and the slip road leading from Pui To Road to Tuen Mun Road (Yuen Long bound) are closed to all traffic.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由杯渡路(往青山公路　–　青山灣段方向)介乎屯門鄉事會路與杯渡路通往屯門公路(往元朗方向)的支路之間的全線現已封閉。  現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2023-06-12T20:44:42",
+        "last_announcement": "2023-06-12T20:18:00"
     }
 }
