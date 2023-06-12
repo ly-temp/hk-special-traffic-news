@@ -1,43 +1,4 @@
 {
-    "IN-23-02412": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Tuen Mun Chek Lap Kok Tunnel Road",
-            "LOCATION_CN": "屯門赤鱲角隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": "Tuen Mun-Chek Lap Kok Tunnel Bus-Bus Interchange",
-            "NEAR_LANDMARK_CN": "屯門–赤鱲角隧道巴士轉乘站",
-            "BETWEEN_LANDMARK_EN": "the entrance of Tuen Mun-Chek Lap Kok Tunnel",
-            "BETWEEN_LANDMARK_CN": "屯門赤鱲角隧道入口",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-09T21:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81270",
-                "CONTENT_EN": "Due to emergency repair of road surface , the slow lane of Tuen Mun Chek Lap Kok Tunnel Road (Airport bound) between Tuen Mun-Chek Lap Kok Tunnel Bus-Bus Interchange and the entrance of Tuen Mun-Chek Lap Kok Tunnel is closed to all traffic. \nOnly remaining lanes are available to motorists.",
-                "CONTENT_CN": "因緊急路面維修，屯門赤鱲角隧道公路(往機場方向)介乎屯門–赤鱲角隧道巴士轉乘站與屯門赤鱲角隧道入口之間的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
-            },
-            "2023-06-10T06:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81273",
-                "CONTENT_EN": "The slow lane of Tuen Mun Chek Lap Kok Tunnel Road (Airport bound) between Tuen Mun-Chek Lap Kok Tunnel Bus-Bus Interchange and the entrance of Tuen Mun-Chek Lap Kok Tunnel which was closed due to emergency repair of road surface is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的屯門赤鱲角隧道公路(往機場方向)介乎屯門–赤鱲角隧道巴士轉乘站與屯門赤鱲角隧道入口之間的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2023-06-10T06:44:34",
-        "last_announcement": "2023-06-10T06:29:00"
-    },
     "IN-23-02413": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
