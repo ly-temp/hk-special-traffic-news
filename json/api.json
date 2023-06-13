@@ -84,66 +84,6 @@
         "last_update": "2023-06-12T06:18:18",
         "last_announcement": "2023-06-12T06:03:00"
     },
-    "IN-23-02425": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Princess Margaret Road",
-            "LOCATION_CN": "公主道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Kowloon City District Headquarters And Hung Hom Divisional Police Station",
-            "NEAR_LANDMARK_CN": "九龍城警區總部暨紅磡分區警署",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-10T12:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81295",
-                "CONTENT_EN": "Due to emergency incident , all lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Kowloon City District Headquarters And Hung Hom Divisional Police Station are still being closed to all traffic.   Affected bus routes have been diverted.   Traffic queue on Princess Margaret Road (Cross Harbour Tunnel bound) ends at Waterloo Road near Hong Kong Baptist University.   Motorists are advised to use alternative routes.   Traffic is congested now.",
-                "CONTENT_CN": "因突發事件，公主道(往海底隧道方向)近九龍城警區總部暨紅磡分區警署的全線仍然封閉。  受影響巴士路線須改道行駛。  現時在公主道(往海底隧道方向)的車龍龍尾已到窩打老道近香港浸會大學。  駕駛人士請考慮改用其他道路。  現時上址交通擠塞。"
-            },
-            "2023-06-10T13:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81298",
-                "CONTENT_EN": "Due to emergency incident , all lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Kowloon City District Headquarters And Hung Hom Divisional Police Station are still being closed to all traffic. The following affected bus routes (Hong Kong Island bound) have been diverted. Route nos. 113, 170, 182 Citizens please take note KMB services have been affected. Citizens heading to Hong Kong Island please consider using other public transport services, such as MTR services. Traffic queue on Princess Margaret Road (Cross Harbour Tunnel bound) ends at Waterloo Road near Hong Kong Baptist University. Motorists are advised to use alternative routes. Traffic is congested now.",
-                "CONTENT_CN": "因突發事件，公主道(往海底隧道方向)近九龍城警區總部暨紅磡分區警署的全線仍然封閉。 以下受影響巴士路線(往香港島方向)須改道行駛。 路線號碼:113,170,182 市民請留意九巴服務會受影響。前往往香港島的市民請考慮使用其他公共交通服務，例如港鐵服務。 現時在公主道(往海底隧道方向)的車龍龍尾已到窩打老道近香港浸會大學。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
-            },
-            "2023-06-10T14:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81299",
-                "CONTENT_EN": "Due to emergency incident , the middle and slow lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Kowloon City District Headquarters And Hung Hom Divisional Police Station are still being closed to all traffic. Only remaining lane(s) is available to motorists. Affected bus routes nos. (Hong Kong Island bound) 113, 170 and 182 have been diverted. Citizens please take note KMB services have been affected. Citizens heading to Hong Kong Island please consider using other public transport services, such as MTR services. Traffic queue on Princess Margaret Road (Cross Harbour Tunnel bound) ends at Waterloo Road near Suffolk Road. Traffic is congested now.",
-                "CONTENT_CN": "因突發事件，公主道(往海底隧道方向)近九龍城警區總部暨紅磡分區警署的中線及慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 受影響巴士(往香港島方向)第113,170 及182 號線已改道行駛。 市民請留意九巴服務已受影響。前往香港島的市民請考慮使用其他公共交通服務，例如港鐵服務。 現時在公主道(往海底隧道方向)的車龍龍尾已到窩打老道近沙福道。 現時上址交通擠塞。"
-            },
-            "2023-06-10T14:39:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81304",
-                "CONTENT_EN": "Due to emergency incident , the middle and slow lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Kowloon City District Headquarters And Hung Hom Divisional Police Station are still being closed to all traffic. Only remaining lane(s) is available to motorists. Services of KMB which was affected by the above emergency incident has gradually resumed normal. Traffic queue on Princess Margaret Road (Cross Harbour Tunnel bound) ends at Waterloo Road near Prince Edward Road West. Traffic is congested now.",
-                "CONTENT_CN": "因突發事件，公主道(往海底隧道方向)近九龍城警區總部暨紅磡分區警署的中線及慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 較早前因上述突發事件而受影響的九巴服務已陸續回復正常。 現時在公主道(往海底隧道方向)的車龍龍尾已到窩打老道近太子道西。 現時上址交通擠塞。"
-            },
-            "2023-06-10T17:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81313",
-                "CONTENT_EN": "The middle and slow lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Kowloon City District Headquarters And Hung Hom Divisional Police Station which were closed due to emergency incident are re-opened to all traffic. Traffic queue(s) take(s) time to disperse.",
-                "CONTENT_CN": "較早前因突發事件而封閉的公主道(往海底隧道方向)近九龍城警區總部暨紅磡分區警署的中線及慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2023-06-10T18:01:37",
-        "last_announcement": "2023-06-10T17:43:00"
-    },
     "IN-23-02433": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1184,10 +1124,88 @@
                 "ID": "81370",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Choi Hung Estate bound) near Kai Yip Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘道(往彩虹邨方向)近啟業邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-13T17:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81374",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Choi Hung Estate bound) near Kai Yip Estate is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Kwun Tong Road (Choi Hung Estate bound) ends at Wai Yip Street near Sheung Yee Road and Kwun Tong Road near Sheung Yee Road.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往彩虹邨方向)近啟業邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在觀塘道(往彩虹邨方向)的車龍龍尾已到偉業街近常怡道及觀塘道近常怡道。  現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-06-13T16:33:57",
-        "last_announcement": "2023-06-13T16:20:00"
+        "last_update": "2023-06-13T18:11:26",
+        "last_announcement": "2023-06-13T17:52:00"
+    },
+    "IN-23-02462": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "On Ting Estate",
+            "NEAR_LANDMARK_CN": "安定邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-13T17:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81373",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near On Ting Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近安定邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-13T18:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81376",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near On Ting Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近安定邨的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2023-06-13T18:11:26",
+        "last_announcement": "2023-06-13T18:02:00"
+    },
+    "IN-23-02463": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-13T17:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81375",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2023-06-13T18:11:26",
+        "last_announcement": "2023-06-13T17:58:00"
     }
 }
