@@ -84,45 +84,6 @@
         "last_update": "2023-06-12T06:18:18",
         "last_announcement": "2023-06-12T06:03:00"
     },
-    "IN-23-02433": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Wo Che Estate",
-            "NEAR_LANDMARK_CN": "禾輋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-10T17:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81312",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. Only remaining lane(s) is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近禾輋邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2023-06-10T17:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81314",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往大埔方向)近禾輋邨的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-06-10T18:21:44",
-        "last_announcement": "2023-06-10T17:55:00"
-    },
     "IN-23-02435": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1131,11 +1092,18 @@
                 "ID": "81374",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Choi Hung Estate bound) near Kai Yip Estate is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Kwun Tong Road (Choi Hung Estate bound) ends at Wai Yip Street near Sheung Yee Road and Kwun Tong Road near Sheung Yee Road.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，觀塘道(往彩虹邨方向)近啟業邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在觀塘道(往彩虹邨方向)的車龍龍尾已到偉業街近常怡道及觀塘道近常怡道。  現時上址交通擠塞。"
+            },
+            "2023-06-13T18:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81377",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Choi Hung Estate bound) near Kai Yip Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往彩虹邨方向)近啟業邨的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-06-13T18:11:26",
-        "last_announcement": "2023-06-13T17:52:00"
+        "last_update": "2023-06-13T18:28:27",
+        "last_announcement": "2023-06-13T18:09:00"
     },
     "IN-23-02462": {
         "description": {
