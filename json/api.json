@@ -1517,11 +1517,18 @@
                 "ID": "81423",
                 "CONTENT_EN": "The following road section(s) are busy:\nLung Fu Road (Tuen Mun Road bound)\nWong Chu Road (Tuen Mun Road bound)\nEast Kowloon Way (Tsim Sha Tsui bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n龍富路(往屯門公路方向)\n皇珠路(往屯門公路方向)\n東九龍走廊(往尖沙咀方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2023-06-14T18:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81426",
+                "CONTENT_EN": "Traffic at the following road sections has resumed normal: Lung Fu Road (Tuen Mun Road bound) Wong Chu Road (Tuen Mun Road bound) But traffic at East Kowloon Way (Tsim Sha Tsui bound) is still busy.",
+                "CONTENT_CN": "以下路段的交通現已恢復正常: 龍富路(往屯門公路方向) 皇珠路(往屯門公路方向) 但東九龍走廊(往尖沙咀方向)的交通仍然繁忙。"
             }
         },
         "district": null,
-        "last_update": "2023-06-14T18:51:16",
-        "last_announcement": "2023-06-14T18:37:00"
+        "last_update": "2023-06-14T19:16:57",
+        "last_announcement": "2023-06-14T18:57:00"
     },
     "IN-23-02479": {
         "description": {
@@ -1556,10 +1563,49 @@
                 "ID": "81422",
                 "CONTENT_EN": "Part of the lanes of Lung Yuet Road (Sham Shui Po bound) near Lei Cheng Uk Estate which was closed due to vehicle on fire is re-opened to all traffic;\npart of the lanes of Lung Yuet Road (Kowloon Tong bound) near Lei Cheng Uk Estate is still closed to all traffic. Only remaining lane is still available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "較早前因車輛着火而封閉的龍悅道(往深水埗方向)近李鄭屋邨的部份行車線現已解封;\n龍悅道(往九龍塘方向)近李鄭屋邨的部份行車線仍然封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-14T18:53:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81425",
+                "CONTENT_EN": "Part of the lanes of Lung Yuet Road (Kowloon Tong bound) near Lei Cheng Uk Estate which was closed due to vehicle on fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛着火而封閉的龍悅道(往九龍塘方向)近李鄭屋邨的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-06-14T18:20:11",
-        "last_announcement": "2023-06-14T18:09:00"
+        "last_update": "2023-06-14T19:16:57",
+        "last_announcement": "2023-06-14T18:53:00"
+    },
+    "IN-23-02481": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
+            "INCIDENT_DETAIL_CN": "車輛着火",
+            "LOCATION_EN": "Cox's Road",
+            "LOCATION_CN": "覺士道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Austin Avenue",
+            "NEAR_LANDMARK_CN": "柯士甸路",
+            "BETWEEN_LANDMARK_EN": "Jordan Road",
+            "BETWEEN_LANDMARK_CN": "佐敦道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-14T19:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81427",
+                "CONTENT_EN": "Due to vehicle on fire , all lanes of Cox's Road (both bounds) between Austin Avenue and Jordan Road are closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因車輛着火，覺士道(來回方向)介乎柯士甸路與佐敦道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-06-14T19:16:57",
+        "last_announcement": "2023-06-14T19:03:00"
     }
 }
