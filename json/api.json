@@ -84,52 +84,6 @@
         "last_update": "2023-06-12T06:18:18",
         "last_announcement": "2023-06-12T06:03:00"
     },
-    "IN-23-02435": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Castle Peak Road - Tam Mi",
-            "LOCATION_CN": "青山公路　－　潭尾段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Fung Kat Heung",
-            "NEAR_LANDMARK_CN": "逢吉鄉",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-11T08:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81315",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Castle Peak Road - Tam Mi (both bounds) near Fung Kat Heung are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青山公路　－　潭尾段(來回方向)近逢吉鄉的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2023-06-11T09:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81316",
-                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Castle Peak Road - Tam Mi near Fung Kat Heung. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青山公路　－　潭尾段近逢吉鄉現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2023-06-11T10:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81317",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Castle Peak Road - Tam Mi near Fung Kat Heung due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於青山公路　－　潭尾段近逢吉鄉實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2023-06-11T10:39:09",
-        "last_announcement": "2023-06-11T10:02:00"
-    },
     "IN-23-02436": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1457,10 +1411,24 @@
                 "ID": "81398",
                 "CONTENT_EN": "Due to tree trimming, the slow lane of Lai Chi Kok Road (Mong Kok bound) near Cheung Sha Wan Police Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Lai Chi Kok Road (Mong Kok bound) ends at Kwai Chung Road near Princess Margaret Hospital and Lung Cheung Road near Tin Ma Court.   Motorists are advised to use alternative routes.   Traffic is congested now.",
                 "CONTENT_CN": "因修剪樹木，荔枝角道(往旺角方向)近長沙灣警署的慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在荔枝角道(往旺角方向)的車龍龍尾已到葵涌道近瑪嘉烈醫院及龍翔道近天馬苑。  駕駛人士請考慮改用其他道路。  現時上址交通擠塞。"
+            },
+            "2023-06-14T10:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81399",
+                "CONTENT_EN": "Due to tree trimming, the slow lane of Lai Chi Kok Road (Mong Kok bound) near Cheung Sha Wan Police Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Lai Chi Kok Road (Mong Kok bound) ends at Kwai Chung Road near Mei Foo MTR Station and Lung Cheung Road near Lion Rock Tunnel.   Motorists are advised to use alternative routes.   Traffic is congested now.",
+                "CONTENT_CN": "因修剪樹木，荔枝角道(往旺角方向)近長沙灣警署的慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在荔枝角道(往旺角方向)的車龍龍尾已到葵涌道近美孚港鐵站及龍翔道近獅子山隧道。  駕駛人士請考慮改用其他道路。  現時上址交通擠塞。"
+            },
+            "2023-06-14T10:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81400",
+                "CONTENT_EN": "The slow lane of Lai Chi Kok Road (Mong Kok bound) near Cheung Sha Wan Police Station which was closed due to fallen tree is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因塌樹而封閉的荔枝角道(往旺角方向)近長沙灣警署的慢線現已解封。車龍有待消散。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-06-14T10:33:07",
-        "last_announcement": "2023-06-14T09:48:00"
+        "last_update": "2023-06-14T10:52:34",
+        "last_announcement": "2023-06-14T10:38:00"
     }
 }
