@@ -38,45 +38,6 @@
         "last_update": "2023-06-14T14:55:35",
         "last_announcement": "2023-06-14T14:43:00"
     },
-    "IN-23-02445": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Lai Chi Kok Road",
-            "LOCATION_CN": "荔枝角道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mei Foo",
-            "DIRECTION_CN": "美孚",
-            "NEAR_LANDMARK_EN": "Hing Wah Street",
-            "NEAR_LANDMARK_CN": "興華街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-12T07:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81339",
-                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Lai Chi Kok Road (Mei Foo bound) near Hing Wah Street and the fast lane of Hing Wah Street (Cheung Sha Wan Road bound) near Lai Chi Kok Road are closed to all traffic. \nOnly remaining lanes are available to motorists.",
-                "CONTENT_CN": "因水管緊急維修，荔枝角道(往美孚方向)近興華街的慢線及興華街(往長沙灣道方向)近荔枝角道的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
-            },
-            "2023-06-14T07:33:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "81387",
-                "CONTENT_EN": "The slow lane of Lai Chi Kok Road (Mei Foo bound) near Hing Wah Street and the fast lane of Hing Wah Street (Cheung Sha Wan Road bound) near Lai Chi Kok Road\n\nwhich were closed due to watermain emergency works are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的荔枝角道(往美孚方向)近興華街的慢線及興華街(往長沙灣道方向)近荔枝角道的快線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-06-14T07:46:48",
-        "last_announcement": "2023-06-14T07:33:00"
-    },
     "IN-23-02452": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3349,10 +3310,49 @@
                 "ID": "81589",
                 "CONTENT_EN": "Due to malfunction of traffic lights, vehicles are prohibited from making right turn from Yu Tung Road (Yat Tung Estate bound) to Shun Tung Road (Tung Chung Swimming Pool bound), and making left turning from Shun Tung Road (Yu Tung Road bound) to Yu Tung Road (Tung Chung Eastern Interchange bound).   Affected LWB bus routes E31, E32, E33, E36, E37, E41, E42, E33P, E36P, E36S, S64, S64C and S64X have been diverted.",
                 "CONTENT_CN": "因交通燈失靈，車輛不能由裕東路(往逸東邨方向)右轉入順東路(往東涌游泳池方向)，及不能由順東路(裕東路方向)左轉入裕東路(東涌東交匯處方向)。  受影響龍運巴士路線E31, E32, E33, E36, E37, E41, E42, E33P, E36P, E36S, S64, S64C及 S64X須改道行駛。"
+            },
+            "2023-06-17T07:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81590",
+                "CONTENT_EN": "Due to malfunction of traffic lights, vehicles are prohibited from making right turn from Yu Tung Road (Yat Tung Estate bound) to Shun Tung Road (Tung Chung Swimming Pool bound), and making left turning from Shun Tung Road (Yu Tung Road bound) to Yu Tung Road (Tung Chung Eastern Interchange bound).   The following affected bus routes have been diverted:\n- LWB E31, E32, E33, E36, E37, E41, E42, E33P, E36P, E36S, S64, S64C and S64X\n- NLB 3M, 11, 23, 34, 37H, 38, 39M, A35 and B6.",
+                "CONTENT_CN": "因交通燈失靈，車輛不能由裕東路(往逸東邨方向)右轉入順東路(往東涌游泳池方向)，及不能由順東路(裕東路方向)左轉入裕東路(東涌東交匯處方向)。  以下受影響巴士路線須改道行駛:\n- 龍運E31, E32, E33, E36, E37, E41, E42, E33P, E36P, E36S, S64, S64C及S64X\n- 新大嶼山巴士3M, 11, 23, 34, 37H, 38, 39M, A35及B6。"
             }
         },
         "district": "離島區",
-        "last_update": "2023-06-17T07:22:51",
-        "last_announcement": "2023-06-17T07:04:00"
+        "last_update": "2023-06-17T07:53:15",
+        "last_announcement": "2023-06-17T07:41:00"
+    },
+    "IN-23-02548": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Princess Margaret Road",
+            "LOCATION_CN": "公主道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Sheung Shing Street Park",
+            "NEAR_LANDMARK_CN": "常盛街公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-17T07:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81591",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Sheung Shing Street Park is closed to all traffic. \nOnly remaining lanes are available to motorists.",
+                "CONTENT_CN": "因交通意外，公主道(往海底隧道方向)近常盛街公園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2023-06-17T07:53:15",
+        "last_announcement": "2023-06-17T07:45:00"
     }
 }
