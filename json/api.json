@@ -123,45 +123,6 @@
         "last_update": "2023-06-15T09:46:30",
         "last_announcement": "2023-06-15T07:36:00"
     },
-    "IN-23-02456": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Chak On Estate",
-            "NEAR_LANDMARK_CN": "澤安邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-13T13:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81362",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Kwai Chung bound) near Chak On Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往葵涌方向)近澤安邨的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-13T14:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81363",
-                "CONTENT_EN": "The slow lane of Lung Cheung Road (Kwai Chung bound) near Chak On Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往葵涌方向)近澤安邨的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-06-13T14:19:00",
-        "last_announcement": "2023-06-13T14:07:00"
-    },
     "IN-23-02457": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2786,10 +2747,49 @@
                 "ID": "81527",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Ching Cheung Road (Kwun Tong bound) ends at Kwai Chung Road near Princess Margaret Hospital and Tsing",
                 "CONTENT_CN": ""
+            },
+            "2023-06-16T14:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81530",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近龍翔工業大廈的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-06-16T13:49:04",
-        "last_announcement": "2023-06-16T13:38:00"
+        "last_update": "2023-06-16T14:23:59",
+        "last_announcement": "2023-06-16T14:13:00"
+    },
+    "IN-23-02523": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Salisbury Road",
+            "LOCATION_CN": "梳士巴利道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Star Ferry Pier",
+            "DIRECTION_CN": "天星碼頭",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-16T13:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81529",
+                "CONTENT_EN": "The following road sections are busy: – Observatory Road (Chatham Road South bound) – Kimberly Road (Observatory Road bound) - Granville Road The traffic at following road sections resume normal: – Salisbury Road (Star Ferry Pier bound) – Mody Road (Chatham Road South bound) Motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙： -天文臺道(往漆咸道南方向) -金巴利道(往天文臺道方向) -加連威老道 以下路段的交通回復正常： –梳士巴利道(往天星碼頭方向) –麼地道(往漆咸道南方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-06-16T14:23:59",
+        "last_announcement": "2023-06-16T13:50:00"
     }
 }
