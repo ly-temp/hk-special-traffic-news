@@ -123,59 +123,6 @@
         "last_update": "2023-06-15T09:46:30",
         "last_announcement": "2023-06-15T07:36:00"
     },
-    "IN-23-02463": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Sham Tseng",
-            "NEAR_LANDMARK_CN": "深井",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-13T17:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81375",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-13T18:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81379",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Tuen Mun Road (Tuen Mun bound) ends at Tuen Mun Road near Yau Kom Tau and North West Tsing Yi Interchange near Administration Building.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往屯門方向)的車龍龍尾已到屯門公路近油柑頭及青衣西北交匯處近行政大樓。  現時上址交通擠塞。"
-            },
-            "2023-06-13T19:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81381",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Tuen Mun Road (Tuen Mun bound) ends at Tuen Mun Road near Yau Kom Tau and Cheung Tsing Highway near Kam Chuk Kok.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往屯門方向)的車龍龍尾已到屯門公路近油柑頭及長青公路近金竹角。  現時上址交通擠塞。"
-            },
-            "2023-06-13T19:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81383",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近深井的部份行車線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2023-06-13T19:35:17",
-        "last_announcement": "2023-06-13T19:18:00"
-    },
     "IN-23-02465": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2573,11 +2520,18 @@
                 "ID": "81547",
                 "CONTENT_EN": "The following road sections are busy: – Observatory Road (Chatham Road South bound) – Kimberly Road (Observatory Road bound) – Granville Road – Canton Road (Tsim Sha Tsui bound) – Salisbury Road (Star Ferry Pier bound) Motorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙： -天文臺道(往漆咸道南方向) -金巴利道(往天文臺道方向) -加連威老道 -廣東道(往尖沙咀方向) -梳士巴利道(往天星碼頭方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2023-06-16T19:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81568",
+                "CONTENT_EN": "The following road sections are busy: – Observatory Road (Chatham Road South bound) – Kimberly Road (Observatory Road bound) – Granville Road – Canton Road (Tsim Sha Tsui bound) – Salisbury Road (Star Ferry Pier bound) - Waterloo Road (Lion Rock Tunnel bound) Motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙： -天文臺道(往漆咸道南方向) -金巴利道(往天文臺道方向) -加連威老道 -廣東道(往尖沙咀方向) -梳士巴利道(往天星碼頭方向) -窩打老道(往獅子山隧道方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2023-06-16T17:16:53",
-        "last_announcement": "2023-06-16T17:06:00"
+        "last_update": "2023-06-16T19:36:48",
+        "last_announcement": "2023-06-16T19:18:00"
     },
     "IN-23-02526": {
         "description": {
