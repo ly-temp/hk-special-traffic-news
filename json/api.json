@@ -3354,5 +3354,37 @@
         "district": "北區",
         "last_update": "2023-06-16T21:57:58",
         "last_announcement": "2023-06-16T21:47:00"
+    },
+    "IN-23-02547": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "malfunction of traffic lights",
+            "INCIDENT_DETAIL_CN": "交通燈失靈",
+            "LOCATION_EN": "Yu Tung Road",
+            "LOCATION_CN": "裕東路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yat Tung Estate",
+            "DIRECTION_CN": "逸東邨",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-17T06:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81588",
+                "CONTENT_EN": "Due to malfunction of traffic lights, vehicles are prohibited from making right turn from Yu Tung Road (Yat Tung Estate bound) to Shun Tung Road (Tung Chung Swimming Pool bound), and making left turning from Shun Tung Road (Yu Tung Road bound) to Yu Tung Road (Tung Chung Eastern Interchange bound).",
+                "CONTENT_CN": "因交通燈失靈，車輛不能由裕東路(往逸東邨方向)右轉入順東路(往東涌游泳池方向)，及不能由順東路(裕東路方向)左轉入裕東路(東涌東交匯處方向)。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2023-06-17T07:10:45",
+        "last_announcement": "2023-06-17T06:55:00"
     }
 }
