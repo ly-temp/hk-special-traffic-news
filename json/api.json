@@ -84,45 +84,6 @@
         "last_update": "2023-06-15T09:46:30",
         "last_announcement": "2023-06-15T07:36:00"
     },
-    "IN-23-02472": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
-            "NEAR_LANDMARK_CN": "何文田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-14T13:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81403",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-14T13:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81404",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2023-06-14T13:59:11",
-        "last_announcement": "2023-06-14T13:47:00"
-    },
     "IN-23-02473": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3317,11 +3278,18 @@
                 "ID": "81603",
                 "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2023-06-17T14:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81607",
+                "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2023-06-17T12:48:32",
-        "last_announcement": "2023-06-17T12:40:00"
+        "last_update": "2023-06-17T14:22:07",
+        "last_announcement": "2023-06-17T14:06:00"
     },
     "IN-23-02554": {
         "description": {
@@ -3349,10 +3317,49 @@
                 "ID": "81604",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of the slip road leading from Tai Po Road - Sha Tin (Tai Po bound) to Sha Tin Rural Committee Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，由大埔公路　–　沙田段(往大埔方向)通往沙田鄉事會路 的支路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-17T13:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81605",
+                "CONTENT_EN": "Part of the lanes of the slip road leading from Tai Po Road - Sha Tin (Tai Po bound) to Sha Tin Rural Committee Road  which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的由大埔公路　–　沙田段(往大埔方向)通往沙田鄉事會路 的支路的 部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-06-17T13:38:09",
-        "last_announcement": "2023-06-17T13:24:00"
+        "last_update": "2023-06-17T14:22:07",
+        "last_announcement": "2023-06-17T13:56:00"
+    },
+    "IN-23-02556": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Stagnant water on road",
+            "INCIDENT_DETAIL_CN": "路面有積水",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-17T14:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81608",
+                "CONTENT_EN": "Due to Stagnant water on road , part of the lanes of Island Eastern Corridor (Chai Wan bound) near Provident Centre is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因路面有積水，東區走廊(往柴灣方向)近和富中心的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2023-06-17T14:22:07",
+        "last_announcement": "2023-06-17T14:13:00"
     }
 }
