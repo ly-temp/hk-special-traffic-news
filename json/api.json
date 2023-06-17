@@ -3702,5 +3702,44 @@
         "district": "東區",
         "last_update": "2023-06-17T18:44:37",
         "last_announcement": "2023-06-17T18:33:00"
+    },
+    "IN-23-02572": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Lion Rock Tunnel",
+            "LOCATION_CN": "獅子山隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-17T18:36:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81639",
+                "CONTENT_EN": "Due to emergency repairing works , the tunnel tube slow lane of Lion Rock Tunnel (Kowloon bound) is closed to all traffic. Only the fast lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，獅子山隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用快線行車。 現時上址交通繁忙。"
+            },
+            "2023-06-17T18:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81641",
+                "CONTENT_EN": "The tunnel tube slow lane of Lion Rock Tunnel (Kowloon bound) which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的獅子山隧道(往九龍方向)的管道慢線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2023-06-17T18:54:44",
+        "last_announcement": "2023-06-17T18:44:00"
     }
 }
