@@ -3553,5 +3553,37 @@
         "district": "沙田區",
         "last_update": "2023-06-17T15:19:01",
         "last_announcement": "2023-06-17T15:10:00"
+    },
+    "IN-23-02565": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-17T15:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81621",
+                "CONTENT_EN": "The following road sections are busy:\n– Salisbury Road (Star Ferry Pier bound)\n– Nathan Road (Salisbury Road bound)\n– Chatham Road South (Salisbury Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   Citizens please take note KMB's service has been affected. Citizens heading areas in the vicinity of Tsim Sha Tsui please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–梳士巴利道(往天星碼頭方向)\n–彌敦道(往梳士巴利道方向)\n–漆咸道南(往梳士巴利道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  市民請留意九巴服務將會受阻。前往尖沙咀一帶的市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2023-06-17T15:39:43",
+        "last_announcement": "2023-06-17T15:21:00"
     }
 }
