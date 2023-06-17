@@ -84,148 +84,6 @@
         "last_update": "2023-06-15T09:46:30",
         "last_announcement": "2023-06-15T07:36:00"
     },
-    "IN-23-02466": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": "tunnel exit",
-            "NEAR_LANDMARK_CN": "隧道出口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-14T08:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81388",
-                "CONTENT_EN": "Due to fallen tree , the slow lane of Lion Rock Tunnel Road (Sha Tin bound) near tunnel exit is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，獅子山隧道公路(往沙田方向)近隧道出口的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-14T09:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81392",
-                "CONTENT_EN": "The slow lane of Shing Mun Tunnel Road (Sha Tin bound) near tunnel exit which was closed due to fallen tree is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因塌樹而封閉的城門隧道公路(往沙田方向)近隧道出口的慢線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-06-14T09:36:22",
-        "last_announcement": "2023-06-14T09:11:00"
-    },
-    "IN-23-02467": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "King's Road",
-            "LOCATION_CN": "英皇道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "Finnie Street",
-            "NEAR_LANDMARK_CN": "芬尼街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-14T08:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81390",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of King's Road (Chai Wan bound) near Finnie Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，英皇道(往柴灣方向)近芬尼街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2023-06-14T09:36:22",
-        "last_announcement": "2023-06-14T08:58:00"
-    },
-    "IN-23-02468": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Kwai Highway",
-            "LOCATION_CN": "青葵公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Lai King MTR Station",
-            "NEAR_LANDMARK_CN": "荔景港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-14T09:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81391",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近荔景港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2023-06-14T09:36:22",
-        "last_announcement": "2023-06-14T09:05:00"
-    },
-    "IN-23-02469": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Dragon Industrial Building",
-            "NEAR_LANDMARK_CN": "龍翔工業大廈",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-14T09:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81394",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近龍翔工業大廈的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-14T09:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81395",
-                "CONTENT_EN": "The fast lane of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近龍翔工業大廈的快線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-06-14T09:36:22",
-        "last_announcement": "2023-06-14T09:18:00"
-    },
     "IN-23-02470": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3361,5 +3219,76 @@
         "district": "九龍城區",
         "last_update": "2023-06-17T08:54:22",
         "last_announcement": "2023-06-17T08:14:00"
+    },
+    "IN-23-02549": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
+            "INCIDENT_DETAIL_CN": "車輛着火",
+            "LOCATION_EN": "Tsing Tin Road",
+            "LOCATION_CN": "青田路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tin King Road",
+            "DIRECTION_CN": "田景路",
+            "NEAR_LANDMARK_EN": "Tuen Mun Tang Shiu Kin Sports Ground",
+            "NEAR_LANDMARK_CN": "屯門鄧肇堅運動",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-17T08:44:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81593",
+                "CONTENT_EN": "Due to vehicle on fire , all lanes of the slip road leading from Tsing Tin Road (Tin King Road bound) to Tsun Wen Road (Pui To Road bound) near Tuen Mun Tang Shiu Kin Sports Ground are closed to all traffic.",
+                "CONTENT_CN": "因車輛着火，由青田路(往田景路方向)通往震寰路(往杯渡路方向) 的支路近屯門鄧肇堅運動的全線現已封閉。"
+            },
+            "2023-06-17T09:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81596",
+                "CONTENT_EN": "All lanes of the slip road leading from Tsing Tin Road (Tin King Road bound) to Tsun Wen Road (Pui To Road bound) near Tuen Mun Tang Shiu Kin Sports Ground which was closed due to vehicle on fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛着火而封閉的由青田路(往田景路方向)通往震寰路(往杯渡路方向) 的支路近屯門鄧肇堅運動的 全線現已解封。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2023-06-17T10:07:59",
+        "last_announcement": "2023-06-17T09:10:00"
+    },
+    "IN-23-02550": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Ma Tau Wai Road",
+            "LOCATION_CN": "馬頭圍道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom",
+            "DIRECTION_CN": "紅磡",
+            "NEAR_LANDMARK_EN": "Sheung Heung Road",
+            "NEAR_LANDMARK_CN": "上鄉道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-17T08:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81594",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Ma Tau Wai Road (Hung Hom bound) near Sheung Heung Road are closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，馬頭圍道(往紅磡方向)近上鄉道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2023-06-17T10:07:59",
+        "last_announcement": "2023-06-17T08:53:00"
     }
 }
