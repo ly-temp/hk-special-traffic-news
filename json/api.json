@@ -45,59 +45,6 @@
         "last_update": "2023-06-15T09:46:30",
         "last_announcement": "2023-06-15T07:36:00"
     },
-    "IN-23-02477": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Butterfly Valley",
-            "NEAR_LANDMARK_CN": "蝴蝶谷",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-14T17:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81416",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwai Chung bound) near Butterfly Valley is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，呈祥道(往葵涌方向)近蝴蝶谷的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-14T17:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81417",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwai Chung bound) near Butterfly Valley is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Ching Cheung Road (Kwai Chung bound) ends at Lung Cheung Road near Chak On Estate.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，呈祥道(往葵涌方向)近蝴蝶谷的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在呈祥道(往葵涌方向)的車龍龍尾已到龍翔道近澤安邨。  現時上址交通擠塞。"
-            },
-            "2023-06-14T17:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81419",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwai Chung bound) near Butterfly Valley is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Ching Cheung Road (Kwai Chung bound) ends at Lung Cheung Road near Lung Cheung Road Lookout.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，呈祥道(往葵涌方向)近蝴蝶谷的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在呈祥道(往葵涌方向)的車龍龍尾已到龍翔道近龍翔道眺望處。  現時上址交通擠塞。"
-            },
-            "2023-06-14T18:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81421",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwai Chung bound) near Butterfly Valley which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往葵涌方向)近蝴蝶谷的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-06-14T18:20:11",
-        "last_announcement": "2023-06-14T18:05:00"
-    },
     "IN-23-02478": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
