@@ -98,52 +98,6 @@
         "last_update": "2023-06-14T19:27:18",
         "last_announcement": "2023-06-14T19:17:00"
     },
-    "IN-23-02479": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Lung Yuet Road",
-            "LOCATION_CN": "龍悅道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon Tong",
-            "DIRECTION_CN": "九龍塘",
-            "NEAR_LANDMARK_EN": "Lei Cheng Uk Estate",
-            "NEAR_LANDMARK_CN": "李鄭屋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-14T17:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81420",
-                "CONTENT_EN": "Due to vehicle on fire , all lanes of Lung Yuet Road (Kowloon Tong bound) near Lei Cheng Uk Estate are closed to all traffic. Besides, part of the lanes of Lung Yuet Road (Sham Shui Po bound) near Lei Cheng Uk Estate is also closed to all traffic. Only remaining lane is available to motorists. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，龍悅道(往九龍塘方向)近李鄭屋邨的全線現已封閉。 此外，龍悅道(往深水埗方向)近李鄭屋邨的部份行車線亦已封閉。 駕駛人士只可使用餘下行車線行車。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2023-06-14T18:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81422",
-                "CONTENT_EN": "Part of the lanes of Lung Yuet Road (Sham Shui Po bound) near Lei Cheng Uk Estate which was closed due to vehicle on fire is re-opened to all traffic;\npart of the lanes of Lung Yuet Road (Kowloon Tong bound) near Lei Cheng Uk Estate is still closed to all traffic. Only remaining lane is still available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的龍悅道(往深水埗方向)近李鄭屋邨的部份行車線現已解封;\n龍悅道(往九龍塘方向)近李鄭屋邨的部份行車線仍然封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-14T18:53:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "81425",
-                "CONTENT_EN": "Part of the lanes of Lung Yuet Road (Kowloon Tong bound) near Lei Cheng Uk Estate which was closed due to vehicle on fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的龍悅道(往九龍塘方向)近李鄭屋邨的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-06-14T19:16:57",
-        "last_announcement": "2023-06-14T18:53:00"
-    },
     "IN-23-02481": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2789,11 +2743,18 @@
                 "ID": "81590",
                 "CONTENT_EN": "Due to malfunction of traffic lights, vehicles are prohibited from making right turn from Yu Tung Road (Yat Tung Estate bound) to Shun Tung Road (Tung Chung Swimming Pool bound), and making left turning from Shun Tung Road (Yu Tung Road bound) to Yu Tung Road (Tung Chung Eastern Interchange bound).   The following affected bus routes have been diverted:\n- LWB E31, E32, E33, E36, E37, E41, E42, E33P, E36P, E36S, S64, S64C and S64X\n- NLB 3M, 11, 23, 34, 37H, 38, 39M, A35 and B6.",
                 "CONTENT_CN": "因交通燈失靈，車輛不能由裕東路(往逸東邨方向)右轉入順東路(往東涌游泳池方向)，及不能由順東路(裕東路方向)左轉入裕東路(東涌東交匯處方向)。  以下受影響巴士路線須改道行駛:\n- 龍運E31, E32, E33, E36, E37, E41, E42, E33P, E36P, E36S, S64, S64C及S64X\n- 新大嶼山巴士3M, 11, 23, 34, 37H, 38, 39M, A35及B6。"
+            },
+            "2023-06-17T19:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81643",
+                "CONTENT_EN": "Part of the lanes of Yu Tung Road  which was closed due to malfunction of traffic lights is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通燈失靈而封閉的裕東路的部份行車線現已解封。"
             }
         },
         "district": "離島區",
-        "last_update": "2023-06-17T07:53:15",
-        "last_announcement": "2023-06-17T07:41:00"
+        "last_update": "2023-06-17T19:20:41",
+        "last_announcement": "2023-06-17T19:00:00"
     },
     "IN-23-02548": {
         "description": {
