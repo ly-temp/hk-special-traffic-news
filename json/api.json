@@ -1,43 +1,4 @@
 {
-    "IN-23-02442": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Kwai Tsing Road",
-            "LOCATION_CN": "葵青路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsing Yi",
-            "DIRECTION_CN": "青衣",
-            "NEAR_LANDMARK_EN": "Kwai Chung Park",
-            "NEAR_LANDMARK_CN": "葵涌公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-11T22:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81333",
-                "CONTENT_EN": "Due to watermain emergency works, the middle and slow lanes of Kwai Tsing Road (Tsing Yi bound) near Kwai Chung Park are closed to all traffic. \nOnly the fast lane is available to motorists.",
-                "CONTENT_CN": "因水管緊急維修，葵青路(往青衣方向)近葵涌公園的中線及慢線現已封閉。\n駕駛人士只可使用快線行車。"
-            },
-            "2023-06-14T14:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81407",
-                "CONTENT_EN": "The middle and slow lanes of Kwai Tsing Road (Tsing Yi bound) near Kwai Chung Park which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的葵青路(往青衣方向)近葵涌公園的中線及慢線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2023-06-14T14:55:35",
-        "last_announcement": "2023-06-14T14:43:00"
-    },
     "IN-23-02452": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3489,5 +3450,37 @@
         "district": "沙田區",
         "last_update": "2023-06-17T14:52:40",
         "last_announcement": "2023-06-17T14:46:00"
+    },
+    "IN-23-02562": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Red Rainstorm Warning Signal",
+            "INCIDENT_DETAIL_CN": "紅色暴雨警告信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-17T14:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81617",
+                "CONTENT_EN": "As Red Rainstorm Warning Signal is in force, the service of Hong Kong Water Taxi (Tsim Sha Tsui East - West Kowloon Round Trip) is suspended.",
+                "CONTENT_CN": "因紅色暴雨警告信號現已生效，香港水上的士服務(尖東西九龍循環航線)現已暫停。"
+            }
+        },
+        "district": null,
+        "last_update": "2023-06-17T15:07:23",
+        "last_announcement": "2023-06-17T14:54:00"
     }
 }
