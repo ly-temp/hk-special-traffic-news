@@ -1,36 +1,4 @@
 {
-    "IN-23-02507": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-15T18:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81495",
-                "CONTENT_EN": "Part of the lanes of the slip road leading from Kwun Tong Bypass (Yau Tong bound) to Wai Yip Street (Cha Kwo Leng bound) is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)通往偉業街(往茶果嶺方向)的支路的部分行車線現已解封。"
-            }
-        },
-        "district": null,
-        "last_update": "2023-06-15T18:52:43",
-        "last_announcement": "2023-06-15T18:42:00"
-    },
     "IN-23-02508": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
