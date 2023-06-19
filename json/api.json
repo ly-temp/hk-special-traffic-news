@@ -66,52 +66,6 @@
         "last_update": "2023-06-16T22:16:20",
         "last_announcement": "2023-06-16T21:57:00"
     },
-    "IN-23-02526": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Phoenix House",
-            "NEAR_LANDMARK_CN": "豐力樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-16T14:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81532",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Phoenix House is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近豐力樓的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-16T14:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81535",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Phoenix House is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Lung Cheung Road (Kwun Tong bound) ends at Lung Cheung Road near Chak On Estate.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近豐力樓的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在龍翔道(往觀塘方向)的車龍龍尾已到龍翔道近澤安邨。  現時上址交通擠塞。"
-            },
-            "2023-06-16T15:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81537",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Phoenix House which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近豐力樓的部份行車線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2023-06-16T15:22:05",
-        "last_announcement": "2023-06-16T15:09:00"
-    },
     "IN-23-02527": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2758,5 +2712,69 @@
         "district": "黃大仙區",
         "last_update": "2023-06-19T15:12:08",
         "last_announcement": "2023-06-19T14:58:00"
+    },
+    "IN-23-02596": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Wong Tai Sin MTR Station",
+            "NEAR_LANDMARK_CN": "黃大仙港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-19T15:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81704",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Kwun Tong bound) near Wong Tai Sin MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近黃大仙港鐵站的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2023-06-19T15:22:58",
+        "last_announcement": "2023-06-19T15:08:00"
+    },
+    "IN-23-02597": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Gloucester Road",
+            "LOCATION_CN": "告士打道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Immigration Tower",
+            "NEAR_LANDMARK_CN": "入境事務大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-19T15:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81705",
+                "CONTENT_EN": "Due to emergency incident , part of the lanes of Gloucester Road (Cross Harbour Tunnel bound) near Immigration Tower is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，告士打道(往海底隧道方向)近入境事務大樓的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2023-06-19T15:22:58",
+        "last_announcement": "2023-06-19T15:09:00"
     }
 }
