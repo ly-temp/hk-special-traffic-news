@@ -52,45 +52,6 @@
         "last_update": "2023-06-17T19:20:41",
         "last_announcement": "2023-06-17T19:00:00"
     },
-    "IN-23-02549": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Tsing Tin Road",
-            "LOCATION_CN": "青田路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tin King Road",
-            "DIRECTION_CN": "田景路",
-            "NEAR_LANDMARK_EN": "Tuen Mun Tang Shiu Kin Sports Ground",
-            "NEAR_LANDMARK_CN": "屯門鄧肇堅運動",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-17T08:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81593",
-                "CONTENT_EN": "Due to vehicle on fire , all lanes of the slip road leading from Tsing Tin Road (Tin King Road bound) to Tsun Wen Road (Pui To Road bound) near Tuen Mun Tang Shiu Kin Sports Ground are closed to all traffic.",
-                "CONTENT_CN": "因車輛着火，由青田路(往田景路方向)通往震寰路(往杯渡路方向) 的支路近屯門鄧肇堅運動的全線現已封閉。"
-            },
-            "2023-06-17T09:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81596",
-                "CONTENT_EN": "All lanes of the slip road leading from Tsing Tin Road (Tin King Road bound) to Tsun Wen Road (Pui To Road bound) near Tuen Mun Tang Shiu Kin Sports Ground which was closed due to vehicle on fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的由青田路(往田景路方向)通往震寰路(往杯渡路方向) 的支路近屯門鄧肇堅運動的 全線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2023-06-17T10:07:59",
-        "last_announcement": "2023-06-17T09:10:00"
-    },
     "IN-23-02550": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
