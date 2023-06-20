@@ -98,52 +98,6 @@
         "last_update": "2023-06-18T20:24:47",
         "last_announcement": "2023-06-18T20:06:00"
     },
-    "IN-23-02552": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel",
-            "LOCATION_CN": "獅子山隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "tunnel exit",
-            "NEAR_LANDMARK_CN": "隧道出口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-17T11:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81599",
-                "CONTENT_EN": "Due to traffic accident , the tunnel tube slow lane of Lion Rock Tunnel (Kowloon bound) near tunnel exit is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，獅子山隧道(往九龍方向)近隧道出口的管道慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-17T11:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81600",
-                "CONTENT_EN": "Due to traffic accident , the tunnel tube slow lane of Lion Rock Tunnel (Kowloon bound) near tunnel exit is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Lion Rock Tunnel (Kowloon bound) ends at Lion Rock Tunnel Road near Sun Tin Wai Estate.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，獅子山隧道(往九龍方向)近隧道出口的管道慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在獅子山隧道(往九龍方向)的車龍龍尾已到獅子山隧道公路近新田圍邨。  現時上址交通擠塞。"
-            },
-            "2023-06-17T11:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81601",
-                "CONTENT_EN": "The tunnel tube slow lane of Lion Rock Tunnel (Kowloon bound) near tunnel exit which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道(往九龍方向)近隧道出口的管道慢線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-06-17T11:54:20",
-        "last_announcement": "2023-06-17T11:46:00"
-    },
     "IN-23-02553": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
@@ -2509,10 +2463,17 @@
                 "ID": "81747",
                 "CONTENT_EN": "Due to traffic accident, the fast lane of the slip road leading from Tsing Long Highway (Ting Kau Bridge) (Tuen Mun bound) to Tuenl Mun Road (Tuen Mun bound) is closed to all traffic. Only remaining lane(s) is available to motorists.",
                 "CONTENT_CN": "因交通意外，由青朗公路(汀九橋)(往屯門方向)往屯門公路(往屯門方向)的支路快線封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2023-06-20T11:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81748",
+                "CONTENT_EN": "The fast lane of the slip road leading from Tsing Long Highway (Ting Kau Bridge) (Tuen Mun bound) to Tuenl Mun Road (Tuen Mun bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由青朗公路(汀九橋)(往屯門方向)往屯門公路(往屯門方向)的 支路快線線現已解封。"
             }
         },
         "district": null,
-        "last_update": "2023-06-20T10:59:17",
-        "last_announcement": "2023-06-20T10:44:00"
+        "last_update": "2023-06-20T12:00:09",
+        "last_announcement": "2023-06-20T11:48:00"
     }
 }
