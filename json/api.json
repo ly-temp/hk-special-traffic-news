@@ -112,38 +112,6 @@
         "last_update": "2023-06-19T06:21:52",
         "last_announcement": "2023-06-19T06:02:00"
     },
-    "IN-23-02583": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Wo Che Estate",
-            "NEAR_LANDMARK_CN": "禾輋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-18T18:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81672",
-                "CONTENT_EN": "Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "大埔公路　–　沙田段(往大埔方向)近禾輋邨的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-06-18T18:18:06",
-        "last_announcement": "2023-06-18T18:02:00"
-    },
     "IN-23-02584": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2481,10 +2449,56 @@
                 "ID": "81815",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Tuen Mun bound) near Yau Kom Tau is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近油柑頭的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-21T18:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81818",
+                "CONTENT_EN": "The slow lane of Tuen Mun Road (Tuen Mun bound) near Yau Kom Tau which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往屯門方向)近油柑頭的慢線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2023-06-21T18:00:08",
-        "last_announcement": "2023-06-21T17:39:00"
+        "last_update": "2023-06-21T18:22:33",
+        "last_announcement": "2023-06-21T18:04:00"
+    },
+    "IN-23-02646": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Chung",
+            "DIRECTION_CN": "葵涌",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
+            "NEAR_LANDMARK_CN": "龍翔道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-21T17:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81816",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Kwai Chung bound) near Lung Cheung Road Park is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往葵涌方向)近龍翔道公園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-21T18:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81817",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Kwai Chung bound) near Lung Cheung Road Park is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Lung Cheung Road (Kwai Chung bound) ends at Choi Hung Estate.   Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往葵涌方向)近龍翔道公園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在龍翔道(往葵涌方向)的車龍龍尾已到彩虹邨。  現時上址交通擠塞。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2023-06-21T18:22:33",
+        "last_announcement": "2023-06-21T18:02:00"
     }
 }
