@@ -1809,5 +1809,37 @@
         "district": "黃大仙區",
         "last_update": "2023-06-23T07:36:34",
         "last_announcement": "2023-06-23T07:23:00"
+    },
+    "IN-23-02656": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": "Kwun Tong Line Service Disruption",
+            "LOCATION_CN": "觀塘綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-23T07:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81846",
+                "CONTENT_EN": "Extra travelling time can be expected on the Kwun Tong Line. \nPlease allow more time for travel.",
+                "CONTENT_CN": "觀塘綫列車預計需要額外行車時間，\n請為行程預留充裕時間。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-06-23T07:56:50",
+        "last_announcement": "2023-06-23T07:39:00"
     }
 }
