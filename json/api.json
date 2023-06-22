@@ -1,43 +1,4 @@
 {
-    "IN-23-02605": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Marsh Road",
-            "LOCATION_CN": "馬師道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Gloucester Road",
-            "DIRECTION_CN": "告士打道",
-            "NEAR_LANDMARK_EN": "Jaffe Road",
-            "NEAR_LANDMARK_CN": "謝斐道",
-            "BETWEEN_LANDMARK_EN": "Gloucester Road Service Road",
-            "BETWEEN_LANDMARK_CN": "告士打道輔助道路",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-19T20:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81725",
-                "CONTENT_EN": "Due to emergency repair of road surface , all lanes of Marsh Road (Gloucester Road bound) between Jaffe Road and Gloucester Road Service Road are closed to all traffic.   Meanwhile, traffic at Jaffe Road between Marsh Road and Tonnochy Road has been converted to westward traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因緊急路面維修，馬師道(往告士打道方向)介乎謝斐道與告士打道輔助道路之間的全線現已封閉。  同時，謝斐道介乎馬師道與杜老誌道之間的交通已改為西行行車。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2023-06-19T22:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81733",
-                "CONTENT_EN": "All lanes of Marsh Road (Gloucester Road bound) between Jaffe Road and Gloucester Road Service Road which were closed due to emergency repair of road surface are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的馬師道(往告士打道方向)介乎謝斐道與告士打道輔助道路之間的全線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2023-06-19T22:58:40",
-        "last_announcement": "2023-06-19T22:40:00"
-    },
     "IN-23-02608": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
