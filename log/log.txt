@@ -2845,3 +2845,5 @@ del: IN-23-02605
 2023-06-23 02:47:09
 20230623-0245[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5a69bd67d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
 
+2023-06-23 02:57:23
+
