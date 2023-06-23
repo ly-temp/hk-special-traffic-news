@@ -1,192 +1,4 @@
 {
-    "IN-23-02608": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Yin Kong Tsuen",
-            "NEAR_LANDMARK_CN": "燕崗村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-20T07:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81735",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Yuen Long bound) near Yin Kong Tsuen is closed to all traffic. Only remaining lane(s) is available to motorists.",
-                "CONTENT_CN": "因交通意外，粉嶺公路(往元朗方向)近燕崗村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2023-06-20T08:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81737",
-                "CONTENT_EN": "Part of the lanes of Fanling Highway (Yuen Long bound) near Yin Kong Tsuen which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往元朗方向)近燕崗村的部份行車線現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2023-06-20T09:42:48",
-        "last_announcement": "2023-06-20T08:08:00"
-    },
-    "IN-23-02609": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Che Kung Miu Road",
-            "LOCATION_CN": "車公廟路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chui Tin Street",
-            "DIRECTION_CN": "翠田街",
-            "NEAR_LANDMARK_EN": "Mei Tin Road",
-            "NEAR_LANDMARK_CN": "美田路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-20T07:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81734",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Che Kung Miu Road (Chui Tin Street bound) near Mei Tin Road roundabout is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，車公廟路(往翠田街方向)近美田路迴旋處的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-06-20T09:42:48",
-        "last_announcement": "2023-06-20T07:52:00"
-    },
-    "IN-23-02611": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Yue Man Square",
-            "NEAR_LANDMARK_CN": "裕民坊",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-20T08:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81738",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Kwun Tong Road (Mong Kok bound) near Yue Man Square is closed to all traffic. Only remaining lane(s) is available to motorists.",
-                "CONTENT_CN": "因交通意外，觀塘道(往旺角方向)近裕民坊的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2023-06-20T08:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81739",
-                "CONTENT_EN": "The fast lane of Kwun Tong Road (Mong Kok bound) near Yue Man Square which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往旺角方向)近裕民坊的快線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2023-06-20T09:42:48",
-        "last_announcement": "2023-06-20T08:28:00"
-    },
-    "IN-23-02613": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Hong Kong Science Park",
-            "NEAR_LANDMARK_CN": "香港科學園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-20T08:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81741",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-20T09:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81743",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park is still being closed to all traffic. Only remaining lane(s) are available to motorists. Traffic queue on Tolo Highway (Kowloon bound) ends at Deerhill Bay. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在吐露港公路(往九龍方向)的車龍龍尾已到鹿茵山莊。 現時上址交通繁忙。"
-            },
-            "2023-06-20T09:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81745",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park which was closed due to traffic accident is re-opened to all traffic. Traffic queue(s) take(s) time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近香港科學園的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-06-20T09:42:48",
-        "last_announcement": "2023-06-20T09:06:00"
-    },
-    "IN-23-02612": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ping Shek Estate",
-            "NEAR_LANDMARK_CN": "坪石邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-20T09:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81746",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road flyover (Kwun Tong bound) near Ping Shek Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道天橋(往觀塘方向)近坪石邨的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2023-06-20T09:42:48",
-        "last_announcement": "2023-06-20T09:18:00"
-    },
     "IN-23-02614": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1836,10 +1648,63 @@
                 "ID": "81846",
                 "CONTENT_EN": "Extra travelling time can be expected on the Kwun Tong Line. \nPlease allow more time for travel.",
                 "CONTENT_CN": "觀塘綫列車預計需要額外行車時間，\n請為行程預留充裕時間。"
+            },
+            "2023-06-23T07:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81847",
+                "CONTENT_EN": "Due to an equipment fault on a train at Mong Kok Station, the total journey time on the Kwun Tong Line between Whampoa Station and Tiu Keng Leng Station could be extended by 15-20 minutes.",
+                "CONTENT_CN": "由於有列車在旺角站出現設備故障，觀塘綫來往黃埔站及調景嶺站的行車時間預計需要額外15-20分鐘。"
+            },
+            "2023-06-23T08:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81848",
+                "CONTENT_EN": "Train Service on the Kwun Tong Line is gradually resuming.",
+                "CONTENT_CN": "在旺角站出現故障的列車已被移離行車綫，觀塘綫列車服務逐步回復正常。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-06-23T07:56:50",
-        "last_announcement": "2023-06-23T07:39:00"
+        "last_update": "2023-06-23T09:47:16",
+        "last_announcement": "2023-06-23T08:09:00"
+    },
+    "IN-23-02658": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Rumsey Street",
+            "LOCATION_CN": "林士街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wan Chai",
+            "DIRECTION_CN": "灣仔",
+            "NEAR_LANDMARK_EN": "Rumsey Street Multi-Storey Car Park",
+            "NEAR_LANDMARK_CN": "林士街多層停車場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-23T09:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81849",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Rumsey Street flyover (Wan Chai bound) near Rumsey Street Multi-Storey Car Park is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，林士街天橋(往灣仔方向)近林士街多層停車場的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-23T09:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81850",
+                "CONTENT_EN": "Part of the lanes of Rumsey Street flyover (Wan Chai bound) near Rumsey Street Multi-Storey Car Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的林士街天橋(往灣仔方向)近林士街多層停車場的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2023-06-23T09:47:16",
+        "last_announcement": "2023-06-23T09:13:00"
     }
 }
