@@ -1834,5 +1834,37 @@
         "district": "屯門區",
         "last_update": "2023-06-23T16:57:10",
         "last_announcement": "2023-06-23T16:40:00"
+    },
+    "IN-23-02667": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Road",
+            "DIRECTION_CN": "屯門公路",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-23T16:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81868",
+                "CONTENT_EN": "Part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun Road bound) to Tai Chung Road Roundabout  which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的由荃灣路(往屯門公路方向)通往大涌道迴旋處 的支路的 部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2023-06-23T17:18:04",
+        "last_announcement": "2023-06-23T16:58:00"
     }
 }
