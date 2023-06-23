@@ -91,38 +91,6 @@
         "last_update": "2023-06-20T18:32:04",
         "last_announcement": "2023-06-20T18:13:00"
     },
-    "IN-23-02618": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Central-Wan Chai Bypass - Tunnel",
-            "LOCATION_CN": "中環灣仔繞道-隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Westbound",
-            "DIRECTION_CN": "西行",
-            "NEAR_LANDMARK_EN": "North Wan Chai exit",
-            "NEAR_LANDMARK_CN": "灣仔北出口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-20T17:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81761",
-                "CONTENT_EN": "Part of the tunnel tube lanes of Central-Wan Chai Bypass - Tunnel (westbound) near Wan Chai North exit which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的中環灣仔繞道-隧道(西行)近灣仔北出口的部份管道行車線現已解封。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2023-06-20T17:58:11",
-        "last_announcement": "2023-06-20T17:41:00"
-    },
     "IN-23-02621": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
