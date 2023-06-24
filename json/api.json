@@ -1670,11 +1670,18 @@
                 "ID": "81896",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Fat Kwong Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近佛光街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-24T15:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81901",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Fat Kwong Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近佛光街的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2023-06-24T15:11:34",
-        "last_announcement": "2023-06-24T14:58:00"
+        "last_update": "2023-06-24T15:44:57",
+        "last_announcement": "2023-06-24T15:38:00"
     },
     "IN-23-02684": {
         "description": {
@@ -1714,5 +1721,37 @@
         "district": "黃大仙區",
         "last_update": "2023-06-24T15:34:37",
         "last_announcement": "2023-06-24T15:18:00"
+    },
+    "IN-23-02685": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Aberdeen/Stanley and Po Toi Island kaito ferry services",
+            "INCIDENT_DETAIL_CN": "香港仔/赤柱-蒲台島街渡渡輪服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-24T15:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "81899",
+                "CONTENT_EN": "Due to the inclement weather, the sailing of Aberdeen/Stanley and Po Toi Island kaito ferry services depart from Po Toi Island at 4:00 pm will not stop at Stanley.",
+                "CONTENT_CN": "由於海面風浪較大，翠華船務來往香港仔/赤柱-蒲台島街渡渡輪服務的下午4時正由蒲台島開出的班次將不會經停赤柱。"
+            }
+        },
+        "district": null,
+        "last_update": "2023-06-24T15:44:57",
+        "last_announcement": "2023-06-24T15:31:00"
     }
 }
