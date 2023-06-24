@@ -1695,11 +1695,18 @@
                 "ID": "81907",
                 "CONTENT_EN": "Due to emergency repair of road surface , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Fo Tan Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因緊急路面維修，大埔公路　–　沙田段(往大埔方向)近火炭路的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-24T17:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81910",
+                "CONTENT_EN": "Due to emergency repair of road surface , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Fo Tan Road is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queues on Tai Po Road - Sha Tin (Tai Po bound) ends at Shing Mun Tunnel Road near Mei Lam Estate and Tsing Sha Highway near Mei Lam Estate.   Traffic is congested now.",
+                "CONTENT_CN": "因緊急路面維修，大埔公路–沙田段(往大埔方向)近火炭路的慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在大埔公路–沙田段(往大埔方向)的車龍龍尾已到城門隧道公路近美林邨及青沙公路近美林邨。  現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-06-24T17:10:00",
-        "last_announcement": "2023-06-24T16:50:00"
+        "last_update": "2023-06-24T17:35:21",
+        "last_announcement": "2023-06-24T17:26:00"
     },
     "IN-23-02690": {
         "description": {
@@ -1727,10 +1734,17 @@
                 "ID": "81908",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Victoria Park Road (Central bound) near World Trade Centre is closed to all traffic. Only remaining lane(s) are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，維園道(往中環方向)近世界貿易中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2023-06-24T17:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81909",
+                "CONTENT_EN": "Part of the lanes of Victoria Park Road (Central bound) near World Trade Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的維園道(往中環方向)近世界貿易中心的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2023-06-24T17:24:43",
-        "last_announcement": "2023-06-24T17:10:00"
+        "last_update": "2023-06-24T17:35:21",
+        "last_announcement": "2023-06-24T17:17:00"
     }
 }
