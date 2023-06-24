@@ -1565,5 +1565,37 @@
         "district": "深水埗區",
         "last_update": "2023-06-24T12:00:10",
         "last_announcement": "2023-06-24T11:48:00"
+    },
+    "IN-23-02678": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Kai Yip Estate",
+            "NEAR_LANDMARK_CN": "啟業邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-24T12:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81888",
+                "CONTENT_EN": "The lane no. 4 of Kwun Tong Road (Kwun Tong bound) near Kai Yip Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘道(往觀塘方向)近啟業邨的第4線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-06-24T12:25:48",
+        "last_announcement": "2023-06-24T12:13:00"
     }
 }
