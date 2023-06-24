@@ -1663,11 +1663,18 @@
                 "ID": "81903",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Shing Mun Tunnel Road (Sha Tin bound) near Mei Lam Estate is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，城門隧道公路(往沙田方向)近美林邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-24T16:19:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81904",
+                "CONTENT_EN": "Part of the lanes of Shing Mun Tunnel Road (Sha Tin bound) near Mei Lam Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的城門隧道公路(往沙田方向)近美林邨的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-06-24T15:55:01",
-        "last_announcement": "2023-06-24T15:42:00"
+        "last_update": "2023-06-24T16:43:46",
+        "last_announcement": "2023-06-24T16:19:00"
     },
     "IN-23-02686": {
         "description": {
@@ -1727,10 +1734,17 @@
                 "ID": "81905",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近天馬苑的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-24T16:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81906",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近天馬苑的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2023-06-24T16:32:53",
-        "last_announcement": "2023-06-24T16:22:00"
+        "last_update": "2023-06-24T16:43:46",
+        "last_announcement": "2023-06-24T16:29:00"
     }
 }
