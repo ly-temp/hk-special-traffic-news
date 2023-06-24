@@ -38,77 +38,6 @@
         "last_update": "2023-06-22T16:27:46",
         "last_announcement": "2023-06-22T16:17:00"
     },
-    "IN-23-02631": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Tan Kwai Tsuen",
-            "NEAR_LANDMARK_CN": "丹桂村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-21T06:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81790",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tan Kwai Tsuen is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近丹桂村的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-21T07:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81791",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tan Kwai Tsuen which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往屯門方向)近丹桂村的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2023-06-21T09:12:25",
-        "last_announcement": "2023-06-21T07:56:00"
-    },
-    "IN-23-02632": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-21T08:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81792",
-                "CONTENT_EN": "Fortune Ferry Company Limited\nDue to vehicular mechanical defects, the services of Tuen Mun - Tung Chung ferry route would be suspended from 8:00 a. m. to 8:30 a. m. \nThe ferry service will be resumed at 9:00 a. m.",
-                "CONTENT_CN": "富裕小輪有限公司\n因船隻機件故障，屯門-東涌線於上午8:00至上午8:30期間\n暫停服務。渡輪服務將於上午9:00回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2023-06-21T09:12:25",
-        "last_announcement": "2023-06-21T08:15:00"
-    },
     "IN-23-02633": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1606,10 +1535,17 @@
                 "ID": "81880",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Tsuen Wan Road (Kowloon bound) near Chai Wan Kok Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近柴灣角街的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-24T08:07:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "81881",
+                "CONTENT_EN": "The fast lane of Tsuen Wan Road (Kowloon bound) near Chai Wan Kok Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近柴灣角街的快線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2023-06-24T07:24:23",
-        "last_announcement": "2023-06-24T07:08:00"
+        "last_update": "2023-06-24T09:26:54",
+        "last_announcement": "2023-06-24T08:07:00"
     }
 }
