@@ -38,45 +38,6 @@
         "last_update": "2023-06-22T16:27:46",
         "last_announcement": "2023-06-22T16:17:00"
     },
-    "IN-23-02653": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Wuhu Street",
-            "LOCATION_CN": "蕪湖街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Whampoa",
-            "DIRECTION_CN": "黃埔",
-            "NEAR_LANDMARK_EN": "Ma Tau Wai Road",
-            "NEAR_LANDMARK_CN": "馬頭圍道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-22T11:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81836",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Wuhu Street (Whampoa bound) near Ma Tau Wai Road is closed to all traffic. Only remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，蕪湖街(往黃埔方向)近馬頭圍道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-22T12:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81837",
-                "CONTENT_EN": "Part of the lanes of Wuhu Street (Whampoa bound) near Ma Tau Wai Road which was closed due to vehicle on fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的蕪湖街(往黃埔方向)近馬頭圍道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2023-06-22T12:28:44",
-        "last_announcement": "2023-06-22T12:18:00"
-    },
     "IN-23-02654": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
