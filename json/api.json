@@ -1699,11 +1699,18 @@
                 "ID": "81936",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Ting Kau is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近汀九的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-26T07:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81943",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Ting Kau which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近汀九的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2023-06-26T06:53:46",
-        "last_announcement": "2023-06-26T06:41:00"
+        "last_update": "2023-06-26T07:47:13",
+        "last_announcement": "2023-06-26T07:38:00"
     },
     "IN-23-02709": {
         "description": {
@@ -1738,11 +1745,18 @@
                 "ID": "81939",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tolo Highway (Kowloon bound) ends near Tai Po Kau Lo Wai.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在吐露港公路(往九龍方向)的車龍龍尾已到近大埔滘老圍。  現時上址交通擠塞。"
+            },
+            "2023-06-26T07:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81942",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Tolo Highway (Kowloon bound) ends near Tai Po Kau Lo Wai.   Citizens heading to Kowloon area from Tai Po, Fanling and Sheung Shui please consider using MTR services.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在吐露港公路(往九龍方向)的車龍龍尾已到近大埔滘老圍。  由大埔、粉嶺及上水前往九龍一帶的市民，請考慮使用港鐵服務。  現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-06-26T07:26:03",
-        "last_announcement": "2023-06-26T07:02:00"
+        "last_update": "2023-06-26T07:47:13",
+        "last_announcement": "2023-06-26T07:33:00"
     },
     "IN-23-02710": {
         "description": {
@@ -1802,10 +1816,17 @@
                 "ID": "81940",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Tai Po Railway Pier is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近大埔鐵路碼頭的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-26T07:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "81941",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Tai Po Railway Pier which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近大埔鐵路碼頭的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "離島區",
-        "last_update": "2023-06-26T07:26:03",
-        "last_announcement": "2023-06-26T07:07:00"
+        "last_update": "2023-06-26T07:47:13",
+        "last_announcement": "2023-06-26T07:31:00"
     }
 }
