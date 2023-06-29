@@ -38,45 +38,6 @@
         "last_update": "2023-06-26T11:02:04",
         "last_announcement": "2023-06-26T10:24:00"
     },
-    "IN-23-02712": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ma Tau Chung Road",
-            "LOCATION_CN": "馬頭涌道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Sung Wong Toi Road",
-            "NEAR_LANDMARK_CN": "宋皇臺道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-26T08:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81945",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ma Tau Chung Road (Hung Hom bound) near Sung Wong Toi Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，馬頭涌道(往紅磡方向)近宋皇臺道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-26T09:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81953",
-                "CONTENT_EN": "Part of the lanes of Ma Tau Chung Road (Hung Hom bound) near Sung Wong Toi Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的馬頭涌道(往紅磡方向)近宋皇臺道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2023-06-26T09:54:48",
-        "last_announcement": "2023-06-26T09:10:00"
-    },
     "IN-23-02713": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -129,187 +90,6 @@
         "district": null,
         "last_update": "2023-06-26T11:02:04",
         "last_announcement": "2023-06-26T10:42:00"
-    },
-    "IN-23-02714": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Incident",
-            "INCIDENT_DETAIL_CN": "道路事故",
-            "LOCATION_EN": "Boundary Street",
-            "LOCATION_CN": "界限街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "Cumberland Road",
-            "NEAR_LANDMARK_CN": "金巴倫道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-26T08:33:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81947",
-                "CONTENT_EN": "Due to road incident , part of the lanes of Boundary Street (Kowloon City bound) near Cumberland Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因道路事故，界限街(往九龍城方向)近金巴倫道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-26T09:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81954",
-                "CONTENT_EN": "Part of the lanes of Boundary Street (Kowloon City bound) near Cumberland Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的界限街(往九龍城方向)近金巴倫道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2023-06-26T09:54:48",
-        "last_announcement": "2023-06-26T09:20:00"
-    },
-    "IN-23-02715": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tuen Lee Street",
-            "NEAR_LANDMARK_CN": "屯利街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-26T08:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81950",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Lee Street are closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近屯利街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-26T09:37:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "81956",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Lee Street which were closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近屯利街的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2023-06-26T09:54:48",
-        "last_announcement": "2023-06-26T09:37:00"
-    },
-    "IN-23-02716": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Aberdeen Tunnel",
-            "LOCATION_CN": "香港仔隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wan Chai",
-            "DIRECTION_CN": "灣仔",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-26T09:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81952",
-                "CONTENT_EN": "All lanes of Aberdeen Tunnel (Wan Chai bound) which were closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的香港仔隧道(往灣仔方向)的全線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2023-06-26T09:54:48",
-        "last_announcement": "2023-06-26T09:00:00"
-    },
-    "IN-23-02717": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ping Shek Estate",
-            "NEAR_LANDMARK_CN": "坪石邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-26T09:33:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81955",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Kwun Tong bound) near Ping Shek Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往觀塘方向)近坪石邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2023-06-26T09:54:48",
-        "last_announcement": "2023-06-26T09:33:00"
-    },
-    "IN-23-02718": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Beacon Heights",
-            "NEAR_LANDMARK_CN": "畢架山花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-26T09:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "81957",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近畢架山花園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-26T09:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "81959",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近畢架山花園的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-06-26T09:54:48",
-        "last_announcement": "2023-06-26T09:49:00"
     },
     "IN-23-02719": {
         "description": {
@@ -1910,11 +1690,25 @@
                 "ID": "82065",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwai Chung bound) near Caritas Medical Centre is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Ching Cheung Road (Kwai Chung bound) ends at Lung Cheung Road near Tin Ma Court.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往葵涌方向)近明愛醫院的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在呈祥道(往葵涌方向)的車龍龍尾已到龍翔道近天馬苑。  現時上址交通擠塞。"
+            },
+            "2023-06-29T08:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82072",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwai Chung bound) near Caritas Medical Centre is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Ching Cheung Road (Kwai Chung bound) ends at Lung Cheung Road near Wong Tai Sin MTR Station.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，呈祥道(往葵涌方向)近明愛醫院的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在呈祥道(往葵涌方向)的車龍龍尾已到龍翔道近黃大仙港鐵站。  現時上址交通擠塞。"
+            },
+            "2023-06-29T09:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82075",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwai Chung bound) near Caritas Medical Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往葵涌方向)近明愛醫院的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-06-29T08:55:44",
-        "last_announcement": "2023-06-29T08:04:00"
+        "last_update": "2023-06-29T10:24:29",
+        "last_announcement": "2023-06-29T09:04:00"
     },
     "IN-23-02761": {
         "description": {
@@ -2045,11 +1839,18 @@
                 "ID": "82069",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Ka Loon Tsuen.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近深井的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近嘉龍村。  現時上址交通擠塞。"
+            },
+            "2023-06-29T08:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82074",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2023-06-29T08:55:44",
-        "last_announcement": "2023-06-29T08:33:00"
+        "last_update": "2023-06-29T10:24:29",
+        "last_announcement": "2023-06-29T08:59:00"
     },
     "IN-23-02764": {
         "description": {
@@ -2121,5 +1922,179 @@
         "district": null,
         "last_update": "2023-06-29T08:55:44",
         "last_announcement": "2023-06-29T08:45:00"
+    },
+    "IN-23-02766": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road South",
+            "LOCATION_CN": "漆咸道南",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-29T09:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82076",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-29T09:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82080",
+                "CONTENT_EN": "Part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-06-29T10:24:29",
+        "last_announcement": "2023-06-29T09:38:00"
+    },
+    "IN-23-02768": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "So Uk",
+            "NEAR_LANDMARK_CN": "蘇屋",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-29T09:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82078",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Tsuen Wan bound) near So Uk is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近蘇屋的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-06-29T09:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82082",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near So Uk which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近蘇屋的慢線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2023-06-29T10:24:29",
+        "last_announcement": "2023-06-29T09:44:00"
+    },
+    "IN-23-02767": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Kai Yip Estate",
+            "NEAR_LANDMARK_CN": "啟業邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-29T09:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82079",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Kwun Tong bound) near Kai Yip Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘道(往觀塘方向)近啟業邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-06-29T10:24:29",
+        "last_announcement": "2023-06-29T09:27:00"
+    },
+    "IN-23-02769": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hiram's Highway",
+            "LOCATION_CN": "西貢公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O",
+            "DIRECTION_CN": "將軍澳",
+            "NEAR_LANDMARK_EN": "Cheng Chek Chee Secondary School Of Sai Kung and Hang Hau District",
+            "NEAR_LANDMARK_CN": "西貢坑口鄭植之中學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-29T10:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82083",
+                "CONTENT_EN": "Part of the lanes of Hiram's Highway (Tseung Kwan O bound) near Cheng Chek Chee Secondary School Of Sai Kung and Hang Hau District which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西貢公路(往將軍澳方向)近西貢坑口鄭植之中學的部份行車線現已解封。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2023-06-29T10:24:29",
+        "last_announcement": "2023-06-29T10:06:00"
+    },
+    "IN-23-02770": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sha Tin MTR Station",
+            "NEAR_LANDMARK_CN": "沙田港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-06-29T10:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82084",
+                "CONTENT_EN": "Due to emergency repair of road surface , the slow lane of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin MTR Station is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，大埔公路　–　沙田段(往九龍方向)近沙田港鐵站的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2023-06-29T10:24:29",
+        "last_announcement": "2023-06-29T10:12:00"
     }
 }
