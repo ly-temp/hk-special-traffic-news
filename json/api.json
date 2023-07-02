@@ -1,50 +1,4 @@
 {
-    "IN-23-02756": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kowloon Bay MTR Station",
-            "NEAR_LANDMARK_CN": "九龍灣港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-06-29T06:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82052",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kowloon Bay MTR Station is closed to all traffic. \nBesides, the fast lane of Kwun Tong Road (Choi Hung Estate Bound) near Kowloon Bay MTR Station is also closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近九龍灣港鐵站的部份行車線現已封閉。\n此外，觀塘道(往彩虹邨方向)近九龍灣港鐵站的快線亦已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-29T07:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82054",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Kowloon Bay MTR Station which was closed due to traffic accident is re-opened to all traffic;\nthe fast lane of Kwun Tong Road (Choi Hung Estate bound) near Kowloon Bay MTR Station is still closed to all traffic. Only remaining lane is still available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近九龍灣港鐵站的部份行車線現已解封;\n觀塘道(往彩虹邨方向)近九龍灣港鐵站的快線仍然封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-06-29T13:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82093",
-                "CONTENT_EN": "The fast lane of Kwun Tong Road (Choi Hung Estate bound) near Kowloon Bay MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往彩虹邨方向)近九龍灣港鐵站的快線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2023-06-29T13:50:04",
-        "last_announcement": "2023-06-29T13:38:00"
-    },
     "IN-23-02772": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1448,10 +1402,17 @@
                 "ID": "82175",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near Kadoorie Avenue is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，太子道西(往大角咀方向)近嘉道理道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-02T13:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82176",
+                "CONTENT_EN": "Part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near Kadoorie Avenue which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的太子道西(往大角咀方向)近嘉道理道的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2023-07-02T13:46:05",
-        "last_announcement": "2023-07-02T13:30:00"
+        "last_update": "2023-07-02T13:56:08",
+        "last_announcement": "2023-07-02T13:47:00"
     }
 }
