@@ -1,50 +1,4 @@
 {
-    "IN-23-02795": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Classical Gardens",
-            "NEAR_LANDMARK_CN": "新峰花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-01T08:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82145",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Tolo Highway (Kowloon bound) near Classical Gardens are closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近新峰花園的全線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2023-07-01T08:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82146",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Classical Gardens is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近新峰花園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-01T09:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82147",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Classical Gardens which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近新峰花園的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2023-07-01T10:23:21",
-        "last_announcement": "2023-07-01T09:23:00"
-    },
     "IN-23-02796": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1223,11 +1177,18 @@
                 "ID": "82216",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Ngau Tau Kok Road (Amoy Garden bound) between On Tak Road and Kwun Tong Road are closed to all traffic.   At the same time, the fast lane of Ngau Tau Kok Road (Ngau Tau Kok MTR Station bound) between On Tak Road and Kwun Tong Road is closed to all traffic. Only remaining lane is available to motorists.   Affected KMB bus routes nos. 13D,14B,23M, 89,101,101X,619, N619 and N293 have been diverted.   Motorists are advised to use alternative routes such as On Shin Road and On Tak Road.   Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，牛頭角道(往淘大花園方向)介乎安德道與觀塘道之間的全線現已封閉。  同時，牛頭角道(往牛頭角港鐵站方向)介乎安德道與觀塘道之間的快線亦已封閉。駕駛人士只可使用餘下行車線行車。  受影響九巴巴士第13D、14B、23M、89、101、101X、619、N619及N293號線須改道行駛。  駕駛人士請考慮改用其他道路，例如安善道和安德道。  現時上址交通繁忙。"
+            },
+            "2023-07-04T10:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82259",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Ngau Tau Kok Road (Amoy Garden bound) between On Tak Road and Sheung Yee Road Flyover are still being closed to all traffic.   At the same time, the road section of Ngau Tau Kok Road (Ngau Tau Kok MTR Station bound) between On Tak Road and Sheung Yee Road Flyover will be converted to two-way traffic.   Affected bus routes have resumed their original routeings.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，牛頭角道(往淘大花園方向)介乎安德道與常怡道天橋之間的全線仍然封閉。  同時，牛頭角道(往牛頭角港鐵站方向)介乎安德道與常怡道天橋之間的路段改為雙向行車。  受影響巴士路線現已恢復原有路線行駛。  現時上址交通繁忙。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-07-03T13:38:28",
-        "last_announcement": "2023-07-03T13:18:00"
+        "last_update": "2023-07-04T11:02:50",
+        "last_announcement": "2023-07-04T10:42:00"
     },
     "IN-23-02827": {
         "description": {
@@ -1840,10 +1801,81 @@
                 "ID": "82256",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Tuen Mun bound) near Harrow International School Hong Kong is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近哈羅香港國際學校的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-04T10:24:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82257",
+                "CONTENT_EN": "The slow lane of Tuen Mun Road (Tuen Mun bound) near Harrow International School Hong Kong which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往屯門方向)近哈羅香港國際學校的慢線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2023-07-04T10:00:50",
-        "last_announcement": "2023-07-04T09:49:00"
+        "last_update": "2023-07-04T11:02:50",
+        "last_announcement": "2023-07-04T10:24:00"
+    },
+    "IN-23-02846": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Dragon Industrial Building",
+            "NEAR_LANDMARK_CN": "龍翔工業大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-04T10:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82258",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，呈祥道(往荃灣方向)近龍翔工業大廈的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2023-07-04T11:02:50",
+        "last_announcement": "2023-07-04T10:30:00"
+    },
+    "IN-23-02847": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Heng Fa Chuen",
+            "DIRECTION_CN": "杏花邨",
+            "NEAR_LANDMARK_EN": "Hong Kong Museum of Coastal Defence",
+            "NEAR_LANDMARK_CN": "香港海防博物館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-04T10:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82260",
+                "CONTENT_EN": "Due to fallen tree , part of the lanes of Island Eastern Corridor (Heng Fa Chuen bound) near Hong Kong Museum of Coastal Defence is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，東區走廊(往杏花邨方向)近香港海防博物館的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-07-04T11:02:50",
+        "last_announcement": "2023-07-04T10:49:00"
     }
 }
