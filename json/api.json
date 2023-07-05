@@ -1,36 +1,4 @@
 {
-    "IN-23-02807": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-02T12:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82174",
-                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2023-07-02T13:06:43",
-        "last_announcement": "2023-07-02T12:53:00"
-    },
     "IN-23-02808": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
