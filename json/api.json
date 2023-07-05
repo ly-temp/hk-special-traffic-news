@@ -2756,5 +2756,37 @@
         "district": "離島區",
         "last_update": "2023-07-05T19:52:53",
         "last_announcement": "2023-07-05T19:45:00"
+    },
+    "IN-23-02886": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Lam Tei",
+            "NEAR_LANDMARK_CN": "藍地",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T20:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82356",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Yuen Long Highway (Yuen Long bound) near Lam Tei is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，元朗公路(往元朗方向)近藍地的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2023-07-05T20:22:49",
+        "last_announcement": "2023-07-05T20:11:00"
     }
 }
