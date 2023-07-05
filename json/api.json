@@ -2333,10 +2333,322 @@
                 "ID": "82306",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Lookout is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends near Tin Ma Court.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道觀景台的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在龍翔道(往荃灣方向)的車龍龍尾已到近天馬苑。  現時上址交通擠塞。"
+            },
+            "2023-07-05T08:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82312",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Lookout is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Diamond Hill MTR Station.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道觀景台的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近鑽石山港鐵站。  現時上址交通擠塞。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2023-07-05T07:56:44",
-        "last_announcement": "2023-07-05T07:48:00"
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T08:14:00"
+    },
+    "IN-23-02867": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Beacon Heights",
+            "NEAR_LANDMARK_CN": "畢架山花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T07:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82308",
+                "CONTENT_EN": "Due to road incident , the fast lane of Lung Cheung Road (Kwun Tong bound) near Beacon Heights is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因道路事故，龍翔道(往觀塘方向)近畢架山花園的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-05T08:13:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82311",
+                "CONTENT_EN": "The fast lane of Lung Cheung Road (Kwun Tong bound) near Beacon Heights which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近畢架山花園的快線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T08:13:00"
+    },
+    "IN-23-02868": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wong Tai Sin",
+            "DIRECTION_CN": "黃大仙",
+            "NEAR_LANDMARK_EN": "Hong Ning Road",
+            "NEAR_LANDMARK_CN": "康寧道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T08:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82310",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Wong Tai Sin bound) near Hong Ning Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往黃大仙方向)近康寧道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-05T08:27:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82313",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Wong Tai Sin bound) near Hong Ning Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往黃大仙方向)近康寧道的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T08:27:00"
+    },
+    "IN-23-02869": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Robinson Road",
+            "LOCATION_CN": "羅便臣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wan Chai",
+            "DIRECTION_CN": "灣仔",
+            "NEAR_LANDMARK_EN": "Raimondi College",
+            "NEAR_LANDMARK_CN": "高主教書院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T08:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82314",
+                "CONTENT_EN": "Due to traffic accident , the only lane of Robinson Road (Wan Chai bound) near Raimondi College is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，羅便臣道(往灣仔方向)近高主教書院的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T08:31:00"
+    },
+    "IN-23-02870": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Cross Harbour Tunnel",
+            "LOCATION_CN": "海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong Island",
+            "DIRECTION_CN": "香港島",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T08:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82315",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube fast lane of Cross Harbour Tunnel (Hong Kong Island bound) is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，海底隧道(往香港島方向)的管道快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-05T08:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82317",
+                "CONTENT_EN": "The tunnel tube fast lane of Cross Harbour Tunnel (Hong Kong Island bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的海底隧道(往香港島方向)的管道快線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T08:51:00"
+    },
+    "IN-23-02871": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Argyle Street",
+            "LOCATION_CN": "亞皆老街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Kok Tsui",
+            "DIRECTION_CN": "大角咀",
+            "NEAR_LANDMARK_EN": "Sai Yeung Choi Street South",
+            "NEAR_LANDMARK_CN": "西洋菜南街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T08:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82318",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Argyle Street (Tai Kok Tsui bound) near Sai Yeung Choi Street South are closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，亞皆老街(往大角咀方向)近西洋菜南街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-05T09:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82324",
+                "CONTENT_EN": "Part of the lanes of Argyle Street (Tai Kok Tsui bound) near Sai Yeung Choi Street South which were closed due to traffic accident are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街(往大角咀方向)近西洋菜南街的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T09:24:00"
+    },
+    "IN-23-02872": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Mong Kok Road",
+            "LOCATION_CN": "旺角道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sai Yee Street",
+            "DIRECTION_CN": "洗衣街",
+            "NEAR_LANDMARK_EN": "Fa Yuen Street",
+            "NEAR_LANDMARK_CN": "花園街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T09:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82319",
+                "CONTENT_EN": "Due to emergency incident , part of the lanes of Mong Kok Road (Sai Yee Street bound) near Fa Yuen Street are closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，旺角道(往洗衣街方向)近花園街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-05T09:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82320",
+                "CONTENT_EN": "Due to emergency incident , all lanes of Mong Kok Road (Sai Yee Street bound) near Fa Yuen Street are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，旺角道(往洗衣街方向)近花園街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2023-07-05T09:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82325",
+                "CONTENT_EN": "Due to emergency incident , part of the lanes of Mong Kok Road (Sai Yee Street bound) near Fa Yuen Street are still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，旺角道(往洗衣街方向)近花園街的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T09:30:00"
+    },
+    "IN-23-02873": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Eastern Harbour Crossing",
+            "LOCATION_CN": "東區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong Island",
+            "DIRECTION_CN": "香港島",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T09:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82321",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube fast lane of Eastern Harbour Crossing (Hong Kong Island bound) is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東區海底隧道(往香港島方向)的管道快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-05T09:23:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82323",
+                "CONTENT_EN": "The tunnel tube fast lane of Eastern Harbour Crossing (Hong Kong Island bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區海底隧道(往香港島方向)的管道快線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T09:23:00"
+    },
+    "IN-23-02874": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Aberdeen Reservoir Road",
+            "LOCATION_CN": "香港仔水塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen Praya Road",
+            "DIRECTION_CN": "香港仔海傍道",
+            "NEAR_LANDMARK_EN": "Lok Yeung Street",
+            "NEAR_LANDMARK_CN": "洛陽街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-05T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82322",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Aberdeen Main Road and Aberdeen Reservoir Road (Aberdeen Praya Road bound) near Lok Yeung Street are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，香港仔大道及香港仔水塘道(往香港仔海傍道方向)近洛陽街的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2023-07-05T09:45:36",
+        "last_announcement": "2023-07-05T09:20:00"
     }
 }
