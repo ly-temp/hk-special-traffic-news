@@ -2765,10 +2765,17 @@
                 "ID": "82351",
                 "CONTENT_EN": "Due to vehicle on fire, the slip road leading from Island Eastern Corridor (both bounds) to Taikoo Wan Road is closed to all traffic. Traffic is busy now.",
                 "CONTENT_CN": "因車輛着火，由東區走廊(來回方向)通往太古灣道的支路現已封閉。 現時上址交通繁忙。"
+            },
+            "2023-07-05T18:06:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82353",
+                "CONTENT_EN": "The slip road leading from Island Eastern Corridor (both bounds) to Taikoo Wan Road which was closed due to vehicle on fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛着火而封閉的由東區走廊(來回方向)通往太古灣道的支路現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2023-07-05T17:11:46",
-        "last_announcement": "2023-07-05T16:46:00"
+        "last_update": "2023-07-05T18:25:59",
+        "last_announcement": "2023-07-05T18:06:00"
     }
 }
