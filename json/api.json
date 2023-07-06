@@ -2646,5 +2646,37 @@
         "district": "油尖旺區",
         "last_update": "2023-07-06T11:19:50",
         "last_announcement": "2023-07-06T11:00:00"
+    },
+    "IN-23-02893": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Tin Ping Road",
+            "LOCATION_CN": "天平路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Man Kam To",
+            "DIRECTION_CN": "文錦渡",
+            "NEAR_LANDMARK_EN": "Ma Sik Road",
+            "NEAR_LANDMARK_CN": "馬適路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-06T11:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82371",
+                "CONTENT_EN": "Due to watermain burst , the only lane of Tin Ping Road (Man Kam To bound) near Ma Sik Road is closed to all traffic. \nVehicles from Ma Sik Road (both bounds) are not allowed to enter Tin Ping Road. \nKMB 70K, 261, 270D, 673, 673A, 678A and Long Win E43 have been diverted.   Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管爆裂，天平路(往文錦渡方向)近馬適路的唯一行車線現已封閉。\n馬適路(來回方向)車輛亦不能駛入天平路。\n九巴70K、261、270D、673、673A、678A及龍運E43須改道行駛。  駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2023-07-06T12:08:19",
+        "last_announcement": "2023-07-06T11:17:00"
     }
 }
