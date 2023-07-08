@@ -126,52 +126,6 @@
         "last_update": "2023-07-05T21:32:28",
         "last_announcement": "2023-07-05T20:54:00"
     },
-    "IN-23-02874": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Aberdeen Reservoir Road",
-            "LOCATION_CN": "香港仔水塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Praya Road",
-            "DIRECTION_CN": "香港仔海傍道",
-            "NEAR_LANDMARK_EN": "Lok Yeung Street",
-            "NEAR_LANDMARK_CN": "洛陽街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-05T09:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82322",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Aberdeen Main Road and Aberdeen Reservoir Road (Aberdeen Praya Road bound) near Lok Yeung Street are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，香港仔大道及香港仔水塘道(往香港仔海傍道方向)近洛陽街的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2023-07-05T09:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82326",
-                "CONTENT_EN": "All lanes of Aberdeen Reservoir Road (Aberdeen Praya Road bound) near Lok Yeung Street which were closed due to traffic accident are re-opened to all traffic;\npart of the lanes of Aberdeen Main Road (Aberdeen Praya Road bound) near Lok Yeung Street is still closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "較早前因交通意外而封閉的香港仔水塘道(往香港仔海傍道方向)近洛陽街的全線現已解封;\n香港仔大道(往香港仔海傍道方向)近洛陽街的部份行車線仍然封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-05T12:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82346",
-                "CONTENT_EN": "Part of the lanes of Aberdeen Main Road (Aberdeen Praya Road bound) near Lok Yeung Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的香港仔大道(往香港仔海傍道方向)近洛陽街的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2023-07-05T12:44:50",
-        "last_announcement": "2023-07-05T12:32:00"
-    },
     "IN-23-02882": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
