@@ -1538,11 +1538,18 @@
                 "ID": "82397",
                 "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Ki Lung Street (Lai Chi Kok bound) between Poplar Street and Boundary Street is closed to all traffic. Only remaining lane(s) is available to motorists.",
                 "CONTENT_CN": "因水管緊急維修，基隆街(往荔枝角方向)介乎白楊街與界限街之間的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2023-07-08T09:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82444",
+                "CONTENT_EN": "Part of the lanes of Ki Lung Street (Lai Chi Kok bound) between Poplar Street and Boundary Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的基隆街(往荔枝角方向)介乎白楊街與界限街之間的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2023-07-06T18:24:34",
-        "last_announcement": "2023-07-06T18:01:00"
+        "last_update": "2023-07-08T09:43:52",
+        "last_announcement": "2023-07-08T09:18:00"
     },
     "IN-23-02903": {
         "description": {
@@ -2213,5 +2220,69 @@
         "district": "葵青區",
         "last_update": "2023-07-08T06:32:58",
         "last_announcement": "2023-07-08T06:10:00"
+    },
+    "IN-23-02922": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Mei Wan Street",
+            "LOCATION_CN": "美環街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-08T08:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82441",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Mei Wan Street (both bounds) is closed to all traffic. \nAt the same time, part of the lanes of Sai Lau Kok Road (both bounds) near Mei Wan Street is also closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，美環街(來回方向)的部份行車線現已封閉。\n同時，西樓角路(來回方向)近美環街的部份行車線亦現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2023-07-08T09:43:52",
+        "last_announcement": "2023-07-08T08:32:00"
+    },
+    "IN-23-02923": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Hung Mui Kuk Road",
+            "NEAR_LANDMARK_CN": "紅梅谷路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-08T09:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82442",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近紅梅谷路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2023-07-08T09:43:52",
+        "last_announcement": "2023-07-08T09:11:00"
     }
 }
