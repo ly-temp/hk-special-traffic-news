@@ -126,45 +126,6 @@
         "last_update": "2023-07-05T21:32:28",
         "last_announcement": "2023-07-05T20:54:00"
     },
-    "IN-23-02882": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "East Kowloon Way",
-            "LOCATION_CN": "東九龍走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Kai Tak Tunnel",
-            "NEAR_LANDMARK_CN": "啟德隧道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-05T13:33:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82347",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of East Kowloon Way (Tsim Sha Tsui bound) near Kai Tak Tunnel exit is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東九龍走廊(往尖沙咀方向)近啟德隧道出口的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-05T13:50:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "82348",
-                "CONTENT_EN": "The slow lane of East Kowloon Way (Tsim Sha Tsui bound) near Kai Tak Tunnel which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東九龍走廊(往尖沙咀方向)近啟德隧道的慢線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2023-07-05T14:12:29",
-        "last_announcement": "2023-07-05T13:50:00"
-    },
     "IN-23-02883": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1953,10 +1914,49 @@
                 "ID": "82461",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-08T14:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82462",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Waterloo Road (Lion Rock Tunnel bound) ends at Princess Margaret Road near Pui Ching Road.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在窩打老道(往獅子山隧道方向)的車龍龍尾已到公主道近培正道。  現時上址交通擠塞。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2023-07-08T13:55:36",
-        "last_announcement": "2023-07-08T13:50:00"
+        "last_update": "2023-07-08T14:18:33",
+        "last_announcement": "2023-07-08T14:06:00"
+    },
+    "IN-23-02931": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Hung Mui Kuk Road",
+            "NEAR_LANDMARK_CN": "紅梅谷路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-08T14:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82463",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近紅梅谷路的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2023-07-08T14:18:33",
+        "last_announcement": "2023-07-08T14:09:00"
     }
 }
