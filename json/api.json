@@ -45,52 +45,6 @@
         "last_update": "2023-07-08T07:10:17",
         "last_announcement": "2023-07-08T06:52:00"
     },
-    "IN-23-02894": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Tai Pak Tin Street",
-            "LOCATION_CN": "大白田街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "On Chit Street",
-            "NEAR_LANDMARK_CN": "安捷街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-06T12:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82374",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Tai Pak Tin Street (both bounds) near On Chit Street are closed to all traffic. \nAffected bus routes have been diverted.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，大白田街(來回方向)近安捷街的全線現已封閉。\n受影響巴士路線須改道行駛。  駕駛人士請考慮改用其他道路。"
-            },
-            "2023-07-06T13:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82383",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Tai Pak Tin Street (both bounds) between On Chit Lane and Tung Chi Street are closed to all traffic. \nAffected bus routes have been diverted.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，大白田街(來回方向)介乎安捷里與童子街之間的全線現已封閉。\n受影響巴士路線須改道行駛。  駕駛人士請考慮改用其他道路。"
-            },
-            "2023-07-06T15:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82388",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Tai Pak Tin Street (both bounds) between On Chit Lane and Tung Chi Street are still being closed to all traffic. The following affected bus route(s) has(have) been diverted: A30, 31, 31A, 35A, 35X, 40P, 43S, 235, 235M, 935, 936, N237. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，大白田街(來回方向)介乎安捷里與童子街之間的全線仍然封閉。 以下受影響巴士路線須改道行駛: A30,31,31A,35A,35X,40P,43S,235,235M,935,936,N237. 駕駛人士請考慮改用其他道路。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2023-07-06T15:39:49",
-        "last_announcement": "2023-07-06T15:25:00"
-    },
     "IN-23-02899": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
