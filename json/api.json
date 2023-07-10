@@ -84,52 +84,6 @@
         "last_update": "2023-07-08T09:43:52",
         "last_announcement": "2023-07-08T09:18:00"
     },
-    "IN-23-02907": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Hing Fong Road",
-            "LOCATION_CN": "興芳路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Kwai Yik Road",
-            "NEAR_LANDMARK_CN": "葵益道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-07T06:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82407",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Hing Fong Road (both bounds) near Kwai Yik Road are closed to all traffic. \nOnly remaining lanes are available to motorists.   Vehicles are prohibited from making right turns from Hing Fong Road (Kwai Hing MTR Station bound) onto Kwai Yik Road. Besides, vehicles are also prohibited from making right turns from Kwai Yik Road (Hing Fong Road bound) onto Hing Fong Road.   Affected KMB bus routes nos. 40X and 61M have been diverted.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，興芳路(來回方向)近葵益道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  車輛禁止由興芳路(往葵興港鐵站方向)右轉入葵益道。此外，車輛亦禁止由葵益道(往興芳路方向)右轉入興芳路。  受影響九巴巴士第40X及61M號線須改道行駛。  現時上址交通繁忙。"
-            },
-            "2023-07-07T12:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82420",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Hing Fong Road (both bounds) near Kwai Yik Road is still being closed to all traffic. Only remaining lanes are available to motorists.   Vehicles are prohibited from making right turns from Hing Fong Road (Kwai Hing MTR Station bound) onto Kwai Yik Road. Besides, vehicles are also prohibited from making right turns from Kwai Yik Road (Hing Fong Road bound) onto Hing Fong Road.   Affected KMB bus routes nos. 40X and 61M have been diverted.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，興芳路(來回方向)近葵益道的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  車輛禁止由興芳路(往葵興港鐵站方向)右轉入葵益道。此外，車輛亦禁止由葵益道(往興芳路方向)右轉入興芳路。  受影響九巴巴士第40X及61M號線須改道行駛。  現時上址交通繁忙。"
-            },
-            "2023-07-07T17:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82427",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Hing Fong Road (both bounds) near Kwai Yik Road is still being closed to all traffic. Besides, part of the lanes of Kwai Yik Road (Hing Fong Road bound) near Kwai Fong Estate is still being closed to all traffic. Only remaining lane(s) are available to motorists. Vehicles are prohibited from making right turns from Hing Fong Road (Kwai Hing MTR Station bound) onto Kwai Yik Road. Besides, vehicles are also prohibited from making right turns from Kwai Yik Road (Hing Fong Road bound) onto Hing Fong Road. Affected KMB bus routes nos. 38P, 40A, 40X, 61M and 240X have been diverted. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，興芳路(來回方向)近葵益道的部份行車線仍然封閉。 此外，葵益道(往興芳路方向)近葵芳邨的部份行車線亦仍然封閉。 駕駛人士只可使用餘下行車線行車。 車輛禁止由興芳路(往葵興港鐵站方向)右轉入葵益道。此外，車輛亦禁止由葵益道(往興芳路方向)右轉入興芳路。 受影響九巴巴士第38P、40A、40X、61M及240X號線已改道行駛。 現時上址交通繁忙。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2023-07-07T18:23:55",
-        "last_announcement": "2023-07-07T17:48:00"
-    },
     "IN-23-02915": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -228,38 +182,6 @@
         "district": "沙田區",
         "last_update": "2023-07-07T20:39:24",
         "last_announcement": "2023-07-07T19:54:00"
-    },
-    "IN-23-02917": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Tin Ma Court",
-            "NEAR_LANDMARK_CN": "天馬苑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-07T18:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82430",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Tin Ma Court is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近天馬苑的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2023-07-07T18:23:55",
-        "last_announcement": "2023-07-07T18:13:00"
     },
     "IN-23-02918": {
         "description": {
@@ -1546,10 +1468,24 @@
                 "ID": "82516",
                 "CONTENT_EN": "lease broadcast the following message as soon as possible (The 2nd paragraph may be used by telephone / paging companies) :  Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近啟業邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-10T18:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82517",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Kwun Tong Road (Yau Tong bound) ends at Lung Cheung Road near Po Kong Village Road.   Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近啟業邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在觀塘道(往油塘方向)的車龍龍尾已到龍翔道近蒲崗村道。  現時上址交通擠塞。"
+            },
+            "2023-07-10T18:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82518",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘道(往油塘方向)近啟業邨的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2023-07-10T18:02:28",
-        "last_announcement": "2023-07-10T17:51:00"
+        "last_update": "2023-07-10T18:27:28",
+        "last_announcement": "2023-07-10T18:14:00"
     }
 }
