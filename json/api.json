@@ -38,66 +38,6 @@
         "last_update": "2023-07-11T06:15:03",
         "last_announcement": "2023-07-11T06:07:00"
     },
-    "IN-23-02932": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Wong Tai Sin MTR Station",
-            "NEAR_LANDMARK_CN": "黃大仙港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-08T17:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82466",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Wong Tai Sin MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近黃大仙港鐵站的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-08T17:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82467",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Wong Tai Sin MTR Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Choi Hung Estate.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近黃大仙港鐵站的快線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近彩虹邨。  現時上址交通擠塞。"
-            },
-            "2023-07-08T18:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82469",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Wong Tai Sin MTR Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Kai Yip Estate.   Motorists are advised to use alternative routes such as Prince Edward Road East.   Traffic is very congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近黃大仙港鐵站的快線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近啟業邨。  駕駛人士請考慮改用其他道路，例如太子道東。  現時上址交通非常擠塞。"
-            },
-            "2023-07-08T18:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82470",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Wong Tai Sin MTR Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Kai Yip Estate and New Clear Water Bay Road near Choi Wan Estate.   Motorists are advised to use alternative routes such as Prince Edward Road East.   Traffic is very congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近黃大仙港鐵站的快線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近啟業邨及新清水灣道近彩雲邨。  駕駛人士請考慮改用其他道路，例如太子道東。  現時上址交通非常擠塞。"
-            },
-            "2023-07-08T19:11:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "82472",
-                "CONTENT_EN": "The fast lane of Lung Cheung Road (Tsuen Wan bound) near Wong Tai Sin MTR Station which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近黃大仙港鐵站的快線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2023-07-08T19:22:17",
-        "last_announcement": "2023-07-08T19:11:00"
-    },
     "IN-23-02933": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1789,5 +1729,37 @@
         "district": "黃大仙區",
         "last_update": "2023-07-11T19:20:54",
         "last_announcement": "2023-07-11T19:10:00"
+    },
+    "IN-23-02979": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Tuen Mun Town Plaza",
+            "NEAR_LANDMARK_CN": "屯門市廣場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-11T19:05:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82576",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near Tuen Mun Town Plaza which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近屯門市廣場的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2023-07-11T19:31:22",
+        "last_announcement": "2023-07-11T19:05:00"
     }
 }
