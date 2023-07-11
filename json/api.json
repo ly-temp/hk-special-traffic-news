@@ -38,52 +38,6 @@
         "last_update": "2023-07-11T06:15:03",
         "last_announcement": "2023-07-11T06:07:00"
     },
-    "IN-23-02922": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Mei Wan Street",
-            "LOCATION_CN": "美環街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-08T08:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82441",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Mei Wan Street (both bounds) is closed to all traffic. \nAt the same time, part of the lanes of Sai Lau Kok Road (both bounds) near Mei Wan Street is also closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，美環街(來回方向)的部份行車線現已封閉。\n同時，西樓角路(來回方向)近美環街的部份行車線亦現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-08T09:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82458",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Mei Wan Street (both bounds) is still being closed to all traffic. \nAt the same time, part of the lanes of Sai Lau Kok Road (both bounds) near Mei Wan Street is also still being closed to all traffic. Only remaining lane is available to motorists.   Affected KMB bus routes nos. 39A, 42M, 243M, A31, E31, N31 and NA31 have been diverted.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，美環街(來回方向)的部份行車線仍然封閉。\n同時，西樓角路(來回方向)近美環街的部份行車線亦仍然封閉。駕駛人士只可使用餘下行車線行車。  受影響九巴巴士第39A、42M、243M、A31、E31、N31及NA31號線須改道行駛。  現時上址交通繁忙。"
-            },
-            "2023-07-08T13:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82460",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Mei Wan Street (both bounds) is still being closed to all traffic. \nAt the same time, part of the lanes of Sai Lau Kok Road (both bounds) near Mei Wan Street is also still being closed to all traffic. Only remaining lane is available to motorists.   Affected KMB bus routes nos. 42M and 243M have been diverted.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，美環街(來回方向)的部份行車線仍然封閉。\n同時，西樓角路(來回方向)近美環街的部份行車線亦仍然封閉。駕駛人士只可使用餘下行車線行車。  受影響九巴巴士第42M及243M號線須改道行駛。  現時上址交通繁忙。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2023-07-08T13:35:20",
-        "last_announcement": "2023-07-08T13:17:00"
-    },
     "IN-23-02930": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
