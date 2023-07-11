@@ -1653,11 +1653,18 @@
                 "ID": "82566",
                 "CONTENT_EN": "Due to road incident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因道路事故，窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-11T18:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82569",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant which was closed due to road incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路事故而封閉的窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2023-07-11T18:30:23",
-        "last_announcement": "2023-07-11T18:16:00"
+        "last_update": "2023-07-11T18:42:10",
+        "last_announcement": "2023-07-11T18:25:00"
     },
     "IN-23-02976": {
         "description": {
@@ -1690,5 +1697,37 @@
         "district": "屯門區",
         "last_update": "2023-07-11T18:30:23",
         "last_announcement": "2023-07-11T18:20:00"
+    },
+    "IN-23-02977": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Texaco Road North",
+            "LOCATION_CN": "德士古道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Route Twisk",
+            "DIRECTION_CN": "荃錦公路",
+            "NEAR_LANDMARK_EN": "Tsuen Kam Interchange",
+            "NEAR_LANDMARK_CN": "荃錦交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-11T18:29:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82571",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Texaco Road North (Route Twisk bound) near Tsuen Kam Interchange is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，德士古道北(往荃錦公路方向)近荃錦交匯處的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2023-07-11T18:42:10",
+        "last_announcement": "2023-07-11T18:29:00"
     }
 }
