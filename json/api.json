@@ -2387,10 +2387,49 @@
                 "ID": "82635",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Gloucester Road (Central bound) near Elizabeth House is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，告士打道(往中環方向)近伊利莎伯大廈的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-13T12:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82637",
+                "CONTENT_EN": "Part of the lanes of Gloucester Road (Central bound) near Elizabeth House which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的告士打道(往中環方向)近伊利莎伯大廈的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2023-07-13T12:19:02",
-        "last_announcement": "2023-07-13T12:06:00"
+        "last_update": "2023-07-13T12:34:47",
+        "last_announcement": "2023-07-13T12:26:00"
+    },
+    "IN-23-03010": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-13T12:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82636",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Island Eastern Corridor (Central bound) near Provident Centre is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近和富中心的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2023-07-13T12:34:47",
+        "last_announcement": "2023-07-13T12:12:00"
     }
 }
