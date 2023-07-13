@@ -77,38 +77,6 @@
         "last_update": "2023-07-10T19:31:02",
         "last_announcement": "2023-07-10T19:16:00"
     },
-    "IN-23-02944": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Tong Mi Road",
-            "LOCATION_CN": "塘尾道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Arran Street",
-            "NEAR_LANDMARK_CN": "鴉蘭街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-10T18:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82520",
-                "CONTENT_EN": "The slow lane of Tong Mi Road (Yau Ma Tei bound) near Arran Street which was closed due to emergency incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因突發事件而封閉的塘尾道(往油麻地方向)近鴉蘭街的慢線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2023-07-10T18:51:32",
-        "last_announcement": "2023-07-10T18:30:00"
-    },
     "IN-23-02957": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
