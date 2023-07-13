@@ -2296,5 +2296,76 @@
         "district": "黃大仙區",
         "last_update": "2023-07-12T20:38:14",
         "last_announcement": "2023-07-12T20:27:00"
+    },
+    "IN-23-03000": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Hong Kong Garden",
+            "NEAR_LANDMARK_CN": "豪景花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-13T07:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82617",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Hong Kong Garden is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近豪景花園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-13T08:07:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82618",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Hong Kong Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近豪景花園的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2023-07-13T08:37:09",
+        "last_announcement": "2023-07-13T08:07:00"
+    },
+    "IN-23-03001": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Gascoigne Road Flyover",
+            "LOCATION_CN": "加士居道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Kok Tsui",
+            "DIRECTION_CN": "大角咀",
+            "NEAR_LANDMARK_EN": "Hong Kong Girl Guides Association",
+            "NEAR_LANDMARK_CN": "香港女童軍總會",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-13T08:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82619",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Gascoigne Road Flyover (Tai Kok Tsui bound) near Hong Kong Girl Guides Association is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，加士居道天橋(往大角咀方向)近香港女童軍總會的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2023-07-13T08:37:09",
+        "last_announcement": "2023-07-13T08:17:00"
     }
 }
