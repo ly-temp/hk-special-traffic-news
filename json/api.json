@@ -2438,5 +2438,37 @@
         "district": "東區",
         "last_update": "2023-07-13T12:44:56",
         "last_announcement": "2023-07-13T12:28:00"
+    },
+    "IN-23-03012": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Ki Lung Street",
+            "LOCATION_CN": "基隆街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Boundary Street",
+            "NEAR_LANDMARK_CN": "界限街",
+            "BETWEEN_LANDMARK_EN": "Poplar Street",
+            "BETWEEN_LANDMARK_CN": "白楊街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-13T13:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82639",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Ki Lung Street between Boundary Street and Poplar Street are closed to all traffic.   Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管爆裂，基隆街介乎界限街與白楊街之間的全線現已封閉。  駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2023-07-13T13:13:10",
+        "last_announcement": "2023-07-13T13:03:00"
     }
 }
