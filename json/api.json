@@ -1,36 +1,4 @@
 {
-    "IN-23-02907": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Hing Fong Road",
-            "LOCATION_CN": "興芳路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Kwai Yik Road",
-            "NEAR_LANDMARK_CN": "葵益道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-12T06:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82581",
-                "CONTENT_EN": "Part of the lanes of Hing Fong Road (both bounds) near Kwai Yik Road and part of the lanes of Kwai Yik Road (Hing Fong Road bound) near Kwai Fong Estate which were closed due to watermain burst are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的興芳路(來回方向)近葵益道的部份行車線和葵益道(往興芳路方向)近葵芳邨的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2023-07-12T06:19:53",
-        "last_announcement": "2023-07-12T06:08:00"
-    },
     "IN-23-02983": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1341,11 +1309,18 @@
                 "ID": "82652",
                 "CONTENT_EN": "Due to watermain emergency works , the slow lane of Austin Road (Canton Road bound) near Tsim Sha Tsui Police Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，柯士甸道(往廣東道方向)近尖沙咀警署的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-15T06:11:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82685",
+                "CONTENT_EN": "The slow lane of Austin Road (Canton Road bound) near Tsim Sha Tsui Police Station which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的柯士甸道(往廣東道方向)近尖沙咀警署的慢線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2023-07-14T06:19:36",
-        "last_announcement": "2023-07-14T06:04:00"
+        "last_update": "2023-07-15T06:32:11",
+        "last_announcement": "2023-07-15T06:11:00"
     },
     "IN-23-03019": {
         "description": {
