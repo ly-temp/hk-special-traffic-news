@@ -2256,10 +2256,17 @@
                 "ID": "82679",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Gloucester Road (Central bound) near Percival Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，告士打道(往中環方向)近波斯富街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-14T16:06:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "82680",
+                "CONTENT_EN": "Part of the lanes of Gloucester Road (Central bound) near Percival Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的告士打道(往中環方向)近波斯富街的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2023-07-14T16:19:14",
-        "last_announcement": "2023-07-14T15:57:00"
+        "last_update": "2023-07-14T16:34:46",
+        "last_announcement": "2023-07-14T16:06:00"
     }
 }
