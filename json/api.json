@@ -2151,5 +2151,44 @@
         "district": "九龍城區",
         "last_update": "2023-07-14T11:21:37",
         "last_announcement": "2023-07-14T11:02:00"
+    },
+    "IN-23-03026": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": "Rutland Quadrant",
+            "NEAR_LANDMARK_CN": "律倫街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-14T11:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82670",
+                "CONTENT_EN": "Due to road incident , part of the lanes of Waterloo Road (Sha Tin bound) near Rutland Quadrant is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因道路事故，窩打老道(往沙田方向)近律倫街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-14T11:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82671",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Sha Tin bound) near Rutland Quadrant which was closed due to road incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路事故而封閉的窩打老道(往沙田方向)近律倫街的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2023-07-14T11:39:02",
+        "last_announcement": "2023-07-14T11:26:00"
     }
 }
