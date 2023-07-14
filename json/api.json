@@ -1,43 +1,4 @@
 {
-    "IN-23-02980": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
-            "NEAR_LANDMARK_CN": "龍翔道公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-11T19:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82579",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道公園的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-11T19:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82580",
-                "CONTENT_EN": "The fast lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近龍翔道公園的快線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2023-07-11T20:14:48",
-        "last_announcement": "2023-07-11T19:58:00"
-    },
     "IN-23-02907": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
