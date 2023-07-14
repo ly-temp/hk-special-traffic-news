@@ -1,192 +1,4 @@
 {
-    "IN-23-02962": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Hammer Hill Road",
-            "NEAR_LANDMARK_CN": "斧山道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-11T09:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82540",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Hammer Hill Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近斧山道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-11T09:45:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "82547",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Hammer Hill Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近斧山道的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2023-07-11T10:36:19",
-        "last_announcement": "2023-07-11T09:45:00"
-    },
-    "IN-23-02963": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Tan Kwai Tsuen",
-            "NEAR_LANDMARK_CN": "丹桂村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-11T09:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82541",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Yuen Long Highway (Tuen Mun bound) near Tan Kwai Tsuen is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近丹桂村的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-11T09:44:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "82546",
-                "CONTENT_EN": "The fast lane of Yuen Long Highway (Tuen Mun bound) near Tan Kwai Tsuen which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往屯門方向)近丹桂村的快線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2023-07-11T10:36:19",
-        "last_announcement": "2023-07-11T09:44:00"
-    },
-    "IN-23-02966": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Butterfly Valley",
-            "NEAR_LANDMARK_CN": "蝴蝶谷",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-11T09:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82544",
-                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Ching Cheung Road (Tsuen Wan bound) near Butterfly Valley is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，呈祥道(往荃灣方向)近蝴蝶谷的中線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-11T09:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82545",
-                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Ching Cheung Road (Tsuen Wan bound) near Butterfly Valley is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Ching Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Beacon Heights.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，呈祥道(往荃灣方向)近蝴蝶谷的中線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在呈祥道(往荃灣方向)的車龍龍尾已到龍翔道近畢架山花園。  現時上址交通擠塞。"
-            },
-            "2023-07-11T09:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82549",
-                "CONTENT_EN": "The middle lane of Ching Cheung Road (Tsuen Wan bound) near Butterfly Valley which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往荃灣方向)近蝴蝶谷的中線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2023-07-11T10:36:19",
-        "last_announcement": "2023-07-11T09:59:00"
-    },
-    "IN-23-02964": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "ICAC Headquarters Building",
-            "NEAR_LANDMARK_CN": "廉政公署總部大樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-11T09:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82548",
-                "CONTENT_EN": "The fast lane of Island Eastern Corridor (Central bound) near ICAC Headquarters Building which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近廉政公署總部大樓的快線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2023-07-11T10:36:19",
-        "last_announcement": "2023-07-11T09:46:00"
-    },
-    "IN-23-02965": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wong Nai Chung Gap Flyover",
-            "LOCATION_CN": "黃泥涌峽天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Leighton Road",
-            "NEAR_LANDMARK_CN": "禮頓道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-11T10:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82550",
-                "CONTENT_EN": "Part of the lanes of Wong Nai Chung Gap Flyover (Cross Harbour Tunnel bound) near Leighton Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的黃泥涌峽天橋(往海底隧道方向)近禮頓道的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2023-07-11T10:36:19",
-        "last_announcement": "2023-07-11T10:18:00"
-    },
     "IN-23-02967": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2263,10 +2075,49 @@
                 "ID": "82663",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近紅梅谷的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-14T09:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82667",
+                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近紅梅谷的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2023-07-14T09:46:46",
-        "last_announcement": "2023-07-14T09:34:00"
+        "last_update": "2023-07-14T10:52:41",
+        "last_announcement": "2023-07-14T09:56:00"
+    },
+    "IN-23-03024": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Castle Peak Road - Kwai Chung",
+            "LOCATION_CN": "青山公路　－　葵涌段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Tai Wo Hau MTR Station",
+            "NEAR_LANDMARK_CN": "大窩口港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-14T10:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82668",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Kwai Chung (Tuen Mun bound) near Tai Wo Hau MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　－　葵涌段(往屯門方向)近大窩口港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2023-07-14T10:52:41",
+        "last_announcement": "2023-07-14T10:25:00"
     }
 }
