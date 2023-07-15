@@ -1,43 +1,4 @@
 {
-    "IN-23-02988": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2023-07-12T11:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "82596",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近和富中心的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2023-07-12T12:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "82597",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近和富中心的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2023-07-12T12:20:26",
-        "last_announcement": "2023-07-12T12:00:00"
-    },
     "IN-23-02989": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1809,10 +1770,17 @@
                 "ID": "82694",
                 "CONTENT_EN": "Due to road incident , part of the lanes of Clear Water Bay Road (Choi Hung Estate bound) near Ngau Chi Wan Fire Station is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因道路事故，清水灣道(往彩虹邨方向)近牛池灣消防局的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-15T12:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82696",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Choi Hung Estate bound) near Ngau Chi Wan Fire Station which was closed due to road incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路事故而封閉的清水灣道(往彩虹邨方向)近牛池灣消防局的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2023-07-15T12:11:11",
-        "last_announcement": "2023-07-15T11:51:00"
+        "last_update": "2023-07-15T12:30:01",
+        "last_announcement": "2023-07-15T12:07:00"
     }
 }
