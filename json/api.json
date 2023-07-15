@@ -1862,10 +1862,63 @@
                 "ID": "82686",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-15T07:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82687",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Tai Po Road - Sha Tin (Tai Po bound) ends at Tai Po Road - Sha Tin near Sha Tin MTR Station.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在大埔公路　–　沙田段(往大埔方向)的車龍龍尾已到大埔公路　–　沙田段。  現時上址交通擠塞。"
+            },
+            "2023-07-15T08:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82688",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Tai Po Road - Sha Tin (Tai Po bound) ends at Shing Mun Tunnel Road near Mei Lam Estate.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在大埔公路　–　沙田段(往大埔方向)的車龍龍尾已到城門隧道公路近美林邨。  現時上址交通擠塞。"
+            },
+            "2023-07-15T08:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82689",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "沙田區",
-        "last_update": "2023-07-15T07:24:27",
-        "last_announcement": "2023-07-15T07:18:00"
+        "last_update": "2023-07-15T09:39:47",
+        "last_announcement": "2023-07-15T08:44:00"
+    },
+    "IN-23-03036": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "St. George Apartments",
+            "NEAR_LANDMARK_CN": "聖佐治大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-15T09:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82690",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near St. George Apartments is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，窩打老道天橋(往獅子山隧道方向)近聖佐治大廈的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2023-07-15T09:39:47",
+        "last_announcement": "2023-07-15T09:08:00"
     }
 }
