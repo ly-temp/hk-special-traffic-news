@@ -1743,5 +1743,44 @@
         "district": "中西區",
         "last_update": "2023-07-15T10:53:50",
         "last_announcement": "2023-07-15T10:09:00"
+    },
+    "IN-23-03037": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "tunnel entrance",
+            "NEAR_LANDMARK_CN": "隧道入口",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2023-07-15T11:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "82692",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Lion Rock Tunnel Road (Kowloon bound) near tunnel entrance is closed to all traffic. \nOnly remaining lanes is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近隧道入口的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2023-07-15T11:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "82693",
+                "CONTENT_EN": "The slow lane of Lion Rock Tunnel Road (Kowloon bound) near tunnel entrance which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近隧道入口的慢線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2023-07-15T11:42:36",
+        "last_announcement": "2023-07-15T11:24:00"
     }
 }
