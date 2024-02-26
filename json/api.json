@@ -1,36 +1,4 @@
 {
-    "IN-24-01042": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Castle Peak Road - Tsuen Wan",
-            "LOCATION_CN": "青山公路　–　荃灣段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Maurine Grantham Health Centre",
-            "NEAR_LANDMARK_CN": "葛量洪夫人健康院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-23T16:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93107",
-                "CONTENT_EN": "Due to watermain emergency works , the fast and middle lanes of Castle Peak Road - Tsuen Wan (Tuen Mun bound) near Maurine Grantham Health Centre are closed to all traffic. Only the slow lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，青山公路　–　荃灣段(往屯門方向)近葛量洪夫人健康院的快線及中線現已封閉。 駕駛人士只可使用慢線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-02-23T16:49:00",
-        "last_announcement": "2024-02-23T16:38:00"
-    },
     "IN-24-01043": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1152,10 +1120,24 @@
                 "ID": "93179",
                 "CONTENT_EN": "Due to emergency incident , part of the lanes of King's Road (Shau Kei Wan bound) near Mount Parker Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，英皇道(往筲箕灣方向)近柏架山道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-02-26T16:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93180",
+                "CONTENT_EN": "Due to emergency incident , all lanes of King's Road (Shau Kei Wan bound) near Mount Parker Road are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，英皇道(往筲箕灣方向)近柏架山道的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-02-26T16:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93181",
+                "CONTENT_EN": "Due to emergency incident , part of the lanes of King's Road (Shau Kei Wan bound) near Mount Parker Road are closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，英皇道(往筲箕灣方向)近柏架山道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
             }
         },
         "district": "東區",
-        "last_update": "2024-02-26T16:31:06",
-        "last_announcement": "2024-02-26T16:20:00"
+        "last_update": "2024-02-26T16:51:43",
+        "last_announcement": "2024-02-26T16:40:00"
     }
 }
