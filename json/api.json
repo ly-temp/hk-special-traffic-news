@@ -1142,5 +1142,69 @@
         "district": "九龍城區",
         "last_update": "2024-02-27T07:18:26",
         "last_announcement": "2024-02-27T07:13:00"
+    },
+    "IN-24-01078": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sha Tin MTR Station",
+            "NEAR_LANDMARK_CN": "沙田港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-02-27T07:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93206",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin MTR Station is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大埔公路 – 沙田段(往九龍方向)近沙田港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-02-27T07:38:45",
+        "last_announcement": "2024-02-27T07:24:00"
+    },
+    "IN-24-01079": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Prince Edward Road East",
+            "LOCATION_CN": "太子道東",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Argyle Street",
+            "DIRECTION_CN": "亞皆老街",
+            "NEAR_LANDMARK_EN": "Tak Ku Ling Road",
+            "NEAR_LANDMARK_CN": "打鼓嶺道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-02-27T07:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93207",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Prince Edward Road East flyover (Argyle Street bound) near Tak Ku Ling Road is closed to all traffic. Motorists may use alternative routing. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，太子道東天橋(往亞皆老街方向)近打鼓嶺道的唯一行車線現已封閉。 駕駛人士可改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-02-27T07:38:45",
+        "last_announcement": "2024-02-27T07:31:00"
     }
 }
