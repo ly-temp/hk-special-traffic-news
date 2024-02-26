@@ -1045,11 +1045,18 @@
                 "ID": "93195",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsing Sha Highway (Tai Po bound) near Mei Lam Estate is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，青沙公路(往大埔方向)近美林邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-02-26T20:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93198",
+                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Tai Po bound) near Mei Lam Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的青沙公路(往大埔方向)近美林邨的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-02-26T20:22:06",
-        "last_announcement": "2024-02-26T20:07:00"
+        "last_update": "2024-02-26T21:17:02",
+        "last_announcement": "2024-02-26T20:52:00"
     },
     "IN-24-01075": {
         "description": {
@@ -1077,10 +1084,17 @@
                 "ID": "93193",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes at the junction between Mut Wah Street and Hip Wo Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，物華街與協和街的交界的的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-02-26T21:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93199",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes at the junction between Mut Wah Street\nand Hip Wo Street is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Affected KMB Route Nos. 14B, 89 and 89X have been diverted.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，物華街與協和街的交界的的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  受影響九巴路線第14B, 89 及89X號須改道行駛。  現時上址交通繁忙。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-02-26T19:54:43",
-        "last_announcement": "2024-02-26T19:41:00"
+        "last_update": "2024-02-26T21:17:02",
+        "last_announcement": "2024-02-26T21:03:00"
     }
 }
