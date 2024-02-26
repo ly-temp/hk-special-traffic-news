@@ -1,174 +1,4 @@
 {
-    "IN-24-01032": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Tseung Lam Highway",
-            "LOCATION_CN": "將藍公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cha Kwo Ling",
-            "DIRECTION_CN": "茶果嶺",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-23T07:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93076",
-                "CONTENT_EN": "Due to vehicle on fire , all tunnel tube lanes of Tseung Lam Highway (Cha Kwo Ling bound) are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，將藍公路(往茶果嶺方向)的管道全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2024-02-23T07:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93080",
-                "CONTENT_EN": "Due to vehicle on fire , all tunnel tube lanes of Tseung Kwan O – Lam Tin Tunnel (Cha Kwo Ling bound) are still being closed to all traffic.   The one-lane-two-way traffic arrangement is being implemented on Tseung Kwan O – Lam Tin Tunnel (Tseung Kwan O bound).   Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，將軍澳—藍田隧道(往茶果嶺方向)的管道全線仍然封閉。  將軍澳—藍田隧道(往將軍澳方向)現已實施單線雙程行車措施。  現時上址交通繁忙。"
-            },
-            "2024-02-23T08:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93089",
-                "CONTENT_EN": "All tunnel tube lanes of Tseung Kwan O – Lam Tin Tunnel (Cha Kwo Ling bound) which were closed due to vehicle on fire are re-opened to all traffic. The one-tube-two-way traffic arrangement which was implemented on Tseung Kwan O – Lam Tin Tunnel (Tseung Kwan O bound) due to vehicle on fire is now cancelled.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的將軍澳—藍田隧道(往茶果嶺方向)的管道全線現已解封。較早前因車輛着火而於將軍澳—藍田隧道(往將軍澳方向)實施的單管雙程行車措施現已取消。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-02-23T09:31:17",
-        "last_announcement": "2024-02-23T08:51:00"
-    },
-    "IN-24-01034": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sha Tin MTR Station",
-            "NEAR_LANDMARK_CN": "沙田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-23T07:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93079",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近沙田港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-23T08:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93082",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin MTR Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tai Po Road - Sha Tin (Kowloon bound) ends at Tai Po Road - Sha Tin near Sha Tin Sewage Treatment Works.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近沙田港鐵站的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在大埔公路　–　沙田段(往九龍方向)的車龍龍尾已到大埔公路　–　沙田段近沙田污水處理廠。  現時上址交通擠塞。"
-            },
-            "2024-02-23T08:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93086",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin MTR Station which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近沙田港鐵站的部份行車線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-02-23T09:31:17",
-        "last_announcement": "2024-02-23T08:23:00"
-    },
-    "IN-24-01035": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "New Clear Water Bay Road",
-            "LOCATION_CN": "新清水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Choi Hung",
-            "DIRECTION_CN": "彩虹",
-            "NEAR_LANDMARK_EN": "Shun Lee Tsuen Sports Centre",
-            "NEAR_LANDMARK_CN": "順利邨體育館",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-23T08:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93084",
-                "CONTENT_EN": "Due to traffic accident , the only lane of New Clear Water Bay Road (Choi Hung bound) near Shun Lee Tsuen Sports Centre is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，新清水灣道(往彩虹方向)近順利邨體育館的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-02-23T08:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93090",
-                "CONTENT_EN": "The only lane of New Clear Water Bay Road (Choi Hung bound) near Shun Lee Tsuen Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的新清水灣道(往彩虹方向)近順利邨體育館的唯一行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-02-23T09:31:17",
-        "last_announcement": "2024-02-23T08:59:00"
-    },
-    "IN-24-01036": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tate's Cairn Tunnel",
-            "LOCATION_CN": "大老山隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-23T08:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93087",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Tate's Cairn Tunnel (Kowloon bound) is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，大老山隧道(往九龍方向)的管道慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-23T08:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93088",
-                "CONTENT_EN": "The tunnel tube slow lane of Tate's Cairn Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的大老山隧道(往九龍方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-02-23T09:31:17",
-        "last_announcement": "2024-02-23T08:47:00"
-    },
     "IN-24-01037": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1343,11 +1173,18 @@
                 "ID": "93165",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Yuen Long Highway (Sheung Shui bound) near Tai Shu Ha Road East is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近大樹下東路的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-02-26T09:11:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93167",
+                "CONTENT_EN": "The fast lane of Yuen Long Highway (Sheung Shui bound) near Tai Shu Ha Road East which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往上水方向)近大樹下東路的快線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-02-26T09:18:14",
-        "last_announcement": "2024-02-26T08:44:00"
+        "last_update": "2024-02-26T10:00:27",
+        "last_announcement": "2024-02-26T09:11:00"
     },
     "IN-24-01066": {
         "description": {
@@ -1375,10 +1212,17 @@
                 "ID": "93166",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近禾輋邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-02-26T09:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93168",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往大埔方向)近禾輋邨的部份行車線現已解封。車龍有待消散。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-02-26T09:18:14",
-        "last_announcement": "2024-02-26T09:07:00"
+        "last_update": "2024-02-26T10:00:27",
+        "last_announcement": "2024-02-26T09:16:00"
     }
 }
