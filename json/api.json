@@ -38,45 +38,6 @@
         "last_update": "2024-02-25T21:33:16",
         "last_announcement": "2024-02-25T21:18:00"
     },
-    "IN-24-01052": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Tsun Yip Street",
-            "LOCATION_CN": "駿業街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung To Road",
-            "DIRECTION_CN": "鴻圖道",
-            "NEAR_LANDMARK_EN": "Hoi Yuen Road",
-            "NEAR_LANDMARK_CN": "開源道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-24T06:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93127",
-                "CONTENT_EN": "Due to watermain burst, the following road sections are closed to all traffic: (i) All lanes of Hung To Road between Tsun Yip Street and Hoi Yuen Road are closed to all traffic. Motorists are advised to use alternative routes. (ii) Part of the lanes of Hoi Yuen Road (Kwun Tong Ferry Pier bound) near Hung To Road is closed to all traffic.",
-                "CONTENT_CN": "因水管爆裂，以下路段現已封閉： (i)鴻圖道介乎駿業街與開源道之間的全線。駕駛人士請考慮改用其他道路。 (ii)開源道(往觀塘碼頭方向)近鴻圖道的部份行車線。駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-02-24T09:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93129",
-                "CONTENT_EN": "All lanes of Hung To Road between Tsun Yip Street and Hoi Yuen Road, and the part of the lanes of Hoi Yuen Road (Kwun Tong Ferry Pier bound) near Hung To Road which were closed due to watermain burst are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的鴻圖道介乎駿業街與開源道之間的全線、及開源道(往觀塘碼頭方向)近鴻圖道的部份行車線，現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-02-24T10:02:17",
-        "last_announcement": "2024-02-24T09:43:00"
-    },
     "IN-24-01053": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1357,11 +1318,18 @@
                 "ID": "93219",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Kwun Tong Bypass bound) near Tsui Ping South Estate is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tseung Kwan O Road (Kwun Tong Bypass bound) ends at Tseung Kwan O Tunnel Road near Tseung Kwan O Sports Centre.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，將軍澳道(往觀塘繞道方向)近翠屏南邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在將軍澳道(往觀塘繞道方向)的車龍龍尾已到將軍澳隧道公路近將軍澳體育館。  現時上址交通擠塞。"
+            },
+            "2024-02-27T09:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93227",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Kwun Tong Bypass bound) near Tsui Ping South Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.   Citizens please take note KMB's service travelling via Tseung Kwan O Road (Kwun Tong bound) has been affected, citizens please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘繞道方向)近翠屏南邨的部份行車線現已解封。車龍有待消散。  市民請留意途經將軍澳道往觀塘方向九巴服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-02-27T09:16:21",
-        "last_announcement": "2024-02-27T08:43:00"
+        "last_update": "2024-02-27T10:18:51",
+        "last_announcement": "2024-02-27T09:59:00"
     },
     "IN-24-01082": {
         "description": {
@@ -1467,10 +1435,17 @@
                 "ID": "93223",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng are closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近深井的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-02-27T09:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93226",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which were closed due to traffic accident are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-02-27T09:56:22",
-        "last_announcement": "2024-02-27T09:24:00"
+        "last_update": "2024-02-27T10:18:51",
+        "last_announcement": "2024-02-27T09:56:00"
     }
 }
