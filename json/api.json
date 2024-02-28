@@ -38,45 +38,6 @@
         "last_update": "2024-02-25T21:33:16",
         "last_announcement": "2024-02-25T21:18:00"
     },
-    "IN-24-01062": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hung Shui Kiu Hung Tin Road",
-            "LOCATION_CN": "洪水橋洪天路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tong Yan San Tsuen",
-            "DIRECTION_CN": "唐人新村",
-            "NEAR_LANDMARK_EN": "Hung Fuk Estate",
-            "NEAR_LANDMARK_CN": "洪福邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-25T17:07:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93156",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hung Shui Kiu Hung Tin Road (Tong Yan San Tsuen bound) near Hung Fuk Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，洪水橋洪天路(往唐人新村方向)近洪福邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-25T20:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93160",
-                "CONTENT_EN": "Part of the lanes of Hung Shui Kiu Hung Tin Road (Tong Yan San Tsuen bound) near Hung Fuk Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的洪水橋洪天路(往唐人新村方向)近洪福邨的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-02-25T20:24:28",
-        "last_announcement": "2024-02-25T20:07:00"
-    },
     "IN-24-01064": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2446,10 +2407,81 @@
                 "ID": "93311",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Tsuen Wan bound) near Lai King MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，葵涌道(往荃灣方向)近荔景港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-02-28T20:04:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93315",
+                "CONTENT_EN": "Part of the lanes of Kwai Chung Road (Tsuen Wan bound) near Lai King MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的葵涌道(往荃灣方向)近荔景港鐵站的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-02-28T19:33:08",
-        "last_announcement": "2024-02-28T19:23:00"
+        "last_update": "2024-02-28T20:41:00",
+        "last_announcement": "2024-02-28T20:04:00"
+    },
+    "IN-24-01126": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Shan Tung Street",
+            "NEAR_LANDMARK_CN": "山東街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-02-28T20:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93316",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Nathan Road (Tsim Sha Tsui bound) near Shan Tung Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，彌敦道(往尖沙咀方向)近山東街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-02-28T20:41:00",
+        "last_announcement": "2024-02-28T20:19:00"
+    },
+    "IN-24-01127": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Canal Road Flyover",
+            "LOCATION_CN": "堅拿道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Leighton Road",
+            "NEAR_LANDMARK_CN": "禮頓道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-02-28T20:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93317",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Canal Road Flyover (Cross Harbour Tunnel bound) near Leighton Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，堅拿道天橋(往海底隧道方向)近禮頓道的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-02-28T20:41:00",
+        "last_announcement": "2024-02-28T20:26:00"
     }
 }
