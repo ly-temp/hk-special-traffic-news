@@ -2763,5 +2763,37 @@
         "district": "離島區",
         "last_update": "2024-02-29T14:21:03",
         "last_announcement": "2024-02-29T14:05:00"
+    },
+    "IN-24-01139": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Austin Road",
+            "NEAR_LANDMARK_CN": "柯士甸道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-02-29T15:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93342",
+                "CONTENT_EN": "Due to fire , part of the lanes of Nathan Road (Mong Kok bound) near Austin Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因火警，彌敦道(往旺角方向)近柯士甸道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-02-29T15:08:44",
+        "last_announcement": "2024-02-29T15:01:00"
     }
 }
