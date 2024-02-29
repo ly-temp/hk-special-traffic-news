@@ -2845,5 +2845,69 @@
         "district": "元朗區",
         "last_update": "2024-02-29T17:36:01",
         "last_announcement": "2024-02-29T17:21:00"
+    },
+    "IN-24-01145": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Kung Lok Road",
+            "LOCATION_CN": "功樂道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Ning Road",
+            "DIRECTION_CN": "康寧道",
+            "NEAR_LANDMARK_EN": "Hong Lee Road",
+            "NEAR_LANDMARK_CN": "康利道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-02-29T18:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93357",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Kung Lok Road (Hong Ning Road bound) near Hong Lee Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Vehicles cannot make turning from Hong Ning Road (both bounds) near Kwun Tong Kung Lok Government Secondary School onto Kung Lok Road.   Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，功樂道(往康寧道方向)近康利道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  車輛不能由康寧道(來回方向)近觀塘功樂官立中學轉入功樂道。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-02-29T18:32:37",
+        "last_announcement": "2024-02-29T18:05:00"
+    },
+    "IN-24-01144": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Bowring Street",
+            "LOCATION_CN": "寶靈街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Shanghai Street",
+            "NEAR_LANDMARK_CN": "上海街",
+            "BETWEEN_LANDMARK_EN": "Temple Street",
+            "BETWEEN_LANDMARK_CN": "廟街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-02-29T18:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93358",
+                "CONTENT_EN": "Due to watermain emergency works , the only lane of Bowring Street  between Shanghai Street and Temple Street is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，寶靈街介乎上海街與廟街之間的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-02-29T18:32:37",
+        "last_announcement": "2024-02-29T18:16:00"
     }
 }
