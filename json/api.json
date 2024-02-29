@@ -2835,5 +2835,37 @@
         "district": "葵青區",
         "last_update": "2024-03-01T06:29:44",
         "last_announcement": "2024-03-01T06:10:00"
+    },
+    "IN-24-01153": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Tong Mi Road",
+            "LOCATION_CN": "塘尾道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "Mong Kok Road",
+            "NEAR_LANDMARK_CN": "旺角道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-01T07:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93371",
+                "CONTENT_EN": "Due to fire , all lanes of Tong Mi Road (Yau Ma Tei bound) near Mong Kok Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因火警，塘尾道(往油麻地方向)近旺角道的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-03-01T07:28:41",
+        "last_announcement": "2024-03-01T07:14:00"
     }
 }
