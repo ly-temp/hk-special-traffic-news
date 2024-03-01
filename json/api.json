@@ -45,45 +45,6 @@
         "last_update": "2024-02-28T07:38:23",
         "last_announcement": "2024-02-28T07:16:00"
     },
-    "IN-24-01089": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Wo Che Estate",
-            "NEAR_LANDMARK_CN": "禾輋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-27T11:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93232",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-27T11:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93233",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-02-27T11:29:27",
-        "last_announcement": "2024-02-27T11:20:00"
-    },
     "IN-24-01090": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2732,5 +2693,37 @@
         "district": "葵青區",
         "last_update": "2024-03-01T10:04:34",
         "last_announcement": "2024-03-01T09:17:00"
+    },
+    "IN-24-01162": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Lung Cheung Road and Waterloo Road",
+            "LOCATION_CN": "龍翔道及窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-01T11:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93397",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Lung Cheung Road near the vicinity of Wong Tai Sin (Tsuen Wan bound)\n– Waterloo Road near the vicinity of Kowloon Tong (Lion Rock Tunnel bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–龍翔道近黃大仙一帶(往荃灣方向)\n–窩打老道近九龍塘一帶(往獅子山隧道方向)。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-03-01T11:35:10",
+        "last_announcement": "2024-03-01T11:15:00"
     }
 }
