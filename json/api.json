@@ -98,52 +98,6 @@
         "last_update": "2024-02-27T10:39:15",
         "last_announcement": "2024-02-27T10:21:00"
     },
-    "IN-24-01085": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "North Point Ferry Pier",
-            "NEAR_LANDMARK_CN": "北角碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-27T08:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93220",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Island Eastern Corridor (Central bound) near North Point Ferry Pier is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東區走廊(往中環方向)近北角碼頭的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-27T09:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93222",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Island Eastern Corridor (Central bound) near North Point Ferry Pier is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Island Eastern Corridor (Central bound) ends at Island Eastern Corridor near Island East Sports Centre.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，東區走廊(往中環方向)近北角碼頭的慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近港島東體育館。  現時上址交通擠塞。"
-            },
-            "2024-02-27T09:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93224",
-                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Central bound) near North Point Ferry Pier which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近北角碼頭的慢線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-02-27T09:56:22",
-        "last_announcement": "2024-02-27T09:32:00"
-    },
     "IN-24-01086": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2734,11 +2688,18 @@
                 "ID": "93388",
                 "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng Interchange which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.   Citizens please take note KMB bus services travelling via the above road section have been affected. Citizens please consider using other public transport services, such as MTR services.",
                 "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近深井交匯處的部份行車線現已解封。車龍有待消散。  市民請留意途經上述路段的九巴服務仍然受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-03-01T09:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93393",
+                "CONTENT_EN": "Service of KMB which was affected by the vehicle breakdown at Tuen Mun Road (Kowloon bound) near Sham Tseng Interchange has gradually resumed normal.",
+                "CONTENT_CN": "較早前因位於屯門公路(往九龍方向)近深井交匯處的車輛故障而受影響的九巴服務已陸續回復正常。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-03-01T09:22:53",
-        "last_announcement": "2024-03-01T09:11:00"
+        "last_update": "2024-03-01T10:04:34",
+        "last_announcement": "2024-03-01T09:33:00"
     },
     "IN-24-01159": {
         "description": {
@@ -2883,10 +2844,49 @@
                 "ID": "93387",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Lion Rock Tunnel Road (Tai Po bound) near Julimount Garden are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往大埔方向)近瑞峰花園的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-03-01T09:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93390",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Tai Po bound) near Julimount Garden are still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往大埔方向)近瑞峰花園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-03-01T09:22:53",
-        "last_announcement": "2024-03-01T09:07:00"
+        "last_update": "2024-03-01T10:04:34",
+        "last_announcement": "2024-03-01T09:22:00"
+    },
+    "IN-24-01156": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Chai Wan Kok Cooked Food Market",
+            "NEAR_LANDMARK_CN": "柴灣角熟食市場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-01T09:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93389",
+                "CONTENT_EN": "The fast lane of Tsuen Wan Road (Kowloon bound) near Chai Wan Kok Cooked Food Market which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往九龍方向)近柴灣角熟食市場的快線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-03-01T10:04:34",
+        "last_announcement": "2024-03-01T09:17:00"
     }
 }
