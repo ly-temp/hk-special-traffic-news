@@ -38,45 +38,6 @@
         "last_update": "2024-02-28T17:59:11",
         "last_announcement": "2024-02-28T17:45:00"
     },
-    "IN-24-01118": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Tuen Mun Hospital",
-            "NEAR_LANDMARK_CN": "屯門醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-28T17:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93300",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Tuen Mun Road (Yuen Long bound) near Tuen Mun Hospital is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近屯門醫院的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-28T17:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93301",
-                "CONTENT_EN": "The fast lane of Tuen Mun Road (Yuen Long bound) near Tuen Mun Hospital which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近屯門醫院的快線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-02-28T17:49:10",
-        "last_announcement": "2024-02-28T17:35:00"
-    },
     "IN-24-01119": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2482,11 +2443,18 @@
                 "ID": "93444",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Pei Shan Road (Shing Mun Tunnels bound) near Tsuen Kam Interchange is closed to all traffic.   At the same time, part of the lanes of Tsuen Kam Interchange near Cheung Pei Shan Road (Shing Mun Tunnels bound) is also closed to all traffic.   Only remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，象鼻山路(往城門隧道方向)近荃錦交匯處的部份行車線現已封閉。  同時，荃錦交匯處近象鼻山路(往城門隧道方向)的部份行車線亦已封閉。  駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-02T17:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93446",
+                "CONTENT_EN": "Part of the lanes of Cheung Pei Shan Road (Shing Mun Tunnels bound) near Tsuen Kam Interchange and Tsuen Kam Interchange near Cheung Pei Shan Road (Shing Mun Tunnels bound) which were closed due to traffic accident are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的象鼻山路(往城門隧道方向)近荃錦交匯處及荃錦交匯處近象鼻山路(往城門隧道方向)的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-03-02T17:39:34",
-        "last_announcement": "2024-03-02T17:22:00"
+        "last_update": "2024-03-02T17:49:37",
+        "last_announcement": "2024-03-02T17:35:00"
     },
     "IN-24-01183": {
         "description": {
@@ -2514,10 +2482,17 @@
                 "ID": "93445",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Cheung Tsing Tunnel (Airport bound) is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，長青隧道(往機場方向)的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-02T17:36:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93447",
+                "CONTENT_EN": "The slow lane of Cheung Tsing Tunnel (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的長青隧道(往機場方向)的慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-03-02T17:39:34",
-        "last_announcement": "2024-03-02T17:30:00"
+        "last_update": "2024-03-02T17:49:37",
+        "last_announcement": "2024-03-02T17:36:00"
     }
 }
