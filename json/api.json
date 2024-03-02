@@ -45,187 +45,6 @@
         "last_update": "2024-02-28T11:22:45",
         "last_announcement": "2024-02-28T11:02:00"
     },
-    "IN-24-01104": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Victoria Road",
-            "LOCATION_CN": "域多利道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mount Davis",
-            "DIRECTION_CN": "摩星嶺",
-            "NEAR_LANDMARK_EN": "Cadogan Street",
-            "NEAR_LANDMARK_CN": "加多近街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-28T08:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93265",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Victoria Road (Mount Davis bound) near Cadogan Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，域多利道(往摩星嶺方向)近加多近街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-28T09:34:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "93279",
-                "CONTENT_EN": "Part of the lanes of Victoria Road (Mount Davis bound) near Cadogan Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的域多利道(往摩星嶺方向)近加多近街的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-02-28T09:57:44",
-        "last_announcement": "2024-02-28T09:34:00"
-    },
-    "IN-24-01105": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road West",
-            "LOCATION_CN": "干諾道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Sun Yat Sen Memorial Park",
-            "NEAR_LANDMARK_CN": "中山紀念公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-28T08:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93267",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road West flyover (Central bound) near Sun Yat Sen Memorial Park is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，干諾道西天橋(往中環方向)近中山紀念公園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-28T09:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93272",
-                "CONTENT_EN": "Part of the lanes of Connaught Road West flyover (Central bound) near Sun Yat Sen Memorial Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的干諾道西天橋(往中環方向)近中山紀念公園的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-02-28T09:57:44",
-        "last_announcement": "2024-02-28T09:15:00"
-    },
-    "IN-24-01108": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Long Highway",
-            "LOCATION_CN": "青朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Tai Lam Tunnel entrance",
-            "NEAR_LANDMARK_CN": "大欖隧道入口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-28T09:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93270",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Long Highway (Yuen Long bound) near Tai Lam Tunnel entrance is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青朗公路(往元朗方向)近大欖隧道入口的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-28T09:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93281",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tai Lam Tunnel bound) near Tung Shing Lei is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Yuen Long Highway (Tai Lam Tunnel bound) ends at Yuen Long Highway near Tong Yan San Tsuen Interchange.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往大欖隧道方向)近東成里的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在元朗公路(往大欖隧道方向)的車龍龍尾已到元朗公路近唐人新村交匯處。  現時上址交通擠塞。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-02-28T09:57:44",
-        "last_announcement": "2024-02-28T09:42:00"
-    },
-    "IN-24-01109": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Western Harbour Crossing",
-            "LOCATION_CN": "西區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-28T09:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93276",
-                "CONTENT_EN": "Due to traffic accident , the tunnel tube slow lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-02-28T09:57:44",
-        "last_announcement": "2024-02-28T09:29:00"
-    },
-    "IN-24-01106": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "East Kowloon Way",
-            "LOCATION_CN": "東九龍走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Ma Hang Chung Road",
-            "NEAR_LANDMARK_CN": "馬坑涌道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-28T09:18:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "93273",
-                "CONTENT_EN": "Part of the lanes of East Kowloon Way (Tsim Sha Tsui bound) near Ma Hang Chung Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東九龍走廊(往尖沙咀方向)近馬坑涌道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-02-28T09:57:44",
-        "last_announcement": "2024-02-28T09:18:00"
-    },
     "IN-24-01110": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2557,10 +2376,17 @@
                 "ID": "93419",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of San Tin Highway (Sheung Shui bound) near Palm Springs is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，新田公路(往上水方向)近加州花園的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-02T09:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93420",
+                "CONTENT_EN": "The slow lane of San Tin Highway (Sheung Shui bound) near Palm Springs which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往上水方向)近加州花園的慢線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-03-02T09:54:23",
-        "last_announcement": "2024-03-02T09:07:00"
+        "last_update": "2024-03-02T10:15:17",
+        "last_announcement": "2024-03-02T09:49:00"
     }
 }
