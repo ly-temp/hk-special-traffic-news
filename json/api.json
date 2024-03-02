@@ -1,82 +1,4 @@
 {
-    "IN-24-01123": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hong Chong Road",
-            "LOCATION_CN": "康莊道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ho Man Tin",
-            "DIRECTION_CN": "何文田",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-28T19:17:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93309",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，康莊道(往何文田方向)近香港理工大學的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-28T20:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93314",
-                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往何文田方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-02-28T20:16:12",
-        "last_announcement": "2024-02-28T20:02:00"
-    },
-    "IN-24-01124": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong By-Pass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kwun Tong Ferry Pier",
-            "NEAR_LANDMARK_CN": "觀塘渡輪碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-28T19:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93310",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong By-Pass (Yau Tong bound) near Kwun Tong Ferry Pier is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近觀塘渡輪碼頭的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-28T19:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93313",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong By-Pass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近觀塘渡輪碼頭的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-02-28T20:16:12",
-        "last_announcement": "2024-02-28T19:57:00"
-    },
     "IN-24-01125": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2404,10 +2326,17 @@
                 "ID": "93451",
                 "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Tai Tam Road near Tai Tam Tuk Reservoir. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大潭道近大潭篤水塘現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2024-03-02T19:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93452",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tai Tam Road near Tai Tam Tuk Reservoir due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於大潭道近大潭篤水塘實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "南區",
-        "last_update": "2024-03-02T19:36:26",
-        "last_announcement": "2024-03-02T19:24:00"
+        "last_update": "2024-03-02T20:26:08",
+        "last_announcement": "2024-03-02T19:58:00"
     }
 }
