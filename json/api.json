@@ -38,38 +38,6 @@
         "last_update": "2024-02-29T21:23:54",
         "last_announcement": "2024-02-29T21:10:00"
     },
-    "IN-23-04165": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road closure due to landslide, road subsidence, fallen tree and flooding",
-            "INCIDENT_DETAIL_CN": "因山泥傾瀉、路陷、塌樹及水浸而封閉的道路",
-            "LOCATION_EN": "Road closure due to landslide, road subsidence, fallen tree and flooding",
-            "LOCATION_CN": "因山泥傾瀉、路陷、塌樹及水浸而封閉的道路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "House No. 60",
-            "NEAR_LANDMARK_CN": "門牌60號",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-29T17:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93354",
-                "CONTENT_EN": "Part of the lanes of Shek O Road (between Cape Collinson Road and the on-street car park near Lan Nai Wan) (both bounds), which was closed due to road subsidence, is re-opened to all traffic. The one-lane-two-way traffic arrangement which was implemented on the above location is now cancelled. Yet, due to landslide and road subsidence, the following road section is still being closed to all traffic: - all lanes of Yiu Hing Road (both bounds) Motorists are advised to use alternative routes. Affected bus routes have been diverted as follow: - Citybus route no. 77 and Cross Harbour route no. 606 serving Yiu Tung Estate are diverted and omit Yiu Hing Road (Hing Tung Estate / Yiu Tung Estate / Tung Shing Court); Citybus route nos. 82S, 99, 720X and N8, and Cross Harbour route no. 110 are diverted and omit Tung Shing Court. At the same time, one-lane-two-way traffic arrangement is still being implemented on Wong Ma Kok Road near St. Stephen's Beach.",
-                "CONTENT_CN": "較早前因路陷而暫時封閉的一段石澳道(介乎歌連臣角道與近爛泥灣的路旁停車場之間)(來回方向)的部分行車線，現已重開，上址實施的單線雙程行車措施現已取消。 唯因山泥傾瀉及路陷，下列路段仍然暫時封閉﹕ -耀興道的全線(來回方向) 駕駛人士請考慮改用其他道路。 受影響巴士路線仍須改道如下: -服務耀東邨的城巴第77號線及隧巴第606號線須改道行駛，不經耀興道(興東邨/耀東邨/東盛苑)；城巴第82S、88、720X及N8號線，以及隧巴第110號線須改道行駛，不經東盛苑。 同時，黃麻角道近聖士提反灣仍然實施單線雙程行車。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-02-29T17:36:01",
-        "last_announcement": "2024-02-29T17:21:00"
-    },
     "IN-24-01145": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1783,11 +1751,18 @@
                 "ID": "93468",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Shek Pai Tau Road, Tuen Mun (Ming Kum Road bound) near Tsun Wen Road are still being closed to all traffic.   The following affected bus routes have been diverted:\n- KMB: 960 (Kin Sang bound), A34 (Airport bound), P960 (Siu Hong North bound); and\n- CTB: B3A (Shan King Estate bound).   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，屯門石排頭路(往鳴琴路方向)近震寰路的全線仍然封閉。  以下受影響巴士號線須改道行駛:\n-九巴:960(往建生方向)、A34(往機場方向)、P960(往兆康北方向);及\n-城巴:B3A(往山景邨方向)。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-03-03T17:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93472",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Shek Pai Tau Road, Tuen Mun (Ming Kum Road bound) near Tsun Wen Road are still being closed to all traffic.   The following affected bus routes have been diverted:\n- KMB: 960 (Kin Sang bound), A34 (Airport bound), P960 (Siu Hong North bound), N960 (Kin Sang bound), NA33 (Cathay City bound); and\n- CTB: B3A (Shan King Estate bound).   Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，屯門石排頭路(往鳴琴路方向)近震寰路的全線仍然封閉。  以下受影響巴士號線須改道行駛:\n-九巴:960(往建生方向)、A34(往機場方向)、P960(往兆康北方向)、N960(往建生方向)、NA33(往國泰城方向);及\n-城巴:B3A(往山景邨方向)。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-03-03T14:39:15",
-        "last_announcement": "2024-03-03T14:15:00"
+        "last_update": "2024-03-03T17:38:54",
+        "last_announcement": "2024-03-03T17:25:00"
     },
     "IN-24-01189": {
         "description": {
