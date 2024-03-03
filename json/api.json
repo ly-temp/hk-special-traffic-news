@@ -1,43 +1,4 @@
 {
-    "IN-24-01128": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "malfunction of traffic lights",
-            "INCIDENT_DETAIL_CN": "交通燈失靈",
-            "LOCATION_EN": "Sha Tin Rural Committee Road",
-            "LOCATION_CN": "沙田鄉事會路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-29T07:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93320",
-                "CONTENT_EN": "Due to malfunction of traffic lights at the junction between Sha Tin Rural Committee Road flyover and Tai Po Road - Sha Tin, motorists are advised to drive with utmost care when passing through the road junction concerned.   Motorists are advised to pay attention to radio / TV announcements on traffic conditions.",
-                "CONTENT_CN": "因沙田鄉事會路天橋與大埔公路-沙田段交界的交通燈失靈，駕駛人士在駛經有關路口時請\n加倍小心。  駕駛人士請留意電台/電視廣播的最新交通情況。"
-            },
-            "2024-02-29T10:47:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "93332",
-                "CONTENT_EN": "All traffic lights at the junction between Sha Tin Rural Committee Road and Tai Po Road - Sha Tin have resumed normal operation.",
-                "CONTENT_CN": "較早前位於沙田鄉事會路天橋與大埔公路-沙田段交界的交通燈已恢復正常運作。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-02-29T11:16:07",
-        "last_announcement": "2024-02-29T10:47:00"
-    },
     "IN-24-01131": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
@@ -83,45 +44,6 @@
         "district": "灣仔區",
         "last_update": "2024-02-29T13:09:45",
         "last_announcement": "2024-02-29T13:01:00"
-    },
-    "IN-24-01134": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Winslow Street",
-            "NEAR_LANDMARK_CN": "溫思勞街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-02-29T10:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93330",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Winslow Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，漆咸道北(往油麻地方向)近溫思勞街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-02-29T10:56:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "93333",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Yau Ma Tei bound) near Winslow Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的漆咸道北(往油麻地方向)近溫思勞街的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-02-29T11:16:07",
-        "last_announcement": "2024-02-29T10:56:00"
     },
     "IN-24-01135": {
         "description": {
