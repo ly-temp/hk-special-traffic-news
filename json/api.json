@@ -2579,5 +2579,37 @@
         "district": "觀塘區",
         "last_update": "2024-03-06T20:46:19",
         "last_announcement": "2024-03-06T20:19:00"
+    },
+    "IN-24-01251": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy road sections in Hung Hom",
+            "LOCATION_CN": "紅磡交通繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-06T21:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93630",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n- Station Lane\n- Wuhu Street\n- Kun Yam Street\n- Ma Tau Wai Road.",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n-差館里\n-蕪湖街\n-觀音街\n-馬頭圍道。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-03-06T21:28:42",
+        "last_announcement": "2024-03-06T21:15:00"
     }
 }
