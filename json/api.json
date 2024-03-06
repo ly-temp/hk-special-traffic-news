@@ -2092,11 +2092,18 @@
                 "ID": "93587",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Worldwide Gardens is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近世界花園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-06T09:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93594",
+                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Worldwide Gardens which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近世界花園的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-03-06T09:13:15",
-        "last_announcement": "2024-03-06T08:11:00"
+        "last_update": "2024-03-06T09:56:40",
+        "last_announcement": "2024-03-06T09:09:00"
     },
     "IN-24-01246": {
         "description": {
@@ -2156,11 +2163,18 @@
                 "ID": "93590",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central Road bound) near Provident Centre is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，東區走廊(往中間道方向)近和富中心的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-06T09:17:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93597",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近和富中心的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-03-06T09:13:15",
-        "last_announcement": "2024-03-06T08:58:00"
+        "last_update": "2024-03-06T09:56:40",
+        "last_announcement": "2024-03-06T09:17:00"
     },
     "IN-24-01245": {
         "description": {
@@ -2188,10 +2202,88 @@
                 "ID": "93592",
                 "CONTENT_EN": "Due to low visibility at sea, ferry service of Ma Wan - Central will be or has been delayed and affected.",
                 "CONTENT_CN": "因海面能見度低，馬灣-中環渡輪服務將會或已經延誤及影響。"
+            },
+            "2024-03-06T09:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93604",
+                "CONTENT_EN": "Due to low visibility at sea, Park Island Transport Company Ltd. ferry service between Ma Wan and Central will be or has been delayed and affected.",
+                "CONTENT_CN": "因海面能見度低，珀麗灣客運有限公司馬灣來往中環渡輪服務將會或已經延誤及影響。"
             }
         },
         "district": null,
-        "last_update": "2024-03-06T09:13:15",
-        "last_announcement": "2024-03-06T08:56:00"
+        "last_update": "2024-03-06T09:56:40",
+        "last_announcement": "2024-03-06T09:13:00"
+    },
+    "IN-24-01248": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lai Chi Kok Road",
+            "LOCATION_CN": "荔枝角道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Banyan Garden",
+            "NEAR_LANDMARK_CN": "泓景臺",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-06T09:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93595",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lai Chi Kok Road (Tsuen Wan bound) near Banyan Garden is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，荔枝角道(往荃灣方向)近泓景臺的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-06T09:25:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93601",
+                "CONTENT_EN": "Part of the lanes of Lai Chi Kok Road (Tsuen Wan bound) near Banyan Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荔枝角道(往荃灣方向)近泓景臺的部份行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-03-06T09:56:40",
+        "last_announcement": "2024-03-06T09:25:00"
+    },
+    "IN-24-01250": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Lek Yuen Estate",
+            "NEAR_LANDMARK_CN": "瀝源邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-06T09:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93599",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Sheung Shui bound) near Lek Yuen Estate is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往上水方向)近瀝源邨的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-03-06T09:56:40",
+        "last_announcement": "2024-03-06T09:22:00"
     }
 }
