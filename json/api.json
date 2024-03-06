@@ -73,38 +73,6 @@
         "last_update": "2024-03-05T06:26:46",
         "last_announcement": "2024-03-05T06:12:00"
     },
-    "IN-24-01190": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel",
-            "LOCATION_CN": "獅子山隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-03T14:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93467",
-                "CONTENT_EN": "The tunnel tube fast lane of Lion Rock Tunnel (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道(往九龍方向)的管道快線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-03-03T14:17:35",
-        "last_announcement": "2024-03-03T14:07:00"
-    },
     "IN-24-01191": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2198,11 +2166,18 @@
                 "ID": "93609",
                 "CONTENT_EN": "Due to low visibility at sea, the following ferry services have been delayed and affected: Park Island Transport Company Ltd. - between Ma Wan and Central - between Ma Wan and Tsuen Wan",
                 "CONTENT_CN": "因海面能見度低，以下渡輪服務已經延誤及影響： 珀麗灣客運有限公司 -馬灣來往中環 -馬灣來往荃灣"
+            },
+            "2024-03-06T13:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93615",
+                "CONTENT_EN": "The following ferry services which were delayed and affected due to Low Visibility on Sea have resumed normal: Park Island Transport Company Ltd. - between Ma Wan and Central - between Ma Wan and Tsuen Wan",
+                "CONTENT_CN": "較早前因受海面能見度低而延誤及影響的以下渡輪服務現已回復正常： 珀麗灣客運有限公司 -馬灣來往中環 -馬灣來往荃灣"
             }
         },
         "district": null,
-        "last_update": "2024-03-06T10:49:51",
-        "last_announcement": "2024-03-06T10:26:00"
+        "last_update": "2024-03-06T14:18:59",
+        "last_announcement": "2024-03-06T13:43:00"
     },
     "IN-24-01248": {
         "description": {
