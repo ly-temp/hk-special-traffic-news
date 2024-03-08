@@ -2064,11 +2064,18 @@
                 "ID": "93712",
                 "CONTENT_EN": "The following road section is still busy:\n– Wong Chu Road (Tuen Mun Road bound)\nMotorists passing through the above road section are advised to drive with utmost care and patience.   Traffic at the following road sections have resumed normal:\n– Kwun Tong Road (Choi Hung Interchange bound)\n– Yuen Long Highway near Fuk Hang Tsuen (Tuen Mun bound)\n– Lung Fu Road (Tuen Mun Road bound).",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–皇珠路(往屯門公路方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  以下路段的交通現已恢復正常:\n–觀塘道(往彩虹交匯處方向)\n–元朗公路近福亨村(往屯門方向)\n–龍富路(往屯門公路方向)。"
+            },
+            "2024-03-08T19:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93714",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Wong Chu Road (Tuen Mun Road bound)\n– Kwun Tong Road (Choi Hung Interchange bound)\n– Yuen Long Highway near Fuk Hang Tsuen (Tuen Mun bound)\n– Lung Fu Road (Tuen Mun Road bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–皇珠路(往屯門公路方向)\n–觀塘道(往彩虹交匯處方向)\n–元朗公路近福亨村(往屯門方向)\n–龍富路(往屯門公路方向)。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-03-08T19:19:20",
-        "last_announcement": "2024-03-08T19:11:00"
+        "last_update": "2024-03-08T19:29:37",
+        "last_announcement": "2024-03-08T19:22:00"
     },
     "IN-24-01297": {
         "description": {
@@ -2179,5 +2186,37 @@
         "district": "黃大仙區",
         "last_update": "2024-03-08T19:06:27",
         "last_announcement": "2024-03-08T18:51:00"
+    },
+    "IN-24-01300": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O Tunnel",
+            "DIRECTION_CN": "將軍澳隧道",
+            "NEAR_LANDMARK_EN": "Hing Tin Estate",
+            "NEAR_LANDMARK_CN": "興田邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-08T19:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93713",
+                "CONTENT_EN": "The middle lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳道(往將軍澳隧道方向)近興田邨的中線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-03-08T19:29:37",
+        "last_announcement": "2024-03-08T19:15:00"
     }
 }
