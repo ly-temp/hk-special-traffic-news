@@ -2296,5 +2296,37 @@
         "district": "觀塘區",
         "last_update": "2024-03-08T22:08:05",
         "last_announcement": "2024-03-08T22:01:00"
+    },
+    "IN-24-01304": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": "Airport Express Line and Tung Chung Line Service Disruption",
+            "LOCATION_CN": "機場快綫及東涌綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-09T06:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93724",
+                "CONTENT_EN": "Train service on Airport Express and between Sunny Bay Station and Tung Chung Station on the Tung Chung Line have been suspended. Please consider using other transport.",
+                "CONTENT_CN": "機場快綫全綫列車服務及東涌綫來往欣澳站至東涌站的列車服務暫停，請考慮使用其他交通工具。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-03-09T06:29:58",
+        "last_announcement": "2024-03-09T06:14:00"
     }
 }
