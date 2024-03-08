@@ -1830,11 +1830,18 @@
                 "ID": "93682",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Tung Yan Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近同仁街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-08T14:36:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93685",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Tung Yan Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近同仁街的部份行車線現已解封。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-03-08T14:21:57",
-        "last_announcement": "2024-03-08T13:52:00"
+        "last_update": "2024-03-08T14:52:58",
+        "last_announcement": "2024-03-08T14:36:00"
     },
     "IN-24-01288": {
         "description": {
@@ -1867,5 +1874,37 @@
         "district": "九龍城區",
         "last_update": "2024-03-08T14:42:46",
         "last_announcement": "2024-03-08T14:28:00"
+    },
+    "IN-24-01289": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsing Tsuen Road",
+            "LOCATION_CN": "青荃路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Riviera Gardens",
+            "NEAR_LANDMARK_CN": "海濱花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-08T14:40:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93686",
+                "CONTENT_EN": "The slow lane of Tsing Tsuen Road (Tsuen Wan bound) near Riviera Gardens which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的青荃路(往荃灣方向)近海濱花園的慢線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-03-08T14:52:58",
+        "last_announcement": "2024-03-08T14:40:00"
     }
 }
