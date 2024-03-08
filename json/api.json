@@ -1,71 +1,4 @@
 {
-    "IN-24-01228": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Wong Nai Chung Gap Flyover",
-            "LOCATION_CN": "黃泥涌峽天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Tunnel",
-            "DIRECTION_CN": "香港仔隧道",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-05T08:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93547",
-                "CONTENT_EN": "The following road sections are busy:\n- Ferry Street flyover (Yau Ma Tei bound) near Prosperous Garden\n- Waterloo Road flyover (Kowloon Tong bound) near St. Teresa's Church\n- Wong Nai Chung Gap Flyover (Aberdeen Tunnel bound)\nTraffic queue on Yuen Long Highway (Tuen Mun bound) near Fu Tai Estate ends at Yuen Long Highway near North West N. T. Refuse Transfer Station and traffic queue on Tolo Highway (Sha Tin bound) ends at Tolo Highway near Tai Po Kau Lo Wai. Motorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n-渡船街天橋(往油麻地方向)近駿發花園\n-窩打老道天橋(往九龍塘方向)近聖德肋撒堂\n-黃泥涌峽天橋(往香港仔隧道方向)\n現時在元朗公路(往屯門方向)近富泰邨的車龍龍尾已到元朗公路近新界西北廢物轉運站及吐露港公路(往沙田方向)的車龍龍尾已到吐露港公路近大埔滘老圍。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-03-05T08:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93553",
-                "CONTENT_EN": "The following road sections are still busy:\n- Ferry Street flyover (Yau Ma Tei bound) near Prosperous Garden\n- Yuen Long Highway (Tuen Mun bound) near Fuk Hang Tsuen\n- Tolo Highway (Sha Tin bound) near Hong Kong Science Park\n- Wong Nai Chung Gap flyover (Cross Harbour Tunnel bound)\n- Tate's Cairn Highway (Kowloon bound) near The Hang Seng University of Hong Kong\n- Hong Chong Road (Cross Harbour Tunnel bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   At the same time, traffic at the following road sections have resumed normal:\n- Waterloo Road flyover (Kowloon Tong bound) near St. Teresa's Church\n- Wong Nai Chung Gap flyover (Aberdeen Tunnel bound).",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n-渡船街天橋(往油麻地方向)近駿發花園\n-元朗公路(往屯門方向)近福亨村\n-吐露港公路(往沙田方向)近香港科學園\n-黃泥涌峽天橋(往海底隧道方向)\n-大老山公路(往九龍方向)近香港恒生大學\n-康莊道(往海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通已恢復正常:\n-窩打老道天橋(往九龍塘方向)近聖德肋撒堂\n-黃泥涌峽天橋(往香港仔隧道方向)。"
-            },
-            "2024-03-05T09:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93556",
-                "CONTENT_EN": "The following road sections are still busy:\n- Ferry Street flyover (Yau Ma Tei bound) near Prosperous Garden\n- Yuen Long Highway (Tuen Mun bound) near Fuk Hang Tsuen\n- Tate's Cairn Highway (Kowloon bound) near The Hang Seng University of Hong Kong\n- Hong Chong Road (Cross Harbour Tunnel bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience. \nAt the same time, traffic at the following road sections have resumed normal:\n- Tolo Highway (Sha Tin bound) near Hong Kong Science Park\n- Wong Nai Chung Gap flyover (Cross Harbour Tunnel bound).",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n-渡船街天橋(往油麻地方向)近駿發花園\n-元朗公路(往屯門方向)近福亨村\n-大老山公路(往九龍方向)近香港恒生大學\n-康莊道(往海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。\n同時，以下路段的交通已恢復正常:\n-吐露港公路(往沙田方向)近香港科學園\n-黃泥涌峽天橋(往海底隧道方向)。"
-            },
-            "2024-03-05T10:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93568",
-                "CONTENT_EN": "The following road sections are still busy:\n- Ferry Street flyover (Yau Ma Tei bound) near Prosperous Garden\n- Hong Chong Road (Cross Harbour Tunnel bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience. \nAt the same time, traffic at the following road section has resumed normal:\n- Yuen Long Highway (Tuen Mun bound) near Fuk Hang Tsuen.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n-渡船街天橋(往油麻地方向)近駿發花園\n-康莊道(往海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。\n同時，以下路段的交通已恢復正常:\n-元朗公路(往屯門方向)近福亨村。"
-            },
-            "2024-03-05T10:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93569",
-                "CONTENT_EN": "The following road section is still busy:\n- Ferry Street flyover (Yau Ma Tei bound) near Prosperous Garden\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience. \nAt the same time, traffic at the following road sections has resumed normal:\n- Hong Chong Road (Cross Harbour Tunnel bound).",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n-渡船街天橋(往油麻地方向)近駿發花園\n駕駛人士行經上述路段敬請忍讓及小心駕駛。\n同時，以下路段的交通已恢復正常:\n-康莊道(往海底隧道方向)。"
-            },
-            "2024-03-05T12:46:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "93573",
-                "CONTENT_EN": "Traffic at the following road section has resumed normal:\n- Ferry Street flyover (Yau Ma Tei bound) near Prosperous Garden.",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n-渡船街天橋(往油麻地方向)近駿發花園。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-03-05T12:59:21",
-        "last_announcement": "2024-03-05T12:46:00"
-    },
     "IN-24-01237": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1858,10 +1791,17 @@
                 "ID": "93678",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (Chai Wan bound) near City Garden is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，東區走廊(往柴灣方向)近城市花園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-08T12:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93679",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near City Garden which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往柴灣方向)近城市花園的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-03-08T12:21:02",
-        "last_announcement": "2024-03-08T12:10:00"
+        "last_update": "2024-03-08T13:08:03",
+        "last_announcement": "2024-03-08T12:54:00"
     }
 }
