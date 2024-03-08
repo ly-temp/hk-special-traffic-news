@@ -105,45 +105,6 @@
         "last_update": "2024-03-05T12:59:21",
         "last_announcement": "2024-03-05T12:46:00"
     },
-    "IN-24-01235": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-05T09:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93560",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東區走廊(往中環方向)近和富中心的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-05T10:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93567",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近和富中心的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-03-05T10:31:11",
-        "last_announcement": "2024-03-05T10:15:00"
-    },
     "IN-24-01236": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1904,10 +1865,49 @@
                 "ID": "93674",
                 "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Cheung Tsing Tunnel (Kowloon bound) is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，長青隧道(往九龍方向)的管道快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-08T10:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93677",
+                "CONTENT_EN": "The tunnel tube fast lane of Cheung Tsing Tunnel (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的長青隧道(往九龍方向)的管道快線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-03-08T10:03:40",
-        "last_announcement": "2024-03-08T09:39:00"
+        "last_update": "2024-03-08T10:37:33",
+        "last_announcement": "2024-03-08T10:30:00"
+    },
+    "IN-24-01284": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Mong Kok Road",
+            "LOCATION_CN": "旺角道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sai Yee Street",
+            "DIRECTION_CN": "洗衣街",
+            "NEAR_LANDMARK_EN": "Fa Yuen Street",
+            "NEAR_LANDMARK_CN": "花園街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-08T10:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93676",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Mong Kok Road (Sai Yee Street bound) near Fa Yuen Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，旺角道(往洗衣街方向)近花園街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-03-08T10:37:33",
+        "last_announcement": "2024-03-08T10:26:00"
     }
 }
