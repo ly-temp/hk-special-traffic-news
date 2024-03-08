@@ -144,77 +144,6 @@
         "last_update": "2024-03-05T10:20:53",
         "last_announcement": "2024-03-05T10:08:00"
     },
-    "IN-24-01231": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Castle Peak Road - Castle Peak Bay",
-            "LOCATION_CN": "青山公路　–　青山灣段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sham Tseng",
-            "DIRECTION_CN": "深井",
-            "NEAR_LANDMARK_EN": "Sam Shing",
-            "NEAR_LANDMARK_CN": "三聖",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-05T08:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93552",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Castle Peak Road - Castle Peak Bay (Sham Tseng bound) near Sam Shing is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青山公路　–　青山灣段(往深井方向)近三聖的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-05T09:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93563",
-                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Castle Peak Bay (Sham Tseng bound) near Sam Shing which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　青山灣段(往深井方向)近三聖的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-03-05T09:56:56",
-        "last_announcement": "2024-03-05T09:36:00"
-    },
-    "IN-24-01233": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Temple Mall",
-            "NEAR_LANDMARK_CN": "黃大仙中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-05T09:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93557",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Temple Mall is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近黃大仙中心的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-03-05T09:56:56",
-        "last_announcement": "2024-03-05T09:21:00"
-    },
     "IN-24-01235": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -253,38 +182,6 @@
         "district": "東區",
         "last_update": "2024-03-05T10:31:11",
         "last_announcement": "2024-03-05T10:15:00"
-    },
-    "IN-24-01232": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Worldwide Gardens",
-            "NEAR_LANDMARK_CN": "世界花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-05T09:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93564",
-                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Worldwide Gardens which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近世界花園的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-03-05T09:56:56",
-        "last_announcement": "2024-03-05T09:46:00"
     },
     "IN-24-01234": {
         "description": {
@@ -2012,5 +1909,76 @@
         "district": "沙田區",
         "last_update": "2024-03-08T09:30:09",
         "last_announcement": "2024-03-08T09:06:00"
+    },
+    "IN-24-01282": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Choi Hung Estate",
+            "NEAR_LANDMARK_CN": "彩虹邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-08T09:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93673",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Lung Cheung Road flyover (Kwun Tong bound) near Choi Hung Estate is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道天橋(往觀塘方向)近彩虹邨的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-08T09:45:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93675",
+                "CONTENT_EN": "The fast lane of Lung Cheung Road flyover (Kwun Tong bound) near Choi Hung Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道天橋(往觀塘方向)近彩虹邨的快線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-03-08T10:03:40",
+        "last_announcement": "2024-03-08T09:45:00"
+    },
+    "IN-24-01283": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cheung Tsing Tunnel",
+            "LOCATION_CN": "長青隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-08T09:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93674",
+                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Cheung Tsing Tunnel (Kowloon bound) is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，長青隧道(往九龍方向)的管道快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-03-08T10:03:40",
+        "last_announcement": "2024-03-08T09:39:00"
     }
 }
