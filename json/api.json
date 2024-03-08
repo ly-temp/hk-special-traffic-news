@@ -1564,11 +1564,18 @@
                 "ID": "93676",
                 "CONTENT_EN": "Due to watermain burst , part of the lanes of Mong Kok Road (Sai Yee Street bound) near Fa Yuen Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，旺角道(往洗衣街方向)近花園街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-09T06:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93729",
+                "CONTENT_EN": "Part of the lanes of Mong Kok Road (Sai Yee Street bound) near Fa Yuen Street which was closed due to watermain burst is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管爆裂而封閉的旺角道(往洗衣街方向)近花園街的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-03-08T10:37:33",
-        "last_announcement": "2024-03-08T10:26:00"
+        "last_update": "2024-03-09T07:19:59",
+        "last_announcement": "2024-03-09T06:59:00"
     },
     "IN-24-01285": {
         "description": {
@@ -1933,11 +1940,18 @@
                 "ID": "93700",
                 "CONTENT_EN": "Due to gas leakage , part of the lanes of Connaught Road Central (Sheung Wan bound) near Ice House Street is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Besides, vehicles travelling on Connaught Road Central (Sheung Wan bound) are prohibited to make left turning onto Ice House Street (Queen's Road Central bound).   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因氣體洩漏，干諾道中(往上環方向)近雪廠街的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  同時，車輛不能沿干諾道中(往上環方向)左轉入雪廠街(往皇后大道中方向)。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-03-09T06:58:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93728",
+                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Sheung Wan bound) near Ice House Street which was closed due to suspected gas leakage is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因懷疑氣體洩漏而封閉的干諾道中(往上環方向)近雪廠街的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-03-08T18:13:24",
-        "last_announcement": "2024-03-08T18:02:00"
+        "last_update": "2024-03-09T07:19:59",
+        "last_announcement": "2024-03-09T06:58:00"
     },
     "IN-24-01296": {
         "description": {
@@ -2337,10 +2351,17 @@
                 "ID": "93726",
                 "CONTENT_EN": "Train Service Disruption on the Airport Express and Tung Chung Line due to fire occurred near Sunny Bay Station. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\nPlease allow more time for travel.",
                 "CONTENT_CN": "詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n\n請為行程預留充裕時間。"
+            },
+            "2024-03-09T07:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93731",
+                "CONTENT_EN": "The fire occurred near Sunny Bay Station on the Airport Express &amp; Tung Chung Line has been handled. Normal train service is gradually resuming.",
+                "CONTENT_CN": "在欣澳站附近火警已經妥善處理，機場快綫及東涌綫列車服務逐步回復正常。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-03-09T07:00:49",
-        "last_announcement": "2024-03-09T06:42:00"
+        "last_update": "2024-03-09T07:19:59",
+        "last_announcement": "2024-03-09T07:10:00"
     }
 }
