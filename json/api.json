@@ -2241,11 +2241,18 @@
                 "ID": "93742",
                 "CONTENT_EN": "Due to dangerous signboard , the middle and slow lanes of Chatham Road South (Austin Road bound) near Cameron Road are closed to all traffic. Only the fast lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因危險招牌，漆咸道南(往柯士甸道方向)近金馬倫道的中線及慢線現已封閉。 駕駛人士只可使用快線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-09T11:43:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93745",
+                "CONTENT_EN": "The middle and slow lanes of Chatham Road South (Austin Road bound) near Cameron Road which were closed due to dangerous signboard are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因危險招牌而封閉的漆咸道南(往柯士甸道方向)近金馬倫道的中線及慢線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-03-09T10:30:47",
-        "last_announcement": "2024-03-09T10:15:00"
+        "last_update": "2024-03-09T11:55:57",
+        "last_announcement": "2024-03-09T11:43:00"
     },
     "IN-24-01311": {
         "description": {
@@ -2273,10 +2280,17 @@
                 "ID": "93744",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Castle Peak Road - Tsuen Wan (Kowloon bound) near Discovery Park is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青山公路　–　荃灣段(往九龍方向)近愉景新城的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-09T11:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93746",
+                "CONTENT_EN": "The slow lane of Castle Peak Road - Tsuen Wan (Kowloon bound) near Discovery Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　荃灣段(往九龍方向)近愉景新城的慢線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-03-09T11:45:55",
-        "last_announcement": "2024-03-09T11:27:00"
+        "last_update": "2024-03-09T11:55:57",
+        "last_announcement": "2024-03-09T11:44:00"
     }
 }
