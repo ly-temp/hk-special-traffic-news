@@ -1,57 +1,4 @@
 {
-    "IN-24-01245": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Low Visibility on Sea",
-            "INCIDENT_DETAIL_CN": "海面能見度低",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-06T08:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93592",
-                "CONTENT_EN": "Due to low visibility at sea, ferry service of Ma Wan - Central will be or has been delayed and affected.",
-                "CONTENT_CN": "因海面能見度低，馬灣-中環渡輪服務將會或已經延誤及影響。"
-            },
-            "2024-03-06T09:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93604",
-                "CONTENT_EN": "Due to low visibility at sea, Park Island Transport Company Ltd. ferry service between Ma Wan and Central will be or has been delayed and affected.",
-                "CONTENT_CN": "因海面能見度低，珀麗灣客運有限公司馬灣來往中環渡輪服務將會或已經延誤及影響。"
-            },
-            "2024-03-06T10:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93609",
-                "CONTENT_EN": "Due to low visibility at sea, the following ferry services have been delayed and affected: Park Island Transport Company Ltd. - between Ma Wan and Central - between Ma Wan and Tsuen Wan",
-                "CONTENT_CN": "因海面能見度低，以下渡輪服務已經延誤及影響： 珀麗灣客運有限公司 -馬灣來往中環 -馬灣來往荃灣"
-            },
-            "2024-03-06T13:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93615",
-                "CONTENT_EN": "The following ferry services which were delayed and affected due to Low Visibility on Sea have resumed normal: Park Island Transport Company Ltd. - between Ma Wan and Central - between Ma Wan and Tsuen Wan",
-                "CONTENT_CN": "較早前因受海面能見度低而延誤及影響的以下渡輪服務現已回復正常： 珀麗灣客運有限公司 -馬灣來往中環 -馬灣來往荃灣"
-            }
-        },
-        "district": null,
-        "last_update": "2024-03-06T14:18:59",
-        "last_announcement": "2024-03-06T13:43:00"
-    },
     "IN-24-01255": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2299,5 +2246,37 @@
         "district": "中西區",
         "last_update": "2024-03-09T14:10:12",
         "last_announcement": "2024-03-09T13:38:00"
+    },
+    "IN-24-01314": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Lei Yue Mun Road",
+            "LOCATION_CN": "鯉魚門道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Ko Chiu Road",
+            "NEAR_LANDMARK_CN": "高超道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-09T14:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93751",
+                "CONTENT_EN": "The following road section(s) are busy: - Lei Yue Mun Road (both bounds) near Ko Chiu Road - Ko Chiu Road (both bounds) near Lei Yue Mun Road Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙: -鯉魚門道(來回方向)近高超道 -高超道(來回方向)近鯉魚門道 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-03-09T14:28:17",
+        "last_announcement": "2024-03-09T14:15:00"
     }
 }
