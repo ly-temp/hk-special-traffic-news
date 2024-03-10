@@ -1415,11 +1415,18 @@
                 "ID": "93720",
                 "CONTENT_EN": "Due to watermain emergency works , the fast lane of Chap Wai Kon Street (Shek Mun bound) near Ngan Shing Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，插桅杆街(往石門方向)近銀城街的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-10T08:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93777",
+                "CONTENT_EN": "The fast lane of Chap Wai Kon Street (Shek Mun bound) near Ngan Shing Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的插桅杆街(往石門方向)近銀城街的快線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-03-08T20:33:02",
-        "last_announcement": "2024-03-08T20:12:00"
+        "last_update": "2024-03-10T09:18:52",
+        "last_announcement": "2024-03-10T08:06:00"
     },
     "IN-24-01302": {
         "description": {
@@ -2281,5 +2288,37 @@
         "district": "沙田區",
         "last_update": "2024-03-09T22:20:51",
         "last_announcement": "2024-03-09T21:58:00"
+    },
+    "IN-24-01323": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Butterfly Valley Road",
+            "NEAR_LANDMARK_CN": "蝴蝶谷道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-10T08:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93778",
+                "CONTENT_EN": "Due to road incident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Butterfly Valley Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因道路事故，呈祥道(往荃灣方向)近蝴蝶谷道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-03-10T09:18:52",
+        "last_announcement": "2024-03-10T08:55:00"
     }
 }
