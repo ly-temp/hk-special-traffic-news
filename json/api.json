@@ -2114,5 +2114,37 @@
         "district": "觀塘區",
         "last_update": "2024-03-10T22:38:12",
         "last_announcement": "2024-03-10T22:29:00"
+    },
+    "IN-24-01335": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Po Lam Road North",
+            "LOCATION_CN": "寶琳北路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "King Lam Estate",
+            "DIRECTION_CN": "景林邨",
+            "NEAR_LANDMARK_EN": "Yau Yue Wan Village Road",
+            "NEAR_LANDMARK_CN": "魷魚灣村道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-11T07:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93803",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Lam Road North (King Lam Estate bound) near Yau Yue Wan Village Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，寶琳北路(往景林邨方向)近魷魚灣村道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-03-11T07:45:16",
+        "last_announcement": "2024-03-11T07:28:00"
     }
 }
