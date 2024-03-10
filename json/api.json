@@ -2132,5 +2132,37 @@
         "district": null,
         "last_update": "2024-03-10T10:02:29",
         "last_announcement": "2024-03-10T09:30:00"
+    },
+    "IN-24-01326": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-10T12:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93782",
+                "CONTENT_EN": "The following road sections are busy:\n– Fanling Highway\n– Pak Wo Road\n– Wah Ming Road\n\nCitizens heading to Wo Hop Shek please take note KMB's service travelling via the above road sections has been affected, citizens please consider using other public transport services, such as MTR services.   Motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–粉嶺公路\n–百和路\n–華明路\n\n前往和合石一帶的市民請留意，途經上述路段的九巴服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-03-10T12:54:09",
+        "last_announcement": "2024-03-10T12:30:00"
     }
 }
