@@ -123,45 +123,6 @@
         "last_update": "2024-03-09T07:19:59",
         "last_announcement": "2024-03-09T06:58:00"
     },
-    "IN-24-01297": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "So Kwun Po Road",
-            "LOCATION_CN": "掃管埔路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-08T18:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93703",
-                "CONTENT_EN": "The following road sections are busy:\n– So Kwun Po Road (both bounds)\n– The section of Fanling Highway between Tai Tau Leng and Fanling MTR Station (Yuen Long bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   Citizens please take note KMB and LWB's services travelling via So Kwun Po Road has been affected, citizens please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–掃管埔路(來回方向)\n–介乎大頭嶺與粉嶺港鐵站之間的一段粉嶺公路(往元朗方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  市民請留意九巴及龍運途經掃管埔路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-03-08T19:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93719",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– So Kwun Po Road (both bounds)\n– The section of Fanling Highway between Tai Tau Leng and Fanling MTR Station (Yuen Long bound).  Affected services of KMB and LWB at So Kwun Po Road have gradually resumed normal.",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–掃管埔路(來回方向)\n–介乎大頭嶺與粉嶺港鐵站之間的一段粉嶺公路(往元朗方向)。  較早前於掃管埔路受影響的九巴及龍運巴士服務已陸續回復正常。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-03-08T20:33:02",
-        "last_announcement": "2024-03-08T19:50:00"
-    },
     "IN-24-01293": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -207,38 +168,6 @@
         "district": "沙田區",
         "last_update": "2024-03-10T09:18:52",
         "last_announcement": "2024-03-10T08:06:00"
-    },
-    "IN-24-01302": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Prince Edward Road West",
-            "LOCATION_CN": "太子道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-08T20:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93721",
-                "CONTENT_EN": "Traffic at Prince Edward Road West (Mong Kok bound) has resumed normal.",
-                "CONTENT_CN": "太子道西(往旺角方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-03-08T20:33:02",
-        "last_announcement": "2024-03-08T20:21:00"
     },
     "IN-24-01303": {
         "description": {
