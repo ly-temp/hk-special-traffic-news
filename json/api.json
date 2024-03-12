@@ -2521,11 +2521,18 @@
                 "ID": "93926",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Kowloon bound) near Kap Shui Mun Bridge Entrance is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青嶼幹線(往九龍方向)近汲水門大橋入口的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-12T19:32:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93929",
+                "CONTENT_EN": "Part of the lanes of Lantau Link (Kowloon bound) near Kap Shui Mun Bridge Entrance which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(往九龍方向)近汲水門大橋入口的部份行車線現已解封。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-03-12T18:38:04",
-        "last_announcement": "2024-03-12T18:25:00"
+        "last_update": "2024-03-12T19:45:56",
+        "last_announcement": "2024-03-12T19:32:00"
     },
     "IN-24-01386": {
         "description": {
@@ -2553,11 +2560,18 @@
                 "ID": "93927",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lin Cheung Road (Sham Shui Po bound) near Civil Aid Service Headquarters is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，連翔道(往深水埗方向)近民眾安全服務隊總部的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-12T19:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93930",
+                "CONTENT_EN": "Part of the lanes of Lin Cheung Road (Sham Shui Po bound) near Civil Aid Service Headquarters which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的連翔道(往深水埗方向)近民眾安全服務隊總部的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-03-12T18:58:16",
-        "last_announcement": "2024-03-12T18:40:00"
+        "last_update": "2024-03-12T19:45:56",
+        "last_announcement": "2024-03-12T19:35:00"
     },
     "IN-24-01387": {
         "description": {
