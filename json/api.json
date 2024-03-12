@@ -2636,5 +2636,37 @@
         "district": "大埔區",
         "last_update": "2024-03-12T20:58:23",
         "last_announcement": "2024-03-12T20:41:00"
+    },
+    "IN-24-01390": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Castle Peak Road - Castle Peak Bay",
+            "LOCATION_CN": "青山公路　–　青山灣段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Town Centre",
+            "DIRECTION_CN": "屯門市中心",
+            "NEAR_LANDMARK_EN": "Hoi Wing Road",
+            "NEAR_LANDMARK_CN": "海榮路",
+            "BETWEEN_LANDMARK_EN": "Siu Lun Street",
+            "BETWEEN_LANDMARK_CN": "兆麟街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-13T03:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93936",
+                "CONTENT_EN": "Due to emergency incident , all lanes of Castle Peak Road - Castle Peak Bay (Tuen Mun Town Centre bound) between Hoi Wing Road and Siu Lun Street are closed to all traffic. Meanwhile, vehicles on Castle Peak Road - Castle Peak Bay (Both bounds) could not turn into Sam Shing Street. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因突發事件，青山公路　–　青山灣段(往屯門市中心方向)介乎海榮路與兆麟街之間的全線現已封閉。 同時，青山公路-青山灣段(來回方向)的車輛不能轉入三聖街。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-03-13T03:41:18",
+        "last_announcement": "2024-03-13T03:25:00"
     }
 }
