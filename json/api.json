@@ -84,84 +84,6 @@
         "last_update": "2024-03-10T09:18:52",
         "last_announcement": "2024-03-10T08:06:00"
     },
-    "IN-24-01305": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-09T06:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93732",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
-            },
-            "2024-03-09T08:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93737",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-03-09T09:27:28",
-        "last_announcement": "2024-03-09T08:50:00"
-    },
-    "IN-24-01306": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": "Moonbeam Terrace",
-            "NEAR_LANDMARK_CN": "映月臺",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-09T08:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93733",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Sha Tin bound) near Moonbeam Terrace is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往沙田方向)近映月臺的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-09T09:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93739",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Sha Tin bound) near Moonbeam Terrace which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往沙田方向)近映月臺的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-03-09T09:27:28",
-        "last_announcement": "2024-03-09T09:17:00"
-    },
     "IN-24-01307": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -200,45 +122,6 @@
         "district": "觀塘區",
         "last_update": "2024-03-09T09:59:32",
         "last_announcement": "2024-03-09T09:35:00"
-    },
-    "IN-24-01308": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tsing Kwai Highway",
-            "LOCATION_CN": "青葵公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Princess Margaret Hospital",
-            "NEAR_LANDMARK_CN": "瑪嘉烈醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-09T08:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93736",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Princess Margaret Hospital is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青葵公路(往九龍方向)近瑪嘉烈醫院的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-09T09:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93738",
-                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kowloon bound) near Princess Margaret Hospital which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青葵公路(往九龍方向)近瑪嘉烈醫院的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-03-09T09:27:28",
-        "last_announcement": "2024-03-09T09:11:00"
     },
     "IN-24-01309": {
         "description": {
@@ -2554,5 +2437,108 @@
         "district": "大埔區",
         "last_update": "2024-03-12T09:16:22",
         "last_announcement": "2024-03-12T08:07:00"
+    },
+    "IN-24-01370": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Hammer Hill Road Swimming Pool",
+            "NEAR_LANDMARK_CN": "斧山道游泳池",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-12T09:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93886",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Hammer Hill Road Swimming Pool which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近斧山道游泳池的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-03-12T09:56:34",
+        "last_announcement": "2024-03-12T09:07:00"
+    },
+    "IN-24-01369": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Long Highway (Ting Kau Bridge)",
+            "LOCATION_CN": "青朗公路(汀九橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-12T09:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93888",
+                "CONTENT_EN": "Part of the lanes of Tsing Long Highway (Ting Kau Bridge) (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青朗公路(汀九橋)(往九龍方向) 的部份行車線現已解封。車龍有待消散。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-03-12T09:56:34",
+        "last_announcement": "2024-03-12T09:15:00"
+    },
+    "IN-24-01371": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tsuen Tsing Interchange",
+            "NEAR_LANDMARK_CN": "荃青交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-12T09:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93891",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tsuen Wan Road (Kowloon bound) near Tsuen Tsing Interchange is still being closed to all traffic. Only the slow lane is available to motorists. Traffic queue on Tsuen Wan Road (Kowloon bound) ends at Tuen Mun Road near Yau Kom Tau. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近荃青交匯處的快線仍然封閉。 駕駛人士只可使用慢線行車。 現時在荃灣路(往九龍方向)的車龍龍尾已到屯門公路近油柑頭。 現時上址交通擠塞。"
+            },
+            "2024-03-12T09:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93892",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tsuen Wan Road (Kowloon bound) near Tsuen Tsing Interchange is still being closed to all traffic. Only the slow lane is available to motorists. Traffic queue on Tsuen Wan Road (Kowloon bound) ends at Tuen Mun Road near Tsing Long Highway (Ting Kau Bridge). Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近荃青交匯處的快線仍然封閉。 駕駛人士只可使用慢線行車。 現時在荃灣路(往九龍方向)的車龍龍尾已到屯門公路近青朗公路(汀九橋)。 現時上址交通擠塞。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-03-12T09:56:34",
+        "last_announcement": "2024-03-12T09:40:00"
     }
 }
