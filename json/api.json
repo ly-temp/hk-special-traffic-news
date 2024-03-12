@@ -84,105 +84,6 @@
         "last_update": "2024-03-10T09:18:52",
         "last_announcement": "2024-03-10T08:06:00"
     },
-    "IN-24-01312": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Cheung Tsing Tunnel",
-            "LOCATION_CN": "長青隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-09T13:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93747",
-                "CONTENT_EN": "Due to watermain burst , tunnel tube fast and middle lanes of Cheung Tsing Tunnel (Kowloon bound) is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，長青隧道(往九龍方向)的管道快線及中線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-09T14:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93754",
-                "CONTENT_EN": "The tunnel tube middle lane of Cheung Tsing Tunnel (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic; tunnel tubethe fast lane of Cheung Tsing Tunnel (Kowloon bound) is still closed to all traffic. Traffic is busy now.",
-                "CONTENT_CN": "較早前因交通意外而封閉的長青隧道(往九龍方向)的管道中線現已解封; 長青隧道(往九龍方向)的管道快線仍然封閉。 現時上址交通繁忙。"
-            },
-            "2024-03-09T15:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93759",
-                "CONTENT_EN": "Due to traffic accident , tunnel tube fast and middle lanes of Cheung Tsing Tunnel (Kowloon bound) are closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，長青隧道(往九龍方向)的管道快線及中線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-09T15:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93760",
-                "CONTENT_EN": "The tunnel tube middle lane of Cheung Tsing Tunnel (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic; tunnel tubethe fast lane of Cheung Tsing Tunnel (Kowloon bound) is still closed to all traffic. Traffic is busy now.",
-                "CONTENT_CN": "較早前因交通意外而封閉的長青隧道(往九龍方向)的管道中線現已解封; 長青隧道(往九龍方向)的管道快線仍然封閉。 現時上址交通繁忙。"
-            },
-            "2024-03-09T17:49:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "93769",
-                "CONTENT_EN": "The tunnel tube fast lane of Cheung Tsing Tunnel (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的長青隧道(往九龍方向)的管道快線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-03-09T18:24:33",
-        "last_announcement": "2024-03-09T17:49:00"
-    },
-    "IN-24-01315": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-09T14:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93752",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
-            },
-            "2024-03-09T18:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93770",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-03-09T18:24:33",
-        "last_announcement": "2024-03-09T18:10:00"
-    },
     "IN-24-01321": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2600,5 +2501,37 @@
         "district": "黃大仙區",
         "last_update": "2024-03-12T18:11:26",
         "last_announcement": "2024-03-12T17:56:00"
+    },
+    "IN-24-01384": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Tai Wing Avenue",
+            "LOCATION_CN": "太榮路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-12T18:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93925",
+                "CONTENT_EN": "Due to watermain emergency works , the only lane of the slip road leading from Tai Wing Avenue  to Taikoo Shing Road (Tai Yue Avenue bound) is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管緊急維修，由太榮路通往太古城道(往太裕路方向) 的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-03-12T18:27:42",
+        "last_announcement": "2024-03-12T18:11:00"
     }
 }
