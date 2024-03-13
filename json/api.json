@@ -3207,5 +3207,37 @@
         "district": "深水埗區",
         "last_update": "2024-03-13T12:38:49",
         "last_announcement": "2024-03-13T12:30:00"
+    },
+    "IN-24-01407": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "person in dangerous position",
+            "INCIDENT_DETAIL_CN": "有人在危險位置",
+            "LOCATION_EN": "Tsat Tsz Mui Road",
+            "LOCATION_CN": "七姊妹道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Healthy Street East",
+            "NEAR_LANDMARK_CN": "健康東街",
+            "BETWEEN_LANDMARK_EN": "Healthy Street Central",
+            "BETWEEN_LANDMARK_CN": "健康中街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-13T13:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93979",
+                "CONTENT_EN": "Due to person in dangerous position , all lanes of Tsat Tsz Mui Road (both bounds) between Healthy Street East and Healthy Street Central is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因有人在危險位置，七姊妹道(來回方向)介乎健康東街與健康中街之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-03-13T13:20:22",
+        "last_announcement": "2024-03-13T13:04:00"
     }
 }
