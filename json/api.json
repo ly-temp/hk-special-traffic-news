@@ -2677,11 +2677,18 @@
                 "ID": "93942",
                 "CONTENT_EN": "Due to emergency incident , part of the lanes of Castle Peak Road - Castle Peak Bay (Tuen Mun Town Centre bound) between Hoi Wing Road and Siu Lun Street is still being closed to all traffic. \nAffected KMB bus routes nos. 52X, 53, 61M, 261X, LWB bus route no. A33 and CTB bus route no. 962C have been diverted. Only remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，青山公路　–　青山灣段(往屯門市中心方向)介乎海榮路與兆麟街之間的部份行車線仍然封閉。\n受影響九巴第52X、53、61M、261X、龍運第A33號線及城巴第962C號線須改道行駛。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-13T07:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93946",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Castle Peak Bay (Tuen Mun Town Centre bound) between Hoi Wing Road and Siu Lun Street which was closed due to emergency incident is re-opened to all traffic.   Affected bus routes have gradually resumed their original routeings.",
+                "CONTENT_CN": "較早前因突發事件而封閉的青山公路　–　青山灣段(往屯門市中心方向)介乎海榮路與兆麟街之間的部份行車線現已解封。  受影響巴士路線已陸續恢復原有路線行駛。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-03-13T07:25:54",
-        "last_announcement": "2024-03-13T07:09:00"
+        "last_update": "2024-03-13T09:08:40",
+        "last_announcement": "2024-03-13T07:59:00"
     },
     "IN-24-01391": {
         "description": {
@@ -2787,10 +2794,177 @@
                 "ID": "93944",
                 "CONTENT_EN": "Due to a signalling fault near Ho Man Tin Station, Kwun Tong Line trains will operate at a slower speed from Ho Man Tin Station to Whampoa Station. This could extend the total journey time on the Kwun Tong Line between Whampoa Station and Tiu Keng Leng Station by 10-15 minutes. \n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\n\nPlease allow more time for travel.",
                 "CONTENT_CN": "由於何文田站附近有信號故障，觀塘綫列車駛經何文田站至黃埔站路段時需要慢駛，觀塘綫來往黃埔站及調景嶺站的行車時間預計需要額外10-15分鐘。\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n\n請為行程預留充裕時間。"
+            },
+            "2024-03-13T08:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93948",
+                "CONTENT_EN": "The signalling fault near Ho Man Tin Station on the Kwun Tong Line has been repaired. Train operations can now be safely resumed. Normal train service is gradually resuming.",
+                "CONTENT_CN": "何文田站附近的信號故障已完成復修。觀塘綫列車服務逐步回復正常。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-03-13T07:46:39",
-        "last_announcement": "2024-03-13T07:33:00"
+        "last_update": "2024-03-13T09:08:40",
+        "last_announcement": "2024-03-13T08:24:00"
+    },
+    "IN-24-01395": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy road sections",
+            "LOCATION_CN": "繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-13T08:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93947",
+                "CONTENT_EN": "The following road sections are busy:\n– Tolo Highway near The Chinese University of Hong Kong (Sha Tin bound)\n– Tai Po Road - Sha Tin near Hong Kong Sports Institute (Tai Wai bound)\n– Waterloo Road Flyover near Boundary Street (Lion Rock Tunnel bound)\n– Ferry Street flyover near Prosperous Garden (Yau Ma Tei bound)\n– Yuen Long Highway near Fuk Hang Tsuen (Tuen Mun bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–吐露港公路近香港中文大學(往沙田方向)\n–大埔公路　–　沙田段近香港體育學院(往大圍方向)\n–窩打老道天橋近界限街(往獅子山隧道方向)\n–渡船街天橋近駿發花園(往油麻地方向)\n–元朗公路近福亨村(往屯門方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-03-13T09:08:40",
+        "last_announcement": "2024-03-13T08:01:00"
+    },
+    "IN-24-01394": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Track Signaling Fault",
+            "INCIDENT_DETAIL_CN": "信號故障",
+            "LOCATION_EN": "Island Line and Tsuen Wan Line Service Disruption",
+            "LOCATION_CN": "港島綫及荃灣綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-13T08:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "93949",
+                "CONTENT_EN": "Normal train service is gradually resuming on the Tsuen Wan Line &amp; Island Line.",
+                "CONTENT_CN": "荃灣綫及港島綫列車服務逐步回復正常。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-03-13T09:08:40",
+        "last_announcement": "2024-03-13T08:29:00"
+    },
+    "IN-24-01398": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong Link Road",
+            "LOCATION_CN": "香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-13T08:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93951",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-03-13T09:08:40",
+        "last_announcement": "2024-03-13T08:45:00"
+    },
+    "IN-24-01399": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Wuhu Street",
+            "NEAR_LANDMARK_CN": "蕪湖街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-13T08:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93952",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Wuhu Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近蕪湖街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-03-13T09:08:40",
+        "last_announcement": "2024-03-13T08:51:00"
+    },
+    "IN-24-01400": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Pok Oi Interchange",
+            "NEAR_LANDMARK_CN": "博愛交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-13T09:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93955",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Pok Oi Interchange is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近博愛交匯處的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-03-13T09:08:40",
+        "last_announcement": "2024-03-13T09:03:00"
     }
 }
