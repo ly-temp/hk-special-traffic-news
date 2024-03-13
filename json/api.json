@@ -3163,10 +3163,17 @@
                 "ID": "93985",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (Central bound) near Man Hong Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，東區走廊(往中環方向)近民康街的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-13T16:07:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "93986",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Man Hong Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近民康街的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-03-13T15:15:40",
-        "last_announcement": "2024-03-13T14:58:00"
+        "last_update": "2024-03-13T16:19:14",
+        "last_announcement": "2024-03-13T16:07:00"
     }
 }
