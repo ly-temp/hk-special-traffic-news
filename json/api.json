@@ -3239,5 +3239,37 @@
         "district": "東區",
         "last_update": "2024-03-13T13:20:22",
         "last_announcement": "2024-03-13T13:04:00"
+    },
+    "IN-24-01408": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "person in dangerous position",
+            "INCIDENT_DETAIL_CN": "有人在危險位置",
+            "LOCATION_EN": "Tai On Street",
+            "LOCATION_CN": "太安街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yiu Hing Road",
+            "DIRECTION_CN": "耀興道",
+            "NEAR_LANDMARK_EN": "Sai Wan Ho Sports Centre",
+            "NEAR_LANDMARK_CN": "西灣河體育館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-13T13:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "93980",
+                "CONTENT_EN": "Due to person in dangerous position , part of the lanes of Tai On Street (Yiu Hing Road bound) near Sai Wan Ho Sports Centre are closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因有人在危險位置，太安街(往耀興道方向)近西灣河體育館的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-03-13T13:41:06",
+        "last_announcement": "2024-03-13T13:30:00"
     }
 }
