@@ -45,45 +45,6 @@
         "last_update": "2024-03-11T19:22:40",
         "last_announcement": "2024-03-11T19:10:00"
     },
-    "IN-24-01352": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Nga Tsin Wai Road",
-            "LOCATION_CN": "衙前圍道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "La Salle Road",
-            "DIRECTION_CN": "喇沙利道",
-            "NEAR_LANDMARK_EN": "South Wall Road",
-            "NEAR_LANDMARK_CN": "城南道",
-            "BETWEEN_LANDMARK_EN": "Lung Kong Road",
-            "BETWEEN_LANDMARK_CN": "龍崗道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-11T15:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93836",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Nga Tsin Wai Road (La Salle Road bound) between South Wall Road and Lung Kong Road is closed to all traffic. \nOnly remaining lane is available to motorists.",
-                "CONTENT_CN": "因水管爆裂，衙前圍道(往喇沙利道方向)介乎城南道與龍崗道之間的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-03-11T17:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93858",
-                "CONTENT_EN": "Due to watermain burst , the only lane of Nga Tsin Wai Road (La Salle Road bound) between South Wall Road and Lung Kong Road is closed to all traffic.   Affected KMB bus route 2D (Chak On bound) has been diverted.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，衙前圍道(往喇沙利道方向)介乎城南道與龍崗道之間的唯一行車線現已封閉。  受影響九巴巴士路線2D(往澤安方向)須改道行駛。  駕駛人士請考慮改用其他道路。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-03-11T17:59:35",
-        "last_announcement": "2024-03-11T17:43:00"
-    },
     "IN-24-01356": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
