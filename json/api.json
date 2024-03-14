@@ -1,82 +1,4 @@
 {
-    "IN-24-01338": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Castle Peak Road - Yuen Long",
-            "LOCATION_CN": "青山公路　–　元朗段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Pok Oi Interchange",
-            "DIRECTION_CN": "博愛交匯處",
-            "NEAR_LANDMARK_EN": "Yuen Long MTR Station",
-            "NEAR_LANDMARK_CN": "元朗港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-11T08:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93808",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Castle Peak Road - Yuen Long (Pok Oi Interchange bound) near Yuen Long MTR Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青山公路　–　元朗段(往博愛交匯處方向)近元朗港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-11T09:08:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "93811",
-                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Yuen Long (Pok Oi Interchange bound) near Yuen Long MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　元朗段(往博愛交匯處方向)近元朗港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-03-11T09:52:03",
-        "last_announcement": "2024-03-11T09:08:00"
-    },
-    "IN-24-01339": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "City Point",
-            "NEAR_LANDMARK_CN": "環宇海灣",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-11T08:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93810",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tsuen Wan Road (Kowloon bound) near City Point is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近環宇海灣的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-11T09:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93812",
-                "CONTENT_EN": "The slow lane of Tsuen Wan Road (Kowloon bound) near City Point which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往九龍方向)近環宇海灣的慢線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-03-11T09:52:03",
-        "last_announcement": "2024-03-11T09:27:00"
-    },
     "IN-24-01340": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3390,11 +3312,18 @@
                 "ID": "94021",
                 "CONTENT_EN": "The following road sections are busy:\n– Yuen Long Highway near Fuk Hang Tsuen (Tuen Mun bound)\n– Tai Po Road - Sha Tin near Hong Kong Sports Institute (Tai Wai bound)\n– Tolo Highway near The Chinese University of Hong Kong (Sha Tin bound)\n– Ferry Street flyover near Prosperous Garden (Yau Ma Tei bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–元朗公路近福亨村(往屯門方向)\n–大埔公路　–　沙田段近香港體育學院(往大圍方向)\n–吐露港公路近香港中文大學(往沙田方向)\n–渡船街天橋近駿發花園(往油麻地方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-03-14T09:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94031",
+                "CONTENT_EN": "The following road sections are busy:\n– Yuen Long Highway near Fuk Hang Tsuen (Tuen Mun bound)\n– Tai Po Road - Sha Tin near Hong Kong Sports Institute (Tai Wai bound)\n– Ferry Street flyover near Prosperous Garden (Yau Ma Tei bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–元朗公路近福亨村(往屯門方向)\n–大埔公路　–　沙田段近香港體育學院(往大圍方向)\n–渡船街天橋近駿發花園(往油麻地方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-03-14T09:01:54",
-        "last_announcement": "2024-03-14T08:24:00"
+        "last_update": "2024-03-14T09:53:16",
+        "last_announcement": "2024-03-14T09:10:00"
     },
     "IN-24-01427": {
         "description": {
@@ -3429,11 +3358,18 @@
                 "ID": "94024",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near EMSD Headquarters is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Kwun Tong Bypass (Tate's Cairn Tunnel bound) ends at Kwun Tong Bypass near Kwun Tong Ferry Pier. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，觀塘繞道(往大老山隧道方向)近機電工程署總部大樓的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往大老山隧道方向)的車龍龍尾已到觀塘繞道近觀塘碼頭。 現時上址交通擠塞。"
+            },
+            "2024-03-14T09:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94028",
+                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near EMSD Headquarters which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往大老山隧道方向)近機電工程署總部大樓的慢線現已解封。 車龍有待消散。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-03-14T09:01:54",
-        "last_announcement": "2024-03-14T08:49:00"
+        "last_update": "2024-03-14T09:53:16",
+        "last_announcement": "2024-03-14T09:03:00"
     },
     "IN-24-01428": {
         "description": {
@@ -3461,10 +3397,145 @@
                 "ID": "94023",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Gloucester Road (Central bound) near Cannon Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，告士打道(往中環方向)近景隆街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-14T09:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94035",
+                "CONTENT_EN": "Part of the lanes of Gloucester Road (Central bound) near Cannon Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的告士打道(往中環方向)近景隆街的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-03-14T09:01:54",
-        "last_announcement": "2024-03-14T08:45:00"
+        "last_update": "2024-03-14T09:53:16",
+        "last_announcement": "2024-03-14T09:30:00"
+    },
+    "IN-24-01429": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Wo Che Estate",
+            "NEAR_LANDMARK_CN": "禾輋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-14T09:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94026",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近禾輋邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-03-14T09:53:16",
+        "last_announcement": "2024-03-14T09:01:00"
+    },
+    "IN-24-01430": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Garden Road",
+            "LOCATION_CN": "花園道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "downhill",
+            "DIRECTION_CN": "下山",
+            "NEAR_LANDMARK_EN": "Lower Albert Road",
+            "NEAR_LANDMARK_CN": "下亞厘畢道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-14T09:10:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94030",
+                "CONTENT_EN": "Part of the lanes of Garden Road (downhill bound) near Lower Albert Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的花園道(下山方向)近下亞厘畢道的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-03-14T09:53:16",
+        "last_announcement": "2024-03-14T09:10:00"
+    },
+    "IN-24-01431": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Garden Road",
+            "LOCATION_CN": "花園道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Downhill",
+            "DIRECTION_CN": "下山",
+            "NEAR_LANDMARK_EN": "Macdonnell Road",
+            "NEAR_LANDMARK_CN": "麥當勞道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-14T09:23:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94033",
+                "CONTENT_EN": "The slow lane of Garden Road (Downhill bound) near Macdonnell Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的花園道(下山方向)近麥當勞道的慢線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-03-14T09:53:16",
+        "last_announcement": "2024-03-14T09:23:00"
+    },
+    "IN-24-01432": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tai Lam Tunnel",
+            "LOCATION_CN": "大欖隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-14T09:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94036",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大欖隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-03-14T09:53:16",
+        "last_announcement": "2024-03-14T09:43:00"
     }
 }
