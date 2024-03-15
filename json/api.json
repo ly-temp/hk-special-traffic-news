@@ -1,43 +1,4 @@
 {
-    "IN-24-01376": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kwun Tong Ferry Pier",
-            "NEAR_LANDMARK_CN": "觀塘碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-12T14:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93903",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近觀塘碼頭的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-12T14:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93908",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to traffic accident is re-opened to all traffic. Traffic queues take(s) time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近觀塘碼頭的部份行車線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-03-12T15:15:11",
-        "last_announcement": "2024-03-12T14:56:00"
-    },
     "IN-24-01378": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2941,5 +2902,69 @@
         "district": "荃灣區",
         "last_update": "2024-03-15T15:07:19",
         "last_announcement": "2024-03-15T14:54:00"
+    },
+    "IN-24-01454": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced train service on East Rail Line",
+            "INCIDENT_DETAIL_CN": "東鐵綫加強列車服務",
+            "LOCATION_EN": "East Rail Line Service Disruption",
+            "LOCATION_CN": "東鐵綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-15T15:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94088",
+                "CONTENT_EN": "From 16 March, an additional 76 train trips will be added each week at weekends and public holidays on the East Rail Line.",
+                "CONTENT_CN": "由3月16日起，東鐵綫於週末及假日加強列車服務，每周共增加76班車。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-03-15T15:20:41",
+        "last_announcement": "2024-03-15T15:05:00"
+    },
+    "IN-24-01455": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-15T15:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94089",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近和富中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-03-15T15:20:41",
+        "last_announcement": "2024-03-15T15:12:00"
     }
 }
