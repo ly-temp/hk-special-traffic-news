@@ -1560,11 +1560,18 @@
                 "ID": "93987",
                 "CONTENT_EN": "Due to watermain emergency works , all lanes of Granville Circuit are closed to all traffic.   Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因水管緊急維修，嘉蘭圍的全線現已封閉。  駕駛人士請考慮改用其他道路。"
+            },
+            "2024-03-15T10:14:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94075",
+                "CONTENT_EN": "All lanes of Granville Circuit  which were closed due to watermain emergency works are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的嘉蘭圍的全線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-03-13T17:06:37",
-        "last_announcement": "2024-03-13T16:54:00"
+        "last_update": "2024-03-15T10:44:28",
+        "last_announcement": "2024-03-15T10:14:00"
     },
     "IN-24-01412": {
         "description": {
