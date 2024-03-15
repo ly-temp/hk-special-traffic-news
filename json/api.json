@@ -1,50 +1,4 @@
 {
-    "IN-24-01371": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tsuen Tsing Interchange",
-            "NEAR_LANDMARK_CN": "荃青交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-12T09:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93891",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tsuen Wan Road (Kowloon bound) near Tsuen Tsing Interchange is still being closed to all traffic. Only the slow lane is available to motorists. Traffic queue on Tsuen Wan Road (Kowloon bound) ends at Tuen Mun Road near Yau Kom Tau. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近荃青交匯處的快線仍然封閉。 駕駛人士只可使用慢線行車。 現時在荃灣路(往九龍方向)的車龍龍尾已到屯門公路近油柑頭。 現時上址交通擠塞。"
-            },
-            "2024-03-12T09:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93892",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tsuen Wan Road (Kowloon bound) near Tsuen Tsing Interchange is still being closed to all traffic. Only the slow lane is available to motorists. Traffic queue on Tsuen Wan Road (Kowloon bound) ends at Tuen Mun Road near Tsing Long Highway (Ting Kau Bridge). Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近荃青交匯處的快線仍然封閉。 駕駛人士只可使用慢線行車。 現時在荃灣路(往九龍方向)的車龍龍尾已到屯門公路近青朗公路(汀九橋)。 現時上址交通擠塞。"
-            },
-            "2024-03-12T09:56:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "93895",
-                "CONTENT_EN": "The fast lane of Tsuen Wan Road (Kowloon bound) near Tsuen Tsing Interchange which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往九龍方向)近荃青交匯處的快線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-03-12T10:19:31",
-        "last_announcement": "2024-03-12T09:56:00"
-    },
     "IN-24-01372": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2948,5 +2902,37 @@
         "district": "深水埗區",
         "last_update": "2024-03-15T09:58:41",
         "last_announcement": "2024-03-15T09:13:00"
+    },
+    "IN-24-01448": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Canal Road Flyover",
+            "LOCATION_CN": "堅拿道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen Tunnel",
+            "DIRECTION_CN": "香港仔隧道",
+            "NEAR_LANDMARK_EN": "Hennessy Road",
+            "NEAR_LANDMARK_CN": "軒尼詩道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-15T10:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94073",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Canal Road Flyover (Aberdeen Tunnel bound) near Hennessy Road is closed to all traffic. Only the slow lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，堅拿道天橋(往香港仔隧道方向)近軒尼詩道的快線現已封閉。 駕駛人士只可使用慢線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-03-15T10:23:44",
+        "last_announcement": "2024-03-15T10:13:00"
     }
 }
