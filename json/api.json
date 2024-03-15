@@ -1,50 +1,4 @@
 {
-    "IN-24-01379": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Rhine Garden",
-            "NEAR_LANDMARK_CN": "海韻花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-12T15:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93911",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Rhine Garden is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近海韻花園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-12T16:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93913",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Rhine Garden is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tuen Mun Road (Tuen Mun bound) ends at Tsing Long Highway.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近海韻花園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往屯門方向)的車龍龍尾已到青朗公路。  現時上址交通擠塞。"
-            },
-            "2024-03-12T16:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "93919",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Rhine Garden which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往屯門方向)近海韻花園的部份行車線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-03-12T16:49:24",
-        "last_announcement": "2024-03-12T16:42:00"
-    },
     "IN-24-01380": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2982,11 +2936,18 @@
                 "ID": "94095",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Island Eastern Corridor (Central bound) near North Point Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角碼頭的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-15T16:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94097",
+                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Central bound) near North Point Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近北角碼頭的慢線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-03-15T16:39:46",
-        "last_announcement": "2024-03-15T16:23:00"
+        "last_update": "2024-03-15T16:50:02",
+        "last_announcement": "2024-03-15T16:35:00"
     },
     "IN-24-01457": {
         "description": {
@@ -3019,5 +2980,37 @@
         "district": "深水埗區",
         "last_update": "2024-03-15T16:39:46",
         "last_announcement": "2024-03-15T16:30:00"
+    },
+    "IN-24-01458": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Butterfly Valley",
+            "NEAR_LANDMARK_CN": "蝴蝶谷",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-15T16:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94098",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Ching Cheung Road (Kwun Tong bound) near Butterfly Valley is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，呈祥道(往觀塘方向)近蝴蝶谷的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-03-15T16:50:02",
+        "last_announcement": "2024-03-15T16:41:00"
     }
 }
