@@ -1,43 +1,4 @@
 {
-    "IN-24-01384": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Tai Wing Avenue",
-            "LOCATION_CN": "太榮路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-12T18:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "93925",
-                "CONTENT_EN": "Due to watermain emergency works , the only lane of the slip road leading from Tai Wing Avenue  to Taikoo Shing Road (Tai Yue Avenue bound) is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管緊急維修，由太榮路通往太古城道(往太裕路方向) 的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-03-13T21:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94006",
-                "CONTENT_EN": "The only lane of the slip road leading from Tai Wing Avenue  to Taikoo Shing Road (Tai Yue Avenue bound) which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的由太榮路通往太古城道(往太裕路方向) 的支路的 唯一行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-03-13T22:05:43",
-        "last_announcement": "2024-03-13T21:54:00"
-    },
     "IN-24-01411": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2374,5 +2335,37 @@
         "district": "沙田區",
         "last_update": "2024-03-16T19:54:43",
         "last_announcement": "2024-03-16T19:47:00"
+    },
+    "IN-24-01480": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Tram Incident",
+            "INCIDENT_HEADING_CN": "電車事故",
+            "INCIDENT_DETAIL_EN": "Derailment",
+            "INCIDENT_DETAIL_CN": "電車脫軌",
+            "LOCATION_EN": "Tram service disruption",
+            "LOCATION_CN": "電車服務受阻",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-16T21:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94146",
+                "CONTENT_EN": "Due to derailment, the eastbound tram service from Nam Hong Street to Shau Kei Wan Terminus and the westbound tram service from Shau Kei Wan Terminus to Hoi Foo Street is suspended.   Citybus and the Transport Department are monitoring bus passenger demand, and the bus company will strengthen bus services as appropriate when necessary. The Department has also alerted the Police of this incident.",
+                "CONTENT_CN": "因電車脫軌，由南康街至筲箕灣總站之間的東行線，及由筲箕灣總站至海富街之間的西行線電車服務暫停。  城巴及運輸署現正監察巴士乘客需求，在有需要時，巴士公司將會適當加強巴士服務。運輸署亦已通知警方有關事件。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-03-16T22:11:01",
+        "last_announcement": "2024-03-16T21:46:00"
     }
 }
