@@ -38,45 +38,6 @@
         "last_update": "2024-03-15T10:44:28",
         "last_announcement": "2024-03-15T10:14:00"
     },
-    "IN-24-01436": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Castle Peak Road - Yuen Long",
-            "LOCATION_CN": "青山公路　–　元朗段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Castle Peak Road - Yuen Long",
-            "NEAR_LANDMARK_CN": "青山公路　–　元朗段",
-            "BETWEEN_LANDMARK_EN": "Kam Tin Road",
-            "BETWEEN_LANDMARK_CN": "錦田公路",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-14T13:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94044",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the roundabout at the junction between Castle Peak Road - Yuen Long and Kam Tin Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青山公路　–　元朗段與錦田公路交界的迴旋處的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-14T14:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94047",
-                "CONTENT_EN": "Part of the lanes of the roundabout at the junction between Castle Peak Road - Yuen Long and Kam Tin Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　元朗段與錦田公路交界的迴旋處的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-03-14T14:40:22",
-        "last_announcement": "2024-03-14T14:29:00"
-    },
     "IN-24-01437": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
