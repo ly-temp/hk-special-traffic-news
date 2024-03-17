@@ -38,84 +38,6 @@
         "last_update": "2024-03-15T10:44:28",
         "last_announcement": "2024-03-15T10:14:00"
     },
-    "IN-24-01421": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Morrison Hill Road",
-            "LOCATION_CN": "摩理臣山道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Morrison Hill Road",
-            "NEAR_LANDMARK_CN": "摩理臣山道",
-            "BETWEEN_LANDMARK_EN": "Queen's Road East",
-            "BETWEEN_LANDMARK_CN": "皇后大道東",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-14T07:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94010",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes at the junction between Morrison Hill Road and Queen's Road East is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，摩理臣山道與皇后大道東的交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-14T07:50:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "94016",
-                "CONTENT_EN": "Part of the lanes at the junction between Morrison Hill Road and Queen's Road East which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的摩理臣山道與皇后大道東的交界的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-03-14T09:01:54",
-        "last_announcement": "2024-03-14T07:50:00"
-    },
-    "IN-24-01426": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Castle Peak Road - San Hui",
-            "LOCATION_CN": "青山公路　–　新墟段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Prime View Light Rail Stop",
-            "NEAR_LANDMARK_CN": "景峰輕鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-14T08:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94018",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Castle Peak Road - San Hui (Tsuen Wan bound) near Prime View Light Rail Stop is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，青山公路　–　新墟段(往荃灣方向)近景峰輕鐵站的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-03-14T08:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94022",
-                "CONTENT_EN": "All lanes of Castle Peak Road - San Hui (Tsuen Wan bound) near Prime View Light Rail Stop which were closed due to fallen tree are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因塌樹而封閉的青山公路　–　新墟段(往荃灣方向)近景峰輕鐵站的全線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-03-14T09:01:54",
-        "last_announcement": "2024-03-14T08:34:00"
-    },
     "IN-24-01425": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2239,5 +2161,37 @@
         "district": "南區",
         "last_update": "2024-03-16T22:24:55",
         "last_announcement": "2024-03-16T22:12:00"
+    },
+    "IN-24-01352": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Nga Tsin Wai Road",
+            "LOCATION_CN": "衙前圍道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "La Salle Road",
+            "DIRECTION_CN": "喇沙利道",
+            "NEAR_LANDMARK_EN": "South Wall Road",
+            "NEAR_LANDMARK_CN": "城南道",
+            "BETWEEN_LANDMARK_EN": "Lung Kong Road",
+            "BETWEEN_LANDMARK_CN": "龍崗道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-17T08:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94148",
+                "CONTENT_EN": "The only lane of Nga Tsin Wai Road (La Salle Road bound) between South Wall Road and Lung Kong Road which was closed due to watermain burst is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管爆裂而封閉的衙前圍道(往喇沙利道方向)介乎城南道與龍崗道之間的唯一行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-03-17T09:22:06",
+        "last_announcement": "2024-03-17T08:03:00"
     }
 }
