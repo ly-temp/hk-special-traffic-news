@@ -1948,5 +1948,37 @@
         "district": "中西區",
         "last_update": "2024-03-17T14:25:39",
         "last_announcement": "2024-03-17T14:05:00"
+    },
+    "IN-24-01486": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "vehicular mechanical defects",
+            "INCIDENT_DETAIL_CN": "船隻機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-17T15:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94164",
+                "CONTENT_EN": "Due to vehicular mechanical defects, the following ferry services will be or have been suspended. \nTsui Wah Ferry Service (H. K. ) Limited\n- Wong Shek Pier to Wan Chai (Nam Fung Wan) and Chek Keng: 03:40 pm and 04:40 pm.",
+                "CONTENT_CN": "因船隻機件故障，以下渡輪服務將會或已經暫停服務。\n翠華船務（香港）有限公司\n-黃石碼頭至灣仔(南風灣)及赤徑：下午3：40及下午4：40。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-03-17T16:11:11",
+        "last_announcement": "2024-03-17T15:37:00"
     }
 }
