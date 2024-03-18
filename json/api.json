@@ -77,38 +77,6 @@
         "last_update": "2024-03-15T15:30:52",
         "last_announcement": "2024-03-15T15:22:00"
     },
-    "IN-24-01454": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced train service on East Rail Line",
-            "INCIDENT_DETAIL_CN": "東鐵綫加強列車服務",
-            "LOCATION_EN": "East Rail Line Service Disruption",
-            "LOCATION_CN": "東鐵綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-15T15:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94088",
-                "CONTENT_EN": "From 16 March, an additional 76 train trips will be added each week at weekends and public holidays on the East Rail Line.",
-                "CONTENT_CN": "由3月16日起，東鐵綫於週末及假日加強列車服務，每周共增加76班車。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-03-15T15:20:41",
-        "last_announcement": "2024-03-15T15:05:00"
-    },
     "IN-24-01455": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
