@@ -38,45 +38,6 @@
         "last_update": "2024-03-15T15:40:54",
         "last_announcement": "2024-03-15T15:25:00"
     },
-    "IN-24-01452": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "obstacles on road",
-            "INCIDENT_DETAIL_CN": "路面有障礙物",
-            "LOCATION_EN": "Castle Peak Road - Tsuen Wan",
-            "LOCATION_CN": "青山公路　–　荃灣段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun Road",
-            "DIRECTION_CN": "屯門公路",
-            "NEAR_LANDMARK_EN": "Discovery Park",
-            "NEAR_LANDMARK_CN": "愉景新城",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-15T12:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94085",
-                "CONTENT_EN": "Due to obstacles on road , part of the lanes of Castle Peak Road - Tsuen Wan (Tuen Mun Road bound) near Discovery Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因路面有障礙物，青山公路　–　荃灣段(往屯門公路方向)近愉景新城的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-15T15:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94090",
-                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Tsuen Wan (Tuen Mun Road bound) near Discovery Park which was closed due to obstacles on road is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面有障礙物而封閉的青山公路　–　荃灣段(往屯門公路方向)近愉景新城的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-03-15T15:30:52",
-        "last_announcement": "2024-03-15T15:22:00"
-    },
     "IN-24-01455": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1962,5 +1923,37 @@
         "district": "屯門區",
         "last_update": "2024-03-18T15:14:34",
         "last_announcement": "2024-03-18T15:00:00"
+    },
+    "IN-24-01502": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Sea Crest Villa",
+            "NEAR_LANDMARK_CN": "浪翠園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-18T15:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94203",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sea Crest Villa is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近浪翠園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-03-18T15:35:15",
+        "last_announcement": "2024-03-18T15:21:00"
     }
 }
