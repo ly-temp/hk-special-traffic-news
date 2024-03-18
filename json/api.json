@@ -38,45 +38,6 @@
         "last_update": "2024-03-15T10:44:28",
         "last_announcement": "2024-03-15T10:14:00"
     },
-    "IN-24-01447": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "West Kowloon Corridor",
-            "LOCATION_CN": "西九龍走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "West Kowloon Law Courts Building",
-            "NEAR_LANDMARK_CN": "西九龍法院大樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-15T08:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94071",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of West Kowloon Corridor (Mong Kok bound) near West Kowloon Law Courts Building is closed to all traffic. Only the fast lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，西九龍走廊(往旺角方向)近西九龍法院大樓的慢線現已封閉。 駕駛人士只可使用快線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-15T09:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94072",
-                "CONTENT_EN": "The slow lane of West Kowloon Corridor (Mong Kok bound) near West Kowloon Law Courts Building which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的西九龍走廊(往旺角方向)近西九龍法院大樓的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-03-15T09:58:41",
-        "last_announcement": "2024-03-15T09:13:00"
-    },
     "IN-24-01448": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1897,11 +1858,18 @@
                 "ID": "94183",
                 "CONTENT_EN": "Traffic at the following road section has resumed normal:\n- Gascoigne Road (Yau Ma Tei bound) near Jordan Road\nTraffic at the following road sections are busy:\n- Princess Margaret Road (Cross Harbour Tunnel bound)\n- Tsuen Wan Road (Kowloon bound).",
                 "CONTENT_CN": "以下路段的交通現已恢復正常:\n-加士居道(往油麻地方向)近佐敦道\n以下路段的交通繁忙：\n-公主道(往海底隧道方向)\n-荃灣路(往九龍方向)。"
+            },
+            "2024-03-18T09:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94188",
+                "CONTENT_EN": "The following road sections are busy:\n– Princess Margaret Road (Cross Harbour Tunnel bound)\n– Chatham Road North (Cross Harbour Tunnel bound)\n– West Kowloon Highway (Western Harbour Crossing bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   Traffic at the following road sections have resumed normal:\n- Gascoigne Road (Yau Ma Tei bound) near Jordan Road\n- Tsuen Wan Road (Kowloon bound).",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–公主道(往海底隧道方向)\n–漆咸道北(往海底隧道方向)\n–西九龍公路(往西區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  以下路段的交通現已恢復正常:\n-加士居道(往油麻地方向)近佐敦道\n-荃灣路(往九龍方向)。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-03-18T09:54:05",
-        "last_announcement": "2024-03-18T09:23:00"
+        "last_update": "2024-03-18T10:17:23",
+        "last_announcement": "2024-03-18T09:49:00"
     },
     "IN-24-01494": {
         "description": {
@@ -1980,5 +1948,37 @@
         "district": "東區",
         "last_update": "2024-03-18T09:54:05",
         "last_announcement": "2024-03-18T09:42:00"
+    },
+    "IN-24-01496": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Texaco Road Flyover",
+            "LOCATION_CN": "德士古道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Kam Interchange",
+            "DIRECTION_CN": "荃錦交匯處",
+            "NEAR_LANDMARK_EN": "Yeung Uk Road",
+            "NEAR_LANDMARK_CN": "楊屋道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-18T09:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94189",
+                "CONTENT_EN": "The only lane of Texaco Road Flyover (Tsuen Kam Interchange bound) near Yeung Uk Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的德士古道天橋(往荃錦交匯處方向)近楊屋道的唯一行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-03-18T10:17:23",
+        "last_announcement": "2024-03-18T09:58:00"
     }
 }
