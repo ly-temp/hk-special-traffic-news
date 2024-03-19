@@ -2334,5 +2334,69 @@
         "district": "南區",
         "last_update": "2024-03-19T12:39:12",
         "last_announcement": "2024-03-19T12:28:00"
+    },
+    "IN-24-01529": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wai Yip Street Flyover",
+            "LOCATION_CN": "偉業街天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Kowloon Bay Saint John the Baptist Catholic Primary School",
+            "NEAR_LANDMARK_CN": "九龍灣聖若翰天主教小學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-19T12:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94267",
+                "CONTENT_EN": "The slow lane of Wai Yip Street Flyover (Kwun Tong bound) near Kowloon Bay Saint John the Baptist Catholic Primary School which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的偉業街天橋(往觀塘方向)近九龍灣聖若翰天主教小學的慢線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-03-19T12:59:17",
+        "last_announcement": "2024-03-19T12:45:00"
+    },
+    "IN-24-01532": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "obstacles on road",
+            "INCIDENT_DETAIL_CN": "路面有障礙物",
+            "LOCATION_EN": "Castle Peak Road - Yuen Long",
+            "LOCATION_CN": "青山公路　－　元朗段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kam Tin",
+            "DIRECTION_CN": "錦田",
+            "NEAR_LANDMARK_EN": "Kam Tin Road",
+            "NEAR_LANDMARK_CN": "錦田公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-19T12:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94268",
+                "CONTENT_EN": "Due to obstacles on road , part of the lanes of Castle Peak Road - Yuen Long (Kam Tin bound) near Kam Tin Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因路面有障礙物，青山公路　－　元朗段(往錦田方向)近錦田公路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-03-19T12:59:17",
+        "last_announcement": "2024-03-19T12:47:00"
     }
 }
