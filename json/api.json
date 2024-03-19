@@ -1,43 +1,4 @@
 {
-    "IN-24-01480": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Tram Incident",
-            "INCIDENT_HEADING_CN": "電車事故",
-            "INCIDENT_DETAIL_EN": "Derailment",
-            "INCIDENT_DETAIL_CN": "電車脫軌",
-            "LOCATION_EN": "Tram service disruption",
-            "LOCATION_CN": "電車服務受阻",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-16T21:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94146",
-                "CONTENT_EN": "Due to derailment, the eastbound tram service from Nam Hong Street to Shau Kei Wan Terminus and the westbound tram service from Shau Kei Wan Terminus to Hoi Foo Street is suspended.   Citybus and the Transport Department are monitoring bus passenger demand, and the bus company will strengthen bus services as appropriate when necessary. The Department has also alerted the Police of this incident.",
-                "CONTENT_CN": "因電車脫軌，由南康街至筲箕灣總站之間的東行線，及由筲箕灣總站至海富街之間的西行線電車服務暫停。  城巴及運輸署現正監察巴士乘客需求，在有需要時，巴士公司將會適當加強巴士服務。運輸署亦已通知警方有關事件。"
-            },
-            "2024-03-16T22:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94147",
-                "CONTENT_EN": "The eastbound tram service from Nam Hong Street to Shau Kei Wan Terminus and the westbound tram service from Shau Kei Wan Terminus to Hoi Foo Street has been resumed.",
-                "CONTENT_CN": "較早前因電車脫軌而暫停的由南康街至筲箕灣總站之間的東行線電車服務，及由筲箕灣總站至海富街之間的西行線電車服務現已恢復正常。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-03-16T22:24:55",
-        "last_announcement": "2024-03-16T22:12:00"
-    },
     "IN-24-01352": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
