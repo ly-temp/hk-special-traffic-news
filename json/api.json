@@ -1,89 +1,4 @@
 {
-    "IN-24-01477": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ting Kok Road",
-            "LOCATION_CN": "汀角路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Green Cove",
-            "NEAR_LANDMARK_CN": "映月灣",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-16T18:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94138",
-                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Ting Kok Road near Green Cove. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，汀角路近映月灣現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-03-16T19:52:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "94145",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Ting Kok Road near Green Cove due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於汀角路近映月灣實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-03-16T20:22:41",
-        "last_announcement": "2024-03-16T19:52:00"
-    },
-    "IN-24-01478": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Repulse Bay Road",
-            "LOCATION_CN": "淺水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "The Brentwood",
-            "NEAR_LANDMARK_CN": "蔚峯園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-16T19:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94140",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Repulse Bay Road (both bounds) near The Brentwood are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，淺水灣道(來回方向)近蔚峯園的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-03-16T19:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94142",
-                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Repulse Bay Road near The Brentwood. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，淺水灣道近蔚峯園現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-03-16T19:43:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "94143",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Repulse Bay Road near The Brentwood due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於淺水灣道近蔚峯園實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-03-16T20:22:41",
-        "last_announcement": "2024-03-16T19:43:00"
-    },
     "IN-24-01480": {
         "description": {
             "INCIDENT_HEADING_EN": "Tram Incident",
@@ -2425,11 +2340,18 @@
                 "ID": "94289",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Princess Margaret Road (Argyle Street bound) near Perth Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，公主道(往亞皆老街方向)近巴富街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-19T20:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94295",
+                "CONTENT_EN": "Part of the lanes of Princess Margaret Road (Argyle Street bound) near Perth Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的公主道(往亞皆老街方向)近巴富街的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-03-19T18:50:14",
-        "last_announcement": "2024-03-19T18:41:00"
+        "last_update": "2024-03-19T20:29:30",
+        "last_announcement": "2024-03-19T20:03:00"
     },
     "IN-24-01539": {
         "description": {
