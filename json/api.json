@@ -1,36 +1,4 @@
 {
-    "IN-24-01352": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Nga Tsin Wai Road",
-            "LOCATION_CN": "衙前圍道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "La Salle Road",
-            "DIRECTION_CN": "喇沙利道",
-            "NEAR_LANDMARK_EN": "South Wall Road",
-            "NEAR_LANDMARK_CN": "城南道",
-            "BETWEEN_LANDMARK_EN": "Lung Kong Road",
-            "BETWEEN_LANDMARK_CN": "龍崗道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-17T08:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94148",
-                "CONTENT_EN": "The only lane of Nga Tsin Wai Road (La Salle Road bound) between South Wall Road and Lung Kong Road which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的衙前圍道(往喇沙利道方向)介乎城南道與龍崗道之間的唯一行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-03-17T09:22:06",
-        "last_announcement": "2024-03-17T08:03:00"
-    },
     "IN-24-01481": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2567,11 +2535,18 @@
                 "ID": "94301",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Texaco Road Flyover (Tsuen Kam Interchange bound) near Castle Peak Road - Tsuen Wan is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，德士古道天橋(往荃錦交匯處方向)近青山公路　–　荃灣段的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-20T09:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94312",
+                "CONTENT_EN": "Part of the lanes of Texaco Road Flyover (Tsuen Kam Interchange bound) near Castle Peak Road - Tsuen Wan which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的德士古道天橋(往荃錦交匯處方向)近青山公路　–　荃灣段的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-03-20T09:06:35",
-        "last_announcement": "2024-03-20T08:00:00"
+        "last_update": "2024-03-20T09:55:23",
+        "last_announcement": "2024-03-20T09:09:00"
     },
     "IN-24-01549": {
         "description": {
@@ -2620,11 +2595,18 @@
                 "ID": "94309",
                 "CONTENT_EN": "Part of the lanes of Lei Yue Mun Road (Yau Tong bound) near Kai Tin Road roundabout which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.   Citizens please take note KMB's service travelling via Lei Yue Mun Road (Yau Tong bound) is still being affected, citizens please consider using other public transport services, such as MTR services.",
                 "CONTENT_CN": "較早前因交通意外而封閉的鯉魚門道(往油塘方向)近啟田道迴旋處的部份行車線現已解封。車龍有待消散。  市民請留意九巴途經鯉魚門道往油塘方向的服務仍會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-03-20T09:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94319",
+                "CONTENT_EN": "Service of KMB which was affected by the traffic accident at Lei Yue Mun Road (Yau Tong bound) near Kai Tin Road roundabout has gradually resumed normal.",
+                "CONTENT_CN": "較早前因位於鯉魚門道(往油塘方向)近啟田道迴旋處的交通意外而受影響的九巴服務已陸續回復正常。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-03-20T09:06:35",
-        "last_announcement": "2024-03-20T08:45:00"
+        "last_update": "2024-03-20T09:55:23",
+        "last_announcement": "2024-03-20T09:42:00"
     },
     "IN-24-01550": {
         "description": {
@@ -2703,5 +2685,108 @@
         "district": "屯門區",
         "last_update": "2024-03-20T09:06:35",
         "last_announcement": "2024-03-20T08:55:00"
+    },
+    "IN-24-01552": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Fu Road roundabout",
+            "LOCATION_CN": "龍富路迴旋處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-20T09:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94313",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Fu Road roundabout  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-03-20T09:55:23",
+        "last_announcement": "2024-03-20T09:21:00"
+    },
+    "IN-24-01553": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "So Kwun Po Road",
+            "NEAR_LANDMARK_CN": "掃管埔路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-20T09:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94314",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Yuen Long bound) near So Kwun Po Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往元朗方向)近掃管埔路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-20T09:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94316",
+                "CONTENT_EN": "Part of the lanes of Fanling Highway (Yuen Long bound) near So Kwun Po Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往元朗方向)近掃管埔路的部份行車線現已解封。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-03-20T09:55:23",
+        "last_announcement": "2024-03-20T09:31:00"
+    },
+    "IN-24-01554": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Lai King MTR Station",
+            "NEAR_LANDMARK_CN": "荔景港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-20T09:34:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94318",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往九龍方向)近荔景港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-03-20T09:55:23",
+        "last_announcement": "2024-03-20T09:34:00"
     }
 }
