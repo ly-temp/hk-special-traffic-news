@@ -1,43 +1,4 @@
 {
-    "IN-24-01487": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Fan Kam Road",
-            "LOCATION_CN": "粉錦公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Tsiu Keng Road",
-            "NEAR_LANDMARK_CN": "蕉徑路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-17T16:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94165",
-                "CONTENT_EN": "Due to fire , the one-lane-two-way traffic arrangement is being implemented on Fan Kam Road near Tsiu Keng Road. Traffic is busy now.",
-                "CONTENT_CN": "因火警，粉錦公路近蕉徑路現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-03-17T16:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94166",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Fan Kam Road near Tsiu Keng Road due to fire is now cancelled.",
-                "CONTENT_CN": "較早前因火警而於粉錦公路近蕉徑路實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-03-17T16:37:12",
-        "last_announcement": "2024-03-17T16:18:00"
-    },
     "IN-24-01488": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2799,5 +2760,37 @@
         "district": "屯門區",
         "last_update": "2024-03-20T16:32:57",
         "last_announcement": "2024-03-20T16:22:00"
+    },
+    "IN-24-01562": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Kwai Chung Road",
+            "LOCATION_CN": "葵涌道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lai King MTR Station",
+            "NEAR_LANDMARK_CN": "荔景港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-20T16:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94336",
+                "CONTENT_EN": "Part of the lanes of Kwai Chung Road (Tsuen Wan bound) near Lai King MTR Station which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的葵涌道(往荃灣方向)近荔景港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-03-20T16:42:57",
+        "last_announcement": "2024-03-20T16:30:00"
     }
 }
