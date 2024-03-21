@@ -1,43 +1,4 @@
 {
-    "IN-24-01492": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Gascoigne Road",
-            "LOCATION_CN": "加士居道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Jordan Road",
-            "NEAR_LANDMARK_CN": "佐敦道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-18T08:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94176",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Gascoigne Road (Yau Ma Tei bound) near Jordan Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，加士居道(往油麻地方向)近佐敦道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-18T08:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94177",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road (Yau Ma Tei bound) near Jordan Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的加士居道(往油麻地方向)近佐敦道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-03-18T09:02:12",
-        "last_announcement": "2024-03-18T08:56:00"
-    },
     "IN-24-01493": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2968,10 +2929,205 @@
                 "ID": "94352",
                 "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube fast lane of Tate's Cairn Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大老山隧道(往九龍方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-21T07:51:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94353",
+                "CONTENT_EN": "The tunnel tube fast lane of Tate's Cairn Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大老山隧道(往九龍方向)的管道快線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-03-21T07:48:45",
-        "last_announcement": "2024-03-21T07:39:00"
+        "last_update": "2024-03-21T09:18:15",
+        "last_announcement": "2024-03-21T07:51:00"
+    },
+    "IN-24-01572": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Sha Tin Racecourse",
+            "NEAR_LANDMARK_CN": "沙田馬場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-21T07:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94354",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Tai Po Road - Sha Tin (Sheung Shui bound) near Sha Tin Racecourse is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往上水方向)近沙田馬場的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-21T08:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94356",
+                "CONTENT_EN": "The fast lane of Tai Po Road - Sha Tin (Sheung Shui bound) near Sha Tin Racecourse which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往上水方向)近沙田馬場的快線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-03-21T09:18:15",
+        "last_announcement": "2024-03-21T08:12:00"
+    },
+    "IN-24-01573": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Beacon Heights",
+            "NEAR_LANDMARK_CN": "畢架山花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-21T08:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94355",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近畢架山花園的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-03-21T08:51:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94362",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近畢架山花園的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-03-21T09:18:15",
+        "last_announcement": "2024-03-21T08:51:00"
+    },
+    "IN-24-01574": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Pok Fu Lam Road",
+            "LOCATION_CN": "薄扶林道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Pok Fu Lam",
+            "DIRECTION_CN": "薄扶林",
+            "NEAR_LANDMARK_EN": "Bonham Road",
+            "NEAR_LANDMARK_CN": "般咸道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-21T08:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94357",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Pok Fu Lam Road (Pok Fu Lam bound) near Bonham Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，薄扶林道(往薄扶林方向)近般咸道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-21T08:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94361",
+                "CONTENT_EN": "Part of the lanes of Pok Fu Lam Road (Pok Fu Lam bound) near Bonham Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的薄扶林道(往薄扶林方向)近般咸道的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-03-21T09:18:15",
+        "last_announcement": "2024-03-21T08:31:00"
+    },
+    "IN-24-01575": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Tate's Cairn Highway",
+            "LOCATION_CN": "大老山公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-21T08:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94359",
+                "CONTENT_EN": "Tate's Cairn Highway (Kowloon bound) is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "大老山公路(往九龍方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-03-21T08:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94363",
+                "CONTENT_EN": "The following road section(s) are busy:\n– Tate's Cairn Highway (Kowloon bound)\n– Tai Po Road - Sha Tin (Kowloon bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–大老山公路(往九龍方向)\n–大埔公路　–　沙田段(往九龍方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-03-21T09:18:15",
+        "last_announcement": "2024-03-21T08:58:00"
+    },
+    "IN-24-01576": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
+            "NEAR_LANDMARK_CN": "龍翔道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-21T09:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94364",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-03-21T09:18:15",
+        "last_announcement": "2024-03-21T09:06:00"
     }
 }
