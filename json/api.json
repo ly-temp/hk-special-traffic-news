@@ -1,43 +1,4 @@
 {
-    "IN-24-01504": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Des Voeux Road Central",
-            "LOCATION_CN": "德輔道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Wan",
-            "DIRECTION_CN": "上環",
-            "NEAR_LANDMARK_EN": "Pedder Street",
-            "NEAR_LANDMARK_CN": "畢打街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-18T16:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94206",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Des Voeux Road Central (Sheung Wan bound) near Pedder Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，德輔道中(往上環方向)近畢打街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-18T16:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94208",
-                "CONTENT_EN": "Part of the lanes of Des Voeux Road Central (Sheung Wan bound) near Pedder Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的德輔道中(往上環方向)近畢打街的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-03-18T16:59:50",
-        "last_announcement": "2024-03-18T16:41:00"
-    },
     "IN-24-01505": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3062,5 +3023,37 @@
         "district": "中西區",
         "last_update": "2024-03-21T16:56:39",
         "last_announcement": "2024-03-21T16:44:00"
+    },
+    "IN-24-01588": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Kwun Tong Police Station",
+            "NEAR_LANDMARK_CN": "觀塘警署",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-21T17:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94388",
+                "CONTENT_EN": "Due to traffic accident , the only lane of the slip road leading from Tseung Kwan O Road  to Lei Yue Mun Road  near Kwun Tong Police Station is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由將軍澳道通往鯉魚門道 的支路近觀塘警署的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-03-21T17:14:46",
+        "last_announcement": "2024-03-21T17:04:00"
     }
 }
