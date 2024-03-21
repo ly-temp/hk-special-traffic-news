@@ -4752,3 +4752,6 @@ del: IN-24-01511
 
 2024-03-21 22:36:17
 
+2024-03-21 22:46:26
+20240321-2235[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f468a6659c0>, 'Connection to www.als.ogcio.gov.hk timed out. (connect timeout=None)'))
+
