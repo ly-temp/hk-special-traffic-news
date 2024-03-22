@@ -2988,5 +2988,37 @@
         "district": "屯門區",
         "last_update": "2024-03-23T00:23:43",
         "last_announcement": "2024-03-22T23:52:00"
+    },
+    "IN-23-04165": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road closure due to landslide, road subsidence, fallen tree and flooding",
+            "INCIDENT_DETAIL_CN": "因山泥傾瀉、路陷、塌樹及水浸而封閉的道路",
+            "LOCATION_EN": "Road closure due to landslide and road subsidence",
+            "LOCATION_CN": "因山泥傾瀉及路陷而封閉的道路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "House No. 60",
+            "NEAR_LANDMARK_CN": "門牌60號",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-23T05:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94470",
+                "CONTENT_EN": "In view of Highways Department (HyD)’s completion of part of slope repair and road rehabilitation works at Yiu Hing Road near Yiu Tung Estate, the westbound traffic lane of the concerned road section will be reopened; however, since rehabilitation works are still underway, the eastbound traffic lane of the same road section will continued to be temporarily closed to all vehicular traffic\n.  Eastbound franchised bus and green minibus services will continue to be diverted as follow:\n\n- Citybus route nos. 77, 99, 720X and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street, Tai Lok Street and Shau Kei Wan Road eastbound before resuming its original routeing; while Green Minibus route no. 50 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street and Tai Lok Street before resuming its original routeing. \n.  Westbound services of Citybus route nos. 77, 82S, 99 and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 will resume its original routeing via Yiu Hing Road westbound.   In addition, due to landslide, one-lane-two-way traffic arrangement is still being implemented on Wong Ma Kok Road near St. Stephen's Beach.",
+                "CONTENT_CN": "因應路政署完成耀興道近耀東邨部分斜坡及路面修復工程，該路段將會重開一條西行方向的行車線，惟因修復工程仍在進行中，有關路段東行方向的行車線仍然暫時封閉。\n。  往東行方向的巴士及小巴路線仍須改道如下:\n-城巴第77、99、720X及N8號線、過海巴士第110及606號線及專線小巴第65號線須改道行駛，路線途經耀東邨巴士總站後，會改經耀興道西行、惠亨街、太樂街及筲箕灣道東行，然後返回原有路線；至於專線小巴第50號線在途經耀東邨巴士總站後，則會改經耀興道西行、惠亨街及太樂街，然後返回原有路線。\n。  往西行方向的城巴第77、82S、99及N8號線、過海巴士第110及606號線及專線小巴第65號，則恢復行經耀興道西行的原有路線。  此外，因山泥傾瀉，黃麻角道近聖士提反灣仍然實施單線雙程行車。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-03-23T05:43:39",
+        "last_announcement": "2024-03-23T05:30:00"
     }
 }
