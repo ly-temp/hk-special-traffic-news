@@ -1,192 +1,4 @@
 {
-    "IN-24-01515": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwai Tsing Road",
-            "LOCATION_CN": "葵青路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Cheung Ching Estate",
-            "NEAR_LANDMARK_CN": "長青邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-19T07:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94232",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Kwai Tsing Road (Kowloon bound) near Cheung Ching Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，葵青路(往九龍方向)近長青邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-19T08:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94233",
-                "CONTENT_EN": "The fast lane of Kwai Tsing Road (Kowloon bound) near Cheung Ching Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的葵青路(往九龍方向)近長青邨的快線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-03-19T09:17:53",
-        "last_announcement": "2024-03-19T08:00:00"
-    },
-    "IN-24-01516": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Che Kung Miu Road",
-            "LOCATION_CN": "車公廟路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hin Keng Estate",
-            "DIRECTION_CN": "顯徑邨",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-19T08:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94234",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction between Che Kung Miu Road (Hin Keng Estate bound) and and Hung Mui Kuk Road (Lion Rock Tunnel Road bound) is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，車公廟路(往顯徑邨方向)與紅梅谷路(獅子山隧道公路方向)交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-03-19T09:17:53",
-        "last_announcement": "2024-03-19T08:09:00"
-    },
-    "IN-24-01518": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Central-Wan Chai Bypass Tunnel",
-            "LOCATION_CN": "中環及灣仔繞道隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "North Point",
-            "DIRECTION_CN": "北角",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-19T08:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94237",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Central-Wan Chai Bypass Tunnel (North Point bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，中環及灣仔繞道隧道(往北角方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-19T08:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94238",
-                "CONTENT_EN": "The tunnel tube slow lane of Central-Wan Chai Bypass Tunnel (North Point bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的中環及灣仔繞道隧道(往北角方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-03-19T09:17:53",
-        "last_announcement": "2024-03-19T08:23:00"
-    },
-    "IN-24-01519": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wong Chu Road",
-            "LOCATION_CN": "皇珠路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lung Fu Road",
-            "DIRECTION_CN": "龍富路",
-            "NEAR_LANDMARK_EN": "On Ting Estate",
-            "NEAR_LANDMARK_CN": "安定邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-19T08:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94239",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chu Road (Lung Fu Road bound) near On Ting Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，皇珠路(往龍富路方向)近安定邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-19T08:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94240",
-                "CONTENT_EN": "Part of the lanes of Wong Chu Road (Lung Fu Road bound) near On Ting Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的皇珠路(往龍富路方向)近安定邨的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-03-19T09:17:53",
-        "last_announcement": "2024-03-19T08:36:00"
-    },
-    "IN-24-01520": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
-            "NEAR_LANDMARK_CN": "何文田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-19T08:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94241",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往尖沙咀方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-19T09:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94244",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Ho Man Tin MTR Station which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往尖沙咀方向)近何文田港鐵站的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-03-19T09:17:53",
-        "last_announcement": "2024-03-19T09:10:00"
-    },
     "IN-24-01517": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3114,10 +2926,88 @@
                 "ID": "94411",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Nob Hill is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近盈暉臺的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-22T08:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94414",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Nob Hill which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近盈暉臺的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-03-22T08:30:24",
-        "last_announcement": "2024-03-22T08:09:00"
+        "last_update": "2024-03-22T09:32:26",
+        "last_announcement": "2024-03-22T08:44:00"
+    },
+    "IN-24-01600": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cheung Tsing Tunnel",
+            "LOCATION_CN": "長青隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "tunnel entrance",
+            "NEAR_LANDMARK_CN": "管道入口",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-22T08:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94412",
+                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Cheung Tsing Tunnel (Kowloon bound) near tunnel entrance is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，長青隧道(往九龍方向)近管道入口的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-22T09:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94416",
+                "CONTENT_EN": "The tunnel tube fast lane of Cheung Tsing Tunnel (Kowloon bound) near tunnel entrance which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的長青隧道(往九龍方向)近管道入口的管道快線現已解封。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-03-22T09:32:26",
+        "last_announcement": "2024-03-22T09:04:00"
+    },
+    "IN-24-01601": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Tsing Long Highway (Ting Kau Bridge)",
+            "LOCATION_CN": "青朗公路(汀九橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-22T08:45:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94415",
+                "CONTENT_EN": "The fast lane of Tsing Long Highway (Ting Kau Bridge) (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青朗公路(汀九橋)(往九龍方向) 的快線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-03-22T09:32:26",
+        "last_announcement": "2024-03-22T08:45:00"
     }
 }
