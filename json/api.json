@@ -1,43 +1,4 @@
 {
-    "IN-24-01525": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Stubbs Road",
-            "LOCATION_CN": "司徒拔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Craigmount",
-            "NEAR_LANDMARK_CN": "紀園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-19T10:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94251",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Stubbs Road (both bounds) near Craigmount are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，司徒拔道(來回方向)近紀園的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-03-19T12:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94264",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Stubbs Road near Craigmount due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於司徒拔道近紀園實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-03-19T12:28:30",
-        "last_announcement": "2024-03-19T12:09:00"
-    },
     "IN-24-01530": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2917,5 +2878,37 @@
         "district": null,
         "last_update": "2024-03-22T12:17:17",
         "last_announcement": "2024-03-22T11:50:00"
+    },
+    "IN-24-01604": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road",
+            "LOCATION_CN": "港珠澳大橋香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-22T11:45:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94424",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-03-22T12:28:35",
+        "last_announcement": "2024-03-22T11:45:00"
     }
 }
