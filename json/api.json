@@ -1,43 +1,4 @@
 {
-    "IN-24-01541": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-19T18:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94286",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Island Eastern Corridor (Central bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近和富中心的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-19T18:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94291",
-                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近和富中心的慢線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-03-19T19:16:05",
-        "last_announcement": "2024-03-19T18:58:00"
-    },
     "IN-24-01542": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -76,45 +37,6 @@
         "district": "九龍城區",
         "last_update": "2024-03-19T20:29:30",
         "last_announcement": "2024-03-19T20:03:00"
-    },
-    "IN-24-01543": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Canal Road Flyover",
-            "LOCATION_CN": "堅拿道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Tunnel",
-            "DIRECTION_CN": "香港仔隧道",
-            "NEAR_LANDMARK_EN": "Wan Chai Fire Station",
-            "NEAR_LANDMARK_CN": "灣仔消防局",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-19T18:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94290",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Canal Road Flyover (Aberdeen Tunnel bound) near Wan Chai Fire Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，堅拿道天橋(往香港仔隧道方向)近灣仔消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-19T19:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94293",
-                "CONTENT_EN": "Part of the lanes of Canal Road Flyover (Aberdeen Tunnel bound) near Wan Chai Fire Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的堅拿道天橋(往香港仔隧道方向)近灣仔消防局的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-03-19T19:16:05",
-        "last_announcement": "2024-03-19T19:08:00"
     },
     "IN-24-01544": {
         "description": {
@@ -3002,5 +2924,69 @@
         "district": "中西區",
         "last_update": "2024-03-22T19:15:56",
         "last_announcement": "2024-03-22T18:56:00"
+    },
+    "IN-24-01623": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-22T19:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94458",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of the slip road leading from Tsuen Wan Road (Tuen Mun bound) to Tsuen Tsing Interchange  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由荃灣路(往屯門方向)通往荃青交匯處 的支路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-03-22T19:26:08",
+        "last_announcement": "2024-03-22T19:09:00"
+    },
+    "IN-24-01624": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "North Lantau Highway",
+            "LOCATION_CN": "北大嶼山公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Lantau Toll Plaza Administration Building",
+            "NEAR_LANDMARK_CN": "大嶼山繳費廣場行政大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-22T19:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94459",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of North Lantau Highway (Kowloon bound) near Lantau Toll Plaza Administration Building is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，北大嶼山公路(往九龍方向)近大嶼山繳費廣場行政大樓的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-03-22T19:26:08",
+        "last_announcement": "2024-03-22T19:16:00"
     }
 }
