@@ -1,43 +1,4 @@
 {
-    "IN-24-01566": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kowloon Flour Mills",
-            "NEAR_LANDMARK_CN": "九龍麵粉廠",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-20T17:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94343",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-20T18:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94344",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-03-20T18:28:45",
-        "last_announcement": "2024-03-20T18:19:00"
-    },
     "IN-24-01567": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2657,10 +2618,17 @@
                 "ID": "94489",
                 "CONTENT_EN": "Due to obstacles on road , part of the lanes of Prince Edward Road East (Kwun Tong bound) near King Tai Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有障礙物，太子道東(往觀塘方向)近景泰街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-03-23T18:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94490",
+                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Kwun Tong bound) near King Tai Street which was closed due to obstacles on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有障礙物而封閉的太子道東(往觀塘方向)近景泰街的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-03-23T16:19:25",
-        "last_announcement": "2024-03-23T16:09:00"
+        "last_update": "2024-03-23T18:29:15",
+        "last_announcement": "2024-03-23T18:17:00"
     }
 }
