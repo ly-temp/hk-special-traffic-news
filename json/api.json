@@ -1,43 +1,4 @@
 {
-    "IN-24-01547": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Beacon Heights",
-            "NEAR_LANDMARK_CN": "畢架山花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-20T07:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94300",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Beacon Heights is closed to all traffic. Only remaining lane are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近畢架山花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-20T08:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94302",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Beacon Heights which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往觀塘方向)近畢架山花園的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-03-20T09:06:35",
-        "last_announcement": "2024-03-20T08:04:00"
-    },
     "IN-24-01548": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -136,84 +97,6 @@
         "district": "觀塘區",
         "last_update": "2024-03-20T09:55:23",
         "last_announcement": "2024-03-20T09:42:00"
-    },
-    "IN-24-01550": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Hammer Hill Road",
-            "NEAR_LANDMARK_CN": "斧山道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-20T08:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94305",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Hammer Hill Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近斧山道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-20T08:24:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "94307",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Hammer Hill Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近斧山道的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-03-20T09:06:35",
-        "last_announcement": "2024-03-20T08:24:00"
-    },
-    "IN-24-01551": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tuen Mun Town Plaza",
-            "NEAR_LANDMARK_CN": "屯門市廣場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-20T08:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94310",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Tuen Mun Road (Kowloon bound) near Tuen Mun Town Plaza is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近屯門市廣場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-20T08:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94311",
-                "CONTENT_EN": "The slow lane of Tuen Mun Road (Kowloon bound) near Tuen Mun Town Plaza which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近屯門市廣場的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-03-20T09:06:35",
-        "last_announcement": "2024-03-20T08:55:00"
     },
     "IN-24-01552": {
         "description": {
@@ -3020,5 +2903,37 @@
         "district": "元朗區",
         "last_update": "2024-03-23T05:43:39",
         "last_announcement": "2024-03-23T05:30:00"
+    },
+    "IN-24-01629": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Ngau Chi Wan Fire Station",
+            "NEAR_LANDMARK_CN": "牛池灣消防局",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-23T08:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94471",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Ngau Chi Wan Fire Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近牛池灣消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-03-23T09:07:21",
+        "last_announcement": "2024-03-23T08:38:00"
     }
 }
