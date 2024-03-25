@@ -45,45 +45,6 @@
         "last_update": "2024-03-23T19:45:31",
         "last_announcement": "2024-03-23T19:33:00"
     },
-    "IN-24-01619": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link",
-            "LOCATION_CN": "青嶼幹線",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "the tunnel entrance of the lower deck",
-            "NEAR_LANDMARK_CN": "下層管道入口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-22T18:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94450",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Kowloon bound) near the entrance of the lower deck is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(往九龍方向)近下層管道入口的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-03-22T18:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94453",
-                "CONTENT_EN": "Part of the lanes of Lantau Link (Kowloon bound) near the entrance of the lower deck which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(往九龍方向)近下層管道入口的部份行車線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-03-22T18:39:52",
-        "last_announcement": "2024-03-22T18:23:00"
-    },
     "IN-24-01620": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2023,5 +1984,37 @@
         "district": "深水埗區",
         "last_update": "2024-03-25T18:39:45",
         "last_announcement": "2024-03-25T18:18:00"
+    },
+    "IN-24-01674": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Victoria Road",
+            "LOCATION_CN": "域多利道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Sandy Bay Road",
+            "NEAR_LANDMARK_CN": "大口環道",
+            "BETWEEN_LANDMARK_EN": "Mount Davis Road",
+            "BETWEEN_LANDMARK_CN": "摩星嶺道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-25T18:36:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94567",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Victoria Road (both bounds) between Sandy Bay Road and Mount Davis Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，域多利道(來回方向)介乎大口環道與摩星嶺道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-03-25T18:49:45",
+        "last_announcement": "2024-03-25T18:36:00"
     }
 }
