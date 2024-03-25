@@ -1991,5 +1991,37 @@
         "district": "荃灣區",
         "last_update": "2024-03-25T18:29:37",
         "last_announcement": "2024-03-25T18:10:00"
+    },
+    "IN-24-01673": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Chung",
+            "DIRECTION_CN": "葵涌",
+            "NEAR_LANDMARK_EN": "Butterfly Valley",
+            "NEAR_LANDMARK_CN": "蝴蝶谷",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-25T18:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94566",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwai Chung bound) near Butterfly Valley which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往葵涌方向)近蝴蝶谷的部份行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-03-25T18:39:45",
+        "last_announcement": "2024-03-25T18:18:00"
     }
 }
