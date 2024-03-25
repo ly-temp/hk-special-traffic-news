@@ -45,45 +45,6 @@
         "last_update": "2024-03-22T12:17:17",
         "last_announcement": "2024-03-22T11:49:00"
     },
-    "IN-24-01605": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Fu Road",
-            "LOCATION_CN": "龍富路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun Chek Lap Kok Tunnel",
-            "DIRECTION_CN": "屯門赤鱲角隧道",
-            "NEAR_LANDMARK_EN": "Lung Fu Road roundabout",
-            "NEAR_LANDMARK_CN": "龍富路迴旋處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-22T10:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94421",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel bound) near Lung Fu Road roundabout is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍富路(往屯門赤鱲角隧道方向)近龍富路迴旋處的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-22T11:11:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "94422",
-                "CONTENT_EN": "The fast lane of Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel bound) near Lung Fu Road roundabout which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍富路(往屯門赤鱲角隧道方向)近龍富路迴旋處的快線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-03-22T11:25:56",
-        "last_announcement": "2024-03-22T11:11:00"
-    },
     "IN-24-01606": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -2140,5 +2101,37 @@
         "district": "中西區",
         "last_update": "2024-03-25T10:07:00",
         "last_announcement": "2024-03-25T09:51:00"
+    },
+    "IN-24-01661": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Lai Chi Kok Road",
+            "LOCATION_CN": "荔枝角道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Nam Cheong Street",
+            "NEAR_LANDMARK_CN": "南昌街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-25T11:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94541",
+                "CONTENT_EN": "Due to watermain emergency works , the lane no. 1 and 2 of Lai Chi Kok Road (Mong Kok bound) near Nam Cheong Street are closed to all traffic. \nMeanwhile, the lane no. 2 and 3 of Nam Cheong Street (Shek Kip Mei bound) near Lai Chi Kok Road are closed to all traffic. Only remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，荔枝角道(往旺角方向)近南昌街的第1及2線現已封閉。\n同時，南昌街(往石硤尾方向)近荔枝角道的第2線及3線現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-03-25T11:32:21",
+        "last_announcement": "2024-03-25T11:14:00"
     }
 }
