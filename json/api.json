@@ -45,38 +45,6 @@
         "last_update": "2024-03-23T19:45:31",
         "last_announcement": "2024-03-23T19:33:00"
     },
-    "IN-24-01620": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Po Kong Village Road",
-            "LOCATION_CN": "蒲崗村道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "Choi Hung Road",
-            "NEAR_LANDMARK_CN": "彩虹道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-22T18:33:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "94454",
-                "CONTENT_EN": "Part of the lanes of Po Kong Village Road (Kowloon City bound) near Choi Hung Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的蒲崗村道(往九龍城方向)近彩虹道的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-03-22T18:50:15",
-        "last_announcement": "2024-03-22T18:33:00"
-    },
     "IN-24-01621": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
