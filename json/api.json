@@ -1,50 +1,4 @@
 {
-    "IN-24-01615": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Chai Wan Road",
-            "LOCATION_CN": "柴灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Siu Sai Wan",
-            "DIRECTION_CN": "小西灣",
-            "NEAR_LANDMARK_EN": "Yue Wan Estate",
-            "NEAR_LANDMARK_CN": "漁灣邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-22T16:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94443",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Chai Wan Road (Siu Sai Wan bound) near Yue Wan Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，柴灣道(往小西灣方向)近漁灣邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-22T18:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94451",
-                "CONTENT_EN": "Due to watermain burst , the fast and middle lanes of Chai Wan Road (Siu Sai Wan bound) near Yue Wan Estate are closed to all traffic. Only the slow lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，柴灣道(往小西灣方向)近漁灣邨的快線及中線現已封閉。 駕駛人士只可使用慢線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-23T19:33:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94491",
-                "CONTENT_EN": "The fast and middle lanes of Chai Wan Road (Siu Sai Wan bound) near Yue Wan Estate which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的柴灣道(往小西灣方向)近漁灣邨的快線及中線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-03-23T19:45:31",
-        "last_announcement": "2024-03-23T19:33:00"
-    },
     "IN-24-01626": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2154,5 +2108,69 @@
         "district": "中西區",
         "last_update": "2024-03-26T19:38:23",
         "last_announcement": "2024-03-26T19:27:00"
+    },
+    "IN-24-01696": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Chu Road",
+            "LOCATION_CN": "皇珠路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lung Fu Road",
+            "DIRECTION_CN": "龍富路",
+            "NEAR_LANDMARK_EN": "Yau Oi Sports Centre",
+            "NEAR_LANDMARK_CN": "友愛體育館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-26T19:29:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94617",
+                "CONTENT_EN": "Part of the lanes of Wong Chu Road (Lung Fu Road bound) near Yau Oi Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的皇珠路(往龍富路方向)近友愛體育館的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-03-26T19:48:46",
+        "last_announcement": "2024-03-26T19:29:00"
+    },
+    "IN-24-01698": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Wo Che Estate",
+            "NEAR_LANDMARK_CN": "禾輋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-26T19:33:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94618",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近禾輋邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-03-26T19:48:46",
+        "last_announcement": "2024-03-26T19:33:00"
     }
 }
