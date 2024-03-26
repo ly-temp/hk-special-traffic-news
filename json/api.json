@@ -1927,5 +1927,37 @@
         "district": "深水埗區",
         "last_update": "2024-03-26T17:32:06",
         "last_announcement": "2024-03-26T16:50:00"
+    },
+    "IN-24-01689": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "traffic congesti in the vicinity of Wan Chai North",
+            "INCIDENT_DETAIL_CN": "灣仔北一帶的交通繁忙",
+            "LOCATION_EN": "Central-Wan Chai Bypass",
+            "LOCATION_CN": "中環及灣仔繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Westbound",
+            "DIRECTION_CN": "西行",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-26T17:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94598",
+                "CONTENT_EN": "Due to traffic congestion in the vicinity of Wan Chai North, all lanes of the slip road leading from Central-Wan Chai Bypass (westbound) to Lung Wo Road are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is congested now.",
+                "CONTENT_CN": "因灣仔北一帶的交通繁忙，由中環及灣仔繞道(西行)通往龍和道 的支路的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通擠塞。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-03-26T17:42:03",
+        "last_announcement": "2024-03-26T17:22:00"
     }
 }
