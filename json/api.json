@@ -38,45 +38,6 @@
         "last_update": "2024-03-25T06:18:22",
         "last_announcement": "2024-03-25T05:59:00"
     },
-    "IN-24-01649": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Cheung Wing Road",
-            "LOCATION_CN": "昌榮路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lei Muk Shue",
-            "DIRECTION_CN": "梨木樹",
-            "NEAR_LANDMARK_EN": "Wo Yi Hop Road",
-            "NEAR_LANDMARK_CN": "和宜合道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-24T16:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94514",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Wing Road (Lei Muk Shue bound) near Wo Yi Hop Road are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，昌榮路(往梨木樹方向)近和宜合道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-24T17:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94517",
-                "CONTENT_EN": "Part of the lanes of Cheung Wing Road (Lei Muk Shue bound) near Wo Yi Hop Road which were closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的昌榮路(往梨木樹方向)近和宜合道的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-03-24T17:38:44",
-        "last_announcement": "2024-03-24T17:23:00"
-    },
     "IN-24-01650": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2608,5 +2569,37 @@
         "district": "南區",
         "last_update": "2024-03-27T16:39:08",
         "last_announcement": "2024-03-27T16:22:00"
+    },
+    "IN-24-01720": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lion Rock Tunnel Road",
+            "NEAR_LANDMARK_CN": "獅子山隧道公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-27T17:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94668",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Lion Rock Tunnel Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近獅子山隧道公路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-03-27T17:39:31",
+        "last_announcement": "2024-03-27T17:30:00"
     }
 }
