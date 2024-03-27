@@ -2420,5 +2420,37 @@
         "district": "沙田區",
         "last_update": "2024-03-27T15:10:32",
         "last_announcement": "2024-03-27T14:58:00"
+    },
+    "IN-24-01715": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced train service during Easter Holidays",
+            "INCIDENT_DETAIL_CN": "復活節加強列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-27T15:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94659",
+                "CONTENT_EN": "MTR is enhancing the train service on 4 Lines during the Easter holidays from 29 March to 1 April： · Island Line, Tsuen Wan Line, South Island Line and Disneyland Resort Line · Around 300 extra train trips In addition, to facilitate grave sweeping activities, the MTR Bus K52A service between Tuen Mun Station and Tsang Tsui Columbarium will be enhanced on: · Easter holidays, Ching Ming Festival and the following two weekends · Frequency will be increased to about 15 to 30 minutes for most of the day",
+                "CONTENT_CN": "4條鐵路綫由3月29日至4月1日復活節假期加強列車服務： ·港島綫、荃灣綫、南港島綫及迪士尼綫 ·共增加約300班列車 此外，為方便市民掃墓，港鐵巴士K52A路綫來往港鐵屯門站及曾咀靈灰安置所亦會加密班次： ·復活節假期、清明節當天及隨後的兩個星期六、日 ·大部分時段加密至約15 至30 分鐘一班車"
+            }
+        },
+        "district": null,
+        "last_update": "2024-03-27T15:21:23",
+        "last_announcement": "2024-03-27T15:11:00"
     }
 }
