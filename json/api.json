@@ -2668,5 +2668,69 @@
         "district": "離島區",
         "last_update": "2024-03-29T12:29:17",
         "last_announcement": "2024-03-29T12:03:00"
+    },
+    "IN-24-01754": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Reclamation Street",
+            "LOCATION_CN": "新填地街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sham Shui Po",
+            "DIRECTION_CN": "深水埗",
+            "NEAR_LANDMARK_EN": "Pitt Street",
+            "NEAR_LANDMARK_CN": "碧街",
+            "BETWEEN_LANDMARK_EN": "Waterloo Road",
+            "BETWEEN_LANDMARK_CN": "窩打老道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-29T12:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94746",
+                "CONTENT_EN": "Due to emergency repairing works , the slow lane of Reclamation Street between Pitt Street and Waterloo Road is closed to all traffic. Meanwhile, the slow lane of Waterloo Road (Kowloon City bound) between Canton Road and Reclamation Street is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因緊急維修，新填地街介乎碧街與窩打老道之間的慢線現已封閉。同時，窩打老道(往九龍城方向)介乎廣東道與新填地街之間的慢線亦已封閉。駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-03-29T12:59:48",
+        "last_announcement": "2024-03-29T12:35:00"
+    },
+    "IN-24-01755": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Oil Stain On Road",
+            "INCIDENT_DETAIL_CN": "路面有油漬",
+            "LOCATION_EN": "Austin Road",
+            "LOCATION_CN": "柯士甸道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom",
+            "DIRECTION_CN": "紅磡",
+            "NEAR_LANDMARK_EN": "Pilkem Street",
+            "NEAR_LANDMARK_CN": "庇利金街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-29T12:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94747",
+                "CONTENT_EN": "Due to oil stain on road , the slow lane of Austin Road (Hung Hom bound) near Pilkem Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因路面有油漬，柯士甸道(往紅磡方向)近庇利金街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-03-29T12:59:48",
+        "last_announcement": "2024-03-29T12:51:00"
     }
 }
