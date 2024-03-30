@@ -77,45 +77,6 @@
         "last_update": "2024-03-27T21:08:40",
         "last_announcement": "2024-03-27T21:02:00"
     },
-    "IN-24-01725": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-27T18:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94678",
-                "CONTENT_EN": "The following road sections are busy:\n– Connaught Road West flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Western Harbour Crossing bound)\n– Harcourt Road (Western Harbour Crossing bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–干諾道西天橋(往西區海底隧道方向)\n–干諾道中(往西區海底隧道方向)\n–夏慤道(往西區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-03-27T19:28:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "94688",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Connaught Road West flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Western Harbour Crossing bound)\n– Harcourt Road (Western Harbour Crossing bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–干諾道西天橋(往西區海底隧道方向)\n–干諾道中(往西區海底隧道方向)\n–夏慤道(往西區海底隧道方向)。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-03-27T20:33:52",
-        "last_announcement": "2024-03-27T19:28:00"
-    },
     "IN-24-01730": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
