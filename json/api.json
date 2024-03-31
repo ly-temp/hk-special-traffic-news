@@ -862,11 +862,18 @@
                 "ID": "94776",
                 "CONTENT_EN": "Due to fire, all lanes of Hart Avenue are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因火警，赫德道的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-03-31T21:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94779",
+                "CONTENT_EN": "All lanes of Hart Avenue  which were closed due to fire are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因火警而封閉的赫德道的全線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-03-31T20:42:21",
-        "last_announcement": "2024-03-31T20:30:00"
+        "last_update": "2024-03-31T21:45:54",
+        "last_announcement": "2024-03-31T21:30:00"
     },
     "IN-24-01771": {
         "description": {
@@ -894,10 +901,17 @@
                 "ID": "94777",
                 "CONTENT_EN": "Due to strong wind condition, the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below:\nThe speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排：\n港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2024-03-31T21:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94780",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": null,
-        "last_update": "2024-03-31T20:54:58",
-        "last_announcement": "2024-03-31T20:35:00"
+        "last_update": "2024-03-31T21:45:54",
+        "last_announcement": "2024-03-31T21:30:00"
     }
 }
