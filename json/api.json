@@ -38,45 +38,6 @@
         "last_update": "2024-03-30T00:43:40",
         "last_announcement": "2024-03-30T00:26:00"
     },
-    "IN-24-01743": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun Town Centre",
-            "DIRECTION_CN": "屯門市中心",
-            "NEAR_LANDMARK_EN": "Sea Crest Villa",
-            "NEAR_LANDMARK_CN": "浪翠園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-28T17:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94726",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun Town Centre bound) near Sea Crest Villa is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門市中心方向)近浪翠園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-28T17:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94728",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun Town Centre bound) near Sea Crest Villa which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門市中心方向)近浪翠園的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-03-28T17:59:33",
-        "last_announcement": "2024-03-28T17:45:00"
-    },
     "IN-24-01744": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -966,5 +927,37 @@
         "district": "離島區",
         "last_update": "2024-03-31T17:11:41",
         "last_announcement": "2024-03-31T17:00:00"
+    },
+    "IN-24-01769": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "The Transport Department appeals to inbound travellers to plan ahead their journeys  reserve sufficient commuting time",
+            "INCIDENT_DETAIL_CN": "運輸署呼籲跨境旅客預早妥善規劃行程，預留充裕交通時間。",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-31T18:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94775",
+                "CONTENT_EN": "The Transport Department anticipates that more travellers would return to Hong Kong via land-based Boundary Control Points or the Airport tomorrow (1st April). The Transport Department appeals to these inbound travellers to plan ahead their journeys and reserve sufficient commuting time. It is anticipated that the demand for public transport services will be higher during the period and the waiting time for public transport services would increase. The Transport Department has instructed public transport operators to strengthen their services to meet passenger demand. The Transport Department's Emergency Transport Coordination Centre will continue to monitor the traffic and public transport service at all land-based Boundary Control Points and the Airport, and shall disseminate the latest traffic news through the Transport Department's mobile application \"HKeMobility\".",
+                "CONTENT_CN": "運輸署預料明天（4月1日）將有較多跨境旅客使用陸路口岸或機場回港，運輸署呼籲有關旅客預早妥善規劃行程，預留充裕交通時間。 預計在返港高峰時間的公共運輸需求會較高，乘客候車時間亦會較長。運輸署已指示公共運輸服務營辦商加強服務應付乘客需求。 運輸署的緊急交通事故協調中心會繼續監察各陸路口岸及機場的交通及公共運輸服務情況，並透過運輸署流動應用程式「香港出行易」，發放最新的交通消息。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-03-31T18:09:14",
+        "last_announcement": "2024-03-31T18:00:00"
     }
 }
