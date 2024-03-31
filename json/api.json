@@ -130,52 +130,6 @@
         "last_update": "2024-03-28T16:17:55",
         "last_announcement": "2024-03-28T16:03:00"
     },
-    "IN-24-01739": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Victoria Park Road",
-            "LOCATION_CN": "維園道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "Police Officers' Club",
-            "NEAR_LANDMARK_CN": "警官會所",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-28T15:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94713",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Victoria Park Road (Chai Wan bound) near Police Officers' Club is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，維園道(往柴灣方向)近警官會所的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-03-28T15:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94715",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Victoria Park Road (Chai Wan bound) near Police Officers' Club is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Victoria Park Road (Chai Wan bound) ends at Gloucester Road near the Hong Kong Academy for Performing Arts.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，維園道(往柴灣方向)近警官會所的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在維園道(往柴灣方向)的車龍龍尾已到告士打道近香港演藝學院。  現時上址交通擠塞。"
-            },
-            "2024-03-28T15:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94716",
-                "CONTENT_EN": "Part of the lanes of Victoria Park Road (Chai Wan bound) near Police Officers' Club which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的維園道(往柴灣方向)近警官會所的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-03-28T15:46:14",
-        "last_announcement": "2024-03-28T15:27:00"
-    },
     "IN-24-01740": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1175,5 +1129,37 @@
         "district": "油尖旺區",
         "last_update": "2024-03-31T15:09:15",
         "last_announcement": "2024-03-31T14:46:00"
+    },
+    "IN-24-01768": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong Zhuhai-Macao-Bridge Hong Kong Link Road",
+            "LOCATION_CN": "港珠澳大橋香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-03-31T15:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94773",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-03-31T15:50:22",
+        "last_announcement": "2024-03-31T15:35:00"
     }
 }
