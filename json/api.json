@@ -901,10 +901,49 @@
                 "ID": "94781",
                 "CONTENT_EN": "Due to baggage handling system equipment fault, In-town Check-in service at Hong Kong Station is temporarily suspended until further notice.   Passengers are advised to leave earlier for the Airport for baggage check-in.",
                 "CONTENT_CN": "由於行李處理系統機件故障，機場快綫香港站市區預辦登機服務暫停，直至另行通告。\n有關系統正進行維修。  乘客請提早前往機場辦理登機手續。"
+            },
+            "2024-04-01T06:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94782",
+                "CONTENT_EN": "The baggage handling system equipment fault has been rectified. In-town Check-in service is gradually resuming.",
+                "CONTENT_CN": "行李處理系統已完成搶修，機場快綫市區預辦登機服務逐步回復正常。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-04-01T06:38:35",
-        "last_announcement": "2024-04-01T06:27:00"
+        "last_update": "2024-04-01T07:17:02",
+        "last_announcement": "2024-04-01T06:55:00"
+    },
+    "IN-24-01774": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Tong Road",
+            "LOCATION_CN": "大棠路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Shung Ching San Tsuen",
+            "NEAR_LANDMARK_CN": "崇正新村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-01T07:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94783",
+                "CONTENT_EN": "Due to traffic accident, the one-lane-two-way traffic arrangement is being implemented on Tai Tong Road near Shung Ching San Tsuen.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大棠路近崇正新村現已實施單線雙程行車措施。  現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-04-01T07:17:02",
+        "last_announcement": "2024-04-01T07:10:00"
     }
 }
