@@ -38,45 +38,6 @@
         "last_update": "2024-03-30T00:43:40",
         "last_announcement": "2024-03-30T00:26:00"
     },
-    "IN-24-01749": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Shenzhen Bay Bridge",
-            "LOCATION_CN": "深圳灣公路大橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Shenzhen",
-            "DIRECTION_CN": "深圳",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-29T09:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94739",
-                "CONTENT_EN": "Shenzhen Bay Bridge (Shenzhen bound) is busy. Motorists passing through the above road sections are advised to drive with utmost care and patience and allow more time for travel.",
-                "CONTENT_CN": "深圳灣公路大橋(往深圳方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛，並為行程預留充裕時間。"
-            },
-            "2024-03-29T12:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94745",
-                "CONTENT_EN": "Traffic at Shenzhen Bay Bridge (Shenzhen bound) has resumed normal.",
-                "CONTENT_CN": "深圳灣公路大橋(往深圳方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-03-29T12:39:33",
-        "last_announcement": "2024-03-29T12:23:00"
-    },
     "IN-24-01752": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -727,11 +688,18 @@
                 "ID": "94775",
                 "CONTENT_EN": "The Transport Department anticipates that more travellers would return to Hong Kong via land-based Boundary Control Points or the Airport tomorrow (1st April). The Transport Department appeals to these inbound travellers to plan ahead their journeys and reserve sufficient commuting time. It is anticipated that the demand for public transport services will be higher during the period and the waiting time for public transport services would increase. The Transport Department has instructed public transport operators to strengthen their services to meet passenger demand. The Transport Department's Emergency Transport Coordination Centre will continue to monitor the traffic and public transport service at all land-based Boundary Control Points and the Airport, and shall disseminate the latest traffic news through the Transport Department's mobile application \"HKeMobility\".",
                 "CONTENT_CN": "運輸署預料明天（4月1日）將有較多跨境旅客使用陸路口岸或機場回港，運輸署呼籲有關旅客預早妥善規劃行程，預留充裕交通時間。 預計在返港高峰時間的公共運輸需求會較高，乘客候車時間亦會較長。運輸署已指示公共運輸服務營辦商加強服務應付乘客需求。 運輸署的緊急交通事故協調中心會繼續監察各陸路口岸及機場的交通及公共運輸服務情況，並透過運輸署流動應用程式「香港出行易」，發放最新的交通消息。"
+            },
+            "2024-04-01T12:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94786",
+                "CONTENT_EN": "The Transport Department (TD) anticipates that more travellers would return to Hong Kong via land-based Boundary Control Points or the Airport starting this afternoon (1 April 2024). The TD appeals to the inbound cross-boundary travellers to plan their journeys ahead and reserve sufficient commuting time, in particular for travellers and motorists using the Hong Kong-Zhuhai-Macao Bridge (HZMB) as the Hong Kong bound traffic will be busy. On the other hand, cross-boundary coach operators, local public transport operators and HZMB shuttle bus operator etc. , have been instructed to strengthen their services to cater for the passenger demand during peak periods. The TD will closely monitor the traffic and operations of public transport services at all land-based Boundary Control Points and the Airport.",
+                "CONTENT_CN": "運輸署預料今日（4月1日）下午開始將有較多旅客使用陸路口岸或機場回港，運輸署呼籲有關旅客預早妥善規劃行程，預留充裕交通時間，特別是使用港珠澳大橋（大橋）的旅客和駕駛者，預計往香港交通將會十分繁忙。 運輸署已指示跨境巴士服務營辦商、本地公共交通服務營辦商及大橋穿梭巴士營辦商等加強服務，以應對旅客的高峰時段。 運輸署亦會密切監察各陸路口岸及機場的交通及公共運輸服務的運作情況。"
             }
         },
         "district": null,
-        "last_update": "2024-03-31T18:09:14",
-        "last_announcement": "2024-03-31T18:00:00"
+        "last_update": "2024-04-01T12:41:12",
+        "last_announcement": "2024-04-01T12:30:00"
     },
     "IN-24-01770": {
         "description": {
