@@ -1,43 +1,4 @@
 {
-    "IN-24-01712": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Lam Lok Street",
-            "LOCATION_CN": "臨樂街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Wang Kwun Road",
-            "NEAR_LANDMARK_CN": "宏冠道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-27T14:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94653",
-                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Lam Lok Street  near Wang Kwun Road is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因水管緊急維修，臨樂街近宏冠道的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-03-30T00:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94762",
-                "CONTENT_EN": "The fast lane of Lam Lok Street  near Wang Kwun Road which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的臨樂街近宏冠道的快線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-03-30T00:43:40",
-        "last_announcement": "2024-03-30T00:26:00"
-    },
     "IN-24-01751": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
