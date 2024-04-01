@@ -77,45 +77,6 @@
         "last_update": "2024-03-30T09:04:06",
         "last_announcement": "2024-03-30T08:00:00"
     },
-    "IN-24-01753": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Large Crowds at Lo Wu and Lok Ma Chau",
-            "INCIDENT_DETAIL_CN": "羅湖及落馬洲過關人數眾多",
-            "LOCATION_EN": "East Rail Line Service Disruption",
-            "LOCATION_CN": "東鐵綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-29T12:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94744",
-                "CONTENT_EN": "As it is travel peak period, there are currently large crowds crossing the boundary at Lo Wu and Lok Ma Chau. Additional staff have been deployed to East Rail Line stations to assist passengers. Passengers are advised to reserve ample time for their travels and consider using other control points for boundary crossing.",
-                "CONTENT_CN": "因應假日出行高峰，目前使用羅湖及落馬洲口岸的人數眾多，東鐵綫車站已加派人手協助乘客。請乘客為行程預留時間，並考慮使用其他口岸過關。"
-            },
-            "2024-03-29T13:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94749",
-                "CONTENT_EN": "As it is travel peak period, there are currently large crowds crossing the boundary at the Lo Wu and Lok Ma Chau Spur Line control points. Additional staff have been deployed to East Rail Line stations to assist passengers. Passengers are advised to reserve ample time for their travels and consider using other control points for boundary crossing. \nIn response to the crowds at the boundary crossings, train service frequency between Admiralty and Lo Wu/ Lok Ma Chau has been adjusted. Please pay attention to the destinations of the train trips.",
-                "CONTENT_CN": "因應假日出行高峰，目前使用羅湖及落馬洲支線管制站人數眾多，東鐵綫車站已加派人手協助乘客。請乘客為行程預留時間，並考慮使用其他口岸過關。\n因應口岸人多，東鐵綫來往金鐘至羅湖及落馬洲的列車班次已作出調整，請乘客留意列車班次的終點站。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-03-29T14:23:17",
-        "last_announcement": "2024-03-29T13:55:00"
-    },
     "IN-24-01755": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
