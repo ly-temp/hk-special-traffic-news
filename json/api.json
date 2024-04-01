@@ -38,38 +38,6 @@
         "last_update": "2024-03-30T00:43:40",
         "last_announcement": "2024-03-30T00:26:00"
     },
-    "IN-24-01748": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Boundary Street",
-            "LOCATION_CN": "界限街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "Knight Street",
-            "NEAR_LANDMARK_CN": "勵德街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-29T07:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94738",
-                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Boundary Street (Kowloon City bound) near Knight Street is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因水管緊急維修，界限街(往九龍城方向)近勵德街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-03-29T09:17:46",
-        "last_announcement": "2024-03-29T07:55:00"
-    },
     "IN-24-01749": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -940,10 +908,49 @@
                 "ID": "94783",
                 "CONTENT_EN": "Due to traffic accident, the one-lane-two-way traffic arrangement is being implemented on Tai Tong Road near Shung Ching San Tsuen.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大棠路近崇正新村現已實施單線雙程行車措施。  現時上址交通繁忙。"
+            },
+            "2024-04-01T09:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94785",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tai Tong Road near Shung Ching San Tsuen due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於大棠路近崇正新村實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-04-01T07:17:02",
-        "last_announcement": "2024-04-01T07:10:00"
+        "last_update": "2024-04-01T09:24:45",
+        "last_announcement": "2024-04-01T09:12:00"
+    },
+    "IN-24-01652": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Sha Tin Rural Committee Road",
+            "LOCATION_CN": "沙田鄉事會路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-01T07:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94784",
+                "CONTENT_EN": "The new traffic arrangement at Sha Tin Rural Committee Road interchange has been implemented since 24 March 2024. Except for franchised buses, all vehicles are prohibited from turning left from the first junction of Sha Tin Rural Committee Road (Shatin Station Bound) onto the Sha Tin Central Bus Terminus. Motorists should pay attention and follow the road alignment, directional signs, road markings and traffic signs of the new traffic arrangement to drive carefully avoiding driving on bus lane and opposite traffic lane.",
+                "CONTENT_CN": "沙田鄉事會路交匯處的新交通安排已於三月二十四日正式實施。除專利巴士外，所有車輛不得由沙田鄉事會路(沙田站方向)的第一個路口左轉入沙田市中心巴士總站。駕駛人士使用新交匯處時，必須細心留意及遵照新交匯處的道路配置、方向標誌、道路標記和交通標誌指示，小心駕駛以避免跨越巴士線及對面行車線。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-01T09:24:45",
+        "last_announcement": "2024-04-01T07:56:00"
     }
 }
