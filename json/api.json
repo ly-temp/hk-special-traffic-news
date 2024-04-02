@@ -1,43 +1,4 @@
 {
-    "IN-24-01751": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Hoi Shing Road",
-            "LOCATION_CN": "海盛路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Yuen Tun Circuit",
-            "NEAR_LANDMARK_CN": "圓墩圍",
-            "BETWEEN_LANDMARK_EN": "Tai Chung Road",
-            "BETWEEN_LANDMARK_CN": "大涌道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-03-29T11:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94743",
-                "CONTENT_EN": "Due to watermain emergency works , all lanes of Hoi Shing Road (both bounds) between Yuen Tun Circuit and Tai Chung Road near Po On Commercial Association Wong Siu Ching Secondary School are closed to all traffic.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管緊急維修，海盛路(來回方向)介乎圓墩圍與大涌道之間近寶安商會王少清中學的全線現已封閉。  駕駛人士請考慮改用其他道路。"
-            },
-            "2024-03-30T08:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94763",
-                "CONTENT_EN": "All lanes of Hoi Shing Road (both bounds) between Yuen Tun Circuit and Tai Chung Road which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的海盛路(來回方向)介乎圓墩圍與大涌道之間的全線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-03-30T09:04:06",
-        "last_announcement": "2024-03-30T08:00:00"
-    },
     "IN-24-01763": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -590,5 +551,69 @@
         "district": null,
         "last_update": "2024-04-02T06:13:50",
         "last_announcement": "2024-04-02T06:04:00"
+    },
+    "IN-24-01748": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Boundary Street",
+            "LOCATION_CN": "界限街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon City",
+            "DIRECTION_CN": "九龍城",
+            "NEAR_LANDMARK_EN": "Knight Street",
+            "NEAR_LANDMARK_CN": "勵德街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-02T08:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94793",
+                "CONTENT_EN": "The fast lane of Boundary Street (Kowloon City bound) near Knight Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的界限街(往九龍城方向)近勵德街的快線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-04-02T09:22:08",
+        "last_announcement": "2024-04-02T08:13:00"
+    },
+    "IN-24-01779": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Tai Chung Kiu Road",
+            "LOCATION_CN": "大涌橋路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Ma On Shan",
+            "DIRECTION_CN": "馬鞍山",
+            "NEAR_LANDMARK_EN": "Sha Kok Street",
+            "NEAR_LANDMARK_CN": "沙角街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-02T08:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94794",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Tai Chung Kiu Road (Ma On Shan bound) near Sha Kok Street is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因水管緊急維修，大涌橋路(往馬鞍山方向)近沙角街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-02T09:22:08",
+        "last_announcement": "2024-04-02T08:49:00"
     }
 }
