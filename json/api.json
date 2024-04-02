@@ -972,11 +972,18 @@
                 "ID": "94817",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近觀塘碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-02T18:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94819",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近觀塘碼頭的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-04-02T18:39:21",
-        "last_announcement": "2024-04-02T18:28:00"
+        "last_update": "2024-04-02T18:59:32",
+        "last_announcement": "2024-04-02T18:46:00"
     },
     "IN-24-01792": {
         "description": {
@@ -1004,10 +1011,17 @@
                 "ID": "94818",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Shek Pai Wan Road (Pok Fu Lam bound) near Wah Kwai Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，石排灣道(往薄扶林方向)近華貴邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-02T18:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94820",
+                "CONTENT_EN": "Part of the lanes of Shek Pai Wan Road (Pok Fu Lam bound) near Wah Kwai Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的石排灣道(往薄扶林方向)近華貴邨的部份行車線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-04-02T18:49:32",
-        "last_announcement": "2024-04-02T18:34:00"
+        "last_update": "2024-04-02T18:59:32",
+        "last_announcement": "2024-04-02T18:54:00"
     }
 }
