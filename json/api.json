@@ -1642,11 +1642,18 @@
                 "ID": "94865",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Shek Wu Road (both bounds) near Choi Yuen Estate are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，寶石湖路(來回方向)近彩園邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-03T19:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94875",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Po Shek Wu Road (Fan Kam Road bound) near Choi Yuen Estate are closed to all traffic. Motorists are advised to use alternative routes. At the same time, part of lanes of Po Shek Wu Road (Jockey Club Road Bound) near Choi Yuen Estate is still closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，寶石湖路(往粉錦公路方向)近彩園邨的全線現已封閉。 駕駛人士請考慮改用其他道路。 同時，寶石湖路(往馬會道方向)近彩園邨的部份行車線仍然封閉。駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
             }
         },
         "district": "北區",
-        "last_update": "2024-04-03T18:38:26",
-        "last_announcement": "2024-04-03T18:23:00"
+        "last_update": "2024-04-03T19:35:50",
+        "last_announcement": "2024-04-03T19:20:00"
     },
     "IN-24-01812": {
         "description": {
@@ -1757,5 +1764,37 @@
         "district": "沙田區",
         "last_update": "2024-04-03T19:15:35",
         "last_announcement": "2024-04-03T19:11:00"
+    },
+    "IN-24-01816": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Eastern Harbour Crossing",
+            "LOCATION_CN": "東區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-03T19:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94873",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube fast lane of Eastern Harbour Crossing (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東區海底隧道(往九龍方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-04-03T19:35:50",
+        "last_announcement": "2024-04-03T19:17:00"
     }
 }
