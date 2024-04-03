@@ -1583,5 +1583,37 @@
         "district": "中西區",
         "last_update": "2024-04-03T17:51:56",
         "last_announcement": "2024-04-03T17:42:00"
+    },
+    "IN-24-01810": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "TD appeals to cross boundary travellers to plan ahead their journeys and reserve sufficient commuting time",
+            "INCIDENT_DETAIL_CN": "運輸署呼籲過境旅客預早妥善規劃行程，預留充裕交通時間。",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-03T18:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94864",
+                "CONTENT_EN": "The Transport Department anticipates that more travellers would use land-based Boundary Control Points to travel to / from the Mainland from the Ching Ming Festival tomorrow (4th April) to Sunday (7th April). The Transport Department appeals to these travellers to plan ahead their journeys and reserve sufficient commuting time. The Transport Department has instructed public transport operators to strengthen their services to meet passenger demand.",
+                "CONTENT_CN": "運輸署預料由明天清明節假期(4月4日)起至星期日(4月7日)將有較多旅客使用陸路口岸往返內地。運輸署呼籲相關旅客預早妥善規劃行程，預留充裕交通時間。運輸署已指示公共運輸服務營辦商加強服務應付乘客需求。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-03T18:09:05",
+        "last_announcement": "2024-04-03T18:00:00"
     }
 }
