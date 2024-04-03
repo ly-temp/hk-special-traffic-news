@@ -1656,11 +1656,25 @@
                 "ID": "94880",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Po Shek Wu Road (both bounds) near Choi Yuen Estate are closed to all traffic. Motorists are advised to use alternative routes. Citizens please take note services of KMB and LWB travelling via the above road section are affected. Please consider using other public transport services, such as MTR services. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，寶石湖路(來回方向)近彩園邨的全線現已封閉。 駕駛人士請考慮改用其他道路。市民請留意九巴及龍運巴士途經上述路段的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。 現時上址交通繁忙。"
+            },
+            "2024-04-03T20:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94884",
+                "CONTENT_EN": "Part of the lanes of Po Shek Wu Road (both bounds) near Choi Yuen Estate which was closed due to traffic accident are re-opened to all traffic. Citizens please take note services of KMB and LWB travelling via the above road section are affected. Please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "較早前因交通意外而封閉的寶石湖路(來回方向)近彩園邨的部份行車線現已解封。 市民請留意九巴及龍運巴士途經上述路段的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-04-03T20:28:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94886",
+                "CONTENT_EN": "Part of the lanes of Po Shek Wu Road (both bounds) near Choi Yuen Estate which was closed due to traffic accident are re-opened to all traffic. Service of KMB which was affected by the traffic accident at the above road section has gradually resumed normal.",
+                "CONTENT_CN": "較早前因交通意外而封閉的寶石湖路(來回方向)近彩園邨的部份行車線現已解封。 較早前因位於上述路段的交通意外而受影響的九巴服務已陸續回復正常。"
             }
         },
         "district": "北區",
-        "last_update": "2024-04-03T20:26:24",
-        "last_announcement": "2024-04-03T19:48:00"
+        "last_update": "2024-04-03T20:47:34",
+        "last_announcement": "2024-04-03T20:28:00"
     },
     "IN-24-01812": {
         "description": {
@@ -1915,10 +1929,17 @@
                 "ID": "94883",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Tai Po bound) near Worldwide Gardens is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往大埔方向)近世界花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-03T20:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94885",
+                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Tai Po bound) near Worldwide Gardens which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往大埔方向)近世界花園的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-04-03T20:26:24",
-        "last_announcement": "2024-04-03T20:18:00"
+        "last_update": "2024-04-03T20:47:34",
+        "last_announcement": "2024-04-03T20:27:00"
     }
 }
