@@ -1213,11 +1213,18 @@
                 "ID": "94840",
                 "CONTENT_EN": "As informed by Mainland Railway Authorities, some High Speed Rail train services from Hong Kong West Kowloon to Xiamen and Chaoshan Stations will be delayed due to bad weather conditions. Trains affected: To Chaoshan: G6386 To Chaoshan: G6384 To Shantou: G6392 MTR is working with the Mainland and more details will be provided as soon as possible. For latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app , HSR website or mobile app or the information available at Hong Kong West Kowloon Station.",
                 "CONTENT_CN": "內地鐵路單位通報，由於天氣影響，部分由香港西九龍站前往廈門和潮汕站的高速鐵路列車服務將會延遲。 受影響車次: 前往潮汕:G6386 前往潮汕:G6384 前往汕頭:G6392 港鐵正向內地了解情況，會儘快提供進一步消息。 有關車次的資料，請留意12306官方網站(12306.cn)或如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁或手機應用程式或香港西九龍站發放的最新資訊。"
+            },
+            "2024-04-03T11:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94841",
+                "CONTENT_EN": "As informed by Mainland Railway Authorities, some High Speed Rail train services from Hong Kong West Kowloon to Xiamen, Shantou and Chaoshan Stations will be delayed due to bad weather conditions. Trains affected: To Xiamen: G3004 To Chaoshan: G6384 To Shantou: G6392 MTR are working with the Mainland and more details will be provided as soon as possible. For latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app , HSR website or mobile app or the information available at Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "內地鐵路單位通報，由於天氣影響，部分由香港西九龍站前往廈門，汕頭和潮汕站的高速鐵路列車服務將會延遲。 受影響車次: 前往廈門：G3004 前往潮汕:G6384 前往汕頭:G6392 港鐵正向內地了解情況，會儘快提供進一步消息。 有關車次的資料，請留意12306官方網站(12306.cn)或如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁或手機應用程式或香港西九龍站發放的最新資訊。"
             }
         },
         "district": null,
-        "last_update": "2024-04-03T11:34:28",
-        "last_announcement": "2024-04-03T11:20:00"
+        "last_update": "2024-04-03T12:15:07",
+        "last_announcement": "2024-04-03T11:45:00"
     },
     "IN-24-01799": {
         "description": {
@@ -1289,5 +1296,37 @@
         "district": "油尖旺區",
         "last_update": "2024-04-03T10:19:01",
         "last_announcement": "2024-04-03T09:48:00"
+    },
+    "IN-24-01801": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Kai Hing Road",
+            "NEAR_LANDMARK_CN": "啓興道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-03T11:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94842",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Kai Hing Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近啓興道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-03T12:15:07",
+        "last_announcement": "2024-04-03T11:54:00"
     }
 }
