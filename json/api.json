@@ -1863,5 +1863,37 @@
         "district": "葵青區",
         "last_update": "2024-04-04T02:32:12",
         "last_announcement": "2024-04-04T02:20:00"
+    },
+    "IN-24-01822": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-04T08:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "94891",
+                "CONTENT_EN": "Due to rail defect near Tsim Sha Tsui Station, Tsuen Wan Line trains will operate at a slower speed from Jordan Station to Tsim Sha Tsui Station. This could extend the total journey time on the Tsuen Wan Line between Central Station and Tsuen Wan Station by 15-20 minutes.",
+                "CONTENT_CN": "由於尖沙咀站附近的路軌出現故障，荃灣綫列車駛經佐敦站至尖沙咀站路段時需要慢駛，荃灣綫來往中環站及荃灣站的行車時間預計需要額外15-20分鐘。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-04T08:39:28",
+        "last_announcement": "2024-04-04T08:30:00"
     }
 }
