@@ -1,82 +1,4 @@
 {
-    "IN-24-01784": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-02T16:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94803",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青嶼幹線(青馬大橋)(往機場方向) 的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-02T16:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94806",
-                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青嶼幹線(青馬大橋)(往機場方向) 的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-02T17:07:12",
-        "last_announcement": "2024-04-02T16:50:00"
-    },
-    "IN-24-01785": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O Tunnel",
-            "DIRECTION_CN": "將軍澳隧道",
-            "NEAR_LANDMARK_EN": "Tsui Ping South Estate",
-            "NEAR_LANDMARK_CN": "翠屏南邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-02T16:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94804",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Tsui Ping South Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，將軍澳道(往將軍澳隧道方向)近翠屏南邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-02T16:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94807",
-                "CONTENT_EN": "The fast lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Tsui Ping South Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳道(往將軍澳隧道方向)近翠屏南邨的快線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-04-02T17:07:12",
-        "last_announcement": "2024-04-02T16:55:00"
-    },
     "IN-24-01786": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2209,11 +2131,18 @@
                 "ID": "94934",
                 "CONTENT_EN": "The following road sections are busy:\n– Gloucester Road (Cross Harbour Tunnel bound)\n– Causeway Road (Wan Chai bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–告士打道(往海底隧道方向)\n–高士威道(往灣仔方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-04-05T17:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94938",
+                "CONTENT_EN": "The following road sections are busy:\n– Gloucester Road (Cross Harbour Tunnel bound)\n– Causeway Road (Wan Chai bound)\n– The section of Hennessy Road between Canal Road Flyover and Yee Wo Street (North Point bound)\n– Yee Wo Street (both bounds)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–告士打道(往海底隧道方向)\n–高士威道(往灣仔方向)\n–介乎堅拿道天橋與怡和街之間的一段軒尼詩道(往北角方向)\n–怡和街(來回方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-04-05T16:51:21",
-        "last_announcement": "2024-04-05T16:35:00"
+        "last_update": "2024-04-05T17:20:51",
+        "last_announcement": "2024-04-05T17:06:00"
     },
     "IN-24-01844": {
         "description": {
@@ -2287,10 +2216,17 @@
                 "ID": "94936",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Interchange is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Tuen Mun Road near Sam Shing and Lung Fu Road near Lung Mun Oasis. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近青田交匯處的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往元朗方向)的車龍龍尾已到屯門公路近三聖及龍富路近龍門居。 現時上址交通擠塞。"
+            },
+            "2024-04-05T17:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "94937",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Interchange which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往元朗方向)近青田交匯處的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-04-05T17:07:02",
-        "last_announcement": "2024-04-05T16:53:00"
+        "last_update": "2024-04-05T17:20:51",
+        "last_announcement": "2024-04-05T17:01:00"
     }
 }
