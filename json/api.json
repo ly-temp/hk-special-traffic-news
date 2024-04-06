@@ -80,45 +80,6 @@
         "last_update": "2024-04-03T15:56:56",
         "last_announcement": "2024-04-03T15:35:00"
     },
-    "IN-24-01802": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Some High Speed Rail have been cancelled",
-            "INCIDENT_DETAIL_CN": "高鐵部分列車車次取消",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-03T12:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94846",
-                "CONTENT_EN": "As informed by Mainland Railway Authorities, some High Speed Rail train services traveling between Hong Kong West Kowloon Station and Xiamen have been cancelled due to train regulation. Cancelled train services: From Xiamen: G3005 From Hong Kong West Kowloon Station: G5612 For latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app (link), HSR website or mobile app or the information available at Hong Kong West Kowloon Station. You may consider travel on the East Rail Line trains to Lo Wu/ Lok Ma Chau or use other transports to enter the Mainland. Ticket refunds should be obtained within 30 days. Please use the 12306 official website (12306. cn) or mobile app and avoid coming to Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "內地鐵路單位通報，由於車務調動，部分來往香港西九龍站及廈門的高速鐵路列車車次取消。 已取消的車次: 由廈門出發:G3005 由香港西九龍站出發:G5612 有關車次的資料，請留意12306官方網站(12306.cn)或如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁或手機應用程式或香港西九龍站發放的最新資訊。 您可考慮乘搭東鐵綫經羅湖/落馬洲，或使用其他跨境交通工具前往內地。 如需退票，您可在30天內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
-            },
-            "2024-04-03T14:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94849",
-                "CONTENT_EN": "As informed by Mainland Railway Authorities, some High Speed Rail train services from Hong Kong West Kowloon to Xiamen, Chaoshan, Shantou and Fuzhou Stations will be delayed due to bad weather conditions. Trains affected: To Xiamen: G3004 / G3006 To Chaoshan: G6384 / G6388 To Shantou: G6392 To Fuzhou: G3002 MTR are working with the Mainland and more details will be provided as soon as possible. For latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app, HSR website or mobile app or the information available at Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "內地鐵路單位通報，由於天氣影響，部分由香港西九龍站前往廈門，潮汕，汕頭，和福州站的高速鐵路列車服務將會延遲。 受影響車次: 前往廈門:G3004 /G3006 前往潮汕:G6384 /G6388 前往汕頭:G6392 前往福州:G3002 港鐵正向內地了解情況，會儘快提供進一步消息。 有關車次的資料，請留意12306官方網站(12306.cn)或如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁或手機應用程式或香港西九龍站發放的最新資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-04-03T14:26:50",
-        "last_announcement": "2024-04-03T14:13:00"
-    },
     "IN-24-01803": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
