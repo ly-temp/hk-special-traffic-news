@@ -1735,5 +1735,37 @@
         "district": "觀塘區",
         "last_update": "2024-04-07T17:53:42",
         "last_announcement": "2024-04-07T17:32:00"
+    },
+    "IN-24-01872": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Davis Street",
+            "LOCATION_CN": "爹核士街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Catchick Street",
+            "NEAR_LANDMARK_CN": "吉席街",
+            "BETWEEN_LANDMARK_EN": "New Praya, Kennedy Town",
+            "BETWEEN_LANDMARK_CN": "堅彌地城新海旁",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-07T20:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95003",
+                "CONTENT_EN": "Due to emergency incident , all lanes of Davis Street  between Catchick Street and New Praya, Kennedy Town is closed to all traffic. Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，爹核士街介乎吉席街與堅彌地城新海旁之間的全線現已封閉。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-04-07T20:21:59",
+        "last_announcement": "2024-04-07T20:02:00"
     }
 }
