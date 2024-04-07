@@ -84,38 +84,6 @@
         "last_update": "2024-04-06T13:59:05",
         "last_announcement": "2024-04-06T13:45:00"
     },
-    "IN-24-01830": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Today’s train service arrangements on the Tsuen Wan Line – 5 April 2024",
-            "INCIDENT_DETAIL_CN": "今日荃灣綫服務安排 – 2024年4月5日",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-05T06:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94908",
-                "CONTENT_EN": "The repair work near Tsim Sha Tsui Station on the Tsuen Wan Line has been completed. Normal train service is resuming this morning.",
-                "CONTENT_CN": "尖沙咀站附近的復修工作已經完成，荃灣綫列車服務今早回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-04-05T06:26:57",
-        "last_announcement": "2024-04-05T06:10:00"
-    },
     "IN-24-01831": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
