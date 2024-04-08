@@ -1550,5 +1550,37 @@
         "district": "灣仔區",
         "last_update": "2024-04-08T21:40:32",
         "last_announcement": "2024-04-08T21:30:00"
+    },
+    "IN-24-01889": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Chatham Road South (Ho Man Tin bound)",
+            "INCIDENT_DETAIL_CN": "漆咸道南(往何文田方向)",
+            "LOCATION_EN": "Chatham Road South",
+            "LOCATION_CN": "漆咸道南",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Ho Man Tin",
+            "DIRECTION_CN": "何文田",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-09T00:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95054",
+                "CONTENT_EN": "Due to tree trimming, the only lane of the slip road leading from Chatham Road South (Ho Man Tin bound) to Gascoigne Road and Chatham Road South (Tsim Sha Tsui bound) is closed to all traffic. Motorists may use alternative routing.",
+                "CONTENT_CN": "因修剪樹木，由漆咸道南(往何文田方向)通往加士居道及漆咸道南(往尖沙咀方向)的支路的唯一行車線現已封閉。 駕駛人士可改用其他道路。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-04-09T00:42:48",
+        "last_announcement": "2024-04-09T00:31:00"
     }
 }
