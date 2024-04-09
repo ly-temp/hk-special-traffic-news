@@ -1,43 +1,4 @@
 {
-    "IN-24-01827": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Pak Tai Street",
-            "LOCATION_CN": "北帝街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mok Cheong Street",
-            "DIRECTION_CN": "木廠街",
-            "NEAR_LANDMARK_EN": "Ma Tau Kok Road",
-            "NEAR_LANDMARK_CN": "馬頭角道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-04T16:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94903",
-                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Pak Tai Street (Mok Cheong Street bound) near Ma Tau Kok Road is closed to all traffic. Only remaining lane is available to motorists. Vehicles exceeding 7 metres making right turning from Ma Tau Kok Road onto Pak Tai Street are also prohibited. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，北帝街(往木廠街方向)近馬頭角道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 七米以下的車輛亦禁止由馬頭角道右轉入北帝街。 現時上址交通繁忙。"
-            },
-            "2024-04-06T13:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "94974",
-                "CONTENT_EN": "The slow lane of Pak Tai Street (Mok Cheong Street bound) near Ma Tau Kok Road which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的北帝街(往木廠街方向)近馬頭角道的慢線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-04-06T13:59:05",
-        "last_announcement": "2024-04-06T13:45:00"
-    },
     "IN-24-01861": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
