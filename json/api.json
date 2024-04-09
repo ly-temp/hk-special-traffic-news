@@ -1550,5 +1550,69 @@
         "district": "屯門區",
         "last_update": "2024-04-09T17:50:09",
         "last_announcement": "2024-04-09T17:45:00"
+    },
+    "IN-24-01907": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Tunnel Road",
+            "LOCATION_CN": "將軍澳隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Serenity Place",
+            "NEAR_LANDMARK_CN": "怡心園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-09T17:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95090",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Tunnel Road (Kwun Tong bound) near Serenity Place is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，將軍澳隧道公路(往觀塘方向)近怡心園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-04-09T18:24:32",
+        "last_announcement": "2024-04-09T17:58:00"
+    },
+    "IN-24-01908": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "A Kung Kok Street",
+            "LOCATION_CN": "亞公角街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Shatin Hospital",
+            "NEAR_LANDMARK_CN": "沙田醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-09T18:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95092",
+                "CONTENT_EN": "Due to traffic accident , all lanes of A Kung Kok Street (both bounds) near Shatin Hospital are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，亞公角街(來回方向)近沙田醫院的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-09T18:24:32",
+        "last_announcement": "2024-04-09T18:18:00"
     }
 }
