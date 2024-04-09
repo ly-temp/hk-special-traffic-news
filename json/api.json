@@ -1621,5 +1621,69 @@
         "district": "沙田區",
         "last_update": "2024-04-09T18:36:51",
         "last_announcement": "2024-04-09T18:23:00"
+    },
+    "IN-24-01909": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Tuen Mun Heung Sze Wui Road",
+            "NEAR_LANDMARK_CN": "屯門鄉事會路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-09T18:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95094",
+                "CONTENT_EN": "Tuen Mun Road (Yuen Long bound) near Tuen Mun Heung Sze Wui Road is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "屯門公路(往元朗方向)近屯門鄉事會路的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-04-09T19:12:55",
+        "last_announcement": "2024-04-09T18:58:00"
+    },
+    "IN-24-01906": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Ching Hong Road",
+            "LOCATION_CN": "青康路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsing Yi Road West",
+            "DIRECTION_CN": "青衣西路",
+            "NEAR_LANDMARK_EN": "Ching Shing Court",
+            "NEAR_LANDMARK_CN": "青盛苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-09T19:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95095",
+                "CONTENT_EN": "Part of the lanes of Ching Hong Road (Tsing Yi Road West bound) near Ching Shing Court which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青康路(往青衣西路方向)近青盛苑的部份行車線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-04-09T19:12:55",
+        "last_announcement": "2024-04-09T19:06:00"
     }
 }
