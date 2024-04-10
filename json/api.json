@@ -1768,11 +1768,18 @@
                 "ID": "95110",
                 "CONTENT_EN": "Because of a fire near the station, Entrance/Exit B1 in Jordan Station is temporarily closed. Please use other Entrances/Exits.",
                 "CONTENT_CN": "由於站外發生火警，佐敦站B1出入口暫時關閉，請使用其他出入口。"
+            },
+            "2024-04-11T06:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95153",
+                "CONTENT_EN": "Because of Police action near the station, Entrance/Exit B1 in Jordan Station is temporarily closed. Please use other Entrances/Exits.",
+                "CONTENT_CN": "為配合警方於站外的行動，佐敦站B1出入口暫時關閉，請使用其他出入口。"
             }
         },
         "district": null,
-        "last_update": "2024-04-10T09:10:56",
-        "last_announcement": "2024-04-10T08:40:00"
+        "last_update": "2024-04-11T06:30:22",
+        "last_announcement": "2024-04-11T06:00:00"
     },
     "IN-24-01919": {
         "description": {
