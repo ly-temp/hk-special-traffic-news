@@ -1,43 +1,4 @@
 {
-    "IN-24-01870": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kai Fuk Road Flyover",
-            "NEAR_LANDMARK_CN": "啓福道天橋",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-07T15:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "94999",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Fuk Road Flyover is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近啓福道天橋的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-07T15:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95000",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Fuk Road Flyover which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘道(往油塘方向)近啓福道天橋的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-04-07T15:38:54",
-        "last_announcement": "2024-04-07T15:29:00"
-    },
     "IN-24-01871": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1800,11 +1761,18 @@
                 "ID": "95131",
                 "CONTENT_EN": "Due to fire , part of lanes of Jordan Road (Hung Hom bound) near Nathan Road are still being closed to all traffic. \nOnly the fast lane is available to motorists. All lanes of Nathan Road (Tsim Sha Tsui bound) between Gascoigne Road and Jordan Road are also still closed to all traffic. Police may also implement other temporary traffic arrangement in the affected area when necessary. \n\nAffected KMB and CTB bus routes have resumed original routeings. \n\nService of KMB which was travelling via the above road sections has gradually resumed normal.   Traffic is busy now.",
                 "CONTENT_CN": "因火警，佐敦道(往紅磡方向)近彌敦道的部份仍然封閉。\n駕駛人士只可使用快線行車。彌敦道(往尖沙咀方向)介乎加士居道與佐敦道之間的全線亦仍然封閉。警方在有需要時在受影響地區實施其他臨時交通安排。\n\n受影響九巴及城巴路線現已恢復原有路線行駛。\n較早前途經上述路段而受影響的九巴服務已陸續回復正常。  現時上址交通繁忙。"
+            },
+            "2024-04-10T15:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95132",
+                "CONTENT_EN": "Due to fire , part of lanes of Jordan Road (Hung Hom bound) near Nathan Road and the slow lane of Nathan Road (Tsim Sha Tsui bound) between Gascoigne Road and Jordan Road are still closed to all traffic. Bus service which was travelling via the above road sections will gradually resume normal. Traffic is busy now.",
+                "CONTENT_CN": "因火警，佐敦道(往紅磡方向)近彌敦道的部份行車線及彌敦道(往尖沙咀方向)介乎加士居道與佐敦道之間的慢線仍然封閉。 較早前途經上述路段而受影響的巴士服務將陸續回復正常。 現時上址交通繁忙。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-04-10T15:37:22",
-        "last_announcement": "2024-04-10T15:14:00"
+        "last_update": "2024-04-10T15:47:46",
+        "last_announcement": "2024-04-10T15:32:00"
     },
     "IN-24-01917": {
         "description": {
