@@ -1,43 +1,4 @@
 {
-    "IN-24-01872": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Davis Street",
-            "LOCATION_CN": "爹核士街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Catchick Street",
-            "NEAR_LANDMARK_CN": "吉席街",
-            "BETWEEN_LANDMARK_EN": "New Praya, Kennedy Town",
-            "BETWEEN_LANDMARK_CN": "堅彌地城新海旁",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-07T20:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95003",
-                "CONTENT_EN": "Due to emergency incident , all lanes of Davis Street  between Catchick Street and New Praya, Kennedy Town is closed to all traffic. Traffic is busy now.",
-                "CONTENT_CN": "因突發事件，爹核士街介乎吉席街與堅彌地城新海旁之間的全線現已封閉。 現時上址交通繁忙。"
-            },
-            "2024-04-07T20:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95004",
-                "CONTENT_EN": "All lanes of Davis Street  between Catchick Street and New Praya, Kennedy Town which was closed due to emergency incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因突發事件而封閉的爹核士街介乎吉席街與堅彌地城新海旁之間的全線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-04-07T21:14:42",
-        "last_announcement": "2024-04-07T20:59:00"
-    },
     "IN-24-01873": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2273,5 +2234,37 @@
         "district": "中西區",
         "last_update": "2024-04-10T19:57:06",
         "last_announcement": "2024-04-10T19:37:00"
+    },
+    "IN-24-01930": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Hing Tin Estate",
+            "NEAR_LANDMARK_CN": "興田邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-10T21:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95149",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tseung Kwan O Road (Kwun Tong bound) near Hing Tin Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，將軍澳道(往觀塘方向)近興田邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-10T21:21:45",
+        "last_announcement": "2024-04-10T21:06:00"
     }
 }
