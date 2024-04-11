@@ -2478,5 +2478,37 @@
         "district": "屯門區",
         "last_update": "2024-04-11T20:40:07",
         "last_announcement": "2024-04-11T20:12:00"
+    },
+    "IN-24-01949": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Passenger Fell On Track",
+            "INCIDENT_DETAIL_CN": "乘客墮軌",
+            "LOCATION_EN": "East Rail Line and East Rail Line Service Disruption",
+            "LOCATION_CN": "東鐵綫及東鐵綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-11T23:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95208",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Train service disruption on the East Rail Line due to a person on the track at Sheung Shui Station. \n\nEast Rail Line service changes:\nAdmiralty Station - Fanling Station: 10-minute intervals\nFanling Station - Lo Wu Station and Lok Ma Chau Station: Suspended\n\nA free MTR shuttle bus service is being arranged.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於有人進入上水站路軌範圍，東鐵綫列車服務受阻。\n\n東鐵綫服務更改如下:\n⾦鐘站-粉嶺站:每10分鐘⼀班\n粉嶺站-羅湖站及落⾺洲站:暫停服務\n\n港鐵免費接駁巴⼠將於稍後時間到達。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-04-11T23:39:34",
+        "last_announcement": "2024-04-11T23:24:00"
     }
 }
