@@ -1,82 +1,4 @@
 {
-    "IN-24-01873": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lai Cheung Road",
-            "LOCATION_CN": "麗翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Waterloo Road",
-            "DIRECTION_CN": "窩打老道",
-            "NEAR_LANDMARK_EN": "Hau Cheung Street",
-            "NEAR_LANDMARK_CN": "巧翔街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-08T07:43:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95005",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lai Cheung Road (Waterloo Road bound) near Hau Cheung Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，麗翔道(往窩打老道方向)近巧翔街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-08T07:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95006",
-                "CONTENT_EN": "Part of the lanes of Lai Cheung Road (Waterloo Road bound) near Hau Cheung Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的麗翔道(往窩打老道方向)近巧翔街的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-04-08T09:16:18",
-        "last_announcement": "2024-04-08T07:57:00"
-    },
-    "IN-24-01874": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Tin Ma Court",
-            "NEAR_LANDMARK_CN": "天馬苑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-08T08:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95007",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近天馬苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-08T08:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95009",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近天馬苑的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-04-08T09:16:18",
-        "last_announcement": "2024-04-08T08:36:00"
-    },
     "IN-24-01876": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2333,5 +2255,76 @@
         "district": "觀塘區",
         "last_update": "2024-04-11T08:47:34",
         "last_announcement": "2024-04-11T07:57:00"
+    },
+    "IN-24-01932": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Magic Road",
+            "LOCATION_CN": "神奇道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Disneyland Resort",
+            "DIRECTION_CN": "迪士尼",
+            "NEAR_LANDMARK_EN": "Penny's Bay Highway",
+            "NEAR_LANDMARK_CN": "竹篙灣公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-11T08:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95156",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Magic Road (Disneyland Resort bound) near Penny's Bay Highway is closed to all traffic.   Motorists are advised to use alternative routes. Citizens travelling to Disney please consider using other public transport services, such as MTR services.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，神奇道(往迪士尼方向)近竹篙灣公路的全線現已封閉。  駕駛人士請考慮改用其他道路。前往迪士尼的市民請考慮使用其他公共交通服務，例如港鐵服務。  現時上址交通繁忙。"
+            },
+            "2024-04-11T09:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95158",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Magic Road (Disneyland Resort bound) near Penny's Bay Highway is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，神奇道(往迪士尼方向)近竹篙灣公路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-04-11T09:39:58",
+        "last_announcement": "2024-04-11T09:16:00"
+    },
+    "IN-24-01933": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Long Tin Road",
+            "LOCATION_CN": "朗天路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tong Yan San Tsuen",
+            "DIRECTION_CN": "唐人新村",
+            "NEAR_LANDMARK_EN": "Yuen Long Park",
+            "NEAR_LANDMARK_CN": "元朗公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-11T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95159",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Long Tin Road (Tong Yan San Tsuen bound) near Yuen Long Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，朗天路(往唐人新村方向)近元朗公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-04-11T09:39:58",
+        "last_announcement": "2024-04-11T09:20:00"
     }
 }
