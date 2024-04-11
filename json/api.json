@@ -1,43 +1,4 @@
 {
-    "IN-24-01884": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road Central Underpass",
-            "LOCATION_CN": "干諾道中下行車道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Wan",
-            "DIRECTION_CN": "上環",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-08T17:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95033",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Connaught Road Central Underpass (Sheung Wan bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，干諾道中下行車道(往上環方向)的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-08T17:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95034",
-                "CONTENT_EN": "The fast lane of Connaught Road Central Underpass (Sheung Wan bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中下行車道(往上環方向)的快線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-04-08T17:40:21",
-        "last_announcement": "2024-04-08T17:29:00"
-    },
     "IN-24-01885": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2349,11 +2310,18 @@
                 "ID": "95184",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is closed to all traffic. Citizens please take note KMB's service travelling via Yuen Long Highway has been affected, citizens please consider using other public transport services, such as MTR services. Only remaining lane is available to motorists. Traffic queue on Yuen Long Highway (Tuen Mun bound) ends at San Tin Highway near San Tin Interchange. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線現已封閉。 市民請留意九巴途經元朗公路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往屯門方向)的車龍龍尾已到新田公路近新田交匯處。 現時上址交通擠塞。"
+            },
+            "2024-04-11T17:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95186",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is still being closed to all traffic. \nOnly remaining lane is available to motorists. \nCitizens please take note KMB's service travelling via Yuen Long Highway has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic queue on Yuen Long Highway (Tuen Mun bound) ends at Fanling Highway near Kwu Tung.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。\n市民請留意九巴途經元朗公路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時在元朗公路(往屯門方向)的車龍龍尾已到粉嶺公路近古洞。  現時上址交通擠塞。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-04-11T17:38:30",
-        "last_announcement": "2024-04-11T17:25:00"
+        "last_update": "2024-04-11T17:48:31",
+        "last_announcement": "2024-04-11T17:34:00"
     },
     "IN-24-01942": {
         "description": {
