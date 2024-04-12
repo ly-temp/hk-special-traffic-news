@@ -91,38 +91,6 @@
         "last_update": "2024-04-09T20:46:44",
         "last_announcement": "2024-04-09T20:22:00"
     },
-    "IN-24-01906": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Hong Road",
-            "LOCATION_CN": "青康路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsing Yi Road West",
-            "DIRECTION_CN": "青衣西路",
-            "NEAR_LANDMARK_EN": "Ching Shing Court",
-            "NEAR_LANDMARK_CN": "青盛苑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-09T19:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95095",
-                "CONTENT_EN": "Part of the lanes of Ching Hong Road (Tsing Yi Road West bound) near Ching Shing Court which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青康路(往青衣西路方向)近青盛苑的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-04-09T19:12:55",
-        "last_announcement": "2024-04-09T19:06:00"
-    },
     "IN-24-01910": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2735,10 +2703,17 @@
                 "ID": "95270",
                 "CONTENT_EN": "Due to road incident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Rural Committee Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因道路事故，大埔公路　–　沙田段(往九龍方向)近沙田鄉事會路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-12T19:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95271",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Rural Committee Road which was closed due to road incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路事故而封閉的大埔公路　–　沙田段(往九龍方向)近沙田鄉事會路的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-04-12T19:08:09",
-        "last_announcement": "2024-04-12T18:58:00"
+        "last_update": "2024-04-12T19:21:20",
+        "last_announcement": "2024-04-12T19:05:00"
     }
 }
