@@ -1,43 +1,4 @@
 {
-    "IN-24-01891": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tung Chung Road",
-            "LOCATION_CN": "東涌道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Shek Mun Kap Road",
-            "NEAR_LANDMARK_CN": "石門甲道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-09T07:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95057",
-                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Tung Chung Road near Shek Mun Kap Road. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東涌道近石門甲道現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-04-09T10:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95071",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tung Chung Road near Shek Mun Kap Road due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於東涌道近石門甲道實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-04-09T10:24:53",
-        "last_announcement": "2024-04-09T10:06:00"
-    },
     "IN-24-01898": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2469,11 +2430,18 @@
                 "ID": "95227",
                 "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Diamond Hill MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近鑽石山港鐵站的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-12T10:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95233",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Diamond Hill MTR Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Kwun Tong Road near Kai Yip Estate. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近鑽石山港鐵站的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到觀塘道近啟業邨。 現時上址交通擠塞。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-04-12T09:34:20",
-        "last_announcement": "2024-04-12T09:23:00"
+        "last_update": "2024-04-12T10:32:22",
+        "last_announcement": "2024-04-12T10:03:00"
     },
     "IN-24-01957": {
         "description": {
@@ -2545,5 +2513,37 @@
         "district": "觀塘區",
         "last_update": "2024-04-12T10:08:32",
         "last_announcement": "2024-04-12T09:44:00"
+    },
+    "IN-24-01958": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Choi Hung Estate",
+            "NEAR_LANDMARK_CN": "彩虹邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-12T10:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95234",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Choi Hung Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近彩虹邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-04-12T10:32:22",
+        "last_announcement": "2024-04-12T10:26:00"
     }
 }
