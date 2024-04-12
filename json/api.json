@@ -2554,11 +2554,18 @@
                 "ID": "95255",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Morrison Hill Road (Happy Valley bound) near Sports Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Vehicles cannot enter Morrison Hill Road via Sports Road.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，摩理臣山道(往跑馬地方向)近體育道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  車輛不能沿摩理臣山道前往體育道。  現時上址交通繁忙。"
+            },
+            "2024-04-12T18:23:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "95263",
+                "CONTENT_EN": "Part of the lanes of Morrison Hill Road (Happy Valley bound) near Sports Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的摩理臣山道(往跑馬地方向)近體育道的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-04-12T17:26:14",
-        "last_announcement": "2024-04-12T17:13:00"
+        "last_update": "2024-04-12T18:51:39",
+        "last_announcement": "2024-04-12T18:23:00"
     },
     "IN-24-01968": {
         "description": {
@@ -2655,5 +2662,37 @@
         "district": "九龍城區",
         "last_update": "2024-04-12T18:41:32",
         "last_announcement": "2024-04-12T18:30:00"
+    },
+    "IN-24-01972": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "Fat Kwong Street",
+            "NEAR_LANDMARK_CN": "佛光街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-12T18:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95266",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Fat Kwong Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道北(往油麻地方向)近佛光街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-04-12T18:51:39",
+        "last_announcement": "2024-04-12T18:35:00"
     }
 }
