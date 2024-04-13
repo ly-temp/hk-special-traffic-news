@@ -52,45 +52,6 @@
         "last_update": "2024-04-11T20:55:32",
         "last_announcement": "2024-04-11T20:43:00"
     },
-    "IN-24-01918": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Jordan Station access arrangements",
-            "INCIDENT_DETAIL_CN": "佐敦站進出安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-10T08:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95110",
-                "CONTENT_EN": "Because of a fire near the station, Entrance/Exit B1 in Jordan Station is temporarily closed. Please use other Entrances/Exits.",
-                "CONTENT_CN": "由於站外發生火警，佐敦站B1出入口暫時關閉，請使用其他出入口。"
-            },
-            "2024-04-11T06:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95153",
-                "CONTENT_EN": "Because of Police action near the station, Entrance/Exit B1 in Jordan Station is temporarily closed. Please use other Entrances/Exits.",
-                "CONTENT_CN": "為配合警方於站外的行動，佐敦站B1出入口暫時關閉，請使用其他出入口。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-04-11T06:30:22",
-        "last_announcement": "2024-04-11T06:00:00"
-    },
     "IN-24-01931": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
