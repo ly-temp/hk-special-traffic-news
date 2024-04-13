@@ -52,45 +52,6 @@
         "last_update": "2024-04-11T20:55:32",
         "last_announcement": "2024-04-11T20:43:00"
     },
-    "IN-24-01914": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Man Po Street",
-            "LOCATION_CN": "民寶街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Central Pier",
-            "NEAR_LANDMARK_CN": "中環碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-10T08:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95105",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Man Po Street (Central bound) near Central Pier is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，民寶街(往中環方向)近中環碼頭的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-10T11:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95127",
-                "CONTENT_EN": "The slow lane of Man Po Street (Central bound) near Central Pier which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的民寶街(往中環方向)近中環碼頭的慢線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-04-10T11:21:10",
-        "last_announcement": "2024-04-10T11:02:00"
-    },
     "IN-24-01916": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2658,5 +2619,37 @@
         "district": "深水埗區",
         "last_update": "2024-04-13T11:20:39",
         "last_announcement": "2024-04-13T11:08:00"
+    },
+    "IN-24-01981": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Po Shek Wu Road",
+            "LOCATION_CN": "寶石湖路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Fanling Highway",
+            "DIRECTION_CN": "粉嶺公路",
+            "NEAR_LANDMARK_EN": "Choi Yuen Road",
+            "NEAR_LANDMARK_CN": "彩園路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-13T11:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95287",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Shek Wu Road (Fanling Highway bound) near Choi Yuen Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，寶石湖路(往粉嶺公路方向)近彩園路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-04-13T11:30:57",
+        "last_announcement": "2024-04-13T11:19:00"
     }
 }
