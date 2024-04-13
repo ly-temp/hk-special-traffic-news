@@ -186,45 +186,6 @@
         "last_update": "2024-04-11T06:30:22",
         "last_announcement": "2024-04-11T06:00:00"
     },
-    "IN-24-01927": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Magazine Gap Road",
-            "LOCATION_CN": "馬己仙峽道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "uphill",
-            "DIRECTION_CN": "上山",
-            "NEAR_LANDMARK_EN": "Estoril Court",
-            "NEAR_LANDMARK_CN": "愛都大廈",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-10T18:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95142",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Magazine Gap Road (uphill bound) near Estoril Court is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，馬己仙峽道(上山方向)近愛都大廈的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-04-10T18:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95143",
-                "CONTENT_EN": "Part of the lanes of Magazine Gap Road (uphill bound) near Estoril Court which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的馬己仙峽道(上山方向)近愛都大廈的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-04-10T18:57:09",
-        "last_announcement": "2024-04-10T18:45:00"
-    },
     "IN-24-01928": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
