@@ -186,45 +186,6 @@
         "last_update": "2024-04-11T06:30:22",
         "last_announcement": "2024-04-11T06:00:00"
     },
-    "IN-24-01930": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Hing Tin Estate",
-            "NEAR_LANDMARK_CN": "興田邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-10T21:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95149",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tseung Kwan O Road (Kwun Tong bound) near Hing Tin Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，將軍澳道(往觀塘方向)近興田邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-10T21:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95150",
-                "CONTENT_EN": "The slow lane of Tseung Kwan O Road (Kwun Tong bound) near Hing Tin Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳道(往觀塘方向)近興田邨的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-04-10T21:31:56",
-        "last_announcement": "2024-04-10T21:23:00"
-    },
     "IN-24-01931": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
