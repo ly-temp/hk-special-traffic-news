@@ -186,45 +186,6 @@
         "last_update": "2024-04-11T06:30:22",
         "last_announcement": "2024-04-11T06:00:00"
     },
-    "IN-24-01926": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Castle Peak Road - Tsuen Wan",
-            "LOCATION_CN": "青山公路　–　荃灣段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Chai Wan Kok Cooked Food Market",
-            "NEAR_LANDMARK_CN": "柴灣角熟食市場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-10T18:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95139",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Castle Peak Road - Tsuen Wan Roundabout  near Chai Wan Kok Cooked Food Market is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青山公路　–　荃灣段迴旋處近柴灣角熟食市場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-10T18:26:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95141",
-                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Tsuen Wan Roundabout  near Chai Wan Kok Cooked Food Market which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　荃灣段迴旋處近柴灣角熟食市場的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-04-10T18:47:07",
-        "last_announcement": "2024-04-10T18:26:00"
-    },
     "IN-24-01927": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
