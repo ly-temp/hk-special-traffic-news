@@ -239,38 +239,6 @@
         "last_update": "2024-04-10T11:51:28",
         "last_announcement": "2024-04-10T11:35:00"
     },
-    "IN-24-01915": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Shau Kei Wan Road",
-            "LOCATION_CN": "筲箕灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "Aldrich Bay Road",
-            "NEAR_LANDMARK_CN": "愛秩序灣道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-10T10:12:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95125",
-                "CONTENT_EN": "Part of the lanes of Shau Kei Wan Road (Chai Wan bound) near Aldrich Bay Road which was closed due to fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因火警而封閉的筲箕灣道(往柴灣方向)近愛秩序灣道的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-04-10T11:31:27",
-        "last_announcement": "2024-04-10T10:12:00"
-    },
     "IN-24-01923": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2582,11 +2550,18 @@
                 "ID": "95285",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Kak Tin Village is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Sha Tin Road near City One Shatin. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近隔田村的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到沙田路近沙田第一城。 現時上址交通擠塞。"
+            },
+            "2024-04-13T11:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95288",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Kak Tin Village is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queues on Lion Rock Tunnel Road (Kowloon bound) ends at Sha Tin Road near Hong Kong Institute Of Vocational Education (Sha Tin) and Sha Lek Highway near Yu Chui Court. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近隔田村的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到沙田路近香港專業教育學院（沙田分校）及沙瀝公路近愉翠苑。 現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-04-13T11:10:37",
-        "last_announcement": "2024-04-13T10:43:00"
+        "last_update": "2024-04-13T11:40:54",
+        "last_announcement": "2024-04-13T11:26:00"
     },
     "IN-24-01980": {
         "description": {
