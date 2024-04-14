@@ -52,91 +52,6 @@
         "last_update": "2024-04-11T20:55:32",
         "last_announcement": "2024-04-11T20:43:00"
     },
-    "IN-24-01932": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Magic Road",
-            "LOCATION_CN": "神奇道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Disneyland Resort",
-            "DIRECTION_CN": "迪士尼",
-            "NEAR_LANDMARK_EN": "Penny's Bay Highway",
-            "NEAR_LANDMARK_CN": "竹篙灣公路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T08:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95156",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Magic Road (Disneyland Resort bound) near Penny's Bay Highway is closed to all traffic.   Motorists are advised to use alternative routes. Citizens travelling to Disney please consider using other public transport services, such as MTR services.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，神奇道(往迪士尼方向)近竹篙灣公路的全線現已封閉。  駕駛人士請考慮改用其他道路。前往迪士尼的市民請考慮使用其他公共交通服務，例如港鐵服務。  現時上址交通繁忙。"
-            },
-            "2024-04-11T09:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95158",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Magic Road (Disneyland Resort bound) near Penny's Bay Highway is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，神奇道(往迪士尼方向)近竹篙灣公路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T10:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95162",
-                "CONTENT_EN": "Part of the lanes of Magic Road (Disneyland Resort bound) near Penny's Bay Highway which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的神奇道(往迪士尼方向)近竹篙灣公路的部份行車線現已解封。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-04-11T10:32:51",
-        "last_announcement": "2024-04-11T10:15:00"
-    },
-    "IN-24-01934": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road West",
-            "LOCATION_CN": "太子道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Kadoorie Avenue",
-            "NEAR_LANDMARK_CN": "嘉道理道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T10:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95161",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near Kadoorie Avenue is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，太子道西(往大角咀方向)近嘉道理道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T10:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95163",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near Kadoorie Avenue which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道西(往大角咀方向)近嘉道理道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-04-11T10:53:07",
-        "last_announcement": "2024-04-11T10:41:00"
-    },
     "IN-24-01935": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2324,11 +2239,18 @@
                 "ID": "95305",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Po Shek Wu Road (Man Kam To Road bound) near Choi Po Court are still being closed to all traffic. The only lane of the slip road leading from Fanling Highway (Sheung Shui bound) to Po Shek Wu Road is also closed. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，寶石湖路(往文錦渡路方向)近彩蒲苑的全線仍然封閉。 粉嶺公路(往上水方向)通往寶石湖路支路的唯一行車線亦已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-04-14T10:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95307",
+                "CONTENT_EN": "All lanes of Po Shek Wu Road (Man Kam To Road bound) near Choi Po Court which were closed due to traffic accident are re-opened to all traffic. The only lane of the slip road leading from Fanling Highway (Sheung Shui bound) to Po Shek Wu Road is also re-opened.",
+                "CONTENT_CN": "較早前因交通意外而封閉的寶石湖路(往文錦渡路方向)近彩蒲苑的全線現已解封。 粉嶺公路(往上水方向)通往寶石湖路支路的唯一行車線亦已解封。"
             }
         },
         "district": "北區",
-        "last_update": "2024-04-14T10:27:10",
-        "last_announcement": "2024-04-14T09:30:00"
+        "last_update": "2024-04-14T11:44:22",
+        "last_announcement": "2024-04-14T10:47:00"
     },
     "IN-24-01989": {
         "description": {
@@ -2361,5 +2283,37 @@
         "district": "九龍城區",
         "last_update": "2024-04-14T10:27:10",
         "last_announcement": "2024-04-14T09:50:00"
+    },
+    "IN-24-01990": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Ngau Tau Kok MTR Station",
+            "NEAR_LANDMARK_CN": "牛頭角港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-14T11:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95308",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Yau Tong bound) near Ngau Tau Kok MTR Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近牛頭角港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-14T11:44:22",
+        "last_announcement": "2024-04-14T11:05:00"
     }
 }
