@@ -1,57 +1,4 @@
 {
-    "IN-24-01949": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Passenger Fell On Track",
-            "INCIDENT_DETAIL_CN": "乘客墮軌",
-            "LOCATION_EN": "East Rail Line and East Rail Line Service Disruption",
-            "LOCATION_CN": "東鐵綫及東鐵綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T23:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95208",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Train service disruption on the East Rail Line due to a person on the track at Sheung Shui Station. \n\nEast Rail Line service changes:\nAdmiralty Station - Fanling Station: 10-minute intervals\nFanling Station - Lo Wu Station and Lok Ma Chau Station: Suspended\n\nA free MTR shuttle bus service is being arranged.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於有人進入上水站路軌範圍，東鐵綫列車服務受阻。\n\n東鐵綫服務更改如下:\n⾦鐘站-粉嶺站:每10分鐘⼀班\n粉嶺站-羅湖站及落⾺洲站:暫停服務\n\n港鐵免費接駁巴⼠將於稍後時間到達。"
-            },
-            "2024-04-11T23:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95209",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Train service disruption on the East Rail Line due to a person on the track at Sheung Shui Station. East Rail Line service changes: Admiralty Station - Fanling Station: 10-minute intervals Fanling Station - Lo Wu Station and Lok Ma Chau Station: Suspended A Free MTR shuttle bus service between Fanling Station and Lo Wu Station / Lok Ma Chau Station, is now operating. Please consider using other transport.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 由於有人進入上水站路軌範圍，東鐵綫列車服務受阻。 東鐵綫服務更改如下: 金鐘站-粉嶺站:每10分鐘一班 粉嶺站-羅湖站及落馬洲站:暫停服務 港鐵正提供免費接駁巴士，來往粉嶺站和羅湖站/ 落馬洲站；請考慮使用其他交通工具。"
-            },
-            "2024-04-11T23:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95210",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Train service disruption on the East Rail Line due to a person on the track at Sheung Shui Station. East Rail Line service changes: Admiralty Station - Fanling Station: 10-minute intervals Fanling Station - Lo Wu Station: Suspended A Free MTR shuttle bus service between Fanling Station and Lo Wu Station is now operating. Please consider using other transport.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 由於有人進入上水站路軌範圍，東鐵綫列車服務受阻。 東鐵綫服務更改如下: 金鐘站-粉嶺站:每10分鐘一班 粉嶺站-羅湖站:暫停服務 港鐵正提供免費接駁巴士，來往粉嶺站和羅湖站；請考慮使用其他交通工具。"
-            },
-            "2024-04-12T00:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95212",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The incident on the East Rail Line at Sheung Shui Station has been handled. Normal train service is gradually resuming.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 在上水站有人進入路軌範圍的事故已妥善處理，東鐵綫列車服務逐步回復正常。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-12T00:21:56",
-        "last_announcement": "2024-04-12T00:07:00"
-    },
     "IN-24-01950": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1862,5 +1809,37 @@
         "district": "沙田區",
         "last_update": "2024-04-14T22:22:48",
         "last_announcement": "2024-04-14T20:54:00"
+    },
+    "IN-24-01996": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Tai Po Road",
+            "LOCATION_CN": "大埔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cheung Sha Wan",
+            "DIRECTION_CN": "長沙灣",
+            "NEAR_LANDMARK_EN": "Shek Kip Mei Street",
+            "NEAR_LANDMARK_CN": "石硤尾街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-15T02:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95324",
+                "CONTENT_EN": "Due to watermain burst , the slow lane of Tai Po Road (Cheung Sha Wan bound) near Shek Kip Mei Street is closed to all traffic. Only the fast lane is available to motorists.",
+                "CONTENT_CN": "因水管爆裂，大埔道(往長沙灣方向)近石硤尾街的慢線現已封閉。 駕駛人士只可使用快線行車。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-04-15T06:13:58",
+        "last_announcement": "2024-04-15T02:29:00"
     }
 }
