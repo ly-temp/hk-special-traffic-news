@@ -52,84 +52,6 @@
         "last_update": "2024-04-11T20:55:32",
         "last_announcement": "2024-04-11T20:43:00"
     },
-    "IN-24-01939": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Nathan Road",
-            "LOCATION_CN": "彌敦道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Gascoigne Road",
-            "NEAR_LANDMARK_CN": "加士居道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T15:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95172",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Nathan Road (Tsim Sha Tsui bound) near Gascoigne Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，彌敦道(往尖沙咀方向)近加士居道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T16:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95177",
-                "CONTENT_EN": "Part of the lanes of Nathan Road (Tsim Sha Tsui bound) near Gascoigne Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的彌敦道(往尖沙咀方向)近加士居道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-04-11T16:24:49",
-        "last_announcement": "2024-04-11T16:15:00"
-    },
-    "IN-24-01940": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O Tunnel",
-            "DIRECTION_CN": "將軍澳隧道",
-            "NEAR_LANDMARK_EN": "Hing Tin Estate",
-            "NEAR_LANDMARK_CN": "興田邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T15:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95173",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，將軍澳道(往將軍澳隧道方向)近興田邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T15:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95174",
-                "CONTENT_EN": "The slow lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳道(往將軍澳隧道方向)近興田邨的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-04-11T15:58:28",
-        "last_announcement": "2024-04-11T15:38:00"
-    },
     "IN-24-01941": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -245,123 +167,6 @@
         "district": "元朗區",
         "last_update": "2024-04-11T20:10:36",
         "last_announcement": "2024-04-11T19:46:00"
-    },
-    "IN-24-01942": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wong Chu Road",
-            "LOCATION_CN": "皇珠路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun Road",
-            "DIRECTION_CN": "屯門公路",
-            "NEAR_LANDMARK_EN": "Yau Oi Estate",
-            "NEAR_LANDMARK_CN": "友愛邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T16:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95178",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，皇珠路(往屯門公路方向)近友愛邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T16:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95180",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Wong Chu Road (Tuen Mun Road bound) ends at Lung Fu Road near Tuen Mun Public Riding School. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，皇珠路(往屯門公路方向)近友愛邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在皇珠路(往屯門公路方向)的車龍龍尾已到龍富路近屯門公眾騎術學校。 現時上址交通擠塞。"
-            },
-            "2024-04-11T18:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95193",
-                "CONTENT_EN": "Part of the lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的皇珠路(往屯門公路方向)近友愛邨的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-11T18:32:59",
-        "last_announcement": "2024-04-11T18:18:00"
-    },
-    "IN-24-01944": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sha Tin Racecourse",
-            "NEAR_LANDMARK_CN": "沙田馬場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T17:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95189",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近沙田馬場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T18:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95192",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近沙田馬場的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-04-11T18:32:59",
-        "last_announcement": "2024-04-11T18:10:00"
-    },
-    "IN-24-01943": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Salisbury Road",
-            "LOCATION_CN": "梳士巴利道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Star Ferry Pier",
-            "DIRECTION_CN": "天星碼頭",
-            "NEAR_LANDMARK_EN": "Nathan Road",
-            "NEAR_LANDMARK_CN": "彌敦道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T18:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95190",
-                "CONTENT_EN": "Part of the lanes of Salisbury Road (Star Ferry Pier bound) near Nathan Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的梳士巴利道(往天星碼頭方向)近彌敦道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-04-11T18:20:54",
-        "last_announcement": "2024-04-11T18:04:00"
     },
     "IN-24-01945": {
         "description": {
@@ -2122,11 +1927,18 @@
                 "ID": "95306",
                 "CONTENT_EN": "Due to emergency repair of road surface , the fast lane of East Kowloon Way (Yau Ma Tei bound) near San Lau Street is closed to all traffic. Only the slow lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因緊急路面維修，東九龍走廊(往油麻地方向)近新柳街的快線現已封閉。 駕駛人士只可使用慢線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-14T17:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95313",
+                "CONTENT_EN": "The fast lane of East Kowloon Way (Yau Ma Tei bound) near San Lau Street which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的東九龍走廊(往油麻地方向)近新柳街的快線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-04-14T10:27:10",
-        "last_announcement": "2024-04-14T09:50:00"
+        "last_update": "2024-04-14T18:40:33",
+        "last_announcement": "2024-04-14T17:19:00"
     },
     "IN-24-01990": {
         "description": {
@@ -2205,5 +2017,83 @@
         "district": "黃大仙區",
         "last_update": "2024-04-14T12:54:20",
         "last_announcement": "2024-04-14T12:30:00"
+    },
+    "IN-24-01992": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Belcher's Street",
+            "LOCATION_CN": "卑路乍街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Victoria Road",
+            "DIRECTION_CN": "域多利道",
+            "NEAR_LANDMARK_EN": "Davis Street",
+            "NEAR_LANDMARK_CN": "爹核士街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-14T17:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95312",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Belcher's Street (Victoria Road bound) near Davis Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，卑路乍街(往域多利道方向)近爹核士街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-14T17:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95314",
+                "CONTENT_EN": "Part of the lanes of Belcher's Street (Victoria Road bound) near Davis Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的卑路乍街(往域多利道方向)近爹核士街的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-04-14T18:40:33",
+        "last_announcement": "2024-04-14T17:34:00"
+    },
+    "IN-24-01993": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Castle Peak Road - Castle Peak Bay",
+            "LOCATION_CN": "青山公路　–　青山灣段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hong Kong Gold Coast",
+            "NEAR_LANDMARK_CN": "香港黃金海岸",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-14T17:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95315",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Castle Peak Road - Castle Peak Bay (both bounds) near Hong Kong Gold Coast are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青山公路　–　青山灣段(來回方向)近香港黃金海岸的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-14T17:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95316",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Castle Peak Bay (both bounds) near Hong Kong Gold Coast which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　青山灣段(來回方向)近香港黃金海岸的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-04-14T18:40:33",
+        "last_announcement": "2024-04-14T17:56:00"
     }
 }
