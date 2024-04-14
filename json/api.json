@@ -52,45 +52,6 @@
         "last_update": "2024-04-11T20:55:32",
         "last_announcement": "2024-04-11T20:43:00"
     },
-    "IN-24-01931": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Laguna City",
-            "NEAR_LANDMARK_CN": "麗港城",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T07:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95154",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Mong Kok bound) near Laguna City is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近麗港城的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T07:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95155",
-                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Mong Kok bound) near Laguna City which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往旺角方向)近麗港城的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-04-11T08:47:34",
-        "last_announcement": "2024-04-11T07:57:00"
-    },
     "IN-24-01932": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -136,45 +97,6 @@
         "district": "離島區",
         "last_update": "2024-04-11T10:32:51",
         "last_announcement": "2024-04-11T10:15:00"
-    },
-    "IN-24-01933": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Long Tin Road",
-            "LOCATION_CN": "朗天路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tong Yan San Tsuen",
-            "DIRECTION_CN": "唐人新村",
-            "NEAR_LANDMARK_EN": "Yuen Long Park",
-            "NEAR_LANDMARK_CN": "元朗公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T09:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95159",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Long Tin Road (Tong Yan San Tsuen bound) near Yuen Long Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，朗天路(往唐人新村方向)近元朗公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T09:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95160",
-                "CONTENT_EN": "Part of the lanes of Long Tin Road (Tong Yan San Tsuen bound) near Yuen Long Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的朗天路(往唐人新村方向)近元朗公園的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-04-11T10:14:45",
-        "last_announcement": "2024-04-11T09:52:00"
     },
     "IN-24-01934": {
         "description": {
@@ -2368,5 +2290,76 @@
         "district": "灣仔區",
         "last_update": "2024-04-14T08:44:11",
         "last_announcement": "2024-04-14T08:04:00"
+    },
+    "IN-24-01988": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Po Shek Wu Road",
+            "LOCATION_CN": "寶石湖路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Man Kam To Road",
+            "DIRECTION_CN": "文錦渡路",
+            "NEAR_LANDMARK_EN": "Choi Po Court",
+            "NEAR_LANDMARK_CN": "彩蒲苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-14T09:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95304",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Po Shek Wu Road (Man Kam To Road bound) near Choi Po Court are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，寶石湖路(往文錦渡路方向)近彩蒲苑的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-04-14T09:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95305",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Po Shek Wu Road (Man Kam To Road bound) near Choi Po Court are still being closed to all traffic. The only lane of the slip road leading from Fanling Highway (Sheung Shui bound) to Po Shek Wu Road is also closed. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，寶石湖路(往文錦渡路方向)近彩蒲苑的全線仍然封閉。 粉嶺公路(往上水方向)通往寶石湖路支路的唯一行車線亦已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-04-14T10:27:10",
+        "last_announcement": "2024-04-14T09:30:00"
+    },
+    "IN-24-01989": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "East Kowloon Way",
+            "LOCATION_CN": "東九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "San Lau Street",
+            "NEAR_LANDMARK_CN": "新柳街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-14T09:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95306",
+                "CONTENT_EN": "Due to emergency repair of road surface , the fast lane of East Kowloon Way (Yau Ma Tei bound) near San Lau Street is closed to all traffic. Only the slow lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，東九龍走廊(往油麻地方向)近新柳街的快線現已封閉。 駕駛人士只可使用慢線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-04-14T10:27:10",
+        "last_announcement": "2024-04-14T09:50:00"
     }
 }
