@@ -1,322 +1,4 @@
 {
-    "IN-24-01904": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Hung Yuen Road",
-            "LOCATION_CN": "洪元路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-09T15:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95086",
-                "CONTENT_EN": "Due to fire, the following roads are closed to all traffic:\n- All lanes of Hung Yuen Road (both bounds) between Hung Chi Road and Hung Shui Kiu Tin Sam Road\n- Part of lanes of Hung Chi Road (both bounds) near Hung Yuen Road\n- Part of lanes of Hung Shui Kiu Tin Sam Road (both bounds) near Hung Yuen Road\n- All lanes of Hung Ping Road (both bounds)\n- All lanes of Hung Nga Road (both bounds).  Affected bus routes 276P and A34 have been diverted.   Motorists are advised to use alternative routes, and observe the instruction given by the Police.   Traffic is busy now.",
-                "CONTENT_CN": "因火警，以下路段現已封閉:\n-洪元路(來回方向)介乎洪志路與洪水橋田心路之間的全線\n-洪志路(來回方向)近洪元路的部分行車線\n-洪水橋田心路(來回方向)近洪元路的部分行車線\n-洪平路(來回方向)的全線\n-洪雅路(來回方向)的全線。  受影響巴士路線276P及A34須改道行駛。  駕駛人士請考慮改用其他道路, 並留意警務人員的指示。  現時上址交通繁忙。"
-            },
-            "2024-04-10T07:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95103",
-                "CONTENT_EN": "Due to fire, the following roads are closed to all traffic:\n- All lanes of Hung Yuen Road (both bounds) between Hung Chi Road and Hung Shui Kiu Tin Sam Road\n- Part of lanes of Hung Chi Road (both bounds) near Hung Yuen Road\n- Part of lanes of Hung Shui Kiu Tin Sam Road (both bounds) near Hung Yuen Road\n- All lanes of Hung Ping Road (both bounds)\n- All lanes of Hung Nga Road (both bounds).  Affected bus routes 276P, 269D, 960P, 960X and A34 have been diverted.   Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因火警，以下路段現已封閉:\n-洪元路(來回方向)介乎洪志路與洪水橋田心路之間的全線\n-洪志路(來回方向)近洪元路的部分行車線\n-洪水橋田心路(來回方向)近洪元路的部分行車線\n-洪平路(來回方向)的全線\n-洪雅路(來回方向)的全線。  受影響巴士路線276P, 269D, 960P, 960X及A34須改道行駛。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2024-04-10T22:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95151",
-                "CONTENT_EN": "The following roads which were closed due to fire are re-opened to all traffic:\n\n- Part of lanes of Hung Chi Road (both bounds) near Hung Yuen Road\n- Part of lanes of Hung Shui Kiu Tin Sam Road (both bounds) near Hung Yuen Road\n\nwhile the following roads are still being closed:\n- All lanes of Hung Yuen Road (both bounds) between Hung Chi Road and Hung Shui Kiu Tin Sam Road\n- All lanes of Hung Ping Road (both bounds)\n- All lanes of Hung Nga Road (both bounds)\nAffected bus routes 276P, 269D, 960P, 960X and A34 have been diverted.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "較早前因火警而封閉的以下路段現已解封:\n-洪志路(來回方向)近洪元路的部分行車線\n-洪水橋田心路(來回方向)近洪元路的部分行車線\n\n但以下路段現仍然封閉:\n-洪元路(來回方向)介乎洪志路與洪水橋田心路之間的全線\n-洪平路(來回方向)的全線\n-洪雅路(來回方向)的全線受影響巴士路線276P,269D,960P,960X及A34須改道行駛。  駕駛人士請考慮改用其他道路。"
-            },
-            "2024-04-11T20:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95206",
-                "CONTENT_EN": "The following roads which were closed due to fire are re-opened to all traffic: - All lanes of Hung Yuen Road (both bounds) between Hung Chi Road and Hung Shui Kiu Tin Sam Road - All lanes of Hung Ping Road (both bounds) - All lanes of Hung Nga Road (both bounds) Affected bus routes have resumed their original routeings.",
-                "CONTENT_CN": "較早前因火警而封閉的以下路段現已解封: -洪元路(來回方向)介乎洪志路與洪水橋田心路之間的全線 -洪平路(來回方向)的全線 -洪雅路(來回方向)的全線 受影響巴士路線現已恢復原有路線行駛。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-04-11T20:55:32",
-        "last_announcement": "2024-04-11T20:43:00"
-    },
-    "IN-24-01941": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Tung Shing Lei",
-            "NEAR_LANDMARK_CN": "東成里",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T15:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95175",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T16:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95176",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Yuen Long Highway (Tuen Mun bound) ends at San Tin Highway near Yau Tam Mei Tsuen. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往屯門方向)的車龍龍尾已到新田公路近攸潭美村。 現時上址交通擠塞。"
-            },
-            "2024-04-11T16:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95179",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Yuen Long Highway (Tuen Mun bound) ends at San Tin Highway near Shek Wu Wai. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往屯門方向)的車龍龍尾已到新田公路近石湖圍。 現時上址交通擠塞。"
-            },
-            "2024-04-11T16:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95181",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Yuen Long Highway (Tuen Mun bound) ends at San Tin Highway near San Tin Interchange. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往屯門方向)的車龍龍尾已到新田公路近新田交匯處。 現時上址交通擠塞。"
-            },
-            "2024-04-11T17:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95182",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei are closed to all traffic. Traffic queue on Yuen Long Highway (Tuen Mun bound) ends at San Tin Highway near San Tin Interchange. Motorists are advised to use alternative routes. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的全線現已封閉。 現時在元朗公路(往屯門方向)的車龍龍尾已到新田公路近新田交匯處。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
-            },
-            "2024-04-11T17:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95184",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is closed to all traffic. Citizens please take note KMB's service travelling via Yuen Long Highway has been affected, citizens please consider using other public transport services, such as MTR services. Only remaining lane is available to motorists. Traffic queue on Yuen Long Highway (Tuen Mun bound) ends at San Tin Highway near San Tin Interchange. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線現已封閉。 市民請留意九巴途經元朗公路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往屯門方向)的車龍龍尾已到新田公路近新田交匯處。 現時上址交通擠塞。"
-            },
-            "2024-04-11T17:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95186",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is still being closed to all traffic. \nOnly remaining lane is available to motorists. \nCitizens please take note KMB's service travelling via Yuen Long Highway has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic queue on Yuen Long Highway (Tuen Mun bound) ends at Fanling Highway near Kwu Tung.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。\n市民請留意九巴途經元朗公路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時在元朗公路(往屯門方向)的車龍龍尾已到粉嶺公路近古洞。  現時上址交通擠塞。"
-            },
-            "2024-04-11T17:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95188",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse. \nCitizens please take note KMB's service travelling via Yuen Long Highway has been affected, citizens please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往屯門方向)近東成里的部份行車線現已解封。車龍有待消散。\n市民請留意九巴途經元朗公路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-04-11T18:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95191",
-                "CONTENT_EN": "Due to traffic accident happened earlier , the following road sections are congested:\n– Yuen Long Highway (Tuen Mun bound)\n– Fanling Highway (Tuen Mun bound)\n\nCitizens please take note KMB's service travelling via Yuen Long Highway has been affected, citizens please consider using other public transport services, such as MTR services. \n\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前交通意外，以下路段的交通擠塞:\n–元朗公路(往屯門方向)\n–粉嶺公路(往屯門方向)\n\n市民請留意九巴途經元朗公路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。\n\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-04-11T18:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95194",
-                "CONTENT_EN": "Due to traffic accident happened earlier , the following road sections are congested:\n– Yuen Long Highway (Tuen Mun bound)\n– Fanling Highway (Tuen Mun bound)\n\nThe following road sections are also busy:\n– So Kwun Po Road roundabout (bound)\n– Po Shek Wu Road (Tai Tau Leng Roundabout) (bound)\n\nCitizens please take note KMB's service travelling via Yuen Long Highway has been affected, citizens please consider using other public transport services, such as MTR services. \nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前交通意外，以下路段的交通擠塞:\n–元朗公路(往屯門方向)\n–粉嶺公路(往屯門方向)\n\n此外，以下路段亦交通擠塞\n–掃管埔路迴旋處(往方向)\n–寶石湖路(大頭嶺迴旋處)(往方向)\n\n市民請留意九巴途經元朗公路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-04-11T19:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95197",
-                "CONTENT_EN": "Due to traffic accident happened earlier , the following road sections are still congested:\n– Yuen Long Highway (Tuen Mun bound)\n– Fanling Highway (Tuen Mun bound)\n\nCitizens please take note KMB's service travelling via Yuen Long Highway has been affected, citizens please consider using other public transport services, such as MTR services. \n\nBut traffic at the following road sections resume normal:\n– So Kwun Po Road roundabout (bound)\n– Po Shek Wu Road (Tai Tau Leng Roundabout) (bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前交通意外，以下路段的交通仍然擠塞:\n–元朗公路(往屯門方向)\n–粉嶺公路(往屯門方向)\n\n市民請留意九巴途經元朗公路的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。\n\n但以下路段交通恢復正常：\n–掃管埔路迴旋處(往方向)\n–寶石湖路(大頭嶺迴旋處)(往方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-04-11T19:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95201",
-                "CONTENT_EN": "Due to traffic accident happened earlier , the following road sections are still busy:\n– Yuen Long Highway (Tuen Mun bound)\n– Fanling Highway (Tuen Mun bound)\nService of KMB which was travelling via Yuen Long Highway has gradually resumed normal. \nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前交通意外，以下路段的交通仍然繁忙:\n–元朗公路(往屯門方向)\n–粉嶺公路(往屯門方向)\n較早前因元朗公路的交通意外而受影響的九巴服務已陸續回復正常。\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-04-11T19:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95203",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Yuen Long Highway (Tuen Mun bound)\n– Fanling Highway (Tuen Mun bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–元朗公路(往屯門方向)\n–粉嶺公路(往屯門方向)。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-04-11T20:10:36",
-        "last_announcement": "2024-04-11T19:46:00"
-    },
-    "IN-24-01945": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Sha Highway",
-            "LOCATION_CN": "青沙公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": "Tsing Sha Control Area Shatin Administration Building",
-            "NEAR_LANDMARK_CN": "青沙管制區沙田行政大樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T19:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95196",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Sha Highway (Sha Tin bound) near Tsing Sha Control Area Shatin Administration Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青沙公路(往沙田方向)近青沙管制區沙田行政大樓的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-04-11T19:20:20",
-        "last_announcement": "2024-04-11T19:10:00"
-    },
-    "IN-24-01946": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "West Kowloon Highway",
-            "LOCATION_CN": "西九龍公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Jordan Road",
-            "NEAR_LANDMARK_CN": "佐敦道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T19:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95198",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Highway (Kwai Chung bound) near Jordan Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西九龍公路(往葵涌方向)近佐敦道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T19:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95204",
-                "CONTENT_EN": "Part of the lanes of West Kowloon Highway (Kwai Chung bound) near Jordan Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的西九龍公路(往葵涌方向)近佐敦道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-04-11T20:10:36",
-        "last_announcement": "2024-04-11T19:47:00"
-    },
-    "IN-24-01947": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sha Tin Sewage Treatment Works",
-            "NEAR_LANDMARK_CN": "沙田污水處理廠",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T19:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95200",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Tolo Highway (Kowloon bound) near Sha Tin Sewage Treatment Works is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近沙田污水處理廠的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T20:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95207",
-                "CONTENT_EN": "The fast lane of Tolo Highway (Kowloon bound) near Sha Tin Sewage Treatment Works which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近沙田污水處理廠的快線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-04-11T21:15:05",
-        "last_announcement": "2024-04-11T20:51:00"
-    },
-    "IN-24-01948": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Tsing Yung Terrace",
-            "NEAR_LANDMARK_CN": "青榕台",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-11T19:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95202",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Tsing Yung Terrace is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近青榕台的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-11T20:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95205",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Tsing Yung Terrace which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近青榕台的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-11T20:40:07",
-        "last_announcement": "2024-04-11T20:12:00"
-    },
     "IN-24-01949": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
@@ -2095,5 +1777,90 @@
         "district": "屯門區",
         "last_update": "2024-04-14T18:40:33",
         "last_announcement": "2024-04-14T17:56:00"
+    },
+    "IN-24-01994": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
+            "INCIDENT_DETAIL_CN": "車輛着火",
+            "LOCATION_EN": "Scenic Hill Tunnel",
+            "LOCATION_CN": "觀景山隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Zhuhai",
+            "DIRECTION_CN": "珠海",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-14T18:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95317",
+                "CONTENT_EN": "Due to vehicle on fire , tunnel tube of Scenic Hill Tunnel (Zhuhai bound) is closed to all traffic.",
+                "CONTENT_CN": "因車輛着火，觀景山隧道(往珠海方向)的管道現已封閉。"
+            },
+            "2024-04-14T18:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95318",
+                "CONTENT_EN": "Due to vehicle on fire , the one-lane-two-way traffic arrangement is being implemented on Scenic Hill Tunnel.",
+                "CONTENT_CN": "因車輛着火，觀景山隧道現已實施單線雙程行車措施。"
+            },
+            "2024-04-14T20:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95321",
+                "CONTENT_EN": "The one-tube-two-way traffic arrangement which was implemented on Scenic Hill Tunnel (Hong Kong bound) due to vehicle on fire is now cancelled.",
+                "CONTENT_CN": "較早前因車輛着火而於觀景山隧道(香港方向)實施的單管雙程行車措施現已取消。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-14T22:22:48",
+        "last_announcement": "2024-04-14T20:42:00"
+    },
+    "IN-24-01995": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lion Rock Tunnel",
+            "LOCATION_CN": "獅子山隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-14T20:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95320",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Lion Rock Tunnel (Sha Tin bound) is closed to all traffic. Only the fast lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，獅子山隧道(往沙田方向)的管道慢線現已封閉。 駕駛人士只可使用快線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-14T20:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95322",
+                "CONTENT_EN": "The tunnel tube slow lane of Lion Rock Tunnel (Sha Tin bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的獅子山隧道(往沙田方向)的管道慢線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-14T22:22:48",
+        "last_announcement": "2024-04-14T20:54:00"
     }
 }
