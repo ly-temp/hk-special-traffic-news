@@ -1,50 +1,4 @@
 {
-    "IN-24-01965": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Wan",
-            "DIRECTION_CN": "上環",
-            "NEAR_LANDMARK_EN": "Pedder Street",
-            "NEAR_LANDMARK_CN": "畢打街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-12T16:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95251",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Connaught Road Central (Sheung Wan bound) near Pedder Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，干諾道中(往上環方向)近畢打街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-12T16:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95254",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Connaught Road Central (Sheung Wan bound) near Pedder Street is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Connaught Road Central (Sheung Wan bound) ends at Gloucester Road near Fleming Road. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，干諾道中(往上環方向)近畢打街的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在干諾道中(往上環方向)的車龍龍尾已到告士打道近菲林明道。 現時上址交通擠塞。"
-            },
-            "2024-04-12T17:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95257",
-                "CONTENT_EN": "The fast lane of Connaught Road Central (Sheung Wan bound) near Pedder Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往上環方向)近畢打街的快線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-04-12T17:36:48",
-        "last_announcement": "2024-04-12T17:28:00"
-    },
     "IN-24-01966": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1911,10 +1865,17 @@
                 "ID": "95365",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Ching Lai Court is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，呈祥道(往觀塘方向)近清麗苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-15T17:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95366",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Ching Lai Court which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往觀塘方向)近清麗苑的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-04-15T17:13:35",
-        "last_announcement": "2024-04-15T16:57:00"
+        "last_update": "2024-04-15T17:44:48",
+        "last_announcement": "2024-04-15T17:33:00"
     }
 }
