@@ -1888,5 +1888,37 @@
         "district": "東區",
         "last_update": "2024-04-16T15:12:48",
         "last_announcement": "2024-04-16T15:03:00"
+    },
+    "IN-24-02035": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Ho Man Tin",
+            "DIRECTION_CN": "何文田",
+            "NEAR_LANDMARK_EN": "Canton Road",
+            "NEAR_LANDMARK_CN": "廣東道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-16T15:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95407",
+                "CONTENT_EN": "Due to fire , part of the lanes of Waterloo Road (Ho Man Tin bound) near Canton Road is closed to all traffic. \nOnly remaining lane is available to motorists.   At the same time, vehicles cannot make left turning from Waterloo Road onto Canton Road.   Traffic is busy now.",
+                "CONTENT_CN": "因火警，窩打老道(往何文田方向)近廣東道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  同時，車輛不能由窩打老道左轉入廣東道。  現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-04-16T16:18:51",
+        "last_announcement": "2024-04-16T15:50:00"
     }
 }
