@@ -1,114 +1,4 @@
 {
-    "IN-24-01976": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Tai Wo Road",
-            "LOCATION_CN": "大埔太和路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Fanling",
-            "DIRECTION_CN": "粉嶺",
-            "NEAR_LANDMARK_EN": "Ting Kok Road",
-            "NEAR_LANDMARK_CN": "汀角路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-13T08:59:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95276",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Tai Wo Road (Fanling bound) near Ting Kok Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔太和路(往粉嶺方向)近汀角路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-04-13T09:42:05",
-        "last_announcement": "2024-04-13T08:59:00"
-    },
-    "IN-24-01977": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Fu Road roundabout",
-            "LOCATION_CN": "龍富路迴旋處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-13T09:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95277",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Fu Road roundabout  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-13T09:33:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95279",
-                "CONTENT_EN": "Part of the lanes of Lung Fu Road roundabout  which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍富路迴旋處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-13T09:55:41",
-        "last_announcement": "2024-04-13T09:33:00"
-    },
-    "IN-24-01978": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Western Harbour Crossing",
-            "LOCATION_CN": "西區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Western Wholesale Food Market",
-            "NEAR_LANDMARK_CN": "西區副食品批發市場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-13T09:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95278",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the slip road leading from Western Harbour Crossing  to Central  near Western Wholesale Food Market is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，由西區海底隧道通往中環 的支路近西區副食品批發市場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-13T09:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95280",
-                "CONTENT_EN": "Part of the lanes of the slip road leading from Western Harbour Crossing  to Central  near Western Wholesale Food Market which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的由西區海底隧道通往中環 的支路近西區副食品批發市場的 部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-04-13T09:55:41",
-        "last_announcement": "2024-04-13T09:50:00"
-    },
     "IN-24-01979": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1833,10 +1723,95 @@
                 "ID": "95384",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chuk Hang Road flyover (Aberdeen Tunnel bound) near Derrick Industrial Building is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，黃竹坑道天橋(往香港仔隧道方向)近得力工業大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-16T09:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95386",
+                "CONTENT_EN": "Part of the lanes of Wong Chuk Hang Road flyover (Aberdeen Tunnel bound) near Derrick Industrial Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的黃竹坑道天橋(往香港仔隧道方向)近得力工業大廈的部份行車線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-04-16T09:18:19",
-        "last_announcement": "2024-04-16T09:00:00"
+        "last_update": "2024-04-16T09:59:41",
+        "last_announcement": "2024-04-16T09:21:00"
+    },
+    "IN-24-02025": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Hing Tin Estate",
+            "NEAR_LANDMARK_CN": "興田邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-16T09:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95387",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Kwun Tong bound) near Hing Tin Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往觀塘方向)近興田邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-16T09:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95389",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Kwun Tong bound) near Hing Tin Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘方向)近興田邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-16T09:59:41",
+        "last_announcement": "2024-04-16T09:30:00"
+    },
+    "IN-24-02026": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Shau Kei Wan Road",
+            "LOCATION_CN": "筲箕灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "North Point",
+            "DIRECTION_CN": "北角",
+            "NEAR_LANDMARK_EN": "Sun Sing Street",
+            "NEAR_LANDMARK_CN": "新成街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-16T09:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95388",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Shau Kei Wan Road (North Point bound) near Sun Sing Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，筲箕灣道(往北角方向)近新成街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-16T09:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95390",
+                "CONTENT_EN": "Part of the lanes of Shau Kei Wan Road (North Point bound) near Sun Sing Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的筲箕灣道(往北角方向)近新成街的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-04-16T09:59:41",
+        "last_announcement": "2024-04-16T09:40:00"
     }
 }
