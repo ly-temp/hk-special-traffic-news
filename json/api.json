@@ -1684,10 +1684,159 @@
                 "ID": "95373",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Flint Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往尖沙咀方向)近火石道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-16T08:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95381",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Flint Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往尖沙咀方向)近火石道的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-04-16T07:58:21",
-        "last_announcement": "2024-04-16T07:45:00"
+        "last_update": "2024-04-16T09:18:19",
+        "last_announcement": "2024-04-16T08:31:00"
+    },
+    "IN-24-02019": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tai Po Market MTR Station",
+            "NEAR_LANDMARK_CN": "大埔墟港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-16T08:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95374",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Tai Po Market MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近大埔墟港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-16T08:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95382",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Tai Po Market MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近大埔墟港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-04-16T09:18:19",
+        "last_announcement": "2024-04-16T08:43:00"
+    },
+    "IN-24-02021": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Kung Um Road",
+            "NEAR_LANDMARK_CN": "公庵路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-16T08:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95376",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Kung Um Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近公庵路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-04-16T09:18:19",
+        "last_announcement": "2024-04-16T08:13:00"
+    },
+    "IN-24-02023": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Wo Che Estate",
+            "NEAR_LANDMARK_CN": "禾輋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-16T08:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95378",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-16T08:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95380",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-16T09:18:19",
+        "last_announcement": "2024-04-16T08:28:00"
+    },
+    "IN-24-02024": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Chuk Hang Road",
+            "LOCATION_CN": "黃竹坑道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen Tunnel",
+            "DIRECTION_CN": "香港仔隧道",
+            "NEAR_LANDMARK_EN": "Derrick Industrial Building",
+            "NEAR_LANDMARK_CN": "得力工業大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-16T09:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95384",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chuk Hang Road flyover (Aberdeen Tunnel bound) near Derrick Industrial Building is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，黃竹坑道天橋(往香港仔隧道方向)近得力工業大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-04-16T09:18:19",
+        "last_announcement": "2024-04-16T09:00:00"
     }
 }
