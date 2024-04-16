@@ -2018,11 +2018,18 @@
                 "ID": "95416",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Sha Tin bound) near Moonbeam Terrace is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往沙田方向)近映月臺的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-16T18:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95420",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Sha Tin bound) near Moonbeam Terrace is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Waterloo Road (Sha Tin bound) ends at Waterloo Road near Argyle Street. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往沙田方向)近映月臺的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在窩打老道(往沙田方向)的車龍龍尾已到窩打老道近亞皆老街。 現時上址交通擠塞。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-04-16T18:32:08",
-        "last_announcement": "2024-04-16T18:19:00"
+        "last_update": "2024-04-16T18:52:23",
+        "last_announcement": "2024-04-16T18:40:00"
     },
     "IN-24-02039": {
         "description": {
@@ -2062,5 +2069,37 @@
         "district": "九龍城區",
         "last_update": "2024-04-16T18:42:05",
         "last_announcement": "2024-04-16T18:31:00"
+    },
+    "IN-24-02041": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "King's Road",
+            "LOCATION_CN": "英皇道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Causeway Bay",
+            "DIRECTION_CN": "銅鑼灣",
+            "NEAR_LANDMARK_EN": "Kam Hong Street",
+            "NEAR_LANDMARK_CN": "琴行街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-16T18:40:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "95419",
+                "CONTENT_EN": "Part of the lanes of King's Road (Causeway Bay bound) near Kam Hong Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的英皇道(往銅鑼灣方向)近琴行街的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-04-16T18:52:23",
+        "last_announcement": "2024-04-16T18:40:00"
     }
 }
