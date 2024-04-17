@@ -2330,11 +2330,18 @@
                 "ID": "95435",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Clear Water Bay Road (Sai Kung bound) near On Sau Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，清水灣道(往西貢方向)近安秀道的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-04-17T09:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95439",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Sai Kung bound) near On Sau Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往西貢方向)近安秀道的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-04-17T09:34:27",
-        "last_announcement": "2024-04-17T08:49:00"
+        "last_update": "2024-04-17T10:31:42",
+        "last_announcement": "2024-04-17T09:56:00"
     },
     "IN-24-02049": {
         "description": {
@@ -2374,5 +2381,51 @@
         "district": "東區",
         "last_update": "2024-04-17T09:34:27",
         "last_announcement": "2024-04-17T09:19:00"
+    },
+    "IN-24-02050": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Tsuen Wan Line Service Disruption",
+            "LOCATION_CN": "荃灣綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-17T10:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95440",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that there is an additional travelling time of 10 to 15 minutes on the Tsuen Wan Line between Central and Tsuen Wan because of a technical fault on a train at Cheung Sha Wan Station.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於長沙灣站有列車機件故障，荃灣綫來往中環至荃灣的車程延長10至15分鐘。"
+            },
+            "2024-04-17T10:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95441",
+                "CONTENT_EN": "Extra travelling time can be expected on the Tsuen Wan Line. \nPlease allow more time for travel.",
+                "CONTENT_CN": "荃灣綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
+            },
+            "2024-04-17T10:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95442",
+                "CONTENT_EN": "Due to an equipment fault on a train at Cheung Sha Wan Station, the total journey time on the Tsuen Wan Line between Central Station and Tsuen Wan Station could be extended by 15-20 minutes. Please consider using other transport. Longer waiting times on Tsuen Wan Line platforms can be expected. \nPlease allow more time for travel.",
+                "CONTENT_CN": "由於有列車在長沙灣站出現設備故障，荃灣綫來往中環站及荃灣站的行車時間預計需要額外15-20分鐘。 請考慮使用其他交通工具。現時荃灣綫月台上的乘客較多，候車時間亦會較長。 \n請為行程預留充裕時間。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-04-17T10:31:42",
+        "last_announcement": "2024-04-17T10:16:00"
     }
 }
