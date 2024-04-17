@@ -2422,10 +2422,17 @@
                 "ID": "95442",
                 "CONTENT_EN": "Due to an equipment fault on a train at Cheung Sha Wan Station, the total journey time on the Tsuen Wan Line between Central Station and Tsuen Wan Station could be extended by 15-20 minutes. Please consider using other transport. Longer waiting times on Tsuen Wan Line platforms can be expected. \nPlease allow more time for travel.",
                 "CONTENT_CN": "由於有列車在長沙灣站出現設備故障，荃灣綫來往中環站及荃灣站的行車時間預計需要額外15-20分鐘。 請考慮使用其他交通工具。現時荃灣綫月台上的乘客較多，候車時間亦會較長。 \n請為行程預留充裕時間。"
+            },
+            "2024-04-17T10:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95443",
+                "CONTENT_EN": "The Tsuen Wan Line train which could not be operated at Cheung Sha Wan Station has now been removed. Normal train service is gradually resuming.",
+                "CONTENT_CN": "在長沙灣站出現故障的列車已被移離行車綫，荃灣綫列車服務逐步回復正常。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-04-17T10:31:42",
-        "last_announcement": "2024-04-17T10:16:00"
+        "last_update": "2024-04-17T10:41:48",
+        "last_announcement": "2024-04-17T10:28:00"
     }
 }
