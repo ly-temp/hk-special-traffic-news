@@ -2656,11 +2656,25 @@
                 "ID": "95483",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tsuen Wan bound) near Siu Lam Psychiatric Centre is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Citizens please take note KMB's service travelling via Tuen Mun Road (Tsuen Wan bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic queue on Tuen Mun Road (Tsuen Wan bound) ends at Tuen Mun Road near Sam Shing Estate.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往荃灣方向)近小欖精神病治療中心的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  市民請留意九巴途經屯門公路往荃灣方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時在屯門公路(往荃灣方向)的車龍龍尾已到屯門公路近三聖邨。  現時上址交通擠塞。"
+            },
+            "2024-04-18T09:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95487",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tsuen Wan bound) near Siu Lam Psychiatric Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.   Citizens please take note KMB's service travelling via Tuen Mun Road (Tsuen Wan bound) has been affected, citizens please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往荃灣方向)近小欖精神病治療中心的部份行車線現已解封。車龍有待消散。  市民請留意九巴途經屯門公路往荃灣方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-04-18T09:40:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "95489",
+                "CONTENT_EN": "Service of KMB which was affected by the traffic accident at Tuen Mun Road (Tsuen Wan bound) near Siu Lam Psychiatric Centre has gradually resumed normal.",
+                "CONTENT_CN": "較早前因位於屯門公路(往荃灣方向)近小欖精神病治療中心的交通意外而受影響的九巴服務已陸續回復正常。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-04-18T09:19:12",
-        "last_announcement": "2024-04-18T07:49:00"
+        "last_update": "2024-04-18T09:59:55",
+        "last_announcement": "2024-04-18T09:40:00"
     },
     "IN-24-02066": {
         "description": {
@@ -2766,10 +2780,17 @@
                 "ID": "95486",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lion Rock Tunnel Road (Kowloon bound) near Union Hospital is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，獅子山隧道公路(往九龍方向)近仁安醫院的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-18T09:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95488",
+                "CONTENT_EN": "The slow lane of Lion Rock Tunnel Road (Kowloon bound) near Union Hospital which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的獅子山隧道公路(往九龍方向)近仁安醫院的慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-04-18T09:19:12",
-        "last_announcement": "2024-04-18T09:06:00"
+        "last_update": "2024-04-18T09:59:55",
+        "last_announcement": "2024-04-18T09:30:00"
     }
 }
