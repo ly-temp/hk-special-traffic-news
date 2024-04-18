@@ -1,43 +1,4 @@
 {
-    "IN-24-02011": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Canal Road Flyover",
-            "LOCATION_CN": "堅拿道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Tunnel",
-            "DIRECTION_CN": "香港仔隧道",
-            "NEAR_LANDMARK_EN": "Wan Chai Fire Station",
-            "NEAR_LANDMARK_CN": "灣仔消防局",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-15T15:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95359",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Canal Road Flyover (Aberdeen Tunnel bound) near Wan Chai Fire Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，堅拿道天橋(往香港仔隧道方向)近灣仔消防局的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-15T15:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95360",
-                "CONTENT_EN": "The slow lane of Canal Road Flyover (Aberdeen Tunnel bound) near Wan Chai Fire Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的堅拿道天橋(往香港仔隧道方向)近灣仔消防局的慢線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-04-15T15:35:37",
-        "last_announcement": "2024-04-15T15:26:00"
-    },
     "IN-24-02012": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2656,10 +2617,17 @@
                 "ID": "95515",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近龍翔工業大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-18T15:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95516",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往荃灣方向)近龍翔工業大廈的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-04-18T15:26:26",
-        "last_announcement": "2024-04-18T15:19:00"
+        "last_update": "2024-04-18T15:36:38",
+        "last_announcement": "2024-04-18T15:26:00"
     }
 }
