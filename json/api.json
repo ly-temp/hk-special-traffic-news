@@ -3147,5 +3147,37 @@
         "district": "油尖旺區",
         "last_update": "2024-04-19T07:28:57",
         "last_announcement": "2024-04-19T07:18:00"
+    },
+    "IN-24-02102": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "vehicular mechanical defects",
+            "INCIDENT_DETAIL_CN": "船隻機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-19T07:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95559",
+                "CONTENT_EN": "Park Island Transport Company Limited Due to vehicular mechanical defects, the following ferry services will be operated by buses. -Park Island to Central: 07:40 am, 08:40 am and 09:40 am -Central to Park Island: 08:10 am, 09:10 am and 10:10 am",
+                "CONTENT_CN": "珀麗灣客運有限公司 因船隻機件故障，以下渡輪服務將會改由巴士營運。 -珀麗灣至中環:上午07:40、上午08:40及上午09:40 -中環至珀麗灣:上午08:10、上午09:10及上午10:10"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-19T07:41:28",
+        "last_announcement": "2024-04-19T07:27:00"
     }
 }
