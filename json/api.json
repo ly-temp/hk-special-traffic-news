@@ -123,38 +123,6 @@
         "last_update": "2024-04-16T21:09:49",
         "last_announcement": "2024-04-16T21:01:00"
     },
-    "IN-24-02043": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsuen Kam Interchange",
-            "LOCATION_CN": "荃錦交匯處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-16T19:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95427",
-                "CONTENT_EN": "Part of the lanes of Tsuen Kam Interchange  which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的荃錦交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-16T19:39:08",
-        "last_announcement": "2024-04-16T19:24:00"
-    },
     "IN-24-02046": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2675,5 +2643,37 @@
         "district": "黃大仙區",
         "last_update": "2024-04-19T19:34:11",
         "last_announcement": "2024-04-19T19:24:00"
+    },
+    "IN-24-02114": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "San Hui Playground",
+            "NEAR_LANDMARK_CN": "新墟遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-19T19:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95583",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Kowloon bound) near San Hui Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近新墟遊樂場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-04-19T19:44:22",
+        "last_announcement": "2024-04-19T19:35:00"
     }
 }
