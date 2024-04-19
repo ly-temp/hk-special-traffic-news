@@ -91,38 +91,6 @@
         "last_update": "2024-04-16T19:07:13",
         "last_announcement": "2024-04-16T18:50:00"
     },
-    "IN-24-02041": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "King's Road",
-            "LOCATION_CN": "英皇道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Causeway Bay",
-            "DIRECTION_CN": "銅鑼灣",
-            "NEAR_LANDMARK_EN": "Kam Hong Street",
-            "NEAR_LANDMARK_CN": "琴行街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-16T18:40:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95419",
-                "CONTENT_EN": "Part of the lanes of King's Road (Causeway Bay bound) near Kam Hong Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的英皇道(往銅鑼灣方向)近琴行街的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-04-16T18:52:23",
-        "last_announcement": "2024-04-16T18:40:00"
-    },
     "IN-24-02042": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
