@@ -2686,5 +2686,69 @@
         "district": "黃大仙區",
         "last_update": "2024-04-19T22:19:32",
         "last_announcement": "2024-04-19T22:00:00"
+    },
+    "IN-24-02119": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "West Kowloon Highway",
+            "LOCATION_CN": "西九龍公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mei Foo",
+            "DIRECTION_CN": "美孚",
+            "NEAR_LANDMARK_EN": "Olympian City",
+            "NEAR_LANDMARK_CN": "奧海城",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-19T23:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95592",
+                "CONTENT_EN": "Due to traffic accident, part of the lanes of West Kowloon Highway (Mei Foo bound) near Olympian City is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西九龍公路(往美孚方向)近奧海城的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-04-19T23:23:05",
+        "last_announcement": "2024-04-19T23:02:00"
+    },
+    "IN-24-02120": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Tai Hang Road",
+            "LOCATION_CN": "大坑道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Wang Fung Terrace",
+            "NEAR_LANDMARK_CN": "宏豐臺",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-19T23:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95593",
+                "CONTENT_EN": "Due to fallen tree, the one-lane-two-way traffic arrangement is being implemented on Tai Hang Road near Wang Fung Terrace.   Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，大坑道近宏豐臺現已實施單線雙程行車措施。  現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-04-19T23:23:05",
+        "last_announcement": "2024-04-19T23:11:00"
     }
 }
