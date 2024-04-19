@@ -2647,5 +2647,37 @@
         "district": "荃灣區",
         "last_update": "2024-04-19T21:39:48",
         "last_announcement": "2024-04-19T21:32:00"
+    },
+    "IN-24-02115": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Lung Cheung Road, Kwun Tong bound, near Hammer Hill Road Swimming Pool",
+            "INCIDENT_DETAIL_CN": "龍翔道，往觀塘方向，近斧山道游泳池",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Hammer Hill Road Swimming Pool",
+            "NEAR_LANDMARK_CN": "斧山道游泳池",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-19T22:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95590",
+                "CONTENT_EN": "Due to watermain emergency repair , the fast lane of Lung Cheung Road (Kwun Tong bound) near Hammer Hill Road Swimming Pool is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因水管緊急維修，龍翔道(往觀塘方向)近斧山道游泳池的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-04-19T22:19:32",
+        "last_announcement": "2024-04-19T22:00:00"
     }
 }
