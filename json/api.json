@@ -2814,5 +2814,37 @@
         "district": "九龍城區",
         "last_update": "2024-04-20T19:57:26",
         "last_announcement": "2024-04-20T19:45:00"
+    },
+    "IN-24-02140": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hiram's Highway",
+            "LOCATION_CN": "西貢公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O",
+            "DIRECTION_CN": "將軍澳",
+            "NEAR_LANDMARK_EN": "Chuk Kok Road",
+            "NEAR_LANDMARK_CN": "竹角路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-20T21:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95640",
+                "CONTENT_EN": "All lanes of Hiram's Highway (Tseung Kwan O bound) near Chuk Kok Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西貢公路(往將軍澳方向)近竹角路的全線現已解封。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-04-20T21:29:40",
+        "last_announcement": "2024-04-20T21:20:00"
     }
 }
