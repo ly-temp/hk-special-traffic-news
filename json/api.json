@@ -3030,5 +3030,37 @@
         "district": "灣仔區",
         "last_update": "2024-04-20T13:38:09",
         "last_announcement": "2024-04-20T13:21:00"
+    },
+    "IN-24-02134": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-20T13:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95625",
+                "CONTENT_EN": "Due to the inclement weather, the sailing of Tsui Wah Ferry Service (H. K. ) Ltd, Aberdeen/Stanley and Po Toi Island kaito ferry services depart from Po Toi Island at 2:00 pm and 4:00 pm will not stop at Stanley.",
+                "CONTENT_CN": "由於海面風浪較大，翠華船務（香港）有限公司來往香港仔/赤柱-蒲台島街渡渡輪服務的下午2時正及下午4時正由蒲台島開出的班次將不會經停赤柱。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-20T13:48:34",
+        "last_announcement": "2024-04-20T13:32:00"
     }
 }
