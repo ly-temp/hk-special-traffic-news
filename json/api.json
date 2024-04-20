@@ -123,38 +123,6 @@
         "last_update": "2024-04-17T20:18:42",
         "last_announcement": "2024-04-17T19:51:00"
     },
-    "IN-24-02064": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hoi Chu Road",
-            "LOCATION_CN": "海珠路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Siu Lun Court",
-            "DIRECTION_CN": "兆麟苑",
-            "NEAR_LANDMARK_EN": "Fung On Street",
-            "NEAR_LANDMARK_CN": "豐安街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-17T19:33:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95473",
-                "CONTENT_EN": "Part of the lanes of Hoi Chu Road (Siu Lun Court bound) near Fung On Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的海珠路(往兆麟苑方向)近豐安街的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-17T19:43:06",
-        "last_announcement": "2024-04-17T19:33:00"
-    },
     "IN-24-02065": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2906,5 +2874,37 @@
         "district": "黃大仙區",
         "last_update": "2024-04-20T18:51:05",
         "last_announcement": "2024-04-20T18:44:00"
+    },
+    "IN-24-02141": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Rainstorm Incident",
+            "INCIDENT_HEADING_CN": "暴雨事故",
+            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
+            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-20T19:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95638",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-20T19:47:24",
+        "last_announcement": "2024-04-20T19:35:00"
     }
 }
