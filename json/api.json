@@ -1,50 +1,4 @@
 {
-    "IN-24-02053": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Tuen Mun Town Plaza",
-            "NEAR_LANDMARK_CN": "屯門市廣場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-17T15:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95448",
-                "CONTENT_EN": "Tuen Mun Road (Yuen Long bound) near Tuen Mun Town Plaza is busy. Motorists passing through the above road section is advised to drive with utmost care and patience.",
-                "CONTENT_CN": "屯門公路(往元朗方向)近屯門市廣場的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-04-17T18:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95467",
-                "CONTENT_EN": "The following road sections are busy:\n– Tuen Mun Road near Tuen Mun Town Plaza (Yuen Long bound)\n– Sai Yee Street (Yau Ma Tei bound)\n– Nathan Road (Tsim Sha Tsui bound)\n– Prince Edward Road East (Mong Kok bound)\n– Prince Edward Road West (Mong Kok bound)\n– Mong Kok Road\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–屯門公路近屯門市廣場(往元朗方向)\n–洗衣街(往油麻地方向)\n–旺角道(油麻地)\n–彌敦道(往尖沙咀方向)\n–太子道東(往旺角方向)\n–太子道西(往旺角方向)\n–旺角道\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-04-17T19:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95474",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Tuen Mun Road near Tuen Mun Town Plaza (Yuen Long bound)\n– Sai Yee Street (Yau Ma Tei bound)\n– Nathan Road (Tsim Sha Tsui bound)\n– Prince Edward Road East (Mong Kok bound)\n– Prince Edward Road West (Mong Kok bound)\n– Mong Kok Road.",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–屯門公路近屯門市廣場(往元朗方向)\n–洗衣街(往油麻地方向)\n–彌敦道(往尖沙咀方向)\n–太子道東(往旺角方向)\n–太子道西(往旺角方向)\n–旺角道。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-17T19:53:17",
-        "last_announcement": "2024-04-17T19:42:00"
-    },
     "IN-24-02062": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2906,5 +2860,37 @@
         "district": null,
         "last_update": "2024-04-20T19:47:24",
         "last_announcement": "2024-04-20T19:35:00"
+    },
+    "IN-24-02139": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road South",
+            "LOCATION_CN": "漆咸道南",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Kok Tsui",
+            "DIRECTION_CN": "大角咀",
+            "NEAR_LANDMARK_EN": "Princess Margaret Road",
+            "NEAR_LANDMARK_CN": "公主道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-20T19:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95639",
+                "CONTENT_EN": "Part of the lanes of Chatham Road South (Tai Kok Tsui bound) near Princess Margaret Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道南(往大角咀方向)近公主道的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-04-20T19:57:26",
+        "last_announcement": "2024-04-20T19:45:00"
     }
 }
