@@ -1,43 +1,4 @@
 {
-    "IN-24-02069": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Princess Margaret Road",
-            "LOCATION_CN": "公主道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Oi Man Estate",
-            "NEAR_LANDMARK_CN": "愛民邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-18T11:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95490",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Oi Man Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，公主道(往海底隧道方向)近愛民邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-18T12:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95497",
-                "CONTENT_EN": "Part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Oi Man Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的公主道(往海底隧道方向)近愛民邨的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-04-18T12:57:52",
-        "last_announcement": "2024-04-18T12:49:00"
-    },
     "IN-24-02071": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2889,5 +2850,37 @@
         "district": "油尖旺區",
         "last_update": "2024-04-21T12:29:20",
         "last_announcement": "2024-04-21T12:08:00"
+    },
+    "IN-24-02149": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Peak Tram Incident",
+            "INCIDENT_HEADING_CN": "山頂纜車事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-21T12:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95654",
+                "CONTENT_EN": "Due to fallen tree , Peak Tram service is suspended temporarily.",
+                "CONTENT_CN": "因塌樹，山頂纜車已暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-21T12:59:45",
+        "last_announcement": "2024-04-21T12:47:00"
     }
 }
