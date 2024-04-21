@@ -77,45 +77,6 @@
         "last_update": "2024-04-18T17:08:29",
         "last_announcement": "2024-04-18T16:50:00"
     },
-    "IN-24-02083": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-18T15:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95519",
-                "CONTENT_EN": "Due to traffic accident, vehicles on Jordan Road (Homantin bound) are prohibited to make left turning onto Parkes Street.    Members of the public are advised to pay attention to radio / TV announcements on traffic conditions.",
-                "CONTENT_CN": "因交通意外，佐敦道(往何文田方向)車輛不能左轉入白加士街。  市民請留意電台/電視廣播的最新交通情況。"
-            },
-            "2024-04-18T16:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95521",
-                "CONTENT_EN": "The traffic arrangement of banning left turning from Jordan Road (Homantin bound) onto Parkes Street which was implemented before is now cancelled.",
-                "CONTENT_CN": "較早前實施的禁止車輛由佐敦道(何文田方向)左轉白加士街的行車措施現已取消。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-04-18T16:31:31",
-        "last_announcement": "2024-04-18T16:13:00"
-    },
     "IN-24-02085": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2572,11 +2533,18 @@
                 "ID": "95657",
                 "CONTENT_EN": "Due to emergency maintenance work at University Station, the total journey time on the East Rail Line between Admiralty Station and Lo Wu Station / Lok Ma Chau Station could be extended by 3-5 minutes. \n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nPassengers for Lok Ma Chau Station, please change at Sheung Shui Station. Longer waiting times on East Rail Line platforms can be expected. \nPlease allow more time for travel.",
                 "CONTENT_CN": "由於大學站需進行緊急維修工作，東鐵綫來往金鐘站及羅湖站/落馬洲站的行車時間預計需要額外3-5分鐘。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n前往落馬洲站的乘客，請在上水站轉車。現時東鐵綫月台上的乘客較多，候車時間亦會較長。\n請為行程預留充裕時間。"
+            },
+            "2024-04-21T16:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95659",
+                "CONTENT_EN": "The emergency maintenance work at University Station has been completed. Normal train service is gradually resuming on the East Rail Line.",
+                "CONTENT_CN": "在大學站的緊急維修工作已經完成，東鐵綫列車服務逐步回復正常。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-04-21T15:55:49",
-        "last_announcement": "2024-04-21T15:32:00"
+        "last_update": "2024-04-21T16:38:43",
+        "last_announcement": "2024-04-21T16:26:00"
     },
     "IN-24-02152": {
         "description": {
