@@ -2545,5 +2545,37 @@
         "district": null,
         "last_update": "2024-04-21T15:24:25",
         "last_announcement": "2024-04-21T14:59:00"
+    },
+    "IN-24-02151": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": "East Rail Line Service Disruption",
+            "LOCATION_CN": "東鐵綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-21T15:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95657",
+                "CONTENT_EN": "Due to emergency maintenance work at University Station, the total journey time on the East Rail Line between Admiralty Station and Lo Wu Station / Lok Ma Chau Station could be extended by 3-5 minutes. \n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nPassengers for Lok Ma Chau Station, please change at Sheung Shui Station. Longer waiting times on East Rail Line platforms can be expected. \nPlease allow more time for travel.",
+                "CONTENT_CN": "由於大學站需進行緊急維修工作，東鐵綫來往金鐘站及羅湖站/落馬洲站的行車時間預計需要額外3-5分鐘。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n前往落馬洲站的乘客，請在上水站轉車。現時東鐵綫月台上的乘客較多，候車時間亦會較長。\n請為行程預留充裕時間。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-04-21T15:55:49",
+        "last_announcement": "2024-04-21T15:32:00"
     }
 }
