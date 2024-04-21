@@ -1,43 +1,4 @@
 {
-    "IN-24-02074": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Stagnant water on road",
-            "INCIDENT_DETAIL_CN": "路面有積水",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "North Point Ferry Pier",
-            "NEAR_LANDMARK_CN": "北角碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-18T12:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95496",
-                "CONTENT_EN": "Due to Stagnant water on road , part of the lanes of Island Eastern Corridor (Chai Wan bound) near North Point Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Island Eastern Corridor (Chai Wan bound) ends at Island Eastern Corridor near City Garden. Traffic is busy now.",
-                "CONTENT_CN": "因路面有積水，東區走廊(往柴灣方向)近北角碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在東區走廊(往柴灣方向)的車龍龍尾已到東區走廊近城市花園。 現時上址交通繁忙。"
-            },
-            "2024-04-18T14:17:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95507",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near North Point Ferry Pier which was closed due to Stagnant water on road is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面有積水而封閉的東區走廊(往柴灣方向)近北角碼頭的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-04-18T14:36:58",
-        "last_announcement": "2024-04-18T14:17:00"
-    },
     "IN-24-02077": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
