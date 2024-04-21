@@ -1,96 +1,4 @@
 {
-    "IN-24-02065": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Hong Fai Road",
-            "NEAR_LANDMARK_CN": "康輝路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-18T06:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95477",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tsuen Wan bound) near Hong Fai Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往荃灣方向)近康輝路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-18T07:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95483",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tsuen Wan bound) near Siu Lam Psychiatric Centre is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Citizens please take note KMB's service travelling via Tuen Mun Road (Tsuen Wan bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic queue on Tuen Mun Road (Tsuen Wan bound) ends at Tuen Mun Road near Sam Shing Estate.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往荃灣方向)近小欖精神病治療中心的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  市民請留意九巴途經屯門公路往荃灣方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時在屯門公路(往荃灣方向)的車龍龍尾已到屯門公路近三聖邨。  現時上址交通擠塞。"
-            },
-            "2024-04-18T09:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95487",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tsuen Wan bound) near Siu Lam Psychiatric Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.   Citizens please take note KMB's service travelling via Tuen Mun Road (Tsuen Wan bound) has been affected, citizens please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往荃灣方向)近小欖精神病治療中心的部份行車線現已解封。車龍有待消散。  市民請留意九巴途經屯門公路往荃灣方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-04-18T09:40:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95489",
-                "CONTENT_EN": "Service of KMB which was affected by the traffic accident at Tuen Mun Road (Tsuen Wan bound) near Siu Lam Psychiatric Centre has gradually resumed normal.",
-                "CONTENT_CN": "較早前因位於屯門公路(往荃灣方向)近小欖精神病治療中心的交通意外而受影響的九巴服務已陸續回復正常。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-18T09:59:55",
-        "last_announcement": "2024-04-18T09:40:00"
-    },
-    "IN-24-02068": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Union Hospital",
-            "NEAR_LANDMARK_CN": "仁安醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-18T09:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95486",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lion Rock Tunnel Road (Kowloon bound) near Union Hospital is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，獅子山隧道公路(往九龍方向)近仁安醫院的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-18T09:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95488",
-                "CONTENT_EN": "The slow lane of Lion Rock Tunnel Road (Kowloon bound) near Union Hospital which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的獅子山隧道公路(往九龍方向)近仁安醫院的慢線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-04-18T09:59:55",
-        "last_announcement": "2024-04-18T09:30:00"
-    },
     "IN-24-02069": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2885,5 +2793,69 @@
         "district": "深水埗區",
         "last_update": "2024-04-21T08:59:11",
         "last_announcement": "2024-04-21T08:04:00"
+    },
+    "IN-24-02144": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Rainstorm Incident",
+            "INCIDENT_HEADING_CN": "暴雨事故",
+            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
+            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-21T10:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95647",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-21T10:28:24",
+        "last_announcement": "2024-04-21T10:00:00"
+    },
+    "IN-24-02145": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Main Bridge",
+            "LOCATION_CN": "港珠澳大橋主橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-21T10:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95648",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge, with details as shown below: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge are lowered from 100km/h to 50 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge is lowered from 80km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋主橋已實施以下特別交通及運輸安排： (i)港珠澳大橋主橋的快線及中線車速限制由每小時100公里降至每小時50 公里；及 (ii)港珠澳大橋主橋的慢線車速限制由每小時80公里降至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-04-21T10:28:24",
+        "last_announcement": "2024-04-21T10:18:00"
     }
 }
