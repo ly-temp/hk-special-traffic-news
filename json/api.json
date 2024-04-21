@@ -1,50 +1,4 @@
 {
-    "IN-24-02077": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Caritas Medical Centre",
-            "NEAR_LANDMARK_CN": "明愛醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-18T13:16:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95502",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近明愛醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-18T13:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95504",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Lung Cheung Road Playground. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近明愛醫院的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往荃灣方向)的車龍龍尾已到龍翔道近龍翔道遊樂場。 現時上址交通擠塞。"
-            },
-            "2024-04-18T14:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95514",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往荃灣方向)近明愛醫院的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-04-18T15:16:25",
-        "last_announcement": "2024-04-18T14:54:00"
-    },
     "IN-24-02081": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2598,5 +2552,37 @@
         "district": null,
         "last_update": "2024-04-21T12:59:45",
         "last_announcement": "2024-04-21T12:47:00"
+    },
+    "IN-24-02150": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Inclement Weather",
+            "INCIDENT_DETAIL_CN": "惡劣天氣",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-21T14:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95655",
+                "CONTENT_EN": "Due to inclement weather , the following ferry service(s) will be or have been suspended. \nTsui Wah Ferry Service (H. K. ) Limited\nThe ferry service departure from Po Toi Island to Stanley's Blake Pier will be canceled and instead be replaced by a service from Po Toi Island to Aberdeen at 3:00 p. m. and 6:00 p. m.",
+                "CONTENT_CN": "因惡劣天氣，以下渡輪服務將會或已經暫停服務。\n翠華船務（香港）有限公司\n在下午3:00 及下午4:30 由蒲台島開出往赤柱的航班將會取消，並更改為下午3:00 及下午6:00 由蒲台島開出前往香港仔。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-21T15:24:25",
+        "last_announcement": "2024-04-21T14:59:00"
     }
 }
