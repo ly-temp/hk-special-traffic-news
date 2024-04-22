@@ -1,43 +1,4 @@
 {
-    "IN-24-02102": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "vehicular mechanical defects",
-            "INCIDENT_DETAIL_CN": "船隻機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-19T07:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95559",
-                "CONTENT_EN": "Park Island Transport Company Limited Due to vehicular mechanical defects, the following ferry services will be operated by buses. -Park Island to Central: 07:40 am, 08:40 am and 09:40 am -Central to Park Island: 08:10 am, 09:10 am and 10:10 am",
-                "CONTENT_CN": "珀麗灣客運有限公司 因船隻機件故障，以下渡輪服務將會改由巴士營運。 -珀麗灣至中環:上午07:40、上午08:40及上午09:40 -中環至珀麗灣:上午08:10、上午09:10及上午10:10"
-            },
-            "2024-04-19T08:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95560",
-                "CONTENT_EN": "Park Island Transport Company Limited\nDue to vehicular mechanical defects, the following ferry services will be or have been cancelled. \n-Park Island to Central: 08:40 am and 09:40 am\n-Central to Park Island: 09:10 am and 10:10 am.",
-                "CONTENT_CN": "珀麗灣客運有限公司\n因船隻機件故障，以下渡輪服務將會或已經取消。\n-珀麗灣至中環:上午08:40及上午09:40\n-中環至珀麗灣:上午09:10及上午10:10。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-04-19T09:36:53",
-        "last_announcement": "2024-04-19T08:50:00"
-    },
     "IN-24-02104": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2093,10 +2054,127 @@
                 "ID": "95673",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of East Kowloon Way (Kwun Tong bound) near San Lau Street is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on East Kowloon Way (Kwun Tong bound) ends at Gascoigne Road Flyover near Prosperous Garden. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，東九龍走廊(往觀塘方向)近新柳街的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東九龍走廊(往觀塘方向)的車龍龍尾已到加士居道天橋近駿發花園。 現時上址交通擠塞。"
+            },
+            "2024-04-22T09:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95674",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of East Kowloon Way (Kwun Tong bound) near San Lau Street is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on East Kowloon Way (Kwun Tong bound) ends at Ferry Street near Yau Ma Tei Wholesale Fruit Market. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，東九龍走廊(往觀塘方向)近新柳街的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東九龍走廊(往觀塘方向)的車龍龍尾已到渡船街近油麻地果欄。 現時上址交通擠塞。"
+            },
+            "2024-04-22T09:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95675",
+                "CONTENT_EN": "The fast lane of East Kowloon Way (Kwun Tong bound) near San Lau Street which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東九龍走廊(往觀塘方向)近新柳街的快線現已解封。 車龍有待消散。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-04-22T09:22:21",
-        "last_announcement": "2024-04-22T08:39:00"
+        "last_update": "2024-04-22T10:04:38",
+        "last_announcement": "2024-04-22T09:35:00"
+    },
+    "IN-24-02158": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Caritas Medical Centre",
+            "NEAR_LANDMARK_CN": "明愛醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-22T09:36:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95676",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Ching Cheung Road (Kwun Tong bound) near Caritas Medical Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近明愛醫院的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-04-22T10:04:38",
+        "last_announcement": "2024-04-22T09:36:00"
+    },
+    "IN-24-02159": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Western Harbour Crossing",
+            "LOCATION_CN": "西區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong",
+            "DIRECTION_CN": "香港",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-22T09:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95677",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Western Harbour Crossing (Hong Kong bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，西區海底隧道(往香港方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-22T09:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95679",
+                "CONTENT_EN": "The tunnel tube slow lane of Western Harbour Crossing (Hong Kong bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的西區海底隧道(往香港方向)的管道慢線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-04-22T10:04:38",
+        "last_announcement": "2024-04-22T09:56:00"
+    },
+    "IN-24-02160": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Hung Mui Kuk Road",
+            "NEAR_LANDMARK_CN": "紅梅谷路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-22T09:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95678",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近紅梅谷路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-04-22T10:04:38",
+        "last_announcement": "2024-04-22T09:48:00"
     }
 }
