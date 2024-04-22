@@ -2100,11 +2100,18 @@
                 "ID": "95676",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Ching Cheung Road (Kwun Tong bound) near Caritas Medical Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近明愛醫院的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-22T10:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95680",
+                "CONTENT_EN": "The fast lane of Ching Cheung Road (Kwun Tong bound) near Caritas Medical Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近明愛醫院的快線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-04-22T10:04:38",
-        "last_announcement": "2024-04-22T09:36:00"
+        "last_update": "2024-04-22T10:30:06",
+        "last_announcement": "2024-04-22T10:06:00"
     },
     "IN-24-02159": {
         "description": {
@@ -2171,10 +2178,17 @@
                 "ID": "95678",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近紅梅谷路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-22T10:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95681",
+                "CONTENT_EN": "The fast lane of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近紅梅谷路的快線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-04-22T10:04:38",
-        "last_announcement": "2024-04-22T09:48:00"
+        "last_update": "2024-04-22T10:30:06",
+        "last_announcement": "2024-04-22T10:11:00"
     }
 }
