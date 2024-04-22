@@ -1995,5 +1995,108 @@
         "district": "沙田區",
         "last_update": "2024-04-22T07:48:42",
         "last_announcement": "2024-04-22T07:40:00"
+    },
+    "IN-24-02155": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Ching Tak Street",
+            "NEAR_LANDMARK_CN": "正德街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-22T07:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95668",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Ching Tak Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近正德街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-04-22T09:22:21",
+        "last_announcement": "2024-04-22T07:56:00"
+    },
+    "IN-24-02157": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tsing Tin Road",
+            "NEAR_LANDMARK_CN": "青田路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-22T08:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95671",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tsing Tin Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近青田路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-22T08:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95672",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Tsing Tin Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近青田路的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-22T09:22:21",
+        "last_announcement": "2024-04-22T08:33:00"
+    },
+    "IN-24-02156": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "East Kowloon Way",
+            "LOCATION_CN": "東九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "San Lau Street",
+            "NEAR_LANDMARK_CN": "新柳街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-22T08:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95673",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of East Kowloon Way (Kwun Tong bound) near San Lau Street is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on East Kowloon Way (Kwun Tong bound) ends at Gascoigne Road Flyover near Prosperous Garden. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，東九龍走廊(往觀塘方向)近新柳街的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東九龍走廊(往觀塘方向)的車龍龍尾已到加士居道天橋近駿發花園。 現時上址交通擠塞。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-04-22T09:22:21",
+        "last_announcement": "2024-04-22T08:39:00"
     }
 }
