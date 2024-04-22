@@ -2297,5 +2297,37 @@
         "district": "九龍城區",
         "last_update": "2024-04-22T21:46:12",
         "last_announcement": "2024-04-22T21:38:00"
+    },
+    "IN-24-02180": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Heng Lam Street",
+            "LOCATION_CN": "杏林街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hong Keung Car Park",
+            "NEAR_LANDMARK_CN": "康強苑停車場",
+            "BETWEEN_LANDMARK_EN": "Fung Mo Street",
+            "BETWEEN_LANDMARK_CN": "鳳舞街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-23T06:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95719",
+                "CONTENT_EN": "Due to fallen tree , all lanes of Heng Lam Street between Hong Keung Car Park and Fung Mo Street are closed to all traffic.   Affected KMB bus route No, 7 (Star Ferry bound) has been diverted.",
+                "CONTENT_CN": "因塌樹，杏林街介乎康強苑停車場與鳳舞街之間的全線現已封閉。  受影響九巴巴士路線第7號(往尖沙咀碼頭方向)須改道行駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-23T06:17:24",
+        "last_announcement": "2024-04-23T06:08:00"
     }
 }
