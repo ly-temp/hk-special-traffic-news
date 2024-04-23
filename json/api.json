@@ -2317,11 +2317,18 @@
                 "ID": "95720",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近竹園道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-23T08:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95722",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Choi Hung Estate. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近竹園道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近彩虹邨。 現時上址交通擠塞。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-04-23T07:43:57",
-        "last_announcement": "2024-04-23T07:34:00"
+        "last_update": "2024-04-23T08:54:01",
+        "last_announcement": "2024-04-23T08:01:00"
     },
     "IN-24-02182": {
         "description": {
@@ -2349,10 +2356,113 @@
                 "ID": "95721",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sea Crest Villa is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近浪翠園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-23T08:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95723",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sea Crest Villa which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近浪翠園的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-04-23T07:54:14",
-        "last_announcement": "2024-04-23T07:41:00"
+        "last_update": "2024-04-23T08:54:01",
+        "last_announcement": "2024-04-23T08:17:00"
+    },
+    "IN-24-02184": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Lam Hau Tsuen",
+            "NEAR_LANDMARK_CN": "欖口村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-23T08:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95725",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Lam Hau Tsuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近欖口村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-04-23T08:54:01",
+        "last_announcement": "2024-04-23T08:35:00"
+    },
+    "IN-24-02185": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Extra Travelling Time on the Tsuen Wan Line",
+            "INCIDENT_DETAIL_CN": "荃灣綫需額外行車時間",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-23T08:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95728",
+                "CONTENT_EN": "As a passenger on a train needs urgent medical assistance, the total journey time on the Tsuen Wan Line between Central Station and Tsuen Wan Station could be extended by 10-15 minutes. \nPlease allow more time for travel. MTR Staff are assisting the passenger concerned.",
+                "CONTENT_CN": "荃灣綫列車有乘客需緊急醫療協助，來往中環站和荃灣站的行車時間預計需額外10-15分鐘。 \n請為行程預留充裕時間。港鐵職員現正協助有關乘客。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-23T08:54:01",
+        "last_announcement": "2024-04-23T08:38:00"
+    },
+    "IN-24-02186": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "East Kowloon Way",
+            "LOCATION_CN": "東九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Pak Kung Street",
+            "NEAR_LANDMARK_CN": "北拱街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-23T08:44:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95729",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of East Kowloon Way (Kwun Tong bound) near Pak Kung Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東九龍走廊(往觀塘方向)近北拱街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-04-23T08:54:01",
+        "last_announcement": "2024-04-23T08:44:00"
     }
 }
