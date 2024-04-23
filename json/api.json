@@ -2474,5 +2474,83 @@
         "district": "荃灣區",
         "last_update": "2024-04-23T14:36:54",
         "last_announcement": "2024-04-23T14:28:00"
+    },
+    "IN-24-02201": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Extra Travelling Time on the Airport Express  Tung Chung Line",
+            "INCIDENT_DETAIL_CN": "機場快綫及東涌綫額外行車時間",
+            "LOCATION_EN": "Airport Express Line and Tung Chung Line Service Disruption",
+            "LOCATION_CN": "機場快綫及東涌綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-23T15:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95773",
+                "CONTENT_EN": "Extra travelling time can be expected on the Airport Express amp; Tung Chung Line. \nPlease allow more time for travel. In-town Check-in service is suspended until further notice.",
+                "CONTENT_CN": "機場快綫及東涌綫列車預計需要額外行車時間， \n請為行程預留充裕時間。 市區預辦登機服務現已暫停，直至另行通知。"
+            },
+            "2024-04-23T15:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95775",
+                "CONTENT_EN": "Due to a signalling fault at Hong Kong Station, Airport Express trains between Hong Kong Station and Kowloon Station and Tung Chung Line trains between Hong Kong Station to Kowloon Station will operate at a slower speed. This could extend the total journey time on the Airport Express between Hong Kong Station and AsiaWorld-Expo Station by 15-20 minutes and on the Tung Chung Line between Hong Kong Station and Tung Chung Station by 15-20 minutes. In-town Check-in service is suspended until further notice. Please consider using alternative MTR Lines or other transport.",
+                "CONTENT_CN": "由於香港站有信號故障，機場快綫列車駛經香港站和九龍站及東涌綫列車駛經香港站至九龍站路段時需要慢駛，機場快綫來往香港站及博覽館站的行車時間預計需要額外15-20分鐘及東涌綫來往香港站及東涌站的行車時間預計需要額外15-20分鐘。 市區預辦登機服務現已暫停，直至另行通知。 請考慮使用港鐵其他綫路或其他交通工具。"
+            },
+            "2024-04-23T16:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95776",
+                "CONTENT_EN": "Due to a signalling fault at Hong Kong Station, Airport Express trains between Hong Kong Station and Kowloon Station and Tung Chung Line trains between Hong Kong Station to Kowloon Station will operate at a slower speed. This could extend the total journey time on the Airport Express between Hong Kong Station and AsiaWorld-Expo Station by 15-20 minutes and on the Tung Chung Line between Hong Kong Station and Tung Chung Station by 15-20 minutes. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nIn-town Check-in service is suspended until further notice. \nPlease consider using alternative MTR Lines or other transport.",
+                "CONTENT_CN": "由於香港站有信號故障，機場快綫列車駛經香港站和九龍站及東涌綫列車駛經香港站至九龍站路段時需要慢駛，機場快綫來往香港站及博覽館站的行車時間預計需要額外15-20分鐘及東涌綫來往香港站及東涌站的行車時間預計需要額外15-20分鐘。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n市區預辦登機服務現已暫停，直至另行通知。\n請考慮使用港鐵其他綫路或其他交通工具。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-04-23T16:18:15",
+        "last_announcement": "2024-04-23T16:05:00"
+    },
+    "IN-24-02202": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Wylie Road",
+            "LOCATION_CN": "衛理道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hong Kong Rugby Union King's Park Sports Ground",
+            "NEAR_LANDMARK_CN": "香港欖球總會京士柏運動場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-23T15:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95774",
+                "CONTENT_EN": "Due to fallen tree , the one-lane-two-way traffic arrangement is being implemented on Wylie Road near Hong Kong Rugby Union King's Park Sports Ground. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，衛理道近香港欖球總會京士柏運動場現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-04-23T16:18:15",
+        "last_announcement": "2024-04-23T15:54:00"
     }
 }
