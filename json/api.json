@@ -38,45 +38,6 @@
         "last_update": "2024-04-21T08:59:11",
         "last_announcement": "2024-04-21T08:02:00"
     },
-    "IN-24-02143": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Flooding",
-            "INCIDENT_DETAIL_CN": "水浸",
-            "LOCATION_EN": "Tseung Kwan O Tunnel Road",
-            "LOCATION_CN": "將軍澳隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O",
-            "DIRECTION_CN": "將軍澳",
-            "NEAR_LANDMARK_EN": "Po Hong Road",
-            "NEAR_LANDMARK_CN": "寶康路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-20T21:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95642",
-                "CONTENT_EN": "Due to flooding , part of the lanes of Tseung Kwan O Tunnel Road (Tseung Kwan O bound) near Po Hong Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水浸，將軍澳隧道公路(往將軍澳方向)近寶康路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-20T22:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95644",
-                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Tunnel Road (Tseung Kwan O bound) near Po Hong Road which was closed due to flooding is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水浸而封閉的將軍澳隧道公路(往將軍澳方向)近寶康路的部份行車線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-04-20T22:57:28",
-        "last_announcement": "2024-04-20T22:40:00"
-    },
     "IN-24-01996": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
