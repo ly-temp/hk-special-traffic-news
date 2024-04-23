@@ -2598,5 +2598,69 @@
         "district": "屯門區",
         "last_update": "2024-04-23T17:06:47",
         "last_announcement": "2024-04-23T16:45:00"
+    },
+    "IN-24-02206": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tate's Cairn Highway",
+            "LOCATION_CN": "大老山公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Sha Tin Sewage Treatment Works",
+            "NEAR_LANDMARK_CN": "沙田污水處理廠",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-23T17:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95782",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tate's Cairn Highway (Tai Po bound) near Sha Tin Sewage Treatment Works is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大老山公路(往大埔方向)近沙田污水處理廠的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-23T17:42:17",
+        "last_announcement": "2024-04-23T17:28:00"
+    },
+    "IN-24-02207": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hong Chong Road",
+            "LOCATION_CN": "康莊道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Ho Man Tin",
+            "DIRECTION_CN": "何文田",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-23T17:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95783",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，康莊道(往何文田方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-04-23T17:42:17",
+        "last_announcement": "2024-04-23T17:32:00"
     }
 }
