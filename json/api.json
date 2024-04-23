@@ -38,45 +38,6 @@
         "last_update": "2024-04-21T08:59:11",
         "last_announcement": "2024-04-21T08:02:00"
     },
-    "IN-24-02137": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Long Highway (Ting Kau Bridge)",
-            "LOCATION_CN": "青朗公路(汀九橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-20T18:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95632",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Long Highway (Ting Kau Bridge) (Tuen Mun bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青朗公路(汀九橋)(往屯門方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-20T18:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95634",
-                "CONTENT_EN": "Part of the lanes of Tsing Long Highway (Ting Kau Bridge) (Tuen Mun bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青朗公路(汀九橋)(往屯門方向) 的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-04-20T18:40:53",
-        "last_announcement": "2024-04-20T18:31:00"
-    },
     "IN-24-02138": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2703,10 +2664,17 @@
                 "ID": "95789",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Waterloo Road (Lion Rock Tunnel bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近龍翔道公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-23T18:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95791",
+                "CONTENT_EN": "The slow lane of Waterloo Road (Lion Rock Tunnel bound) near Lung Cheung Road Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近龍翔道公園的慢線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-04-23T18:37:51",
-        "last_announcement": "2024-04-23T18:26:00"
+        "last_update": "2024-04-23T18:47:53",
+        "last_announcement": "2024-04-23T18:30:00"
     }
 }
