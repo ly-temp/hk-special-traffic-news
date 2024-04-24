@@ -2209,11 +2209,18 @@
                 "ID": "95837",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The East Rail Line train service has already ended for 24 April 2024. MTRCL will continue the repair work overnight, and will announce the East Rail Line train service arrangements of 25 April 2024 later based on the progress of work.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知， 2024年4月24日的東鐵綫列車服務已經終止。港鐵會於非行車時段繼續進行復修工作，並會視乎復修進度盡快通知乘客2024年4月25日的東鐵綫列車服務安排。"
+            },
+            "2024-04-25T06:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95839",
+                "CONTENT_EN": "The repair work near Sheung Shui Station on the East Rail Line has been completed. Normal train service is resuming this morning.",
+                "CONTENT_CN": "上水站附近的復修工作已經完成，東鐵綫列車服務今早回復正常。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-04-25T02:22:04",
-        "last_announcement": "2024-04-25T02:03:00"
+        "last_update": "2024-04-25T06:20:43",
+        "last_announcement": "2024-04-25T06:02:00"
     },
     "IN-24-02213": {
         "description": {
@@ -2404,11 +2411,18 @@
                 "ID": "95818",
                 "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Smithfield (Pok Fu Lam bound) near Belcher's Street is still being closed to all traffic. Meanwhile, part of the lanes of Belcher's Street (Victoria Road bound) near Smithfield is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，士美菲路(往薄扶林方向)近卑路乍街的部份行車線仍然封閉。 同時，卑路乍街(往域多利道方向)近士美菲路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-25T05:59:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "95838",
+                "CONTENT_EN": "Part of the lanes of Smithfield (Pok Fu Lam bound) near Belcher's Street which was closed due to watermain emergency works is re-opened to all traffic. Meanwhile, part of the lanes of Belcher's Street (Victoria Road bound) near Smithfield is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的士美菲路(往薄扶林方向)近卑路乍街的部份行車線現已解封。 同時，卑路乍街(往域多利道方向)近士美菲路的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-04-24T14:41:10",
-        "last_announcement": "2024-04-24T14:32:00"
+        "last_update": "2024-04-25T06:20:43",
+        "last_announcement": "2024-04-25T05:59:00"
     },
     "IN-24-02219": {
         "description": {
