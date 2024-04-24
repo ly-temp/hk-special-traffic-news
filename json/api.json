@@ -2778,5 +2778,101 @@
         "district": "中西區",
         "last_update": "2024-04-24T17:39:24",
         "last_announcement": "2024-04-24T17:30:00"
+    },
+    "IN-24-02226": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-24T17:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95828",
+                "CONTENT_EN": "As informed by Mainland Railway Authorities, some High Speed Rail train services traveling between Hong Kong West Kowloon Station and Guangzhounan on 25 April 2024 have been cancelled due to bad weather conditions. \n\nCancelled train services:\n\nTo Hong Kong West Kowloon Station: G6527，G6515，G6529，G6535\n\nTo Guangzhounan: G6528，G6516，G6530，G6536\n\nFor latest train schedules, please refer to 12306 official website (12306. cn) or click the “車站大屏” (only available on Chinese version) on the mobile app, HSR website or mobile app or the information available at Hong Kong West Kowloon Station. \n\nYou may consider travel on the East Rail Line trains to Lo Wu/ Lok Ma Chau or use other transports to enter the Mainland. \n\nTicket refunds should be obtained within 30 days. Please use the 12306 official website (12306. cn) or mobile app and avoid coming to Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "內地鐵路單位通報，由於天氣情況惡劣，2024年4月25日部分來往香港西九龍站及廣州南的高速鐵路列車車次取消。\n\n已取消的車次:\n\n前往香港西九龍站:G6527，G6515，G6529，G6535\n\n前往廣州南:G6528，G6516，G6530，G6536\n\n有關車次的資料，請留意12306官方網站(12306.cn)或如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁或手機應用程式或香港西九龍站發放的最新資訊。\n\n您可考慮乘搭東鐵綫經羅湖/落馬洲，或使用其他跨境交通工具前往內地。\n\n如需退票，您可在30天內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-24T18:22:16",
+        "last_announcement": "2024-04-24T17:51:00"
+    },
+    "IN-24-02227": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Destination of Individual train service was changed on 25 April 2024",
+            "INCIDENT_DETAIL_CN": "2024年4月25日個別列車始發/終到站更改",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-24T17:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95829",
+                "CONTENT_EN": "As informed by Mainland Railway Authorities, destination of High Speed Rail train G6510 and G6511 between Hong Kong West Kowloon Station and Guangzhounan on 25 April 2024 will change to between Hong Kong West Kowloon Station and Shenzhenbei due to bad weather conditions. \n\nTrains affected:\nG6510(Arrive at Shenzhenbei)\nG6511(Departure from Shenzhenbei)\n\nFor latest train schedules, please refer to 12306 official website (12306. cn) or click the “車站大屏” (only available on Chinese version) on the mobile app, HSR website or mobile app or the information available at Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "內地鐵路單位通報，由於天氣情況惡劣，2024年4月25日原定來往香港西九龍站至廣州南的高速鐵路列車G6510，G6511，更改為來往香港西九龍站至深圳北。\n\n受影響車次:\nG6510(終到站更改為深圳北)\nG6511(始發站更改為深圳北)\n\n有關車次的資料，請留意12306官方網站(12306.cn)或如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁或手機應用程式或香港西九龍站發放的最新資訊。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-24T18:22:16",
+        "last_announcement": "2024-04-24T17:59:00"
+    },
+    "IN-24-02228": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Sha Tin MTR Station",
+            "NEAR_LANDMARK_CN": "沙田港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-24T18:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95830",
+                "CONTENT_EN": "Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin MTR Station is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "大埔公路　–　沙田段(往大埔方向)近沙田港鐵站的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-24T18:22:16",
+        "last_announcement": "2024-04-24T18:03:00"
     }
 }
