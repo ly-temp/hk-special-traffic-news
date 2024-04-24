@@ -91,38 +91,6 @@
         "last_update": "2024-04-24T07:39:32",
         "last_announcement": "2024-04-24T07:30:00"
     },
-    "IN-24-02150": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Inclement Weather",
-            "INCIDENT_DETAIL_CN": "惡劣天氣",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-21T14:59:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95655",
-                "CONTENT_EN": "Due to inclement weather , the following ferry service(s) will be or have been suspended. \nTsui Wah Ferry Service (H. K. ) Limited\nThe ferry service departure from Po Toi Island to Stanley's Blake Pier will be canceled and instead be replaced by a service from Po Toi Island to Aberdeen at 3:00 p. m. and 6:00 p. m.",
-                "CONTENT_CN": "因惡劣天氣，以下渡輪服務將會或已經暫停服務。\n翠華船務（香港）有限公司\n在下午3:00 及下午4:30 由蒲台島開出往赤柱的航班將會取消，並更改為下午3:00 及下午6:00 由蒲台島開出前往香港仔。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-04-21T15:24:25",
-        "last_announcement": "2024-04-21T14:59:00"
-    },
     "IN-24-02151": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
