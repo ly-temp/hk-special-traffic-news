@@ -2720,10 +2720,49 @@
                 "ID": "95819",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wai Yip Street Flyover (Yau Tong bound) near Kai Tai Court is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，偉業街天橋(往油塘方向)近啓泰苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-24T16:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95821",
+                "CONTENT_EN": "Part of the lanes of Wai Yip Street Flyover (Yau Tong bound) near Kai Tai Court which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的偉業街天橋(往油塘方向)近啓泰苑的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-04-24T16:09:04",
-        "last_announcement": "2024-04-24T15:58:00"
+        "last_update": "2024-04-24T16:28:08",
+        "last_announcement": "2024-04-24T16:13:00"
+    },
+    "IN-24-02223": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Subsidence",
+            "INCIDENT_DETAIL_CN": "路面下陷",
+            "LOCATION_EN": "Blue Pool Road",
+            "LOCATION_CN": "藍塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Green Lane",
+            "NEAR_LANDMARK_CN": "箕璉坊",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-24T16:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95820",
+                "CONTENT_EN": "Due to road subsidence , the one-lane-two-way traffic arrangement is being implemented on Blue Pool Road near Green Lane. Traffic is busy now.",
+                "CONTENT_CN": "因路面下陷，藍塘道近箕璉坊現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-04-24T16:28:08",
+        "last_announcement": "2024-04-24T16:06:00"
     }
 }
