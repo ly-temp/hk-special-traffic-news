@@ -2734,10 +2734,49 @@
                 "ID": "95824",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Lookout is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道觀景台的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-24T17:21:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "95826",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Lookout which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近龍翔道觀景台的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-04-24T17:19:10",
-        "last_announcement": "2024-04-24T17:04:00"
+        "last_update": "2024-04-24T17:39:24",
+        "last_announcement": "2024-04-24T17:21:00"
+    },
+    "IN-24-02225": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "St. George Apartments",
+            "NEAR_LANDMARK_CN": "聖佐治大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-24T17:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95827",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near St. George Apartments is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近聖佐治大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-04-24T17:39:24",
+        "last_announcement": "2024-04-24T17:30:00"
     }
 }
