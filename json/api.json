@@ -2594,5 +2594,37 @@
         "district": "灣仔區",
         "last_update": "2024-04-24T11:21:04",
         "last_announcement": "2024-04-24T10:56:00"
+    },
+    "IN-24-02217": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Mok Cheong Street",
+            "LOCATION_CN": "木廠街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-24T11:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95808",
+                "CONTENT_EN": "Due to watermain emergency works, vehicles travelling on Mok Cheong Street are prohibited to make right turning onto Pang Ching Street.",
+                "CONTENT_CN": "因水管緊急維修，車輛不能由木廠街右轉入鵬程街。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-04-24T11:31:25",
+        "last_announcement": "2024-04-24T11:14:00"
     }
 }
