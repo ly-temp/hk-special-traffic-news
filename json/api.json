@@ -52,45 +52,6 @@
         "last_update": "2024-04-24T07:39:32",
         "last_announcement": "2024-04-24T07:30:00"
     },
-    "IN-24-02161": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Chak On Estate",
-            "NEAR_LANDMARK_CN": "澤安邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-22T10:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95682",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近澤安邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-22T11:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95683",
-                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近澤安邨的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-04-22T12:18:42",
-        "last_announcement": "2024-04-22T11:50:00"
-    },
     "IN-24-02162": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3104,5 +3065,37 @@
         "district": "離島區",
         "last_update": "2024-04-25T12:14:44",
         "last_announcement": "2024-04-25T12:01:00"
+    },
+    "IN-23-04165": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road closure due to landslide, road subsidence, fallen tree and flooding",
+            "INCIDENT_DETAIL_CN": "因山泥傾瀉、路陷、塌樹及水浸而封閉的道路",
+            "LOCATION_EN": "Road closure due to landslide and road subsidence",
+            "LOCATION_CN": "因山泥傾瀉及路陷而封閉的道路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "House No. 60",
+            "NEAR_LANDMARK_CN": "門牌60號",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-25T12:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95872",
+                "CONTENT_EN": "In view of Highways Department (HyD)’s partial completion of slope repair and road rehabilitation works at Yiu Hing Road near Yiu Tung Estate, the westbound traffic lane of the concerned road section has been reopened. However, since rehabilitation works is still underway, the eastbound traffic lane of the concerned road section remains temporarily closed to all vehicular traffic. Eastbound services of franchised bus and green minibus services are diverted as follow: - Citybus route nos. 77, 99, 720X and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65, after passing by Yiu Tung Estate Bus Terminus, are diverted via Yiu Hing Road westbound, Wai Hang Street, Tai Lok Street and Shau Kei Wan Road eastbound before resuming their original routeings. Green Minibus route no. 50, after passing by Yiu Tung Estate Bus Terminus, is diverted via Yiu Hing Road westbound, Wai Hang Street and Tai Lok Street before resuming its original routeing. Westbound services of Citybus route nos. 77, 82S, 99 and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 have resumed their original routeings via Yiu Hing Road westbound.",
+                "CONTENT_CN": "因應路政署完成耀興道近耀東邨部分斜坡及路面修復工程，該路段現已重開西行方向的行車線。惟因修復工程仍在進行中，該路段東行方向的行車線仍然暫時封閉。 往東行方向的巴士及小巴路線須改道如下: -城巴第77、99、720X及N8號線、過海巴士第110及606號線及專線小巴第65號線在途經耀東邨巴士總站後，須改經耀興道西行、惠亨街、太樂街及筲箕灣道東行，然後返回原有路線。專線小巴第50號線在途經耀東邨巴士總站後，則會改經耀興道西行、惠亨街及太樂街，然後返回原有路線。 往西行方向的城巴第77、82S、99及N8號線、過海巴士第110及606號線及專線小巴第65號，則恢復行經耀興道西行的原有路線。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-04-25T12:29:04",
+        "last_announcement": "2024-04-25T12:05:00"
     }
 }
