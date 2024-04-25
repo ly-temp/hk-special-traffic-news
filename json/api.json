@@ -130,38 +130,6 @@
         "last_update": "2024-04-22T20:35:42",
         "last_announcement": "2024-04-22T18:55:00"
     },
-    "IN-24-02173": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Wo Yi Hop Road",
-            "LOCATION_CN": "和宜合道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "North Kwai Chung Jockey Club Swimming Pool",
-            "NEAR_LANDMARK_CN": "北葵涌賽馬會游泳池",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-22T18:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95713",
-                "CONTENT_EN": "Part of the lanes of Wo Yi Hop Road (Kwai Chung bound) near North Kwai Chung Jockey Club Swimming Pool which was closed due to vehicle on fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的和宜合道(往葵涌方向)近北葵涌賽馬會游泳池的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-04-22T18:51:07",
-        "last_announcement": "2024-04-22T18:40:00"
-    },
     "IN-24-02178": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3029,5 +2997,37 @@
         "district": "沙田區",
         "last_update": "2024-04-25T18:41:34",
         "last_announcement": "2024-04-25T18:27:00"
+    },
+    "IN-24-02254": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Hammer Hill Road",
+            "NEAR_LANDMARK_CN": "斧山道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-25T18:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95902",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Hammer Hill Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近斧山道的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-04-25T18:51:40",
+        "last_announcement": "2024-04-25T18:35:00"
     }
 }
