@@ -2971,11 +2971,18 @@
                 "ID": "95870",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2024-04-25T14:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95880",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-04-25T11:44:17",
-        "last_announcement": "2024-04-25T11:35:00"
+        "last_update": "2024-04-25T15:16:36",
+        "last_announcement": "2024-04-25T14:56:00"
     },
     "IN-24-02243": {
         "description": {
@@ -3118,5 +3125,37 @@
         "district": "九龍城區",
         "last_update": "2024-04-25T14:25:10",
         "last_announcement": "2024-04-25T14:01:00"
+    },
+    "IN-24-02247": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Long Tin Road (Yuen Long)",
+            "LOCATION_CN": "(元朗)朗天路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tin Shui Wai",
+            "DIRECTION_CN": "天水圍",
+            "NEAR_LANDMARK_EN": "Scenic Gardens",
+            "NEAR_LANDMARK_CN": "御景園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-25T14:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95881",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Long Tin Road (Yuen Long) (Tin Shui Wai bound) near Scenic Gardens is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，(元朗)朗天路(往天水圍方向)近御景園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-04-25T15:16:36",
+        "last_announcement": "2024-04-25T14:59:00"
     }
 }
