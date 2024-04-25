@@ -3121,5 +3121,37 @@
         "district": "離島區",
         "last_update": "2024-04-25T21:20:48",
         "last_announcement": "2024-04-25T20:55:00"
+    },
+    "IN-24-02261": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "King's Road",
+            "LOCATION_CN": "英皇道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Tin Hau Temple Road",
+            "NEAR_LANDMARK_CN": "天后廟道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-26T06:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95918",
+                "CONTENT_EN": "Due to fire, vehicles cannot make turning from King's Road onto Tin Hau Temple Road.   Affected CTB bus route No. 25 will be diverted.   Traffic is busy now.",
+                "CONTENT_CN": "因火警，車輛不能由英皇道轉入天后廟道。  受影響城巴巴士路線第25號將須改道行駛。  現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-04-26T06:18:18",
+        "last_announcement": "2024-04-26T06:07:00"
     }
 }
