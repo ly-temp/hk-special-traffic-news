@@ -130,45 +130,6 @@
         "last_update": "2024-04-22T16:50:27",
         "last_announcement": "2024-04-22T16:42:00"
     },
-    "IN-24-02171": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Boundary Street",
-            "LOCATION_CN": "界限街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "Ho Tung Road",
-            "NEAR_LANDMARK_CN": "何東道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-22T16:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95699",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Boundary Street (Kowloon City bound) near Ho Tung Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，界限街(往九龍城方向)近何東道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-22T16:28:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95700",
-                "CONTENT_EN": "Part of the lanes of Boundary Street (Kowloon City bound) near Ho Tung Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的界限街(往九龍城方向)近何東道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-04-22T16:40:27",
-        "last_announcement": "2024-04-22T16:28:00"
-    },
     "IN-24-02172": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2361,11 +2322,18 @@
                 "ID": "95836",
                 "CONTENT_EN": "Due to watermain emergency works , the fast lane of Kwun Tong Road (Kwun Tong bound) near Ping Shek Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，觀塘道(往觀塘方向)近坪石邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-25T16:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95884",
+                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Kwun Tong Road (Kwun Tong bound) near Ping Shek Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Kwun Tong Road (Kwun Tong bound) ends at Lung Cheung Road near Hammer Hill Road. Traffic is congested now.",
+                "CONTENT_CN": "因水管緊急維修，觀塘道(往觀塘方向)近坪石邨的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘道(往觀塘方向)的車龍龍尾已到龍翔道近斧山道。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-04-24T21:44:55",
-        "last_announcement": "2024-04-24T21:32:00"
+        "last_update": "2024-04-25T16:45:13",
+        "last_announcement": "2024-04-25T16:26:00"
     },
     "IN-24-02231": {
         "description": {
