@@ -3128,5 +3128,37 @@
         "district": "荃灣區",
         "last_update": "2024-04-26T15:07:05",
         "last_announcement": "2024-04-26T14:48:00"
+    },
+    "IN-24-02282": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Low visibility",
+            "INCIDENT_DETAIL_CN": "能見度低",
+            "LOCATION_EN": "Hong Kong Link Road",
+            "LOCATION_CN": "香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-26T15:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95969",
+                "CONTENT_EN": "Due to strong wind condition, the following special traffic and transport arrangements have been implemented on Hong Kong Zhuhai-Macao-Bridge Hong Kong Link Road (HZMB HKLR), with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "因強風關係，港珠澳大橋香港連接路現已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-04-26T16:09:50",
+        "last_announcement": "2024-04-26T15:45:00"
     }
 }
