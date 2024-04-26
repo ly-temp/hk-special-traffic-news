@@ -130,84 +130,6 @@
         "last_update": "2024-04-23T09:51:29",
         "last_announcement": "2024-04-23T09:28:00"
     },
-    "IN-24-02181": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Chuk Yuen Road",
-            "NEAR_LANDMARK_CN": "竹園道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-23T07:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95720",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近竹園道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-23T08:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95722",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Choi Hung Estate. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近竹園道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近彩虹邨。 現時上址交通擠塞。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-04-23T08:54:01",
-        "last_announcement": "2024-04-23T08:01:00"
-    },
-    "IN-24-02182": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sea Crest Villa",
-            "NEAR_LANDMARK_CN": "浪翠園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-23T07:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95721",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sea Crest Villa is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近浪翠園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-23T08:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95723",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sea Crest Villa which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近浪翠園的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-04-23T08:54:01",
-        "last_announcement": "2024-04-23T08:17:00"
-    },
     "IN-24-02184": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3229,11 +3151,25 @@
                 "ID": "95928",
                 "CONTENT_EN": "Due to traffic accident , the only lane of the slip road leading from Lion Rock Tunnel Road to Lung Cheung Road (Kwun Tong bound) is still being closed to all traffic.   Traffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Sha Tin Road near Prince of Wales Hospital.   Motorists are advised to use alternative routes.   Citizens please take note KMB's service has been affected. Citizens heading to areas in the vicinity of Kowloon from Sha Tin please consider using other public transport services, such as MTR services.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，由獅子山隧道公路通往龍翔道(往觀塘方向) 的支路的唯一行車線仍然封閉。  現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到沙田路近威爾斯親王醫院。  駕駛人士請考慮改用其他道路。  市民請留意九巴服務會受影響。由沙田前往九龍一帶的市民請考慮使用其他公共交通服務，例如港鐵服務。  現時上址交通擠塞。"
+            },
+            "2024-04-26T08:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95931",
+                "CONTENT_EN": "The only lane of the slip road leading from Lion Rock Tunnel Road to Lung Cheung Road (Kwun Tong bound) which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.   Citizens please take note KMB's service has been affected. Citizens heading to areas in the vicinity of Kowloon from Sha Tin please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由獅子山隧道公路通往龍翔道(往觀塘方向) 的支路的 唯一行車線現已解封。車龍有待消散。  市民請留意九巴服務會受影響。由沙田前往九龍一帶的市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-04-26T08:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95939",
+                "CONTENT_EN": "Service of KMB which was affected by the traffic accident at the only lane of the slip road leading from Lion Rock Tunnel Road to Lung Cheung Road (Kwun Tong bound) will be gradually resumed normal.",
+                "CONTENT_CN": "較早前因位於由獅子山隧道公路通往龍翔道(往觀塘方向)的支路的唯一行車線的交通意外而受影響的九巴服務將會陸續回復正常。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-04-26T08:25:28",
-        "last_announcement": "2024-04-26T07:55:00"
+        "last_update": "2024-04-26T09:34:18",
+        "last_announcement": "2024-04-26T08:49:00"
     },
     "IN-24-02264": {
         "description": {
@@ -3293,10 +3229,152 @@
                 "ID": "95929",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of San Tin Highway (Yuen Long bound) near Mai Po is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，新田公路(往元朗方向)近米埔的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-26T08:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95932",
+                "CONTENT_EN": "The slow lane of San Tin Highway (Yuen Long bound) near Mai Po which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往元朗方向)近米埔的慢線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-04-26T08:25:28",
-        "last_announcement": "2024-04-26T08:07:00"
+        "last_update": "2024-04-26T09:34:18",
+        "last_announcement": "2024-04-26T08:27:00"
+    },
+    "IN-24-02267": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Rainstorm Incident",
+            "INCIDENT_HEADING_CN": "暴雨事故",
+            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
+            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-26T08:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95935",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-26T09:34:18",
+        "last_announcement": "2024-04-26T08:35:00"
+    },
+    "IN-24-02268": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-26T08:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95936",
+                "CONTENT_EN": "The following road sections are busy:\n-Tolo Highway (Kowloon bound) near Yuen Chau Tsai\n-Yuen Long Highway (Tuen Mun bound) near Tan Kwai Tsuen\n-Lion Rock Tunnel Road (Kowloon bound) near Prince of Wales Hospital.  Motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n-吐露港公路(往九龍方向)近元洲仔\n-元朗公路(往屯門方向)近丹桂村\n-獅子山隧道公路(往九龍方向)近威爾斯親王醫院。  駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-26T09:34:18",
+        "last_announcement": "2024-04-26T08:38:00"
+    },
+    "IN-24-02270": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
+            "LOCATION_CN": "青嶼幹線(青馬大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-26T08:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95940",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往九龍方向) 的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-26T09:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95941",
+                "CONTENT_EN": "The fast lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往九龍方向) 的快線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-04-26T09:34:18",
+        "last_announcement": "2024-04-26T09:02:00"
+    },
+    "IN-24-02271": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Western Harbour Crossing",
+            "LOCATION_CN": "西區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong Island",
+            "DIRECTION_CN": "香港島",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-26T09:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95943",
+                "CONTENT_EN": "The tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西區海底隧道(往香港島方向)的管道快線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-04-26T09:34:18",
+        "last_announcement": "2024-04-26T09:09:00"
     }
 }
