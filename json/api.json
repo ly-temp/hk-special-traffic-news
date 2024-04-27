@@ -236,45 +236,6 @@
         "last_update": "2024-04-25T06:20:43",
         "last_announcement": "2024-04-25T05:59:00"
     },
-    "IN-24-02223": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Subsidence",
-            "INCIDENT_DETAIL_CN": "路面下陷",
-            "LOCATION_EN": "Blue Pool Road",
-            "LOCATION_CN": "藍塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Green Lane",
-            "NEAR_LANDMARK_CN": "箕璉坊",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-24T16:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95820",
-                "CONTENT_EN": "Due to road subsidence , the one-lane-two-way traffic arrangement is being implemented on Blue Pool Road near Green Lane. Traffic is busy now.",
-                "CONTENT_CN": "因路面下陷，藍塘道近箕璉坊現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-04-24T16:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95823",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Blue Pool Road near Holly Road due to road subsidence is now cancelled.",
-                "CONTENT_CN": "較早前因路面下陷而於藍塘道近冬青道實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-04-24T16:49:33",
-        "last_announcement": "2024-04-24T16:38:00"
-    },
     "IN-24-02224": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
