@@ -77,73 +77,6 @@
         "last_update": "2024-04-25T13:49:38",
         "last_announcement": "2024-04-25T13:36:00"
     },
-    "IN-24-02212": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Track Signaling Fault",
-            "INCIDENT_DETAIL_CN": "信號故障",
-            "LOCATION_EN": "East Rail Line Service Disruption",
-            "LOCATION_CN": "東鐵綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-24T07:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95796",
-                "CONTENT_EN": "Due to a signalling fault near Sheung Shui Station, the East Rail Line train service is adjusted as follows. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nLonger waiting time on East Rail Line platforms can be expected. \n\nPlease allow more time for travel.",
-                "CONTENT_CN": "由於上水站附近有信號故障，東鐵綫列車服務作出以下調整。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n現時東鐵綫月台上的乘客較多，候車時間亦會較長。\n\n請為行程預留充裕時間。"
-            },
-            "2024-04-24T10:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95804",
-                "CONTENT_EN": "Transport Department received notification from MTRCL that it is currently non-peak hours and train service on the East Rail Line has resumed to normal frequencies for non-peak hours.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，現時為非繁忙時間，東鐵綫列車服務恢復至非繁忙時間的正常班次。"
-            },
-            "2024-04-24T17:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95825",
-                "CONTENT_EN": "After review, maintenance personnel will adjust the signalling system component near Sheung Shui Station after traffic hours end tonight to complete recovery works. Train service of East Rail Line will be adjusted for evening peak starting from 5:30pm as follows:\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nLonger waiting time on East Rail Line platforms can be expected.",
-                "CONTENT_CN": "經工程人員審視後，需要在今晚收車後調校上水站附近的信號系統組件以完成修復，因此東鐵綫會於黃昏繁忙時間，即五點半開始調整至以下班次：\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n現時東鐵綫月台上的乘客較多，候車時間亦會較長。"
-            },
-            "2024-04-24T20:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95834",
-                "CONTENT_EN": "It is currently non-peak hours and train service on the East Rail Line has resumed to normal frequencies for non-peak hours.",
-                "CONTENT_CN": "現時為非繁忙時間，東鐵綫列車服務恢復至非繁忙時間的正常班次。"
-            },
-            "2024-04-25T02:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95837",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The East Rail Line train service has already ended for 24 April 2024. MTRCL will continue the repair work overnight, and will announce the East Rail Line train service arrangements of 25 April 2024 later based on the progress of work.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 2024年4月24日的東鐵綫列車服務已經終止。港鐵會於非行車時段繼續進行復修工作，並會視乎復修進度盡快通知乘客2024年4月25日的東鐵綫列車服務安排。"
-            },
-            "2024-04-25T06:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95839",
-                "CONTENT_EN": "The repair work near Sheung Shui Station on the East Rail Line has been completed. Normal train service is resuming this morning.",
-                "CONTENT_CN": "上水站附近的復修工作已經完成，東鐵綫列車服務今早回復正常。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-04-25T06:20:43",
-        "last_announcement": "2024-04-25T06:02:00"
-    },
     "IN-24-02217": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -182,59 +115,6 @@
         "district": "九龍城區",
         "last_update": "2024-04-26T08:25:28",
         "last_announcement": "2024-04-26T07:44:00"
-    },
-    "IN-24-02218": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Smithfield",
-            "LOCATION_CN": "士美菲路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Pok Fu Lam",
-            "DIRECTION_CN": "薄扶林",
-            "NEAR_LANDMARK_EN": "Belcher's Street",
-            "NEAR_LANDMARK_CN": "卑路乍街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-24T12:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95810",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Smithfield (Pok Fu Lam bound) near Belcher's Street are closed to all traffic. \nMeanwhile, part of the lanes of Belcher's Street (Victoria Road bound) near Smithfield is closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，士美菲路(往薄扶林方向)近卑路乍街的全線現已封閉。\n同時，卑路乍街(往域多利道方向)近士美菲路的部份行車線現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-04-24T12:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95812",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Smithfield (Pok Fu Lam bound) near Belcher's Street is still being closed to all traffic. Meanwhile, part of the lanes of Belcher's Street (Victoria Road bound) near Smithfield is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，士美菲路(往薄扶林方向)近卑路乍街的部份行車線仍然封閉。 同時，卑路乍街(往域多利道方向)近士美菲路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-24T14:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95818",
-                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Smithfield (Pok Fu Lam bound) near Belcher's Street is still being closed to all traffic. Meanwhile, part of the lanes of Belcher's Street (Victoria Road bound) near Smithfield is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，士美菲路(往薄扶林方向)近卑路乍街的部份行車線仍然封閉。 同時，卑路乍街(往域多利道方向)近士美菲路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-25T05:59:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95838",
-                "CONTENT_EN": "Part of the lanes of Smithfield (Pok Fu Lam bound) near Belcher's Street which was closed due to watermain emergency works is re-opened to all traffic. Meanwhile, part of the lanes of Belcher's Street (Victoria Road bound) near Smithfield is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的士美菲路(往薄扶林方向)近卑路乍街的部份行車線現已解封。 同時，卑路乍街(往域多利道方向)近士美菲路的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-04-25T06:20:43",
-        "last_announcement": "2024-04-25T05:59:00"
     },
     "IN-24-02230": {
         "description": {
