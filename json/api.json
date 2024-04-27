@@ -236,45 +236,6 @@
         "last_update": "2024-04-25T06:20:43",
         "last_announcement": "2024-04-25T05:59:00"
     },
-    "IN-24-02220": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "United Services Recreation Club",
-            "NEAR_LANDMARK_CN": "三軍會",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-24T13:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95814",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Gascoigne Road Flyover (Tai Kok Tsui bound) near United Services Recreation Club is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，加士居道天橋(往大角咀方向)近三軍會的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-04-24T14:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95815",
-                "CONTENT_EN": "The only lane of Gascoigne Road Flyover (Tai Kok Tsui bound) near United Services Recreation Club which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往大角咀方向)近三軍會的唯一行車線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-04-24T14:27:35",
-        "last_announcement": "2024-04-24T14:04:00"
-    },
     "IN-24-02221": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
