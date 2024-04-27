@@ -3063,10 +3063,49 @@
                 "ID": "95995",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-27T12:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "95996",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-04-27T12:20:16",
-        "last_announcement": "2024-04-27T12:07:00"
+        "last_update": "2024-04-27T13:05:42",
+        "last_announcement": "2024-04-27T12:45:00"
+    },
+    "IN-24-02295": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Hoi Shing Road",
+            "LOCATION_CN": "海盛路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Ho Road",
+            "DIRECTION_CN": "大河道",
+            "NEAR_LANDMARK_EN": "Po On Commercial Association Wong Siu Ching Secondary School",
+            "NEAR_LANDMARK_CN": "寶安商會王少清中學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-27T12:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95997",
+                "CONTENT_EN": "Due to watermain emergency works , the only lane of Hoi Shing Road (Tai Ho Road bound) near Po On Commercial Association Wong Siu Ching Secondary School is closed to all traffic. All vehicles are prohibited from making left-turn from Tai Chung Road onto Hoi Shing Road.",
+                "CONTENT_CN": "因水管緊急維修，海盛路(往大河道方向)近寶安商會王少清中學的唯一行車線現已封閉。 所有車輛禁止由大涌道左轉進入海盛路。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-04-27T13:05:42",
+        "last_announcement": "2024-04-27T12:54:00"
     }
 }
