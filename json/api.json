@@ -3043,5 +3043,69 @@
         "district": "西貢區",
         "last_update": "2024-04-27T01:24:45",
         "last_announcement": "2024-04-27T01:07:00"
+    },
+    "IN-24-02291": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "malfunction of traffic lights",
+            "INCIDENT_DETAIL_CN": "交通燈失靈",
+            "LOCATION_EN": "Tat Tung Road",
+            "LOCATION_CN": "達東路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-27T07:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95990",
+                "CONTENT_EN": "Due to malfunction of traffic lights at the junction between Tat Tung Road and Shun Tung Road, motorists are advised to drive with utmost care when passing through the road junction concerned. Members of the public are advised to pay attention to radio / TV announcements on traffic conditions.",
+                "CONTENT_CN": "因達東路與順東路交界的交通燈失靈，駕駛人士在駛經有關路口時請加倍小心。 市民請留意電台/電視廣播的最新交通情況。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-04-27T08:45:13",
+        "last_announcement": "2024-04-27T07:58:00"
+    },
+    "IN-24-02292": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "MegaBox",
+            "NEAR_LANDMARK_CN": "MegaBox",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-27T08:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "95991",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Mong Kok bound) near MegaBox is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近MegaBox的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-27T08:45:13",
+        "last_announcement": "2024-04-27T08:10:00"
     }
 }
