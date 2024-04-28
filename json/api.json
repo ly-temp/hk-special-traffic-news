@@ -38,66 +38,6 @@
         "last_update": "2024-04-26T08:25:28",
         "last_announcement": "2024-04-26T07:44:00"
     },
-    "IN-24-02230": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ping Shek Estate",
-            "NEAR_LANDMARK_CN": "坪石邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-24T21:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95836",
-                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Kwun Tong Road (Kwun Tong bound) near Ping Shek Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，觀塘道(往觀塘方向)近坪石邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-25T16:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95884",
-                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Kwun Tong Road (Kwun Tong bound) near Ping Shek Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Kwun Tong Road (Kwun Tong bound) ends at Lung Cheung Road near Hammer Hill Road. Traffic is congested now.",
-                "CONTENT_CN": "因水管緊急維修，觀塘道(往觀塘方向)近坪石邨的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘道(往觀塘方向)的車龍龍尾已到龍翔道近斧山道。 現時上址交通擠塞。"
-            },
-            "2024-04-25T17:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95887",
-                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Kwun Tong Road (Kwun Tong bound) near Ping Shek Estate is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Kwun Tong Road (Kwun Tong bound) ends at Lung Cheung Road near Hammer Hill Road.   Motorists are advised to use alternative routes. At the same time, members of the public are advised to allow more travel time, plan their itinerary in advance, and consider using other public transport services, such as MTR services.   Traffic is congested now.",
-                "CONTENT_CN": "因水管緊急維修，觀塘道(往觀塘方向)近坪石里的快線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在觀塘道(往觀塘方向)的車龍龍尾已到龍翔道近斧山道。  駕駛人士請考慮改用其他道路。同時，市民請預留充足的出行時間，預早規劃行程，並考慮使用其他公共交通服務，例如港鐵服務。   現時上址交通擠塞。"
-            },
-            "2024-04-25T19:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95911",
-                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Kwun Tong Road (Kwun Tong bound) near Ping Shek Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，觀塘道(往觀塘方向)近坪石里的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-26T07:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95922",
-                "CONTENT_EN": "The fast lane of Kwun Tong Road (Kwun Tong bound) near Ping Shek Estate which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的觀塘道(往觀塘方向)近坪石里的快線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-04-26T07:29:47",
-        "last_announcement": "2024-04-26T07:18:00"
-    },
     "IN-24-02262": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
