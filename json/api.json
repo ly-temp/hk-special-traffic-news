@@ -137,45 +137,6 @@
         "last_update": "2024-04-25T19:38:58",
         "last_announcement": "2024-04-25T19:22:00"
     },
-    "IN-24-02247": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Long Tin Road (Yuen Long)",
-            "LOCATION_CN": "(元朗)朗天路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tin Shui Wai",
-            "DIRECTION_CN": "天水圍",
-            "NEAR_LANDMARK_EN": "Scenic Gardens",
-            "NEAR_LANDMARK_CN": "御景園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-25T14:59:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95881",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Long Tin Road (Yuen Long) (Tin Shui Wai bound) near Scenic Gardens is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，(元朗)朗天路(往天水圍方向)近御景園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-25T15:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95882",
-                "CONTENT_EN": "The slow lane of Long Tin Road (Yuen Long) (Tin Shui Wai bound) near Scenic Gardens which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的(元朗)朗天路(往天水圍方向)近御景園的慢線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-04-25T16:22:59",
-        "last_announcement": "2024-04-25T15:56:00"
-    },
     "IN-24-02249": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2415,10 +2376,17 @@
                 "ID": "96024",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of the slip road leading from Eastern Harbour Crossing  to Island Eastern Corridor (Chai Wan bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，由東區海底隧道通往東區走廊(往柴灣方向) 的支路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-28T16:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96025",
+                "CONTENT_EN": "The fast lane of the slip road leading from Eastern Harbour Crossing  to Island Eastern Corridor (Chai Wan bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由東區海底隧道通往東區走廊(往柴灣方向) 的支路的 快線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-04-28T15:30:03",
-        "last_announcement": "2024-04-28T15:15:00"
+        "last_update": "2024-04-28T16:26:27",
+        "last_announcement": "2024-04-28T16:12:00"
     }
 }
