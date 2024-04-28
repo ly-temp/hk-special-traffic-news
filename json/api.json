@@ -1,43 +1,4 @@
 {
-    "IN-24-02162": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Mody Road",
-            "LOCATION_CN": "麼地道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Bristol Avenue",
-            "NEAR_LANDMARK_CN": "碧仙桃路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-22T12:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95684",
-                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Mody Road (Hung Hom bound) near Bristol Avenue is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，麼地道(往紅磡方向)近碧仙桃路的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-25T11:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95869",
-                "CONTENT_EN": "The slow lane of Mody Road (Hung Hom bound) near Bristol Avenue which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的麼地道(往紅磡方向)近碧仙桃路的慢線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-04-25T11:23:07",
-        "last_announcement": "2024-04-25T11:04:00"
-    },
     "IN-24-02195": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
