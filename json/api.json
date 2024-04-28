@@ -137,116 +137,6 @@
         "last_update": "2024-04-25T21:09:50",
         "last_announcement": "2024-04-25T20:57:00"
     },
-    "IN-24-02257": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Cross Harbour Tunnel",
-            "LOCATION_CN": "海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ho Man Tin",
-            "DIRECTION_CN": "何文田",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-25T19:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95905",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cross Harbour Tunnel (Ho Man Tin bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，海底隧道(往何文田方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-25T20:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95915",
-                "CONTENT_EN": "Part of the lanes of Cross Harbour Tunnel (Ho Man Tin bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的海底隧道(往何文田方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-04-25T20:29:10",
-        "last_announcement": "2024-04-25T20:15:00"
-    },
-    "IN-24-02259": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kai Fuk Road",
-            "LOCATION_CN": "啓福道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Kowloonbay International Trade  Exhibition Centre",
-            "NEAR_LANDMARK_CN": "九龍灣國際展貿中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-25T19:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95910",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kai Fuk Road (Kwun Tong bound) near Kowloonbay International Trade amp; Exhibition Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，啓福道(往觀塘方向)近九龍灣國際展貿中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-25T20:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95913",
-                "CONTENT_EN": "Part of the lanes of Kai Fuk Road (Kwun Tong bound) near Kowloonbay International Trade amp; Exhibition Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的啓福道(往觀塘方向)近九龍灣國際展貿中心的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-04-25T20:29:10",
-        "last_announcement": "2024-04-25T20:07:00"
-    },
-    "IN-24-02260": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Sha Tin Rural Committee Road",
-            "NEAR_LANDMARK_CN": "沙田鄉事會路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-25T20:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95912",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Rural Committee Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田鄉事會路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-04-25T20:29:10",
-        "last_announcement": "2024-04-25T20:04:00"
-    },
     "IN-24-02244": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -2097,5 +1987,37 @@
         "district": "沙田區",
         "last_update": "2024-04-28T17:57:34",
         "last_announcement": "2024-04-28T17:37:00"
+    },
+    "IN-24-02312": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-28T20:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96028",
+                "CONTENT_EN": "Due to high wind, the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge, with details as shown below:\n(i) The speed limit of the fast and middle lanes of HZMB Main Bridge are lowered from 100km/h to 50 km/h; and\n(ii) The speed limit of the slow lane of HZMB Main Bridge is lowered from 80km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋主橋已實施以下特別交通及運輸安排：\n(i)港珠澳大橋主橋的快線及中線車速限制由每小時100公里降至每小時50 公里；及\n(ii)港珠澳大橋主橋的慢線車速限制由每小時80公里降至每小時50 公里。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-04-28T20:29:23",
+        "last_announcement": "2024-04-28T20:00:00"
     }
 }
