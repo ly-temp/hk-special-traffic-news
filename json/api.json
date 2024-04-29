@@ -119,38 +119,6 @@
         "last_update": "2024-04-26T12:50:01",
         "last_announcement": "2024-04-26T12:37:00"
     },
-    "IN-24-02269": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Union Hospital",
-            "NEAR_LANDMARK_CN": "仁安醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-26T09:42:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "95944",
-                "CONTENT_EN": "The middle lane of Lion Rock Tunnel Road (Kowloon bound) near Union Hospital which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的獅子山隧道公路(往九龍方向)近仁安醫院的中線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-04-26T10:08:12",
-        "last_announcement": "2024-04-26T09:42:00"
-    },
     "IN-24-02272": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1787,11 +1755,18 @@
                 "ID": "96038",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tolo Highway (Kowloon bound) near Chak Cheung Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，吐露港公路(往九龍方向)近澤祥街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-29T10:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96040",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Chak Cheung Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的吐露港公路(往九龍方向)近澤祥街的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-04-29T10:02:13",
-        "last_announcement": "2024-04-29T09:39:00"
+        "last_update": "2024-04-29T10:29:41",
+        "last_announcement": "2024-04-29T10:13:00"
     },
     "IN-24-02317": {
         "description": {
