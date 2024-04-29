@@ -1700,5 +1700,37 @@
         "district": "油尖旺區",
         "last_update": "2024-04-29T11:07:37",
         "last_announcement": "2024-04-29T10:45:00"
+    },
+    "IN-24-02319": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wan Tsui Road",
+            "LOCATION_CN": "環翠道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Fung Wah Estate",
+            "DIRECTION_CN": "峰華邨",
+            "NEAR_LANDMARK_EN": "Lin Shing Road",
+            "NEAR_LANDMARK_CN": "連城道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-29T11:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96043",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wan Tsui Road (Fung Wah Estate bound) near Lin Shing Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，環翠道(往峰華邨方向)近連城道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-04-29T11:45:49",
+        "last_announcement": "2024-04-29T11:37:00"
     }
 }
