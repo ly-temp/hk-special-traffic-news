@@ -1,43 +1,4 @@
 {
-    "IN-24-02217": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Mok Cheong Street",
-            "LOCATION_CN": "木廠街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-24T11:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "95808",
-                "CONTENT_EN": "Due to watermain emergency works, vehicles travelling on Mok Cheong Street are prohibited to make right turning onto Pang Ching Street.",
-                "CONTENT_CN": "因水管緊急維修，車輛不能由木廠街右轉入鵬程街。"
-            },
-            "2024-04-26T07:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95926",
-                "CONTENT_EN": "The traffic arrangement of banning right turning from Mok Cheong Street onto Pang Ching Street which was implemented before due to watermain emergency works is now cancelled.",
-                "CONTENT_CN": "較早前因水管緊急維修實施的禁止車輛由木廠街右轉入鵬程街的行車措施現已取消。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-04-26T08:25:28",
-        "last_announcement": "2024-04-26T07:44:00"
-    },
     "IN-24-02262": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -104,38 +65,6 @@
         "district": "沙田區",
         "last_update": "2024-04-26T10:30:28",
         "last_announcement": "2024-04-26T10:10:00"
-    },
-    "IN-24-02264": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Canal Road Flyover",
-            "LOCATION_CN": "堅拿道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen",
-            "DIRECTION_CN": "香港仔",
-            "NEAR_LANDMARK_EN": "Times Square",
-            "NEAR_LANDMARK_CN": "時代廣場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-26T07:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "95927",
-                "CONTENT_EN": "The fast lane of Canal Road Flyover (Aberdeen bound) near Times Square which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的堅拿道天橋(往香港仔方向)近時代廣場的快線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-26T08:25:28",
-        "last_announcement": "2024-04-26T07:51:00"
     },
     "IN-24-02265": {
         "description": {
@@ -1170,11 +1099,18 @@
                 "ID": "95994",
                 "CONTENT_EN": "Due to watermain emergency works , the fast lane of Tai Nan West Street (King Lam Street bound) near Cheung Shun Street is closed to all traffic. Only remaining lanes is available to motorists.",
                 "CONTENT_CN": "因水管緊急維修，大南西街(往瓊林街方向)近長順街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-04-29T08:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96034",
+                "CONTENT_EN": "The fast lane of Tai Nan West Street (King Lam Street bound) near Cheung Shun Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的大南西街(往瓊林街方向)近長順街的快線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-04-27T11:27:48",
-        "last_announcement": "2024-04-27T11:05:00"
+        "last_update": "2024-04-29T09:09:37",
+        "last_announcement": "2024-04-29T08:55:00"
     },
     "IN-24-02294": {
         "description": {
@@ -1842,5 +1778,115 @@
         "district": null,
         "last_update": "2024-04-28T22:31:07",
         "last_announcement": "2024-04-28T22:15:00"
+    },
+    "IN-24-02313": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kai Cheung Road",
+            "LOCATION_CN": "啓祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kai Fuk Road",
+            "DIRECTION_CN": "啓福道",
+            "NEAR_LANDMARK_EN": "Kowloonbay International Trade  Exhibition Centre",
+            "NEAR_LANDMARK_CN": "九龍灣國際展貿中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-29T08:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96030",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kai Cheung Road (Kai Fuk Road bound) near Kowloonbay International Trade amp; Exhibition Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，啓祥道(往啓福道方向)近九龍灣國際展貿中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-29T08:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96031",
+                "CONTENT_EN": "Part of the lanes of Kai Cheung Road (Kai Fuk Road bound) near Kowloonbay International Trade amp; Exhibition Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的啓祥道(往啓福道方向)近九龍灣國際展貿中心的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-29T09:09:37",
+        "last_announcement": "2024-04-29T08:22:00"
+    },
+    "IN-24-02314": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Che Kung Miu Road (Che Kung Miu Road Roundabout)",
+            "LOCATION_CN": "車公廟路(車公廟路迴旋處)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-29T08:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96032",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Che Kung Miu Road Roundabout is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，車公廟路迴旋處的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-29T09:09:37",
+        "last_announcement": "2024-04-29T08:37:00"
+    },
+    "IN-24-02315": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong By-Pass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Laguna City",
+            "NEAR_LANDMARK_CN": "麗港城",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-29T08:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96033",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong By-Pass (Mong Kok bound) near Laguna City is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近麗港城的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-29T08:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96036",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong By-Pass (Mong Kok bound) near Laguna City is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong By-Pass (Mong Kok bound) ends at Tseung Kwan O Tunnel Road near Po Hong Park. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近麗港城的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往旺角方向)的車龍龍尾已到將軍澳隧道公路近寶康公園。 現時上址交通擠塞。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-29T09:09:37",
+        "last_announcement": "2024-04-29T08:56:00"
     }
 }
