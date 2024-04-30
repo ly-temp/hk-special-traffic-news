@@ -38,45 +38,6 @@
         "last_update": "2024-04-29T09:09:37",
         "last_announcement": "2024-04-29T08:55:00"
     },
-    "IN-24-02306": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Sea Crest Villa",
-            "NEAR_LANDMARK_CN": "浪翠園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-27T19:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96016",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Tuen Mun bound) near Sea Crest Villa is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近浪翠園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-27T19:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96017",
-                "CONTENT_EN": "The slow lane of Tuen Mun Road (Tuen Mun bound) near Sea Crest Villa which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往屯門方向)近浪翠園的慢線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-04-27T19:46:01",
-        "last_announcement": "2024-04-27T19:26:00"
-    },
     "IN-24-02307": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1849,5 +1810,37 @@
         "district": "中西區",
         "last_update": "2024-04-30T19:22:23",
         "last_announcement": "2024-04-30T19:15:00"
+    },
+    "IN-24-02357": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Choi Hung Interchange",
+            "LOCATION_CN": "彩虹交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Kwun Tong Road",
+            "NEAR_LANDMARK_CN": "觀塘道",
+            "BETWEEN_LANDMARK_EN": "Clear Water Bay Road",
+            "BETWEEN_LANDMARK_CN": "清水灣道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-30T19:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96126",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Choi Hung Interchange flyover connecting Kwun Tong Road and Clear Water Bay Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，連接觀塘道與清水灣道之間的彩虹交匯處天橋的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-04-30T19:53:17",
+        "last_announcement": "2024-04-30T19:41:00"
     }
 }
