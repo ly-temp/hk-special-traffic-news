@@ -38,38 +38,6 @@
         "last_update": "2024-04-29T09:09:37",
         "last_announcement": "2024-04-29T08:55:00"
     },
-    "IN-24-02298": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Tsun Yip Lane",
-            "NEAR_LANDMARK_CN": "駿業里",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-27T15:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96002",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Tsun Yip Lane which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近駿業里的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-04-27T15:39:00",
-        "last_announcement": "2024-04-27T15:28:00"
-    },
     "IN-24-02299": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1862,10 +1830,17 @@
                 "ID": "96108",
                 "CONTENT_EN": "Due to traffic accident , the only lane of the North West Tsing Yi Interchange slip road leading from Lantau Link to Cheung Tsing Highway (Kowloon bound) is closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青衣西北交匯處由青嶼幹線通往長青公路(往九龍方向) 的支路的唯一行車線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-04-30T15:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96109",
+                "CONTENT_EN": "The only lane of the North West Tsing Yi Interchange slip road leading from Lantau Link to Cheung Tsing Highway (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青衣西北交匯處由青嶼幹線通往長青公路(往九龍方向) 的支路的 唯一行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-04-30T14:58:15",
-        "last_announcement": "2024-04-30T14:45:00"
+        "last_update": "2024-04-30T15:48:26",
+        "last_announcement": "2024-04-30T15:37:00"
     }
 }
