@@ -1798,10 +1798,49 @@
                 "ID": "96117",
                 "CONTENT_EN": "The following road sections are busy:\n– East Kowloon Way (Tsim Sha Tsui bound)\n– Chatham Road North (Tsim Sha Tsui bound)\n– Yuen Long Highway (Tuen Mun bound)\n– Tuen Mun Road near San Hui (Yuen Long bound)\n– Lung Cheung Road near Lion Rock Tunnel (Tsuen Wan bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–東九龍走廊(往尖沙咀方向)\n–漆咸道北(往尖沙咀方向)\n–元朗公路(往屯門方向)\n–屯門公路近新墟(往元朗方向)\n–龍翔道近獅子山隧道(往荃灣方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-04-30T18:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96118",
+                "CONTENT_EN": "The following road sections are busy:\n– East Kowloon Way (Tsim Sha Tsui bound)\n– Chatham Road North (Tsim Sha Tsui bound)\n– Yuen Long Highway (Tuen Mun bound)\n– Tuen Mun Road near San Hui (Yuen Long bound)\n– Lung Cheung Road near Lion Rock Tunnel (Tsuen Wan bound)\n– Prince Edward Road East (Mong Kok bound)\n– Prince Edward Road West (Mong Kok bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–東九龍走廊(往尖沙咀方向)\n–漆咸道北(往尖沙咀方向)\n–元朗公路(往屯門方向)\n–屯門公路近新墟(往元朗方向)\n–龍翔道近獅子山隧道(往荃灣方向)\n–太子道東(往旺角方向)\n–太子道西(往旺角方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-04-30T18:32:54",
-        "last_announcement": "2024-04-30T18:18:00"
+        "last_update": "2024-04-30T18:43:17",
+        "last_announcement": "2024-04-30T18:31:00"
+    },
+    "IN-24-02354": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Kak Tin Village",
+            "NEAR_LANDMARK_CN": "隔田村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-30T18:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96120",
+                "CONTENT_EN": "The fast lane of Lion Rock Tunnel Road (Tai Po bound) near Kak Tin Village which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往大埔方向)近隔田村的快線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-04-30T18:43:17",
+        "last_announcement": "2024-04-30T18:37:00"
     }
 }
