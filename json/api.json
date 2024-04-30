@@ -1961,10 +1961,49 @@
                 "ID": "96136",
                 "CONTENT_EN": "Due to fallen tree , part of the lanes of Yuen Long Highway (Tai Lam Tunnel bound) near Crescent Green is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因塌樹，元朗公路(往大欖隧道方向)近山水盈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-04-30T22:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96139",
+                "CONTENT_EN": "Due to fallen tree , all lanes of Yuen Long Highway (Tai Lam Tunnel bound) near Crescent Green are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，元朗公路(往大欖隧道方向)近山水盈的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-04-30T21:59:04",
-        "last_announcement": "2024-04-30T21:51:00"
+        "last_update": "2024-04-30T22:18:37",
+        "last_announcement": "2024-04-30T22:04:00"
+    },
+    "IN-24-02363": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road",
+            "LOCATION_CN": "港珠澳大橋香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-30T21:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96138",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-04-30T22:18:37",
+        "last_announcement": "2024-04-30T21:57:00"
     }
 }
