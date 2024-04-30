@@ -1842,5 +1842,37 @@
         "district": "沙田區",
         "last_update": "2024-04-30T18:43:17",
         "last_announcement": "2024-04-30T18:37:00"
+    },
+    "IN-24-02356": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Connaught Road Central",
+            "LOCATION_CN": "干諾道中",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Western Harbour Crossing",
+            "DIRECTION_CN": "西區海底隧道",
+            "NEAR_LANDMARK_EN": "Shun Tak Centre",
+            "NEAR_LANDMARK_CN": "信德中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-30T18:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96122",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central flyover (Western Harbour Crossing bound) near Shun Tak Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，干諾道中天橋(往西區海底隧道方向)近信德中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-04-30T19:10:10",
+        "last_announcement": "2024-04-30T18:58:00"
     }
 }
