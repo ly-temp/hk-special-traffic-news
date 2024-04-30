@@ -2000,11 +2000,18 @@
                 "ID": "96138",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2024-04-30T22:35:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96143",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-04-30T22:18:37",
-        "last_announcement": "2024-04-30T21:57:00"
+        "last_update": "2024-04-30T22:49:11",
+        "last_announcement": "2024-04-30T22:35:00"
     },
     "IN-24-02362": {
         "description": {
@@ -2037,5 +2044,37 @@
         "district": "觀塘區",
         "last_update": "2024-04-30T22:39:02",
         "last_announcement": "2024-04-30T22:28:00"
+    },
+    "IN-24-02359": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Low visibility",
+            "INCIDENT_DETAIL_CN": "能見度低",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Main Bridge",
+            "LOCATION_CN": "港珠澳大橋主橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-30T22:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96142",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge has resumed 100 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge has resumed 80km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋主橋已實施以下安排： (i)港珠澳大橋主橋的快線及中線車速限制恢復為每小時100公里；及 (ii)港珠澳大橋主橋的慢線車速限制恢復為每小時80公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-04-30T22:49:11",
+        "last_announcement": "2024-04-30T22:34:00"
     }
 }
