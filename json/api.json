@@ -2232,5 +2232,37 @@
         "district": "油尖旺區",
         "last_update": "2024-05-01T10:18:00",
         "last_announcement": "2024-05-01T10:07:00"
+    },
+    "IN-24-02369": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy road sections",
+            "LOCATION_CN": "繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-01T11:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96155",
+                "CONTENT_EN": "The following road sections are busy:\n– Lin Shing Road (both bound)\n– Wan Tsui Road (both bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–連城道(來回方向)\n–環翠道(來回方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-01T12:14:08",
+        "last_announcement": "2024-05-01T11:53:00"
     }
 }
