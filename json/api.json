@@ -2195,11 +2195,18 @@
                 "ID": "96158",
                 "CONTENT_EN": "The following road section(s) are busy: – Lin Shing Road (both bounds) – Wan Tsui Road (both bounds) – Island Eastern Corridor (Chai Wan bound) near Chai Wan Park – Kwun Tong Bypass (Kowloon Bay bound) Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙: –連城道(來回方向) –環翠道(來回方向) –東區走廊(往柴灣方向)近柴灣公園 –觀塘繞道(往九龍灣方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-05-01T14:26:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96161",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Lin Shing Road (both bound)\n– Wan Tsui Road (both bound)\n– Island Eastern Corridor (Chai Wan bound) near Chai Wan Park\n– Kwun Tong Bypass (Kowloon Bay bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–連城道(來回方向)\n–環翠道(來回方向)\n–東區走廊(往柴灣方向)近柴灣公園\n–觀塘繞道(往九龍灣方向)。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-01T13:39:59",
-        "last_announcement": "2024-05-01T13:17:00"
+        "last_update": "2024-05-01T14:38:43",
+        "last_announcement": "2024-05-01T14:26:00"
     },
     "IN-24-02370": {
         "description": {
@@ -2259,10 +2266,17 @@
                 "ID": "96159",
                 "CONTENT_EN": "Due to obstacles on road , part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有障礙物，屯門公路(往元朗方向)近新墟的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-01T14:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96160",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui which was closed due to obstacles on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有障礙物而封閉的屯門公路(往元朗方向)近新墟的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-05-01T14:26:46",
-        "last_announcement": "2024-05-01T14:04:00"
+        "last_update": "2024-05-01T14:38:43",
+        "last_announcement": "2024-05-01T14:23:00"
     }
 }
