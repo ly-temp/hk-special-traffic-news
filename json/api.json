@@ -38,45 +38,6 @@
         "last_update": "2024-04-29T09:09:37",
         "last_announcement": "2024-04-29T08:55:00"
     },
-    "IN-24-02310": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Eastern Harbour Crossing",
-            "LOCATION_CN": "東區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-28T15:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96024",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of the slip road leading from Eastern Harbour Crossing  to Island Eastern Corridor (Chai Wan bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，由東區海底隧道通往東區走廊(往柴灣方向) 的支路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-28T16:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96025",
-                "CONTENT_EN": "The fast lane of the slip road leading from Eastern Harbour Crossing  to Island Eastern Corridor (Chai Wan bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的由東區海底隧道通往東區走廊(往柴灣方向) 的支路的 快線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-04-28T16:26:27",
-        "last_announcement": "2024-04-28T16:12:00"
-    },
     "IN-24-02311": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1858,11 +1819,18 @@
                 "ID": "96147",
                 "CONTENT_EN": "The slow lane of Yuen Long Highway (Tai Lam Tunnel bound) near Crescent Green which was closed due to fallen tree is re-opened to all traffic;\nthe fast lane of Yuen Long Highway (Tai Lam Tunnel bound) near Crescent Green is still closed to all traffic.",
                 "CONTENT_CN": "較早前因塌樹而封閉的元朗公路(往大欖隧道方向)近山水盈的慢線現已解封;\n元朗公路(往大欖隧道方向)近山水盈的快線仍然封閉。"
+            },
+            "2024-05-01T16:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96169",
+                "CONTENT_EN": "The fast lane of Yuen Long Highway (Tai Lam Tunnel bound) near Crescent Green which was closed due to fallen tree is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因塌樹而封閉的元朗公路(往大欖隧道方向)近山水盈的快線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-05-01T00:36:35",
-        "last_announcement": "2024-05-01T00:10:00"
+        "last_update": "2024-05-01T16:32:43",
+        "last_announcement": "2024-05-01T16:15:00"
     },
     "IN-24-02363": {
         "description": {
@@ -2383,10 +2351,17 @@
                 "ID": "96166",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of the slip road leading from Connaught Road Central flyover (Central bound) to Man Po Street  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，由干諾道中天橋(往中環方向)通往民寶街 的支路的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-01T16:11:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96168",
+                "CONTENT_EN": "The slow lane of the slip road leading from Connaught Road Central flyover (Central bound) to Man Po Street  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由干諾道中天橋(往中環方向)通往民寶街 的支路的 慢線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-05-01T16:14:13",
-        "last_announcement": "2024-05-01T15:47:00"
+        "last_update": "2024-05-01T16:32:43",
+        "last_announcement": "2024-05-01T16:11:00"
     }
 }
