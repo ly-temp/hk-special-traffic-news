@@ -2232,5 +2232,37 @@
         "district": "觀塘區",
         "last_update": "2024-05-01T13:19:53",
         "last_announcement": "2024-05-01T13:01:00"
+    },
+    "IN-24-02371": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "obstacles on road",
+            "INCIDENT_DETAIL_CN": "路面有障礙物",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "San Hui",
+            "NEAR_LANDMARK_CN": "新墟",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-01T14:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96159",
+                "CONTENT_EN": "Due to obstacles on road , part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因路面有障礙物，屯門公路(往元朗方向)近新墟的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-01T14:26:46",
+        "last_announcement": "2024-05-01T14:04:00"
     }
 }
