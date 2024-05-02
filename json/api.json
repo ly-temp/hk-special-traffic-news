@@ -38,45 +38,6 @@
         "last_update": "2024-04-29T17:20:20",
         "last_announcement": "2024-04-29T17:02:00"
     },
-    "IN-24-02327": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tsing Sha Highway",
-            "LOCATION_CN": "青沙公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Shing Mun Tunnel Road",
-            "NEAR_LANDMARK_CN": "城門隧道公路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-29T16:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96057",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsing Sha Highway (Tai Po bound) near Shing Mun Tunnel Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青沙公路(往大埔方向)近城門隧道公路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-29T16:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96058",
-                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Tai Po bound) near Shing Mun Tunnel Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青沙公路(往大埔方向)近城門隧道公路的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-04-29T16:58:13",
-        "last_announcement": "2024-04-29T16:45:00"
-    },
     "IN-24-02328": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2259,10 +2220,17 @@
                 "ID": "96191",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (North Point bound) near Causeway Bay Typhoon Shelter is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，東區走廊(往北角方向)近銅鑼灣避風塘的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-02T17:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96193",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (North Point bound) near Causeway Bay Typhoon Shelter which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往北角方向)近銅鑼灣避風塘的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-05-02T16:45:24",
-        "last_announcement": "2024-05-02T16:33:00"
+        "last_update": "2024-05-02T17:14:58",
+        "last_announcement": "2024-05-02T17:03:00"
     }
 }
