@@ -1,43 +1,4 @@
 {
-    "IN-24-02321": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-29T12:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96050",
-                "CONTENT_EN": "The following road sections are busy:\n-Yeung Uk Road (Tsuen Wan West Station bound) near Wang Lung Street\n-Tsing Tsuen Road (Tsuen Kam Interchange bound)\n-Wang Lung Street\n-Tsuen Tsing Interchange\n-The slip road leading from Tsuen Wan Road (Tuen Mun bound) to Tsuen Tsing Interchange\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n-楊屋道(往荃灣西站方向)近橫龍街\n-青荃路(往荃錦交匯處方向)\n-橫龍街\n-荃青交匯處\n-由荃灣路(往屯門方向)通往荃青交匯處的支路\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-04-29T13:26:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96052",
-                "CONTENT_EN": "Traffic at the following road sections has resumed normal:\n-Yeung Uk Road (Tsuen Wan West Station bound) near Wang Lung Street\n-Tsing Tsuen Road (Tsuen Kam Interchange bound)\n-Wang Lung Street\n-Tsuen Tsing Interchange\n-The slip road leading from Tsuen Wan Road (Tuen Mun bound) to Tsuen Tsing Interchange.",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n-楊屋道(往荃灣西站方向)近橫龍街\n-青荃路(往荃錦交匯處方向)\n-橫龍街\n-荃青交匯處\n-由荃灣路(往屯門方向)通往荃青交匯處的支路。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-04-29T13:58:56",
-        "last_announcement": "2024-04-29T13:26:00"
-    },
     "IN-24-02326": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
