@@ -2200,5 +2200,37 @@
         "district": "觀塘區",
         "last_update": "2024-05-02T10:28:05",
         "last_announcement": "2024-05-02T10:18:00"
+    },
+    "IN-24-02378": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Fung Tak Road",
+            "LOCATION_CN": "鳳德道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Shatin Pass Road",
+            "DIRECTION_CN": "沙田㘭道",
+            "NEAR_LANDMARK_EN": "Sheung Fung Street",
+            "NEAR_LANDMARK_CN": "雙鳳街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-02T11:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96180",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Fung Tak Road (Shatin Pass Road bound) near Sheung Fung Street is closed to all traffic. Only remaining lane is available to motorists.",
+                "CONTENT_CN": "因水管緊急維修，鳳德道(往沙田㘭道方向)近雙鳳街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-05-02T11:41:22",
+        "last_announcement": "2024-05-02T11:24:00"
     }
 }
