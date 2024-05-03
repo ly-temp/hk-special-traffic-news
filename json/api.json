@@ -1854,11 +1854,18 @@
                 "ID": "96265",
                 "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Tai Po Road - Sha Tin (Tai Po bound)\n– Salisbury Road (Star Ferry Pier bound)\nBut, the following road section is still busy:\n– Nathan Road (Tsim Sha Tsui bound).",
                 "CONTENT_CN": "以下路段的交通現已恢復正常:\n–大埔公路　–　沙田段(往大埔方向)\n–梳士巴利道(往天星碼頭方向)\n然而，以下路段的交通仍然繁忙:\n–彌敦道(往尖沙咀方向)。"
+            },
+            "2024-05-03T21:13:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96268",
+                "CONTENT_EN": "Traffic at the following road section has resumed normal:\n– Nathan Road (Tsim Sha Tsui bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–彌敦道(往尖沙咀方向)。"
             }
         },
         "district": null,
-        "last_update": "2024-05-03T21:02:17",
-        "last_announcement": "2024-05-03T20:42:00"
+        "last_update": "2024-05-03T21:23:33",
+        "last_announcement": "2024-05-03T21:13:00"
     },
     "IN-24-02405": {
         "description": {
@@ -2118,5 +2125,44 @@
         "district": "灣仔區",
         "last_update": "2024-05-03T19:56:51",
         "last_announcement": "2024-05-03T19:39:00"
+    },
+    "IN-24-02414": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Tin Ma Court",
+            "NEAR_LANDMARK_CN": "天馬苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-03T20:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96266",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近天馬苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-03T21:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96267",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Kwun Tong bound) ends at Lung Cheung Road near Lung Cheung Road Lookout. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近天馬苑的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往觀塘方向)的車龍龍尾已到龍翔道近龍翔道眺望處。 現時上址交通擠塞。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-05-03T21:23:33",
+        "last_announcement": "2024-05-03T21:10:00"
     }
 }
