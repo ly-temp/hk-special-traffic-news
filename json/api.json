@@ -1,43 +1,4 @@
 {
-    "IN-24-02352": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kai Yip Estate",
-            "NEAR_LANDMARK_CN": "啟業邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-04-30T16:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96114",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近啟業邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-04-30T17:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96115",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近啟業邨的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-04-30T17:16:20",
-        "last_announcement": "2024-04-30T17:04:00"
-    },
     "IN-24-02353": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2014,11 +1975,18 @@
                 "ID": "96234",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Smithfield (Pok Fu Lam bound) near Rock Hill Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，士美菲路(往薄扶林方向)近石山街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-03T16:58:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96238",
+                "CONTENT_EN": "Part of the lanes of Smithfield (Pok Fu Lam bound) near Rock Hill Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的士美菲路(往薄扶林方向)近石山街的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-05-03T16:40:31",
-        "last_announcement": "2024-05-03T16:30:00"
+        "last_update": "2024-05-03T17:22:55",
+        "last_announcement": "2024-05-03T16:58:00"
     },
     "IN-24-02404": {
         "description": {
@@ -2051,5 +2019,37 @@
         "district": null,
         "last_update": "2024-05-03T17:06:23",
         "last_announcement": "2024-05-03T16:53:00"
+    },
+    "IN-24-02405": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Salisbury Road",
+            "DIRECTION_CN": "梳士巴利道",
+            "NEAR_LANDMARK_EN": "Chungking Mansions",
+            "NEAR_LANDMARK_CN": "重慶大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-03T17:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96240",
+                "CONTENT_EN": "Part of the lanes of Nathan Road (Salisbury Road bound) near Chungking Mansions which was closed due to emergency incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因突發事件而封閉的彌敦道(往梳士巴利道方向)近重慶大廈的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-05-03T17:22:55",
+        "last_announcement": "2024-05-03T17:10:00"
     }
 }
