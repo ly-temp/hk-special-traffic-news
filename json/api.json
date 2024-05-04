@@ -1921,11 +1921,18 @@
                 "ID": "96272",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Ying Yip Road (both bounds) are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，影業路(來回方向)的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-05-04T07:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96274",
+                "CONTENT_EN": "Due to flooding , all lanes of Ying Yip Road (both bounds) are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因水浸，影業路(來回方向)的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-05-04T07:59:29",
-        "last_announcement": "2024-05-04T07:48:00"
+        "last_update": "2024-05-04T09:20:23",
+        "last_announcement": "2024-05-04T07:59:00"
     },
     "IN-24-02416": {
         "description": {
@@ -1953,10 +1960,81 @@
                 "ID": "96271",
                 "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2024-05-04T08:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96278",
+                "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2024-05-04T07:59:29",
-        "last_announcement": "2024-05-04T07:40:00"
+        "last_update": "2024-05-04T09:20:23",
+        "last_announcement": "2024-05-04T08:55:00"
+    },
+    "IN-24-02417": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Flooding",
+            "INCIDENT_DETAIL_CN": "水浸",
+            "LOCATION_EN": "Wan Po Road",
+            "LOCATION_CN": "環保大道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Chun Yat Street",
+            "NEAR_LANDMARK_CN": "駿日街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-04T07:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96273",
+                "CONTENT_EN": "Due to flooding , part of the lanes of Wan Po Road (both bounds) near Chun Yat Street is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水浸，環保大道(來回方向)近駿日街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-05-04T09:20:23",
+        "last_announcement": "2024-05-04T07:55:00"
+    },
+    "IN-24-02418": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Flooding",
+            "INCIDENT_DETAIL_CN": "水浸",
+            "LOCATION_EN": "Clear Water Bay Bus Terminus",
+            "LOCATION_CN": "清水灣巴士總站",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Tai Au Mun Road",
+            "NEAR_LANDMARK_CN": "大坳門路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-04T08:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96275",
+                "CONTENT_EN": "Due to flooding , the bus terminus on Tai Au Mun Road, Clear Water Bay is closed. \nAffected KMB bus route no. 91 has been diverted.",
+                "CONTENT_CN": "因水浸，位於清水灣大坳門路的巴士總站現已封閉。\n受影響九巴巴士第91號線須改道行駛。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-05-04T09:20:23",
+        "last_announcement": "2024-05-04T08:08:00"
     }
 }
