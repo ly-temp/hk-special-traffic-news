@@ -2202,5 +2202,37 @@
         "district": "沙田區",
         "last_update": "2024-05-04T15:22:35",
         "last_announcement": "2024-05-04T15:12:00"
+    },
+    "IN-24-02431": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "North Point Ferry Pier",
+            "NEAR_LANDMARK_CN": "北角碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-04T15:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96313",
+                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Chai Wan bound) near North Point Ferry Pier which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往柴灣方向)近北角碼頭的慢線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-05-04T15:53:43",
+        "last_announcement": "2024-05-04T15:48:00"
     }
 }
