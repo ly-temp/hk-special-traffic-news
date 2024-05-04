@@ -1,36 +1,4 @@
 {
-    "IN-24-02375": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-01T18:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96170",
-                "CONTENT_EN": "In view with the cancellation of the concert which is scheduled to be held at Central Harbourfront Event Space on 1 May 2024, special bus services Citybus Route Nos. 18R, 976R, A11R, KMB Route Nos.160R, 168R and 178R will not be operated on the same day.",
-                "CONTENT_CN": "因應原定於2024年5月1日在中環海濱活動空間舉行的演唱會取消，特別巴士路線城巴第18R、976R、A11R、九巴第160R、168R及178R號線將不會於同日提供服務。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-05-01T18:56:35",
-        "last_announcement": "2024-05-01T18:44:00"
-    },
     "IN-24-02376": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2401,5 +2369,37 @@
         "district": "葵青區",
         "last_update": "2024-05-04T18:29:18",
         "last_announcement": "2024-05-04T18:22:00"
+    },
+    "IN-24-02439": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Shing Mun Tunnel Road",
+            "LOCATION_CN": "城門隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": "Tung Lo Wan Village",
+            "NEAR_LANDMARK_CN": "銅鑼灣村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-04T18:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96330",
+                "CONTENT_EN": "Due to road incident , part of the lanes of Shing Mun Tunnel Road (Sha Tin bound) near Tung Lo Wan Village is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因道路事故，城門隧道公路(往沙田方向)近銅鑼灣村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-05-04T18:59:56",
+        "last_announcement": "2024-05-04T18:47:00"
     }
 }
