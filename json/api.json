@@ -52,98 +52,6 @@
         "last_update": "2024-05-01T16:32:43",
         "last_announcement": "2024-05-01T16:15:00"
     },
-    "IN-24-02369": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Busy road sections",
-            "LOCATION_CN": "繁忙路段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-01T11:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96155",
-                "CONTENT_EN": "The following road sections are busy:\n– Lin Shing Road (both bound)\n– Wan Tsui Road (both bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–連城道(來回方向)\n–環翠道(來回方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-05-01T12:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96156",
-                "CONTENT_EN": "The following road sections are busy:\n– Lin Shing Road (both bound)\n– Wan Tsui Road (both bound)\n– Island Eastern Corridor (Chai Wan bound) near Chai Wan Park\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–連城道(來回方向)\n–環翠道(來回方向)\n–東區走廊(往柴灣方向)近柴灣公園\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-05-01T13:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96158",
-                "CONTENT_EN": "The following road section(s) are busy: – Lin Shing Road (both bounds) – Wan Tsui Road (both bounds) – Island Eastern Corridor (Chai Wan bound) near Chai Wan Park – Kwun Tong Bypass (Kowloon Bay bound) Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙: –連城道(來回方向) –環翠道(來回方向) –東區走廊(往柴灣方向)近柴灣公園 –觀塘繞道(往九龍灣方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-05-01T14:26:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96161",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Lin Shing Road (both bound)\n– Wan Tsui Road (both bound)\n– Island Eastern Corridor (Chai Wan bound) near Chai Wan Park\n– Kwun Tong Bypass (Kowloon Bay bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–連城道(來回方向)\n–環翠道(來回方向)\n–東區走廊(往柴灣方向)近柴灣公園\n–觀塘繞道(往九龍灣方向)。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-01T14:38:43",
-        "last_announcement": "2024-05-01T14:26:00"
-    },
-    "IN-24-02371": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "obstacles on road",
-            "INCIDENT_DETAIL_CN": "路面有障礙物",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "San Hui",
-            "NEAR_LANDMARK_CN": "新墟",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-01T14:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96159",
-                "CONTENT_EN": "Due to obstacles on road , part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因路面有障礙物，屯門公路(往元朗方向)近新墟的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-01T14:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96160",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui which was closed due to obstacles on road is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面有障礙物而封閉的屯門公路(往元朗方向)近新墟的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-01T14:38:43",
-        "last_announcement": "2024-05-01T14:23:00"
-    },
     "IN-24-02372": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2048,11 +1956,18 @@
                 "ID": "96298",
                 "CONTENT_EN": "The following road sections which was closed due to flooding are re-opened to all traffic:\n– Clear Water Bay Road (Ngau Chi Wan bound) near Hiram's Highway\n–Tai Mong Tsai Road (both bounds) near Tso Wo Hang\n–Clear Water Bay Road (both bounds) near Tai Po Tsai.  Services of KMB bus routes nos. 33R, 74R, 91, 91M, 94, 96R, 99, 289R and 299X are still suspended until further notice.   Members of the public are advised to pay attention to radio / TV announcements on traffic conditions.",
                 "CONTENT_CN": "以下較早前因水浸而封閉的路段現已全部解封:\n–清水灣道(往牛池灣方向)近西貢公路\n–大網仔路(來回方向)近早禾坑\n–清水灣道(來回方向)近大埔仔\n。  九巴巴士第33R、74R、91、91M、94、96R、99、289R及299X號線仍然暫停服務，直至另行通知。  市民請留意電台/電視廣播的最新交通情況。"
+            },
+            "2024-05-04T14:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96305",
+                "CONTENT_EN": "Due to earlier flooding, services of KMB bus routes nos. 33R, 74R, 94, 96R and 289R are still suspended until further notice.   Members of the public are advised to pay attention to radio / TV announcements on traffic conditions.",
+                "CONTENT_CN": "受較早前水浸影響，九巴巴士第33R、74R、94、96R及289R號線仍然暫停服務，直至另行通知。  市民請留意電台/電視廣播的最新交通情況。"
             }
         },
         "district": null,
-        "last_update": "2024-05-04T13:18:34",
-        "last_announcement": "2024-05-04T12:35:00"
+        "last_update": "2024-05-04T14:45:12",
+        "last_announcement": "2024-05-04T14:20:00"
     },
     "IN-24-02420": {
         "description": {
