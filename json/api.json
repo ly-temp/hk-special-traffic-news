@@ -2364,11 +2364,18 @@
                 "ID": "96329",
                 "CONTENT_EN": "Due to flooding , the fast lane of Tsing Tsuen Road (Tsing Yi North Coastal Road bound) near Cheung On Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水浸，青荃路(往青衣北岸公路方向)近長安邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-04T19:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96332",
+                "CONTENT_EN": "The fast lane of Tsing Tsuen Road (Tsing Yi North Coastal Road bound) near Cheung On Estate which was closed due to flooding is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水浸而封閉的青荃路(往青衣北岸公路方向)近長安邨的快線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-05-04T18:29:18",
-        "last_announcement": "2024-05-04T18:22:00"
+        "last_update": "2024-05-04T19:14:36",
+        "last_announcement": "2024-05-04T19:05:00"
     },
     "IN-24-02439": {
         "description": {
@@ -2401,5 +2408,37 @@
         "district": "沙田區",
         "last_update": "2024-05-04T18:59:56",
         "last_announcement": "2024-05-04T18:47:00"
+    },
+    "IN-24-02440": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "malfunction of traffic lights",
+            "INCIDENT_DETAIL_CN": "交通燈失靈",
+            "LOCATION_EN": "Kwong Fuk Road",
+            "LOCATION_CN": "廣福道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-04T18:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96331",
+                "CONTENT_EN": "Due to malfunction of traffic lights at the junction between Kwong Fuk Road and Nam Wan Road, motorists are advised to drive with utmost care when passing through the said road junction.",
+                "CONTENT_CN": "因廣福道與南運路交界的交通燈失靈，駕駛人士在駛經有關路口時請加倍小心。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-05-04T19:14:36",
+        "last_announcement": "2024-05-04T18:52:00"
     }
 }
