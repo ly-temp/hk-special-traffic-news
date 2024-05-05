@@ -1,36 +1,4 @@
 {
-    "IN-24-02324": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Sheung Yee Road",
-            "LOCATION_CN": "常怡道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wai Yip Street",
-            "DIRECTION_CN": "偉業街",
-            "NEAR_LANDMARK_EN": "Wang Chiu Road",
-            "NEAR_LANDMARK_CN": "宏照道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-03T07:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96205",
-                "CONTENT_EN": "The slow lane of Sheung Yee Road (Wai Yip Street bound) near Wang Chiu Road which was closed due to watermain emergency works is re-opened to all traffic.   Meanwhile, the fast lane of Sheung Yee Road (Kai Fuk Road bound) near Wang Chiu Road and part of the lanes of Wang Chiu Road (Kai Cheung Road bound) near Sheung Yee Road which were closed due to watermain emergency works are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的常怡道(往偉業街方向)近宏照道的慢線現已解封。  同時，較早前因水管緊急維修而封閉的常怡道(往啓福道方向)近宏照道的快線及宏照道(往啓祥道方向)近常怡道的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-03T07:35:40",
-        "last_announcement": "2024-05-03T07:23:00"
-    },
     "IN-24-02389": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
