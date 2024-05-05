@@ -2424,11 +2424,18 @@
                 "ID": "96342",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Auxiliary Medical Service Headquarters is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，公主道(往海底隧道方向)近醫療輔助隊總部的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-05T12:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96346",
+                "CONTENT_EN": "Part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Auxiliary Medical Service Headquarters which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的公主道(往海底隧道方向)近醫療輔助隊總部的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-05-05T10:46:18",
-        "last_announcement": "2024-05-05T10:25:00"
+        "last_update": "2024-05-05T12:23:32",
+        "last_announcement": "2024-05-05T12:05:00"
     },
     "IN-24-02443": {
         "description": {
@@ -2500,5 +2507,37 @@
         "district": null,
         "last_update": "2024-05-05T11:58:19",
         "last_announcement": "2024-05-05T11:45:00"
+    },
+    "IN-24-02445": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Tsui Ping Road",
+            "NEAR_LANDMARK_CN": "翠屏道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-05T12:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96348",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Tsui Ping Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近翠屏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-05T12:23:32",
+        "last_announcement": "2024-05-05T12:13:00"
     }
 }
