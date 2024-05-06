@@ -84,84 +84,6 @@
         "last_update": "2024-05-03T10:31:38",
         "last_announcement": "2024-05-03T10:09:00"
     },
-    "IN-24-02393": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "So Kwun Wat",
-            "NEAR_LANDMARK_CN": "掃管笏",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-03T08:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96212",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near So Kwun Wat is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近掃管笏的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-03T09:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96214",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near So Kwun Wat which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近掃管笏的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-03T10:03:13",
-        "last_announcement": "2024-05-03T09:16:00"
-    },
-    "IN-24-02394": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Shek Mun Interchange",
-            "LOCATION_CN": "石門交匯處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-03T09:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96213",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Shek Mun Interchange  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，石門交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-03T09:34:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96216",
-                "CONTENT_EN": "Part of the lanes of Shek Mun Interchange  which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的石門交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-03T10:03:13",
-        "last_announcement": "2024-05-03T09:34:00"
-    },
     "IN-24-02395": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -200,38 +122,6 @@
         "district": "觀塘區",
         "last_update": "2024-05-03T10:31:38",
         "last_announcement": "2024-05-03T10:08:00"
-    },
-    "IN-24-02396": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lion Rock Tunnel",
-            "LOCATION_CN": "獅子山隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-03T09:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96219",
-                "CONTENT_EN": "The tunnel tube fast lane of Lion Rock Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的獅子山隧道(往九龍方向)的管道快線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-03T10:03:13",
-        "last_announcement": "2024-05-03T09:54:00"
     },
     "IN-24-02397": {
         "description": {
@@ -2473,10 +2363,17 @@
                 "ID": "96380",
                 "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大欖隧道(往九龍方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-06T09:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96381",
+                "CONTENT_EN": "The tunnel tube fast lane of Tai Lam Tunnel (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大欖隧道(往九龍方向)的管道快線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-05-06T09:22:34",
-        "last_announcement": "2024-05-06T09:15:00"
+        "last_update": "2024-05-06T10:06:33",
+        "last_announcement": "2024-05-06T09:37:00"
     }
 }
