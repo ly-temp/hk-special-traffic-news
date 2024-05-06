@@ -1,43 +1,4 @@
 {
-    "IN-24-02402": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Smithfield",
-            "LOCATION_CN": "士美菲路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Pok Fu Lam",
-            "DIRECTION_CN": "薄扶林",
-            "NEAR_LANDMARK_EN": "Rock Hill Street",
-            "NEAR_LANDMARK_CN": "石山街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-03T16:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96234",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Smithfield (Pok Fu Lam bound) near Rock Hill Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，士美菲路(往薄扶林方向)近石山街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-03T16:58:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96238",
-                "CONTENT_EN": "Part of the lanes of Smithfield (Pok Fu Lam bound) near Rock Hill Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的士美菲路(往薄扶林方向)近石山街的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-05-03T17:22:55",
-        "last_announcement": "2024-05-03T16:58:00"
-    },
     "IN-24-02404": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -125,38 +86,6 @@
         "district": null,
         "last_update": "2024-05-03T21:23:33",
         "last_announcement": "2024-05-03T21:13:00"
-    },
-    "IN-24-02405": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Nathan Road",
-            "LOCATION_CN": "彌敦道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Salisbury Road",
-            "DIRECTION_CN": "梳士巴利道",
-            "NEAR_LANDMARK_EN": "Chungking Mansions",
-            "NEAR_LANDMARK_CN": "重慶大廈",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-03T17:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96240",
-                "CONTENT_EN": "Part of the lanes of Nathan Road (Salisbury Road bound) near Chungking Mansions which was closed due to emergency incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因突發事件而封閉的彌敦道(往梳士巴利道方向)近重慶大廈的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-03T17:22:55",
-        "last_announcement": "2024-05-03T17:10:00"
     },
     "IN-24-02407": {
         "description": {
@@ -2324,11 +2253,18 @@
                 "ID": "96396",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near On Ting Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近安定邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-06T17:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96401",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near On Ting Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近安定邨的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-05-06T17:17:48",
-        "last_announcement": "2024-05-06T16:55:00"
+        "last_update": "2024-05-06T17:28:05",
+        "last_announcement": "2024-05-06T17:14:00"
     },
     "IN-24-02462": {
         "description": {
