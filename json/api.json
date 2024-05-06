@@ -2407,5 +2407,37 @@
         "district": "油尖旺區",
         "last_update": "2024-05-06T11:48:48",
         "last_announcement": "2024-05-06T11:33:00"
+    },
+    "IN-24-02460": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": "Austin Road",
+            "LOCATION_CN": "柯士甸道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-06T11:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96391",
+                "CONTENT_EN": "Due to malfunction of traffic lights of Austin Road junction with Chatham Road South, motorists are advised to drive with utmost care when passing through the road junction, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junction with malfunctioned traffic lights.",
+                "CONTENT_CN": "由於介乎柯士甸道與漆咸道南路口交通燈失靈，駕駛人士在駛經有關路口時，請加倍小心，注意交通標誌的指示並留意過路行人的安全。行人在交通燈失靈的路口橫過馬路時，請特別注意車輛。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-05-06T11:58:55",
+        "last_announcement": "2024-05-06T11:35:00"
     }
 }
