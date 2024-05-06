@@ -2326,5 +2326,37 @@
         "district": "黃大仙區",
         "last_update": "2024-05-06T20:13:47",
         "last_announcement": "2024-05-06T19:56:00"
+    },
+    "IN-24-02475": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Hoi Wang Road, Tsim Sha Tsui bound, between Lai Cheung Road and Yan Cheung Road",
+            "INCIDENT_DETAIL_CN": "海泓道，往尖沙咀方向，介乎麗翔道與欣翔道",
+            "LOCATION_EN": "Hoi Wang Road",
+            "LOCATION_CN": "海泓道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Lai Cheung Road",
+            "NEAR_LANDMARK_CN": "麗翔道",
+            "BETWEEN_LANDMARK_EN": "Yan Cheung Road",
+            "BETWEEN_LANDMARK_CN": "欣翔道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-07T00:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96426",
+                "CONTENT_EN": "Due to emergency repair of road surface, all lanes of Hoi Wang Road (Tsim Sha Tsui bound) between Lai Cheung Road and Yan Cheung Road are closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因緊急路面維修，海泓道(往尖沙咀方向)介乎麗翔道與欣翔道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-05-07T00:08:21",
+        "last_announcement": "2024-05-07T00:00:00"
     }
 }
