@@ -38,45 +38,6 @@
         "last_update": "2024-05-03T13:14:54",
         "last_announcement": "2024-05-03T13:00:00"
     },
-    "IN-24-02399": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Salisbury Road",
-            "LOCATION_CN": "梳士巴利道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Chatham Road South",
-            "NEAR_LANDMARK_CN": "漆咸道南",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-03T12:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96226",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Salisbury Road (Hung Hom bound) near Chatham Road South is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，梳士巴利道(往紅磡方向)近漆咸道南的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-03T12:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96227",
-                "CONTENT_EN": "Part of the lanes of Salisbury Road (Hung Hom bound) near Chatham Road South which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的梳士巴利道(往紅磡方向)近漆咸道南的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-03T12:35:38",
-        "last_announcement": "2024-05-03T12:25:00"
-    },
     "IN-24-02400": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2395,10 +2356,17 @@
                 "ID": "96391",
                 "CONTENT_EN": "Due to malfunction of traffic lights of Austin Road junction with Chatham Road South, motorists are advised to drive with utmost care when passing through the road junction, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junction with malfunctioned traffic lights.",
                 "CONTENT_CN": "由於介乎柯士甸道與漆咸道南路口交通燈失靈，駕駛人士在駛經有關路口時，請加倍小心，注意交通標誌的指示並留意過路行人的安全。行人在交通燈失靈的路口橫過馬路時，請特別注意車輛。"
+            },
+            "2024-05-06T12:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96392",
+                "CONTENT_EN": "All traffic lights at Austin Road junction with Chatham Road South have resumed normal services.",
+                "CONTENT_CN": "較早前位於介乎柯士甸道與漆咸道南路口的交通燈已恢復正常運作。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-05-06T11:58:55",
-        "last_announcement": "2024-05-06T11:35:00"
+        "last_update": "2024-05-06T12:45:15",
+        "last_announcement": "2024-05-06T12:28:00"
     }
 }
