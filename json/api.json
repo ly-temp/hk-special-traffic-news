@@ -221,45 +221,6 @@
         "last_update": "2024-05-04T21:58:47",
         "last_announcement": "2024-05-04T21:35:00"
     },
-    "IN-24-02439": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Incident",
-            "INCIDENT_DETAIL_CN": "道路事故",
-            "LOCATION_EN": "Shing Mun Tunnel Road",
-            "LOCATION_CN": "城門隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": "Tung Lo Wan Village",
-            "NEAR_LANDMARK_CN": "銅鑼灣村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-04T18:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96330",
-                "CONTENT_EN": "Due to road incident , part of the lanes of Shing Mun Tunnel Road (Sha Tin bound) near Tung Lo Wan Village is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因道路事故，城門隧道公路(往沙田方向)近銅鑼灣村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-04T19:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96334",
-                "CONTENT_EN": "Part of the lanes of Shing Mun Tunnel Road (Sha Tin bound) near Tung Lo Wan Village which was closed due to road incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因道路事故而封閉的城門隧道公路(往沙田方向)近銅鑼灣村的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-04T20:24:59",
-        "last_announcement": "2024-05-04T19:50:00"
-    },
     "IN-24-02440": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2498,11 +2459,18 @@
                 "ID": "96473",
                 "CONTENT_EN": "Due to traffic accident , one-lane-two-way traffic arrangement is being implemented on Ap Lei Chau Bridge Road near Yi Nam Road.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，鴨脷洲橋道近怡南路現已實施單線雙程行車措施。  現時上址交通繁忙。"
+            },
+            "2024-05-07T20:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96480",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Ap Lei Chau Bridge Road near Yi Nam Road due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於鴨脷洲橋道近怡南路實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "南區",
-        "last_update": "2024-05-07T19:17:44",
-        "last_announcement": "2024-05-07T18:53:00"
+        "last_update": "2024-05-07T20:35:08",
+        "last_announcement": "2024-05-07T20:16:00"
     },
     "IN-24-02498": {
         "description": {
@@ -2569,10 +2537,17 @@
                 "ID": "96478",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tate's Cairn Highway (Tai Po bound) near Ma On Shan Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大老山公路(往大埔方向)近馬鞍山路的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-07T20:02:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96479",
+                "CONTENT_EN": "The slow lane of Tate's Cairn Highway (Tai Po bound) near Ma On Shan Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大老山公路(往大埔方向)近馬鞍山路的慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-05-07T19:48:37",
-        "last_announcement": "2024-05-07T19:34:00"
+        "last_update": "2024-05-07T20:35:08",
+        "last_announcement": "2024-05-07T20:02:00"
     }
 }
