@@ -221,38 +221,6 @@
         "last_update": "2024-05-04T21:58:47",
         "last_announcement": "2024-05-04T21:35:00"
     },
-    "IN-24-02436": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lion Rock Tunnel",
-            "LOCATION_CN": "獅子山隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-04T17:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96325",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Lion Rock Tunnel (Sha Tin bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，獅子山隧道(往沙田方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-04T17:59:34",
-        "last_announcement": "2024-05-04T17:47:00"
-    },
     "IN-24-02437": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
