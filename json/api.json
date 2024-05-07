@@ -228,45 +228,6 @@
         "last_update": "2024-05-05T09:31:48",
         "last_announcement": "2024-05-05T08:26:00"
     },
-    "IN-24-02424": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road",
-            "LOCATION_CN": "港珠澳大橋香港連接路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-04T11:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96292",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
-            },
-            "2024-05-04T13:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96301",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-05-04T13:40:00",
-        "last_announcement": "2024-05-04T13:25:00"
-    },
     "IN-24-02428": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -2470,11 +2431,18 @@
                 "ID": "96449",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po Road - Sha Tin (Kowloon bound) near Hong Kong Sports Institute is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近香港體育學院的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-07T13:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96451",
+                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Kowloon bound) near Hong Kong Sports Institute which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近香港體育學院的慢線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-05-07T13:22:53",
-        "last_announcement": "2024-05-07T13:12:00"
+        "last_update": "2024-05-07T13:44:02",
+        "last_announcement": "2024-05-07T13:30:00"
     },
     "IN-24-02486": {
         "description": {
