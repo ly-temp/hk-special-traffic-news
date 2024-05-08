@@ -2558,10 +2558,127 @@
                 "ID": "96484",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Tsuen Wan Road (Kowloon bound) near Chai Wan Kok Cooked Food Market is still being closed to all traffic. Only the fast lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近柴灣角熟食市場的慢線仍然封閉。 駕駛人士只可使用快線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-08T07:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96485",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Tsuen Wan Road (Kowloon bound) near Chai Wan Kok Cooked Food Market is still being closed to all traffic. Only the fast lane is available to motorists. Citizens please take note KMB's service travelling via Tsuen Wan Road and Tuen Mun Road (Kowloon bound) have been affected, citizens please consider using other public transport services, such as MTR services. Traffic queue on Tsuen Wan Road (Kowloon bound) ends at Tuen Mun Road near Ting Kau. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近柴灣角熟食市場的慢線仍然封閉。 駕駛人士只可使用快線行車。 市民請留意九巴途經荃灣路及屯門公路往九龍方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。 現時在荃灣路(往九龍方向)的車龍龍尾已到屯門公路近汀九。 現時上址交通擠塞。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-05-08T07:57:24",
-        "last_announcement": "2024-05-08T07:50:00"
+        "last_update": "2024-05-08T09:03:16",
+        "last_announcement": "2024-05-08T07:54:00"
+    },
+    "IN-24-02502": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Queen's Road Central",
+            "LOCATION_CN": "皇后大道中",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Wan",
+            "DIRECTION_CN": "上環",
+            "NEAR_LANDMARK_EN": "Bank Street",
+            "NEAR_LANDMARK_CN": "銀行街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-08T08:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96486",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Queen's Road Central (Sheung Wan bound) near Bank Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，皇后大道中(往上環方向)近銀行街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-08T08:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96490",
+                "CONTENT_EN": "Part of the lanes of Queen's Road Central (Sheung Wan bound) near Bank Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的皇后大道中(往上環方向)近銀行街的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-05-08T09:03:16",
+        "last_announcement": "2024-05-08T08:44:00"
+    },
+    "IN-24-02503": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "So Kwun Po Road",
+            "LOCATION_CN": "掃管埔路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-08T08:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96487",
+                "CONTENT_EN": "So Kwun Po Road Roundabout is busy. Motorists passing through the above road section is advised to drive with utmost care and patience.",
+                "CONTENT_CN": "掃管埔路迴旋處的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-05-08T08:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96488",
+                "CONTENT_EN": "Traffic at So Kwun Po Road Roundabout  has resumed normal.",
+                "CONTENT_CN": "掃管埔路迴旋處的交通現已恢復正常。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-05-08T09:03:16",
+        "last_announcement": "2024-05-08T08:35:00"
+    },
+    "IN-24-02501": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-08T08:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96489",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun bound) to Tsuen Tsing Interchange  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由荃灣路(往屯門方向)通往荃青交匯處 的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-05-08T09:03:16",
+        "last_announcement": "2024-05-08T08:40:00"
     }
 }
