@@ -175,45 +175,6 @@
         "last_update": "2024-05-05T12:23:32",
         "last_announcement": "2024-05-05T12:05:00"
     },
-    "IN-24-02443": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Maryknoll Convent School",
-            "NEAR_LANDMARK_CN": "瑪利諾修院學校",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-05T11:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96343",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Cross Harbour Tunnel bound) near Maryknoll Convent School is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往海底隧道方向)近瑪利諾修院學校的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-05T11:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96344",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Cross Harbour Tunnel bound) near Maryknoll Convent School which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往海底隧道方向)近瑪利諾修院學校的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-05-05T11:16:20",
-        "last_announcement": "2024-05-05T11:09:00"
-    },
     "IN-24-02444": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
