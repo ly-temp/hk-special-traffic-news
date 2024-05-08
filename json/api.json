@@ -1,36 +1,4 @@
 {
-    "IN-24-02304": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced MTR train service during Golden Week holidays",
-            "INCIDENT_DETAIL_CN": "五一黃金周港鐵加密班次",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-06T06:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96367",
-                "CONTENT_EN": "To make travel easier after the concert at Central Harbour Waterfront, departure time of last train from Admiralty to Lo Wu extended · 30 April and 1, 3, 4, 5, 7, 8 May · Last train from Admiralty to Lo Wu will depart at: 23:32 · Departure time of last train from Lo Wu to Admiralty and to / from Lok Ma Chau remains unchanged",
-                "CONTENT_CN": "為配合中環海濱活動，東鐵綫金鐘往羅湖尾班車延後開出時間 ·4月30日及5月1、3、4、5、7、8日 ·金鐘往羅湖尾班車開出時間：23:32 ·羅湖往金鐘方向及往返落馬洲尾班車維持不變"
-            }
-        },
-        "district": null,
-        "last_update": "2024-05-06T06:28:48",
-        "last_announcement": "2024-05-06T06:12:00"
-    },
     "IN-24-02450": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2735,5 +2703,37 @@
         "district": null,
         "last_update": "2024-05-09T00:25:02",
         "last_announcement": "2024-05-09T00:00:00"
+    },
+    "IN-24-02376": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Kansu Street",
+            "LOCATION_CN": "甘肅街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Shanghai Street",
+            "NEAR_LANDMARK_CN": "上海街",
+            "BETWEEN_LANDMARK_EN": "Battery Street",
+            "BETWEEN_LANDMARK_CN": "炮台街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-09T06:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96537",
+                "CONTENT_EN": "The only lane of Kansu Street  between Shanghai Street and Battery Street which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的甘肅街介乎上海街與炮台街之間的唯一行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-05-09T06:28:48",
+        "last_announcement": "2024-05-09T06:14:00"
     }
 }
