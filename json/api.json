@@ -203,45 +203,6 @@
         "last_update": "2024-05-05T17:21:07",
         "last_announcement": "2024-05-05T17:13:00"
     },
-    "IN-24-02446": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
-            "INCIDENT_DETAIL_CN": "緊急維修",
-            "LOCATION_EN": "Shing Mun Tunnels",
-            "LOCATION_CN": "城門隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-05T15:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96355",
-                "CONTENT_EN": "Due to emergency repairing works , the tunnel tube slow lane of Shing Mun Tunnels (Tsuen Wan bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因緊急維修，城門隧道(往荃灣方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-05T15:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96356",
-                "CONTENT_EN": "The tunnel tube slow lane of Shing Mun Tunnels (Tsuen Wan bound) which was closed due to emergency repairing works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急維修而封閉的城門隧道(往荃灣方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-05T15:35:53",
-        "last_announcement": "2024-05-05T15:20:00"
-    },
     "IN-24-02447": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
