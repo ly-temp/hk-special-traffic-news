@@ -2881,5 +2881,37 @@
         "district": "油尖旺區",
         "last_update": "2024-05-09T20:47:16",
         "last_announcement": "2024-05-09T20:28:00"
+    },
+    "IN-24-02551": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Canal Road Flyover, Cross Harbour Tunnel bound, near Wan Chai Interchange",
+            "INCIDENT_DETAIL_CN": "堅拿道天橋，往海底隧道方向，近灣仔交匯處",
+            "LOCATION_EN": "Canal Road Flyover",
+            "LOCATION_CN": "堅拿道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Wan Chai Interchange",
+            "NEAR_LANDMARK_CN": "灣仔交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-09T22:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96597",
+                "CONTENT_EN": "Due to emergency repair of road surface, part of the lanes of Canal Road Flyover (Cross Harbour Tunnel bound) near Wan Chai Interchange is closed to all traffic. Meanwhile, the only lane of the section of Wan Chai Interchange leading from Canal Road Flyover (North Point bound) to Victoria Park Road is closed to all traffic. Only remaining lanes are available to motorists. Affected bus routes have been diverted. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因緊急路面維修，堅拿道天橋(往海底隧道方向)近灣仔交匯處的部份行車線現已封閉。同時，由堅拿道天橋(往北角方向)通往維園道的一段灣仔交匯處的唯一行車線現已封閉。駕駛人士只可使用餘下行車線行車。 受影響巴士路線須改道行駛。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-09T22:11:58",
+        "last_announcement": "2024-05-09T22:01:00"
     }
 }
