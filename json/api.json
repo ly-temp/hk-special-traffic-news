@@ -1,50 +1,4 @@
 {
-    "IN-24-02461": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Ka Loon Tsuen",
-            "NEAR_LANDMARK_CN": "嘉龍村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-06T14:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96393",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Ka Loon Tsuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近嘉龍村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-06T14:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96394",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Ka Loon Tsuen is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Siu Lam. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近嘉龍村的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近小欖。 現時上址交通擠塞。"
-            },
-            "2024-05-06T15:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96395",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Ka Loon Tsuen which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近嘉龍村的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-05-06T16:24:40",
-        "last_announcement": "2024-05-06T15:56:00"
-    },
     "IN-24-02463": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2961,10 +2915,17 @@
                 "ID": "96571",
                 "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往九龍方向)近沙田馬場的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-09T16:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96572",
+                "CONTENT_EN": "The middle lane of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往九龍方向)近沙田馬場的中線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-05-09T16:23:55",
-        "last_announcement": "2024-05-09T15:57:00"
+        "last_update": "2024-05-09T16:36:54",
+        "last_announcement": "2024-05-09T16:24:00"
     }
 }
