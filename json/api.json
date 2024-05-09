@@ -38,38 +38,6 @@
         "last_update": "2024-05-06T17:28:05",
         "last_announcement": "2024-05-06T17:14:00"
     },
-    "IN-24-02462": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Tai Tam Road",
-            "LOCATION_CN": "大潭道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-06T17:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96397",
-                "CONTENT_EN": "Due to earlier road incident, traffic at Tai Tam Road (both bounds) near Tai Tam Tuk Reservoir Dam is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前道路事故，大潭道(來回方向)近大潭篤水塘水灞交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-05-06T17:17:48",
-        "last_announcement": "2024-05-06T17:00:00"
-    },
     "IN-24-02464": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2934,5 +2902,69 @@
         "district": "沙田區",
         "last_update": "2024-05-09T16:36:54",
         "last_announcement": "2024-05-09T16:24:00"
+    },
+    "IN-24-02540": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Yue Man Square",
+            "NEAR_LANDMARK_CN": "裕民坊",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-09T17:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96574",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Yue Man Square is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近裕民坊的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-09T17:27:37",
+        "last_announcement": "2024-05-09T17:12:00"
+    },
+    "IN-24-02541": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Choi Hung",
+            "DIRECTION_CN": "彩虹",
+            "NEAR_LANDMARK_EN": "On Sau Road",
+            "NEAR_LANDMARK_CN": "安秀道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-09T17:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96575",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Choi Hung bound) near On Sau Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，清水灣道(往彩虹方向)近安秀道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-09T17:27:37",
+        "last_announcement": "2024-05-09T17:18:00"
     }
 }
