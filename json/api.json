@@ -2746,5 +2746,37 @@
         "district": "離島區",
         "last_update": "2024-05-09T13:57:50",
         "last_announcement": "2024-05-09T13:50:00"
+    },
+    "IN-24-02534": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Shan Ha Road (Yuen Long)",
+            "LOCATION_CN": "山下路 (元朗)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Shan Ha Tsuen",
+            "DIRECTION_CN": "山下村",
+            "NEAR_LANDMARK_EN": "Tong Yan San Tsuen Interchange",
+            "NEAR_LANDMARK_CN": "唐人新村交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-09T14:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96561",
+                "CONTENT_EN": "Due to fire , the only lane of Shan Ha Road (Yuen Long) (Shan Ha Tsuen bound) near Tong Yan San Tsuen Interchange is closed to all traffic. Traffic is busy now.",
+                "CONTENT_CN": "因火警，山下路(元朗)(往山下村方向) 近唐人新村交匯處的唯一行車線現已封閉。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-09T14:24:44",
+        "last_announcement": "2024-05-09T14:03:00"
     }
 }
