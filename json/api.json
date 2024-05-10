@@ -38,38 +38,6 @@
         "last_update": "2024-05-07T09:22:08",
         "last_announcement": "2024-05-07T08:20:00"
     },
-    "IN-24-02378": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Fung Tak Road",
-            "LOCATION_CN": "鳳德道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Shatin Pass Road",
-            "DIRECTION_CN": "沙田㘭道",
-            "NEAR_LANDMARK_EN": "Sheung Fung Street",
-            "NEAR_LANDMARK_CN": "雙鳳街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-07T07:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96429",
-                "CONTENT_EN": "The slow lane of Fung Tak Road (Shatin Pass Road bound) near Sheung Fung Street which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的鳳德道(往沙田㘭道方向)近雙鳳街的慢線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-05-07T07:58:52",
-        "last_announcement": "2024-05-07T07:46:00"
-    },
     "IN-24-02477": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2913,5 +2881,115 @@
         "district": "深水埗區",
         "last_update": "2024-05-10T07:57:20",
         "last_announcement": "2024-05-10T07:48:00"
+    },
+    "IN-24-02552": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tsuen Wan Sports Centre",
+            "NEAR_LANDMARK_CN": "荃灣體育館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-10T07:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96600",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Sports Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近荃灣體育館的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-10T08:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96601",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近荃灣體育館的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-05-10T09:16:21",
+        "last_announcement": "2024-05-10T08:12:00"
+    },
+    "IN-24-02553": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Lai King MTR Station",
+            "NEAR_LANDMARK_CN": "荔景港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-10T08:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96602",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近荔景港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-10T09:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96604",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往九龍方向)近荔景港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-05-10T09:16:21",
+        "last_announcement": "2024-05-10T09:02:00"
+    },
+    "IN-24-02554": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Playground",
+            "NEAR_LANDMARK_CN": "龍翔道遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-10T08:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96603",
+                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道遊樂場的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-05-10T09:16:21",
+        "last_announcement": "2024-05-10T08:48:00"
     }
 }
