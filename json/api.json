@@ -2802,11 +2802,18 @@
                 "ID": "96673",
                 "CONTENT_EN": "Due to traffic accident , the only lane of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is still being closed to all traffic. Affected Citybus route no. H1 and Cross Harbour route No. 110 have been diverted. Motorists may use alternative routing. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，康莊道(往海底隧道方向)近香港理工大學的唯一行車線仍然封閉。 受影響巴城巴第H1及過海巴士第110號線須改道行駛。 駕駛人士可改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-05-11T13:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96675",
+                "CONTENT_EN": "The only lane of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往海底隧道方向)近香港理工大學的唯一行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-05-11T12:48:50",
-        "last_announcement": "2024-05-11T12:31:00"
+        "last_update": "2024-05-11T13:29:05",
+        "last_announcement": "2024-05-11T13:09:00"
     },
     "IN-24-02584": {
         "description": {
@@ -2839,5 +2846,37 @@
         "district": "黃大仙區",
         "last_update": "2024-05-11T12:48:50",
         "last_announcement": "2024-05-11T12:36:00"
+    },
+    "IN-24-02585": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Mong Tsai Road",
+            "LOCATION_CN": "大網仔路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Tso Wo Hang",
+            "NEAR_LANDMARK_CN": "早禾坑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-11T13:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96676",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Tai Mong Tsai Road (both bounds) near Tso Wo Hang are closed to all traffic. \nAffected bus routes have been diverted.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大網仔路(來回方向)近早禾坑的全線現已封閉。\n受影響巴士路線須改道行駛。  現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-05-11T13:29:05",
+        "last_announcement": "2024-05-11T13:14:00"
     }
 }
