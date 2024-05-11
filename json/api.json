@@ -1,50 +1,4 @@
 {
-    "IN-24-02513": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Beacon Heights",
-            "NEAR_LANDMARK_CN": "畢架山花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-08T16:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96514",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Beacon Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近畢架山花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-08T16:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96516",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Beacon Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近畢架山花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-08T17:00:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96518",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Beacon Heights which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近畢架山花園的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-05-08T17:19:52",
-        "last_announcement": "2024-05-08T17:00:00"
-    },
     "IN-24-02514": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -83,38 +37,6 @@
         "district": "葵青區",
         "last_update": "2024-05-08T17:29:51",
         "last_announcement": "2024-05-08T17:00:00"
-    },
-    "IN-24-02512": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kowloon Park Drive",
-            "LOCATION_CN": "九龍公園徑",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Jordan",
-            "DIRECTION_CN": "佐敦",
-            "NEAR_LANDMARK_EN": "Middle Road",
-            "NEAR_LANDMARK_CN": "中間道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-08T17:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96519",
-                "CONTENT_EN": "Part of the lanes of Kowloon Park Drive (Jordan bound) near Middle Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的九龍公園徑(往佐敦方向)近中間道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-08T17:19:52",
-        "last_announcement": "2024-05-08T17:01:00"
     },
     "IN-24-02516": {
         "description": {
@@ -2972,11 +2894,18 @@
                 "ID": "96688",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Sha Wan Road (Mong Kok bound) near Cheung Wah Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，長沙灣道(往旺角方向)近昌華街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-11T17:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96692",
+                "CONTENT_EN": "Part of the lanes of Cheung Sha Wan Road (Mong Kok bound) near Cheung Wah Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的長沙灣道(往旺角方向)近昌華街的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-05-11T16:39:52",
-        "last_announcement": "2024-05-11T16:28:00"
+        "last_update": "2024-05-11T17:29:24",
+        "last_announcement": "2024-05-11T17:18:00"
     },
     "IN-24-02591": {
         "description": {
@@ -3004,10 +2933,17 @@
                 "ID": "96689",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ferry Street flyover (Hung Hom bound) near Prosperous Garden is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，渡船街天橋(往紅磡方向)近駿發花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-11T17:05:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96690",
+                "CONTENT_EN": "Part of the lanes of Ferry Street flyover (Hung Hom bound) near Prosperous Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的渡船街天橋(往紅磡方向)近駿發花園的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-05-11T17:19:28",
-        "last_announcement": "2024-05-11T16:58:00"
+        "last_update": "2024-05-11T17:29:24",
+        "last_announcement": "2024-05-11T17:05:00"
     }
 }
