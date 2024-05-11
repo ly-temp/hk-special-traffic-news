@@ -2724,11 +2724,18 @@
                 "ID": "96668",
                 "CONTENT_EN": "Due to vessel mechanical defects, the following ferry services have been suspended until further notice. \nTsui Wah Ferry Service (H. K. ) Limited\n- Wong Shek Pier to Wan Chai (Nam Fung Wan) and Chek Keng.",
                 "CONTENT_CN": "因船隻機件故障，以下渡輪航線已經暫停服務，直至另行通知。\n翠華船務（香港）有限公司\n-黃石碼頭至灣仔(南風灣)及赤徑。"
+            },
+            "2024-05-11T23:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96671",
+                "CONTENT_EN": "Due to vessel mechanical fault, the following ferry service(s) has been suspended. Tsui Wah Ferry Service (H. K. ) Limited Wong Shek Pier to Wan Chai (Nam Fung Wan) and Chek Keng",
+                "CONTENT_CN": "因船隻機件故障，以下渡輪服務已經暫停服務。 翠華船務（香港）有限公司 黃石碼頭至灣仔(南風灣)及赤徑"
             }
         },
         "district": null,
-        "last_update": "2024-05-11T11:52:23",
-        "last_announcement": "2024-05-11T11:19:00"
+        "last_update": "2024-05-11T12:28:12",
+        "last_announcement": "2024-05-11T23:19:00"
     },
     "IN-24-02582": {
         "description": {
@@ -2761,5 +2768,37 @@
         "district": "灣仔區",
         "last_update": "2024-05-11T11:52:23",
         "last_announcement": "2024-05-11T11:43:00"
+    },
+    "IN-24-02583": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hong Chong Road",
+            "LOCATION_CN": "康莊道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-11T12:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96672",
+                "CONTENT_EN": "Due to traffic accident , the only lane of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is closed to all traffic. Motorists may use alternative routing. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，康莊道(往海底隧道方向)近香港理工大學的唯一行車線現已封閉。 駕駛人士可改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-05-11T12:28:12",
+        "last_announcement": "2024-05-11T12:17:00"
     }
 }
