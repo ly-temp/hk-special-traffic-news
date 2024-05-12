@@ -1870,5 +1870,37 @@
         "district": "沙田區",
         "last_update": "2024-05-12T17:48:59",
         "last_announcement": "2024-05-12T17:43:00"
+    },
+    "IN-24-02601": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-13T01:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96711",
+                "CONTENT_EN": "Due to watermain burst, the following road sections are closed: - All lanes of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and Hok Yuen Street, - All lanes of Ma Tau Wai Road (Tsim Shan Tsui Bound) between Chi Kiang Street and Chatham Road North. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管爆裂，以下道路現已封閉： -漆咸道北（往尖沙咀方向）介乎馬頭圍道與鶴園街之間的全線 -馬頭圍道（往尖沙咀方向）介乎浙江街與漆咸道北之間的全線 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-05-13T01:22:17",
+        "last_announcement": "2024-05-13T01:09:00"
     }
 }
