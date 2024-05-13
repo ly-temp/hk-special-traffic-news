@@ -105,45 +105,6 @@
         "last_update": "2024-05-10T19:07:30",
         "last_announcement": "2024-05-10T18:45:00"
     },
-    "IN-24-02571": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Horse Shoe Lane",
-            "NEAR_LANDMARK_CN": "馬蹄徑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-10T18:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96643",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Horse Shoe Lane is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近馬蹄徑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-10T18:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96646",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Horse Shoe Lane which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近馬蹄徑的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-10T18:51:52",
-        "last_announcement": "2024-05-10T18:40:00"
-    },
     "IN-24-02572": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1783,10 +1744,17 @@
                 "ID": "96745",
                 "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Choi Hung Interchange (Lung Cheung Road bound) near Choi Hung Estate Chi Mei House is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Choi Hung Interchange (Lung Cheung Road bound) ends at Kwun Tong Road near Kwun Tong MTR Station and Prince Edward Road West near Sung Wong Toi MTR Station. Traffic is very congested now.",
                 "CONTENT_CN": "因車輛着火，彩虹交匯處(往龍翔道方向)近彩虹邨紫薇樓的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在彩虹交匯處(往龍翔道方向)的車龍龍尾已到觀塘道近觀塘港鐵站及太子道西近宋皇臺港鐵站。 現時上址交通非常擠塞。"
+            },
+            "2024-05-13T18:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96746",
+                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Choi Hung Interchange (Lung Cheung Road bound) near Choi Hung Estate Chi Mei House is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Choi Hung Interchange (Lung Cheung Road bound) ends at Tseung Kwan O Road near Tsui Ping South Estate and Prince Edward Road West (Choi Hung bound) near Junction Road.   Traffic is very congested now.",
+                "CONTENT_CN": "因車輛着火，彩虹交匯處(往龍翔道方向)近彩虹邨紫薇樓的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在彩虹交匯處(往龍翔道方向)的車龍龍尾已到將軍澳道近翠屏南邨及太子道西(往彩虹方向)近聯合道。  現時上址交通非常擠塞。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-05-13T18:41:18",
-        "last_announcement": "2024-05-13T18:20:00"
+        "last_update": "2024-05-13T19:06:15",
+        "last_announcement": "2024-05-13T18:52:00"
     }
 }
