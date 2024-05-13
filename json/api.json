@@ -1,43 +1,4 @@
 {
-    "IN-24-02567": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Kwun Tong Road, Mong Kok bound, near Caritas Family Crisis Support Centre",
-            "INCIDENT_DETAIL_CN": "觀塘道，往旺角方向，近明愛向晴軒",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Caritas Family Crisis Support Centre",
-            "NEAR_LANDMARK_CN": "明愛向晴軒",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-10T23:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96663",
-                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Kwun Tong Road (Mong Kok bound) near Caritas Family Crisis Support Centre is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因水管緊急維修，觀塘道(往旺角方向)近明愛向晴軒的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-05-11T06:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96665",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Mong Kok bound) near Caritas Family Crisis Support Centre which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的觀塘道(往旺角方向)近明愛向晴軒的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-11T06:13:52",
-        "last_announcement": "2024-05-11T06:01:00"
-    },
     "IN-24-02580": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1528,10 +1489,17 @@
                 "ID": "96755",
                 "CONTENT_EN": "Due to watermain emergency works , all lanes of Canal Road West (Wan Chai Interchange bound) between Hennessy Road and Lockhart Road are closed to all traffic. Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因水管緊急維修，堅拿道西(往灣仔交匯處方向)介乎軒尼詩道與駱克道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            },
+            "2024-05-14T06:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96756",
+                "CONTENT_EN": "All lanes of Canal Road West (Wan Chai Interchange bound) between Hennessy Road and Lockhart Road which were closed due to watermain emergency works are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的堅拿道西(往灣仔交匯處方向)介乎軒尼詩道與駱克道之間的全線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-05-13T22:18:40",
-        "last_announcement": "2024-05-13T22:00:00"
+        "last_update": "2024-05-14T06:17:22",
+        "last_announcement": "2024-05-14T06:08:00"
     }
 }
