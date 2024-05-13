@@ -1386,11 +1386,18 @@
                 "ID": "96728",
                 "CONTENT_EN": "Due to watermain burst, the following road sections are still being closed:\n- All lanes of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and San Wai Street; and\n- All lanes of Ma Tau Wai Road (Tsim Sha Tsui Bound) between Chi Kiang Street and Chatham Road North.   The following affected bus routes nos. have been diverted:\n- KMB: 5,5A,5P,5X,11,14,26,26X,93K;\n- CTB: A22; and\n- Cross Harbour bus: 101,107,108,111,111P,116.  Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因水管爆裂，以下道路現仍然封閉：\n-漆咸道北（往尖沙咀方向）介乎馬頭圍道與新圍街之間的全線;及\n-馬頭圍道（往尖沙咀方向）介乎浙江街與漆咸道北之間的全線。  以下受影響的巴士路線須改道行駛:\n-九巴:5,5A,5P,5X,11,14,26,26X,93K;\n-城巴:A22;及\n-過海巴士:101,107,108,111,111P,116。  駕駛人士請考慮改用其他道路。"
+            },
+            "2024-05-13T16:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96737",
+                "CONTENT_EN": "The following road sections which were closed due to watermain burst are re-opened to all traffic:\n- The slow lane of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and San Wai Street; and\n- All lanes of Ma Tau Wai Road (Tsim Sha Tsui Bound) between Chi Kiang Street and Chatham Road North. \n\nHowever, the following road section is still being closed:\n- The fast lane of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and Shek Tong Street.  Affected bus routes have gradually resumed their original routeings.",
+                "CONTENT_CN": "較早前因水管爆裂的以下道路現已解封：\n-漆咸道北（往尖沙咀方向）介乎馬頭圍道與新圍街之間的慢線;及\n-馬頭圍道（往尖沙咀方向）介乎浙江街與漆咸道北之間的全線\n\n惟以下道路現仍然封閉：\n-漆咸道北（往尖沙咀方向）介乎馬頭圍道與石塘街之間的快線。  受影響巴士路線現已陸續恢復原有路線行駛。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-05-13T10:35:43",
-        "last_announcement": "2024-05-13T10:04:00"
+        "last_update": "2024-05-13T17:23:34",
+        "last_announcement": "2024-05-13T16:59:00"
     },
     "IN-24-02602": {
         "description": {
@@ -1748,10 +1755,17 @@
                 "ID": "96735",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong By-Pass (Yau Tong bound) near Tsun Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近駿業街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-13T17:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96738",
+                "CONTENT_EN": "The slow lane of Kwun Tong By-Pass (Yau Tong bound) near Tsun Yip Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)近駿業街的慢線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-13T17:06:51",
-        "last_announcement": "2024-05-13T16:50:00"
+        "last_update": "2024-05-13T17:23:34",
+        "last_announcement": "2024-05-13T17:14:00"
     }
 }
