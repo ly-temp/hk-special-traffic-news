@@ -1,71 +1,4 @@
 {
-    "IN-24-02566": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Pui To Road",
-            "NEAR_LANDMARK_CN": "杯渡路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-10T16:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96630",
-                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Tuen Mun Road (Yuen Long bound) near Pui To Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近杯渡路的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-10T17:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96631",
-                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Tuen Mun Road (Yuen Long bound) near Pui To Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Lung Fu Road near Lung Mun Oasis and Tuen Mun Road near So Kwun Wat. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近杯渡路的中線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往元朗方向)的車龍龍尾已到龍富路近龍門居及屯門公路近掃管笏。 現時上址交通擠塞。"
-            },
-            "2024-05-10T17:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96633",
-                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Tuen Mun Road (Yuen Long bound) near Pui To Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Lung Fu Road near Lung Mun Oasis and Tuen Mun Road near So Kwun Wat.   Citizens please take note KMB's service travelling via Tuen Mun Road (Yuen Long bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近杯渡路的中線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往元朗方向)的車龍龍尾已到龍富路近龍門居及屯門公路近掃管笏。  市民請留意九巴途經屯門公路往元朗方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時上址交通擠塞。"
-            },
-            "2024-05-10T17:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96635",
-                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Tuen Mun Road (Yuen Long bound) near Pui To Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Lung Fu Road near Lung Mun Oasis and Tuen Mun Road near Siu Lam.   Citizens please take note service of KMB and LWB travelling via Tuen Mun Road (Yuen Long bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近杯渡路的中線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往元朗方向)的車龍龍尾已到龍富路近龍門居及屯門公路近小欖。  市民請留意九巴及龍運巴士途經屯門公路往元朗方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時上址交通擠塞。"
-            },
-            "2024-05-10T17:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96638",
-                "CONTENT_EN": "The middle lane of Tuen Mun Road (Yuen Long bound) near Pui To Road which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queues take time to disperse.   Citizens please take note service of KMB and LWB travelling via Tuen Mun Road (Yuen Long bound) has still been affected, citizens please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往元朗方向)近杯渡路的中線現已解封。車龍有待消散。  市民請留意九巴及龍運巴士途經屯門公路往元朗方向的服務仍然受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-05-10T19:45:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96655",
-                "CONTENT_EN": "Service of KMB and LWB which was affected by vehicle breakdown at Tuen Mun Road (Yuen Long bound) near Pui To Road has gradually resumed normal.",
-                "CONTENT_CN": "較早前因位於屯門公路(往元朗方向)近杯渡路的車輛故障而受影響的九巴及龍運巴士服務已陸續回復正常。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-10T20:09:03",
-        "last_announcement": "2024-05-10T19:45:00"
-    },
     "IN-24-02572": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -104,52 +37,6 @@
         "district": null,
         "last_update": "2024-05-10T20:40:07",
         "last_announcement": "2024-05-10T19:50:00"
-    },
-    "IN-24-02575": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Rutland Quadrant",
-            "NEAR_LANDMARK_CN": "律倫街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-10T19:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96652",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-10T19:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96656",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Waterloo Road (Lion Rock Tunnel bound) ends at Princess Margaret Road near Oi Man Estate. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在窩打老道(往獅子山隧道方向)的車龍龍尾已到公主道近愛民邨。 現時上址交通擠塞。"
-            },
-            "2024-05-10T19:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96658",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-05-10T20:09:03",
-        "last_announcement": "2024-05-10T19:52:00"
     },
     "IN-24-02577": {
         "description": {
@@ -1680,11 +1567,18 @@
                 "ID": "96752",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近觀塘碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-13T19:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96753",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近觀塘碼頭的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-13T19:49:07",
-        "last_announcement": "2024-05-13T19:34:00"
+        "last_update": "2024-05-13T20:36:56",
+        "last_announcement": "2024-05-13T19:52:00"
     },
     "IN-24-02617": {
         "description": {
