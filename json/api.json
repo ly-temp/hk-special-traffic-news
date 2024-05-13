@@ -38,45 +38,6 @@
         "last_update": "2024-05-10T16:31:02",
         "last_announcement": "2024-05-10T16:06:00"
     },
-    "IN-24-02561": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Gloucester Road",
-            "LOCATION_CN": "告士打道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Paterson Street",
-            "NEAR_LANDMARK_CN": "百德新街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-10T15:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96618",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Gloucester Road (Central bound) near Paterson Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，告士打道(往中環方向)近百德新街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-10T15:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96620",
-                "CONTENT_EN": "Part of the lanes of Gloucester Road (Central bound) near Paterson Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的告士打道(往中環方向)近百德新街的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-05-10T15:56:29",
-        "last_announcement": "2024-05-10T15:48:00"
-    },
     "IN-24-02562": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1870,5 +1831,37 @@
         "district": "東區",
         "last_update": "2024-05-13T12:23:59",
         "last_announcement": "2024-05-13T12:05:00"
+    },
+    "IN-24-02611": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Magazine Gap Road",
+            "LOCATION_CN": "馬己仙峽道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "17 Magazine Gap Road",
+            "NEAR_LANDMARK_CN": "馬己仙峽道17號",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-13T15:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96734",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Magazine Gap Road (both bounds) near 17 Magazine Gap Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，馬己仙峽道(來回方向)近馬己仙峽道17號的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-05-13T16:13:00",
+        "last_announcement": "2024-05-13T15:49:00"
     }
 }
