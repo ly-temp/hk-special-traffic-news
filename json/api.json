@@ -1760,5 +1760,37 @@
         "district": "油尖旺區",
         "last_update": "2024-05-14T14:41:39",
         "last_announcement": "2024-05-14T14:34:00"
+    },
+    "IN-24-02631": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Subsidence",
+            "INCIDENT_DETAIL_CN": "路面下陷",
+            "LOCATION_EN": "Hoi Wang Road",
+            "LOCATION_CN": "海泓道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sham Shui Po",
+            "DIRECTION_CN": "深水埗",
+            "NEAR_LANDMARK_EN": "Lai Cheung Road",
+            "NEAR_LANDMARK_CN": "麗翔道",
+            "BETWEEN_LANDMARK_EN": "Yan Cheung Road",
+            "BETWEEN_LANDMARK_CN": "欣翔道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-14T14:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96778",
+                "CONTENT_EN": "Due to road subsidence , all lanes of Hoi Wang Road (Sham Shui Po bound) between Lai Cheung Road and Yan Cheung Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因路面下陷，海泓道(往深水埗方向)介乎麗翔道與欣翔道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-05-14T14:51:50",
+        "last_announcement": "2024-05-14T14:42:00"
     }
 }
