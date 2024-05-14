@@ -1,43 +1,4 @@
 {
-    "IN-24-02589": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Lin Cheung Road",
-            "LOCATION_CN": "連翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Hoi Tat Estate",
-            "NEAR_LANDMARK_CN": "海達邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-11T15:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96687",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Hoi Tat Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，連翔道(往尖沙咀方向)近海達邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-11T17:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96691",
-                "CONTENT_EN": "Part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Hoi Tat Estate which was closed due to vehicle on fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的連翔道(往尖沙咀方向)近海達邨的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-05-11T17:19:28",
-        "last_announcement": "2024-05-11T17:06:00"
-    },
     "IN-24-02590": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1741,10 +1702,17 @@
                 "ID": "96786",
                 "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Waterloo Road flyover (Lion Rock Tunnel bound) near Osborn Barracks is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，窩打老道天橋(往獅子山隧道方向)近九龍塘軍營的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-14T17:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96790",
+                "CONTENT_EN": "The fast lane of Waterloo Road flyover (Lion Rock Tunnel bound) near Osborn Barracks which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的窩打老道天橋(往獅子山隧道方向)近九龍塘軍營的快線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-05-14T16:52:26",
-        "last_announcement": "2024-05-14T16:46:00"
+        "last_update": "2024-05-14T17:24:55",
+        "last_announcement": "2024-05-14T17:06:00"
     }
 }
