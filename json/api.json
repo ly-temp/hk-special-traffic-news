@@ -1,96 +1,4 @@
 {
-    "IN-24-02601": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-13T01:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96711",
-                "CONTENT_EN": "Due to watermain burst, the following road sections are closed: - All lanes of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and Hok Yuen Street, - All lanes of Ma Tau Wai Road (Tsim Shan Tsui Bound) between Chi Kiang Street and Chatham Road North. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，以下道路現已封閉： -漆咸道北（往尖沙咀方向）介乎馬頭圍道與鶴園街之間的全線 -馬頭圍道（往尖沙咀方向）介乎浙江街與漆咸道北之間的全線 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-05-13T06:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96713",
-                "CONTENT_EN": "Due to watermain burst, the following road sections are closed:\n- All lanes of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and San Wai Street; and\n- All lanes of Ma Tau Wai Road (Tsim Sha Tsui Bound) between Chi Kiang Street and Chatham Road North.   The following affected bus routes nos. have been diverted:\n- KMB: 5,5A,5P,11,14,26,26X,93K;\n- CTB: A22; and\n- Cross Harbour bus: 101,107,108,111,111P,116.  Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，以下道路現已封閉：\n-漆咸道北（往尖沙咀方向）介乎馬頭圍道與新圍街之間的全線;及\n-馬頭圍道（往尖沙咀方向）介乎浙江街與漆咸道北之間的全線。  以下受影響的巴士路線須改道行駛:\n-九巴:5,5A,5P,11,14,26,26X,93K;\n-城巴:A22;及\n-過海巴士:101,107,108,111,111P,116。  駕駛人士請考慮改用其他道路。"
-            },
-            "2024-05-13T10:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96728",
-                "CONTENT_EN": "Due to watermain burst, the following road sections are still being closed:\n- All lanes of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and San Wai Street; and\n- All lanes of Ma Tau Wai Road (Tsim Sha Tsui Bound) between Chi Kiang Street and Chatham Road North.   The following affected bus routes nos. have been diverted:\n- KMB: 5,5A,5P,5X,11,14,26,26X,93K;\n- CTB: A22; and\n- Cross Harbour bus: 101,107,108,111,111P,116.  Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，以下道路現仍然封閉：\n-漆咸道北（往尖沙咀方向）介乎馬頭圍道與新圍街之間的全線;及\n-馬頭圍道（往尖沙咀方向）介乎浙江街與漆咸道北之間的全線。  以下受影響的巴士路線須改道行駛:\n-九巴:5,5A,5P,5X,11,14,26,26X,93K;\n-城巴:A22;及\n-過海巴士:101,107,108,111,111P,116。  駕駛人士請考慮改用其他道路。"
-            },
-            "2024-05-13T16:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96737",
-                "CONTENT_EN": "The following road sections which were closed due to watermain burst are re-opened to all traffic:\n- The slow lane of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and San Wai Street; and\n- All lanes of Ma Tau Wai Road (Tsim Sha Tsui Bound) between Chi Kiang Street and Chatham Road North. \n\nHowever, the following road section is still being closed:\n- The fast lane of Chatham Road North (Tsim Sha Tsui Bound) between Ma Tau Wai Road and Shek Tong Street.  Affected bus routes have gradually resumed their original routeings.",
-                "CONTENT_CN": "較早前因水管爆裂的以下道路現已解封：\n-漆咸道北（往尖沙咀方向）介乎馬頭圍道與新圍街之間的慢線;及\n-馬頭圍道（往尖沙咀方向）介乎浙江街與漆咸道北之間的全線\n\n惟以下道路現仍然封閉：\n-漆咸道北（往尖沙咀方向）介乎馬頭圍道與石塘街之間的快線。  受影響巴士路線現已陸續恢復原有路線行駛。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-05-13T17:23:34",
-        "last_announcement": "2024-05-13T16:59:00"
-    },
-    "IN-24-02612": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong By-Pass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Tsun Yip Street",
-            "NEAR_LANDMARK_CN": "駿業街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-13T16:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96735",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong By-Pass (Yau Tong bound) near Tsun Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近駿業街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-13T17:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96738",
-                "CONTENT_EN": "The slow lane of Kwun Tong By-Pass (Yau Tong bound) near Tsun Yip Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)近駿業街的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-13T17:23:34",
-        "last_announcement": "2024-05-13T17:14:00"
-    },
     "IN-24-02613": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2461,5 +2369,37 @@
         "district": "觀塘區",
         "last_update": "2024-05-16T17:21:31",
         "last_announcement": "2024-05-16T16:56:00"
+    },
+    "IN-24-02674": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Pui To Road",
+            "LOCATION_CN": "杯渡路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Road",
+            "DIRECTION_CN": "屯門公路",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-16T17:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96899",
+                "CONTENT_EN": "Due to watermain burst, part of the lanes of the junction of Pui To Road (Tuen Mun Road bound) and Tuen Mun Heung Sze Wui Road (Siu Hong bound) is closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，杯渡路(往屯門公路方向)和屯門鄉事會路交界(往兆康方向)的部份行車線現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-16T17:31:44",
+        "last_announcement": "2024-05-16T17:18:00"
     }
 }
