@@ -2357,10 +2357,56 @@
                 "ID": "96899",
                 "CONTENT_EN": "Due to watermain burst, part of the lanes of the junction of Pui To Road (Tuen Mun Road bound) and Tuen Mun Heung Sze Wui Road (Siu Hong bound) is closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，杯渡路(往屯門公路方向)和屯門鄉事會路交界(往兆康方向)的部份行車線現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-05-16T17:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96901",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Tuen Mun Heung Sze Wui Road (Siu Hong bound) between Pui To Road and Yan Ching Street are closed to all traffic. Motorists are advised to use alternative routes.   At the same time, the slow lane and the second left lane of Pui To Road (Tuen Mun Road bound) near Tuen Mun Heung Sze Wui Road and the fast lane of Pui To Road (Tsing Wun Road bound) near Tuen Mun Heung Sze Wui Road are closed to all traffic. Only remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，屯門鄉事會路(往兆康方向)介乎杯渡路與仁政街之間的全線現已封閉。駕駛人士請考慮改用其他道路。  同時，杯渡路(往屯門公路方向)近屯門鄉事會路的慢線及左二線和杯渡路(往青雲路方向)近屯門鄉事會路的快線現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-05-16T18:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96902",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Tuen Mun Heung Sze Wui Road (Siu Hong bound) between Pui To Road and Yan Ching Street are closed to all traffic. Motorists are advised to use alternative routes.   At the same time, the slow lane and the second left lane of Pui To Road (Castle Peak Road - San Hui bound) near Tuen Mun Heung Sze Wui Road and the fast lane of Pui To Road (Tsing Wun Road bound) near Tuen Mun Heung Sze Wui Road are closed to all traffic. Only remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，屯門鄉事會路(往兆康方向)介乎杯渡路與仁政街之間的全線現已封閉。駕駛人士請考慮改用其他道路。  同時，杯渡路(往青山公路-新墟段方向)近屯門鄉事會路的慢線及左二線和杯渡路(往青雲路方向)近屯門鄉事會路的快線現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-05-16T17:31:44",
-        "last_announcement": "2024-05-16T17:18:00"
+        "last_update": "2024-05-16T18:28:32",
+        "last_announcement": "2024-05-16T18:08:00"
+    },
+    "IN-24-02676": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong By-Pass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "MegaBox",
+            "NEAR_LANDMARK_CN": "MegaBox",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-16T18:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96905",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong By-Pass (Yau Tong bound) near MegaBox is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近MegaBox的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-16T18:28:32",
+        "last_announcement": "2024-05-16T18:20:00"
     }
 }
