@@ -2098,11 +2098,18 @@
                 "ID": "96864",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Police Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Island Eastern Corridor (Central bound) end at Island Eastern Corridor near Sai Wan Ho and Eastern Harbour Crossing near Hong Kong Island exit.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角警署的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近西灣河及東區海底隧道近港島出口。  現時上址交通擠塞。"
+            },
+            "2024-05-16T09:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96869",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near North Point Police Station which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近北角警署的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "東區",
-        "last_update": "2024-05-16T09:39:37",
-        "last_announcement": "2024-05-16T09:21:00"
+        "last_update": "2024-05-16T10:18:16",
+        "last_announcement": "2024-05-16T09:43:00"
     },
     "IN-24-02659": {
         "description": {
@@ -2130,10 +2137,17 @@
                 "ID": "96865",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Fat Kwong Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，漆咸道北(往尖沙咀方向)近佛光街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-16T09:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96868",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Fat Kwong Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往尖沙咀方向)近佛光街的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-05-16T09:39:37",
-        "last_announcement": "2024-05-16T09:29:00"
+        "last_update": "2024-05-16T10:18:16",
+        "last_announcement": "2024-05-16T09:43:00"
     }
 }
