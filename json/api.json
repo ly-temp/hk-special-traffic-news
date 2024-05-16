@@ -2066,11 +2066,18 @@
                 "ID": "96862",
                 "CONTENT_EN": "The following road sections are still busy:\n– A Kung Kok Street (Sha Tin bound)\n– Hang Tak Street (Sha Tin bound)\n– Sai Sha Road near Yan On Estate (Sha Tin bound)\n– West Kowloon Highway (Western Harbour Crossing bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–亞公角街(往沙田方向)\n–恆德街(往沙田方向)\n–西沙路近欣安邨(往沙田方向)\n–西九龍公路(往西區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-05-16T10:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96870",
+                "CONTENT_EN": "The following road sections are still busy:\n– West Kowloon Highway (Western Harbour Crossing bound)\n– Tsing Kwai Highway near Lai Chi Kok Park (West Kowloon Highway bound)\n– Princess Margaret Road (Cross Harbour Tunnel bound)\n– Lei Yue Mun Road (Eastern Harbour Crossing bound)\n– Kwun Tong Bypass (Yau Tong bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–西九龍公路(往西區海底隧道方向)\n–青葵公路近荔枝角公園(往西九龍公路方向)\n–公主道(往海底隧道方向)\n–鯉魚門道(往東區海底隧道方向)\n–觀塘繞道(往油塘方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-16T09:39:37",
-        "last_announcement": "2024-05-16T09:10:00"
+        "last_update": "2024-05-16T10:38:40",
+        "last_announcement": "2024-05-16T10:11:00"
     },
     "IN-24-02662": {
         "description": {
@@ -2149,5 +2156,37 @@
         "district": "九龍城區",
         "last_update": "2024-05-16T10:18:16",
         "last_announcement": "2024-05-16T09:43:00"
+    },
+    "IN-24-02663": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Canal Road Flyover",
+            "LOCATION_CN": "堅拿道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen Tunnel",
+            "DIRECTION_CN": "香港仔隧道",
+            "NEAR_LANDMARK_EN": "Times Square",
+            "NEAR_LANDMARK_CN": "時代廣場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-16T10:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96872",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Canal Road Flyover (Aberdeen Tunnel bound) near Times Square is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Canal Road Flyover (Aberdeen Tunnel bound) ends at Gloucester Road near The Hong Kong Academy for Performing Arts. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，堅拿道天橋(往香港仔隧道方向)近時代廣場的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在堅拿道天橋(往香港仔隧道方向)的車龍龍尾已到告士打道近香港演藝學院。 現時上址交通擠塞。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-16T10:38:40",
+        "last_announcement": "2024-05-16T10:23:00"
     }
 }
