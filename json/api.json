@@ -52,38 +52,6 @@
         "last_update": "2024-05-15T09:23:31",
         "last_announcement": "2024-05-15T08:22:00"
     },
-    "IN-24-02632": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Prosperous Garden",
-            "NEAR_LANDMARK_CN": "駿發花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-14T15:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96782",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Gascoigne Road Flyover (Tai Kok Tsui bound) near Prosperous Garden is closed to all traffic. Motorists are advised to use alternative routes such as Nathan Road and Jordan Road. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，加士居道天橋(往大角咀方向)近駿發花園的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路，例如彌敦道及佐敦道。 現時上址交通繁忙。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-14T15:54:03",
-        "last_announcement": "2024-05-14T15:42:00"
-    },
     "IN-24-02633": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
