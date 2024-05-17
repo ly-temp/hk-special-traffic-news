@@ -2355,5 +2355,37 @@
         "district": "九龍城區",
         "last_update": "2024-05-17T20:10:23",
         "last_announcement": "2024-05-17T19:53:00"
+    },
+    "IN-24-02700": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Track Signaling Fault",
+            "INCIDENT_DETAIL_CN": "信號故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-18T06:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96959",
+                "CONTENT_EN": "There is an additional travelling time of 10 to 15 minutes on the Island Line between Kennedy Town and Chai Wan because of a signalling fault at Admiralty Station.",
+                "CONTENT_CN": "由於金鐘站信號故障，港島綫來往堅尼地城至柴灣的車程延長10至15分鐘。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-05-18T06:40:20",
+        "last_announcement": "2024-05-18T06:25:00"
     }
 }
