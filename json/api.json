@@ -1,153 +1,4 @@
 {
-    "IN-24-02620": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Clear Water Bay Road",
-            "LOCATION_CN": "清水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lung Cheung Road",
-            "DIRECTION_CN": "龍翔道",
-            "NEAR_LANDMARK_EN": "Choi Hung Interchange",
-            "NEAR_LANDMARK_CN": "彩虹交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-14T07:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96757",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Choi Hung Interchange is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，清水灣道(往龍翔道方向)近彩虹交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-14T08:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96760",
-                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Choi Hung Interchange which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往龍翔道方向)近彩虹交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-05-14T09:39:49",
-        "last_announcement": "2024-05-14T08:26:00"
-    },
-    "IN-24-02623": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lin Cheung Road",
-            "LOCATION_CN": "連翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Hoi Fai Road",
-            "NEAR_LANDMARK_CN": "海輝道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-14T08:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96762",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Hoi Fai Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，連翔道(往尖沙咀方向)近海輝道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-14T08:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96763",
-                "CONTENT_EN": "Part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Hoi Fai Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的連翔道(往尖沙咀方向)近海輝道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-14T09:39:49",
-        "last_announcement": "2024-05-14T08:49:00"
-    },
-    "IN-24-02624": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Western Harbour Crossing",
-            "LOCATION_CN": "西區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-14T08:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96764",
-                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-14T08:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96765",
-                "CONTENT_EN": "The tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的西區海底隧道(往香港島方向)的管道快線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-05-14T09:39:49",
-        "last_announcement": "2024-05-14T08:59:00"
-    },
-    "IN-24-02622": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Aberdeen Reservoir Road",
-            "LOCATION_CN": "香港仔水塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Yue Kwong Road",
-            "NEAR_LANDMARK_CN": "漁光道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-14T09:02:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96766",
-                "CONTENT_EN": "Part of the lanes of the junction of Aberdeen Reservoir Road and Yue Kwong Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的香港仔水塘道和漁光道交界的部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-05-14T09:39:49",
-        "last_announcement": "2024-05-14T09:02:00"
-    },
     "IN-24-02625": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2538,10 +2389,49 @@
                 "ID": "96928",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Kwun Tong Bypass bound) near Tsui Ping South Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，將軍澳道(往觀塘繞道方向)近翠屏南邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-17T08:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96929",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Kwun Tong Bypass bound) near Tsui Ping South Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tseung Kwan O Road (Kwun Tong Bypass bound) ends at Tseung Kwan O Tunnel Road near Tseung Kwan O Sports Centre. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往觀塘繞道方向)近翠屏南邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在將軍澳道(往觀塘繞道方向)的車龍龍尾已到將軍澳隧道公路近將軍澳體育館。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-17T08:52:40",
-        "last_announcement": "2024-05-17T08:39:00"
+        "last_update": "2024-05-17T09:51:22",
+        "last_announcement": "2024-05-17T08:50:00"
+    },
+    "IN-24-02686": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Western Harbour Crossing",
+            "LOCATION_CN": "西區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong Island",
+            "DIRECTION_CN": "香港島",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-17T09:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96930",
+                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-05-17T09:51:22",
+        "last_announcement": "2024-05-17T09:14:00"
     }
 }
