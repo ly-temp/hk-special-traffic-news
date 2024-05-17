@@ -1,82 +1,4 @@
 {
-    "IN-24-02625": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Chak Cheung Street",
-            "NEAR_LANDMARK_CN": "澤祥街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-14T09:16:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96767",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tolo Highway (Kowloon bound) near Chak Cheung Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，吐露港公路(往九龍方向)近澤祥街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-14T09:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96770",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Chak Cheung Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的吐露港公路(往九龍方向)近澤祥街的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-14T10:17:04",
-        "last_announcement": "2024-05-14T09:43:00"
-    },
-    "IN-24-02626": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "ICAC Headquarters Building",
-            "NEAR_LANDMARK_CN": "廉政公署總部大樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-14T09:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96768",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near ICAC Headquarters Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近廉政公署總部大樓的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-14T09:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96769",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near ICAC Headquarters Building which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近廉政公署總部大樓的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-05-14T10:17:04",
-        "last_announcement": "2024-05-14T09:34:00"
-    },
     "IN-24-02627": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2396,11 +2318,18 @@
                 "ID": "96929",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Kwun Tong Bypass bound) near Tsui Ping South Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tseung Kwan O Road (Kwun Tong Bypass bound) ends at Tseung Kwan O Tunnel Road near Tseung Kwan O Sports Centre. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，將軍澳道(往觀塘繞道方向)近翠屏南邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在將軍澳道(往觀塘繞道方向)的車龍龍尾已到將軍澳隧道公路近將軍澳體育館。 現時上址交通擠塞。"
+            },
+            "2024-05-17T09:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96931",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Kwun Tong Bypass bound) near Tsui Ping South Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘繞道方向)近翠屏南邨的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-17T09:51:22",
-        "last_announcement": "2024-05-17T08:50:00"
+        "last_update": "2024-05-17T10:20:58",
+        "last_announcement": "2024-05-17T09:48:00"
     },
     "IN-24-02686": {
         "description": {
@@ -2428,10 +2357,49 @@
                 "ID": "96930",
                 "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-17T09:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96932",
+                "CONTENT_EN": "The tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西區海底隧道(往香港島方向)的管道快線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-05-17T09:51:22",
-        "last_announcement": "2024-05-17T09:14:00"
+        "last_update": "2024-05-17T10:20:58",
+        "last_announcement": "2024-05-17T09:59:00"
+    },
+    "IN-24-02687": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Kai Tak Fire Station",
+            "NEAR_LANDMARK_CN": "啟德消防局",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-17T10:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96933",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Kai Tak Fire Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近啟德消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-17T10:20:58",
+        "last_announcement": "2024-05-17T10:12:00"
     }
 }
