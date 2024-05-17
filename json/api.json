@@ -2389,10 +2389,24 @@
                 "ID": "96960",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that extra travelling time can be expected on the Island Line. \nPlease allow more time for travel.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知，港島綫列車預計需要額外行車時間，\n請為行程預留充裕時間。"
+            },
+            "2024-05-18T06:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96961",
+                "CONTENT_EN": "Due to a signalling fault near Admiralty Station, Island Line trains will operate at a slower speed between Central Station and Wan Chai Station. This could extend the total journey time on the Island Line between Kennedy Town Station and Chai Wan Station by 10-15 minutes.",
+                "CONTENT_CN": "由於金鐘站附近有信號故障，港島綫列車駛經中環站和灣仔站路段時需要慢駛，港島綫來往堅尼地城站及柴灣站的行車時間預計需要額外10-15分鐘。"
+            },
+            "2024-05-18T07:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96963",
+                "CONTENT_EN": "The signalling fault near Admiralty Station on the Island Line has been repaired. Train operations can now be safely resumed. Normal train service is gradually resuming.",
+                "CONTENT_CN": "金鐘站附近的信號故障已完成復修。港島綫列車服務逐步回復正常。"
             }
         },
         "district": null,
-        "last_update": "2024-05-18T06:50:29",
-        "last_announcement": "2024-05-18T06:32:00"
+        "last_update": "2024-05-18T07:06:35",
+        "last_announcement": "2024-05-18T07:00:00"
     }
 }
