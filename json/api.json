@@ -2538,11 +2538,18 @@
                 "ID": "96971",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Fu Tai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，元朗公路(往上水方向)近富泰邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-18T10:04:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96975",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Fu Tai Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往上水方向)近富泰邨的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-05-18T09:59:41",
-        "last_announcement": "2024-05-18T09:30:00"
+        "last_update": "2024-05-18T10:30:26",
+        "last_announcement": "2024-05-18T10:04:00"
     },
     "IN-24-02706": {
         "description": {
@@ -2570,10 +2577,113 @@
                 "ID": "96972",
                 "CONTENT_EN": "Light Rail service near Chung Uk Tsuen Stop has been suspended. Please consider using other transport.",
                 "CONTENT_CN": "輕鐵鍾屋村站附近的服務暫停，請考慮使用其他交通工具。"
+            },
+            "2024-05-18T10:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96974",
+                "CONTENT_EN": "Light Rail service disruption due to an incident on an Light Rail Vehicle near Chung Uk Tsuen Stop. Light Rail service diversion: Route 610, Route 614, Route 615 and Route 751 both directions are diverted and will not stop between Lam Tei and Hung Shui Kiu stops. Free MTR shuttle bus service is running between Hung Tin Road Emergency Platform and Siu Hong to carry affected passengers. Please also consider using other transport.",
+                "CONTENT_CN": "由於鍾屋村站附近輕鐵發生事故，輕鐵服務受阻。 輕鐵路綫改道如下： 610綫，614綫，615綫及751綫改道，將不停藍地站至洪水橋站。 港鐵已安排免費接駁巴士，行走來往洪天路緊急月台至兆康，接載受影響車站的乘客。 乘客亦請考慮改搭其他交通工具。"
             }
         },
         "district": null,
-        "last_update": "2024-05-18T09:59:41",
-        "last_announcement": "2024-05-18T09:43:00"
+        "last_update": "2024-05-18T10:30:26",
+        "last_announcement": "2024-05-18T10:00:00"
+    },
+    "IN-24-02708": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "San Hui Market",
+            "NEAR_LANDMARK_CN": "新墟街市",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-18T10:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96976",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tuen Mun Road (Yuen Long bound) near San Hui Market is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近新墟街市的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-18T10:30:26",
+        "last_announcement": "2024-05-18T10:06:00"
+    },
+    "IN-24-02707": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong Bypass",
+            "DIRECTION_CN": "觀塘繞道",
+            "NEAR_LANDMARK_EN": "Kwun Tong Police Station",
+            "NEAR_LANDMARK_CN": "觀塘警署",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-18T10:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96977",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Kwun Tong Bypass bound) near Kwun Tong Police Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘繞道方向)近觀塘警署的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-18T10:30:26",
+        "last_announcement": "2024-05-18T10:10:00"
+    },
+    "IN-24-02709": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-18T10:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96978",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Clear Water Bay Road and Fung Shing Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，清水灣道和豐盛街交界的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-05-18T10:30:26",
+        "last_announcement": "2024-05-18T10:14:00"
     }
 }
