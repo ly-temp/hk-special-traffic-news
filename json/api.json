@@ -1,57 +1,4 @@
 {
-    "IN-24-02631": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Subsidence",
-            "INCIDENT_DETAIL_CN": "路面下陷",
-            "LOCATION_EN": "Hoi Wang Road",
-            "LOCATION_CN": "海泓道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sham Shui Po",
-            "DIRECTION_CN": "深水埗",
-            "NEAR_LANDMARK_EN": "Lai Cheung Road",
-            "NEAR_LANDMARK_CN": "麗翔道",
-            "BETWEEN_LANDMARK_EN": "Yan Cheung Road",
-            "BETWEEN_LANDMARK_CN": "欣翔道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-14T14:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96778",
-                "CONTENT_EN": "Due to road subsidence , all lanes of Hoi Wang Road (Sham Shui Po bound) between Lai Cheung Road and Yan Cheung Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因路面下陷，海泓道(往深水埗方向)介乎麗翔道與欣翔道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-05-14T15:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96781",
-                "CONTENT_EN": "Due to road subsidence , all lanes of Hoi Wang Road (Sham Shui Po bound) between Lai Cheung Road and Yan Cheung Road are still being closed to all traffic. Affected KMB bus routes nos. 2E, 12 36X and W3 (Pak Tin (North)/Hoi Lai Estate/Lei Muk Shue/Sheung Shui bound) and Cross Harbour bus route no. 914 (Hoi Lai Estate bound) have been diverted. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因路面下陷，海泓道(往深水埗方向)介乎麗翔道與欣翔道之間的全線仍然封閉。 受影響九巴巴士第2E、12、36X及W3號線(往白田(北)/海麗邨/梨木樹/上水方向)及過海巴士第914號線(往海麗邨方向)須改道行駛。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-05-14T16:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96789",
-                "CONTENT_EN": "Due to road subsidence , all lanes of Hoi Wang Road (Sham Shui Po bound) between Lai Cheung Road and Yan Cheung Road are still being closed to all traffic. Affected KMB bus routes nos. 2E, 12 36X and W3 (Pak Tin (North)/Hoi Lai Estate/Lei Muk Shue/Sheung Shui bound) and Cross Harbour bus route no. 914 (Hoi Lai Estate bound) have been diverted. Motorists are advised to use alternative routes such as Yan Cheung Road eastbound and Ferry Street northbound. Traffic is busy now.",
-                "CONTENT_CN": "因路面下陷，海泓道(往深水埗方向)介乎麗翔道與欣翔道之間的全線仍然封閉。 受影響九巴巴士第2E、12、36X及W3號線(往白田(北)/海麗邨/梨木樹/上水方向)及過海巴士第914號線(往海麗邨方向)須改道行駛。 駕駛人士請考慮改用其他道路，例如欣翔道(東行)及渡船街(北行)。 現時上址交通繁忙。"
-            },
-            "2024-05-15T08:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96806",
-                "CONTENT_EN": "All lanes of Hoi Wang Road (Sham Shui Po bound) between Lai Cheung Road and Yan Cheung Road which was closed due to road subsidence are re-opened to all traffic. Affected bus routes have gradually resumed their original routeings.",
-                "CONTENT_CN": "較早前因路面下陷而封閉的海泓道(往深水埗方向)介乎麗翔道與欣翔道之間的全線現已解封。 受影響巴士路線現已陸續恢復原有路線行駛。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-05-15T09:23:31",
-        "last_announcement": "2024-05-15T08:22:00"
-    },
     "IN-24-02641": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2513,10 +2460,120 @@
                 "ID": "96967",
                 "CONTENT_EN": "Due to oil stain on road , part of the lanes of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Aberdeen Sports Ground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有油漬，黃竹坑道(往香港仔隧道方向)近香港仔運動場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-18T09:20:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "96969",
+                "CONTENT_EN": "Part of the lanes of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Aberdeen Sports Ground which was closed due to oil stain on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有油漬而封閉的黃竹坑道(往香港仔隧道方向)近香港仔運動場的部份行車線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-05-18T09:01:35",
-        "last_announcement": "2024-05-18T08:25:00"
+        "last_update": "2024-05-18T09:59:41",
+        "last_announcement": "2024-05-18T09:20:00"
+    },
+    "IN-24-02704": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "On Pong Road",
+            "LOCATION_CN": "安邦路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "On Pong Road Sitting-out Area",
+            "NEAR_LANDMARK_CN": "安邦路休憩處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-18T09:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96968",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on On Pong Road near On Pong Road Sitting-out Area. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，安邦路近安邦路休憩處現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2024-05-18T09:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "96970",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on On Pong Road near On Pong Road Sitting-out Area due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於安邦路近安邦路休憩處實施的單線雙程行車措施現已取消。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-05-18T09:59:41",
+        "last_announcement": "2024-05-18T09:23:00"
+    },
+    "IN-24-02705": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Fu Tai Estate",
+            "NEAR_LANDMARK_CN": "富泰邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-18T09:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96971",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Fu Tai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，元朗公路(往上水方向)近富泰邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-18T09:59:41",
+        "last_announcement": "2024-05-18T09:30:00"
+    },
+    "IN-24-02706": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Ligh Rail Service Disruption",
+            "INCIDENT_DETAIL_CN": "輕鐵服務受阻",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-18T09:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "96972",
+                "CONTENT_EN": "Light Rail service near Chung Uk Tsuen Stop has been suspended. Please consider using other transport.",
+                "CONTENT_CN": "輕鐵鍾屋村站附近的服務暫停，請考慮使用其他交通工具。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-05-18T09:59:41",
+        "last_announcement": "2024-05-18T09:43:00"
     }
 }
