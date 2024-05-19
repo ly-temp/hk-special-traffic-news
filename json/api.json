@@ -66,45 +66,6 @@
         "last_update": "2024-05-18T00:23:21",
         "last_announcement": "2024-05-17T23:48:00"
     },
-    "IN-24-02679": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-16T19:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96913",
-                "CONTENT_EN": "The following road sections are busy:\n– Cotton Tree Drive (uphill bound)\n– Garden Road (uphill bound)\n– Robinson Road (Conduit Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–紅棉路(上山方向)\n–花園道(上山方向)\n–羅便臣道(往干德道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-05-16T20:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96915",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Cotton Tree Drive (uphill bound)\n– Garden Road (uphill bound)\n– Robinson Road (Conduit Road bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–紅棉路(上山方向)\n–花園道(上山方向)\n–羅便臣道(往干德道方向)。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-05-16T20:37:08",
-        "last_announcement": "2024-05-16T20:04:00"
-    },
     "IN-24-02677": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
