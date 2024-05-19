@@ -2033,5 +2033,37 @@
         "district": "大埔區",
         "last_update": "2024-05-19T07:39:22",
         "last_announcement": "2024-05-19T07:20:00"
+    },
+    "IN-24-02721": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Castle Peak Road - Castle Peak Bay",
+            "LOCATION_CN": "青山公路　–　青山灣段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Sam Shing",
+            "NEAR_LANDMARK_CN": "三聖",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-19T12:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97004",
+                "CONTENT_EN": "The following road sections are busy:\n– Castle Peak Road - Castle Peak Bay (both bounds) near Sam Shing\n– Hoi Wing Road (both bounds) near Sam Shing\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–青山公路　–　青山灣段(來回方向)近三聖\n–海榮路(來回方向)近三聖\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-19T13:01:22",
+        "last_announcement": "2024-05-19T12:46:00"
     }
 }
