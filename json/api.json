@@ -2085,11 +2085,18 @@
                 "ID": "97007",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2024-05-19T15:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97013",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-05-19T15:00:03",
-        "last_announcement": "2024-05-19T14:45:00"
+        "last_update": "2024-05-19T16:20:22",
+        "last_announcement": "2024-05-19T15:55:00"
     },
     "IN-24-02724": {
         "description": {
@@ -2117,11 +2124,18 @@
                 "ID": "97008",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Lookout is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近龍翔道觀景台的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-19T16:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97014",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Lookout which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往觀塘方向)近龍翔道觀景台的慢線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-05-19T15:26:58",
-        "last_announcement": "2024-05-19T15:08:00"
+        "last_update": "2024-05-19T16:20:22",
+        "last_announcement": "2024-05-19T16:08:00"
     },
     "IN-24-02725": {
         "description": {
@@ -2149,10 +2163,17 @@
                 "ID": "97009",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Flint Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往尖沙咀方向)近火石道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-19T15:55:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97012",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Flint Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往尖沙咀方向)近火石道的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-05-19T15:37:02",
-        "last_announcement": "2024-05-19T15:21:00"
+        "last_update": "2024-05-19T16:20:22",
+        "last_announcement": "2024-05-19T15:55:00"
     }
 }
