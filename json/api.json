@@ -1994,5 +1994,37 @@
         "district": "沙田區",
         "last_update": "2024-05-20T17:48:48",
         "last_announcement": "2024-05-20T17:38:00"
+    },
+    "IN-24-02744": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "On Ting Estate",
+            "NEAR_LANDMARK_CN": "安定邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-20T17:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97057",
+                "CONTENT_EN": "The fast lane of Tuen Mun Road (Yuen Long bound) near On Ting Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近安定邨的快線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-20T17:58:53",
+        "last_announcement": "2024-05-20T17:44:00"
     }
 }
