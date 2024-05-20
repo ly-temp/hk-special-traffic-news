@@ -66,116 +66,6 @@
         "last_update": "2024-05-18T00:23:21",
         "last_announcement": "2024-05-17T23:48:00"
     },
-    "IN-24-02682": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-17T07:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96922",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of the slip road leading from Ching Cheung Road (Kwai Chung bound) to Castle Peak Road - Kwai Chung (Tsuen Wan bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，由呈祥道(往葵涌方向)通往青山公路　–　葵涌段(往荃灣方向) 的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-17T08:14:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96926",
-                "CONTENT_EN": "Part of the lanes of the slip road leading from Ching Cheung Road (Kwai Chung bound) to Castle Peak Road - Kwai Chung (Tsuen Wan bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的由呈祥道(往葵涌方向)通往青山公路　–　葵涌段(往荃灣方向) 的支路的 部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-17T08:52:40",
-        "last_announcement": "2024-05-17T08:14:00"
-    },
-    "IN-24-02683": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hong Chong Road",
-            "LOCATION_CN": "康莊道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-17T07:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96923",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，康莊道(往海底隧道方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-17T07:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96925",
-                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往海底隧道方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-17T08:52:40",
-        "last_announcement": "2024-05-17T07:58:00"
-    },
-    "IN-24-02684": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Sha Tin Wai Road",
-            "LOCATION_CN": "沙田圍路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Ngan Shing Street",
-            "NEAR_LANDMARK_CN": "銀城街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-17T08:17:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96927",
-                "CONTENT_EN": "Part of the lanes of the junction of Sha Tin Wai Road and Ngan Shing Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的沙田圍路和銀城街交界的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-17T08:52:40",
-        "last_announcement": "2024-05-17T08:17:00"
-    },
     "IN-24-02685": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1776,11 +1666,18 @@
                 "ID": "97016",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2024-05-20T09:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97024",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-05-19T16:50:50",
-        "last_announcement": "2024-05-19T16:40:00"
+        "last_update": "2024-05-20T09:41:58",
+        "last_announcement": "2024-05-20T09:05:00"
     },
     "IN-24-02727": {
         "description": {
@@ -1854,11 +1751,18 @@
                 "ID": "97021",
                 "CONTENT_EN": "Tolo Highway (Kowloon bound) is busy. Motorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "吐露港公路(往九龍方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-05-20T09:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97025",
+                "CONTENT_EN": "The following road sections are busy:\n– Tolo Highway (Kowloon bound)\n– Princess Margaret Road (Cross Harbour Tunnel bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– West Kowloon Highway (Western Harbour Crossing bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–吐露港公路(往九龍方向)\n–公主道(往海底隧道方向)\n–呈祥道(往荃灣方向)\n–西九龍公路(往西區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-05-20T08:36:27",
-        "last_announcement": "2024-05-20T08:17:00"
+        "last_update": "2024-05-20T09:41:58",
+        "last_announcement": "2024-05-20T09:16:00"
     },
     "IN-24-02664": {
         "description": {
@@ -1891,5 +1795,76 @@
         "district": "北區",
         "last_update": "2024-05-20T08:36:27",
         "last_announcement": "2024-05-20T08:29:00"
+    },
+    "IN-24-02729": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lai King Hill Road",
+            "LOCATION_CN": "荔景山路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cheung Sha Wan",
+            "DIRECTION_CN": "長沙灣",
+            "NEAR_LANDMARK_EN": "Kwai Chung Hospital Road",
+            "NEAR_LANDMARK_CN": "葵涌醫院路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-20T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97026",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lai King Hill Road (Cheung Sha Wan bound) near Kwai Chung Hospital Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，荔景山路(往長沙灣方向)近葵涌醫院路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-20T09:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97027",
+                "CONTENT_EN": "Part of the lanes of Lai King Hill Road (Cheung Sha Wan bound) near Kwai Chung Hospital Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荔景山路(往長沙灣方向)近葵涌醫院路的部份行車線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-05-20T09:41:58",
+        "last_announcement": "2024-05-20T09:27:00"
+    },
+    "IN-24-02730": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lai Chi Kok Park",
+            "NEAR_LANDMARK_CN": "荔枝角公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-20T09:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97028",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Ching Cheung Road (Tsuen Wan bound) near Lai Chi Kok Park is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近荔枝角公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-05-20T09:41:58",
+        "last_announcement": "2024-05-20T09:31:00"
     }
 }
