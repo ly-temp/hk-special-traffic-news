@@ -1,57 +1,4 @@
 {
-    "IN-24-02700": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Track Signaling Fault",
-            "INCIDENT_DETAIL_CN": "信號故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-18T06:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96959",
-                "CONTENT_EN": "There is an additional travelling time of 10 to 15 minutes on the Island Line between Kennedy Town and Chai Wan because of a signalling fault at Admiralty Station.",
-                "CONTENT_CN": "由於金鐘站信號故障，港島綫來往堅尼地城至柴灣的車程延長10至15分鐘。"
-            },
-            "2024-05-18T06:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96960",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that extra travelling time can be expected on the Island Line. \nPlease allow more time for travel.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，港島綫列車預計需要額外行車時間，\n請為行程預留充裕時間。"
-            },
-            "2024-05-18T06:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96961",
-                "CONTENT_EN": "Due to a signalling fault near Admiralty Station, Island Line trains will operate at a slower speed between Central Station and Wan Chai Station. This could extend the total journey time on the Island Line between Kennedy Town Station and Chai Wan Station by 10-15 minutes.",
-                "CONTENT_CN": "由於金鐘站附近有信號故障，港島綫列車駛經中環站和灣仔站路段時需要慢駛，港島綫來往堅尼地城站及柴灣站的行車時間預計需要額外10-15分鐘。"
-            },
-            "2024-05-18T07:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96963",
-                "CONTENT_EN": "The signalling fault near Admiralty Station on the Island Line has been repaired. Train operations can now be safely resumed. Normal train service is gradually resuming.",
-                "CONTENT_CN": "金鐘站附近的信號故障已完成復修。港島綫列車服務逐步回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-05-18T07:06:35",
-        "last_announcement": "2024-05-18T07:00:00"
-    },
     "IN-24-02701": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1852,5 +1799,37 @@
         "district": "黃大仙區",
         "last_update": "2024-05-20T20:31:51",
         "last_announcement": "2024-05-20T19:51:00"
+    },
+    "IN-24-02747": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Yuen Chau Tsai",
+            "NEAR_LANDMARK_CN": "元洲仔",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-21T06:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97068",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Yuen Chau Tsai is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近元洲仔的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-05-21T07:08:33",
+        "last_announcement": "2024-05-21T06:48:00"
     }
 }
