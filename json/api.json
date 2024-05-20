@@ -1827,5 +1827,69 @@
         "district": "黃大仙區",
         "last_update": "2024-05-19T18:58:50",
         "last_announcement": "2024-05-19T18:38:00"
+    },
+    "IN-24-02728": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-20T08:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97021",
+                "CONTENT_EN": "Tolo Highway (Kowloon bound) is busy. Motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "吐露港公路(往九龍方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-05-20T08:36:27",
+        "last_announcement": "2024-05-20T08:17:00"
+    },
+    "IN-24-02664": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Wing Kei Road",
+            "LOCATION_CN": "永基路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Hei Street",
+            "DIRECTION_CN": "葵喜街",
+            "NEAR_LANDMARK_EN": "Wing Kei Road 5-a-side Soccer Pitch",
+            "NEAR_LANDMARK_CN": "永基路五人足球場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-20T08:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97023",
+                "CONTENT_EN": "The slow lane of Wing Kei Road (Kwai Hei Street bound) near Wing Kei Road 5-a-side Soccer Pitch which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的永基路(往葵喜街方向)近永基路五人足球場的慢線現已解封。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-05-20T08:36:27",
+        "last_announcement": "2024-05-20T08:29:00"
     }
 }
