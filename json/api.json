@@ -1925,11 +1925,18 @@
                 "ID": "97051",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Sai Yee Street  between Soy Street and Shantung Street are closed to all traffic. Motorists may use alternative routing. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，洗衣街介乎豉油街與山東街之間的全線現已封閉。 駕駛人士可改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-05-20T17:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97059",
+                "CONTENT_EN": "Due to traffic accident, the following road sections are closed to all traffic: - Sai Yee Street between Soy Street and Shantung Street - Hak Po Street between Pak Po Street and Soy Street - Soy Street between Yim Po Fong Street and Fa Yuen Street Motorists may use alternative routing.",
+                "CONTENT_CN": "因交通意外，以下路段全線現已封閉; -洗衣街介乎豉油街與山東街 -黑布街介乎白布街與豉油街 -豉油街介乎染布房街與花園街 駕駛人士可改用其他道路。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-05-20T17:26:55",
-        "last_announcement": "2024-05-20T17:02:00"
+        "last_update": "2024-05-20T18:22:45",
+        "last_announcement": "2024-05-20T17:51:00"
     },
     "IN-24-02738": {
         "description": {
@@ -2026,5 +2033,37 @@
         "district": "屯門區",
         "last_update": "2024-05-20T17:58:53",
         "last_announcement": "2024-05-20T17:44:00"
+    },
+    "IN-24-02745": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Boundary Street",
+            "LOCATION_CN": "界限街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon City",
+            "DIRECTION_CN": "九龍城",
+            "NEAR_LANDMARK_EN": "Embankment Road",
+            "NEAR_LANDMARK_CN": "基堤道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-20T18:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97060",
+                "CONTENT_EN": "Part of the lanes of Boundary Street (Kowloon City bound) near Embankment Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的界限街(往九龍城方向)近基堤道的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-05-20T18:22:45",
+        "last_announcement": "2024-05-20T18:02:00"
     }
 }
