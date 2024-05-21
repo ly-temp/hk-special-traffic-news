@@ -1,43 +1,4 @@
 {
-    "IN-24-02716": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Garden Road",
-            "LOCATION_CN": "花園道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "uphill",
-            "DIRECTION_CN": "上山",
-            "NEAR_LANDMARK_EN": "Magazine Gap Road",
-            "NEAR_LANDMARK_CN": "馬己仙峽道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-18T14:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96993",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Garden Road (uphill bound) near Magazine Gap Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，花園道(往上山方向)近馬己仙峽道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-18T15:39:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96995",
-                "CONTENT_EN": "Part of the lanes of Garden Road (uphill bound) near Magazine Gap Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的花園道(往上山方向)近馬己仙峽道的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-05-18T15:53:12",
-        "last_announcement": "2024-05-18T15:39:00"
-    },
     "IN-24-02717": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1959,5 +1920,69 @@
         "district": "油尖旺區",
         "last_update": "2024-05-21T15:52:51",
         "last_announcement": "2024-05-21T15:36:00"
+    },
+    "IN-24-02767": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Queensway",
+            "LOCATION_CN": "金鐘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Wan",
+            "DIRECTION_CN": "上環",
+            "NEAR_LANDMARK_EN": "Bank Of China Tower",
+            "NEAR_LANDMARK_CN": "中銀大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-21T15:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97102",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Queensway (Sheung Wan bound) near Bank Of China Tower is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，金鐘道(往上環方向)近中銀大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-05-21T16:12:59",
+        "last_announcement": "2024-05-21T15:55:00"
+    },
+    "IN-24-02768": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Cotton Tree Drive",
+            "LOCATION_CN": "紅棉路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "uphill",
+            "DIRECTION_CN": "上山",
+            "NEAR_LANDMARK_EN": "Kennedy Road Playground",
+            "NEAR_LANDMARK_CN": "堅尼地道遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-21T16:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97104",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Cotton Tree Drive (uphill bound) near Kennedy Road Playground is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，紅棉路(上山方向)近堅尼地道遊樂場的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-05-21T16:12:59",
+        "last_announcement": "2024-05-21T16:02:00"
     }
 }
