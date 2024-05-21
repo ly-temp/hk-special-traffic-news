@@ -1817,5 +1817,37 @@
         "district": "大埔區",
         "last_update": "2024-05-21T12:47:13",
         "last_announcement": "2024-05-21T12:33:00"
+    },
+    "IN-24-02761": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Chun Shing Factory Estate",
+            "NEAR_LANDMARK_CN": "晉昇工廠大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-21T13:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97091",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tsuen Wan Road (Tuen Mun bound) near Chun Shing Factory Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，荃灣路(往屯門方向)近晉昇工廠大廈的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-05-21T14:10:22",
+        "last_announcement": "2024-05-21T13:49:00"
     }
 }
