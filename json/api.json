@@ -1817,5 +1817,37 @@
         "district": "中西區",
         "last_update": "2024-05-21T12:07:04",
         "last_announcement": "2024-05-21T11:50:00"
+    },
+    "IN-24-02758": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Canal Road Flyover",
+            "LOCATION_CN": "堅拿道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen Tunnel",
+            "DIRECTION_CN": "香港仔隧道",
+            "NEAR_LANDMARK_EN": "Hennessy Road",
+            "NEAR_LANDMARK_CN": "軒尼詩道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-21T12:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97086",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Canal Road Flyover (Aberdeen Tunnel bound) near Hennessy Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，堅拿道天橋(往香港仔隧道方向)近軒尼詩道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-05-21T12:26:31",
+        "last_announcement": "2024-05-21T12:21:00"
     }
 }
