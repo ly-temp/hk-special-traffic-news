@@ -1,121 +1,4 @@
 {
-    "IN-24-02703": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Oil Stain On Road",
-            "INCIDENT_DETAIL_CN": "路面有油漬",
-            "LOCATION_EN": "Wong Chuk Hang Road",
-            "LOCATION_CN": "黃竹坑道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Tunnel",
-            "DIRECTION_CN": "香港仔隧道",
-            "NEAR_LANDMARK_EN": "Aberdeen Sports Ground",
-            "NEAR_LANDMARK_CN": "香港仔運動場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-18T08:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96967",
-                "CONTENT_EN": "Due to oil stain on road , part of the lanes of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Aberdeen Sports Ground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因路面有油漬，黃竹坑道(往香港仔隧道方向)近香港仔運動場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-18T09:20:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96969",
-                "CONTENT_EN": "Part of the lanes of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Aberdeen Sports Ground which was closed due to oil stain on road is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面有油漬而封閉的黃竹坑道(往香港仔隧道方向)近香港仔運動場的部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-05-18T09:59:41",
-        "last_announcement": "2024-05-18T09:20:00"
-    },
-    "IN-24-02704": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "On Pong Road",
-            "LOCATION_CN": "安邦路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "On Pong Road Sitting-out Area",
-            "NEAR_LANDMARK_CN": "安邦路休憩處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-18T09:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96968",
-                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on On Pong Road near On Pong Road Sitting-out Area. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，安邦路近安邦路休憩處現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-05-18T09:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96970",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on On Pong Road near On Pong Road Sitting-out Area due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於安邦路近安邦路休憩處實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-05-18T09:59:41",
-        "last_announcement": "2024-05-18T09:23:00"
-    },
-    "IN-24-02705": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Fu Tai Estate",
-            "NEAR_LANDMARK_CN": "富泰邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-18T09:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "96971",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Fu Tai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，元朗公路(往上水方向)近富泰邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-18T10:04:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "96975",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Fu Tai Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往上水方向)近富泰邨的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-18T10:30:26",
-        "last_announcement": "2024-05-18T10:04:00"
-    },
     "IN-24-02706": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
@@ -200,38 +83,6 @@
         "district": "屯門區",
         "last_update": "2024-05-18T10:42:06",
         "last_announcement": "2024-05-18T10:30:00"
-    },
-    "IN-24-02707": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong Bypass",
-            "DIRECTION_CN": "觀塘繞道",
-            "NEAR_LANDMARK_EN": "Kwun Tong Police Station",
-            "NEAR_LANDMARK_CN": "觀塘警署",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-18T10:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "96977",
-                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Kwun Tong Bypass bound) near Kwun Tong Police Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘繞道方向)近觀塘警署的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-18T10:30:26",
-        "last_announcement": "2024-05-18T10:10:00"
     },
     "IN-24-02709": {
         "description": {
@@ -1955,5 +1806,37 @@
         "district": "黃大仙區",
         "last_update": "2024-05-21T09:59:08",
         "last_announcement": "2024-05-21T09:21:00"
+    },
+    "IN-24-02753": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Rainstorm Incident",
+            "INCIDENT_HEADING_CN": "暴雨事故",
+            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
+            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-21T10:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97080",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-05-21T10:31:45",
+        "last_announcement": "2024-05-21T10:00:00"
     }
 }
