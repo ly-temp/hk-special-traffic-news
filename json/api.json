@@ -2211,5 +2211,37 @@
         "district": "荃灣區",
         "last_update": "2024-05-21T20:46:05",
         "last_announcement": "2024-05-21T20:20:00"
+    },
+    "IN-24-02778": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
+            "INCIDENT_DETAIL_CN": "車輛着火",
+            "LOCATION_EN": "Argyle Street",
+            "LOCATION_CN": "亞皆老街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon City",
+            "DIRECTION_CN": "九龍城",
+            "NEAR_LANDMARK_EN": "Tin Kwong Road",
+            "NEAR_LANDMARK_CN": "天光道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-21T21:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97126",
+                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Argyle Street (Kowloon City bound) near Tin Kwong Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛着火，亞皆老街(往九龍城方向)近天光道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-05-21T21:25:44",
+        "last_announcement": "2024-05-21T21:04:00"
     }
 }
