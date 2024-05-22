@@ -1,43 +1,4 @@
 {
-    "IN-24-02720": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Suspected gas leakage",
-            "INCIDENT_DETAIL_CN": "懷疑氣體洩漏",
-            "LOCATION_EN": "Wang Lok Street",
-            "LOCATION_CN": "宏樂街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Yuen Long Sewage Treatment Works",
-            "NEAR_LANDMARK_CN": "元朗污水處理廠",
-            "BETWEEN_LANDMARK_EN": "Wang Fu Street",
-            "BETWEEN_LANDMARK_CN": "宏富街",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-19T07:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97003",
-                "CONTENT_EN": "Due to suspected gas leakage, all lanes of the section of Wang Lok Street (both bounds) between Yuen Long Sewage Treatment Works and Wang Fu Street are closed to all traffic.   Affected MTR Bus Route K68 has been diverted.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因懷疑氣體洩漏，宏樂街(來回方向)介乎元朗污水處理廠與宏富街之間的一段全線現已封閉。  受影響港鐵巴士路線第K68號須改道行駛。  駕駛人士請考慮改用其他道路。"
-            },
-            "2024-05-20T01:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97020",
-                "CONTENT_EN": "All lanes of the section of Wang Lok Street (both bounds) between Yuen Long Sewage Treatment Works and Wang Fu Street which were closed due to suspected gas leakage are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因懷疑氣體洩漏而封閉的宏樂街(來回方向)介乎元朗污水處理廠與宏富街之間的一段全線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-05-20T01:15:46",
-        "last_announcement": "2024-05-20T01:01:00"
-    },
     "IN-24-02726": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
