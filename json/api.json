@@ -2853,5 +2853,37 @@
         "district": "離島區",
         "last_update": "2024-05-22T21:39:36",
         "last_announcement": "2024-05-22T21:29:00"
+    },
+    "IN-24-02800": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Sha Tin Road",
+            "LOCATION_CN": "沙田路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Pok Hong Estate",
+            "NEAR_LANDMARK_CN": "博康邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-23T03:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97183",
+                "CONTENT_EN": "The slow lane of Sha Tin Road (Lion Rock Tunnel bound) near Pok Hong Estate which was closed due to road incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路事故而封閉的沙田路(往獅子山隧道方向)近博康邨的慢線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-05-23T03:26:13",
+        "last_announcement": "2024-05-23T03:12:00"
     }
 }
