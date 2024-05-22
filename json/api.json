@@ -2653,10 +2653,17 @@
                 "ID": "97149",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Austin Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，連翔道(往尖沙咀方向)近柯士甸道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-22T10:35:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97150",
+                "CONTENT_EN": "Part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Austin Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的連翔道(往尖沙咀方向)近柯士甸道的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-05-22T10:39:38",
-        "last_announcement": "2024-05-22T10:24:00"
+        "last_update": "2024-05-22T10:59:58",
+        "last_announcement": "2024-05-22T10:35:00"
     }
 }
