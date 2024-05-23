@@ -2660,11 +2660,18 @@
                 "ID": "97219",
                 "CONTENT_EN": "The following road sections are still busy:\n– Wong Chu Road (Tuen Mun Road bound)\n– Tuen Mun Road (Yuen Long bound)\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Tsuen Wan Road (Tuen Mun Road bound)\n– Tai Po Road - Sha Tin (Kowloon bound)\n– Tolo Highway (Kowloon bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   At the same time, traffic at the following road section has resumed normal:\n– Lung Fu Road (Tuen Mun Road bound).",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–皇珠路(往屯門公路方向)\n–屯門公路(往元朗方向)\n–觀塘繞道(往大老山隧道方向)\n–荃灣路(往屯門公路方向)\n–大埔公路　–　沙田段(往九龍方向)\n–吐露港公路(往九龍方向)\n–大埔公路　–　沙田段(往大埔方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n–龍富路(往屯門公路方向)。"
+            },
+            "2024-05-23T19:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97222",
+                "CONTENT_EN": "The following road sections are still busy:\n– Wong Chu Road (Tuen Mun Road bound)\n– Tuen Mun Road (Yuen Long bound)\n– Tsuen Wan Road (Tuen Mun Road bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   At the same time, traffic at the following road section have resumed normal:\n– Tolo Highway (Kowloon bound)\n– Tai Po Road - Sha Tin (Kowloon bound)\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound).",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–皇珠路(往屯門公路方向)\n–屯門公路(往元朗方向)\n–荃灣路(往屯門公路方向)\n–大埔公路　–　沙田段(往大埔方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n–吐露港公路(往九龍方向)\n–大埔公路　–　沙田段(往九龍方向)\n–觀塘繞道(往大老山隧道方向)。"
             }
         },
         "district": null,
-        "last_update": "2024-05-23T19:08:21",
-        "last_announcement": "2024-05-23T18:51:00"
+        "last_update": "2024-05-23T19:41:56",
+        "last_announcement": "2024-05-23T19:28:00"
     },
     "IN-24-02817": {
         "description": {
@@ -2775,5 +2782,37 @@
         "district": "荃灣區",
         "last_update": "2024-05-23T19:31:55",
         "last_announcement": "2024-05-23T19:22:00"
+    },
+    "IN-24-02821": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Yue Man Square",
+            "NEAR_LANDMARK_CN": "裕民坊",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-23T19:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97223",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Yue Man Square is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近裕民坊的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-23T19:41:56",
+        "last_announcement": "2024-05-23T19:32:00"
     }
 }
