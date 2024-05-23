@@ -38,45 +38,6 @@
         "last_update": "2024-05-20T18:56:33",
         "last_announcement": "2024-05-20T17:35:00"
     },
-    "IN-24-02735": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Shap Pat Heung Interchange",
-            "NEAR_LANDMARK_CN": "十八鄉交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-20T13:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97039",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Shap Pat Heung Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近十八鄉交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-20T14:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97041",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Tuen Mun bound) near Shap Pat Heung Interchange which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往屯門方向)近十八鄉交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-20T14:31:02",
-        "last_announcement": "2024-05-20T14:12:00"
-    },
     "IN-24-02737": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2768,5 +2729,37 @@
         "district": "東區",
         "last_update": "2024-05-23T13:30:36",
         "last_announcement": "2024-05-23T13:18:00"
+    },
+    "IN-24-02808": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwai Chung Road",
+            "LOCATION_CN": "葵涌道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Mei Foo Sun Chuen",
+            "NEAR_LANDMARK_CN": "美孚新邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-23T14:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97195",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwai Chung Road flyover (Tsuen Wan bound) near Mei Foo Sun Chuen is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，葵涌道天橋(往荃灣方向)近美孚新邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-05-23T14:31:30",
+        "last_announcement": "2024-05-23T14:21:00"
     }
 }
