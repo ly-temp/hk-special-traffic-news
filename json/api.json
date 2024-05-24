@@ -1,43 +1,4 @@
 {
-    "IN-24-02775": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Kwu Tung Road and San Tin Interchange",
-            "INCIDENT_DETAIL_CN": "古洞路及新田交匯處",
-            "LOCATION_EN": "Kwu Tung Road",
-            "LOCATION_CN": "古洞路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-21T23:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97128",
-                "CONTENT_EN": "Due to emergency removal of hazardous trees, Kwu Tung Road connecting to San Tin Highway near San Tin Interchange (Yuen Long bound), and the exit lane of San Tin Interchange towards San Tin Highway westbound (Yuen Long bound) are temporarily closed to all traffic. Motorists are advised to use Kwu Tung Road eastbound, Slip Road (to Fanling Highway westbound), San Tin Interchange, Slip Road (from San Tin Highway westbound to Kwu Tung Road), Kwu Tung Road westbound, Castle Peak Road – San Tin Section westbound, Shek Wu Wai Road southbound, San Tin Highway westbound Slip Road, before resuming its original routing. Westbound franchised bus and green minibus service are diverted as below: KMB route nos. 276B and B1, Long Win Bus route no. NA43, and Green Minibus route nos. 79S and 44B (All-night services), after reaching San Tin Public Transport Interchange, are diverted via Castle Peak Road – San Tin Section westbound, Shek Wu Wai Road southbound and San Tin Highway westbound, before resume its original routing.",
-                "CONTENT_CN": "因應緊急移除危險樹木，古洞路連接新田公路近新田交匯處(往元朗方向)，及新田交匯處往新田公路的西行支路(往元朗方向)現已臨時封閉。 駕車人士請改行古洞路東行、往粉嶺公路的西行支路、新田交匯處、新田公路西行往古洞路的支路、古洞路西行、青山公路新田段西行、石湖圍路南行、新田公路西行支路，然後返回原有路線。 往西行方向的巴士及小巴路線須改道如下: -九巴第276B及B1號線、龍運巴士第NA43號線及小巴第79S及44B (通宵服務)在途經新田公共交匯處後，須改經青山公路新田段西行、石湖圍路南行、新田公路西行支路，然後返回原有路線。"
-            },
-            "2024-05-22T06:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97129",
-                "CONTENT_EN": "Kwu Tung Road connecting to San Tin Highway near San Tin Interchange (Yuen Long bound), and the exit lane of San Tin Interchange towards San Tin Highway westbound (Yuen Long bound) which was closed due to emergency removal of hazardous trees are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急移除危險樹木而封閉的古洞路連接新田公路近新田交匯處(往元朗方向)，及新田交匯處往新田公路的西行支路(往元朗方向)現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-05-22T06:29:04",
-        "last_announcement": "2024-05-22T06:13:00"
-    },
     "IN-24-02779": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3482,11 +3443,18 @@
                 "ID": "97344",
                 "CONTENT_EN": "Due to emergency repairing works , the fast lane of Ting Kok Road (Tai Mei Tuk bound) near Dai Kwai Street is closed to all traffic. Only remaining lane is available to motorists.",
                 "CONTENT_CN": "因緊急維修，汀角路(往大尾篤方向)近大貴街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-05-25T06:12:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97354",
+                "CONTENT_EN": "The fast lane of Ting Kok Road (Tai Mei Tuk bound) near Dai Kwai Street which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的汀角路(往大尾篤方向)近大貴街的快線現已解封。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-05-24T22:40:35",
-        "last_announcement": "2024-05-24T22:26:00"
+        "last_update": "2024-05-25T06:30:16",
+        "last_announcement": "2024-05-25T06:12:00"
     },
     "IN-24-02871": {
         "description": {
