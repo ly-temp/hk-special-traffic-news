@@ -1,43 +1,4 @@
 {
-    "IN-24-02766": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-21T15:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97100",
-                "CONTENT_EN": "Waterloo Road (Lion Rock Tunnel bound) is busy. Traffic queue on Waterloo Road (Lion Rock Tunnel bound) ends at Princess Margaret Road near Pui Ching Road. Motorists passing through the above road section are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "窩打老道(往獅子山隧道方向)的交通繁忙。現時在窩打老道(往獅子山隧道方向)的車龍龍尾已到公主道近培正道。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-05-21T16:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97109",
-                "CONTENT_EN": "Traffic at Waterloo Road (Lion Rock Tunnel bound) has resumed normal.",
-                "CONTENT_CN": "窩打老道(往獅子山隧道方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-21T16:40:29",
-        "last_announcement": "2024-05-21T16:31:00"
-    },
     "IN-24-02769": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2947,11 +2908,18 @@
                 "ID": "97281",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Cornwall Street (Sham Shui Po bound) near Devon Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，歌和老街(往深水埗方向)近德雲道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-24T15:58:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97290",
+                "CONTENT_EN": "Part of the lanes of Cornwall Street (Sham Shui Po bound) near Devon Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的歌和老街(往深水埗方向)近德雲道的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-05-24T15:31:03",
-        "last_announcement": "2024-05-24T15:22:00"
+        "last_update": "2024-05-24T16:49:47",
+        "last_announcement": "2024-05-24T15:58:00"
     },
     "IN-24-02847": {
         "description": {
@@ -3133,5 +3101,37 @@
         "district": "屯門區",
         "last_update": "2024-05-24T16:39:41",
         "last_announcement": "2024-05-24T16:26:00"
+    },
+    "IN-24-02853": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "traffic accident happened earlier",
+            "INCIDENT_DETAIL_CN": "較早前交通意外",
+            "LOCATION_EN": "Connaught Road West",
+            "LOCATION_CN": "干諾道西",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-24T16:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97300",
+                "CONTENT_EN": "Due to vehicle breakdown happened earlier , the slip road leading from Connaught Road West flyover to Western Harbour Crossing (Kowloon bound) is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "因較早前車輛故障，由干諾道西天橋通往西區海底隧道(往九龍方向) 的支路的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-05-24T16:49:47",
+        "last_announcement": "2024-05-24T16:35:00"
     }
 }
