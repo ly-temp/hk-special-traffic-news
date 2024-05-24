@@ -1,43 +1,4 @@
 {
-    "IN-24-02773": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "malfunction of traffic lights",
-            "INCIDENT_DETAIL_CN": "交通燈失靈",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Waterloo Road",
-            "NEAR_LANDMARK_CN": "窩打老道",
-            "BETWEEN_LANDMARK_EN": "Shanghai Street",
-            "BETWEEN_LANDMARK_CN": "上海街",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-21T17:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97118",
-                "CONTENT_EN": "Due to malfunction of traffic lights of the junction of Waterloo Road and Shanghai Street, motorists are advised to drive with utmost care when passing through the road junctions, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.",
-                "CONTENT_CN": "由於窩打老道和上海街交界的交通燈失靈，駕駛人士在駛經有關路口時，請加倍小心，注意交通標誌的指示並留意過路行人的安全。行人在交通燈失靈的路口橫過馬路時，請特別注意車輛。"
-            },
-            "2024-05-21T18:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97120",
-                "CONTENT_EN": "All traffic lights at the junction of Waterloo Road and Shanghai Street have resumed normal services.",
-                "CONTENT_CN": "較早前位於窩打老道和上海街交界的交通燈已恢復正常運作。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-21T18:30:47",
-        "last_announcement": "2024-05-21T18:24:00"
-    },
     "IN-24-02774": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3064,11 +3025,18 @@
                 "ID": "97302",
                 "CONTENT_EN": "The following road sections are busy:\n– Victoria Park Road (Central bound)\n– East Kowloon Way (Kwun Tong bound)\n– Connaught Road Central Flyover (Kennedy Town bound)\n– Gascoigne Road Flyover (Hung Hom bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   At the same time, traffic at the following road sections has resumed normal:\n– East Kowloon Way (Tsim Sha Tsui bound)\n– Connaught Road Central Flyover (Admiralty bound).",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–維園道(往中環方向)\n–東九龍走廊(往觀塘方向)\n–干諾道中天橋(往堅尼地城方向)\n–加士居道天橋(往紅磡方向)\n–大埔公路　–　沙田段(往大埔方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n–東九龍走廊(往尖沙咀方向)\n–干諾道中天橋(往金鐘方向)。"
+            },
+            "2024-05-24T18:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97319",
+                "CONTENT_EN": "The following road sections are busy:\n– Victoria Park Road (Central bound)\n– East Kowloon Way (both bounds)\n– Connaught Road Central Flyover (Kennedy Town bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\n– Gascoigne Road Flyover (Hung Hom bound)\n– Tsuen Wan Road (Tuen Mun Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–維園道(往中環方向)\n–東九龍走廊(來回方向)\n–干諾道中天橋(往堅尼地城方向)\n–大埔公路　–　沙田段(往大埔方向)\n–加士居道天橋(往紅磡方向)\n–荃灣路(往屯門公路方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": null,
-        "last_update": "2024-05-24T16:59:50",
-        "last_announcement": "2024-05-24T16:49:00"
+        "last_update": "2024-05-24T18:39:57",
+        "last_announcement": "2024-05-24T18:22:00"
     },
     "IN-24-02855": {
         "description": {
@@ -3250,5 +3218,37 @@
         "district": "灣仔區",
         "last_update": "2024-05-24T18:29:48",
         "last_announcement": "2024-05-24T18:05:00"
+    },
+    "IN-24-02860": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Caritas Medical Centre",
+            "NEAR_LANDMARK_CN": "明愛醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-24T18:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97320",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Caritas Medical Centre is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Ching Cheung Road (Kwun Tong bound) ends at Tsing Kwai Highway near Princess Margaret Hospital. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近明愛醫院的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往觀塘方向)的車龍龍尾已到青葵公路近瑪嘉烈醫院。 現時上址交通擠塞。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-05-24T18:39:57",
+        "last_announcement": "2024-05-24T18:29:00"
     }
 }
