@@ -38,38 +38,6 @@
         "last_update": "2024-05-21T15:52:51",
         "last_announcement": "2024-05-21T15:42:00"
     },
-    "IN-24-02763": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Sha Tin Racecourse",
-            "NEAR_LANDMARK_CN": "沙田馬場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-21T15:03:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97097",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-21T15:32:23",
-        "last_announcement": "2024-05-21T15:03:00"
-    },
     "IN-24-02766": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
