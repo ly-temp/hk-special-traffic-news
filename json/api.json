@@ -2947,11 +2947,18 @@
                 "ID": "97264",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Sha Highway (Western Harbour Crossing bound) near Hoi Lai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青沙公路(往西區海底隧道方向)近海麗邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-24T14:17:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97271",
+                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Western Harbour Crossing bound) near Hoi Lai Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青沙公路(往西區海底隧道方向)近海麗邨的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-05-24T13:18:43",
-        "last_announcement": "2024-05-24T12:59:00"
+        "last_update": "2024-05-24T14:41:33",
+        "last_announcement": "2024-05-24T14:17:00"
     },
     "IN-24-02837": {
         "description": {
@@ -3055,5 +3062,37 @@
         "district": "油尖旺區",
         "last_update": "2024-05-24T14:30:31",
         "last_announcement": "2024-05-24T14:17:00"
+    },
+    "IN-24-02842": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Peninsula Heights",
+            "NEAR_LANDMARK_CN": "星輝豪庭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-24T14:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97274",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Peninsula Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近星輝豪庭的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-05-24T14:41:33",
+        "last_announcement": "2024-05-24T14:24:00"
     }
 }
