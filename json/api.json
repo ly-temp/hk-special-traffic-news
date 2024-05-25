@@ -1,43 +1,4 @@
 {
-    "IN-24-02780": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O Tunnel",
-            "DIRECTION_CN": "將軍澳隧道",
-            "NEAR_LANDMARK_EN": "Kwun Tong Swimming Pool",
-            "NEAR_LANDMARK_CN": "觀塘游泳池",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-22T07:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97132",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Kwun Tong Swimming Pool is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近觀塘游泳池的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-22T08:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97134",
-                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Kwun Tong Swimming Pool which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往將軍澳隧道方向)近觀塘游泳池的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-22T08:32:39",
-        "last_announcement": "2024-05-22T08:02:00"
-    },
     "IN-24-02782": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
@@ -3521,10 +3482,63 @@
                 "ID": "97356",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong By-Pass (Mong Kok bound) near Kowloonbay International Trade amp; Exhibition Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近九龍灣國際展貿中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-25T08:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97357",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong By-Pass (Mong Kok bound) near Kowloonbay International Trade amp; Exhibition Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往旺角方向)近九龍灣國際展貿中心的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-25T07:19:55",
-        "last_announcement": "2024-05-25T07:11:00"
+        "last_update": "2024-05-25T09:38:44",
+        "last_announcement": "2024-05-25T08:25:00"
+    },
+    "IN-24-02873": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Tai Po Road",
+            "NEAR_LANDMARK_CN": "大埔道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-25T08:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97358",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Tai Po Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，呈祥道(往觀塘方向)近大埔道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-25T09:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97359",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Tai Po Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Kwun Tong bound) ends at Ching Cheung Road near Butterfly Valley. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，呈祥道(往觀塘方向)近大埔道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往觀塘方向)的車龍龍尾已到呈祥道近蝴蝶谷。 現時上址交通擠塞。"
+            },
+            "2024-05-25T09:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97360",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Tai Po Road which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往觀塘方向)近大埔道的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-05-25T09:38:44",
+        "last_announcement": "2024-05-25T09:20:00"
     }
 }
