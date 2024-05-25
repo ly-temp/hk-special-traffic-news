@@ -3430,5 +3430,37 @@
         "district": "大埔區",
         "last_update": "2024-05-25T22:11:59",
         "last_announcement": "2024-05-25T22:00:00"
+    },
+    "IN-24-02874": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Canton Road, Salisbury Road bound, near Austin Road",
+            "INCIDENT_DETAIL_CN": "廣東道，往梳士巴利道方向，近柯士甸道",
+            "LOCATION_EN": "Canton Road",
+            "LOCATION_CN": "廣東道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Salisbury Road",
+            "DIRECTION_CN": "梳士巴利道",
+            "NEAR_LANDMARK_EN": "Austin Road",
+            "NEAR_LANDMARK_CN": "柯士甸道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-25T23:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97403",
+                "CONTENT_EN": "Due to emergency repair of road surface, the middle lane of Canton Road (Salisbury Road bound) near Austin Road is closed to all traffic. \nOnly remaining lanes are available to motorists.",
+                "CONTENT_CN": "因緊急路面維修，廣東道(往梳士巴利道方向)近柯士甸道的中線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-05-25T23:38:35",
+        "last_announcement": "2024-05-25T23:30:00"
     }
 }
