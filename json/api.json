@@ -1,43 +1,4 @@
 {
-    "IN-24-02795": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Nam Wan Tunnel",
-            "LOCATION_CN": "南灣隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-22T17:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97165",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube fast lane of Nam Wan Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，南灣隧道(往九龍方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-22T17:40:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97166",
-                "CONTENT_EN": "The tunnel tube fast lane of Nam Wan Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的南灣隧道(往九龍方向)的管道快線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-05-22T18:09:49",
-        "last_announcement": "2024-05-22T17:40:00"
-    },
     "IN-24-02796": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -83,38 +44,6 @@
         "district": "荃灣區",
         "last_update": "2024-05-22T18:29:17",
         "last_announcement": "2024-05-22T18:19:00"
-    },
-    "IN-24-02797": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Po Shek Wu Road",
-            "LOCATION_CN": "寶石湖路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Shek Wu Hui",
-            "DIRECTION_CN": "石湖墟",
-            "NEAR_LANDMARK_EN": "Fanling Highway",
-            "NEAR_LANDMARK_CN": "粉嶺公路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-22T17:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97168",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Po Shek Wu Road (Shek Wu Hui bound) near Fanling Highway is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，寶石湖路(往石湖墟方向)近粉嶺公路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-05-22T18:09:49",
-        "last_announcement": "2024-05-22T17:56:00"
     },
     "IN-24-02798": {
         "description": {
@@ -3384,5 +3313,69 @@
         "district": "沙田區",
         "last_update": "2024-05-25T18:07:37",
         "last_announcement": "2024-05-25T17:49:00"
+    },
+    "IN-24-02789": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Jaffe Road",
+            "LOCATION_CN": "謝斐道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Causeway Bay",
+            "DIRECTION_CN": "銅鑼灣",
+            "NEAR_LANDMARK_EN": "O'Brien Road",
+            "NEAR_LANDMARK_CN": "柯布連道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-25T18:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97382",
+                "CONTENT_EN": "Part of the lanes of Jaffe Road (Causeway Bay bound) near O'Brien Road which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的謝斐道(往銅鑼灣方向)近柯布連道的部份行車線現已解封。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-05-25T18:28:15",
+        "last_announcement": "2024-05-25T18:07:00"
+    },
+    "IN-24-02887": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "San Wo Lane Playground",
+            "NEAR_LANDMARK_CN": "新和里遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-25T18:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97385",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near San Wo Lane Playground which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近新和里遊樂場的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-25T18:28:15",
+        "last_announcement": "2024-05-25T18:13:00"
     }
 }
