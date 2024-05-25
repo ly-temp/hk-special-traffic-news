@@ -3340,10 +3340,49 @@
                 "ID": "97378",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Po Lam Road (Sau Mau Ping Road bound) near Po Tat Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，寶琳路(往秀茂坪道方向)近寶達邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-25T18:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97381",
+                "CONTENT_EN": "The slow lane of Po Lam Road (Sau Mau Ping Road bound) near Po Tat Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的寶琳路(往秀茂坪道方向)近寶達邨的慢線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-25T17:20:36",
-        "last_announcement": "2024-05-25T16:57:00"
+        "last_update": "2024-05-25T18:07:37",
+        "last_announcement": "2024-05-25T18:02:00"
+    },
+    "IN-24-02886": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Sha Tin Rural Committee Road",
+            "LOCATION_CN": "沙田鄉事會路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin Wai",
+            "DIRECTION_CN": "沙田圍",
+            "NEAR_LANDMARK_EN": "Yuen Wo Road",
+            "NEAR_LANDMARK_CN": "源禾路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-25T17:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97379",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Sha Tin Rural Committee Road (Sha Tin Wai bound) near Yuen Wo Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，沙田鄉事會路(往沙田圍方向)近源禾路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-05-25T18:07:37",
+        "last_announcement": "2024-05-25T17:49:00"
     }
 }
