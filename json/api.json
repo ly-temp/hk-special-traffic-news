@@ -3301,10 +3301,17 @@
                 "ID": "97365",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Kam Tin River is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，元朗公路(往屯門方向)近錦田河的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-25T13:33:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97366",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Tuen Mun bound) near Kam Tin River which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往屯門方向)近錦田河的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-05-25T13:25:09",
-        "last_announcement": "2024-05-25T13:18:00"
+        "last_update": "2024-05-25T13:45:25",
+        "last_announcement": "2024-05-25T13:33:00"
     }
 }
