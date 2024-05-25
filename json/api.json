@@ -1,36 +1,4 @@
 {
-    "IN-24-02789": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Jaffe Road",
-            "LOCATION_CN": "謝斐道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Causeway Bay",
-            "DIRECTION_CN": "銅鑼灣",
-            "NEAR_LANDMARK_EN": "O'Brien Road",
-            "NEAR_LANDMARK_CN": "柯布連道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-22T11:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97153",
-                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Jaffe Road (Causeway Bay bound) near O'Brien Road is closed to all traffic. Only remaining lane is available to motorists. Vehicles are prohibited from making right-turn from Jaffe Road onto O'Brien Road.",
-                "CONTENT_CN": "因水管緊急維修，謝斐道(往銅鑼灣方向)近柯布連道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 車輛禁止由謝斐道右轉進入柯布連道。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-05-22T11:44:57",
-        "last_announcement": "2024-05-22T11:23:00"
-    },
     "IN-24-02790": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
