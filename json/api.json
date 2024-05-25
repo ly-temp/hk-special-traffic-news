@@ -1,43 +1,4 @@
 {
-    "IN-24-02782": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Airport Express In-town Check-in service is temporarily suspended",
-            "INCIDENT_DETAIL_CN": "機場快綫市區預辦登機服務暫停",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-22T08:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97135",
-                "CONTENT_EN": "Due to In-town Check-in system computer fault, In-town Check-in service at Hong Kong Station is temporarily suspended. Passengers are advised to leave earlier for the Airport for baggage check-in.",
-                "CONTENT_CN": "由於市區預辦登機系統電腦故障，香港站市區預辦登機服務暫停。 乘客請提早前往機場辦理登機手續。"
-            },
-            "2024-05-22T10:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97151",
-                "CONTENT_EN": "The problem with the telecom service provider network has been solved. In-town Check-in service is gradually resuming normal.",
-                "CONTENT_CN": "電訊服務供應商網絡系統經搶修後已恢復運作，機場快綫市區預辦登機服務逐步回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-05-22T10:49:56",
-        "last_announcement": "2024-05-22T10:37:00"
-    },
     "IN-24-02784": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
