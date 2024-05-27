@@ -38,52 +38,6 @@
         "last_update": "2024-05-24T16:28:23",
         "last_announcement": "2024-05-24T16:09:00"
     },
-    "IN-24-02833": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Man Po Street",
-            "LOCATION_CN": "民寶街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wan Chai",
-            "DIRECTION_CN": "灣仔",
-            "NEAR_LANDMARK_EN": "Man Yiu Street",
-            "NEAR_LANDMARK_CN": "民耀街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-24T12:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97257",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Man Po Street (Wan Chai bound) near Man Yiu Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，民寶街(往灣仔方向)近民耀街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-24T12:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97259",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Man Po Street (Wan Chai bound) near Man Yiu Street is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Man Po Street (Wan Chai bound) ends at Connaught Road West near Western Harbour Crossing. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，民寶街(往灣仔方向)近民耀街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在民寶街(往灣仔方向)的車龍龍尾已到干諾道西近西區海底隧道。 現時上址交通擠塞。"
-            },
-            "2024-05-24T12:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97261",
-                "CONTENT_EN": "Part of the lanes of Man Po Street (Wan Chai bound) near Man Yiu Street which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的民寶街(往灣仔方向)近民耀街的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-24T12:58:03",
-        "last_announcement": "2024-05-24T12:43:00"
-    },
     "IN-24-02835": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
