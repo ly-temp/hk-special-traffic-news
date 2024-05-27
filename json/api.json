@@ -1,50 +1,4 @@
 {
-    "IN-24-02829": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O Tunnel",
-            "DIRECTION_CN": "將軍澳隧道",
-            "NEAR_LANDMARK_EN": "Hing Tin Estate",
-            "NEAR_LANDMARK_CN": "興田邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-24T08:59:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97245",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，將軍澳道(往將軍澳隧道方向)近興田邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-24T09:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97246",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tseung Kwan O Road (Tseung Kwan O Tunnel bound) ends at Kwun Tong Bypass near Laguna City. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，將軍澳道(往將軍澳隧道方向)近興田邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在將軍澳道(往將軍澳隧道方向)的車龍龍尾已到觀塘繞道近麗港城。 現時上址交通擠塞。"
-            },
-            "2024-05-24T09:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97247",
-                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳道(往將軍澳隧道方向)近興田邨的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-24T10:00:17",
-        "last_announcement": "2024-05-24T09:54:00"
-    },
     "IN-24-02830": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3260,5 +3214,69 @@
         "district": "北區",
         "last_update": "2024-05-27T09:43:20",
         "last_announcement": "2024-05-27T09:15:00"
+    },
+    "IN-24-02915": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Princess Margaret Hospital",
+            "NEAR_LANDMARK_CN": "瑪嘉烈醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-27T09:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97452",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Princess Margaret Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近瑪嘉烈醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-05-27T10:21:20",
+        "last_announcement": "2024-05-27T09:57:00"
+    },
+    "IN-24-02912": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Ma Liu Shui Interchange",
+            "NEAR_LANDMARK_CN": "馬料水交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-27T10:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97454",
+                "CONTENT_EN": "The fast lane of Tolo Highway (Kowloon bound) near Ma Liu Shui Interchange which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近馬料水交匯處的快線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-27T10:21:20",
+        "last_announcement": "2024-05-27T10:02:00"
     }
 }
