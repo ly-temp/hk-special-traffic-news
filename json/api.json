@@ -116,77 +116,6 @@
         "last_update": "2024-05-24T16:28:23",
         "last_announcement": "2024-05-24T16:18:00"
     },
-    "IN-24-02848": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Incident",
-            "INCIDENT_DETAIL_CN": "道路事故",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Forfar Road",
-            "NEAR_LANDMARK_CN": "科發道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-24T15:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97287",
-                "CONTENT_EN": "Due to road incident , part of the lanes of Argyle Street (Kwun Tong bound) near Forfar Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因道路事故，亞皆老街(往觀塘方向)近科發道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-24T15:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97289",
-                "CONTENT_EN": "Part of the lanes of Argyle Street (Kwun Tong bound) near Forfar Road which was closed due to road incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因道路事故而封閉的亞皆老街(往觀塘方向)近科發道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-05-24T16:10:29",
-        "last_announcement": "2024-05-24T15:51:00"
-    },
-    "IN-24-02850": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lei Yue Mun Road",
-            "LOCATION_CN": "鯉魚門道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon Bay",
-            "DIRECTION_CN": "九龍灣",
-            "NEAR_LANDMARK_EN": "Kwun Tong Swimming Pool",
-            "NEAR_LANDMARK_CN": "觀塘游泳池",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-24T15:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97291",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lei Yue Mun Road (Kowloon Bay bound) near Kwun Tong Swimming Pool is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，鯉魚門道(往九龍灣方向)近觀塘游泳池的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-24T16:10:29",
-        "last_announcement": "2024-05-24T15:58:00"
-    },
     "IN-24-02851": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3019,5 +2948,69 @@
         "district": "屯門區",
         "last_update": "2024-05-27T15:12:53",
         "last_announcement": "2024-05-27T15:01:00"
+    },
+    "IN-24-02923": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-27T15:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97473",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Island Eastern Corridor (Chai Wan bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東區走廊(往柴灣方向)近和富中心的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-05-27T16:18:41",
+        "last_announcement": "2024-05-27T15:53:00"
+    },
+    "IN-24-02924": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Pok Fu Lam Road",
+            "LOCATION_CN": "薄扶林道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen",
+            "DIRECTION_CN": "香港仔",
+            "NEAR_LANDMARK_EN": "Hong Kong Chinese Christian Churches Union Pok Fu Lam Road Cemetery",
+            "NEAR_LANDMARK_CN": "香港華人基督教聯會薄扶林道墳場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-27T15:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97474",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Pok Fu Lam Road (Aberdeen bound) near Hong Kong Chinese Christian Churches Union Pok Fu Lam Road Cemetery is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，薄扶林道(往香港仔方向)近香港華人基督教聯會薄扶林道墳場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-05-27T16:18:41",
+        "last_announcement": "2024-05-27T15:57:00"
     }
 }
