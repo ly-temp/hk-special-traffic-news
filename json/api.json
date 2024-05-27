@@ -84,38 +84,6 @@
         "last_update": "2024-05-24T17:31:37",
         "last_announcement": "2024-05-24T17:26:00"
     },
-    "IN-24-02852": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Wo Yi Hop Road",
-            "LOCATION_CN": "和宜合道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Fong",
-            "DIRECTION_CN": "葵芳",
-            "NEAR_LANDMARK_EN": "North Kwai Chung Jockey Club Swimming Pool",
-            "NEAR_LANDMARK_CN": "北葵涌賽馬會游泳池",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-24T16:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97301",
-                "CONTENT_EN": "The slow lane of Wo Yi Hop Road (Kwai Fong bound) near North Kwai Chung Jockey Club Swimming Pool which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的和宜合道(往葵芳方向)近北葵涌賽馬會游泳池的慢線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-05-24T16:59:50",
-        "last_announcement": "2024-05-24T16:46:00"
-    },
     "IN-24-02846": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
