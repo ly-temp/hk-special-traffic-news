@@ -2245,10 +2245,49 @@
                 "ID": "97489",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Tolo Highway (Sha Tin bound) near Hong Kong Science Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，吐露港公路(往沙田方向)近香港科學園的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-28T07:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97492",
+                "CONTENT_EN": "The fast lane of Tolo Highway (Sha Tin bound) near Hong Kong Science Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往沙田方向)近香港科學園的快線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-05-28T07:41:53",
-        "last_announcement": "2024-05-28T07:32:00"
+        "last_update": "2024-05-28T07:52:09",
+        "last_announcement": "2024-05-28T07:42:00"
+    },
+    "IN-24-02932": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Extra Travelling Time on the Tsuen Wan Line",
+            "INCIDENT_DETAIL_CN": "荃灣綫需額外行車時間",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-28T07:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97491",
+                "CONTENT_EN": "The case of a passenger on a Tsuen Wan Line train needing medical assistance has been handled. Normal train service is resuming.",
+                "CONTENT_CN": "荃灣綫列車乘客求助的事件已處理，列車服務逐步回復正常。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-05-28T07:52:09",
+        "last_announcement": "2024-05-28T07:38:00"
     }
 }
