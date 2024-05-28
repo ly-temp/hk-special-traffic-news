@@ -2575,11 +2575,18 @@
                 "ID": "97539",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近天馬苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-28T18:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97541",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近天馬苑的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-05-28T18:42:48",
-        "last_announcement": "2024-05-28T18:28:00"
+        "last_update": "2024-05-28T19:08:55",
+        "last_announcement": "2024-05-28T18:47:00"
     },
     "IN-24-02954": {
         "description": {
@@ -2607,10 +2614,17 @@
                 "ID": "97540",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-28T18:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97542",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Hammer Hill Road Swimming Pool. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道公園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近斧山道游泳池。 現時上址交通擠塞。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-05-28T18:42:48",
-        "last_announcement": "2024-05-28T18:33:00"
+        "last_update": "2024-05-28T19:08:55",
+        "last_announcement": "2024-05-28T18:52:00"
     }
 }
