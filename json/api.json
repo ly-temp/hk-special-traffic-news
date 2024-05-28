@@ -2417,5 +2417,115 @@
         "district": "深水埗區",
         "last_update": "2024-05-28T09:44:32",
         "last_announcement": "2024-05-28T09:19:00"
+    },
+    "IN-24-02941": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Tsui Ping South Estate",
+            "NEAR_LANDMARK_CN": "翠屏南邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-28T09:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97507",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Tseung Kwan O Road (Kwun Tong bound) near Tsui Ping South Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往觀塘方向)近翠屏南邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-28T09:44:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97509",
+                "CONTENT_EN": "The fast lane of Tseung Kwan O Road (Kwun Tong bound) near Tsui Ping South Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘方向)近翠屏南邨的快線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-28T10:21:33",
+        "last_announcement": "2024-05-28T09:44:00"
+    },
+    "IN-24-02942": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Lookout",
+            "NEAR_LANDMARK_CN": "龍翔道觀景台",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-28T09:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97508",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Lookout is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道觀景台的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-28T10:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97513",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Lookout which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近龍翔道觀景台的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-05-28T10:21:33",
+        "last_announcement": "2024-05-28T10:05:00"
+    },
+    "IN-24-02940": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Lancashire Road",
+            "NEAR_LANDMARK_CN": "蘭開夏道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-28T09:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97512",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Lancashire Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近蘭開夏道的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-05-28T10:21:33",
+        "last_announcement": "2024-05-28T09:55:00"
     }
 }
