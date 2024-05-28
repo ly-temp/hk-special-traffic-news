@@ -77,45 +77,6 @@
         "last_update": "2024-05-26T10:09:29",
         "last_announcement": "2024-05-26T05:56:00"
     },
-    "IN-24-02874": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Canton Road, Salisbury Road bound, near Austin Road",
-            "INCIDENT_DETAIL_CN": "廣東道，往梳士巴利道方向，近柯士甸道",
-            "LOCATION_EN": "Canton Road",
-            "LOCATION_CN": "廣東道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Salisbury Road",
-            "DIRECTION_CN": "梳士巴利道",
-            "NEAR_LANDMARK_EN": "Austin Road",
-            "NEAR_LANDMARK_CN": "柯士甸道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-25T23:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97403",
-                "CONTENT_EN": "Due to emergency repair of road surface, the middle lane of Canton Road (Salisbury Road bound) near Austin Road is closed to all traffic. \nOnly remaining lanes are available to motorists.",
-                "CONTENT_CN": "因緊急路面維修，廣東道(往梳士巴利道方向)近柯士甸道的中線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-05-26T05:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97408",
-                "CONTENT_EN": "The middle lane of Canton Road (Salisbury Road bound) near Austin Road, which was closed to all traffic due to emergency repair of road surface, is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的廣東道(往梳士巴利道方向)近柯士甸道的中線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-26T06:10:05",
-        "last_announcement": "2024-05-26T05:40:00"
-    },
     "IN-24-02895": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2410,5 +2371,37 @@
         "district": "屯門區",
         "last_update": "2024-05-28T21:00:48",
         "last_announcement": "2024-05-28T19:33:00"
+    },
+    "IN-24-02957": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong Link Road",
+            "LOCATION_CN": "香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-29T06:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97549",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-05-29T06:16:45",
+        "last_announcement": "2024-05-29T06:08:00"
     }
 }
