@@ -77,70 +77,6 @@
         "last_update": "2024-05-25T18:39:30",
         "last_announcement": "2024-05-25T18:11:00"
     },
-    "IN-24-02789": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Jaffe Road",
-            "LOCATION_CN": "謝斐道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Causeway Bay",
-            "DIRECTION_CN": "銅鑼灣",
-            "NEAR_LANDMARK_EN": "O'Brien Road",
-            "NEAR_LANDMARK_CN": "柯布連道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-25T18:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97382",
-                "CONTENT_EN": "Part of the lanes of Jaffe Road (Causeway Bay bound) near O'Brien Road which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的謝斐道(往銅鑼灣方向)近柯布連道的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-05-25T18:28:15",
-        "last_announcement": "2024-05-25T18:07:00"
-    },
-    "IN-24-02887": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "San Wo Lane Playground",
-            "NEAR_LANDMARK_CN": "新和里遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-25T18:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97385",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near San Wo Lane Playground which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近新和里遊樂場的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-25T18:28:15",
-        "last_announcement": "2024-05-25T18:13:00"
-    },
     "IN-24-02888": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -780,11 +716,18 @@
                 "ID": "97515",
                 "CONTENT_EN": "The only lane of Wai Tsuen Road (Tsuen Kam Interchange bound) between Shek Wai Kok Road and Tsuen Kam Interchange and the fast lane of Wai Tsuen Road (Shing Mun Road bound) near Tsuen Wan Ambulance Depotwhich were closed due to watermain emergency works are re-opened to all traffic;\nwhile the slow lane of Wai Tsuen Road (Shing Mun Road bound) near Tsuen Wan Ambulance Depot is closed to all traffic.   Affected bus routes have resumed their original routeings.   Traffic is busy now.",
                 "CONTENT_CN": "較早前因水管緊急維修而封閉的蕙荃路(往荃錦交匯處方向)介乎石圍角路與荃錦交匯處之間的唯一行車線及蕙荃路(往城門道方向)近荃灣救護站的快線現已解封;\n唯蕙荃路(往城門道方向)近荃灣救護站的慢線現已封閉。  受影響巴士路線現已恢復原有路線行駛。  現時上址交通繁忙。"
+            },
+            "2024-05-28T18:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97538",
+                "CONTENT_EN": "The slow lane of Wai Tsuen Road (Shing Mun Road bound) near Tsuen Wan Ambulance Depot which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的蕙荃路(往城門道方向)近荃灣救護站的慢線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-05-28T12:40:20",
-        "last_announcement": "2024-05-28T12:20:00"
+        "last_update": "2024-05-28T18:32:35",
+        "last_announcement": "2024-05-28T18:12:00"
     },
     "IN-24-02902": {
         "description": {
