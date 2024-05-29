@@ -38,38 +38,6 @@
         "last_update": "2024-05-27T06:14:25",
         "last_announcement": "2024-05-27T06:00:00"
     },
-    "IN-24-02882": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
-            "INCIDENT_DETAIL_CN": "緊急維修",
-            "LOCATION_EN": "The roundabout between Hoi Yuen Road and Wai Yip Street",
-            "LOCATION_CN": "介乎開源道及偉業街之間的迴旋處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-26T16:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97418",
-                "CONTENT_EN": "Part of the lanes of the roundabout between Hoi Yuen Road and Wai Yip Street and the fast lanes of Wai Yip Street (both bounds) between Kei Yip Street and Hoi Yuen Road, which were closed to all traffic due to emergency repairing works, are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急維修而封閉的介乎開源道及偉業街之間的迴旋處的部份行車線及偉業街(來回方向)介乎基業街及開源道之間的快線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-05-26T16:27:19",
-        "last_announcement": "2024-05-26T16:08:00"
-    },
     "IN-24-02899": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2799,10 +2767,17 @@
                 "ID": "97586",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tong Mi Road (Tsim Sha Tsui bound) near Mong Kok Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，塘尾道(往尖沙咀方向)近旺角道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-29T16:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97587",
+                "CONTENT_EN": "Part of the lanes of Tong Mi Road (Tsim Sha Tsui bound) near Mong Kok Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的塘尾道(往尖沙咀方向)近旺角道的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-05-29T16:26:06",
-        "last_announcement": "2024-05-29T16:09:00"
+        "last_update": "2024-05-29T16:38:57",
+        "last_announcement": "2024-05-29T16:24:00"
     }
 }
