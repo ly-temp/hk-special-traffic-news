@@ -2469,11 +2469,25 @@
                 "ID": "97553",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Yuen Long bound) near Lam Tei Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，元朗公路(往元朗方向)近藍地交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-29T08:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97558",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Yuen Long bound) near Lam Tei Interchange is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Yuen Long Highway (Yuen Long bound) ends at So Kwun Wat near Tuen Mun Road and Lung Fu Road near Lung Mun Oasis. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，元朗公路(往元朗方向)近藍地交匯處的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往元朗方向)的車龍龍尾已到掃管笏近屯門公路及龍富路近龍門居。 現時上址交通擠塞。"
+            },
+            "2024-05-29T09:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97563",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Yuen Long bound) near Lam Tei Interchange which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往元朗方向)近藍地交匯處的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-05-29T08:52:00",
-        "last_announcement": "2024-05-29T08:21:00"
+        "last_update": "2024-05-29T09:55:10",
+        "last_announcement": "2024-05-29T09:28:00"
     },
     "IN-24-02958": {
         "description": {
@@ -2506,5 +2520,101 @@
         "district": "九龍城區",
         "last_update": "2024-05-29T08:52:00",
         "last_announcement": "2024-05-29T08:17:00"
+    },
+    "IN-24-02963": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lion Rock Tunnel",
+            "LOCATION_CN": "獅子山隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-29T09:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97560",
+                "CONTENT_EN": "The tunnel tube fast lane of Lion Rock Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的獅子山隧道(往九龍方向)的管道快線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-05-29T09:55:10",
+        "last_announcement": "2024-05-29T09:11:00"
+    },
+    "IN-24-02962": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lin Cheung Road",
+            "LOCATION_CN": "連翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "HSBC Centre",
+            "NEAR_LANDMARK_CN": "滙豐中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-29T09:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97561",
+                "CONTENT_EN": "Part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near HSBC Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的連翔道(往尖沙咀方向)近滙豐中心的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-05-29T09:55:10",
+        "last_announcement": "2024-05-29T09:25:00"
+    },
+    "IN-24-02965": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-29T09:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97565",
+                "CONTENT_EN": "Due to vehicle breakdown happened earlier, traffic at Tuen Mun Road (Tuen Mun bound) is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "因較早前車輛故障，屯門公路(往屯門方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-29T09:55:10",
+        "last_announcement": "2024-05-29T09:46:00"
     }
 }
