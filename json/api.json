@@ -1901,11 +1901,18 @@
                 "ID": "97601",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2024-05-31T06:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97658",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-05-30T06:19:26",
-        "last_announcement": "2024-05-30T06:05:00"
+        "last_update": "2024-05-31T06:21:20",
+        "last_announcement": "2024-05-31T06:00:00"
     },
     "IN-24-02981": {
         "description": {
@@ -2827,10 +2834,17 @@
                 "ID": "97656",
                 "CONTENT_EN": "Due to emergency repair of road surface , the fast and middle lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng are closed to all traffic. Only the slow lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因緊急路面維修，屯門公路(往屯門方向)近深井的快線及中線現已封閉。 駕駛人士只可使用慢線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-31T05:57:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97657",
+                "CONTENT_EN": "The fast and middle lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的屯門公路(往屯門方向)近深井的快線及中線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-05-31T00:30:31",
-        "last_announcement": "2024-05-31T00:10:00"
+        "last_update": "2024-05-31T06:21:20",
+        "last_announcement": "2024-05-31T05:57:00"
     }
 }
