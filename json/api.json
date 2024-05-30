@@ -2878,5 +2878,37 @@
         "district": "深水埗區",
         "last_update": "2024-05-31T07:10:48",
         "last_announcement": "2024-05-31T07:00:00"
+    },
+    "IN-24-03007": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wan Chai Interchange",
+            "LOCATION_CN": "灣仔交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Canal Road Flyover",
+            "DIRECTION_CN": "堅拿道天橋",
+            "NEAR_LANDMARK_EN": "Gloucester Road",
+            "NEAR_LANDMARK_CN": "告士打道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-31T07:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97660",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Wan Chai Interchange (Canal Road Flyover bound) near Gloucester Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，灣仔交匯處(往堅拿道天橋方向)近告士打道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-05-31T07:24:16",
+        "last_announcement": "2024-05-31T07:11:00"
     }
 }
