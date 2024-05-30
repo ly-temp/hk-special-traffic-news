@@ -52,38 +52,6 @@
         "last_update": "2024-05-28T18:32:35",
         "last_announcement": "2024-05-28T18:12:00"
     },
-    "IN-24-02928": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Sea Crest Villa",
-            "NEAR_LANDMARK_CN": "浪翠園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-27T19:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97485",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sea Crest Villa which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近浪翠園的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-05-27T19:33:03",
-        "last_announcement": "2024-05-27T19:20:00"
-    },
     "IN-24-02930": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
