@@ -91,38 +91,6 @@
         "last_update": "2024-05-27T20:47:59",
         "last_announcement": "2024-05-27T20:27:00"
     },
-    "IN-24-02929": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "St. George Apartments",
-            "NEAR_LANDMARK_CN": "聖佐治大廈",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-27T19:35:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97486",
-                "CONTENT_EN": "The fast lane of Waterloo Road (Tsim Sha Tsui bound) near St. George Apartments which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往尖沙咀方向)近聖佐治大廈的快線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-05-27T20:21:09",
-        "last_announcement": "2024-05-27T19:35:00"
-    },
     "IN-24-02931": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2763,10 +2731,81 @@
                 "ID": "97651",
                 "CONTENT_EN": "Due to road incident , part of the lanes of Nathan Road (Cheung Sha Wan Road bound) near Lai Chi Kok Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Nathan Road (Cheung Sha Wan Road bound) ends at Nathan Road near Jordan Road. Traffic is congested now.",
                 "CONTENT_CN": "因道路事故，彌敦道(往長沙灣道方向)近荔枝角道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在彌敦道(往長沙灣道方向)的車龍龍尾已到彌敦道近佐敦道。 現時上址交通擠塞。"
+            },
+            "2024-05-30T20:14:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97654",
+                "CONTENT_EN": "Part of the lanes of Nathan Road (Cheung Sha Wan Road bound) near Lai Chi Kok Road which was closed due to road incident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因道路事故而封閉的彌敦道(往長沙灣道方向)近荔枝角道的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-05-30T20:14:34",
-        "last_announcement": "2024-05-30T20:01:00"
+        "last_update": "2024-05-30T20:45:20",
+        "last_announcement": "2024-05-30T20:14:00"
+    },
+    "IN-24-03003": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Tuen Ma Line Service Disruption",
+            "LOCATION_CN": "屯馬綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-30T20:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97653",
+                "CONTENT_EN": "There is an additional travelling time of 10 to 15 minutes on the Tuen Ma Line between Wu Kai Sha and Tuen Mun because of a passenger on a train requiring urgent medical assistance at Diamond Hill Station.",
+                "CONTENT_CN": "由於鑽石山站列車上有乘客需要緊急醫療協助，屯馬綫來往烏溪沙至屯門的車程延長10至15分鐘。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-05-30T20:45:20",
+        "last_announcement": "2024-05-30T20:13:00"
+    },
+    "IN-24-03002": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-30T20:10:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97652",
+                "CONTENT_EN": "The only lane of the slip road leading from Tseung Kwan O Road (Kwun Tong bound) to Cha Kwo Ling Road  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由將軍澳道(往觀塘方向)通往茶果嶺道 的支路的 唯一行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-05-30T20:45:20",
+        "last_announcement": "2024-05-30T20:10:00"
     }
 }
