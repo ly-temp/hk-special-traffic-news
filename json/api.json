@@ -2800,5 +2800,37 @@
         "district": "沙田區",
         "last_update": "2024-05-30T21:42:32",
         "last_announcement": "2024-05-30T21:30:00"
+    },
+    "IN-24-03005": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-31T00:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97656",
+                "CONTENT_EN": "Due to emergency repair of road surface , the fast and middle lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng are closed to all traffic. Only the slow lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，屯門公路(往屯門方向)近深井的快線及中線現已封閉。 駕駛人士只可使用慢線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-05-31T00:30:31",
+        "last_announcement": "2024-05-31T00:10:00"
     }
 }
