@@ -229,45 +229,6 @@
         "last_update": "2024-05-28T17:45:56",
         "last_announcement": "2024-05-28T17:33:00"
     },
-    "IN-24-02950": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Labour Tribunal",
-            "NEAR_LANDMARK_CN": "勞資審裁處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-28T16:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97529",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Labour Tribunal is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，加士居道天橋(往紅磡方向)近勞資審裁處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-28T16:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97530",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Labour Tribunal which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往紅磡方向)近勞資審裁處的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-28T16:32:04",
-        "last_announcement": "2024-05-28T16:23:00"
-    },
     "IN-24-02952": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
