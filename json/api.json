@@ -2927,5 +2927,37 @@
         "district": null,
         "last_update": "2024-05-31T13:08:34",
         "last_announcement": "2024-05-31T13:00:00"
+    },
+    "IN-24-03022": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Choi Hung",
+            "DIRECTION_CN": "彩虹",
+            "NEAR_LANDMARK_EN": "Good Hope School",
+            "NEAR_LANDMARK_CN": "德望學校",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-31T13:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97700",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Clear Water Bay Road (Choi Hung bound) near Good Hope School are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，清水灣道(往彩虹方向)近德望學校的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-05-31T13:28:55",
+        "last_announcement": "2024-05-31T13:09:00"
     }
 }
