@@ -1,43 +1,4 @@
 {
-    "IN-24-02952": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Po Shek Wu Road (Tai Tau Leng Roundabout)",
-            "LOCATION_CN": "寶石湖路(大頭嶺迴旋處)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-28T17:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97535",
-                "CONTENT_EN": "Po Shek Wu Road (Tai Tau Leng Roundabout) is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.   Citizens please take note KMB and Long Win's service travelling via Po Shek Wu Road (Tai Tau Leng Roundabout) has been affected, citizens please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "寶石湖路(大頭嶺迴旋處)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。  市民請留意九巴及龍運途經寶石湖路(大頭嶺迴旋處)的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-05-28T19:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97544",
-                "CONTENT_EN": "Traffic at Po Shek Wu Road (Tai Tau Leng Roundabout) has resumed normal.   Services of KMB and Long Win at Po Shek Wu Road (Tai Tau Leng Roundabout) has gradually resumed normal.",
-                "CONTENT_CN": "寶石湖路(大頭嶺迴旋處)的交通現已恢復正常。  較早前位於寶石湖路(大頭嶺迴旋處)受影響的九巴及龍運服務已陸續回復正常。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-05-28T19:30:59",
-        "last_announcement": "2024-05-28T19:14:00"
-    },
     "IN-24-02951": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3396,5 +3357,37 @@
         "district": "觀塘區",
         "last_update": "2024-05-31T19:30:37",
         "last_announcement": "2024-05-31T19:13:00"
+    },
+    "IN-24-03045": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "So Kwun Po Road",
+            "NEAR_LANDMARK_CN": "掃管埔路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-31T19:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97748",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near So Kwun Po Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近掃管埔路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-05-31T19:40:48",
+        "last_announcement": "2024-05-31T19:26:00"
     }
 }
