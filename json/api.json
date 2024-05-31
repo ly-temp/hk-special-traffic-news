@@ -52,38 +52,6 @@
         "last_update": "2024-05-28T18:32:35",
         "last_announcement": "2024-05-28T18:12:00"
     },
-    "IN-24-02943": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Fu Road roundabout",
-            "LOCATION_CN": "龍富路迴旋處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-28T10:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97514",
-                "CONTENT_EN": "Part of the lanes of Lung Fu Road roundabout  which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍富路迴旋處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-28T10:41:16",
-        "last_announcement": "2024-05-28T10:15:00"
-    },
     "IN-24-02944": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2741,11 +2709,18 @@
                 "ID": "97678",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Tuen Mun Chek Lap Kok Tunnel Road (Airport bound) near Butterfly Beach Laundry is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門赤鱲角隧道公路(往機場方向)近蝴蝶灣洗衣場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-05-31T10:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97692",
+                "CONTENT_EN": "The slow lane of Tuen Mun Chek Lap Kok Tunnel Road (Airport bound) near Butterfly Beach Laundry which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門赤鱲角隧道公路(往機場方向)近蝴蝶灣洗衣場的慢線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-05-31T09:12:48",
-        "last_announcement": "2024-05-31T08:41:00"
+        "last_update": "2024-05-31T10:46:28",
+        "last_announcement": "2024-05-31T10:33:00"
     },
     "IN-24-03014": {
         "description": {
