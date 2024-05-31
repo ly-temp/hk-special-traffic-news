@@ -3029,11 +3029,18 @@
                 "ID": "97733",
                 "CONTENT_EN": "Due to vehicle on fire , all lanes of Hoi Fai Road (Hoi Fai Road near Harbour Green roundabout bound) near Harbour Green are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛着火，海輝道(往海輝道近君匯港迴旋處方向)近君匯港的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-05-31T20:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97755",
+                "CONTENT_EN": "Part of the lanes of Hoi Fai Road (Hoi Fai Road roundabout near Harbour Green bound) near Harbour Green which was closed due to vehicle on fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛着火而封閉的海輝道(往海輝道近君匯港迴旋處方向)近君匯港的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-05-31T18:17:03",
-        "last_announcement": "2024-05-31T17:47:00"
+        "last_update": "2024-05-31T20:44:36",
+        "last_announcement": "2024-05-31T20:19:00"
     },
     "IN-24-03040": {
         "description": {
@@ -3325,5 +3332,69 @@
         "district": "北區",
         "last_update": "2024-05-31T19:51:03",
         "last_announcement": "2024-05-31T19:44:00"
+    },
+    "IN-24-03047": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Subsidence",
+            "INCIDENT_DETAIL_CN": "路面下陷",
+            "LOCATION_EN": "Hoi Tan Street",
+            "LOCATION_CN": "海壇街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Yen Chow Street",
+            "NEAR_LANDMARK_CN": "欽州街",
+            "BETWEEN_LANDMARK_EN": "Kweilin Street",
+            "BETWEEN_LANDMARK_CN": "桂林街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-31T20:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97754",
+                "CONTENT_EN": "Due to road subsidence , all lanes of Hoi Tan Street  between Yen Chow Street and Kweilin Street are closed to all traffic. Vehicles travelling on Hoi Tan Street (Lai Chi Kok bound) are prohibited to make left turning onto Yen Chow Street. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因路面下陷，海壇街介乎欽州街與桂林街之間的全線現已封閉。 沿海壇街(往荔枝角方向)的車輛不能左轉入欽州街。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-05-31T20:44:36",
+        "last_announcement": "2024-05-31T20:01:00"
+    },
+    "IN-24-03046": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Kowloon Flour Mills",
+            "NEAR_LANDMARK_CN": "九龍麵粉廠",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-31T20:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97757",
+                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Mong Kok bound) near Kowloon Flour Mills which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往旺角方向)近九龍麵粉廠的慢線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-05-31T20:44:36",
+        "last_announcement": "2024-05-31T20:28:00"
     }
 }
