@@ -52,148 +52,6 @@
         "last_update": "2024-05-28T18:32:35",
         "last_announcement": "2024-05-28T18:12:00"
     },
-    "IN-24-02936": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Sha Tin Racecourse",
-            "NEAR_LANDMARK_CN": "沙田馬場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-28T08:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97497",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-28T08:43:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97501",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-28T09:44:32",
-        "last_announcement": "2024-05-28T08:43:00"
-    },
-    "IN-24-02935": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hong Chong Road",
-            "LOCATION_CN": "康莊道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-28T08:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97499",
-                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往海底隧道方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-28T09:44:32",
-        "last_announcement": "2024-05-28T08:42:00"
-    },
-    "IN-24-02938": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "HK Girl Guides' Association HQ",
-            "NEAR_LANDMARK_CN": "香港女童軍總會",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-28T09:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97503",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Gascoigne Road Flyover (Cross Harbour Tunnel bound) near HK Girl Guides' Association HQ is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，加士居道天橋(往海底隧道方向)近香港女童軍總會的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-28T09:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97504",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Cross Harbour Tunnel bound) near HK Girl Guides' Association HQ which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往海底隧道方向)近香港女童軍總會的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-05-28T09:44:32",
-        "last_announcement": "2024-05-28T09:17:00"
-    },
-    "IN-24-02939": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Dragon Industrial Building",
-            "NEAR_LANDMARK_CN": "龍翔工業大廈",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-28T09:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97505",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，呈祥道(往荃灣方向)近龍翔工業大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-05-28T09:44:32",
-        "last_announcement": "2024-05-28T09:19:00"
-    },
     "IN-24-02941": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2876,11 +2734,25 @@
                 "ID": "97675",
                 "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Tsing Tsuen Road (Tsing Yi bound) near Tsuen Wan Slaughterhouse is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tsing Tsuen Road (Tsing Yi bound) ends at Route Twisk near Muk Min Ha Tsuen.   Citizens please take note KMB's service travelling via Tsing Tsuen Road (Tsing Yi bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Affected LWB bus routes E41 and A30 have been diverted.   Traffic is congested now.",
                 "CONTENT_CN": "因車輛着火，青荃路(往青衣方向)近荃灣屠房的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在青荃路(往青衣方向)的車龍龍尾已到荃錦公路近木棉下村。  市民請留意九巴途經青荃路往青衣方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  受影響龍運巴士路線E41及A30須改道行駛。  現時上址交通擠塞。"
+            },
+            "2024-05-31T09:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97684",
+                "CONTENT_EN": "Part of the lanes of Tsing Tsuen Road (Tsing Yi bound) near Tsuen Wan Slaughterhouse which was closed due to vehicle on fire is re-opened to all traffic. Traffic queue takes time to disperse. Citizens please take note KMB's service travelling via Tsing Tsuen Road (Tsing Yi bound) has still being affected, citizens please consider using other public transport services, such as MTR services. Affected LWB bus routes E41 and A30 have still being diverted.",
+                "CONTENT_CN": "較早前因車輛着火而封閉的青荃路(往青衣方向)近荃灣屠房的部份行車線現已解封。 車龍有待消散。 市民請留意九巴途經青荃路往青衣方向的服務仍受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。 受影響龍運巴士路線E41及A30仍須改道行駛。"
+            },
+            "2024-05-31T09:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97687",
+                "CONTENT_EN": "Service of KMB and LWB which was affected by the traffic accident at Tsing Tsuen Road (Tsing Yi bound) near Tsuen Wan Slaughterhouse has gradually resumed normal.",
+                "CONTENT_CN": "較早前因位於青荃路(往青衣方向)近荃灣屠房的交通意外而受影響的九巴及龍運服務已陸續回復正常。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-05-31T09:12:48",
-        "last_announcement": "2024-05-31T08:32:00"
+        "last_update": "2024-05-31T10:06:24",
+        "last_announcement": "2024-05-31T09:20:00"
     },
     "IN-24-03010": {
         "description": {
@@ -3048,5 +2920,37 @@
         "district": "黃大仙區",
         "last_update": "2024-05-31T09:12:48",
         "last_announcement": "2024-05-31T08:56:00"
+    },
+    "IN-24-03016": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Route Twisk",
+            "LOCATION_CN": "荃錦公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Viewing Point (Route Twisk)",
+            "NEAR_LANDMARK_CN": "荃錦公路觀景台",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-31T09:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97689",
+                "CONTENT_EN": "All lanes of Route Twisk (both bounds) near Viewing Point (Route Twisk) which were closed due to traffic accident are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃錦公路(來回方向)近荃錦公路觀景台的全線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-05-31T10:06:24",
+        "last_announcement": "2024-05-31T09:33:00"
     }
 }
