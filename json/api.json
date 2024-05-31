@@ -1,57 +1,4 @@
 {
-    "IN-24-02900": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Wai Tsuen Road",
-            "LOCATION_CN": "蕙荃路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Kam Interchange",
-            "DIRECTION_CN": "荃錦交匯處",
-            "NEAR_LANDMARK_EN": "Shek Wai Kok Road",
-            "NEAR_LANDMARK_CN": "石圍角路",
-            "BETWEEN_LANDMARK_EN": "Tsuen Kam Interchange",
-            "BETWEEN_LANDMARK_CN": "荃錦交匯處",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-26T22:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97421",
-                "CONTENT_EN": "Due to watermain emergency works, the only lane of Wai Tsuen Road (Tsuen Kam Interchange bound) between Shek Wai Kok Road and Tsuen Kam Interchange is closed to all traffic. \nAffected bus routes have been diverted.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管緊急維修，蕙荃路(往荃錦交匯處方向)介乎石圍角路與荃錦交匯處之間的唯一行車線現已封閉。\n受影響巴士路線須改道行駛。  駕駛人士請考慮改用其他道路。"
-            },
-            "2024-05-27T11:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97463",
-                "CONTENT_EN": "Due to watermain emergency works , the only lane of Wai Tsuen Road (Tsuen Kam Interchange bound) between Shek Wai Kok Road and Tsuen Kam Interchange is still being closed to all traffic. \nBesides, the fast lane of Wai Tsuen Road (Shing Mun Road bound) near Tsuen Wan Ambulance Depot is closed to all traffic.   Affected KMB bus routes no. 40P, 49X and 234C have been diverted.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管緊急維修，蕙荃路(往荃錦交匯處方向)介乎石圍角路與荃錦交匯處之間的唯一行車線仍然封閉。\n另外，蕙荃路(往城門道方向)近荃灣救護站的快線現已封閉。  受影響九巴巴士路線第40P, 49X及234C號須改道行駛。  駕駛人士請考慮改用其他道路。"
-            },
-            "2024-05-28T12:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97515",
-                "CONTENT_EN": "The only lane of Wai Tsuen Road (Tsuen Kam Interchange bound) between Shek Wai Kok Road and Tsuen Kam Interchange and the fast lane of Wai Tsuen Road (Shing Mun Road bound) near Tsuen Wan Ambulance Depotwhich were closed due to watermain emergency works are re-opened to all traffic;\nwhile the slow lane of Wai Tsuen Road (Shing Mun Road bound) near Tsuen Wan Ambulance Depot is closed to all traffic.   Affected bus routes have resumed their original routeings.   Traffic is busy now.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的蕙荃路(往荃錦交匯處方向)介乎石圍角路與荃錦交匯處之間的唯一行車線及蕙荃路(往城門道方向)近荃灣救護站的快線現已解封;\n唯蕙荃路(往城門道方向)近荃灣救護站的慢線現已封閉。  受影響巴士路線現已恢復原有路線行駛。  現時上址交通繁忙。"
-            },
-            "2024-05-28T18:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97538",
-                "CONTENT_EN": "The slow lane of Wai Tsuen Road (Shing Mun Road bound) near Tsuen Wan Ambulance Depot which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的蕙荃路(往城門道方向)近荃灣救護站的慢線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-05-28T18:32:35",
-        "last_announcement": "2024-05-28T18:12:00"
-    },
     "IN-24-02952": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3307,5 +3254,37 @@
         "district": "東區",
         "last_update": "2024-05-31T18:31:28",
         "last_announcement": "2024-05-31T17:42:00"
+    },
+    "IN-24-03035": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Tin Ma Court",
+            "NEAR_LANDMARK_CN": "天馬苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-05-31T18:18:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "97739",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Tin Ma Court which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近天馬苑的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-05-31T18:41:38",
+        "last_announcement": "2024-05-31T18:18:00"
     }
 }
