@@ -151,45 +151,6 @@
         "last_update": "2024-05-28T16:52:20",
         "last_announcement": "2024-05-28T15:28:00"
     },
-    "IN-24-02948": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Prince Edward Road West",
-            "NEAR_LANDMARK_CN": "太子道西",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-28T15:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97527",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Prince Edward Road West is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道天橋(往獅子山隧道方向)近太子道西的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-28T16:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97531",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Prince Edward Road West which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道天橋(往獅子山隧道方向)近太子道西的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-05-28T16:42:10",
-        "last_announcement": "2024-05-28T16:31:00"
-    },
     "IN-24-02949": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1975,11 +1936,18 @@
                 "ID": "97638",
                 "CONTENT_EN": "Due to hoisting of Standby Signal No. 1 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "由於一號戒備信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
+            },
+            "2024-05-31T16:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97722",
+                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於三號強風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2024-05-30T17:56:19",
-        "last_announcement": "2024-05-30T17:40:00"
+        "last_update": "2024-05-31T16:50:47",
+        "last_announcement": "2024-05-31T16:40:00"
     },
     "IN-24-02998": {
         "description": {
