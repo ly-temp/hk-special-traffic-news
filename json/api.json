@@ -2713,11 +2713,18 @@
                 "ID": "97760",
                 "CONTENT_EN": "Due to road subsidence , during the period from 31 May 2024 to 5 June 2024, starting from 9:00 pm to 8:00 am next day, all lanes of Hoi Tan Street between Yen Chow Street and Kweilin Street are closed to all traffic. Motorists are advised to use alternative routes. \nAffected bus routes are diverted.",
                 "CONTENT_CN": "因路面下陷，2024年5月31日至2024年6月5日期間，由下午9時至翌日上午8時，海壇街介乎欽州街與桂林街之間的全線現已封閉。\n駕駛人士請考慮改用其他道路。\n受影響巴士已改路行駛。"
+            },
+            "2024-06-01T17:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97798",
+                "CONTENT_EN": "Due to road subsidence , all lanes of Hoi Tan Street between Yen Chow Street and Kweilin Street are closed to all traffic until 6:00 am on 7 June 2024. Motorists are advised to use alternative routes. Affected bus routes have been diverted.",
+                "CONTENT_CN": "因路面下陷，海壇街介乎欽州街與桂林街之間的全線現已封閉，直至2024年6月7日上午6時止。駕駛人士請考慮改用其他道路。 受影響巴士現已改路行駛。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-05-31T22:26:09",
-        "last_announcement": "2024-05-31T22:02:00"
+        "last_update": "2024-06-01T17:53:07",
+        "last_announcement": "2024-06-01T17:34:00"
     },
     "IN-24-03046": {
         "description": {
@@ -3445,5 +3452,37 @@
         "district": "觀塘區",
         "last_update": "2024-06-01T16:59:12",
         "last_announcement": "2024-06-01T16:47:00"
+    },
+    "IN-24-02710": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Sha Kok Street",
+            "LOCATION_CN": "沙角街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Chung Kiu Road",
+            "DIRECTION_CN": "大涌橋路",
+            "NEAR_LANDMARK_EN": "The Salvation Army Tin Ka Ping School",
+            "NEAR_LANDMARK_CN": "救世軍田家炳學校",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-01T17:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97799",
+                "CONTENT_EN": "The fast lane of Sha Kok Street (Tai Chung Kiu Road bound) near The Salvation Army Tin Ka Ping School which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的沙角街(往大涌橋路方向)近救世軍田家炳學校的快線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-01T17:53:07",
+        "last_announcement": "2024-06-01T17:38:00"
     }
 }
