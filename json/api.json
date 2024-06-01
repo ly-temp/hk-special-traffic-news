@@ -3385,5 +3385,69 @@
         "district": "中西區",
         "last_update": "2024-06-01T11:19:50",
         "last_announcement": "2024-06-01T11:08:00"
+    },
+    "IN-24-03056": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Stonecutters Bridge",
+            "LOCATION_CN": "昂船洲大橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-01T11:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97776",
+                "CONTENT_EN": "Stonecutters Bridge: Due to strong wind, the following temporary traffic arrangements are implemented on Stonecutters Bridge: The middle lanes of Stonecutters Bridge are closed. Only fast and slow lanes are opened to traffic. Speed limit is reduced to 50km/h. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
+                "CONTENT_CN": "昂船洲大橋： 由於強風關係，昂船洲大橋已實施下列臨時交通措施： 昂船洲大橋的中線封閉，只餘快線及慢線開放予車輛行駛，車速限制降至每小時50公里。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-06-01T11:43:13",
+        "last_announcement": "2024-06-01T11:26:00"
+    },
+    "IN-24-03057": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
+            "NEAR_LANDMARK_CN": "龍翔道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-01T11:33:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97777",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-06-01T11:43:13",
+        "last_announcement": "2024-06-01T11:33:00"
     }
 }
