@@ -38,84 +38,6 @@
         "last_update": "2024-05-30T06:19:26",
         "last_announcement": "2024-05-30T06:07:00"
     },
-    "IN-24-02972": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Diamond Hill MTR Station",
-            "NEAR_LANDMARK_CN": "鑽石山港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-29T15:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97582",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Diamond Hill MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近鑽石山港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-29T15:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97584",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Diamond Hill MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近鑽石山港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-05-29T16:00:01",
-        "last_announcement": "2024-05-29T15:44:00"
-    },
-    "IN-24-02973": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Sham Tseng East Village",
-            "NEAR_LANDMARK_CN": "深井東村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-29T15:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97583",
-                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Tuen Mun Road (Tuen Mun bound) near Sham Tseng East Village is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近深井東村的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-29T15:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97585",
-                "CONTENT_EN": "The middle lane of Tuen Mun Road (Tuen Mun bound) near Sham Tseng East Village which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往屯門方向)近深井東村的中線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-05-29T16:00:01",
-        "last_announcement": "2024-05-29T15:52:00"
-    },
     "IN-24-02974": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2972,11 +2894,18 @@
                 "ID": "97765",
                 "CONTENT_EN": "Due to the effect of tropical cyclone, the ferry services arrangements are as follows:\n\nPeng Chau Kaito Limited\nBetween Discovery Bay and Mui Wo: Suspended\n\nFortune Ferry Company Limited\nTuen Mun – Tung Chung – Sha Lo Wan – Tai O : Suspended\n\nTsui Wah Ferry Service (H. K. ) Limited\nBetween Ma Liu Shui and Tung Ping Chau: Suspended\nBetween Wong Shek and Tap Mun: Suspended\nBetween Ma Liu Shui and Wong Shek: Suspended\nBetween Wong Shek and Chek Keng: Suspended\nBetween Aberdeen and Po Toi Island: Suspended\nBetween Sai Kung and Kau Sai Village: Suspended.",
                 "CONTENT_CN": "因受熱帶氣旋的影響，渡輪服務安排如下：\n\n坪洲街渡有限公司\n來往愉景灣和梅窩：暫停\n\n富裕小輪有限公司\n屯門–東涌–沙螺灣–大澳:暫停\n\n翠華船務（香港）有限公司\n來往馬料水和東平洲：暫停\n來往黃石和塔門：暫停\n來往馬料水和黃石：暫停\n來往黃石和赤徑：暫停\n來往香港仔和蒲苔島：暫停\n來往西貢和滘西村：暫停。"
+            },
+            "2024-06-01T16:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97788",
+                "CONTENT_EN": "Due to the latest tropical cyclone situation, the ferry services arrangements are as follows: Peng Chau Kaito Limited Between Discovery Bay and Mui Wo: Resume service - First departure from Discovery Bay at 06:15 pm - First departure from Mui Wo at 06:45 pm Fortune Ferry Company Limited Tuen Mun – Tung Chung – Sha Lo Wan – Tai O : Resume service - First departure from Tuen Mun at 05:00 pm - First departure from Tai O at 06:00 pm Tsui Wah Ferry Service (H. K. ) Limited - arrangements are as follows Between Wong Shek and Tap Mun: Resume service - First departure from Tap Mun at 05:05 pm - First departure from Wong Shek at 05:35 pm Between Ma Liu Shui and Tung Ping Chau: Suspended Between Ma Liu Shui and Tap Mun: Suspended Between Wong Shek and Chek Keng: Suspended Between Aberdeen and Po Toi Island: Suspended Between Sai Kung and Kau Sai Village: Suspended",
+                "CONTENT_CN": "因應最新熱帶氣旋情況，渡輪服務安排如下： 坪洲街渡有限公司 來往愉景灣和梅窩：復航 -愉景灣首班船下午6時15分開出 -梅窩首班船下午6時45分開出 富裕小輪有限公司 屯門–東涌–沙螺灣–大澳：復航 -屯門首班船下午5時正開出 -大澳首班船下午6時正開出 翠華船務（香港）有限公司-安排如下 來往黃石和塔門：復航 -塔門首班船下午5時05分開出 -黃石首班船下午5時35分開出 來往馬料水和東平洲：暫停 來往馬料水和塔門：暫停 來往黃石和赤徑：暫停 來往香港仔和蒲苔島：暫停 來往西貢和滘西村：暫停"
             }
         },
         "district": null,
-        "last_update": "2024-06-01T06:29:51",
-        "last_announcement": "2024-06-01T06:15:00"
+        "last_update": "2024-06-01T16:11:16",
+        "last_announcement": "2024-06-01T16:00:00"
     },
     "IN-24-03051": {
         "description": {
@@ -3458,10 +3387,17 @@
                 "ID": "97791",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Gloucester Road (North Point bound) near The Hong Kong Academy for Performing Arts is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，告士打道(往北角方向)近香港演藝學院的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-01T15:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97792",
+                "CONTENT_EN": "The fast lane of Gloucester Road (North Point bound) near The Hong Kong Academy for Performing Arts which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的告士打道(往北角方向)近香港演藝學院的快線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-06-01T15:52:24",
-        "last_announcement": "2024-06-01T15:42:00"
+        "last_update": "2024-06-01T16:11:16",
+        "last_announcement": "2024-06-01T15:53:00"
     }
 }
