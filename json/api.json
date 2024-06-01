@@ -38,45 +38,6 @@
         "last_update": "2024-05-30T06:19:26",
         "last_announcement": "2024-05-30T06:07:00"
     },
-    "IN-24-02974": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tong Mi Road",
-            "LOCATION_CN": "塘尾道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Mong Kok Road",
-            "NEAR_LANDMARK_CN": "旺角道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-29T16:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97586",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tong Mi Road (Tsim Sha Tsui bound) near Mong Kok Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，塘尾道(往尖沙咀方向)近旺角道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-29T16:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97587",
-                "CONTENT_EN": "Part of the lanes of Tong Mi Road (Tsim Sha Tsui bound) near Mong Kok Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的塘尾道(往尖沙咀方向)近旺角道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-05-29T16:38:57",
-        "last_announcement": "2024-05-29T16:24:00"
-    },
     "IN-24-02975": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3426,10 +3387,49 @@
                 "ID": "97793",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近畢架山花園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-01T16:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97794",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近畢架山花園的慢線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-06-01T16:28:21",
-        "last_announcement": "2024-06-01T16:06:00"
+        "last_update": "2024-06-01T16:38:57",
+        "last_announcement": "2024-06-01T16:22:00"
+    },
+    "IN-24-03065": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wan Chai Interchange",
+            "LOCATION_CN": "灣仔交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen Tunnel",
+            "DIRECTION_CN": "香港仔隧道",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-01T16:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97795",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Wan Chai Interchange (Aberdeen Tunnel bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，灣仔交匯處(往香港仔隧道方向)的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-01T16:38:57",
+        "last_announcement": "2024-06-01T16:25:00"
     }
 }
