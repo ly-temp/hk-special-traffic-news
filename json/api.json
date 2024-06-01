@@ -77,45 +77,6 @@
         "last_update": "2024-05-29T15:18:49",
         "last_announcement": "2024-05-29T14:40:00"
     },
-    "IN-24-02965": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-29T09:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97565",
-                "CONTENT_EN": "Due to vehicle breakdown happened earlier, traffic at Tuen Mun Road (Tuen Mun bound) is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前車輛故障，屯門公路(往屯門方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-05-29T10:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97569",
-                "CONTENT_EN": "Traffic at Tuen Mun Road (Tuen Mun bound) has resumed normal.",
-                "CONTENT_CN": "屯門公路(往屯門方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-05-29T10:30:25",
-        "last_announcement": "2024-05-29T10:18:00"
-    },
     "IN-24-02966": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -154,45 +115,6 @@
         "district": null,
         "last_update": "2024-05-29T13:47:55",
         "last_announcement": "2024-05-29T13:35:00"
-    },
-    "IN-24-02967": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Eastern Harbour Crossing",
-            "LOCATION_CN": "東區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-29T10:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97567",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Eastern Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東區海底隧道(往香港島方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-29T10:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97568",
-                "CONTENT_EN": "The tunnel tube slow lane of Eastern Harbour Crossing (Hong Kong Island bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區海底隧道(往香港島方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-05-29T10:30:25",
-        "last_announcement": "2024-05-29T10:08:00"
     },
     "IN-24-02964": {
         "description": {
