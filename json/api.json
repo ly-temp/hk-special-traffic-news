@@ -116,38 +116,6 @@
         "last_update": "2024-05-29T13:47:55",
         "last_announcement": "2024-05-29T13:35:00"
     },
-    "IN-24-02964": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fo Tan Road",
-            "LOCATION_CN": "火炭路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "City One",
-            "DIRECTION_CN": "第一城",
-            "NEAR_LANDMARK_EN": "Lok King Street",
-            "NEAR_LANDMARK_CN": "樂景街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-29T10:38:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97570",
-                "CONTENT_EN": "Part of the lanes of Fo Tan Road (City One bound) near Lok King Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的火炭路(往第一城方向)近樂景街的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-29T10:56:47",
-        "last_announcement": "2024-05-29T10:38:00"
-    },
     "IN-24-02968": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3385,5 +3353,37 @@
         "district": "離島區",
         "last_update": "2024-06-01T10:56:27",
         "last_announcement": "2024-06-01T10:45:00"
+    },
+    "IN-24-03055": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Cotton Tree Drive",
+            "LOCATION_CN": "紅棉路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "uphill",
+            "DIRECTION_CN": "上山",
+            "NEAR_LANDMARK_EN": "Bank Of China Tower",
+            "NEAR_LANDMARK_CN": "中銀大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-01T11:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97774",
+                "CONTENT_EN": "Due to fallen tree , the only lane of the slip road leading from Cotton Tree Drive  to Queensway  near Bank Of China Tower is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，由紅棉路通往金鐘道 的支路近中銀大廈的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-06-01T11:19:50",
+        "last_announcement": "2024-06-01T11:08:00"
     }
 }
