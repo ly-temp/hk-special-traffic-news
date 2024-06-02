@@ -84,38 +84,6 @@
         "last_update": "2024-06-01T16:59:12",
         "last_announcement": "2024-06-01T16:40:00"
     },
-    "IN-24-03000": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Sha Tin Road",
-            "LOCATION_CN": "沙田路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Pok Hong Estate",
-            "NEAR_LANDMARK_CN": "博康邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-30T19:39:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97649",
-                "CONTENT_EN": "Part of the lanes of Sha Tin Road (Kowloon bound) near Pok Hong Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的沙田路(往九龍方向)近博康邨的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-05-30T19:51:42",
-        "last_announcement": "2024-05-30T19:39:00"
-    },
     "IN-24-02999": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
