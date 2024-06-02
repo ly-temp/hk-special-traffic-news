@@ -91,38 +91,6 @@
         "last_update": "2024-05-30T19:31:23",
         "last_announcement": "2024-05-30T19:18:00"
     },
-    "IN-24-02992": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Butterfly Valley",
-            "NEAR_LANDMARK_CN": "蝴蝶谷",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-30T15:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97630",
-                "CONTENT_EN": "The slow lane of Ching Cheung Road (Kwun Tong bound) near Butterfly Valley which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往觀塘方向)近蝴蝶谷的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-05-30T15:33:05",
-        "last_announcement": "2024-05-30T15:18:00"
-    },
     "IN-24-02993": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1376,11 +1344,18 @@
                 "ID": "97709",
                 "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Lam Hing Street (Trademart Drive bound) near Lam Lee Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，臨興街(往展貿徑方向)近臨利街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-02T14:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97817",
+                "CONTENT_EN": "Part of the lanes of Lam Hing Street (Trademart Drive bound) near Lam Lee Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的臨興街(往展貿徑方向)近臨利街的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-05-31T14:27:26",
-        "last_announcement": "2024-05-31T14:18:00"
+        "last_update": "2024-06-02T15:38:42",
+        "last_announcement": "2024-06-02T14:22:00"
     },
     "IN-24-03028": {
         "description": {
