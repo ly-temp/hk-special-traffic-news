@@ -1,43 +1,4 @@
 {
-    "IN-24-02980": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road",
-            "LOCATION_CN": "港珠澳大橋香港連接路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-30T06:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97601",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
-            },
-            "2024-05-31T06:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97658",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-05-31T06:21:20",
-        "last_announcement": "2024-05-31T06:00:00"
-    },
     "IN-24-02997": {
         "description": {
             "INCIDENT_HEADING_EN": "Typhoon Incident",
@@ -83,45 +44,6 @@
         "district": null,
         "last_update": "2024-06-01T16:59:12",
         "last_announcement": "2024-06-01T16:40:00"
-    },
-    "IN-24-03005": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Sham Tseng",
-            "NEAR_LANDMARK_CN": "深井",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-31T00:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97656",
-                "CONTENT_EN": "Due to emergency repair of road surface , the fast and middle lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng are closed to all traffic. Only the slow lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因緊急路面維修，屯門公路(往屯門方向)近深井的快線及中線現已封閉。 駕駛人士只可使用慢線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-31T05:57:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97657",
-                "CONTENT_EN": "The fast and middle lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng which was closed due to emergency repair of road surface is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的屯門公路(往屯門方向)近深井的快線及中線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-05-31T06:21:20",
-        "last_announcement": "2024-05-31T05:57:00"
     },
     "IN-24-03006": {
         "description": {
@@ -1638,11 +1560,18 @@
                 "ID": "97829",
                 "CONTENT_EN": "Fast lane of Hoi Tan Street between Yen Chow Street and Kweilin Street, which was closed due to road subsidence, is re-opened to all traffic. However, vehicles are still prohibited from making left turn from Kweilin Street into Hoi Tan Street. Affected bus routes have resumed their original routeings.",
                 "CONTENT_CN": "較早前因路面下陷而封閉的海壇街介乎欽州街與桂林街之間的快線現已解封。惟車輛仍然不能由桂林街左轉入海壇街。 受影響巴士路線現已恢復原有路線行駛。"
+            },
+            "2024-06-03T06:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97830",
+                "CONTENT_EN": "Due to road subsidence , the slow lane of Hoi Tan Street between Yen Chow Street and Kweilin Street is still being closed to all traffic. Only remaining lanes are available to motorists. \nAt the same time, vehicles are still prohibited from making left turn from Kweilin Street into Hoi Tan Street.",
+                "CONTENT_CN": "因路面下陷，海壇街介乎欽州街與桂林街之間的慢線仍然封閉，駕駛人士只可使用餘下行車線行車。\n同時，車輛仍然不能由桂林街左轉入海壇街。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-06-02T22:13:48",
-        "last_announcement": "2024-06-02T22:02:00"
+        "last_update": "2024-06-03T06:29:14",
+        "last_announcement": "2024-06-03T06:15:00"
     },
     "IN-24-03046": {
         "description": {
