@@ -3122,5 +3122,37 @@
         "district": "油尖旺區",
         "last_update": "2024-06-02T15:49:05",
         "last_announcement": "2024-06-02T15:24:00"
+    },
+    "IN-24-03075": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tseung Kwan O Tunnel",
+            "LOCATION_CN": "將軍澳隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O Tunnel",
+            "DIRECTION_CN": "將軍澳隧道",
+            "NEAR_LANDMARK_EN": "Kwun Tong Recreation Ground",
+            "NEAR_LANDMARK_CN": "觀塘遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-02T15:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97820",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tseung Kwan O Tunnel (Tseung Kwan O Tunnel bound) near Kwun Tong Recreation Ground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，將軍澳隧道(往將軍澳隧道方向)近觀塘遊樂場的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-06-02T15:59:27",
+        "last_announcement": "2024-06-02T15:35:00"
     }
 }
