@@ -91,38 +91,6 @@
         "last_update": "2024-05-30T19:31:23",
         "last_announcement": "2024-05-30T19:18:00"
     },
-    "IN-24-02994": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section)",
-            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-30T16:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97634",
-                "CONTENT_EN": "Starting from 15 June, 2024, High Speed Rail (Hong Kong Section) will introduce the following service enhancements and adjustments: • Introducing a new long-haul line to Hunan, providing direct access to 6 new destinations: Shaoyang, Huaihuanan, Dongkou, Fenghuanggucheng, Jishoudong, and Zhangjiajiexi. There will be one northbound and one southbound train daily; • Increasing the number of train trips connecting Guangzhoudong, Shenzhenbei , Futian and other short-haul destinations; • Adjusting the fares for 18 long-haul destinations in response to the latest fares arrangements by CHINA RAILWAY. Ticket sales for the newly added services will start on 1 June, please visit the official 12306 website (12306. cn) or mobile app, High Speed Rail website or mobile app for detailed information.",
-                "CONTENT_CN": "由2024年6月15日起，高速鐵路(香港段)將作出以下服務提升及調整： •新增湖南長途綫，直達邵陽、懷化南、洞口、鳳凰古城、吉首東及張家界西六個新站點，每日提供北行及南行各一班列車; •加強來往廣州東站、深圳北站、福田站及其他短途站點的列車服務; •因應國鐵集團最新的票價安排，18個高鐵長途站點將於同日調整票價。 新增列車服務的車票將於6月1日起發售，詳情請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-05-30T16:31:10",
-        "last_announcement": "2024-05-30T16:10:00"
-    },
     "IN-24-02995": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3124,10 +3092,49 @@
                 "ID": "97820",
                 "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tseung Kwan O Tunnel (Tseung Kwan O Tunnel bound) near Kwun Tong Recreation Ground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，將軍澳隧道(往將軍澳隧道方向)近觀塘遊樂場的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-02T16:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97824",
+                "CONTENT_EN": "The fast lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Kwun Tong Recreation Ground which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳道(往將軍澳隧道方向)近觀塘遊樂場的快線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-06-02T15:59:27",
-        "last_announcement": "2024-06-02T15:35:00"
+        "last_update": "2024-06-02T16:34:34",
+        "last_announcement": "2024-06-02T16:24:00"
+    },
+    "IN-24-03076": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lam Kam Road",
+            "LOCATION_CN": "林錦公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Ling Wan Monastery",
+            "NEAR_LANDMARK_CN": "凌雲寺",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-02T16:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97823",
+                "CONTENT_EN": "Due to traffic accident , one-lane-two-way traffic arrangement is being implemented on Lam Kam Road near Ling Wan Monastery.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，林錦公路近凌雲寺現已實施單線雙程行車措施。  現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-06-02T16:34:34",
+        "last_announcement": "2024-06-02T16:20:00"
     }
 }
