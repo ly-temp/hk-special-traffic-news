@@ -3122,5 +3122,37 @@
         "district": "深水埗區",
         "last_update": "2024-06-02T10:45:31",
         "last_announcement": "2024-06-02T10:25:00"
+    },
+    "IN-24-03072": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hoi Yuen Road",
+            "NEAR_LANDMARK_CN": "開源道",
+            "BETWEEN_LANDMARK_EN": "Wai Yip Street",
+            "BETWEEN_LANDMARK_CN": "偉業街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-02T10:33:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97816",
+                "CONTENT_EN": "Due to emergency repairing works , part of the lanes of the roundabout between Hoi Yuen Road and Wai Yip Street is closed to all traffic. Only remaining lanes are available to motorists. At the same time, the fast lanes of Wai Yip Street (both bounds) between Kei Yip Street and Hoi Yuen Road are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，介乎開源道及偉業街之間的迴旋處的部份行車線現已封閉。駕駛人士只可使用餘下行車線行車。 同時，偉業街(來回方向)介乎基業街及開源道之間的快線現已封閉。駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-02T14:39:59",
+        "last_announcement": "2024-06-02T10:33:00"
     }
 }
