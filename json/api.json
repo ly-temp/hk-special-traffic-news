@@ -2785,5 +2785,69 @@
         "district": "九龍城區",
         "last_update": "2024-06-03T10:43:26",
         "last_announcement": "2024-06-03T10:14:00"
+    },
+    "IN-24-03087": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road",
+            "LOCATION_CN": "港珠澳大橋香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-03T10:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97867",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-06-03T11:13:21",
+        "last_announcement": "2024-06-03T10:50:00"
+    },
+    "IN-24-03094": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": "East Rail Line Service Disruption",
+            "LOCATION_CN": "東鐵綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-03T10:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97868",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that there is an additional travelling time of 10 to 15 minutes on the East Rail Line between Admiralty and Lo Wu or Lok Ma Chau because of a technical fault on a train at Kowloon Tong Station.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於九龍塘站有列車機件故障，東鐵綫來往金鐘至羅湖或落馬洲的車程延長10至15分鐘。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-06-03T11:13:21",
+        "last_announcement": "2024-06-03T10:56:00"
     }
 }
