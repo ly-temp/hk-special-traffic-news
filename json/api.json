@@ -162,38 +162,6 @@
         "last_update": "2024-05-31T20:44:36",
         "last_announcement": "2024-05-31T20:19:00"
     },
-    "IN-24-03042": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Tin Ma Court",
-            "NEAR_LANDMARK_CN": "天馬苑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-31T18:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97741",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近天馬苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-05-31T18:52:20",
-        "last_announcement": "2024-05-31T18:39:00"
-    },
     "IN-24-03041": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2714,5 +2682,37 @@
         "district": "觀塘區",
         "last_update": "2024-06-03T18:46:56",
         "last_announcement": "2024-06-03T18:29:00"
+    },
+    "IN-24-03108": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kai Yip Estate",
+            "NEAR_LANDMARK_CN": "啟業邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-03T18:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97902",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong Road (Yau Tong bound) ends at Lung Cheung Road near Wong Tai Sin MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近啟業邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘道(往油塘方向)的車龍龍尾已到龍翔道近黃大仙港鐵站。 現時上址交通擠塞。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-03T18:56:57",
+        "last_announcement": "2024-06-03T18:43:00"
     }
 }
