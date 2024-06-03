@@ -123,38 +123,6 @@
         "last_update": "2024-05-31T17:26:09",
         "last_announcement": "2024-05-31T17:09:00"
     },
-    "IN-24-03033": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-31T16:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97723",
-                "CONTENT_EN": "Due to inclement weather, the following ferry service has been suspended. Tsui Wah Ferry Service (H. K. ) Limited Tap Mun - Wong Shek Pier (via Ko Lau Wan and Chek Keng) -the last sailing departed from Tap Mun: departed at 3:45 pm; and -the last sailing departed from Wong Shek Pier: departed at 4:30 pm.",
-                "CONTENT_CN": "因受天氣影響，以下渡輪服務已經暫停服務。 翠華船務(香港)有限公司 塔門-黃石碼頭(經高流灣及赤徑) -由塔門開出的尾班船:將於下午3時45分開出;及 -由黃石碼頭開出的尾班船:將於下午4時30分開出。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-05-31T17:07:51",
-        "last_announcement": "2024-05-31T16:50:00"
-    },
     "IN-24-03034": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2638,10 +2606,17 @@
                 "ID": "97882",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Tuen Mun Road (Yuen Long bound) near Tuen Hing Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近屯興路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-03T16:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97885",
+                "CONTENT_EN": "The fast lane of Tuen Mun Road (Yuen Long bound) near Tuen Hing Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近屯興路的快線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-06-03T16:52:13",
-        "last_announcement": "2024-06-03T16:40:00"
+        "last_update": "2024-06-03T17:10:10",
+        "last_announcement": "2024-06-03T16:43:00"
     }
 }
