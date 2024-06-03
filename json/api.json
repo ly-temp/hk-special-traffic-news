@@ -84,84 +84,6 @@
         "last_update": "2024-06-02T15:38:42",
         "last_announcement": "2024-06-02T14:22:00"
     },
-    "IN-24-03032": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Kowloon Hospital",
-            "NEAR_LANDMARK_CN": "九龍醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-31T16:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97721",
-                "CONTENT_EN": "Due to traffic accident , the only lane of Argyle Street flyover (Kwun Tong bound) near Kowloon Hospital is closed to all traffic. Motorists may use alternative routing. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，亞皆老街天橋(往觀塘方向)近九龍醫院的唯一行車線現已封閉。 駕駛人士可改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-05-31T17:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97726",
-                "CONTENT_EN": "The only lane of Argyle Street flyover (Kwun Tong bound) near Kowloon Hospital which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街天橋(往觀塘方向)近九龍醫院的唯一行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-05-31T17:26:09",
-        "last_announcement": "2024-05-31T17:09:00"
-    },
-    "IN-24-03034": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-31T17:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97724",
-                "CONTENT_EN": "Due to traffic accident , the middle lane of Island Eastern Corridor (Chai Wan bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往柴灣方向)近和富中心的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-05-31T17:12:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97727",
-                "CONTENT_EN": "The middle lane of Island Eastern Corridor (Chai Wan bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近和富中心的中線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-05-31T17:26:09",
-        "last_announcement": "2024-05-31T17:12:00"
-    },
     "IN-24-03036": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2618,5 +2540,69 @@
         "district": "屯門區",
         "last_update": "2024-06-03T17:10:10",
         "last_announcement": "2024-06-03T16:43:00"
+    },
+    "IN-24-03101": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Yau Kom Tau",
+            "NEAR_LANDMARK_CN": "油柑頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-03T17:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97886",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Yau Kom Tau which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近油柑頭的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-06-03T17:36:09",
+        "last_announcement": "2024-06-03T17:25:00"
+    },
+    "IN-24-03104": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sham Shui Po",
+            "DIRECTION_CN": "深水埗",
+            "NEAR_LANDMARK_EN": "Bute Street",
+            "NEAR_LANDMARK_CN": "弼街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-03T17:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97888",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Nathan Road (Sham Shui Po bound) near Bute Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，彌敦道(往深水埗方向)近弼街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-06-03T17:36:09",
+        "last_announcement": "2024-06-03T17:28:00"
     }
 }
