@@ -236,38 +236,6 @@
         "last_update": "2024-06-02T08:40:16",
         "last_announcement": "2024-06-02T08:12:00"
     },
-    "IN-24-02710": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Sha Kok Street",
-            "LOCATION_CN": "沙角街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Chung Kiu Road",
-            "DIRECTION_CN": "大涌橋路",
-            "NEAR_LANDMARK_EN": "The Salvation Army Tin Ka Ping School",
-            "NEAR_LANDMARK_CN": "救世軍田家炳學校",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-01T17:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97799",
-                "CONTENT_EN": "The fast lane of Sha Kok Street (Tai Chung Kiu Road bound) near The Salvation Army Tin Ka Ping School which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的沙角街(往大涌橋路方向)近救世軍田家炳學校的快線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-01T17:53:07",
-        "last_announcement": "2024-06-01T17:38:00"
-    },
     "IN-24-03067": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2430,5 +2398,37 @@
         "district": "觀塘區",
         "last_update": "2024-06-04T16:51:55",
         "last_announcement": "2024-06-04T16:33:00"
+    },
+    "IN-24-03125": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "City Garden",
+            "NEAR_LANDMARK_CN": "城市花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-04T17:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97938",
+                "CONTENT_EN": "Island Eastern Corridor (Central bound) near City Garden is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "東區走廊(往中環方向)近城市花園的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-06-04T17:58:27",
+        "last_announcement": "2024-06-04T17:42:00"
     }
 }
