@@ -204,45 +204,6 @@
         "last_update": "2024-06-02T08:40:16",
         "last_announcement": "2024-06-02T08:12:00"
     },
-    "IN-24-03070": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Peak Road",
-            "LOCATION_CN": "山頂道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Peak Police Station",
-            "NEAR_LANDMARK_CN": "山頂警署",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-01T20:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97806",
-                "CONTENT_EN": "Due to fallen tree , one-lane-two-way traffic arrangement is being implemented on Peak Road near Peak Police Station.   Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，山頂道近山頂警署現已實施單線雙程行車措施。  現時上址交通繁忙。"
-            },
-            "2024-06-01T22:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97810",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Peak Road near Peak Police Station due to fallen tree is now cancelled.",
-                "CONTENT_CN": "較早前因塌樹而於山頂道近山頂警署實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-06-01T22:30:35",
-        "last_announcement": "2024-06-01T22:20:00"
-    },
     "IN-24-03071": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
