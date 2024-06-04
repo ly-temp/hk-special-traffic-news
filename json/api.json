@@ -204,59 +204,6 @@
         "last_update": "2024-06-02T00:08:36",
         "last_announcement": "2024-06-01T23:54:00"
     },
-    "IN-24-03050": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-01T06:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97763",
-                "CONTENT_EN": "Due to the effect of tropical cyclone, the ferry services arrangements are as follows: Peng Chau Kaito Limited Between Discovery Bay and Mui Wo: suspended.",
-                "CONTENT_CN": "因受熱帶氣旋的影響，渡輪服務安排如下： 坪洲街渡有限公司 來往愉景灣和梅窩：暫停"
-            },
-            "2024-06-01T06:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97764",
-                "CONTENT_EN": "Due to the effect of tropical cyclone, the ferry services arrangements are as follows: Peng Chau Kaito Limited Between Discovery Bay and Mui Wo: Suspended Fortune Ferry Company Limited Tuen Mun – Tung Chung – Sha Lo Wan – Tai O : Suspended",
-                "CONTENT_CN": "因受熱帶氣旋的影響，渡輪服務安排如下： 坪洲街渡有限公司 來往愉景灣和梅窩：暫停 富裕小輪有限公司 屯門–東涌–沙螺灣–大澳:暫停"
-            },
-            "2024-06-01T06:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97765",
-                "CONTENT_EN": "Due to the effect of tropical cyclone, the ferry services arrangements are as follows:\n\nPeng Chau Kaito Limited\nBetween Discovery Bay and Mui Wo: Suspended\n\nFortune Ferry Company Limited\nTuen Mun – Tung Chung – Sha Lo Wan – Tai O : Suspended\n\nTsui Wah Ferry Service (H. K. ) Limited\nBetween Ma Liu Shui and Tung Ping Chau: Suspended\nBetween Wong Shek and Tap Mun: Suspended\nBetween Ma Liu Shui and Wong Shek: Suspended\nBetween Wong Shek and Chek Keng: Suspended\nBetween Aberdeen and Po Toi Island: Suspended\nBetween Sai Kung and Kau Sai Village: Suspended.",
-                "CONTENT_CN": "因受熱帶氣旋的影響，渡輪服務安排如下：\n\n坪洲街渡有限公司\n來往愉景灣和梅窩：暫停\n\n富裕小輪有限公司\n屯門–東涌–沙螺灣–大澳:暫停\n\n翠華船務（香港）有限公司\n來往馬料水和東平洲：暫停\n來往黃石和塔門：暫停\n來往馬料水和黃石：暫停\n來往黃石和赤徑：暫停\n來往香港仔和蒲苔島：暫停\n來往西貢和滘西村：暫停。"
-            },
-            "2024-06-01T16:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97788",
-                "CONTENT_EN": "Due to the latest tropical cyclone situation, the ferry services arrangements are as follows: Peng Chau Kaito Limited Between Discovery Bay and Mui Wo: Resume service - First departure from Discovery Bay at 06:15 pm - First departure from Mui Wo at 06:45 pm Fortune Ferry Company Limited Tuen Mun – Tung Chung – Sha Lo Wan – Tai O : Resume service - First departure from Tuen Mun at 05:00 pm - First departure from Tai O at 06:00 pm Tsui Wah Ferry Service (H. K. ) Limited - arrangements are as follows Between Wong Shek and Tap Mun: Resume service - First departure from Tap Mun at 05:05 pm - First departure from Wong Shek at 05:35 pm Between Ma Liu Shui and Tung Ping Chau: Suspended Between Ma Liu Shui and Tap Mun: Suspended Between Wong Shek and Chek Keng: Suspended Between Aberdeen and Po Toi Island: Suspended Between Sai Kung and Kau Sai Village: Suspended",
-                "CONTENT_CN": "因應最新熱帶氣旋情況，渡輪服務安排如下： 坪洲街渡有限公司 來往愉景灣和梅窩：復航 -愉景灣首班船下午6時15分開出 -梅窩首班船下午6時45分開出 富裕小輪有限公司 屯門–東涌–沙螺灣–大澳：復航 -屯門首班船下午5時正開出 -大澳首班船下午6時正開出 翠華船務（香港）有限公司-安排如下 來往黃石和塔門：復航 -塔門首班船下午5時05分開出 -黃石首班船下午5時35分開出 來往馬料水和東平洲：暫停 來往馬料水和塔門：暫停 來往黃石和赤徑：暫停 來往香港仔和蒲苔島：暫停 來往西貢和滘西村：暫停"
-            }
-        },
-        "district": null,
-        "last_update": "2024-06-01T16:11:16",
-        "last_announcement": "2024-06-01T16:00:00"
-    },
     "IN-24-03056": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -334,45 +281,6 @@
         "district": "離島區",
         "last_update": "2024-06-02T08:40:16",
         "last_announcement": "2024-06-02T08:12:00"
-    },
-    "IN-24-03063": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Gloucester Road",
-            "LOCATION_CN": "告士打道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "North Point",
-            "DIRECTION_CN": "北角",
-            "NEAR_LANDMARK_EN": "The Hong Kong Academy for Performing Arts",
-            "NEAR_LANDMARK_CN": "香港演藝學院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-01T15:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97791",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Gloucester Road (North Point bound) near The Hong Kong Academy for Performing Arts is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，告士打道(往北角方向)近香港演藝學院的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-01T15:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97792",
-                "CONTENT_EN": "The fast lane of Gloucester Road (North Point bound) near The Hong Kong Academy for Performing Arts which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的告士打道(往北角方向)近香港演藝學院的快線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-06-01T16:11:16",
-        "last_announcement": "2024-06-01T15:53:00"
     },
     "IN-24-03064": {
         "description": {
