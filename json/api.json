@@ -2765,11 +2765,18 @@
                 "ID": "97990",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-05T16:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97995",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-06-05T16:30:04",
-        "last_announcement": "2024-06-05T16:12:00"
+        "last_update": "2024-06-05T16:51:33",
+        "last_announcement": "2024-06-05T16:44:00"
     },
     "IN-24-03148": {
         "description": {
@@ -2809,5 +2816,37 @@
         "district": "油尖旺區",
         "last_update": "2024-06-05T16:41:22",
         "last_announcement": "2024-06-05T16:30:00"
+    },
+    "IN-24-03144": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "King's Road",
+            "LOCATION_CN": "英皇道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Causeway Bay",
+            "DIRECTION_CN": "銅鑼灣",
+            "NEAR_LANDMARK_EN": "Cheung Hong Street",
+            "NEAR_LANDMARK_CN": "長康街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-05T16:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97994",
+                "CONTENT_EN": "Part of the lanes of King's Road (Causeway Bay bound) near Cheung Hong Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的英皇道(往銅鑼灣方向)近長康街的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-06-05T16:51:33",
+        "last_announcement": "2024-06-05T16:35:00"
     }
 }
