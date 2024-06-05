@@ -3142,5 +3142,37 @@
         "district": null,
         "last_update": "2024-06-06T03:37:57",
         "last_announcement": "2024-06-06T03:21:00"
+    },
+    "IN-24-03159": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Sham Shui Po Park",
+            "NEAR_LANDMARK_CN": "深水埗公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-06T07:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98020",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of West Kowloon Corridor (Mong Kok bound) near Sham Shui Po Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，西九龍走廊(往旺角方向)近深水埗公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-06-06T07:36:25",
+        "last_announcement": "2024-06-06T07:28:00"
     }
 }
