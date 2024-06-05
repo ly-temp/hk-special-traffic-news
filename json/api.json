@@ -1,43 +1,4 @@
 {
-    "IN-24-03026": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Lam Hing Street",
-            "LOCATION_CN": "臨興街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Trademart Drive",
-            "DIRECTION_CN": "展貿徑",
-            "NEAR_LANDMARK_EN": "Lam Lee Street",
-            "NEAR_LANDMARK_CN": "臨利街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-05-31T14:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97709",
-                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Lam Hing Street (Trademart Drive bound) near Lam Lee Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，臨興街(往展貿徑方向)近臨利街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-02T14:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97817",
-                "CONTENT_EN": "Part of the lanes of Lam Hing Street (Trademart Drive bound) near Lam Lee Street which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的臨興街(往展貿徑方向)近臨利街的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-02T15:38:42",
-        "last_announcement": "2024-06-02T14:22:00"
-    },
     "IN-24-03047": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
