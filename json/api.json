@@ -3052,10 +3052,49 @@
                 "ID": "98013",
                 "CONTENT_EN": "Due to Stagnant water on road , part of the lanes of North Lantau Highway and Cheung Tung Road (Airport bound) near Sham Shui Kok Drive are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有積水，北大嶼山公路及翔東路(往機場方向)近深水角徑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-05T22:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98015",
+                "CONTENT_EN": "Part of the lanes of North Lantau Highway and Cheung Tung Road (Airport bound) near Sham Shui Kok Drive which were closed due to Stagnant water on road are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有積水而封閉的北大嶼山公路及翔東路(往機場方向)近深水角徑的部份行車線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-06-05T21:38:54",
-        "last_announcement": "2024-06-05T21:22:00"
+        "last_update": "2024-06-05T22:21:40",
+        "last_announcement": "2024-06-05T22:01:00"
+    },
+    "IN-24-03157": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Mong Tsai Road",
+            "LOCATION_CN": "大網仔路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Tsam Chuk Wan",
+            "NEAR_LANDMARK_CN": "斬竹灣",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-05T21:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98014",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Tai Mong Tsai Road (both bounds) near Tsam Chuk Wan are closed to all traffic. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大網仔路(來回方向)近斬竹灣的全線現已封閉。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-06-05T22:21:40",
+        "last_announcement": "2024-06-05T21:50:00"
     }
 }
