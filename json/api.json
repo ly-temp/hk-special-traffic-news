@@ -126,45 +126,6 @@
         "last_update": "2024-06-04T18:22:07",
         "last_announcement": "2024-06-04T18:01:00"
     },
-    "IN-24-03071": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Subsidence",
-            "INCIDENT_DETAIL_CN": "路面下陷",
-            "LOCATION_EN": "Cheung Sha Wan Road",
-            "LOCATION_CN": "長沙灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Lai Chi Kok Reception Centre",
-            "NEAR_LANDMARK_CN": "荔枝角收押所",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-02T09:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97813",
-                "CONTENT_EN": "Due to road subsidence , the slow lane of Cheung Sha Wan Road (Mong Kok bound) near Lai Chi Kok Reception Centre is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因路面下陷，長沙灣道(往旺角方向)近荔枝角收押所的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-06-02T10:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97815",
-                "CONTENT_EN": "The slow lane of Cheung Sha Wan Road (Mong Kok bound) near Lai Chi Kok Reception Centre which was closed due to road subsidence is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面下陷而封閉的長沙灣道(往旺角方向)近荔枝角收押所的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-06-02T10:45:31",
-        "last_announcement": "2024-06-02T10:25:00"
-    },
     "IN-24-03072": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2635,5 +2596,37 @@
         "district": "九龍城區",
         "last_update": "2024-06-05T10:43:15",
         "last_announcement": "2024-06-05T10:26:00"
+    },
+    "IN-24-03140": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Choi Shek Lane",
+            "NEAR_LANDMARK_CN": "彩石里",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-05T10:44:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97977",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Yau Tong bound) near Choi Shek Lane is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近彩石里的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-05T10:53:25",
+        "last_announcement": "2024-06-05T10:44:00"
     }
 }
