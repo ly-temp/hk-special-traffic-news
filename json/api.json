@@ -133,45 +133,6 @@
         "last_update": "2024-06-02T17:13:59",
         "last_announcement": "2024-06-02T17:02:00"
     },
-    "IN-24-03074": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Nathan Road",
-            "NEAR_LANDMARK_CN": "彌敦道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-02T15:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97819",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Argyle Street (Tai Kok Tsui bound) near Nathan Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，亞皆老街(往大角咀方向)近彌敦道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-02T15:49:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97822",
-                "CONTENT_EN": "The slow lane of Argyle Street (Tai Kok Tsui bound) near Nathan Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街(往大角咀方向)近彌敦道的慢線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-02T16:23:00",
-        "last_announcement": "2024-06-02T15:49:00"
-    },
     "IN-24-03075": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2804,10 +2765,81 @@
                 "ID": "97989",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Kwun Tong bound) near Lee Kau Yan Memorial School is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，太子道東(往觀塘方向)近李求恩紀念中學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-05T16:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "97992",
+                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Kwun Tong bound) near Lee Kau Yan Memorial School which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往觀塘方向)近李求恩紀念中學的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-06-05T16:13:04",
-        "last_announcement": "2024-06-05T15:58:00"
+        "last_update": "2024-06-05T16:30:04",
+        "last_announcement": "2024-06-05T16:22:00"
+    },
+    "IN-24-03147": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
+            "NEAR_LANDMARK_CN": "何文田港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-05T16:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97990",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-06-05T16:30:04",
+        "last_announcement": "2024-06-05T16:12:00"
+    },
+    "IN-24-03148": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road South",
+            "LOCATION_CN": "漆咸道南",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-05T16:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "97991",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road South (Kwun Tong bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道南(往觀塘方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-06-05T16:30:04",
+        "last_announcement": "2024-06-05T16:18:00"
     }
 }
