@@ -94,45 +94,6 @@
         "last_update": "2024-06-05T15:21:58",
         "last_announcement": "2024-06-05T15:08:00"
     },
-    "IN-24-03090": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Main Bridge",
-            "LOCATION_CN": "港珠澳大橋主橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-03T09:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97859",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge, with details as shown below: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge are lowered from 100km/h to 50 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge is lowered from 80km/h to 50 km/h.",
-                "CONTENT_CN": "由於強風，港珠澳大橋主橋已實施以下特別交通及運輸安排： (i)港珠澳大橋主橋的快線及中線車速限制由每小時100公里降至每小時50 公里；及 (ii)港珠澳大橋主橋的慢線車速限制由每小時80公里降至每小時50 公里。"
-            },
-            "2024-06-03T12:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97869",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge has resumed 100 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge has resumed 80km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋主橋已實施以下安排： (i)港珠澳大橋主橋的快線及中線車速限制恢復為每小時100公里；及 (ii)港珠澳大橋主橋的慢線車速限制恢復為每小時80公里。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-06-03T12:40:38",
-        "last_announcement": "2024-06-03T12:30:00"
-    },
     "IN-24-03095": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2883,5 +2844,37 @@
         "district": "油尖旺區",
         "last_update": "2024-06-06T10:07:00",
         "last_announcement": "2024-06-06T09:08:00"
+    },
+    "IN-24-03167": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Siu Hong MTR Station",
+            "NEAR_LANDMARK_CN": "兆康港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-06T12:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98038",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Yuen Long bound) near Siu Hong MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近兆康港鐵站的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-06T12:50:24",
+        "last_announcement": "2024-06-06T12:31:00"
     }
 }
