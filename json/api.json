@@ -94,45 +94,6 @@
         "last_update": "2024-06-05T15:21:58",
         "last_announcement": "2024-06-05T15:08:00"
     },
-    "IN-24-03098": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Chi Lok Fa Yuen",
-            "NEAR_LANDMARK_CN": "置樂花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-03T16:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97877",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Kowloon bound) near Chi Lok Fa Yuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近置樂花園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-03T16:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97881",
-                "CONTENT_EN": "The slow lane of Tuen Mun Road (Kowloon bound) near Chi Lok Fa Yuen which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近置樂花園的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-03T16:42:04",
-        "last_announcement": "2024-06-03T16:32:00"
-    },
     "IN-24-03100": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2896,10 +2857,49 @@
                 "ID": "98047",
                 "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Cheung Tsing Tunnel (Airport bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，長青隧道(往機場方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-06T16:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98049",
+                "CONTENT_EN": "The tunnel tube slow lane of Cheung Tsing Tunnel (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的長青隧道(往機場方向)的管道慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-06-06T15:40:14",
-        "last_announcement": "2024-06-06T15:30:00"
+        "last_update": "2024-06-06T16:50:43",
+        "last_announcement": "2024-06-06T16:32:00"
+    },
+    "IN-24-03173": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Sea Crest Villa",
+            "NEAR_LANDMARK_CN": "浪翠園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-06T16:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98051",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sea Crest Villa which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往屯門方向)近浪翠園的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-06-06T16:50:43",
+        "last_announcement": "2024-06-06T16:42:00"
     }
 }
