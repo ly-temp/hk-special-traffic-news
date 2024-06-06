@@ -94,52 +94,6 @@
         "last_update": "2024-06-05T15:21:58",
         "last_announcement": "2024-06-05T15:08:00"
     },
-    "IN-24-03095": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Hang Road",
-            "LOCATION_CN": "大坑道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Blue Pool Road",
-            "NEAR_LANDMARK_CN": "藍塘道",
-            "BETWEEN_LANDMARK_EN": "Blue Pool Road",
-            "BETWEEN_LANDMARK_CN": "藍塘道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-03T13:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97870",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Tai Hang Road and Blue Pool Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大坑道和藍塘道交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-06-03T13:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97872",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Tai Hang Road and Blue Pool Road is closed to all traffic. \nOnly remaining lane is available to motorists.   At the same time, all lanes of Tai Hang Road (both bounds) between Blue Pool Road and Stubbs Road are closed to all traffic. Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大坑道和藍塘道交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  同時，介乎藍塘道與司徒拔道之間的大坑道(來回方向)的全線的現已封閉。駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2024-06-03T14:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97874",
-                "CONTENT_EN": "The following road sections which were closed due to traffic accident are re-opened to all traffic: - part of the lanes of the junction of Tai Hang Road and Blue Pool Road; and - all lanes of Tai Hang Road (both bounds) between Blue Pool Road and Stubbs Road.",
-                "CONTENT_CN": "較早前因交通意外而封閉的以下路段現已解封: -大坑道和藍塘道交界的部份行車線;及 -介乎藍塘道與司徒拔道之間的大坑道(來回方向)的全線。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-06-03T15:21:31",
-        "last_announcement": "2024-06-03T14:55:00"
-    },
     "IN-24-03097": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
