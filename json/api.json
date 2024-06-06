@@ -94,45 +94,6 @@
         "last_update": "2024-06-05T15:21:58",
         "last_announcement": "2024-06-05T15:08:00"
     },
-    "IN-24-03104": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Nathan Road",
-            "LOCATION_CN": "彌敦道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sham Shui Po",
-            "DIRECTION_CN": "深水埗",
-            "NEAR_LANDMARK_EN": "Bute Street",
-            "NEAR_LANDMARK_CN": "弼街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-03T17:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97888",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Nathan Road (Sham Shui Po bound) near Bute Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，彌敦道(往深水埗方向)近弼街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-03T17:44:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97892",
-                "CONTENT_EN": "Part of the lanes of Nathan Road (Sham Shui Po bound) near Bute Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的彌敦道(往深水埗方向)近弼街的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-03T18:20:14",
-        "last_announcement": "2024-06-03T17:44:00"
-    },
     "IN-24-03103": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -210,70 +171,6 @@
         "district": "黃大仙區",
         "last_update": "2024-06-03T18:36:49",
         "last_announcement": "2024-06-03T18:14:00"
-    },
-    "IN-24-03107": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Wuhu Street",
-            "NEAR_LANDMARK_CN": "蕪湖街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-03T17:55:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97895",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Wuhu Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往尖沙咀方向)近蕪湖街的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-06-03T18:20:14",
-        "last_announcement": "2024-06-03T17:55:00"
-    },
-    "IN-24-03102": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-03T17:28:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97889",
-                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往機場方向) 的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-03T18:20:14",
-        "last_announcement": "2024-06-03T17:28:00"
     },
     "IN-24-03109": {
         "description": {
