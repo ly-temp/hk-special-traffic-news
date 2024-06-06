@@ -140,45 +140,6 @@
         "last_update": "2024-06-03T15:21:31",
         "last_announcement": "2024-06-03T14:55:00"
     },
-    "IN-24-03096": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Yau Kom Tau",
-            "NEAR_LANDMARK_CN": "油柑頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-03T13:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97871",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Yau Kom Tau is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近油柑頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-03T14:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97873",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Yau Kom Tau which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近油柑頭的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-06-03T15:07:04",
-        "last_announcement": "2024-06-03T14:45:00"
-    },
     "IN-24-03097": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2968,5 +2929,69 @@
         "district": "灣仔區",
         "last_update": "2024-06-06T14:39:57",
         "last_announcement": "2024-06-06T14:25:00"
+    },
+    "IN-24-03170": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Wo Che Estate",
+            "NEAR_LANDMARK_CN": "禾輋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-06T15:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98045",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-06T15:19:56",
+        "last_announcement": "2024-06-06T15:05:00"
+    },
+    "IN-24-03171": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Cross-boundary transport services and special traffic arrangements during and around Tuen Ng Festival",
+            "INCIDENT_DETAIL_CN": "端午節假期及前後的陸路跨境交通服務及特別交通安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-06T15:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98046",
+                "CONTENT_EN": "The Transport Department (TD) anticipates that there may be a number of cross-boundary passengers using public transport services to travel via the land boundary control points during and around Tuen Ng Festival. As the waiting time for public transport services may be longer, passengers should observe order and heed advice from the on-site Police and staff of the concerned public transport service operators. Cross-boundary coach passengers are also advised to plan their journeys and reserve coach tickets ahead. Subject to actual traffic conditions, special traffic arrangements may be implemented at Lok Ma Chau Control Point and Shenzhen Bay Port from 7 June to the early morning of 11 June 2024 to facilitate public transport vehicles to enter the above control points smoothly. Motorists are advised to pay attention to messages displayed on variable message signs along the road and follow the traffic signs when driving. In case of traffic obstruction, motorists are urged to exercise care and patience and take heed of instructions from the police officers on site. The Emergency Transport Coordination Centre of the TD will continue to monitor the traffic and public transport services at all land-based Boundary Control Points and the Airport, and will disseminate the latest traffic news through TD's \"HKeMobility\" mobile application.",
+                "CONTENT_CN": "運輸署預計在端午節假期及前後，或會有大量跨境乘客使用公共運輸服務經各陸路管制站過境，因此等候公共運輸服務的時間可能較長。候車乘客應遵守秩序，並遵從現場警務人員及相關公共運輸服務營辦商職員的指示。跨境巴士乘客亦應及早計劃行程，並提早預訂車票。 視乎現場交通情況，落馬洲管制站及深圳灣口岸由2024年6月7日起至11日凌晨，或會實施特別交通安排，以便公共運輸車輛能暢順地進入上述口岸。駕駛人士應特別留意沿途可變信息顯示屏的信息，並按照交通標誌的指示駕駛。如遇交通受阻，請駕駛人士保持小心忍讓，及遵從現場警務人員的指示。 運輸署的緊急交通事故協調中心會繼續監察各陸路口岸及機場的交通及公共運輸服務情況，並透過運輸署流動應用程式「香港出行易」，發放最新的交通消息。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-06-06T15:19:56",
+        "last_announcement": "2024-06-06T15:10:00"
     }
 }
