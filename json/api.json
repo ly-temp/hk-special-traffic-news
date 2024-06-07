@@ -3252,5 +3252,37 @@
         "district": "屯門區",
         "last_update": "2024-06-07T18:18:17",
         "last_announcement": "2024-06-07T18:03:00"
+    },
+    "IN-24-03209": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced train service during long weekend for Dragon Boat Festival",
+            "INCIDENT_DETAIL_CN": "端午節長周末為你加強列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-07T18:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98134",
+                "CONTENT_EN": "Train service on 6 lines will be enhanced during the long weekend for the Dragon Boat Festival: · 8 – 10 June · Island Line, South Island Line, East Rail Line, Tuen Ma Line, Tung Chung Line, Disneyland Resort Line · More than 400 extra train trips",
+                "CONTENT_CN": "6條鐵路綫於端午節長周末加強列車服務: ·6月8至10日 ·港島綫、南港島綫、東鐵綫、屯馬綫、東涌綫、迪士尼綫 ·共增加超過400班車"
+            }
+        },
+        "district": null,
+        "last_update": "2024-06-07T18:33:16",
+        "last_announcement": "2024-06-07T18:12:00"
     }
 }
