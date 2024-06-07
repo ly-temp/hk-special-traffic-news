@@ -133,84 +133,6 @@
         "last_update": "2024-06-04T17:10:39",
         "last_announcement": "2024-06-04T16:55:00"
     },
-    "IN-24-03123": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hip Wo Street",
-            "LOCATION_CN": "協和街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong Road",
-            "DIRECTION_CN": "觀塘道",
-            "NEAR_LANDMARK_EN": "Tsui Ping Road",
-            "NEAR_LANDMARK_CN": "翠屏道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-04T15:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97933",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hip Wo Street (Kwun Tong Road bound) near Tsui Ping Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，協和街(往觀塘道方向)近翠屏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-04T16:45:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97936",
-                "CONTENT_EN": "Part of the lanes of Hip Wo Street (Kwun Tong Road bound) near Tsui Ping Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的協和街(往觀塘道方向)近翠屏道的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-04T16:51:55",
-        "last_announcement": "2024-06-04T16:45:00"
-    },
-    "IN-24-03124": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Choi Shek Lane",
-            "NEAR_LANDMARK_CN": "彩石里",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-04T16:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97934",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Choi Shek Lane is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近彩石里的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-04T16:33:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97935",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Choi Shek Lane which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近彩石里的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-04T16:51:55",
-        "last_announcement": "2024-06-04T16:33:00"
-    },
     "IN-24-03125": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3245,5 +3167,44 @@
         "district": "屯門區",
         "last_update": "2024-06-07T16:32:48",
         "last_announcement": "2024-06-07T16:23:00"
+    },
+    "IN-24-03206": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Canton Road",
+            "LOCATION_CN": "廣東道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "Austin Road",
+            "NEAR_LANDMARK_CN": "柯士甸道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-07T16:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98126",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Canton Road (Yau Ma Tei bound) near Austin Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，廣東道(往油麻地方向)近柯士甸道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-07T16:41:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98127",
+                "CONTENT_EN": "Part of the lanes of Canton Road (Yau Ma Tei bound) near Austin Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的廣東道(往油麻地方向)近柯士甸道的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-06-07T16:53:00",
+        "last_announcement": "2024-06-07T16:41:00"
     }
 }
