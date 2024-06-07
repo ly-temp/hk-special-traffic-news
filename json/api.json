@@ -3064,5 +3064,37 @@
         "district": "離島區",
         "last_update": "2024-06-07T13:42:12",
         "last_announcement": "2024-06-07T13:30:00"
+    },
+    "IN-24-03200": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lam Kam Road",
+            "LOCATION_CN": "林錦公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Kam Tin Road",
+            "NEAR_LANDMARK_CN": "錦田公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-07T13:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98115",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of the junction of Lam Kam Road and Kam Tin Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，林錦公路和錦田公路的交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-06-07T14:14:28",
+        "last_announcement": "2024-06-07T13:48:00"
     }
 }
