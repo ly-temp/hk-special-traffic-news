@@ -3130,10 +3130,49 @@
                 "ID": "98118",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Fu Tai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，元朗公路(往屯門方向)近富泰邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-07T15:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98120",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Tuen Mun bound) near Fu Tai Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往屯門方向)近富泰邨的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-06-07T15:45:33",
-        "last_announcement": "2024-06-07T15:31:00"
+        "last_update": "2024-06-07T16:19:20",
+        "last_announcement": "2024-06-07T15:59:00"
+    },
+    "IN-24-03203": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-07T16:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98121",
+                "CONTENT_EN": "The following road sections are busy:\n– Queen's Road Central (Sai Wan bound)\n– Queensway (Central bound)\n– Harcourt Road (Central bound)\n– Gloucester Road (Central bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–皇后大道中(往西環方向)\n–金鐘道(往中環方向)\n–夏慤道(往中環方向)\n–告士打道(往中環方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-06-07T16:19:20",
+        "last_announcement": "2024-06-07T16:06:00"
     }
 }
