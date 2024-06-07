@@ -133,45 +133,6 @@
         "last_update": "2024-06-04T17:10:39",
         "last_announcement": "2024-06-04T16:55:00"
     },
-    "IN-24-03121": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "In-town Check-in service enhanced",
-            "INCIDENT_DETAIL_CN": "市區預辦登機服務提升",
-            "LOCATION_EN": "Airport Express Line Service Disruption",
-            "LOCATION_CN": "機場快綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-04T12:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "97929",
-                "CONTENT_EN": "To make it easier for passengers to travel, the In-town Check-in service in Kowloon and Hong Kong stations will be enhanced:\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
-                "CONTENT_CN": "爲方便乘客出行，九龍站及香港站的市區預辦登機服務將會提升：\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
-            },
-            "2024-06-04T13:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "97930",
-                "CONTENT_EN": "To make it easier for passengers to travel, the In-town Check-in service in Kowloon and Hong Kong stations will be enhanced:\n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm \n\n.",
-                "CONTENT_CN": "爲方便乘客出行，九龍站及香港站的市區預辦登機服務將會提升：\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm \n\n。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-06-04T13:30:16",
-        "last_announcement": "2024-06-04T13:05:00"
-    },
     "IN-24-03122": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
