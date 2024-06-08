@@ -133,38 +133,6 @@
         "last_update": "2024-06-05T13:48:18",
         "last_announcement": "2024-06-05T13:25:00"
     },
-    "IN-24-03142": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Ping Shek Lane",
-            "NEAR_LANDMARK_CN": "坪石里",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-05T12:57:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "97984",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Ping Shek Lane which was closed due to fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因火警而封閉的觀塘道(往油塘方向)近坪石里的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-05T13:27:55",
-        "last_announcement": "2024-06-05T12:57:00"
-    },
     "IN-24-03145": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3386,10 +3354,17 @@
                 "ID": "98178",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Yuen Long bound) near On Ting Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近安定邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-08T13:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98180",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near On Ting Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往元朗方向)近安定邨的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-06-08T13:12:59",
-        "last_announcement": "2024-06-08T12:48:00"
+        "last_update": "2024-06-08T13:28:22",
+        "last_announcement": "2024-06-08T13:09:00"
     }
 }
