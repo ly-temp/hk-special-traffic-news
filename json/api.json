@@ -1,43 +1,4 @@
 {
-    "IN-24-03155": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Garden Road",
-            "LOCATION_CN": "花園道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "uphill",
-            "DIRECTION_CN": "上山",
-            "NEAR_LANDMARK_EN": "Magazine Gap Road",
-            "NEAR_LANDMARK_CN": "馬己仙峽道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-05T20:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98011",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Garden Road (uphill bound) near Magazine Gap Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，花園道(上山方向)近馬己仙峽道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-06-05T20:39:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98012",
-                "CONTENT_EN": "Part of the lanes of Garden Road (uphill bound) near Magazine Gap Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的花園道(上山方向)近馬己仙峽道的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-06-05T20:53:47",
-        "last_announcement": "2024-06-05T20:39:00"
-    },
     "IN-24-03156": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
