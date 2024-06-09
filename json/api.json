@@ -38,66 +38,6 @@
         "last_update": "2024-06-07T11:11:29",
         "last_announcement": "2024-06-07T10:44:00"
     },
-    "IN-24-03179": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "San Hui",
-            "NEAR_LANDMARK_CN": "新墟",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-07T06:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98064",
-                "CONTENT_EN": "Due to emergency repair of road surface , the middle and slow lanes of Tuen Mun Road (Kowloon bound) near San Hui are closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因緊急路面維修，屯門公路(往九龍方向)近新墟的中線及慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-07T06:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98066",
-                "CONTENT_EN": "Due to emergency repair of road surface , the middle and slow lanes of Tuen Mun Road (Kowloon bound) near San Hui are still being closed to all traffic. Only the fast lane is available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Fuk Hang Tsuen. Traffic is congested now.",
-                "CONTENT_CN": "因緊急路面維修，屯門公路(往九龍方向)近新墟的中線及慢線仍然封閉。 駕駛人士只可使用快線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近福亨村。 現時上址交通擠塞。"
-            },
-            "2024-06-07T06:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98067",
-                "CONTENT_EN": "Due to emergency repair of road surface , the middle and slow lanes of Tuen Mun Road (Kowloon bound) near San Hui are still being closed to all traffic. Only the fast lane is available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Tan Kwai Tsuen. Traffic is congested now.",
-                "CONTENT_CN": "因緊急路面維修，屯門公路(往九龍方向)近新墟的中線及慢線仍然封閉。 駕駛人士只可使用快線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近丹桂村。 現時上址交通擠塞。"
-            },
-            "2024-06-07T06:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98068",
-                "CONTENT_EN": "Due to emergency repair of road surface , the middle and slow lanes of Tuen Mun Road (Kowloon bound) near San Hui are still being closed to all traffic. Only the fast lane is available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Hung Tin Road. Traffic is congested now.",
-                "CONTENT_CN": "因緊急路面維修，屯門公路(往九龍方向)近新墟的中線及慢線仍然封閉。 駕駛人士只可使用快線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近洪天路。 現時上址交通擠塞。"
-            },
-            "2024-06-07T07:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98071",
-                "CONTENT_EN": "The middle and slow lanes of Tuen Mun Road (Kowloon bound) near San Hui which was closed due to emergency repair of road surface is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的屯門公路(往九龍方向)近新墟的中線及慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-07T07:26:46",
-        "last_announcement": "2024-06-07T07:01:00"
-    },
     "IN-24-03182": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
