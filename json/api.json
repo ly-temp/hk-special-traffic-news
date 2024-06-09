@@ -2837,11 +2837,18 @@
                 "ID": "98209",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Lung Cheung Road flyover (Kwai Chung bound) near Ping Shek Estate are still being closed to all traffic.   Motorists are advised to divert via Choi Hung Interchange (Sai Kung bound) and the at-grade section of Lung Cheung Road (Kwai Chung bound).   Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，龍翔道天橋(往葵涌方向)近坪石邨的全線仍然封閉。  駕駛人士請考慮改用彩虹交匯處(往西貢方向)及龍翔道(往葵涌方向)路面行車線。  現時上址交通繁忙。"
+            },
+            "2024-06-09T11:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98214",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road flyover (Kwai Chung bound) near Ping Shek Estate which was closed due to watermain burst is re-opened to all traffic;\nBesides, the fast lane of Lung Cheung Road flyover (Kwai Chung bound) near Ping Shek Estate is still closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "較早前因水管爆裂而封閉的龍翔道天橋(往葵涌方向)近坪石邨的慢線現已解封;\n同時，龍翔道天橋(往葵涌方向)近坪石邨的快線亦仍然封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-06-09T09:39:31",
-        "last_announcement": "2024-06-09T08:37:00"
+        "last_update": "2024-06-09T11:20:44",
+        "last_announcement": "2024-06-09T11:02:00"
     },
     "IN-24-03242": {
         "description": {
@@ -2940,10 +2947,17 @@
                 "ID": "98212",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Tsuen Wan bound) near Lai Chi Kok Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青葵公路(往荃灣方向)近荔枝角公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-09T10:45:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98213",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Tsuen Wan bound) near Lai Chi Kok Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往荃灣方向)近荔枝角公園的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-06-09T10:57:31",
-        "last_announcement": "2024-06-09T10:27:00"
+        "last_update": "2024-06-09T11:20:44",
+        "last_announcement": "2024-06-09T10:45:00"
     }
 }
