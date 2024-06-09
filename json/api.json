@@ -38,77 +38,6 @@
         "last_update": "2024-06-07T11:11:29",
         "last_announcement": "2024-06-07T10:44:00"
     },
-    "IN-24-03172": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Cheung Tsing Tunnel",
-            "LOCATION_CN": "長青隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-06T15:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98047",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Cheung Tsing Tunnel (Airport bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，長青隧道(往機場方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-06T16:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98049",
-                "CONTENT_EN": "The tunnel tube slow lane of Cheung Tsing Tunnel (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的長青隧道(往機場方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-06T16:50:43",
-        "last_announcement": "2024-06-06T16:32:00"
-    },
-    "IN-24-03173": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Sea Crest Villa",
-            "NEAR_LANDMARK_CN": "浪翠園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-06T16:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98051",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sea Crest Villa which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往屯門方向)近浪翠園的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-06-06T16:50:43",
-        "last_announcement": "2024-06-06T16:42:00"
-    },
     "IN-24-03174": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2390,11 +2319,18 @@
                 "ID": "98188",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Wai Yip Street (both bounds) near Hoi Yuen Road roundabout is closed to all traffic.   Besides, the fast lane of Wai Yip Street (both bounds) between Hoi Yuen Road roundabout and Kei Yip Street is also closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因緊急路面維修，偉業街(來回方向)近開源道迴旋處的部份行車線現已封閉。  同時，偉業街(來回方向)介乎開源道迴旋處與基業街之間的快線亦現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-06-09T16:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98222",
+                "CONTENT_EN": "The following road sections which were closed due to emergency repair of road surface are reopened to all traffic:\n- part of the lanes of the roundabout between Hoi Yuen Road and Wai Yip Street; and\n- the fast lanes of Wai Yip Street (both bounds) between Hoi Yuen Road and Kei Yip Street.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的以下路段現已解封:\n-介乎開源道及偉業街之間的迴旋處的部份行車線;及\n-偉業街(來回方向)介乎開源道與基業街之間的快線。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-06-08T16:22:33",
-        "last_announcement": "2024-06-08T15:50:00"
+        "last_update": "2024-06-09T16:59:27",
+        "last_announcement": "2024-06-09T16:48:00"
     },
     "IN-24-03234": {
         "description": {
