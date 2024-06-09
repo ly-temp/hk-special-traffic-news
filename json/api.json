@@ -84,38 +84,6 @@
         "last_update": "2024-06-07T09:23:33",
         "last_announcement": "2024-06-07T08:30:00"
     },
-    "IN-24-03183": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Aberdeen Tunnel",
-            "LOCATION_CN": "香港仔隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen",
-            "DIRECTION_CN": "香港仔",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-07T07:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98074",
-                "CONTENT_EN": "Aberdeen Tunnel (Aberdeen bound) is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "香港仔隧道(往香港仔方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-06-07T07:47:21",
-        "last_announcement": "2024-06-07T07:32:00"
-    },
     "IN-24-03184": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
