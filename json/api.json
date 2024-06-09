@@ -38,45 +38,6 @@
         "last_update": "2024-06-07T11:11:29",
         "last_announcement": "2024-06-07T10:44:00"
     },
-    "IN-24-03178": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "West Kowloon Highway",
-            "LOCATION_CN": "西九龍公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Olympic MTR Station",
-            "NEAR_LANDMARK_CN": "奧運港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-06T19:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98062",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of West Kowloon Highway (Kwai Chung bound) near Olympic MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，西九龍公路(往葵涌方向)近奧運港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-06T20:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98063",
-                "CONTENT_EN": "Part of the lanes of West Kowloon Highway (Kwai Chung bound) near Olympic MTR Station which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的西九龍公路(往葵涌方向)近奧運港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-06T20:23:38",
-        "last_announcement": "2024-06-06T20:02:00"
-    },
     "IN-24-03179": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2661,5 +2622,37 @@
         "district": "黃大仙區",
         "last_update": "2024-06-09T15:11:15",
         "last_announcement": "2024-06-09T14:51:00"
+    },
+    "IN-24-03248": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Junction Road",
+            "LOCATION_CN": "聯合道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Kam Shing Road Recreation Ground",
+            "NEAR_LANDMARK_CN": "金城道遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-09T20:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98223",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Junction Road (both bounds) near Kam Shing Road Recreation Ground are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，聯合道(來回方向)近金城道遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-06-09T20:34:17",
+        "last_announcement": "2024-06-09T20:18:00"
     }
 }
