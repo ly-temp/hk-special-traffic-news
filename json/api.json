@@ -1,121 +1,4 @@
 {
-    "IN-24-03195": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Cheung Tsing Highway",
-            "LOCATION_CN": "長青公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Kam Chuk Kok",
-            "NEAR_LANDMARK_CN": "金竹角",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-07T10:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98103",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Tsing Highway (Kowloon bound) near Kam Chuk Kok is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，長青公路(往九龍方向)近金竹角的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-07T11:57:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98110",
-                "CONTENT_EN": "Part of the lanes of Cheung Tsing Highway (Kowloon bound) near Kam Chuk Kok which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的長青公路(往九龍方向)近金竹角的部份行車線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-06-07T12:25:08",
-        "last_announcement": "2024-06-07T11:57:00"
-    },
-    "IN-24-03196": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lei Yue Mun Road",
-            "LOCATION_CN": "鯉魚門道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kai Tin Road",
-            "NEAR_LANDMARK_CN": "啟田道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-07T11:16:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98106",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lei Yue Mun Road (Yau Tong bound) near Kai Tin Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，鯉魚門道(往油塘方向)近啟田道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-07T11:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98108",
-                "CONTENT_EN": "The slow lane of Lei Yue Mun Road (Yau Tong bound) near Kai Tin Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的鯉魚門道(往油塘方向)近啟田道的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-07T11:59:58",
-        "last_announcement": "2024-06-07T11:49:00"
-    },
-    "IN-24-03197": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road West",
-            "LOCATION_CN": "太子道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Earl Street",
-            "NEAR_LANDMARK_CN": "伯爵街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-07T11:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98107",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road West (Mong Kok bound) near Earl Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，太子道西(往旺角方向)近伯爵街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-07T12:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98113",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road West (Mong Kok bound) near Earl Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道西(往旺角方向)近伯爵街的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-06-07T12:25:08",
-        "last_announcement": "2024-06-07T12:07:00"
-    },
     "IN-24-03198": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2069,5 +1952,44 @@
         "district": "南區",
         "last_update": "2024-06-10T11:10:16",
         "last_announcement": "2024-06-10T10:51:00"
+    },
+    "IN-24-03250": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Animal Found",
+            "INCIDENT_DETAIL_CN": "發現動物",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Lake Egret Nature Park",
+            "NEAR_LANDMARK_CN": "白鷺湖互動中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-10T11:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98228",
+                "CONTENT_EN": "Due to animal found , part of the lanes of Tolo Highway (Kowloon bound) near Lake Egret Nature Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因發現動物，吐露港公路(往九龍方向)近白鷺湖互動中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-10T12:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98229",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Lake Egret Nature Park which was closed due to animal found is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因發現動物而封閉的吐露港公路(往九龍方向)近白鷺湖互動中心的部份行車線現已解封。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-06-10T12:26:43",
+        "last_announcement": "2024-06-10T12:06:00"
     }
 }
