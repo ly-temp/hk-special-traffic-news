@@ -1,43 +1,4 @@
 {
-    "IN-24-03219": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Kak Tin Village",
-            "NEAR_LANDMARK_CN": "隔田村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-08T07:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98156",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Kak Tin Village is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近隔田村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-08T07:47:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98157",
-                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Kak Tin Village which was closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近隔田村的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-08T08:30:11",
-        "last_announcement": "2024-06-08T07:47:00"
-    },
     "IN-24-03220": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -83,52 +44,6 @@
         "district": "屯門區",
         "last_update": "2024-06-08T09:41:53",
         "last_announcement": "2024-06-08T08:52:00"
-    },
-    "IN-24-03221": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-08T08:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98159",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. \nOnly remaining lanes are available to motorists.   The lower deck of Lantau Link (Airport bound) has been opened.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  青嶼幹線下層(往機場方向)現已開放。  現時上址交通繁忙。"
-            },
-            "2024-06-08T08:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98160",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is still being closed to all traffic. Only remaining lane is available to motorists. The lower deck of Lantau Link (Airport bound) has been opened. Traffic queue on Lantau Link (Tsing Ma Bridge) (Airport bound) ends at North West Tsing Yi Interchange near Tsing Yi Administration Building. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 青嶼幹線下層(往機場方向)現已開放。 現時在青嶼幹線(青馬大橋)(往機場方向)的車龍龍尾已到青衣西北交匯處近青衣行政大樓。 現時上址交通擠塞。"
-            },
-            "2024-06-08T08:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98161",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is still being closed to all traffic. Only remaining lanes are available to motorists. The lower deck of Lantau Link (Airport bound) has been opened. Traffic queue on Lantau Link (Tsing Ma Bridge) (Airport bound) ends at Cheung Tsing Highway near Kam Chuk Kok. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 青嶼幹線下層(往機場方向)現已開放。 現時在青嶼幹線(青馬大橋)(往機場方向)的車龍龍尾已到長青公路近金竹角。 現時上址交通擠塞。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-08T08:30:11",
-        "last_announcement": "2024-06-08T08:21:00"
     },
     "IN-24-03222": {
         "description": {
@@ -1521,10 +1436,17 @@
                 "ID": "98249",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Tuen Mun Road Bus-Bus Interchange. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近深井的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近屯門公路巴士轉乘站。 現時上址交通擠塞。"
+            },
+            "2024-06-11T08:01:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98250",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-06-11T07:50:52",
-        "last_announcement": "2024-06-11T07:38:00"
+        "last_update": "2024-06-11T08:32:04",
+        "last_announcement": "2024-06-11T08:01:00"
     }
 }
