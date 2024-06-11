@@ -116,45 +116,6 @@
         "last_update": "2024-06-09T09:39:31",
         "last_announcement": "2024-06-09T07:53:00"
     },
-    "IN-24-03228": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Leighton Road",
-            "LOCATION_CN": "禮頓道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tin Hau",
-            "DIRECTION_CN": "天后",
-            "NEAR_LANDMARK_EN": "Percival Street",
-            "NEAR_LANDMARK_CN": "波斯富街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-08T12:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98177",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes at the junction of Leighton Road (Tin Hau bound) and Percival Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，禮頓道(往天后方向)與波斯富街交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-06-08T12:52:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98179",
-                "CONTENT_EN": "Part of the lanes at the junction of Leighton Road (Tin Hau bound) and Percival Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的禮頓道(往天后方向)與波斯富街的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-06-08T13:12:59",
-        "last_announcement": "2024-06-08T12:52:00"
-    },
     "IN-24-03229": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
