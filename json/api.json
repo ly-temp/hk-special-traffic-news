@@ -38,45 +38,6 @@
         "last_update": "2024-06-09T13:03:13",
         "last_announcement": "2024-06-09T12:44:00"
     },
-    "IN-24-03226": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "West Kowloon Highway",
-            "LOCATION_CN": "西九龍公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Olympic MTR Station",
-            "NEAR_LANDMARK_CN": "奧運港鐵站",
-            "BETWEEN_LANDMARK_EN": "Lai Chi Kok Park",
-            "BETWEEN_LANDMARK_CN": "荔枝角公園",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-08T10:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98174",
-                "CONTENT_EN": "Due to emergency repair of road surface , the fast lane of West Kowloon Highway (Kwai Chung bound) between Olympic MTR Station and Lai Chi Kok Park is closed to all traffic. Only remaining lanes is available to motorists.",
-                "CONTENT_CN": "因緊急路面維修，西九龍公路(往葵涌方向)介乎奧運港鐵站與荔枝角公園之間的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-06-08T14:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98183",
-                "CONTENT_EN": "The fast lane of West Kowloon Highway (Kwai Chung bound) between Olympic MTR Station and Lai Chi Kok Park which was closed due to emergency repairing works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急維修而封閉的西九龍公路(往葵涌方向)介乎奧運港鐵站與荔枝角公園之間的快線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-08T14:58:41",
-        "last_announcement": "2024-06-08T14:46:00"
-    },
     "IN-24-03227": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
