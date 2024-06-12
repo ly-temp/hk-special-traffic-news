@@ -1,43 +1,4 @@
 {
-    "IN-24-03233": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Wai Yip Street",
-            "LOCATION_CN": "偉業街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Hoi Yuen Road roundabout",
-            "NEAR_LANDMARK_CN": "開源道迴旋處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-08T15:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98188",
-                "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Wai Yip Street (both bounds) near Hoi Yuen Road roundabout is closed to all traffic.   Besides, the fast lane of Wai Yip Street (both bounds) between Hoi Yuen Road roundabout and Kei Yip Street is also closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因緊急路面維修，偉業街(來回方向)近開源道迴旋處的部份行車線現已封閉。  同時，偉業街(來回方向)介乎開源道迴旋處與基業街之間的快線亦現已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-06-09T16:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98222",
-                "CONTENT_EN": "The following road sections which were closed due to emergency repair of road surface are reopened to all traffic:\n- part of the lanes of the roundabout between Hoi Yuen Road and Wai Yip Street; and\n- the fast lanes of Wai Yip Street (both bounds) between Hoi Yuen Road and Kei Yip Street.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的以下路段現已解封:\n-介乎開源道及偉業街之間的迴旋處的部份行車線;及\n-偉業街(來回方向)介乎開源道與基業街之間的快線。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-09T16:59:27",
-        "last_announcement": "2024-06-09T16:48:00"
-    },
     "IN-24-03241": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1571,11 +1532,18 @@
                 "ID": "98338",
                 "CONTENT_EN": "Due to emergency repair of road surface , the one-lane-two-way traffic arrangement is being implemented on Hiram's Highway near Pak Kong Road. Traffic is busy now.",
                 "CONTENT_CN": "因緊急路面維修，西貢公路近北港路現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2024-06-12T16:45:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98352",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Hiram's Highway near Pak Kong Road due to emergency repair of road surface is now cancelled.",
+                "CONTENT_CN": "較早前因緊急路面維修而於西貢公路近北港路實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "西貢區",
-        "last_update": "2024-06-12T13:51:10",
-        "last_announcement": "2024-06-12T13:37:00"
+        "last_update": "2024-06-12T17:10:35",
+        "last_announcement": "2024-06-12T16:45:00"
     },
     "IN-24-03299": {
         "description": {
@@ -1828,5 +1796,69 @@
         "district": "觀塘區",
         "last_update": "2024-06-12T16:52:31",
         "last_announcement": "2024-06-12T16:34:00"
+    },
+    "IN-24-03307": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Tin Hau Road",
+            "LOCATION_CN": "天后路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Yip Wong Road",
+            "NEAR_LANDMARK_CN": "業旺路",
+            "BETWEEN_LANDMARK_EN": "Hung Cheung Road",
+            "BETWEEN_LANDMARK_CN": "洪祥路",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-12T16:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98353",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Tin Hau Road  between Yip Wong Road and Hung Cheung Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，天后路介乎業旺路與洪祥路之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-12T17:10:35",
+        "last_announcement": "2024-06-12T16:49:00"
+    },
+    "IN-24-03308": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Chung",
+            "DIRECTION_CN": "葵涌",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
+            "NEAR_LANDMARK_CN": "龍翔道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-12T17:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98355",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwai Chung bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往葵涌方向)近龍翔道公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-06-12T17:10:35",
+        "last_announcement": "2024-06-12T17:00:00"
     }
 }
