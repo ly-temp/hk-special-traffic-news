@@ -1901,11 +1901,18 @@
                 "ID": "98356",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Sheung Shui bound) near Tai Po Kau is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，吐露港公路(往上水方向)近大埔滘的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-12T17:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98364",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Sheung Shui bound) near Tai Po Kau which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往上水方向)近大埔滘的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-06-12T17:36:28",
-        "last_announcement": "2024-06-12T17:13:00"
+        "last_update": "2024-06-12T18:17:53",
+        "last_announcement": "2024-06-12T17:55:00"
     },
     "IN-24-03310": {
         "description": {
@@ -1965,10 +1972,17 @@
                 "ID": "98363",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Lion Rock Tunnel Office (Transport Department) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近運輸署獅子山隧道辦事處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-12T17:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98365",
+                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Lion Rock Tunnel Office (Transport Department) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近運輸署獅子山隧道辦事處的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-06-12T17:56:34",
-        "last_announcement": "2024-06-12T17:47:00"
+        "last_update": "2024-06-12T18:17:53",
+        "last_announcement": "2024-06-12T17:59:00"
     }
 }
