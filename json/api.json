@@ -2291,11 +2291,18 @@
                 "ID": "98385",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Ching Cheung Road (Kwai Chung bound) near Caritas Medical Centre is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Kwai Chung bound) ends at Lung Cheung Road near Lung Cheung Road Lookout. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，呈祥道(往葵涌方向)近明愛醫院的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往葵涌方向)的車龍龍尾已到龍翔道近龍翔道眺望處。 現時上址交通擠塞。"
+            },
+            "2024-06-13T10:05:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98395",
+                "CONTENT_EN": "The slow lane of Ching Cheung Road (Kwai Chung bound) near Caritas Medical Centre which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往葵涌方向)近明愛醫院的慢線現已解封。 車龍有待消散。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-06-13T09:22:19",
-        "last_announcement": "2024-06-13T08:36:00"
+        "last_update": "2024-06-13T10:39:26",
+        "last_announcement": "2024-06-13T10:05:00"
     },
     "IN-24-03321": {
         "description": {
@@ -2408,11 +2415,18 @@
                 "ID": "98393",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Hong Chong Road (Cross Harbour Tunnel bound) ends at Princess Margaret Road near Pui Ching Road. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，康莊道(往海底隧道方向)近香港理工大學的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在康莊道(往海底隧道方向)的車龍龍尾已到公主道近培正道。 現時上址交通擠塞。"
+            },
+            "2024-06-13T10:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98397",
+                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的康莊道(往海底隧道方向)近香港理工大學的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-06-13T10:10:24",
-        "last_announcement": "2024-06-13T09:43:00"
+        "last_update": "2024-06-13T10:39:26",
+        "last_announcement": "2024-06-13T10:30:00"
     },
     "IN-24-03324": {
         "description": {
@@ -2452,5 +2466,37 @@
         "district": "九龍城區",
         "last_update": "2024-06-13T10:10:24",
         "last_announcement": "2024-06-13T09:26:00"
+    },
+    "IN-24-03325": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Scenic Hill Tunnel",
+            "LOCATION_CN": "觀景山隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Zhuhai",
+            "DIRECTION_CN": "珠海",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-13T10:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98396",
+                "CONTENT_EN": "Due to emergency repairing works , the tunnel tube slow lane of Scenic Hill Tunnel (Zhuhai bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，觀景山隧道(往珠海方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-13T10:39:26",
+        "last_announcement": "2024-06-13T10:10:00"
     }
 }
