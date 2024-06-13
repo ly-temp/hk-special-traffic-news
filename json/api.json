@@ -1578,11 +1578,18 @@
                 "ID": "98344",
                 "CONTENT_EN": "Due to watermain emergency works , the slow lane of Sai Yee Street (Boundary Street bound) near Nelson Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，洗衣街(往界限街方向)近奶路臣街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-13T15:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98416",
+                "CONTENT_EN": "The slow lane of Sai Yee Street (Boundary Street bound) near Nelson Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的洗衣街(往界限街方向)近奶路臣街的慢線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-06-12T15:22:58",
-        "last_announcement": "2024-06-12T15:18:00"
+        "last_update": "2024-06-13T16:16:58",
+        "last_announcement": "2024-06-13T15:48:00"
     },
     "IN-24-03303": {
         "description": {
@@ -2714,5 +2721,37 @@
         "district": "黃大仙區",
         "last_update": "2024-06-13T15:54:34",
         "last_announcement": "2024-06-13T15:37:00"
+    },
+    "IN-24-03333": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwai Fuk Road",
+            "LOCATION_CN": "葵福路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-13T16:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98417",
+                "CONTENT_EN": "Part of the lanes of Kwai Fuk Road Roundabout  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的葵福路迴旋處的部份行車線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-06-13T16:16:58",
+        "last_announcement": "2024-06-13T16:08:00"
     }
 }
