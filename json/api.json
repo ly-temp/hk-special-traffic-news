@@ -2867,5 +2867,37 @@
         "district": "荃灣區",
         "last_update": "2024-06-14T14:51:23",
         "last_announcement": "2024-06-14T14:31:00"
+    },
+    "IN-24-03354": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "W.S.D. Kowloon West Regional Building",
+            "NEAR_LANDMARK_CN": "水務署九龍西區大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-14T14:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98472",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of West Kowloon Corridor (Tsuen Wan bound) near W. S. D. Kowloon West Regional Building is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，西九龍走廊(往荃灣方向)近水務署九龍西區大樓的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-06-14T15:08:08",
+        "last_announcement": "2024-06-14T14:56:00"
     }
 }
