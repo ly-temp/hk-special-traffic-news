@@ -1,160 +1,4 @@
 {
-    "IN-24-03260": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Harrow International School Hong Kong",
-            "NEAR_LANDMARK_CN": "哈羅香港國際學校",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-11T09:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98252",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Harrow International School Hong Kong is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近哈羅香港國際學校的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-11T09:12:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98254",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Harrow International School Hong Kong which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近哈羅香港國際學校的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-11T10:24:01",
-        "last_announcement": "2024-06-11T09:12:00"
-    },
-    "IN-24-03261": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "West Kowloon Corridor",
-            "LOCATION_CN": "西九龍走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Banyan Garden",
-            "NEAR_LANDMARK_CN": "泓景臺",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-11T09:17:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98255",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of West Kowloon Corridor (Mong Kok bound) near Banyan Garden is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，西九龍走廊(往旺角方向)近泓景臺的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-11T09:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98258",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of West Kowloon Corridor (Mong Kok bound) near Banyan Garden is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on West Kowloon Corridor (Mong Kok bound) ends at Tsing Kwai Highway near Lai King MTR Station. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，西九龍走廊(往旺角方向)近泓景臺的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在西九龍走廊(往旺角方向)的車龍龍尾已到青葵公路近荔景港鐵站。 現時上址交通擠塞。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-06-11T10:24:01",
-        "last_announcement": "2024-06-11T09:44:00"
-    },
-    "IN-24-03262": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yiu Sing Street",
-            "LOCATION_CN": "耀星街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Admiralty",
-            "DIRECTION_CN": "金鐘",
-            "NEAR_LANDMARK_EN": "Lung Wo Road",
-            "NEAR_LANDMARK_CN": "龍和道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-11T09:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98256",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Yiu Sing Street (Admiralty bound) near Lung Wo Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，耀星街(往金鐘方向)近龍和道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-11T09:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98257",
-                "CONTENT_EN": "The slow lane of Yiu Sing Street (Admiralty bound) near Lung Wo Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的耀星街(往金鐘方向)近龍和道的慢線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-06-11T10:24:01",
-        "last_announcement": "2024-06-11T09:38:00"
-    },
-    "IN-24-03263": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Butterfly Valley Road",
-            "LOCATION_CN": "蝴蝶谷道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cheung Sha Wan Road",
-            "DIRECTION_CN": "長沙灣道",
-            "NEAR_LANDMARK_EN": "Castle Peak Road",
-            "NEAR_LANDMARK_CN": "青山道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-11T09:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98259",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Butterfly Valley Road (Cheung Sha Wan Road bound) near Castle Peak Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，蝴蝶谷道(往長沙灣道方向)近青山道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-11T10:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98260",
-                "CONTENT_EN": "Part of the lanes of Butterfly Valley Road (Cheung Sha Wan Road bound) near Castle Peak Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的蝴蝶谷道(往長沙灣道方向)近青山道的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-06-11T10:24:01",
-        "last_announcement": "2024-06-11T10:00:00"
-    },
     "IN-24-03264": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2777,11 +2621,18 @@
                 "ID": "98443",
                 "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2024-06-14T10:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98445",
+                "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2024-06-14T10:06:02",
-        "last_announcement": "2024-06-14T09:25:00"
+        "last_update": "2024-06-14T10:37:34",
+        "last_announcement": "2024-06-14T10:00:00"
     },
     "IN-24-03344": {
         "description": {
@@ -2809,10 +2660,49 @@
                 "ID": "98444",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of San Tin Highway (Sheung Shui bound) near Palm Springs is closed to all traffic. Only remaining lanes are available to motorists. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，新田公路(往上水方向)近加州花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-06-14T10:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98447",
+                "CONTENT_EN": "Part of the lanes of San Tin Highway (Sheung Shui bound) near Palm Springs which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往上水方向)近加州花園的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-06-14T10:06:02",
-        "last_announcement": "2024-06-14T09:40:00"
+        "last_update": "2024-06-14T10:37:34",
+        "last_announcement": "2024-06-14T10:14:00"
+    },
+    "IN-24-02420": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Yiu Hing Road",
+            "LOCATION_CN": "耀興道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-14T10:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98446",
+                "CONTENT_EN": "Due to inclement weather and while the emergency slope repair works are still in progress, the only lane of Yiu Hing Road between Yiu Kwai House, Yiu Tung Estate and Yiu Hing House, Yiu Tung Estate is closed to all traffic. Motorists are advised to use alternative routes. Eastbound franchised bus and green minibus services will be diverted as follow: - Citybus route nos. 77, 99, 720X and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street, Tai Lok Street and Shau Kei Wan Road eastbound before resuming its original routeing; while Green Minibus route no. 50 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street and Tai Lok Street before resuming its original routeing. Westbound franchised bus and green minibus services will be diverted as follow: - Citybus route nos. 77, 82S, 99 and N8, Cross Harbour route nos. 110 and 606 departures that after Shau Kei Wan Road westbound near Sun Sing Street will be diverted via Shau Kei Wan Road westbound, Tai Hong Street, Lei King Road, Tai On Street, Shing On Street, Yiu Hing Road eastbound, Yiu Tung Estate Bus Terminus and Yiu Hing Road westbound before resuming its original routeing; while Green Minibus route no. 65 departures that after Shau Kei Wan Road westbound near Nam Hong Street will be diverted via Nam Hong Street, Yiu Hing Road westbound, Sun Sing Street, Sai Wan Ho Street, Shing On Street and Yiu Hing Road eastbound, before resuming its original routeing.",
+                "CONTENT_CN": "因受惡劣天氣影響及緊急斜坡復修工程仍在進行中，耀興道介乎耀東邨耀貴樓與耀東邨耀興樓之間的唯一行車線現已封閉。駕駛人士請考慮改用其他道路。 往東行方向的巴士及小巴路線須改道如下: -城巴第77、99、720X及N8號線、過海巴士第110及606號線及專線小巴第65號線須改道行駛，路線途經耀東邨巴士總站後，會改經耀興道西行、惠亨街、太樂街及筲箕灣道東行，然後返回原有路線；至於專線小巴第50號線在途經耀東邨巴士總站後，則會改經耀興道西行、惠亨街及太樂街，然後返回原有路線。 往西行方向的巴士及小巴路線須改道如下: -城巴第77、82S、99及N8號線、過海巴士第110及606號線須改道行駛，路線途經筲箕灣道西行近新成街後，巴士會改經筲箕灣道西行、太康街、鯉景道、太安街、成安街、耀興道東行、耀東邨巴士總站及耀興道西行，然後返回原有路線；至於專線小巴第65號線在途經筲箕灣道西行近南康街後，小巴會改經南康街、耀興道西行、新成街、西灣河街、成安街及耀興道東行，然後返回原有路線。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-06-14T10:37:34",
+        "last_announcement": "2024-06-14T10:00:00"
     }
 }
