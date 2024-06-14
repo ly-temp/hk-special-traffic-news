@@ -2596,11 +2596,18 @@
                 "ID": "98446",
                 "CONTENT_EN": "Due to inclement weather and while the emergency slope repair works are still in progress, the only lane of Yiu Hing Road between Yiu Kwai House, Yiu Tung Estate and Yiu Hing House, Yiu Tung Estate is closed to all traffic. Motorists are advised to use alternative routes. Eastbound franchised bus and green minibus services will be diverted as follow: - Citybus route nos. 77, 99, 720X and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street, Tai Lok Street and Shau Kei Wan Road eastbound before resuming its original routeing; while Green Minibus route no. 50 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street and Tai Lok Street before resuming its original routeing. Westbound franchised bus and green minibus services will be diverted as follow: - Citybus route nos. 77, 82S, 99 and N8, Cross Harbour route nos. 110 and 606 departures that after Shau Kei Wan Road westbound near Sun Sing Street will be diverted via Shau Kei Wan Road westbound, Tai Hong Street, Lei King Road, Tai On Street, Shing On Street, Yiu Hing Road eastbound, Yiu Tung Estate Bus Terminus and Yiu Hing Road westbound before resuming its original routeing; while Green Minibus route no. 65 departures that after Shau Kei Wan Road westbound near Nam Hong Street will be diverted via Nam Hong Street, Yiu Hing Road westbound, Sun Sing Street, Sai Wan Ho Street, Shing On Street and Yiu Hing Road eastbound, before resuming its original routeing.",
                 "CONTENT_CN": "因受惡劣天氣影響及緊急斜坡復修工程仍在進行中，耀興道介乎耀東邨耀貴樓與耀東邨耀興樓之間的唯一行車線現已封閉。駕駛人士請考慮改用其他道路。 往東行方向的巴士及小巴路線須改道如下: -城巴第77、99、720X及N8號線、過海巴士第110及606號線及專線小巴第65號線須改道行駛，路線途經耀東邨巴士總站後，會改經耀興道西行、惠亨街、太樂街及筲箕灣道東行，然後返回原有路線；至於專線小巴第50號線在途經耀東邨巴士總站後，則會改經耀興道西行、惠亨街及太樂街，然後返回原有路線。 往西行方向的巴士及小巴路線須改道如下: -城巴第77、82S、99及N8號線、過海巴士第110及606號線須改道行駛，路線途經筲箕灣道西行近新成街後，巴士會改經筲箕灣道西行、太康街、鯉景道、太安街、成安街、耀興道東行、耀東邨巴士總站及耀興道西行，然後返回原有路線；至於專線小巴第65號線在途經筲箕灣道西行近南康街後，小巴會改經南康街、耀興道西行、新成街、西灣河街、成安街及耀興道東行，然後返回原有路線。"
+            },
+            "2024-06-14T12:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98461",
+                "CONTENT_EN": "The only lane of Yiu Hing Road (westbound) between Yiu Kwai House, Yiu Tung Estate and Yiu Hing House, Yiu Tung Estate which was closed due to inclement weather is re-opened to all traffic. However, the rehabilitation works is still underway, the eastbound traffic lane of the concerned road section remains temporarily closed to all vehicular traffic. Eastbound services of franchised bus and green minibus services are diverted as follow: - Citybus route nos. 77, 99, 720X and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65, after passing by Yiu Tung Estate Bus Terminus, are diverted via Yiu Hing Road westbound, Wai Hang Street, Tai Lok Street and Shau Kei Wan Road eastbound before resuming their original routeings. Green Minibus route no. 50, after passing by Yiu Tung Estate Bus Terminus, is diverted via Yiu Hing Road westbound, Wai Hang Street and Tai Lok Street before resuming its original routeing. Westbound services of Citybus route nos. 77, 82S, 99 and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 have resumed their original routeings via Yiu Hing Road westbound.",
+                "CONTENT_CN": "較早前因受惡劣天氣影響而封閉的耀興道(西行)介乎耀東邨耀貴樓與耀東邨耀興樓之間的唯一行車線現已解封。 惟因修復工程仍在進行中，該路段東行方向的行車線仍然暫時封閉。 往東行方向的巴士及小巴路線須改道如下: -城巴第77、99、720X及N8號線、過海巴士第110及606號線及專線小巴第65號線在途經耀東邨巴士總站後，須改經耀興道西行、惠亨街、太樂街及筲箕灣道東行，然後返回原有路線。專線小巴第50號線在途經耀東邨巴士總站後，則會改經耀興道西行、惠亨街及太樂街，然後返回原有路線。 往西行方向的城巴第77、82S、99及N8號線、過海巴士第110及606號線及專線小巴第65號，則恢復行經耀興道西行的原有路線。"
             }
         },
         "district": "東區",
-        "last_update": "2024-06-14T10:37:34",
-        "last_announcement": "2024-06-14T10:00:00"
+        "last_update": "2024-06-14T12:31:30",
+        "last_announcement": "2024-06-14T12:19:00"
     },
     "IN-24-03345": {
         "description": {
@@ -2757,5 +2764,37 @@
         "district": "大埔區",
         "last_update": "2024-06-14T11:44:21",
         "last_announcement": "2024-06-14T11:30:00"
+    },
+    "IN-24-03349": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tate's Cairn Tunnel",
+            "DIRECTION_CN": "大老山隧道",
+            "NEAR_LANDMARK_EN": "Kowloonbay International Trade  Exhibition Centre",
+            "NEAR_LANDMARK_CN": "九龍灣國際展貿中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-14T12:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98459",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Kowloonbay International Trade amp; Exhibition Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往大老山隧道方向)近九龍灣國際展貿中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-14T12:31:30",
+        "last_announcement": "2024-06-14T12:09:00"
     }
 }
