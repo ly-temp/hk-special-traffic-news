@@ -2863,5 +2863,37 @@
         "district": null,
         "last_update": "2024-06-15T06:19:43",
         "last_announcement": "2024-06-15T06:00:00"
+    },
+    "IN-24-03363": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "May Road",
+            "LOCATION_CN": "梅道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "5 May Road",
+            "NEAR_LANDMARK_CN": "梅道5號",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-15T06:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98492",
+                "CONTENT_EN": "Due to fallen tree , all lanes of May Road (both bounds) near 5 May Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，梅道(來回方向)近梅道5號的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-06-15T06:31:30",
+        "last_announcement": "2024-06-15T06:11:00"
     }
 }
