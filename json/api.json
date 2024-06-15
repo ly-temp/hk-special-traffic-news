@@ -3021,11 +3021,18 @@
                 "ID": "98551",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Tsing Tin Interchange (Tuen Mun Road (Kowloon) bound) near Tsing Tin Road are closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青田交匯處(往屯門公路(九龍)方向)近青田路的全線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-06-15T19:52:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98560",
+                "CONTENT_EN": "All lanes of Tsing Tin Interchange (Tuen Mun Road bound) near Tsing Tin Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青田交匯處(往屯門公路方向)近青田路的全線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-06-15T19:27:44",
-        "last_announcement": "2024-06-15T19:16:00"
+        "last_update": "2024-06-15T20:36:05",
+        "last_announcement": "2024-06-15T19:52:00"
     },
     "IN-24-03394": {
         "description": {
@@ -3053,11 +3060,18 @@
                 "ID": "98555",
                 "CONTENT_EN": "Due to flooding , all lanes of Sha Tau Kok Road - Wo Hang (both bounds) near Loi Tung are closed to all traffic.   Service of KMB Route Nos. 78K and 277A have been affected.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因水浸，沙頭角公路　－　禾坑段(來回方向)近萊洞的全線現已封閉。  九巴78K及277A(往沙頭角方向)的服務受影響。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-06-15T20:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98562",
+                "CONTENT_EN": "All lanes of Sha Tau Kok Road - Wo Hang (both bounds) near Loi Tung which were closed due to flooding are re-opened to all traffic. Affected bus routes resume normal operation.",
+                "CONTENT_CN": "較早前因水浸而封閉的沙頭角公路　－　禾坑段(來回方向)近萊洞的全線現已解封。 受影響巴士服務回復正常運作。"
             }
         },
         "district": "北區",
-        "last_update": "2024-06-15T19:48:03",
-        "last_announcement": "2024-06-15T19:35:00"
+        "last_update": "2024-06-15T20:36:05",
+        "last_announcement": "2024-06-15T20:14:00"
     },
     "IN-24-03391": {
         "description": {
@@ -3090,5 +3104,37 @@
         "district": "大埔區",
         "last_update": "2024-06-15T19:58:30",
         "last_announcement": "2024-06-15T19:47:00"
+    },
+    "IN-24-03388": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-15T19:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98559",
+                "CONTENT_EN": "Stonecutters Bridge:  The temporary speed limit arrangement which was implemented before in the Stonecutters Bridge is cancelled.   Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
+                "CONTENT_CN": "昂船洲大橋：。  較早前於昂船洲大橋實施的臨時車速限制措施現已取消。  市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-06-15T20:36:05",
+        "last_announcement": "2024-06-15T19:51:00"
     }
 }
