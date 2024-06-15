@@ -2826,11 +2826,18 @@
                 "ID": "98490",
                 "CONTENT_EN": "Due to emergency repair of road surface , all lanes of the slip road leading from Chek Lap Kok Road (East bound) to Shun Fai Road (West bound) are closed to all traffic. Affected bus routes have been diverted. Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因緊急路面維修，由赤鱲角路(東行)通往順暉路(西行)的支路的全線現已封閉。 受影響巴士路線須改道行駛。 駕駛人士請考慮改用其他道路。"
+            },
+            "2024-06-15T08:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98503",
+                "CONTENT_EN": "All lanes of the slip road leading from Chek Lap Kok Road (East bound) to Shun Fai Road (West bound) which were closed due to emergency repair of road surface are re-opened to all traffic. Affected bus routes have resumed their original routeings.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的由赤鱲角路(東行)通往順暉路(西行)的支路的全線現已解封。 受影響巴士路線現已恢復原有路線行駛。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-06-14T21:54:42",
-        "last_announcement": "2024-06-14T21:16:00"
+        "last_update": "2024-06-15T09:16:46",
+        "last_announcement": "2024-06-15T08:30:00"
     },
     "IN-24-03362": {
         "description": {
@@ -3039,10 +3046,17 @@
                 "ID": "98497",
                 "CONTENT_EN": "Stonecutters Bridge: Due to strong wind, the following temporary traffic arrangements are implemented on Stonecutters Bridge: The middle lanes of Stonecutters Bridge are closed. Only fast and slow lanes are opened to traffic. Speed limit is reduced to 50km/h. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
                 "CONTENT_CN": "昂船洲大橋： 由於強風關係，昂船洲大橋已實施下列臨時交通措施： 昂船洲大橋的中線封閉，只餘快線及慢線開放予車輛行駛，車速限制降至每小時50公里。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
+            },
+            "2024-06-15T08:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98502",
+                "CONTENT_EN": "Stonecutters Bridge: The Middle lane closure and temporary speed limit arrangements which were implemented before in the Stonecutters Bridge are cancelled. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
+                "CONTENT_CN": "昂船洲大橋： 較早前於昂船洲大橋實施的中線封閉及臨時車速限制措施現已取消。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-06-15T07:24:20",
-        "last_announcement": "2024-06-15T07:06:00"
+        "last_update": "2024-06-15T09:16:46",
+        "last_announcement": "2024-06-15T08:19:00"
     }
 }
