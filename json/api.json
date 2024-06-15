@@ -3124,11 +3124,18 @@
                 "ID": "98530",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tate's Cairn Highway (Kwun Tong bound) near Choi Hung Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大老山公路(往觀塘方向)近彩虹邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-15T15:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98535",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tate's Cairn Highway (Kwun Tong bound) near Choi Hung Estate is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   At the same time, all lanes of the slip road leading from Kwun Tong Bypass (Kwun Tong bound) to Kwun Tong Road (Yau Tong bound) are closed to all traffic.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大老山公路(往觀塘方向)近彩虹邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  同時，由觀塘繞道(往觀塘方向)通往觀塘道(往油塘方向)的支路的全線現已封閉。  現時上址交通繁忙。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-06-15T14:58:22",
-        "last_announcement": "2024-06-15T14:43:00"
+        "last_update": "2024-06-15T16:27:04",
+        "last_announcement": "2024-06-15T15:59:00"
     },
     "IN-24-03382": {
         "description": {
@@ -3220,10 +3227,17 @@
                 "ID": "98533",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近天馬苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-15T16:02:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98536",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往觀塘方向)近天馬苑的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-06-15T16:07:58",
-        "last_announcement": "2024-06-15T15:45:00"
+        "last_update": "2024-06-15T16:27:04",
+        "last_announcement": "2024-06-15T16:02:00"
     }
 }
