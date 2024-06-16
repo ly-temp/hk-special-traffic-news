@@ -116,130 +116,6 @@
         "last_update": "2024-06-14T10:49:11",
         "last_announcement": "2024-06-14T10:37:00"
     },
-    "IN-24-03317": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Sha Highway",
-            "LOCATION_CN": "青沙公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": "Eagle's Nest Tunnel entrance",
-            "NEAR_LANDMARK_CN": "尖山隧道入口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-13T07:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98377",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Sha Highway (Sha Tin bound) near Eagle's Nest Tunnel entrance is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青沙公路(往沙田方向)近尖山隧道入口的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-13T08:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98381",
-                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Sha Tin bound) near Eagle's Nest Tunnel entrance which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青沙公路(往沙田方向)近尖山隧道入口的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-13T09:22:19",
-        "last_announcement": "2024-06-13T08:07:00"
-    },
-    "IN-24-03318": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hong Chong Road",
-            "LOCATION_CN": "康莊道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-13T07:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98378",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，康莊道(往海底隧道方向)近香港理工大學的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-13T07:55:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98379",
-                "CONTENT_EN": "The fast lane of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往海底隧道方向)近香港理工大學的快線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-13T09:22:19",
-        "last_announcement": "2024-06-13T07:55:00"
-    },
-    "IN-24-03319": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Po Lam Road",
-            "LOCATION_CN": "寶琳路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sau Mau Ping Road",
-            "DIRECTION_CN": "秀茂坪道",
-            "NEAR_LANDMARK_EN": "Po Tat Estate",
-            "NEAR_LANDMARK_CN": "寶達邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-13T08:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98380",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Lam Road (Sau Mau Ping Road bound) near Po Tat Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，寶琳路(往秀茂坪道方向)近寶達邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-13T08:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98384",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Lam Road (Sau Mau Ping Road bound) near Po Tat Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Po Lam Road (Sau Mau Ping Road bound) ends at Ma Yau Tong Village. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，寶琳路(往秀茂坪道方向)近寶達邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在寶琳路(往秀茂坪道方向)的車龍龍尾已到馬游塘村。 現時上址交通擠塞。"
-            },
-            "2024-06-13T08:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98387",
-                "CONTENT_EN": "Part of the lanes of Po Lam Road (Sau Mau Ping Road bound) near Po Tat Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的寶琳路(往秀茂坪道方向)近寶達邨的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-13T09:22:19",
-        "last_announcement": "2024-06-13T08:51:00"
-    },
     "IN-24-03320": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3170,10 +3046,88 @@
                 "ID": "98566",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of San Tin Highway (Yuen Long bound) near Palm Springs is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，新田公路(往元朗方向)近加州花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-16T09:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98571",
+                "CONTENT_EN": "Part of the lanes of San Tin Highway (Yuen Long bound) near Palm Springs which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往元朗方向)近加州花園的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-06-16T08:34:24",
-        "last_announcement": "2024-06-16T08:21:00"
+        "last_update": "2024-06-16T09:50:12",
+        "last_announcement": "2024-06-16T09:06:00"
+    },
+    "IN-24-03396": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "St. George Apartments",
+            "NEAR_LANDMARK_CN": "聖佐治大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-16T08:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98568",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near St. George Apartments is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近聖佐治大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-16T08:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98570",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near St. George Apartments which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近聖佐治大廈的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-06-16T09:50:12",
+        "last_announcement": "2024-06-16T08:58:00"
+    },
+    "IN-24-03397": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Fan Kam Road",
+            "LOCATION_CN": "粉錦公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Lin Tong Mei",
+            "NEAR_LANDMARK_CN": "蓮塘尾",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-16T09:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98572",
+                "CONTENT_EN": "Due to fallen tree , all lanes of Fan Kam Road (both bounds) near Lin Tong Mei are closed to all traffic. Affected KMB bus route no. 77K has been diverted. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，粉錦公路(來回方向)近蓮塘尾的全線現已封閉。 受影響九巴巴士第77K號線須改道行駛。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-06-16T09:50:12",
+        "last_announcement": "2024-06-16T09:31:00"
     }
 }
