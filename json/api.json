@@ -1,43 +1,4 @@
 {
-    "IN-24-03307": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Tin Hau Road",
-            "LOCATION_CN": "天后路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Yip Wong Road",
-            "NEAR_LANDMARK_CN": "業旺路",
-            "BETWEEN_LANDMARK_EN": "Hung Cheung Road",
-            "BETWEEN_LANDMARK_CN": "洪祥路",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-12T16:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98353",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Tin Hau Road  between Yip Wong Road and Hung Cheung Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，天后路介乎業旺路與洪祥路之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-06-14T10:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98449",
-                "CONTENT_EN": "All lanes of Tin Hau Road  between Yip Wong Road and Hung Cheung Road which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的天后路介乎業旺路與洪祥路之間的全線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-14T10:49:11",
-        "last_announcement": "2024-06-14T10:37:00"
-    },
     "IN-24-02420": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2652,11 +2613,18 @@
                 "ID": "98616",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Ning Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近康寧道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-17T10:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98623",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Ning Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近康寧道的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-06-17T10:40:52",
-        "last_announcement": "2024-06-17T10:15:00"
+        "last_update": "2024-06-17T10:52:09",
+        "last_announcement": "2024-06-17T10:39:00"
     },
     "IN-24-03415": {
         "description": {
@@ -2728,5 +2696,37 @@
         "district": "九龍城區",
         "last_update": "2024-06-17T10:40:52",
         "last_announcement": "2024-06-17T10:28:00"
+    },
+    "IN-24-03413": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lei Yue Mun Road",
+            "LOCATION_CN": "鯉魚門道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Kai Tin Road roundabout",
+            "NEAR_LANDMARK_CN": "啟田道迴旋處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-17T10:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98621",
+                "CONTENT_EN": "Part of the lanes of Lei Yue Mun Road  near Kai Tin Road roundabout which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的鯉魚門道近啟田道迴旋處的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-17T10:52:09",
+        "last_announcement": "2024-06-17T10:33:00"
     }
 }
