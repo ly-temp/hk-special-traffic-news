@@ -38,130 +38,6 @@
         "last_update": "2024-06-14T10:49:11",
         "last_announcement": "2024-06-14T10:37:00"
     },
-    "IN-24-03342": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Pok Oi Interchange",
-            "NEAR_LANDMARK_CN": "博愛交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-14T08:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98438",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Yuen Long Highway (Sheung Shui bound) near Pok Oi Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，元朗公路(往上水方向)近博愛交匯處的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-14T09:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98441",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Yuen Long Highway (Sheung Shui bound) near Pok Oi Interchange is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Yuen Long Highway (Sheung Shui bound) ends at Yuen Long Highway near Tong Yan San Tsuen Interchange. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，元朗公路(往上水方向)近博愛交匯處的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往上水方向)的車龍龍尾已到元朗公路近唐人新村交匯處。 現時上址交通擠塞。"
-            },
-            "2024-06-14T09:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98442",
-                "CONTENT_EN": "The fast lane of Yuen Long Highway (Sheung Shui bound) near Pok Oi Interchange which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往上水方向)近博愛交匯處的快線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-14T10:06:02",
-        "last_announcement": "2024-06-14T09:04:00"
-    },
-    "IN-24-03343": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Rainstorm Incident",
-            "INCIDENT_HEADING_CN": "暴雨事故",
-            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-14T09:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98443",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            },
-            "2024-06-14T10:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98445",
-                "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-06-14T10:37:34",
-        "last_announcement": "2024-06-14T10:00:00"
-    },
-    "IN-24-03344": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "San Tin Highway",
-            "LOCATION_CN": "新田公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Palm Springs",
-            "NEAR_LANDMARK_CN": "加州花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-14T09:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98444",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of San Tin Highway (Sheung Shui bound) near Palm Springs is closed to all traffic. Only remaining lanes are available to motorists. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，新田公路(往上水方向)近加州花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-06-14T10:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98447",
-                "CONTENT_EN": "Part of the lanes of San Tin Highway (Sheung Shui bound) near Palm Springs which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往上水方向)近加州花園的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-06-14T10:37:34",
-        "last_announcement": "2024-06-14T10:14:00"
-    },
     "IN-24-02420": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2705,10 +2581,152 @@
                 "ID": "98612",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-17T10:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98615",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-06-17T10:04:28",
-        "last_announcement": "2024-06-17T09:51:00"
+        "last_update": "2024-06-17T10:40:52",
+        "last_announcement": "2024-06-17T10:07:00"
+    },
+    "IN-24-03412": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Wo Che Estate",
+            "NEAR_LANDMARK_CN": "禾輋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-17T10:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98613",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近禾輋邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-17T10:40:52",
+        "last_announcement": "2024-06-17T10:00:00"
+    },
+    "IN-24-03414": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Hong Ning Road",
+            "NEAR_LANDMARK_CN": "康寧道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-17T10:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98616",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Ning Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近康寧道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-17T10:40:52",
+        "last_announcement": "2024-06-17T10:15:00"
+    },
+    "IN-24-03415": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Western Harbour Crossing",
+            "LOCATION_CN": "西區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong Island",
+            "DIRECTION_CN": "香港島",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-17T10:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98617",
+                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-17T10:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98618",
+                "CONTENT_EN": "The tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西區海底隧道(往香港島方向)的管道快線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-06-17T10:40:52",
+        "last_announcement": "2024-06-17T10:24:00"
+    },
+    "IN-24-03406": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Tsing Long Highway",
+            "LOCATION_CN": "青朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tai Lam Tunnel Toll Plaza",
+            "NEAR_LANDMARK_CN": "大欖隧道收費廣場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-17T10:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98619",
+                "CONTENT_EN": "The slow lane of Tsing Long Highway (Kowloon bound) near Tai Lam Tunnel Toll Plaza which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的青朗公路(往九龍方向)近大欖隧道收費廣場的慢線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-06-17T10:40:52",
+        "last_announcement": "2024-06-17T10:28:00"
     }
 }
