@@ -84,38 +84,6 @@
         "last_update": "2024-06-14T19:08:00",
         "last_announcement": "2024-06-14T18:50:00"
     },
-    "IN-24-03359": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-14T18:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98484",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近和富中心的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-06-14T18:42:04",
-        "last_announcement": "2024-06-14T18:29:00"
-    },
     "IN-24-03360": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2540,5 +2508,69 @@
         "district": "黃大仙區",
         "last_update": "2024-06-17T18:32:40",
         "last_announcement": "2024-06-17T18:13:00"
+    },
+    "IN-24-03422": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Harcourt Road",
+            "LOCATION_CN": "夏慤道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Cotton Tree Drive",
+            "NEAR_LANDMARK_CN": "紅棉路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-17T18:09:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98644",
+                "CONTENT_EN": "Part of the lanes of Harcourt Road (Central bound) near Cotton Tree Drive which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的夏慤道(往中環方向)近紅棉路的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-06-17T18:42:51",
+        "last_announcement": "2024-06-17T18:09:00"
+    },
+    "IN-24-03424": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": "Kak Tin Village",
+            "NEAR_LANDMARK_CN": "隔田村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-17T18:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98647",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lion Rock Tunnel Road (Sha Tin bound) near Kak Tin Village is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，獅子山隧道公路(往沙田方向)近隔田村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-17T18:42:51",
+        "last_announcement": "2024-06-17T18:20:00"
     }
 }
