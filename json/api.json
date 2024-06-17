@@ -2450,11 +2450,18 @@
                 "ID": "98639",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road Roundabout  near Ying Yip Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，清水灣道迴旋處近影業路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-17T18:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98646",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road Roundabout  near Ying Yip Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道迴旋處近影業路的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-06-17T17:43:12",
-        "last_announcement": "2024-06-17T17:21:00"
+        "last_update": "2024-06-17T18:32:40",
+        "last_announcement": "2024-06-17T18:12:00"
     },
     "IN-24-03421": {
         "description": {
@@ -2482,11 +2489,18 @@
                 "ID": "98640",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kowloon Park Drive (Jordan bound) near Peking Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，九龍公園徑(往佐敦方向)近北京道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-17T18:05:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98643",
+                "CONTENT_EN": "Part of the lanes of Kowloon Park Drive (Jordan bound) near Peking Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的九龍公園徑(往佐敦方向)近北京道的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-06-17T17:53:14",
-        "last_announcement": "2024-06-17T17:28:00"
+        "last_update": "2024-06-17T18:32:40",
+        "last_announcement": "2024-06-17T18:05:00"
     },
     "IN-24-03423": {
         "description": {
@@ -2514,10 +2528,17 @@
                 "ID": "98642",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近竹園道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-17T18:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98645",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近竹園道的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-06-17T18:12:56",
-        "last_announcement": "2024-06-17T18:02:00"
+        "last_update": "2024-06-17T18:32:40",
+        "last_announcement": "2024-06-17T18:13:00"
     }
 }
