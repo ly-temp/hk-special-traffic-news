@@ -1,82 +1,4 @@
 {
-    "IN-24-03361": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chek Lap Kok Road",
-            "LOCATION_CN": "赤鱲角路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-14T21:16:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98490",
-                "CONTENT_EN": "Due to emergency repair of road surface , all lanes of the slip road leading from Chek Lap Kok Road (East bound) to Shun Fai Road (West bound) are closed to all traffic. Affected bus routes have been diverted. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因緊急路面維修，由赤鱲角路(東行)通往順暉路(西行)的支路的全線現已封閉。 受影響巴士路線須改道行駛。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-06-15T08:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98503",
-                "CONTENT_EN": "All lanes of the slip road leading from Chek Lap Kok Road (East bound) to Shun Fai Road (West bound) which were closed due to emergency repair of road surface are re-opened to all traffic. Affected bus routes have resumed their original routeings.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的由赤鱲角路(東行)通往順暉路(西行)的支路的全線現已解封。 受影響巴士路線現已恢復原有路線行駛。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-06-15T09:16:46",
-        "last_announcement": "2024-06-15T08:30:00"
-    },
-    "IN-24-03367": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Stonecutters Bridge",
-            "LOCATION_CN": "昂船洲大橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-15T07:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98497",
-                "CONTENT_EN": "Stonecutters Bridge: Due to strong wind, the following temporary traffic arrangements are implemented on Stonecutters Bridge: The middle lanes of Stonecutters Bridge are closed. Only fast and slow lanes are opened to traffic. Speed limit is reduced to 50km/h. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
-                "CONTENT_CN": "昂船洲大橋： 由於強風關係，昂船洲大橋已實施下列臨時交通措施： 昂船洲大橋的中線封閉，只餘快線及慢線開放予車輛行駛，車速限制降至每小時50公里。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
-            },
-            "2024-06-15T08:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98502",
-                "CONTENT_EN": "Stonecutters Bridge: The Middle lane closure and temporary speed limit arrangements which were implemented before in the Stonecutters Bridge are cancelled. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
-                "CONTENT_CN": "昂船洲大橋： 較早前於昂船洲大橋實施的中線封閉及臨時車速限制措施現已取消。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-06-15T09:16:46",
-        "last_announcement": "2024-06-15T08:19:00"
-    },
     "IN-24-03369": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2462,5 +2384,51 @@
         "district": "元朗區",
         "last_update": "2024-06-17T20:48:25",
         "last_announcement": "2024-06-17T20:08:00"
+    },
+    "IN-24-03430": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cheung Tsing Highway",
+            "LOCATION_CN": "長青公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Kam Chuk Kok",
+            "NEAR_LANDMARK_CN": "金竹角",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-18T08:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98660",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Tsing Highway (Kowloon bound) near Kam Chuk Kok is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，長青公路(往九龍方向)近金竹角的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-18T08:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98661",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Tsing Highway (Kowloon bound) near Kam Chuk Kok is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Cheung Tsing Highway (Kowloon bound) ends at Tsing Long Highway near Tai Lam Tunnel (Kowloon bound) Exit and Tuen Mun Road near Sham Tseng. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，長青公路(往九龍方向)近金竹角的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在長青公路(往九龍方向)的車龍龍尾已到青朗公路近大欖隧道(往九龍方向)出口及屯門公路近深井。 現時上址交通擠塞。"
+            },
+            "2024-06-18T09:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98662",
+                "CONTENT_EN": "Part of the lanes of Cheung Tsing Highway (Kowloon bound) near Kam Chuk Kok which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的長青公路(往九龍方向)近金竹角的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-06-18T09:33:33",
+        "last_announcement": "2024-06-18T09:07:00"
     }
 }
