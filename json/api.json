@@ -2242,5 +2242,69 @@
         "district": "深水埗區",
         "last_update": "2024-06-18T16:48:21",
         "last_announcement": "2024-06-18T16:38:00"
+    },
+    "IN-24-03441": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-18T16:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98681",
+                "CONTENT_EN": "To facilitate road works at Tai Po Road (Sha Tin Section), a section of Tai Po Road (Sha Tin Section) southbound from between Racecourse Villa and Scenery Court and the associated slip roads will be temporarily closed during from 1.00 am to 5.30 am on 23 June 2024. Please refer to the Traffic Advice for details of the temporary traffic and transport arrangements. (https://www. td. gov. hk/en/traffic_notices/index_id_76053. html) Upon completion of the aforesaid road works, Tai Po Road (Sha Tin Section) southbound between Man Wo House near Fo Tan Road and Sha Tin Plaza near Sha Tin Rural Committee Road will be widened to three-lane carriageway. Motorists should pay attention and follow the new road alignment, directional signs, road markings and traffic signs to drive carefully.",
+                "CONTENT_CN": "為配合大埔公路(沙田段)道路工程，介乎凱驊軒及蔚景園的大埔公路(沙田段)(南行)及相關支路將會於二零二四年六月二十三日(星期日)零晨一時至五時三十分，臨時封閉，禁止所有車輛駛入。有關臨時交通及運輸安排，請參閲交通通告。 (https://www.td.gov.hk/tc/traffic_notices/index_id_76053.html) 當上述道路工程完成後，介乎禾輋邨民和樓近火炭路至沙田廣場近沙田鄉事會路之間的大埔公路(沙田段)(南行)將擴闊至三線行車道。駕駛者須細心留意及遵從新的道路配置、方向標誌、道路標記和交通標誌，小心駕駛。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-06-18T17:21:38",
+        "last_announcement": "2024-06-18T16:58:00"
+    },
+    "IN-24-03442": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Harcourt Road",
+            "LOCATION_CN": "夏慤道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Arsenal Street",
+            "NEAR_LANDMARK_CN": "軍器廠街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-18T17:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98683",
+                "CONTENT_EN": "Part of the lanes of Harcourt Road (Central bound) near Arsenal Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的夏慤道(往中環方向)近軍器廠街的部份行車線現已解封。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-06-18T17:21:38",
+        "last_announcement": "2024-06-18T17:06:00"
     }
 }
