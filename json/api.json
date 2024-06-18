@@ -1,43 +1,4 @@
 {
-    "IN-24-03389": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Lake Egret Nature Park",
-            "NEAR_LANDMARK_CN": "白鷺湖互動中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-15T18:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98547",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Sheung Shui bound) near Lake Egret Nature Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往上水方向)近白鷺湖互動中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-15T19:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98553",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Sheung Shui bound) near Lake Egret Nature Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往上水方向)近白鷺湖互動中心的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-06-15T19:38:00",
-        "last_announcement": "2024-06-15T19:29:00"
-    },
     "IN-24-03390": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2386,11 +2347,18 @@
                 "ID": "98705",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Sun Tin Wai Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Sha Tin Road near Prince of Wales Hospital. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，獅子山隧道公路(往九龍方向)近新田圍邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到沙田路近威爾斯親王醫院。 現時上址交通擠塞。"
+            },
+            "2024-06-18T19:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98706",
+                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Sun Tin Wai Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的獅子山隧道公路(往九龍方向)近新田圍邨的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-06-18T19:27:54",
-        "last_announcement": "2024-06-18T19:13:00"
+        "last_update": "2024-06-18T19:38:28",
+        "last_announcement": "2024-06-18T19:27:00"
     },
     "IN-24-03448": {
         "description": {
