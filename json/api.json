@@ -91,38 +91,6 @@
         "last_update": "2024-06-15T17:43:32",
         "last_announcement": "2024-06-15T17:34:00"
     },
-    "IN-24-03382": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Hong Kong Link Road",
-            "LOCATION_CN": "香港連接路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-15T15:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98531",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-06-15T15:19:50",
-        "last_announcement": "2024-06-15T15:10:00"
-    },
     "IN-24-03381": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2281,5 +2249,37 @@
         "district": "荃灣區",
         "last_update": "2024-06-18T15:15:50",
         "last_announcement": "2024-06-18T14:50:00"
+    },
+    "IN-24-03438": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Garden Road",
+            "LOCATION_CN": "花園道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "downhill",
+            "DIRECTION_CN": "落山",
+            "NEAR_LANDMARK_EN": "Peak Tram Lower Terminus",
+            "NEAR_LANDMARK_CN": "花園道纜車站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-18T15:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98677",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Garden Road (downhill bound) near Peak Tram Lower Terminus is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，花園道(往落山方向)近花園道纜車站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-06-18T15:26:19",
+        "last_announcement": "2024-06-18T15:17:00"
     }
 }
