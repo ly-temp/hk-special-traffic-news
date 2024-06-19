@@ -2755,11 +2755,18 @@
                 "ID": "98760",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Yau Tong bound) near Tsui Ping Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近翠屏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-19T18:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98765",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Tsui Ping Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘道(往油塘方向)近翠屏道的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-06-19T18:23:35",
-        "last_announcement": "2024-06-19T18:05:00"
+        "last_update": "2024-06-19T18:36:36",
+        "last_announcement": "2024-06-19T18:23:00"
     },
     "IN-24-03474": {
         "description": {
@@ -2787,10 +2794,17 @@
                 "ID": "98764",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Interchange is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Yuen Long bound) ends at Tuen Mun Road near So Kwun Wat. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近青田交匯處的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往元朗方向)的車龍龍尾已到屯門公路近掃管笏。 現時上址交通擠塞。"
+            },
+            "2024-06-19T18:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98767",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Interchange which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近青田交匯處的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-06-19T18:23:35",
-        "last_announcement": "2024-06-19T18:15:00"
+        "last_update": "2024-06-19T18:36:36",
+        "last_announcement": "2024-06-19T18:28:00"
     }
 }
