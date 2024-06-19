@@ -2487,5 +2487,37 @@
         "district": "灣仔區",
         "last_update": "2024-06-19T12:50:24",
         "last_announcement": "2024-06-19T12:42:00"
+    },
+    "IN-24-03468": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Hoi Kwai Road",
+            "LOCATION_CN": "海貴路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan Plaza",
+            "DIRECTION_CN": "荃灣廣場",
+            "NEAR_LANDMARK_EN": "Tai Ho Road",
+            "NEAR_LANDMARK_CN": "大河道",
+            "BETWEEN_LANDMARK_EN": "Hoi Shing Road",
+            "BETWEEN_LANDMARK_CN": "海盛路",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-19T13:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98745",
+                "CONTENT_EN": "Due to watermain emergency works , the only lane of Hoi Kwai Road (Tsuen Wan Plaza bound) between Tai Ho Road and Hoi Shing Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，海貴路(往荃灣廣場方向)介乎大河道與海盛路之間的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-06-19T13:37:43",
+        "last_announcement": "2024-06-19T13:21:00"
     }
 }
