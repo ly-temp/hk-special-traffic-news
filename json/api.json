@@ -2411,11 +2411,18 @@
                 "ID": "98742",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Tuen Mun Chek Lap Kok Tunnel (Airport bound) are closed to all traffic. \nBesides , the one-lane-two-way traffic arrangement is being implemented on Tuen Mun Chek Lap Kok Tunnel (Tuen Mun Road).   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門赤鱲角隧道(往機場方向)的全線現已封閉。\n同時，屯門赤鱲角隧道(往屯門方向)現已實施單線雙程行車措施。  現時上址交通繁忙。"
+            },
+            "2024-06-19T15:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98747",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Tuen Mun Chek Lap Kok Tunnel (Airport bound) are still being closed to all traffic. \nBesides, the one-tube-two-way traffic arrangement is being implemented on Tuen Mun Chek Lap Kok Tunnel (Tuen Mun bound).   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門赤鱲角隧道(往機場方向)的全線仍然封閉。\n同時，屯門赤鱲角隧道(往屯門方向)現已實施單管雙程行車措施。  現時上址交通繁忙。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-06-19T12:28:52",
-        "last_announcement": "2024-06-19T12:17:00"
+        "last_update": "2024-06-19T15:21:08",
+        "last_announcement": "2024-06-19T15:00:00"
     },
     "IN-24-03467": {
         "description": {
@@ -2487,5 +2494,37 @@
         "district": "荃灣區",
         "last_update": "2024-06-19T13:37:43",
         "last_announcement": "2024-06-19T13:21:00"
+    },
+    "IN-24-03469": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Chung Hau Street",
+            "LOCATION_CN": "忠孝街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom Police Station",
+            "DIRECTION_CN": "紅磡警署",
+            "NEAR_LANDMARK_EN": "Holy Trinity Church Secondary School",
+            "NEAR_LANDMARK_CN": "聖公會聖三一堂中學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-19T15:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98748",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Chung Hau Street (Hung Hom Police Station bound) near Holy Trinity Church Secondary School is closed to all traffic. Only remaining lane is available to motorists.",
+                "CONTENT_CN": "因水管緊急維修，忠孝街(往紅磡警署方向)近聖公會聖三一堂中學的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-06-19T15:21:08",
+        "last_announcement": "2024-06-19T15:08:00"
     }
 }
