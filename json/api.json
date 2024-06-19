@@ -1,43 +1,4 @@
 {
-    "IN-24-03397": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Fan Kam Road",
-            "LOCATION_CN": "粉錦公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Lin Tong Mei",
-            "NEAR_LANDMARK_CN": "蓮塘尾",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-16T09:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98572",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Fan Kam Road (both bounds) near Lin Tong Mei are closed to all traffic. Affected KMB bus route no. 77K has been diverted. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，粉錦公路(來回方向)近蓮塘尾的全線現已封閉。 受影響九巴巴士第77K號線須改道行駛。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-06-16T11:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98581",
-                "CONTENT_EN": "All lanes of Fan Kam Road (both bounds) near Lin Tong Mei which were closed due to fallen tree are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因塌樹而封閉的粉錦公路(來回方向)近蓮塘尾的全線現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-06-16T11:22:37",
-        "last_announcement": "2024-06-16T11:10:00"
-    },
     "IN-24-03399": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2510,11 +2471,18 @@
                 "ID": "98739",
                 "CONTENT_EN": "Due to obstacles on road , part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Olympic MTR Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on West Kowloon Highway (Western Harbour Crossing bound) ends at Tsing Kwai Highway near Lai Chi Kok Park and Tsing Sha Highway near Stonecutters Island Sewage Treatment Works. Traffic is congested now.",
                 "CONTENT_CN": "因路面有障礙物，西九龍公路(往西區海底隧道方向)近奧運港鐵站的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在西九龍公路(往西區海底隧道方向)的車龍龍尾已到青葵公路近荔枝角公園及青沙公路近昂船洲污水處理廠。 現時上址交通擠塞。"
+            },
+            "2024-06-19T11:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98740",
+                "CONTENT_EN": "Part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Olympic MTR Station which was closed due to obstacles on road is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因路面有障礙物而封閉的西九龍公路(往西區海底隧道方向)近奧運港鐵站的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-06-19T10:45:39",
-        "last_announcement": "2024-06-19T10:28:00"
+        "last_update": "2024-06-19T11:30:57",
+        "last_announcement": "2024-06-19T11:12:00"
     },
     "IN-24-03464": {
         "description": {
