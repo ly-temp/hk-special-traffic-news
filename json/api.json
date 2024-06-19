@@ -1,50 +1,4 @@
 {
-    "IN-24-03402": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Sha Tin Wai Road",
-            "LOCATION_CN": "沙田圍路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ma On Shan",
-            "DIRECTION_CN": "馬鞍山",
-            "NEAR_LANDMARK_EN": "Ngan Shing Street",
-            "NEAR_LANDMARK_CN": "銀城街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-16T17:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98586",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Sha Tin Wai Road (Ma On Shan bound) near Ngan Shing Street are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，沙田圍路(往馬鞍山方向)近銀城街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-06-16T19:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98587",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Sha Tin Wai Road (Ma On Shan bound) near Ngan Shing Street is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因水管爆裂，沙田圍路(往馬鞍山方向)近銀城街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-06-17T06:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98588",
-                "CONTENT_EN": "Part of the lanes of Sha Tin Wai Road (Ma On Shan bound) near Ngan Shing Street which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的沙田圍路(往馬鞍山方向)近銀城街的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-17T06:09:46",
-        "last_announcement": "2024-06-17T06:02:00"
-    },
     "IN-24-03403": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2446,11 +2400,18 @@
                 "ID": "98784",
                 "CONTENT_EN": "Due to a traffic accident, all lanes of the Tuen Mun-Chek Lap Kok Tunnel (Airport-bound) remain closed to all traffic. Emergency repairing works is in progress and all lanes of the Tuen Mun-Chek Lap Kok Tunnel (Airport-bound) are expected to continue to be closed into the early morning of June 20, 2024. Motorists for Airport bound could using the one-tube-two-way traffic arrangement which is being implemented on Tuen Mun Chek Lap Kok Tunnel (Tuen Mun bound), for Airport bound.",
                 "CONTENT_CN": "因交通意外，屯門赤鱲角隧道(往機場方向)的全線仍然封閉。緊急維修工程現正進行，預計屯門赤鱲角隧道(往機場方向)的全線將持續封閉至2024年6月20日凌晨。 前往機場方向的駕駛者可使用現時於屯門赤鱲角隧道(往屯門方向)管道實施中的單管雙程行車安排，前往機場方向。"
+            },
+            "2024-06-20T06:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98785",
+                "CONTENT_EN": "All lanes of the Tuen Mun-Chek Lap Kok Tunnel (Airport-bound) which were closed due to traffic accident are re-opened to all traffic. Besides, the one-tube-two-way traffic arrangement which was implemented on Tuen Mun Chek Lap Kok Tunnel (Tuen Mun bound) is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外⽽封閉的屯門赤鱲角隧道(往機場方向)的全線現已解封。 同時，屯門赤鱲角隧道(往屯門方向)管道實施中的單管雙程行車安排亦現已取消。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-06-19T22:30:38",
-        "last_announcement": "2024-06-19T22:12:00"
+        "last_update": "2024-06-20T06:26:54",
+        "last_announcement": "2024-06-20T06:05:00"
     },
     "IN-24-03467": {
         "description": {
@@ -2517,11 +2478,18 @@
                 "ID": "98745",
                 "CONTENT_EN": "Due to watermain emergency works , the only lane of Hoi Kwai Road (Tsuen Wan Plaza bound) between Tai Ho Road and Hoi Shing Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，海貴路(往荃灣廣場方向)介乎大河道與海盛路之間的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-06-20T06:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98786",
+                "CONTENT_EN": "The only lane of Hoi Kwai Road (Tsuen Wan Plaza bound) between Tai Ho Road and Hoi Shing Road which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的海貴路(往荃灣廣場方向)介乎大河道與海盛路之間的唯一行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-06-19T13:37:43",
-        "last_announcement": "2024-06-19T13:21:00"
+        "last_update": "2024-06-20T06:26:54",
+        "last_announcement": "2024-06-20T06:14:00"
     },
     "IN-24-03469": {
         "description": {
