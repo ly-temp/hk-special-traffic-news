@@ -2904,10 +2904,24 @@
                 "ID": "98808",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青嶼幹線(汲水門大橋)(往九龍方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-20T14:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98810",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) ends at North Lantau Highway near Sunny Bay MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(汲水門大橋)(往九龍方向) 的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在青嶼幹線(汲水門大橋)(往九龍方向)的車龍龍尾已到北大嶼山公路近欣澳港鐵站。 現時上址交通擠塞。"
+            },
+            "2024-06-20T14:37:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98811",
+                "CONTENT_EN": "Part of the lanes of Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(汲水門大橋)(往九龍方向) 的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-06-20T14:28:02",
-        "last_announcement": "2024-06-20T14:18:00"
+        "last_update": "2024-06-20T14:51:30",
+        "last_announcement": "2024-06-20T14:37:00"
     }
 }
