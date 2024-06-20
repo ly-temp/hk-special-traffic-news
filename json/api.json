@@ -1,36 +1,4 @@
 {
-    "IN-24-03422": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Harcourt Road",
-            "LOCATION_CN": "夏慤道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Cotton Tree Drive",
-            "NEAR_LANDMARK_CN": "紅棉路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T18:09:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98644",
-                "CONTENT_EN": "Part of the lanes of Harcourt Road (Central bound) near Cotton Tree Drive which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的夏慤道(往中環方向)近紅棉路的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-06-17T18:42:51",
-        "last_announcement": "2024-06-17T18:09:00"
-    },
     "IN-24-03424": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2980,5 +2948,37 @@
         "district": "屯門區",
         "last_update": "2024-06-20T18:34:04",
         "last_announcement": "2024-06-20T18:24:00"
+    },
+    "IN-24-03503": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sai Kung",
+            "DIRECTION_CN": "西貢",
+            "NEAR_LANDMARK_EN": "Ngau Chi Wan Municipal Building",
+            "NEAR_LANDMARK_CN": "牛池灣市政大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-20T18:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98831",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Sai Kung bound) near Ngau Chi Wan Municipal Building is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，清水灣道(往西貢方向)近牛池灣市政大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-06-20T18:44:03",
+        "last_announcement": "2024-06-20T18:26:00"
     }
 }
