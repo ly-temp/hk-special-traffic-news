@@ -1,121 +1,4 @@
 {
-    "IN-24-03420": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Clear Water Bay Road",
-            "LOCATION_CN": "清水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Ying Yip Road",
-            "NEAR_LANDMARK_CN": "影業路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T17:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98639",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road Roundabout  near Ying Yip Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，清水灣道迴旋處近影業路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-17T18:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98646",
-                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road Roundabout  near Ying Yip Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道迴旋處近影業路的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-06-17T18:32:40",
-        "last_announcement": "2024-06-17T18:12:00"
-    },
-    "IN-24-03421": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kowloon Park Drive",
-            "LOCATION_CN": "九龍公園徑",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Jordan",
-            "DIRECTION_CN": "佐敦",
-            "NEAR_LANDMARK_EN": "Peking Road",
-            "NEAR_LANDMARK_CN": "北京道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T17:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98640",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kowloon Park Drive (Jordan bound) near Peking Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，九龍公園徑(往佐敦方向)近北京道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-17T18:05:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98643",
-                "CONTENT_EN": "Part of the lanes of Kowloon Park Drive (Jordan bound) near Peking Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的九龍公園徑(往佐敦方向)近北京道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-17T18:32:40",
-        "last_announcement": "2024-06-17T18:05:00"
-    },
-    "IN-24-03423": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Chuk Yuen Road",
-            "NEAR_LANDMARK_CN": "竹園道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T18:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98642",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近竹園道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-17T18:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98645",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近竹園道的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-06-17T18:32:40",
-        "last_announcement": "2024-06-17T18:13:00"
-    },
     "IN-24-03422": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2975,11 +2858,18 @@
                 "ID": "98826",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tai Po Road - Sha Tin (Tai Po bound) ends at Shing Mun Tunnel Road near Mei Tin Estate and Sha Tin Road near Yue Tin Court. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近沙田馬場的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在大埔公路　–　沙田段(往大埔方向)的車龍龍尾已到城門隧道公路近美田邨及沙田路近愉田苑。 現時上址交通擠塞。"
+            },
+            "2024-06-20T18:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98829",
+                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往大埔方向)近沙田馬場的慢線現已解封。 車龍有待消散。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-06-20T18:20:41",
-        "last_announcement": "2024-06-20T17:58:00"
+        "last_update": "2024-06-20T18:34:04",
+        "last_announcement": "2024-06-20T18:17:00"
     },
     "IN-24-03500": {
         "description": {
@@ -3058,5 +2948,37 @@
         "district": "油尖旺區",
         "last_update": "2024-06-20T18:20:41",
         "last_announcement": "2024-06-20T18:08:00"
+    },
+    "IN-24-03502": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "So Kwun Wat",
+            "NEAR_LANDMARK_CN": "掃管笏",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-20T18:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98830",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Tuen Mun bound) near So Kwun Wat is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近掃管笏的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-20T18:34:04",
+        "last_announcement": "2024-06-20T18:24:00"
     }
 }
