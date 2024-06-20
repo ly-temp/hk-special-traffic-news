@@ -119,77 +119,6 @@
         "last_update": "2024-06-17T11:29:47",
         "last_announcement": "2024-06-17T11:10:00"
     },
-    "IN-24-03411": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
-            "NEAR_LANDMARK_CN": "何文田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T09:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98612",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-17T10:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98615",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-06-17T10:40:52",
-        "last_announcement": "2024-06-17T10:07:00"
-    },
-    "IN-24-03412": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Wo Che Estate",
-            "NEAR_LANDMARK_CN": "禾輋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T10:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98613",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近禾輋邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-17T10:40:52",
-        "last_announcement": "2024-06-17T10:00:00"
-    },
     "IN-24-03414": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -228,77 +157,6 @@
         "district": "觀塘區",
         "last_update": "2024-06-17T10:52:09",
         "last_announcement": "2024-06-17T10:39:00"
-    },
-    "IN-24-03415": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Western Harbour Crossing",
-            "LOCATION_CN": "西區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T10:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98617",
-                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-17T10:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98618",
-                "CONTENT_EN": "The tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的西區海底隧道(往香港島方向)的管道快線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-06-17T10:40:52",
-        "last_announcement": "2024-06-17T10:24:00"
-    },
-    "IN-24-03406": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Tsing Long Highway",
-            "LOCATION_CN": "青朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tai Lam Tunnel Toll Plaza",
-            "NEAR_LANDMARK_CN": "大欖隧道收費廣場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T10:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98619",
-                "CONTENT_EN": "The slow lane of Tsing Long Highway (Kowloon bound) near Tai Lam Tunnel Toll Plaza which was closed due to emergency repair of road surface is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的青朗公路(往九龍方向)近大欖隧道收費廣場的慢線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-06-17T10:40:52",
-        "last_announcement": "2024-06-17T10:28:00"
     },
     "IN-24-03413": {
         "description": {
@@ -3003,11 +2861,18 @@
                 "ID": "98794",
                 "CONTENT_EN": "Lion Rock Tunnel Road (Kowloon bound) is busy. Traffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Sha Tin Road near Prince of Wales Hospital. Motorists passing through the above road section are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "獅子山隧道公路(往九龍方向)的交通繁忙。現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到沙田路近威爾斯親王醫院。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-06-20T10:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98800",
+                "CONTENT_EN": "Traffic at Lion Rock Tunnel Road (Kowloon bound) has resumed normal.",
+                "CONTENT_CN": "獅子山隧道公路(往九龍方向)的交通現已恢復正常。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-06-20T09:31:58",
-        "last_announcement": "2024-06-20T09:03:00"
+        "last_update": "2024-06-20T10:41:39",
+        "last_announcement": "2024-06-20T10:19:00"
     },
     "IN-24-03488": {
         "description": {
