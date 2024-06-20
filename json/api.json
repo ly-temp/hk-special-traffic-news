@@ -2968,11 +2968,18 @@
                 "ID": "98822",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近沙田馬場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-20T17:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98826",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tai Po Road - Sha Tin (Tai Po bound) ends at Shing Mun Tunnel Road near Mei Tin Estate and Sha Tin Road near Yue Tin Court. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近沙田馬場的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在大埔公路　–　沙田段(往大埔方向)的車龍龍尾已到城門隧道公路近美田邨及沙田路近愉田苑。 現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-06-20T17:47:42",
-        "last_announcement": "2024-06-20T17:27:00"
+        "last_update": "2024-06-20T18:20:41",
+        "last_announcement": "2024-06-20T17:58:00"
     },
     "IN-24-03500": {
         "description": {
@@ -3000,10 +3007,56 @@
                 "ID": "98824",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Texaco Road (Tsuen Kam Interchange bound) near Yeung Uk Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，德士古道(往荃錦交匯處方向)近楊屋道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-20T18:05:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98827",
+                "CONTENT_EN": "Part of the lanes of Texaco Road (Tsuen Kam Interchange bound) near Yeung Uk Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的德士古道(往荃錦交匯處方向)近楊屋道的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-06-20T17:47:42",
-        "last_announcement": "2024-06-20T17:40:00"
+        "last_update": "2024-06-20T18:20:41",
+        "last_announcement": "2024-06-20T18:05:00"
+    },
+    "IN-24-03501": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lung Cheung Road",
+            "DIRECTION_CN": "龍翔道",
+            "NEAR_LANDMARK_EN": "Choi Hung MTR Station",
+            "NEAR_LANDMARK_CN": "彩虹港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-20T17:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98825",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Clear Water Bay Road (Lung Cheung Road bound) near Choi Hung MTR Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，清水灣道(往龍翔道方向)近彩虹港鐵站的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-20T18:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98828",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Clear Water Bay Road (Lung Cheung Road bound) near Choi Hung MTR Station is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Clear Water Bay Road (Lung Cheung Road bound) ends at New Clear Water Bay Road near Choi Wan (II) Estate. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，清水灣道(往龍翔道方向)近彩虹港鐵站的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在清水灣道(往龍翔道方向)的車龍龍尾已到新清水灣道近彩雲(二)邨。 現時上址交通擠塞。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-06-20T18:20:41",
+        "last_announcement": "2024-06-20T18:08:00"
     }
 }
