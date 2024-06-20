@@ -2941,5 +2941,69 @@
         "district": "觀塘區",
         "last_update": "2024-06-20T17:27:12",
         "last_announcement": "2024-06-20T17:06:00"
+    },
+    "IN-24-03499": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Sha Tin Racecourse",
+            "NEAR_LANDMARK_CN": "沙田馬場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-20T17:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98822",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近沙田馬場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-20T17:47:42",
+        "last_announcement": "2024-06-20T17:27:00"
+    },
+    "IN-24-03500": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Texaco Road",
+            "LOCATION_CN": "德士古道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Kam Interchange",
+            "DIRECTION_CN": "荃錦交匯處",
+            "NEAR_LANDMARK_EN": "Yeung Uk Road",
+            "NEAR_LANDMARK_CN": "楊屋道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-20T17:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98824",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Texaco Road (Tsuen Kam Interchange bound) near Yeung Uk Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，德士古道(往荃錦交匯處方向)近楊屋道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-06-20T17:47:42",
+        "last_announcement": "2024-06-20T17:40:00"
     }
 }
