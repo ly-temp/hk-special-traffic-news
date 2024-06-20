@@ -2923,5 +2923,37 @@
         "district": "中西區",
         "last_update": "2024-06-20T21:47:45",
         "last_announcement": "2024-06-20T21:13:00"
+    },
+    "IN-24-03509": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Hoi Wang Road",
+            "LOCATION_CN": "海泓道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sham Shui Po",
+            "DIRECTION_CN": "深水埗",
+            "NEAR_LANDMARK_EN": "Yan Cheung Road",
+            "NEAR_LANDMARK_CN": "欣翔道",
+            "BETWEEN_LANDMARK_EN": "Lai Cheung Road",
+            "BETWEEN_LANDMARK_CN": "麗翔道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-21T00:36:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98848",
+                "CONTENT_EN": "Due to emergency repair of road surface , the only lane of Hoi Wang Road (Sham Shui Po bound) between Yan Cheung Road and Lai Cheung Road is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因緊急路面維修，海泓道(往深水埗方向)介乎欣翔道與麗翔道之間的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-06-21T00:49:13",
+        "last_announcement": "2024-06-21T00:36:00"
     }
 }
