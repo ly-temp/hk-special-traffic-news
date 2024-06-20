@@ -1,36 +1,4 @@
 {
-    "IN-24-03425": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road East",
-            "LOCATION_CN": "太子道東",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Lee Kau Yan Memorial School",
-            "NEAR_LANDMARK_CN": "李求恩紀念中學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-17T19:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98653",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Kwun Tong bound) near Lee Kau Yan Memorial School which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往觀塘方向)近李求恩紀念中學的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-06-17T19:21:38",
-        "last_announcement": "2024-06-17T19:00:00"
-    },
     "IN-24-03427": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1592,11 +1560,18 @@
                 "ID": "98748",
                 "CONTENT_EN": "Due to watermain emergency works , the slow lane of Chung Hau Street (Hung Hom Police Station bound) near Holy Trinity Church Secondary School is closed to all traffic. Only remaining lane is available to motorists.",
                 "CONTENT_CN": "因水管緊急維修，忠孝街(往紅磡警署方向)近聖公會聖三一堂中學的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-06-20T19:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98837",
+                "CONTENT_EN": "The slow lane of Chung Hau Street (Hung Hom Police Station bound) near Holy Trinity Church Secondary School which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的忠孝街(往紅磡警署方向)近聖公會聖三一堂中學的慢線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-06-19T15:21:08",
-        "last_announcement": "2024-06-19T15:08:00"
+        "last_update": "2024-06-20T19:22:46",
+        "last_announcement": "2024-06-20T19:04:00"
     },
     "IN-24-03470": {
         "description": {
@@ -2973,5 +2948,37 @@
         "district": "西貢區",
         "last_update": "2024-06-20T19:10:41",
         "last_announcement": "2024-06-20T19:01:00"
+    },
+    "IN-24-03507": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Connaught Road Central",
+            "LOCATION_CN": "干諾道中",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wan Chai",
+            "DIRECTION_CN": "灣仔",
+            "NEAR_LANDMARK_EN": "City Hall",
+            "NEAR_LANDMARK_CN": "大會堂",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-20T19:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98839",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central (Wan Chai bound) near City Hall is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，干諾道中(往灣仔方向)近大會堂的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-20T19:22:46",
+        "last_announcement": "2024-06-20T19:07:00"
     }
 }
