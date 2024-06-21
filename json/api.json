@@ -3359,5 +3359,37 @@
         "district": "中西區",
         "last_update": "2024-06-21T14:32:48",
         "last_announcement": "2024-06-21T14:19:00"
+    },
+    "IN-24-03527": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Tai Po Road (Sha Tin Section) southbound",
+            "INCIDENT_DETAIL_CN": "大埔公路(沙田段)(南行)",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-21T14:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98890",
+                "CONTENT_EN": "Tai Po Road (Sha Tin Section) southbound between Man Wo House near Fo Tan Road and Sha Tin Plaza near Sha Tin Rural Committee Road will be widened to three-lane carriageway from 23 June 2024 05:30am. Motorists should pay attention and follow the new road alignment, directional signs, road markings and traffic signs to drive carefully.",
+                "CONTENT_CN": "星期日(23/6)5點30分起，介乎禾輋邨民和樓近火炭路至沙田廣場近沙田鄉事會路之間的大埔公路(沙田段)(南行)將擴闊至三線行車道。駕駛者須細心留意及遵從新的道路配置、方向標誌、道路標記和交通標誌，小心駕駛。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-21T15:12:08",
+        "last_announcement": "2024-06-21T14:51:00"
     }
 }
