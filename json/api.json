@@ -77,70 +77,6 @@
         "last_update": "2024-06-18T17:52:15",
         "last_announcement": "2024-06-18T17:33:00"
     },
-    "IN-24-03441": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-18T16:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98681",
-                "CONTENT_EN": "To facilitate road works at Tai Po Road (Sha Tin Section), a section of Tai Po Road (Sha Tin Section) southbound from between Racecourse Villa and Scenery Court and the associated slip roads will be temporarily closed during from 1.00 am to 5.30 am on 23 June 2024. Please refer to the Traffic Advice for details of the temporary traffic and transport arrangements. (https://www. td. gov. hk/en/traffic_notices/index_id_76053. html) Upon completion of the aforesaid road works, Tai Po Road (Sha Tin Section) southbound between Man Wo House near Fo Tan Road and Sha Tin Plaza near Sha Tin Rural Committee Road will be widened to three-lane carriageway. Motorists should pay attention and follow the new road alignment, directional signs, road markings and traffic signs to drive carefully.",
-                "CONTENT_CN": "為配合大埔公路(沙田段)道路工程，介乎凱驊軒及蔚景園的大埔公路(沙田段)(南行)及相關支路將會於二零二四年六月二十三日(星期日)零晨一時至五時三十分，臨時封閉，禁止所有車輛駛入。有關臨時交通及運輸安排，請參閲交通通告。 (https://www.td.gov.hk/tc/traffic_notices/index_id_76053.html) 當上述道路工程完成後，介乎禾輋邨民和樓近火炭路至沙田廣場近沙田鄉事會路之間的大埔公路(沙田段)(南行)將擴闊至三線行車道。駕駛者須細心留意及遵從新的道路配置、方向標誌、道路標記和交通標誌，小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-06-18T17:21:38",
-        "last_announcement": "2024-06-18T16:58:00"
-    },
-    "IN-24-03442": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Harcourt Road",
-            "LOCATION_CN": "夏慤道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Arsenal Street",
-            "NEAR_LANDMARK_CN": "軍器廠街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-18T17:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98683",
-                "CONTENT_EN": "Part of the lanes of Harcourt Road (Central bound) near Arsenal Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的夏慤道(往中環方向)近軍器廠街的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-06-18T17:21:38",
-        "last_announcement": "2024-06-18T17:06:00"
-    },
     "IN-24-03443": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3503,10 +3439,81 @@
                 "ID": "98897",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Tuen Mun Road bound) near Chun Shing Factory Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往屯門公路方向)近晉昇工廠大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-21T17:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98903",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tuen Mun Road bound) near Chun Shing Factory Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往屯門公路方向)近晉昇工廠大廈的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-06-21T16:53:43",
-        "last_announcement": "2024-06-21T16:47:00"
+        "last_update": "2024-06-21T17:26:28",
+        "last_announcement": "2024-06-21T17:17:00"
+    },
+    "IN-24-03533": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Shing Mun Tunnels",
+            "LOCATION_CN": "城門隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-21T16:57:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "98900",
+                "CONTENT_EN": "The tunnel tube slow lane of Shing Mun Tunnels (Tsuen Wan bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的城門隧道(往荃灣方向)的管道慢線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-21T17:26:28",
+        "last_announcement": "2024-06-21T16:57:00"
+    },
+    "IN-24-03534": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
+            "NEAR_LANDMARK_CN": "龍翔道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-21T17:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98902",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-06-21T17:26:28",
+        "last_announcement": "2024-06-21T17:14:00"
     }
 }
