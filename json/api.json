@@ -1,43 +1,4 @@
 {
-    "IN-24-03446": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Hereford Road",
-            "NEAR_LANDMARK_CN": "禧福道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-18T18:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98696",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Hereford Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往尖沙咀方向)近禧福道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-18T18:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98698",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Hereford Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往尖沙咀方向)近禧福道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-06-18T18:50:22",
-        "last_announcement": "2024-06-18T18:40:00"
-    },
     "IN-24-03449": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3510,11 +3471,18 @@
                 "ID": "98918",
                 "CONTENT_EN": "The following road sections are busy:\n-Connaught Road Central Flyover (Kennedy Town bound)\n-Connaught Road West (Western Harbour Crossing bound)\n– Lung Cheung Road (Tsuen Wan bound)\nHowever traffic at the following road section resumed normal:\n-Lei Yue Mun Road (Yau Tong bound) near Lam Tin MTR Station.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n-干諾道中天橋(往堅尼地城⽅向)\n-干諾道西(往西區海底隧道⽅向)\n–龍翔道(往荃灣方向)\n但以下路段交通已回復正常：\n-鯉⿂⾨道(往油塘⽅向)近藍⽥港鐵站。"
+            },
+            "2024-06-21T18:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98924",
+                "CONTENT_EN": "The following road sections are still busy:\n-Connaught Road Central Flyover (Kennedy Town bound)\n-Connaught Road West (Western Harbour Crossing bound)\n– Lung Cheung Road (Tsuen Wan bound)\n– Connaught Road Central (Sheung Wan bound)\n– Harcourt Road (both bounds)\n– Gloucester Road (Cross Harbour Tunnel bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Connaught Road Central (Wan Chai bound)\n– Kwai Chung Road (Mong Kok bound) near Mei Foo.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n-干諾道中天橋(往堅尼地城⽅向)\n-干諾道西(往西區海底隧道⽅向)\n–龍翔道(往荃灣方向)\n–干諾道中(往上環方向)\n–夏慤道(來回方向)\n–告士打道(往海底隧道方向)\n–呈祥道(往荃灣方向)\n–干諾道中(往灣仔方向)\n–葵涌道(往旺角方向)近美孚。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-06-21T18:33:57",
-        "last_announcement": "2024-06-21T18:20:00"
+        "last_update": "2024-06-21T18:54:12",
+        "last_announcement": "2024-06-21T18:38:00"
     },
     "IN-24-03541": {
         "description": {
