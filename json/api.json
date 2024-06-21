@@ -1,50 +1,4 @@
 {
-    "IN-24-03444": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lantau Link (Kap Shui Mun Bridge)",
-            "LOCATION_CN": "青嶼幹線(汲水門大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-18T17:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98686",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青嶼幹線(汲水門大橋)(往九龍方向) 的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-18T18:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98694",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) ends at North Lantau Highway near Sunny Bay MTR Station. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，青嶼幹線(汲水門大橋)(往九龍方向) 的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在青嶼幹線(汲水門大橋)(往九龍方向)的車龍龍尾已到北大嶼山公路近欣澳港鐵站。 現時上址交通擠塞。"
-            },
-            "2024-06-18T18:12:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98695",
-                "CONTENT_EN": "The slow lane of Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青嶼幹線(汲水門大橋)(往九龍方向) 的慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-06-18T18:30:04",
-        "last_announcement": "2024-06-18T18:12:00"
-    },
     "IN-24-03446": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3483,5 +3437,76 @@
         "district": "屯門區",
         "last_update": "2024-06-21T18:19:20",
         "last_announcement": "2024-06-21T18:10:00"
+    },
+    "IN-24-03539": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Cross Harbour Tunnel",
+            "LOCATION_CN": "海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-21T18:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98915",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Cross Harbour Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，海底隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-21T18:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98916",
+                "CONTENT_EN": "The tunnel tube slow lane of Cross Harbour Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的海底隧道(往九龍方向)的管道慢線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-06-21T18:33:57",
+        "last_announcement": "2024-06-21T18:18:00"
+    },
+    "IN-24-03537": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Lei Yue Mun Road",
+            "LOCATION_CN": "鯉魚門道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Lam Tin MTR Station",
+            "NEAR_LANDMARK_CN": "藍田港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-21T18:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98918",
+                "CONTENT_EN": "The following road sections are busy:\n-Connaught Road Central Flyover (Kennedy Town bound)\n-Connaught Road West (Western Harbour Crossing bound)\n– Lung Cheung Road (Tsuen Wan bound)\nHowever traffic at the following road section resumed normal:\n-Lei Yue Mun Road (Yau Tong bound) near Lam Tin MTR Station.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n-干諾道中天橋(往堅尼地城⽅向)\n-干諾道西(往西區海底隧道⽅向)\n–龍翔道(往荃灣方向)\n但以下路段交通已回復正常：\n-鯉⿂⾨道(往油塘⽅向)近藍⽥港鐵站。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-21T18:33:57",
+        "last_announcement": "2024-06-21T18:20:00"
     }
 }
