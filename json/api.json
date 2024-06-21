@@ -1,43 +1,4 @@
 {
-    "IN-24-03453": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Hong Tak Road",
-            "NEAR_LANDMARK_CN": "康德道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-18T21:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98711",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Tak Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近康德道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-18T21:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98712",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Tak Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近康德道的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-18T22:09:49",
-        "last_announcement": "2024-06-18T21:54:00"
-    },
     "IN-24-03454": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1705,11 +1666,18 @@
                 "ID": "98820",
                 "CONTENT_EN": "Due to watermain emergency works , the slow lane of Choi Hung Interchange (Clear Water Bay Road bound) near Choi Hung Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，彩虹交匯處(往清水灣道方向)近彩虹邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-21T21:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98937",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Choi Hung Interchange (Clear Water Bay Road bound) near Choi Hung Estate is closed to all traffic. Meanwhile, the fast lane of Lung Cheung Road (Clear Water Bay Road bound) near Ngau Chi Wan Fire Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，彩虹交匯處(往清水灣道方向)近彩虹邨的慢線現已封閉。 同時，龍翔道(往清⽔灣道⽅向)近牛池灣消防局的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-06-20T16:14:37",
-        "last_announcement": "2024-06-20T15:45:00"
+        "last_update": "2024-06-21T22:12:37",
+        "last_announcement": "2024-06-21T21:47:00"
     },
     "IN-24-03498": {
         "description": {
