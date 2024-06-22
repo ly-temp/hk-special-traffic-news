@@ -3550,5 +3550,37 @@
         "district": "油尖旺區",
         "last_update": "2024-06-22T12:54:46",
         "last_announcement": "2024-06-22T12:46:00"
+    },
+    "IN-24-03557": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "North West Tsing Yi Interchange",
+            "LOCATION_CN": "青衣西北交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tsing Yi Administration Building",
+            "NEAR_LANDMARK_CN": "青衣行政大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-22T13:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "98962",
+                "CONTENT_EN": "Part of the lanes of North West Tsing Yi Interchange (Kowloon bound) near Tsing Yi Administration Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青衣西北交匯處(往九龍方向)近青衣行政大樓的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-22T13:14:00",
+        "last_announcement": "2024-06-22T13:08:00"
     }
 }
