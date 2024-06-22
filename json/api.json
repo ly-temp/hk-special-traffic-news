@@ -158,38 +158,6 @@
         "last_update": "2024-06-20T19:22:46",
         "last_announcement": "2024-06-20T19:04:00"
     },
-    "IN-24-03478": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Lam Tei Interchange",
-            "NEAR_LANDMARK_CN": "藍地交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-19T18:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98769",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Lam Tei Interchange which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queues take time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往上水方向)近藍地交匯處的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-19T18:46:45",
-        "last_announcement": "2024-06-19T18:35:00"
-    },
     "IN-24-03479": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3890,5 +3858,37 @@
         "district": "沙田區",
         "last_update": "2024-06-22T18:36:04",
         "last_announcement": "2024-06-22T18:25:00"
+    },
+    "IN-24-03573": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Prince Edward Road East",
+            "LOCATION_CN": "太子道東",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Mikiki",
+            "NEAR_LANDMARK_CN": "譽‧港灣",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-22T18:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99007",
+                "CONTENT_EN": "All lanes of Prince Edward Road East flyover (Kwun Tong bound) near Mikiki which was closed due to emergency incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因突發事件而封閉的太子道東天橋(往觀塘方向)近譽‧港灣的全線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-06-22T18:56:14",
+        "last_announcement": "2024-06-22T18:43:00"
     }
 }
