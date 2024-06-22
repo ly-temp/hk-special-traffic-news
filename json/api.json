@@ -3426,5 +3426,37 @@
         "district": "沙田區",
         "last_update": "2024-06-22T10:40:31",
         "last_announcement": "2024-06-22T10:26:00"
+    },
+    "IN-24-03553": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "mechanical defects",
+            "INCIDENT_DETAIL_CN": "船隻機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-22T11:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "98951",
+                "CONTENT_EN": "Tsui Wah Ferry Service (H. K. ) Limited Due to mechanical defects, the ferry service between Wong Shek and Wan Chai &amp; Chek Keng have been suspended today (22 June).",
+                "CONTENT_CN": "翠華船務（香港）有限公司 因船隻機件故障，來往黃石與灣仔及赤徑渡輪服務於今日(6月22日)暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-06-22T11:29:05",
+        "last_announcement": "2024-06-22T11:08:00"
     }
 }
