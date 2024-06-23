@@ -39,11 +39,18 @@
                 "ID": "98938",
                 "CONTENT_EN": "Due to watermain emergency works , the slow lane of Choi Hung Interchange (Clear Water Bay Road bound) near Choi Hung Estate is still being closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因水管緊急維修，彩虹交匯處(往清水灣道方向)近彩虹邨的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-06-24T06:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99035",
+                "CONTENT_EN": "The slow lane of Choi Hung Interchange (Clear Water Bay Road bound) near Choi Hung Estate which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的彩虹交匯處(往清水灣道方向)近彩虹邨的慢線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-06-22T06:30:46",
-        "last_announcement": "2024-06-22T06:17:00"
+        "last_update": "2024-06-24T06:28:26",
+        "last_announcement": "2024-06-24T06:19:00"
     },
     "IN-24-03498": {
         "description": {
@@ -83,123 +90,6 @@
         "district": "觀塘區",
         "last_update": "2024-06-21T06:43:38",
         "last_announcement": "2024-06-21T06:29:00"
-    },
-    "IN-24-03508": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Kennedy Town Praya",
-            "LOCATION_CN": "堅尼地城海旁",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Victoria Road",
-            "DIRECTION_CN": "域多利道",
-            "NEAR_LANDMARK_EN": "Sands Street",
-            "NEAR_LANDMARK_CN": "山市街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-20T21:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98845",
-                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Kennedy Town Praya (Victoria Road bound) near Sands Street is closed to all traffic. \nPart of the lanes of Sands Street (Rock Hill Street bound) near Kennedy Town Praya is also closed. Only remaining lanes are available to motorists. \nVehicles of length exceeding 8 meters travelling on Kennedy Town Praya are only allowed to make left turning onto Sai Cheung Street. \nAffected Cross Harbour route nos. 113 and 904 (Belcher Bay bound) been diverted.",
-                "CONTENT_CN": "因水管緊急維修，堅尼地城海旁(往域多利道方向)近山市街的部份行車線現已封閉。\n此外，山市街(往石山街方向)近堅尼地城海旁的部份行車線亦須封閉。駕駛人士只可使用餘下行車線行車。\n車長超逾八米的車輛須由堅尼地城海旁左轉入西祥街。\n受影響過海巴士第113及904號線(往卑路乍灣方向)須改道行駛。"
-            },
-            "2024-06-21T06:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98853",
-                "CONTENT_EN": "Part of the lanes of Praya, Kennedy Town (Victoria Road bound) near Sands Street which was closed due to watermain emergency works is re-opened to all traffic.   Besides, part of the lanes of Sands Street (Rock Hill Street bound) near Praya, Kennedy Town is also re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的堅彌地城海旁(往域多利道方向)近山市街的部份行車線現已解封。  同時，⼭市街(往⽯⼭街⽅向)近堅彌地城海旁的部份⾏⾞線亦現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-06-21T06:22:23",
-        "last_announcement": "2024-06-21T06:06:00"
-    },
-    "IN-24-03509": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Hoi Wang Road",
-            "LOCATION_CN": "海泓道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sham Shui Po",
-            "DIRECTION_CN": "深水埗",
-            "NEAR_LANDMARK_EN": "Yan Cheung Road",
-            "NEAR_LANDMARK_CN": "欣翔道",
-            "BETWEEN_LANDMARK_EN": "Lai Cheung Road",
-            "BETWEEN_LANDMARK_CN": "麗翔道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-21T00:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98848",
-                "CONTENT_EN": "Due to emergency repair of road surface , the only lane of Hoi Wang Road (Sham Shui Po bound) between Yan Cheung Road and Lai Cheung Road is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因緊急路面維修，海泓道(往深水埗方向)介乎欣翔道與麗翔道之間的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-06-21T06:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98851",
-                "CONTENT_EN": "The only lane of Hoi Wang Road (Sham Shui Po bound) between Yan Cheung Road and Lai Cheung Road which was closed due to emergency repair of road surface is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的海泓道(往深水埗方向)介乎欣翔道與麗翔道之間的唯一行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-21T06:22:23",
-        "last_announcement": "2024-06-21T06:04:00"
-    },
-    "IN-24-03510": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Cheong Wan Road",
-            "LOCATION_CN": "暢運道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom MTR Station",
-            "DIRECTION_CN": "紅磡港鐵站",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-21T01:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98849",
-                "CONTENT_EN": "Due to emergency repair of road surface , the only lane of Cheong Wan Road flyover (Hung Hom MTR Station bound) near Hong Kong Polytechnic University is closed to all traffic. \nAt the same time, affected KMB Routes Nos. N216, N241, N271 and N281 (Hung Hom bound) have been diverted.   Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因緊急路面維修，暢運道天橋(往紅磡港鐵站方向)近香港理工大學的唯一行車線現已封閉。\n同時,受影響九巴第N216,N241,N271及N281號線(往紅磡方向)已改道行駛。  駕駛人士請考慮改用其他道路。"
-            },
-            "2024-06-21T06:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98850",
-                "CONTENT_EN": "The only lane of Cheong Wan Road flyover (Hung Hom MTR Station bound) near Hong Kong Polytechnic University which was closed due to emergency repair of road surface is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的暢運道天橋(往紅磡港鐵站方向)近香港理工大學的唯一行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-21T06:22:23",
-        "last_announcement": "2024-06-21T06:03:00"
     },
     "IN-24-03511": {
         "description": {
