@@ -52,45 +52,6 @@
         "last_update": "2024-06-24T06:28:26",
         "last_announcement": "2024-06-24T06:19:00"
     },
-    "IN-24-03498": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-20T17:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98821",
-                "CONTENT_EN": "Due to emergency repair of road surface , the fast lane of the slip road leading from Kwun Tong Bypass (Yau Tong bound) to Wai Yip Street  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因緊急路面維修，由觀塘繞道(往油塘方向)通往偉業街 的支路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-21T06:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98854",
-                "CONTENT_EN": "The fast lane of the slip road leading from Kwun Tong Bypass (Yau Tong bound) to Wai Yip Street  which was closed due to emergency repair of road surface is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的由觀塘繞道(往油塘方向)通往偉業街 的支路的 快線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-21T06:43:38",
-        "last_announcement": "2024-06-21T06:29:00"
-    },
     "IN-24-03511": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
