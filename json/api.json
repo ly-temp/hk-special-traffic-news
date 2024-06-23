@@ -1,43 +1,4 @@
 {
-    "IN-24-03469": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Chung Hau Street",
-            "LOCATION_CN": "忠孝街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom Police Station",
-            "DIRECTION_CN": "紅磡警署",
-            "NEAR_LANDMARK_EN": "Holy Trinity Church Secondary School",
-            "NEAR_LANDMARK_CN": "聖公會聖三一堂中學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-19T15:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98748",
-                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Chung Hau Street (Hung Hom Police Station bound) near Holy Trinity Church Secondary School is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因水管緊急維修，忠孝街(往紅磡警署方向)近聖公會聖三一堂中學的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-06-20T19:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98837",
-                "CONTENT_EN": "The slow lane of Chung Hau Street (Hung Hom Police Station bound) near Holy Trinity Church Secondary School which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的忠孝街(往紅磡警署方向)近聖公會聖三一堂中學的慢線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-06-20T19:22:46",
-        "last_announcement": "2024-06-20T19:04:00"
-    },
     "IN-24-03497": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
