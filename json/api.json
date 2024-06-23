@@ -38,45 +38,6 @@
         "last_update": "2024-06-20T19:22:46",
         "last_announcement": "2024-06-20T19:04:00"
     },
-    "IN-24-03487": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-20T09:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98794",
-                "CONTENT_EN": "Lion Rock Tunnel Road (Kowloon bound) is busy. Traffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Sha Tin Road near Prince of Wales Hospital. Motorists passing through the above road section are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "獅子山隧道公路(往九龍方向)的交通繁忙。現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到沙田路近威爾斯親王醫院。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-06-20T10:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98800",
-                "CONTENT_EN": "Traffic at Lion Rock Tunnel Road (Kowloon bound) has resumed normal.",
-                "CONTENT_CN": "獅子山隧道公路(往九龍方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-20T10:41:39",
-        "last_announcement": "2024-06-20T10:19:00"
-    },
     "IN-24-03490": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
