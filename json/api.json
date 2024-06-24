@@ -52,66 +52,6 @@
         "last_update": "2024-06-24T06:28:26",
         "last_announcement": "2024-06-24T06:19:00"
     },
-    "IN-24-03537": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Lei Yue Mun Road",
-            "LOCATION_CN": "鯉魚門道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Lam Tin MTR Station",
-            "NEAR_LANDMARK_CN": "藍田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-21T18:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98918",
-                "CONTENT_EN": "The following road sections are busy:\n-Connaught Road Central Flyover (Kennedy Town bound)\n-Connaught Road West (Western Harbour Crossing bound)\n– Lung Cheung Road (Tsuen Wan bound)\nHowever traffic at the following road section resumed normal:\n-Lei Yue Mun Road (Yau Tong bound) near Lam Tin MTR Station.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n-干諾道中天橋(往堅尼地城⽅向)\n-干諾道西(往西區海底隧道⽅向)\n–龍翔道(往荃灣方向)\n但以下路段交通已回復正常：\n-鯉⿂⾨道(往油塘⽅向)近藍⽥港鐵站。"
-            },
-            "2024-06-21T18:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98924",
-                "CONTENT_EN": "The following road sections are still busy:\n-Connaught Road Central Flyover (Kennedy Town bound)\n-Connaught Road West (Western Harbour Crossing bound)\n– Lung Cheung Road (Tsuen Wan bound)\n– Connaught Road Central (Sheung Wan bound)\n– Harcourt Road (both bounds)\n– Gloucester Road (Cross Harbour Tunnel bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Connaught Road Central (Wan Chai bound)\n– Kwai Chung Road (Mong Kok bound) near Mei Foo.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n-干諾道中天橋(往堅尼地城⽅向)\n-干諾道西(往西區海底隧道⽅向)\n–龍翔道(往荃灣方向)\n–干諾道中(往上環方向)\n–夏慤道(來回方向)\n–告士打道(往海底隧道方向)\n–呈祥道(往荃灣方向)\n–干諾道中(往灣仔方向)\n–葵涌道(往旺角方向)近美孚。"
-            },
-            "2024-06-21T19:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98928",
-                "CONTENT_EN": "The following road sections are still busy:\n-Connaught Road Central Flyover (Kennedy Town bound)\n-Connaught Road West (Western Harbour Crossing bound)\n– Connaught Road Central (Sheung Wan bound)\n– Harcourt Road (both bounds)\n– Gloucester Road (Cross Harbour Tunnel bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Connaught Road Central (Wan Chai bound)\nHowever traffic at the following road section resumed normal:\n– Lung Cheung Road (Tsuen Wan bound)\n– Kwai Chung Road (Mong Kok bound) near Mei Foo.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n-干諾道中天橋(往堅尼地城⽅向)\n-干諾道西(往西區海底隧道⽅向)\n–干諾道中(往上環方向)\n–夏慤道(來回方向)\n–告士打道(往海底隧道方向)\n–呈祥道(往荃灣方向)\n–干諾道中(往灣仔方向)\n但以下路段交通已回復正常：\n–龍翔道(往荃灣方向)\n–葵涌道(往旺角方向)近美孚。"
-            },
-            "2024-06-21T19:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98931",
-                "CONTENT_EN": "The following road section is still busy:\n-Connaught Road Central Flyover (Kennedy Town bound)\nHowever traffic at the following road section resumed normal:\n-Connaught Road West (Western Harbour Crossing bound)\n– Connaught Road Central (Sheung Wan bound)\n– Harcourt Road (both bounds)\n– Gloucester Road (Cross Harbour Tunnel bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Connaught Road Central (Wan Chai bound).",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n-干諾道中天橋(往堅尼地城⽅向)\n但以下路段交通已回復正常：\n-干諾道西(往西區海底隧道⽅向)\n–干諾道中(往上環方向)\n–夏慤道(來回方向)\n–告士打道(往海底隧道方向)\n–呈祥道(往荃灣方向)\n–干諾道中(往灣仔方向)。"
-            },
-            "2024-06-21T20:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98932",
-                "CONTENT_EN": "Traffic at Connaught Road Central flyover (Kennedy Town bound) has resumed normal.",
-                "CONTENT_CN": "干諾道中天橋(往堅尼地城方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-21T20:46:57",
-        "last_announcement": "2024-06-21T20:29:00"
-    },
     "IN-24-03545": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
