@@ -130,45 +130,6 @@
         "last_update": "2024-06-21T17:12:21",
         "last_announcement": "2024-06-21T16:58:00"
     },
-    "IN-24-03531": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tseung Kwan O Tunnel",
-            "LOCATION_CN": "將軍澳隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-21T16:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98895",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Tseung Kwan O Tunnel (Kwun Tong bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，將軍澳隧道(往觀塘方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-21T16:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98896",
-                "CONTENT_EN": "The tunnel tube slow lane of Tseung Kwan O Tunnel (Kwun Tong bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳隧道(往觀塘方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-21T16:53:43",
-        "last_announcement": "2024-06-21T16:40:00"
-    },
     "IN-24-03532": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2868,11 +2829,18 @@
                 "ID": "99066",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsuen Wan Road (Tsuen Wan bound) near Lai King Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，荃灣路(往荃灣方向)近荔景邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-24T16:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99068",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tsuen Wan bound) near Lai King Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往荃灣方向)近荔景邨的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-06-24T16:22:08",
-        "last_announcement": "2024-06-24T16:01:00"
+        "last_update": "2024-06-24T16:56:37",
+        "last_announcement": "2024-06-24T16:41:00"
     },
     "IN-24-03601": {
         "description": {
