@@ -2362,5 +2362,37 @@
         "district": "深水埗區",
         "last_update": "2024-06-25T10:48:59",
         "last_announcement": "2024-06-25T10:29:00"
+    },
+    "IN-24-03610": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Plover Cove Road",
+            "LOCATION_CN": "寶湖道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Po Heung Street",
+            "DIRECTION_CN": "寶鄉街",
+            "NEAR_LANDMARK_EN": "The Church Of Christ In China Fung Leung Kit Memorial Secondary School",
+            "NEAR_LANDMARK_CN": "中華基督教會馮梁結紀念中學",
+            "BETWEEN_LANDMARK_EN": "Nam Wan Road",
+            "BETWEEN_LANDMARK_CN": "南運路",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-25T10:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99095",
+                "CONTENT_EN": "Due to emergency repairing works , all lanes of Plover Cove Road (Po Heung Street bound) between The Church Of Christ In China Fung Leung Kit Memorial Secondary School and Nam Wan Road is closed to all traffic. Affected KMB route no. 71K (Tai Wo bound) has been diverted. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因緊急維修，寶湖道(往寶鄉街方向)介乎中華基督教會馮梁結紀念中學與南運路之間的全線現已封閉。 受影響九巴第71K(往太和方向)號線須改道行駛。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-06-25T11:23:06",
+        "last_announcement": "2024-06-25T10:46:00"
     }
 }
