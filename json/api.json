@@ -91,45 +91,6 @@
         "last_update": "2024-06-22T10:21:15",
         "last_announcement": "2024-06-22T09:37:00"
     },
-    "IN-24-03549": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lei Yue Mun Road",
-            "LOCATION_CN": "鯉魚門道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kwun Tong Swimming Pool",
-            "NEAR_LANDMARK_CN": "觀塘游泳池",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-22T09:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98942",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lei Yue Mun Road (Yau Tong bound) near Kwun Tong Swimming Pool is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，鯉魚門道(往油塘方向)近觀塘游泳池的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-22T09:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "98943",
-                "CONTENT_EN": "Part of the lanes of Lei Yue Mun Road (Yau Tong bound) near Kwun Tong Swimming Pool which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的鯉魚門道(往油塘方向)近觀塘游泳池的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-22T09:45:41",
-        "last_announcement": "2024-06-22T09:35:00"
-    },
     "IN-24-03550": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2407,11 +2368,32 @@
                 "ID": "99082",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Kwun Tong bound) near The Latitude is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queues on Prince Edward Road East flyover (Kwun Tong bound) ends at Prince Edward Road West near Junction Road and Argyle Street near Lomond Road. Motorists are advised to use alternative routes such as Choi Hung Road. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，太子道東(往觀塘方向)近譽港灣的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在太子道東天橋(往觀塘方向)的車龍龍尾已到太子道西近聯合道及亞皆老街近露明道。 駕駛人士請考慮改用其他道路，例如彩虹道。 現時上址交通擠塞。"
+            },
+            "2024-06-25T09:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99089",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Kwun Tong bound) near The Latitude is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queues on Prince Edward Road East (Kwun Tong bound) ends at Argyle Street (Kwun Tong bound) near Cumberland Road, Prince Edward Road West (Kwun Tong bound) near Junction Road and Argyle Street (Kwun Tong bound) near Waterloo Road.   Motorists are advised to use alternative routes such as Choi Hung Road and Prince Edward East flyover.   Citizens please take note KMB's service travelling via Prince Edward Road East (Kwun Tong bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，太子道東(往觀塘方向)近譽港灣的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在太子道東(往觀塘方向)的車龍龍尾已到亞皆⽼街往觀塘⽅向)近⾦巴倫道, 太子道西(往觀塘方向)近聯合道及亞皆老街(往觀塘方向)近窩打老道。  駕駛人士請考慮改用其他道路，例如彩虹道及太子道東天橋。  市民請留意九巴途經太子道東往觀塘方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時上址交通擠塞。"
+            },
+            "2024-06-25T09:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99091",
+                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Kwun Tong bound) near The Latitude which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.   Citizens please take note KMB's service travelling via Prince Edward Road East (Kwun Tong bound) is still being affected, citizens please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往觀塘方向)近譽港灣的部份行車線現已解封。車龍有待消散。  市⺠請留意九巴途經太⼦道東往觀塘⽅向的服務仍受影響，市⺠請考慮使⽤其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-06-25T09:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99092",
+                "CONTENT_EN": "Service of KMB which was affected by the traffic accident at Prince Edward Road East (Kwun Tong bound) near The Latitude has gradually resumed normal.",
+                "CONTENT_CN": "較早前因位於太子道東(往觀塘方向)近譽港灣的交通意外而受影響的九巴服務已陸續回復正常。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-06-25T08:55:25",
-        "last_announcement": "2024-06-25T08:26:00"
+        "last_update": "2024-06-25T09:59:47",
+        "last_announcement": "2024-06-25T09:50:00"
     },
     "IN-24-03608": {
         "description": {
@@ -2446,10 +2428,17 @@
                 "ID": "99085",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Lookout. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近明愛醫院的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往荃灣方向)的車龍龍尾已到龍翔道(往荃灣方向)近龍翔道觀景台。 現時上址交通擠塞。"
+            },
+            "2024-06-25T08:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99086",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往荃灣方向)近明愛醫院的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-06-25T08:55:25",
-        "last_announcement": "2024-06-25T08:46:00"
+        "last_update": "2024-06-25T09:59:47",
+        "last_announcement": "2024-06-25T08:56:00"
     }
 }
