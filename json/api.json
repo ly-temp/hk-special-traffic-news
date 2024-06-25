@@ -52,45 +52,6 @@
         "last_update": "2024-06-24T06:28:26",
         "last_announcement": "2024-06-24T06:19:00"
     },
-    "IN-24-03552": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "road works",
-            "INCIDENT_DETAIL_CN": "道路工程",
-            "LOCATION_EN": "West Kowloon Highway",
-            "LOCATION_CN": "西九龍公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Western Harbour Crossing",
-            "DIRECTION_CN": "西區海底隧道",
-            "NEAR_LANDMARK_EN": "Hoi Tat Estate",
-            "NEAR_LANDMARK_CN": "海達邨",
-            "BETWEEN_LANDMARK_EN": "Olympic MTR Station",
-            "BETWEEN_LANDMARK_CN": "奧運港鐵站",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-22T10:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "98948",
-                "CONTENT_EN": "Due to road works, the fast lane of West Kowloon Highway (Western Harbour Crossing bound) between Hoi Tat Estate and Olympic MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因道路工程，西九龍公路(往西區海底隧道方向)介乎海達邨與奧運港鐵站之間的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-22T12:25:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "98956",
-                "CONTENT_EN": "The fast lane of West Kowloon Highway (Western Harbour Crossing bound) between Hoi Tat Estate and Olympic MTR Station which was closed due to road works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因道路工程而封閉的西九龍公路(往西區海底隧道方向)介乎海達邨與奧運港鐵站之間的快線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-06-22T12:44:45",
-        "last_announcement": "2024-06-22T12:25:00"
-    },
     "IN-24-03554": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2357,11 +2318,18 @@
                 "ID": "99095",
                 "CONTENT_EN": "Due to emergency repairing works , all lanes of Plover Cove Road (Po Heung Street bound) between The Church Of Christ In China Fung Leung Kit Memorial Secondary School and Nam Wan Road is closed to all traffic. Affected KMB route no. 71K (Tai Wo bound) has been diverted. Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因緊急維修，寶湖道(往寶鄉街方向)介乎中華基督教會馮梁結紀念中學與南運路之間的全線現已封閉。 受影響九巴第71K(往太和方向)號線須改道行駛。 駕駛人士請考慮改用其他道路。"
+            },
+            "2024-06-25T12:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99099",
+                "CONTENT_EN": "Due to watermain emergency works , all lanes of Plover Cove Road (Po Heung Street bound) between The Church Of Christ In China Fung Leung Kit Memorial Secondary School and Nam Wan Road are still being closed to all traffic.   Affected KMB route no. 71K (Tai Wo bound) and MTR Feeder Bus route no. K18 have been diverted.   Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管緊急維修，寶湖道(往寶鄉街方向)介乎中華基督教會馮梁結紀念中學與南運路之間的全線仍然封閉。  受影響九巴第71K(往太和方向)號線及港鐵接駁巴士第K18號線須改道行駛。  駕駛人士請考慮改用其他道路。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-06-25T11:23:06",
-        "last_announcement": "2024-06-25T10:46:00"
+        "last_update": "2024-06-25T12:52:17",
+        "last_announcement": "2024-06-25T12:32:00"
     },
     "IN-24-03611": {
         "description": {
@@ -2389,10 +2357,17 @@
                 "ID": "99098",
                 "CONTENT_EN": "Due to traffic accident , the only lane of the slip road leading from Lung Cheung Road (Kwun Tong bound) to Po Kong Village Road (Tsz Wan Shan bound) is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，由龍翔道(往觀塘方向)通往蒲崗村道(往慈雲山方向) 的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-06-25T12:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99100",
+                "CONTENT_EN": "The only lane of the slip road leading from Lung Cheung Road (Kwun Tong bound) to Po Kong Village Road (Tsz Wan Shan bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由龍翔道(往觀塘方向)通往蒲崗村道(往慈雲山方向) 的支路的 唯一行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-06-25T12:31:49",
-        "last_announcement": "2024-06-25T12:18:00"
+        "last_update": "2024-06-25T12:52:17",
+        "last_announcement": "2024-06-25T12:41:00"
     }
 }
