@@ -52,45 +52,6 @@
         "last_update": "2024-06-24T06:28:26",
         "last_announcement": "2024-06-24T06:19:00"
     },
-    "IN-24-03578": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lam Kam Road",
-            "LOCATION_CN": "林錦公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Hang Ha Po",
-            "NEAR_LANDMARK_CN": "坑下莆",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-23T08:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99015",
-                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Lam Kam Road near Hang Ha Po. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，林錦公路近坑下莆現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-06-23T09:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99016",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Lam Kam Road near Hang Ha Po due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於林錦公路近坑下莆實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-06-23T09:38:03",
-        "last_announcement": "2024-06-23T09:01:00"
-    },
     "IN-24-03579": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1368,11 +1329,18 @@
                 "ID": "99099",
                 "CONTENT_EN": "Due to watermain emergency works , all lanes of Plover Cove Road (Po Heung Street bound) between The Church Of Christ In China Fung Leung Kit Memorial Secondary School and Nam Wan Road are still being closed to all traffic.   Affected KMB route no. 71K (Tai Wo bound) and MTR Feeder Bus route no. K18 have been diverted.   Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因水管緊急維修，寶湖道(往寶鄉街方向)介乎中華基督教會馮梁結紀念中學與南運路之間的全線仍然封閉。  受影響九巴第71K(往太和方向)號線及港鐵接駁巴士第K18號線須改道行駛。  駕駛人士請考慮改用其他道路。"
+            },
+            "2024-06-26T08:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99153",
+                "CONTENT_EN": "The slow lane of Plover Cove Road (Po Heung Street bound) between The Church Of Christ In China Fung Leung Kit Memorial Secondary School and Nam Wan Road which was closed due to watermain emergency works is re-opened to all traffic. Affected bus services have resumed normal routeings. \nThe fast lane of Plover Cove Road (Po Heung Street bound) between The Church Of Christ In China Fung Leung Kit Memorial Secondary School and Nam Wan Road is still closed to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的寶湖道(往寶鄉街方向)介乎中華基督教會馮梁結紀念中學與南運路之間的慢線現已解封。受影響巴士服務已恢復原有路線。\n寶湖道(往寶鄉街方向)介乎中華基督教會馮梁結紀念中學與南運路之間的快線仍然封閉。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-06-25T12:52:17",
-        "last_announcement": "2024-06-25T12:32:00"
+        "last_update": "2024-06-26T09:46:10",
+        "last_announcement": "2024-06-26T08:30:00"
     },
     "IN-24-03611": {
         "description": {
@@ -2166,10 +2134,191 @@
                 "ID": "99145",
                 "CONTENT_EN": "Due to vehicle breakdown , the only lane of Texaco Road flyover (Tsuen Tsing Interchange bound) is still being closed to all traffic. Traffic queue on Texaco Road flyover (Tsuen Tsing Interchange bound) ends at Texaco Road North near Tsuen Kam Interchange. Motorists are advised to use alternative routes. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，德士古道天橋(往荃青交匯處方向)的唯一行車線仍然封閉。 現時在德士古道天橋(往荃青交匯處方向)的車龍龍尾已到德士古道北近荃錦交匯處。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
+            },
+            "2024-06-26T08:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99150",
+                "CONTENT_EN": "The only lane of Texaco Road flyover (Tsuen Tsing Interchange bound) which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的德士古道天橋(往荃青交匯處方向)的唯一行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-06-26T08:39:24",
-        "last_announcement": "2024-06-26T08:21:00"
+        "last_update": "2024-06-26T09:46:10",
+        "last_announcement": "2024-06-26T08:41:00"
+    },
+    "IN-24-03633": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wong Chu Road",
+            "LOCATION_CN": "皇珠路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lung Fu Road",
+            "DIRECTION_CN": "龍富路",
+            "NEAR_LANDMARK_EN": "Tuen Mun Heung Sze Wui Road",
+            "NEAR_LANDMARK_CN": "屯門鄉事會路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-26T08:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99149",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Wong Chu Road (Lung Fu Road bound) near Tuen Mun Heung Sze Wui Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Wong Chu Road (Lung Fu Road bound) ends at Yuen Long Highway near Tan Kwai Tsuen. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，皇珠路(往龍富路方向)近屯門鄉事會路的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在皇珠路(往龍富路方向)的車龍龍尾已到元朗公路近丹桂村。 現時上址交通擠塞。"
+            },
+            "2024-06-26T08:49:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99152",
+                "CONTENT_EN": "The slow lane of Wong Chu Road (Lung Fu Road bound) near Tuen Mun Heung Sze Wui Road which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的皇珠路(往龍富路方向)近屯門鄉事會路的慢線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-26T09:46:10",
+        "last_announcement": "2024-06-26T08:49:00"
+    },
+    "IN-24-03634": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kwun Tong Ferry Pier",
+            "NEAR_LANDMARK_CN": "觀塘渡輪碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-26T08:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99151",
+                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)近觀塘渡輪碼頭的慢線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-26T09:46:10",
+        "last_announcement": "2024-06-26T08:45:00"
+    },
+    "IN-24-03635": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Tsui Ping Road",
+            "NEAR_LANDMARK_CN": "翠屏道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-26T09:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99155",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Kwun Tong Road (Yau Tong bound) near Tsui Ping Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近翠屏道的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-26T09:46:10",
+        "last_announcement": "2024-06-26T09:13:00"
+    },
+    "IN-24-03632": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Texaco Road",
+            "LOCATION_CN": "德士古道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Tsing Interchange",
+            "DIRECTION_CN": "荃青交匯處",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-26T09:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99154",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Texaco Road (Tsuen Tsing Interchange bound)\n– Texaco Road North (Tsuen Tsing Interchange bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–德士古道(往荃青交匯處方向)\n–德士古道北(往荃青交匯處方向)。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-06-26T09:46:10",
+        "last_announcement": "2024-06-26T09:12:00"
+    },
+    "IN-24-03636": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Siu Hong MTR Station",
+            "NEAR_LANDMARK_CN": "兆康港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-26T09:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99156",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近兆康港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-26T09:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99157",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近兆康港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-26T09:46:10",
+        "last_announcement": "2024-06-26T09:35:00"
     }
 }
