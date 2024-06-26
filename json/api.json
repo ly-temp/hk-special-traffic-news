@@ -2510,10 +2510,17 @@
                 "ID": "99176",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Kwun Tong bound) near Kai Yip Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘道(往觀塘方向)近啟業邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-26T13:43:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99177",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Kwun Tong bound) near Kai Yip Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往觀塘方向)近啟業邨的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-06-26T13:47:46",
-        "last_announcement": "2024-06-26T13:39:00"
+        "last_update": "2024-06-26T13:57:51",
+        "last_announcement": "2024-06-26T13:43:00"
     }
 }
