@@ -2483,5 +2483,37 @@
         "district": "觀塘區",
         "last_update": "2024-06-26T13:57:51",
         "last_announcement": "2024-06-26T13:43:00"
+    },
+    "IN-24-03644": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Tuen Mun Chek Lap Kok Tunnel Road",
+            "LOCATION_CN": "屯門赤鱲角隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Lung Fu Road roundabout",
+            "NEAR_LANDMARK_CN": "龍富路迴旋處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-26T14:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99178",
+                "CONTENT_EN": "Due to emergency repairing works , the fast lane of Tuen Mun Chek Lap Kok Tunnel Road (Tuen Mun bound) near Lung Fu Road roundabout is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，屯門赤鱲角隧道公路(往屯門方向)近龍富路迴旋處的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-26T14:51:52",
+        "last_announcement": "2024-06-26T14:39:00"
     }
 }
