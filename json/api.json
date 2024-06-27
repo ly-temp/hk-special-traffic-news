@@ -38,45 +38,6 @@
         "last_update": "2024-06-24T17:20:02",
         "last_announcement": "2024-06-24T16:56:00"
     },
-    "IN-24-03600": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Lai King Estate",
-            "NEAR_LANDMARK_CN": "荔景邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-24T16:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99066",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsuen Wan Road (Tsuen Wan bound) near Lai King Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，荃灣路(往荃灣方向)近荔景邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-24T16:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99068",
-                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tsuen Wan bound) near Lai King Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往荃灣方向)近荔景邨的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-06-24T16:56:37",
-        "last_announcement": "2024-06-24T16:41:00"
-    },
     "IN-24-03601": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2849,5 +2810,37 @@
         "district": "油尖旺區",
         "last_update": "2024-06-27T16:43:38",
         "last_announcement": "2024-06-27T16:34:00"
+    },
+    "IN-24-03671": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Cross-boundary Travel related Arrangements / Notes during the Hong Kong Special Administrative Region Establishment Day",
+            "INCIDENT_DETAIL_CN": "香港特別行政區成立紀念日假期跨境陸路口岸出行的有關安排/注意事項",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-27T17:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99242",
+                "CONTENT_EN": "The Transport Department (TD) anticipates that there may be a number of cross-boundary passengers taking public transport services to travel to / from the Mainland / Macao via the land boundary control points during the Hong Kong Special Administrative Region Establishment Day holiday period. In the meantime, the number of cross boundary private cars travelling to / from the Mainland / Macao via the land boundary control points will also increase substantially. The TD has put in place the corresponding traffic and transport arrangements. Travelers are advised to plan their journeys ahead and travel outside peak periods as far as possible. \n\nThe TD also reminds members of public who would drive their private cars to and from the Mainland / Macao to note that it is anticipated more outbound/ inbound cross boundary vehicles will travel via the Hong Kong-Zhuhai-Macao Bridge (HZMB) on the first day (29 June) and the last day (1 July) of the holiday period respectively. The public can make use of \"HKeMobility\" to access the snapshots of traffic conditions at the inbound and outbound vehicle plaza of HZMB Hong Kong Port, and they can also check the real time situations of the vehicle clearance plaza of HZMB Zhuhai Port through the「大橋口岸實時通關」service on the「港珠澳大橋珠海口岸」or 「珠海發布」WeChat official accounts (or visit https://traffic-info.gzazhka.com:5015/#/),inorder to plan their journeys ahead. \n\nMembers of the public are also advised that, subject to actual traffic conditions, special traffic arrangements may be implemented at Lok Ma Chau Control Point and Shenzhen Bay Port from 28 June to the early morning of 2 July 2024 to facilitate public transport vehicles to enter the above control points smoothly. Motorists are advised to pay special attention to variable message signs and traffic signs along the road.   Members of the public are also advised to keep in view the latest traffic news through radio, television broadcasts and TD's \"HKeMobility\" mobile application.",
+                "CONTENT_CN": "運輸署預計在香港特別行政區成立紀念日假期期間，將有大量跨境乘客使用公共運輸服務經各陸路管制站往返內地／澳門，而經各陸路管制站往返內地／澳門的跨境私家車亦會顯著增加，運輸署已作出相應交通及運輸安排，並在此呼籲旅客及早規劃行程，盡量選擇於非繁忙時段出行。\n\n運輸署亦請駕駛私家車往返內地／澳門的市民注意，由於預計假期的第一天(即6月29日)及最後一天（即7月1日）將分別有較多跨境車輛使用港珠澳大橋離港及回港，市民可透過「香港出行易」查閱港珠澳大橋香港口岸出境及入境客車通關廣場的交通快拍，以及透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務(或前往https://traffic-info.gzazhka.com:5015/#/)，查詢大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。\n\n市民亦請注意，視乎現場交通情況，落馬洲管制站及深圳灣口岸由2024年6月28日起至7月2日凌晨，或會實施特別交通安排，以便公共運輸車輛能暢順地進入上述口岸。駕駛人士請特別留意沿途可變信息顯示屏及交通標誌。  運輸署亦請市民留意電台、電視台及運輸署流動應用程式「香港出行易」發放的最新交通消息。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-06-27T17:12:33",
+        "last_announcement": "2024-06-27T17:00:00"
     }
 }
