@@ -45,45 +45,6 @@
         "last_update": "2024-06-26T09:46:10",
         "last_announcement": "2024-06-26T08:30:00"
     },
-    "IN-24-03626": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Chatham Road South",
-            "LOCATION_CN": "漆咸道南",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Hong Chong Road",
-            "NEAR_LANDMARK_CN": "康莊道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-25T23:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99134",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Chatham Road South (Kwun Tong bound) near Hong Chong Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，漆咸道南(往觀塘方向)近康莊道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-26T00:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99136",
-                "CONTENT_EN": "Part of the lanes of Chatham Road South (Kwun Tong bound) near Hong Chong Road which was closed due to vehicle on fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的漆咸道南(往觀塘方向)近康莊道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-26T00:23:31",
-        "last_announcement": "2024-06-26T00:10:00"
-    },
     "IN-24-03628": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
