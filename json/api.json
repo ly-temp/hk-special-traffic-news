@@ -3246,5 +3246,37 @@
         "district": "元朗區",
         "last_update": "2024-06-29T07:31:04",
         "last_announcement": "2024-06-29T07:19:00"
+    },
+    "IN-24-03713": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
+            "LOCATION_CN": "青嶼幹線(青馬大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-29T07:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99332",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，青嶼幹線(青馬大橋)(往機場方向) 的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-29T07:51:30",
+        "last_announcement": "2024-06-29T07:41:00"
     }
 }
