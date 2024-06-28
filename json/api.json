@@ -84,38 +84,6 @@
         "last_update": "2024-06-25T19:22:50",
         "last_announcement": "2024-06-25T19:09:00"
     },
-    "IN-24-03620": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-25T18:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99128",
-                "CONTENT_EN": "Traffic at Lung Cheung Road (Tsuen Wan bound) has resumed normal.",
-                "CONTENT_CN": "龍翔道(往荃灣方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-06-25T19:11:44",
-        "last_announcement": "2024-06-25T18:57:00"
-    },
     "IN-24-03625": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3039,10 +3007,49 @@
                 "ID": "99309",
                 "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Shing Mun Tunnels (Sha Tin bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，城門隧道(往沙田方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-28T18:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99311",
+                "CONTENT_EN": "The tunnel tube slow lane of Shing Mun Tunnels (Sha Tin bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的城門隧道(往沙田方向)的管道慢線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-06-28T18:45:01",
-        "last_announcement": "2024-06-28T18:32:00"
+        "last_update": "2024-06-28T19:12:49",
+        "last_announcement": "2024-06-28T18:57:00"
+    },
+    "IN-24-03702": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Fu Tai Estate",
+            "NEAR_LANDMARK_CN": "富泰邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-28T18:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99310",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Yuen Long Highway (Sheung Shui bound) near Fu Tai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，元朗公路(往上水方向)近富泰邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-28T19:12:49",
+        "last_announcement": "2024-06-28T18:54:00"
     }
 }
