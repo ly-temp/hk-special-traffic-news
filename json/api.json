@@ -45,84 +45,6 @@
         "last_update": "2024-06-28T06:58:36",
         "last_announcement": "2024-06-28T06:45:00"
     },
-    "IN-24-03646": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Hong Chong Road",
-            "LOCATION_CN": "康莊道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ho Man Tin",
-            "DIRECTION_CN": "何文田",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-26T17:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99183",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，康莊道(往何文田方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-26T18:52:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "99185",
-                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的康莊道(往何文田方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-06-26T19:34:15",
-        "last_announcement": "2024-06-26T18:52:00"
-    },
-    "IN-24-03647": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kai Yip Estate",
-            "NEAR_LANDMARK_CN": "啟業邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-26T18:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99184",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘道(往油塘方向)近啟業邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-26T19:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99188",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘道(往油塘方向)近啟業邨的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-26T19:34:15",
-        "last_announcement": "2024-06-26T19:17:00"
-    },
     "IN-24-03528": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3129,5 +3051,37 @@
         "district": "觀塘區",
         "last_update": "2024-06-29T16:31:37",
         "last_announcement": "2024-06-29T16:19:00"
+    },
+    "IN-24-03729": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-29T19:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99371",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road flyover (Kwun Tong bound) near Ping Shek Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道天橋(往觀塘方向)近坪石邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-29T19:39:06",
+        "last_announcement": "2024-06-29T19:27:00"
     }
 }
