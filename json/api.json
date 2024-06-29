@@ -3090,5 +3090,37 @@
         "district": "屯門區",
         "last_update": "2024-06-29T10:53:11",
         "last_announcement": "2024-06-29T10:34:00"
+    },
+    "IN-24-03718": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tuen Fu Road Disciplined Services Quarters",
+            "NEAR_LANDMARK_CN": "屯富路紀律部隊宿舍",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-29T10:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99343",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Kowloon bound) near Tuen Fu Road Disciplined Services Quarters is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Tong Yan San Tsuen. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近屯富路紀律部隊宿舍的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近唐人新村。 現時上址交通擠塞。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-06-29T11:12:40",
+        "last_announcement": "2024-06-29T10:50:00"
     }
 }
