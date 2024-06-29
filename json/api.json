@@ -1,50 +1,4 @@
 {
-    "IN-24-03628": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Subsidence",
-            "INCIDENT_DETAIL_CN": "路面下陷",
-            "LOCATION_EN": "Ngau Tau Kok Road",
-            "LOCATION_CN": "牛頭角道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ngai Tau Kok Municipal Services Building",
-            "NEAR_LANDMARK_CN": "牛頭角市政大廈",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-26T06:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99137",
-                "CONTENT_EN": "Due to road subsidence , part of the lanes of Ngau Tau Kok Road (Kwun Tong bound) near Ngai Tau Kok Municipal Services Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因路面下陷，牛頭角道(往觀塘方向)近牛頭角市政大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-26T10:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99160",
-                "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Ngau Tau Kok Road (both bounds) near Ngai Tau Kok Municipal Services Building are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因緊急路面維修，牛頭角道(來回方向)近牛頭角市政大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-26T16:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99182",
-                "CONTENT_EN": "Part of the lanes of Ngau Tau Kok Road (both bounds) near Ngai Tau Kok Municipal Services Building which was closed due to emergency repair of road surface is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的牛頭角道(來回方向)近牛頭角市政大廈的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-26T16:31:33",
-        "last_announcement": "2024-06-26T16:21:00"
-    },
     "IN-24-03638": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3131,11 +3085,18 @@
                 "ID": "99364",
                 "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近澤安邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-29T16:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99367",
+                "CONTENT_EN": "The fast lane of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近澤安邨的快線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-06-29T15:54:26",
-        "last_announcement": "2024-06-29T15:40:00"
+        "last_update": "2024-06-29T16:31:37",
+        "last_announcement": "2024-06-29T16:05:00"
     },
     "IN-24-03727": {
         "description": {
@@ -3163,10 +3124,49 @@
                 "ID": "99366",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Prince Edward Road West is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，窩打老道天橋(往獅子山隧道方向)近太子道西的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-06-29T16:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99370",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Prince Edward Road West which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的窩打老道天橋(往獅子山隧道方向)近太子道西的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-06-29T16:15:55",
-        "last_announcement": "2024-06-29T16:04:00"
+        "last_update": "2024-06-29T16:31:37",
+        "last_announcement": "2024-06-29T16:20:00"
+    },
+    "IN-24-03728": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kwun Tong Ferry Pier",
+            "NEAR_LANDMARK_CN": "觀塘碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-29T16:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99369",
+                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近觀塘碼頭的慢線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-06-29T16:31:37",
+        "last_announcement": "2024-06-29T16:19:00"
     }
 }
