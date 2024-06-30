@@ -45,116 +45,6 @@
         "last_update": "2024-06-28T06:58:36",
         "last_announcement": "2024-06-28T06:45:00"
     },
-    "IN-24-03666": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tate's Cairn Highway",
-            "LOCATION_CN": "大老山公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sha Tin Sewage Treatment Works",
-            "NEAR_LANDMARK_CN": "沙田污水處理廠",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-27T11:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99231",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tate's Cairn Highway (Kowloon bound) near Sha Tin Sewage Treatment Works is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，大老山公路(往九龍方向)近沙田污水處理廠的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-27T13:43:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "99237",
-                "CONTENT_EN": "Part of the lanes of Tate's Cairn Highway (Kowloon bound) near Sha Tin Sewage Treatment Works which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的大老山公路(往九龍方向)近沙田污水處理廠的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-27T14:10:46",
-        "last_announcement": "2024-06-27T13:43:00"
-    },
-    "IN-24-03670": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sham Tseng",
-            "NEAR_LANDMARK_CN": "深井",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-27T13:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99238",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Tuen Mun Road (Kowloon bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近深井的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-27T14:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99240",
-                "CONTENT_EN": "The fast lane of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井的快線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-06-27T14:10:46",
-        "last_announcement": "2024-06-27T14:01:00"
-    },
-    "IN-24-03668": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Sha Tin Wai Road",
-            "LOCATION_CN": "沙田圍路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin Central",
-            "DIRECTION_CN": "沙田巿中心",
-            "NEAR_LANDMARK_EN": "Siu Lek Yuen Road",
-            "NEAR_LANDMARK_CN": "小瀝源路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-27T13:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99239",
-                "CONTENT_EN": "Part of the lanes of Sha Tin Wai Road (Sha Tin Central bound) near Siu Lek Yuen Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的沙田圍路(往沙田巿中心方向)近小瀝源路的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-06-27T14:10:46",
-        "last_announcement": "2024-06-27T13:53:00"
-    },
     "IN-24-03669": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2590,5 +2480,37 @@
         "district": null,
         "last_update": "2024-06-30T11:46:17",
         "last_announcement": "2024-06-30T11:10:00"
+    },
+    "IN-24-03735": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Sha Tin Rural Committee Road",
+            "LOCATION_CN": "沙田鄉事會路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po Road - Sha Tin",
+            "DIRECTION_CN": "大埔公路　–　沙田段",
+            "NEAR_LANDMARK_EN": "Lek Yuen Estate",
+            "NEAR_LANDMARK_CN": "瀝源邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-06-30T14:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99382",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sha Tin Rural Committee Road (Tai Po Road - Sha Tin bound) near Lek Yuen Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，沙田鄉事會路(往大埔公路　–　沙田段方向)近瀝源邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-06-30T14:25:32",
+        "last_announcement": "2024-06-30T14:09:00"
     }
 }
