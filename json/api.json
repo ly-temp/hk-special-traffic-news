@@ -2190,5 +2190,37 @@
         "district": "荃灣區",
         "last_update": "2024-07-01T10:42:54",
         "last_announcement": "2024-07-01T10:01:00"
+    },
+    "IN-24-03744": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwong Fuk Road",
+            "LOCATION_CN": "廣福道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Wo",
+            "DIRECTION_CN": "太和",
+            "NEAR_LANDMARK_EN": "Wan Tau Street",
+            "NEAR_LANDMARK_CN": "運頭街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-01T11:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99399",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Kwong Fuk Road (Tai Wo bound) near Wan Tau Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，廣福道(往太和方向)近運頭街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-07-01T11:32:24",
+        "last_announcement": "2024-07-01T11:26:00"
     }
 }
