@@ -38,38 +38,6 @@
         "last_update": "2024-06-30T07:49:57",
         "last_announcement": "2024-06-30T07:40:00"
     },
-    "IN-24-03696": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wan Po Road",
-            "LOCATION_CN": "環保大道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "South East New Territories Landfill",
-            "DIRECTION_CN": "新界東南堆填區",
-            "NEAR_LANDMARK_EN": "landfill entrance",
-            "NEAR_LANDMARK_CN": "堆填區入口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-28T17:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99306",
-                "CONTENT_EN": "All lanes of Wan Po Road (South East New Territories Landfill bound) near landfill entrance which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的環保大道(往新界東南堆填區方向)近堆填區入口的全線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-06-28T17:36:49",
-        "last_announcement": "2024-06-28T17:27:00"
-    },
     "IN-24-03700": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
