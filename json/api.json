@@ -116,116 +116,6 @@
         "last_update": "2024-06-30T10:27:47",
         "last_announcement": "2024-06-30T10:05:00"
     },
-    "IN-24-03726": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Chak On Estate",
-            "NEAR_LANDMARK_CN": "澤安邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-29T15:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99364",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近澤安邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-29T16:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99367",
-                "CONTENT_EN": "The fast lane of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近澤安邨的快線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-06-29T16:31:37",
-        "last_announcement": "2024-06-29T16:05:00"
-    },
-    "IN-24-03727": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Prince Edward Road West",
-            "NEAR_LANDMARK_CN": "太子道西",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-29T16:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99366",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Prince Edward Road West is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，窩打老道天橋(往獅子山隧道方向)近太子道西的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-29T16:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99370",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Prince Edward Road West which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的窩打老道天橋(往獅子山隧道方向)近太子道西的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-06-29T16:31:37",
-        "last_announcement": "2024-06-29T16:20:00"
-    },
-    "IN-24-03728": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kwun Tong Ferry Pier",
-            "NEAR_LANDMARK_CN": "觀塘碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-29T16:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99369",
-                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近觀塘碼頭的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-06-29T16:31:37",
-        "last_announcement": "2024-06-29T16:19:00"
-    },
     "IN-24-03729": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1761,5 +1651,69 @@
         "district": "九龍城區",
         "last_update": "2024-07-02T16:23:52",
         "last_announcement": "2024-07-02T15:54:00"
+    },
+    "IN-24-03769": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tuen Lee Street",
+            "NEAR_LANDMARK_CN": "屯利街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T16:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99458",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Lee Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近屯利街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-02T16:36:49",
+        "last_announcement": "2024-07-02T16:20:00"
+    },
+    "IN-24-03768": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sai Kung",
+            "DIRECTION_CN": "西貢",
+            "NEAR_LANDMARK_EN": "Choi Wan (I) Estate",
+            "NEAR_LANDMARK_CN": "彩雲一邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T16:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99459",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Sai Kung bound) near Choi Wan (I) Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往西貢方向)近彩雲一邨的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-07-02T16:36:49",
+        "last_announcement": "2024-07-02T16:24:00"
     }
 }
