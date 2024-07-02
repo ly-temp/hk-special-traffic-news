@@ -162,38 +162,6 @@
         "last_update": "2024-06-29T11:40:18",
         "last_announcement": "2024-06-29T11:30:00"
     },
-    "IN-24-03718": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tuen Fu Road Disciplined Services Quarters",
-            "NEAR_LANDMARK_CN": "屯富路紀律部隊宿舍",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-29T10:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99343",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Kowloon bound) near Tuen Fu Road Disciplined Services Quarters is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Tong Yan San Tsuen. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近屯富路紀律部隊宿舍的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近唐人新村。 現時上址交通擠塞。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-29T11:12:40",
-        "last_announcement": "2024-06-29T10:50:00"
-    },
     "IN-24-03720": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1781,11 +1749,18 @@
                 "ID": "99435",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Lai Yip Street (Kwun Tong Road bound) near Wai Yip Street are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，勵業街(往觀塘道方向)近偉業街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-07-02T11:02:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99440",
+                "CONTENT_EN": "Part of the lanes of Lai Yip Street (Kwun Tong Road bound) near Wai Yip Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的勵業街(往觀塘道方向)近偉業街的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-07-02T10:24:55",
-        "last_announcement": "2024-07-02T10:17:00"
+        "last_update": "2024-07-02T11:16:49",
+        "last_announcement": "2024-07-02T11:02:00"
     },
     "IN-24-03761": {
         "description": {
@@ -1818,5 +1793,44 @@
         "district": "深水埗區",
         "last_update": "2024-07-02T10:55:33",
         "last_announcement": "2024-07-02T10:38:00"
+    },
+    "IN-24-03762": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Western Harbour Crossing",
+            "LOCATION_CN": "西區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong Island",
+            "DIRECTION_CN": "香港島",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T10:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99438",
+                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-02T11:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99439",
+                "CONTENT_EN": "The tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西區海底隧道(往香港島方向)的管道快線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-07-02T11:16:49",
+        "last_announcement": "2024-07-02T11:02:00"
     }
 }
