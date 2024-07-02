@@ -1,43 +1,4 @@
 {
-    "IN-24-03692": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Re-opening of Yiu Hing Road",
-            "INCIDENT_DETAIL_CN": "耀興道重開",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-28T14:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99292",
-                "CONTENT_EN": "From 0530 hrs. of 30 June, Yiu Hing Road, Yiu Tung Estate in Shau Kei Wan will be resumed both bounds traffic, and the seven franchised bus routes (including Citybus Routes 77, 82S, 99, 720X, N8 and Cross Harbour Routes 110 and 606) and two green minibus (GMB) routes (GMB Routes 50 and 65) plying through the road section concerned will all resume their original services.",
-                "CONTENT_CN": "筲箕灣耀東邨耀興道由6月30日上午5時30分起恢復來回方向行車，行經該路段的七條巴士路線（包括城巴第77、82S、99、720X、N8號線及過海巴士第110及606號線）及兩條專線小巴第50及65號線，將會全部恢復行駛原有路線。"
-            },
-            "2024-06-30T07:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99374",
-                "CONTENT_EN": "From 0530 hrs. of 30 June, Yiu Hing Road, Yiu Tung Estate in Shau Kei Wan is resumed both bounds traffic, and the seven franchised bus routes (including Citybus Routes 77, 82S, 99, 720X, N8 and Cross Harbour Routes 110 and 606) and two green minibus (GMB) routes (GMB Routes 50 and 65) plying through the road section concerned resumed their original services.",
-                "CONTENT_CN": "筲箕灣耀東邨耀興道已於6月30日上午5時30分起恢復來回方向行車，行經該路段的七條巴士路線（包括城巴第77、82S、99、720X、N8號線及過海巴士第110及606號線）及兩條專線小巴第50及65號線，已全部恢復行駛原有路線。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-06-30T07:49:57",
-        "last_announcement": "2024-06-30T07:40:00"
-    },
     "IN-24-03716": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
