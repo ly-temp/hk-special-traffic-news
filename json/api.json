@@ -1793,5 +1793,69 @@
         "district": "九龍城區",
         "last_update": "2024-07-02T11:30:35",
         "last_announcement": "2024-07-02T11:16:00"
+    },
+    "IN-24-01652": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Sha Tin Rural Committee Road",
+            "LOCATION_CN": "沙田鄉事會路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-04-01T07:56:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "94784",
+                "CONTENT_EN": "The new traffic arrangement at Sha Tin Rural Committee Road interchange has been implemented since 24 March 2024. Except for franchised buses, all vehicles are prohibited from turning left from the first junction of Sha Tin Rural Committee Road (Shatin Station Bound) onto the Sha Tin Central Bus Terminus. Motorists should pay attention and follow the road alignment, directional signs, road markings and traffic signs of the new traffic arrangement to drive carefully avoiding driving on bus lane and opposite traffic lane.",
+                "CONTENT_CN": "沙田鄉事會路交匯處的新交通安排已於三月二十四日正式實施。除專利巴士外，所有車輛不得由沙田鄉事會路(沙田站方向)的第一個路口左轉入沙田市中心巴士總站。駕駛人士使用新交匯處時，必須細心留意及遵照新交匯處的道路配置、方向標誌、道路標記和交通標誌指示，小心駕駛以避免跨越巴士線及對面行車線。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-07-02T11:50:42",
+        "last_announcement": "2024-04-01T07:56:00"
+    },
+    "IN-24-03765": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Subsidence",
+            "INCIDENT_DETAIL_CN": "路面下陷",
+            "LOCATION_EN": "Fung Mo Street",
+            "LOCATION_CN": "鳳舞街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hong Keung Court",
+            "NEAR_LANDMARK_CN": "康強苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T11:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99446",
+                "CONTENT_EN": "Due to road subsidence , all lanes of Fung Mo Street (both bounds) near Hong Keung Court are closed to all traffic.   The following affected KMB bus routes have been diverted:\n-KMB Route No. 1 (Both bounds)\n-KMB Route No. 7 (Tsim Sha Tsui bound)\n-KMB Route No. 11K (Both bounds)\n-Cross Harbour Route No. 113 (Kennedy Town bound).  Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因路面下陷，鳳舞街(來回方向)近康強苑的全線現已封閉。  以下受影響巴士路線須改道行駛:\n-九巴第1號(來回方向)\n-九巴第7號(往尖沙咀方向)\n-九巴第11K號(來回方向)\n-過海隧道路線第113號(往堅尼地城方向)。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-07-02T11:50:42",
+        "last_announcement": "2024-07-02T11:43:00"
     }
 }
