@@ -77,45 +77,6 @@
         "last_update": "2024-06-29T23:05:32",
         "last_announcement": "2024-06-29T22:46:00"
     },
-    "IN-24-03713": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-29T07:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99332",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青嶼幹線(青馬大橋)(往機場方向) 的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-29T07:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99333",
-                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青嶼幹線(青馬大橋)(往機場方向) 的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-06-29T08:36:33",
-        "last_announcement": "2024-06-29T07:58:00"
-    },
     "IN-24-03714": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1557,11 +1518,18 @@
                 "ID": "99419",
                 "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse. Affected LWB bus routes no. A36, E36, E36A, E37 and A37 (Airport bound) have been diverted.",
                 "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近兆康港鐵站的部份行車線現已解封。 車龍有待消散。 受影響⿓運巴⼠路線A36,E36,E36A,E37 及A37 (往機場⽅向)仍須改道⾏駛。"
+            },
+            "2024-07-02T09:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99430",
+                "CONTENT_EN": "Service of LWB which was affected by the vehicle breakdown at Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station has resumed normal.",
+                "CONTENT_CN": "較早前因位於屯門公路(往九龍方向)近兆康港鐵站的車輛故障而受影響的龍運巴士服務已回復正常。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-07-02T08:34:59",
-        "last_announcement": "2024-07-02T08:26:00"
+        "last_update": "2024-07-02T09:45:58",
+        "last_announcement": "2024-07-02T09:33:00"
     },
     "IN-24-03752": {
         "description": {
@@ -1626,5 +1594,172 @@
         "district": "觀塘區",
         "last_update": "2024-07-02T08:34:59",
         "last_announcement": "2024-07-02T07:44:00"
+    },
+    "IN-24-03750": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Gascoigne Road Flyover",
+            "LOCATION_CN": "加士居道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "HK Girl Guides' Association HQ",
+            "NEAR_LANDMARK_CN": "香港女童軍總會",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T08:28:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99420",
+                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Yau Ma Tei bound) near HK Girl Guides' Association HQ which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往油麻地方向)近香港女童軍總會的部份行車線現已解封。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-07-02T09:45:58",
+        "last_announcement": "2024-07-02T08:28:00"
+    },
+    "IN-24-03755": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T08:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99422",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Chai Wan bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往柴灣方向)近和富中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-02T08:54:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99424",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近和富中心的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-07-02T09:45:58",
+        "last_announcement": "2024-07-02T08:54:00"
+    },
+    "IN-24-03754": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Wong Tai Sin MTR Station",
+            "NEAR_LANDMARK_CN": "黃大仙港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T08:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99425",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Wong Tai Sin MTR Station which was closed due to emergency incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因突發事件而封閉的龍翔道(往荃灣方向)近黃大仙港鐵站的慢線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-07-02T09:45:58",
+        "last_announcement": "2024-07-02T08:57:00"
+    },
+    "IN-24-03756": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tate's Cairn Tunnel",
+            "LOCATION_CN": "大老山隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T09:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99426",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube fast lane of Tate's Cairn Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大老山隧道(往九龍方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-07-02T09:45:58",
+        "last_announcement": "2024-07-02T09:07:00"
+    },
+    "IN-24-03757": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Connaught Road West",
+            "LOCATION_CN": "干諾道西",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Central Police Station",
+            "NEAR_LANDMARK_CN": "中區警署",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T09:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99429",
+                "CONTENT_EN": "The slow lane of Connaught Road West flyover (Central bound) near Central Police Station which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的干諾道西天橋(往中環方向)近中區警署的慢線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-07-02T09:45:58",
+        "last_announcement": "2024-07-02T09:31:00"
     }
 }
