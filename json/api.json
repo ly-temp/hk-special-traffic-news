@@ -1788,11 +1788,18 @@
                 "ID": "99443",
                 "CONTENT_EN": "Due to emergency repair of road surface , the only lane of Sheung Shing Street (Tin Kwong Road bound) near St. Teresa Secondary School is closed to all traffic. Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因緊急路面維修，常盛街(往天光道方向)近德蘭中學的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
+            },
+            "2024-07-02T11:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99449",
+                "CONTENT_EN": "Due to emergency repair of road surface , the one-lane-two-way traffic arrangement is being implemented on Sheung Shing Street near St. Teresa Secondary School. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，常盛街近德蘭中學現已實施單線雙程行車措施。 現時上址交通繁忙。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-07-02T11:30:35",
-        "last_announcement": "2024-07-02T11:16:00"
+        "last_update": "2024-07-02T12:08:46",
+        "last_announcement": "2024-07-02T11:55:00"
     },
     "IN-24-01652": {
         "description": {
@@ -1852,10 +1859,49 @@
                 "ID": "99446",
                 "CONTENT_EN": "Due to road subsidence , all lanes of Fung Mo Street (both bounds) near Hong Keung Court are closed to all traffic.   The following affected KMB bus routes have been diverted:\n-KMB Route No. 1 (Both bounds)\n-KMB Route No. 7 (Tsim Sha Tsui bound)\n-KMB Route No. 11K (Both bounds)\n-Cross Harbour Route No. 113 (Kennedy Town bound).  Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因路面下陷，鳳舞街(來回方向)近康強苑的全線現已封閉。  以下受影響巴士路線須改道行駛:\n-九巴第1號(來回方向)\n-九巴第7號(往尖沙咀方向)\n-九巴第11K號(來回方向)\n-過海隧道路線第113號(往堅尼地城方向)。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-07-02T11:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99447",
+                "CONTENT_EN": "Due to road subsidence , all lanes of Fung Mo Street (both bounds) between Fu Mei Street and Heng Lam Street are closed to all traffic.   The following affected bus routes have been diverted:\n-KMB Route No. 1 (Both bounds)\n-KMB Route No. 7 (Tsim Sha Tsui bound)\n-KMB Route No. 11K (Both bounds)\n-Cross Harbour Route No. 113 (Kennedy Town bound).  Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因路面下陷，鳳舞街(來回方向)介乎富美街與杏林街之間的全線現已封閉。  以下受影響巴士路線須改道行駛:\n-九巴第1號(來回方向)\n-九巴第7號(往尖沙咀方向)\n-九巴第11K號(來回方向)\n-過海隧道路線第113號(往堅尼地城方向)。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-07-02T11:50:42",
-        "last_announcement": "2024-07-02T11:43:00"
+        "last_update": "2024-07-02T12:08:46",
+        "last_announcement": "2024-07-02T11:44:00"
+    },
+    "IN-24-03764": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Man Po Street",
+            "LOCATION_CN": "民寶街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Admiralty",
+            "DIRECTION_CN": "金鐘",
+            "NEAR_LANDMARK_EN": "Central Pier No.3",
+            "NEAR_LANDMARK_CN": "中環３號碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-02T11:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99448",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Man Po Street (Admiralty bound) near Central Pier No.3 is still being closed to all traffic. Only remaining lanes is available to motorists. Traffic queue on Man Po Street (Admiralty bound) ends at Connaught Road West Flyover near Central Police Station. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，民寶街(往金鐘方向)近中環３號碼頭的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在民寶街(往金鐘方向)的車龍龍尾已到干諾道西天橋近中區警署。 現時上址交通擠塞。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-07-02T12:08:46",
+        "last_announcement": "2024-07-02T11:50:00"
     }
 }
