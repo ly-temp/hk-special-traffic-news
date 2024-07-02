@@ -116,45 +116,6 @@
         "last_update": "2024-06-30T10:27:47",
         "last_announcement": "2024-06-30T10:05:00"
     },
-    "IN-24-03724": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "King's Road",
-            "LOCATION_CN": "英皇道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-29T14:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99359",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from King's Road  to Island Eastern Corridor (Central bound) is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，由英皇道通往東區走廊(往中環方向) 的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-06-29T14:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99360",
-                "CONTENT_EN": "The only lane of the slip road leading from King's Road  to Island Eastern Corridor (Central bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的由英皇道通往東區走廊(往中環方向) 的支路的 唯一行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-06-29T14:41:20",
-        "last_announcement": "2024-06-29T14:27:00"
-    },
     "IN-24-03725": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
