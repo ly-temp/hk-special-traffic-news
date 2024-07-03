@@ -2205,10 +2205,17 @@
                 "ID": "99521",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Sheung Shui bound) near Tolo Harbour Garden is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，吐露港公路(往上水方向)近吐露港花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-03T16:29:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99523",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Sheung Shui bound) near Tolo Harbour Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往上水方向)近吐露港花園的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-07-03T16:09:20",
-        "last_announcement": "2024-07-03T15:57:00"
+        "last_update": "2024-07-03T16:41:42",
+        "last_announcement": "2024-07-03T16:29:00"
     }
 }
