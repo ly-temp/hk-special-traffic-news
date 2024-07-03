@@ -2249,5 +2249,37 @@
         "district": "油尖旺區",
         "last_update": "2024-07-03T16:52:08",
         "last_announcement": "2024-07-03T16:41:00"
+    },
+    "IN-24-03794": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "West Kowloon Highway",
+            "LOCATION_CN": "西九龍公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Western Harbour Crossing",
+            "DIRECTION_CN": "西區海底隧道",
+            "NEAR_LANDMARK_EN": "Olympic MTR Station",
+            "NEAR_LANDMARK_CN": "奧運港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-03T17:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99525",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Olympic MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，西九龍公路(往西區海底隧道方向)近奧運港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-03T17:26:25",
+        "last_announcement": "2024-07-03T17:12:00"
     }
 }
