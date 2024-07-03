@@ -38,38 +38,6 @@
         "last_update": "2024-06-30T11:56:24",
         "last_announcement": "2024-06-30T11:39:00"
     },
-    "IN-24-03733": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-30T11:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99380",
-                "CONTENT_EN": "Due to rough sea condition , the following ferry service will be or have been adjusted. \nTsui Wah Ferry Service (H. K. ) Limited\nAberdeen/Stanley - Po Toi Island\nDeparture cancelled:\n11:30am departure from Stanley to Po Toi\n3:00pm &amp; 4:30pm departure from Po Toi to Stanley\n\nService adjusted (not via Stanley):\n3:00pm &amp; 6:00pm departure from Po Toi to Aberdeen.",
-                "CONTENT_CN": "因海面風浪，以下渡輪服務將會或已經調整。\n翠華船務（香港）有限公司\n香港仔/赤柱-蒲台島\n取消班次：\n早上11：30 赤柱開出往蒲台\n下午3:00 及下午4:30 由蒲台島開出往赤柱\n\n服務調整（不經赤柱）:\n下午3:00 及下午6:00 蒲台島開出前往香港仔。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-06-30T11:46:17",
-        "last_announcement": "2024-06-30T11:10:00"
-    },
     "IN-24-03735": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1192,11 +1160,18 @@
                 "ID": "99449",
                 "CONTENT_EN": "Due to emergency repair of road surface , the one-lane-two-way traffic arrangement is being implemented on Sheung Shing Street near St. Teresa Secondary School. Traffic is busy now.",
                 "CONTENT_CN": "因緊急路面維修，常盛街近德蘭中學現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2024-07-03T11:35:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99502",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Sheung Shing Street near St. Teresa Secondary School due to emergency repair of road surface is now cancelled.",
+                "CONTENT_CN": "較早前因緊急路面維修而於常盛街近德蘭中學實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-07-02T12:08:46",
-        "last_announcement": "2024-07-02T11:55:00"
+        "last_update": "2024-07-03T11:52:02",
+        "last_announcement": "2024-07-03T11:35:00"
     },
     "IN-24-01652": {
         "description": {
