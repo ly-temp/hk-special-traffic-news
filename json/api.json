@@ -38,77 +38,6 @@
         "last_update": "2024-06-30T18:07:14",
         "last_announcement": "2024-06-30T17:58:00"
     },
-    "IN-24-03741": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Fat Kwong Street Playground",
-            "NEAR_LANDMARK_CN": "佛光街遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-30T17:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99391",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Fat Kwong Street Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，漆咸道北(往尖沙咀方向)近佛光街遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-06-30T17:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99393",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Fat Kwong Street Playground which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的漆咸道北(往尖沙咀方向)近佛光街遊樂場的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-06-30T17:51:14",
-        "last_announcement": "2024-06-30T17:35:00"
-    },
-    "IN-24-03740": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-06-30T17:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99392",
-                "CONTENT_EN": "The Transport Department anticipates that more travellers would return to Hong Kong via land-based Boundary Control Points tomorrow (1st July). The Transport Department appeals to these inbound travellers to plan ahead their journeys and reserve sufficient commuting time. \n\nIt is anticipated that the demand for public transport services will be higher during the period and the waiting time would increase. The Transport Department has instructed public transport operators to strengthen their services to meet passenger demand. \n\nThe Transport Department's Emergency Transport Coordination Centre will continue to monitor the traffic and public transport services at all land-based Boundary Control Points, and shall disseminate the latest traffic news through the Transport Department's mobile application \"HKeMobility\". \nThe public may make use of \"HKeMobility\" to access the snapshots of traffic conditions at the inbound and outbound vehicle plazas of Hong Kong-Zhuhai-Macao Bridge (HZMB) Hong Kong Port, and they may also check the real time situations of the vehicle clearance plaza of HZMB Zhuhai Port through the「大橋口岸實時通關」service on the「港珠澳大橋珠海口岸」or 「珠海發布」WeChat official accounts (or visit https://traffic-info.gzazhka.com:5015/#/),in order to plan their journeys ahead.",
-                "CONTENT_CN": "運輸署預料明日(7月1日)將有較多跨境旅客使用陸路口岸回港，運輸署呼籲有關旅客預早妥善規劃行程，預留充裕交通時間。預計在返港高峰時間的公共運輸需求會較高，乘客候車時間亦會較長。運輸署已指示公共運輸服務營辦商加強服務應付乘客需求。運輸署的緊急交通事故協調中心會繼續監察各陸路口岸的公共運輸服務情況，並會透過運輸署流動應用程式「香港出行易」，發放最新的交通消息。\n\n市民亦可透過「香港出行易」查閱港珠澳大橋香港口岸出境及入境客車通關廣場的交通快拍，以及透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務(或前往https://traffic-info.gzazhka.com:5015/#/)，查詢大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-06-30T17:51:14",
-        "last_announcement": "2024-06-30T17:30:00"
-    },
     "IN-24-03742": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2308,10 +2237,49 @@
                 "ID": "99527",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-03T17:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99529",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-07-03T17:36:33",
-        "last_announcement": "2024-07-03T17:24:00"
+        "last_update": "2024-07-03T17:57:11",
+        "last_announcement": "2024-07-03T17:46:00"
+    },
+    "IN-24-03796": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Pak Wo Road",
+            "LOCATION_CN": "百和路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "So Kwun Po Road",
+            "NEAR_LANDMARK_CN": "掃管埔路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-03T17:44:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99528",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes at the junction of Pak Wo Road and So Kwun Po Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，百和路和掃管埔路交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-07-03T17:57:11",
+        "last_announcement": "2024-07-03T17:44:00"
     }
 }
