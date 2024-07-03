@@ -2064,10 +2064,102 @@
                 "ID": "99492",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kam Tin Road (Pat Heung bound) near Ko Po Tsuen is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，錦田公路(往八鄉方向)近高埔村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-03T09:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99501",
+                "CONTENT_EN": "Part of the lanes of Kam Tin Road (Pat Heung bound) near Ko Po Tsuen which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的錦田公路(往八鄉方向)近高埔村的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-07-03T08:52:39",
-        "last_announcement": "2024-07-03T08:36:00"
+        "last_update": "2024-07-03T09:56:41",
+        "last_announcement": "2024-07-03T09:21:00"
+    },
+    "IN-24-03782": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Fu Road",
+            "LOCATION_CN": "龍富路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Chek Lap Kok Tunnel",
+            "DIRECTION_CN": "屯門赤鱲角隧道",
+            "NEAR_LANDMARK_EN": "Lung Fu Road roundabout",
+            "NEAR_LANDMARK_CN": "龍富路迴旋處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-03T08:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99494",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel bound) near Lung Fu Road roundabout is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍富路(往屯門赤鱲角隧道方向)近龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-03T08:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99497",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel bound) near Lung Fu Road roundabout is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel bound) ends at Lung Fu Road near Lung Mun Oasis. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，龍富路(往屯門赤鱲角隧道方向)近龍富路迴旋處的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍富路(往屯門赤鱲角隧道方向)的車龍龍尾已到龍富路近龍門居。 現時上址交通擠塞。"
+            },
+            "2024-07-03T09:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99498",
+                "CONTENT_EN": "Part of the lanes of Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel bound) near Lung Fu Road roundabout which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍富路(往屯門赤鱲角隧道方向)近龍富路迴旋處的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-03T09:56:41",
+        "last_announcement": "2024-07-03T09:05:00"
+    },
+    "IN-24-03783": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Kung Um Road",
+            "NEAR_LANDMARK_CN": "公庵路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-03T08:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99496",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Yuen Long Highway (Sheung Shui bound) near Kung Um Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，元朗公路(往上水方向)近公庵路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-03T09:20:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99500",
+                "CONTENT_EN": "The fast lane of Yuen Long Highway (Sheung Shui bound) near Kung Um Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往上水方向)近公庵路的快線現已解封。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-07-03T09:56:41",
+        "last_announcement": "2024-07-03T09:20:00"
     }
 }
