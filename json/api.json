@@ -1,36 +1,4 @@
 {
-    "IN-24-03610": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Plover Cove Road",
-            "LOCATION_CN": "寶湖道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Po Heung Street",
-            "DIRECTION_CN": "寶鄉街",
-            "NEAR_LANDMARK_EN": "The Church Of Christ In China Fung Leung Kit Memorial Secondary School",
-            "NEAR_LANDMARK_CN": "中華基督教會馮梁結紀念中學",
-            "BETWEEN_LANDMARK_EN": "Nam Wan Road",
-            "BETWEEN_LANDMARK_CN": "南運路",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-02T06:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99410",
-                "CONTENT_EN": "The fast lane of Plover Cove Road (Po Heung Street bound) between The Church Of Christ In China Fung Leung Kit Memorial Secondary School and Nam Wan Road which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的寶湖道(往寶鄉街方向)介乎中華基督教會馮梁結紀念中學與南運路之間的快線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-07-02T07:20:31",
-        "last_announcement": "2024-07-02T06:55:00"
-    },
     "IN-24-03751": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3393,5 +3361,37 @@
         "district": "深水埗區",
         "last_update": "2024-07-04T22:13:36",
         "last_announcement": "2024-07-04T21:54:00"
+    },
+    "IN-24-03834": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Hammer Hill Road Swimming Pool",
+            "NEAR_LANDMARK_CN": "斧山道游泳池",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T07:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99637",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Hammer Hill Road Swimming Pool is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近斧山道游泳池的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-07-05T07:26:14",
+        "last_announcement": "2024-07-05T07:12:00"
     }
 }
