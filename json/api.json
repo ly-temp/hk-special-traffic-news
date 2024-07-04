@@ -3103,5 +3103,37 @@
         "district": "沙田區",
         "last_update": "2024-07-04T11:17:05",
         "last_announcement": "2024-07-04T10:57:00"
+    },
+    "IN-24-03822": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Road",
+            "DIRECTION_CN": "屯門公路",
+            "NEAR_LANDMARK_EN": "Tsuen Wan Park",
+            "NEAR_LANDMARK_CN": "荃灣公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-04T11:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99599",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tsuen Wan Road (Tuen Mun Road bound) near Tsuen Wan Park is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，荃灣路(往屯門公路方向)近荃灣公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-07-04T11:42:11",
+        "last_announcement": "2024-07-04T11:32:00"
     }
 }
