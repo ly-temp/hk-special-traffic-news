@@ -66,38 +66,6 @@
         "last_update": "2024-07-02T09:45:58",
         "last_announcement": "2024-07-02T09:33:00"
     },
-    "IN-24-03752": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Kai Yip Estate",
-            "NEAR_LANDMARK_CN": "啟業邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-02T07:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99415",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Mong Kok bound) near Kai Yip Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘道(往旺角方向)近啟業邨的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-07-02T07:51:09",
-        "last_announcement": "2024-07-02T07:35:00"
-    },
     "IN-24-03753": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3432,5 +3400,37 @@
         "district": "荃灣區",
         "last_update": "2024-07-05T07:37:09",
         "last_announcement": "2024-07-05T07:21:00"
+    },
+    "IN-24-03836": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong By-Pass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon Bay",
+            "DIRECTION_CN": "九龍灣",
+            "NEAR_LANDMARK_EN": "Shun Yip Street",
+            "NEAR_LANDMARK_CN": "順業街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T07:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99640",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong By-Pass (Kowloon Bay bound) near Shun Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往九龍灣方向)近順業街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-05T07:57:45",
+        "last_announcement": "2024-07-05T07:47:00"
     }
 }
