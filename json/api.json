@@ -66,38 +66,6 @@
         "last_update": "2024-07-02T09:45:58",
         "last_announcement": "2024-07-02T09:33:00"
     },
-    "IN-24-03753": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O Tunnel",
-            "DIRECTION_CN": "將軍澳隧道",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-02T07:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99416",
-                "CONTENT_EN": "Tseung Kwan O Road (Tseung Kwan O Tunnel bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "將軍澳道(往將軍澳隧道方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-07-02T08:34:59",
-        "last_announcement": "2024-07-02T07:44:00"
-    },
     "IN-24-03750": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3395,11 +3363,18 @@
                 "ID": "99638",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近深井的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-05T08:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99643",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-07-05T07:37:09",
-        "last_announcement": "2024-07-05T07:21:00"
+        "last_update": "2024-07-05T09:24:09",
+        "last_announcement": "2024-07-05T08:06:00"
     },
     "IN-24-03836": {
         "description": {
@@ -3427,10 +3402,166 @@
                 "ID": "99640",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong By-Pass (Kowloon Bay bound) near Shun Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘繞道(往九龍灣方向)近順業街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-05T08:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99642",
+                "CONTENT_EN": "The slow lane of Kwun Tong By-Pass (Kowloon Bay bound) near Shun Yip Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往九龍灣方向)近順業街的慢線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-07-05T07:57:45",
-        "last_announcement": "2024-07-05T07:47:00"
+        "last_update": "2024-07-05T09:24:09",
+        "last_announcement": "2024-07-05T08:02:00"
+    },
+    "IN-24-03837": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Po Kong Village Road",
+            "NEAR_LANDMARK_CN": "蒲崗村道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T07:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99641",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Kwun Tong bound) near Po Kong Village Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近蒲崗村道的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-05T08:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99644",
+                "CONTENT_EN": "The fast lane of Lung Cheung Road (Kwun Tong bound) near Po Kong Village Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近蒲崗村道的快線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-07-05T09:24:09",
+        "last_announcement": "2024-07-05T08:08:00"
+    },
+    "IN-24-03838": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Tsing Interchange",
+            "LOCATION_CN": "荃青交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T08:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99645",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of the slip road leading from Tsuen Tsing Interchange  to Tsuen Wan Road (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由荃青交匯處通往荃灣路(往九龍方向) 的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-05T08:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99648",
+                "CONTENT_EN": "Part of the lanes of the slip road leading from Tsuen Tsing Interchange  to Tsuen Wan Road (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的由荃青交匯處通往荃灣路(往九龍方向) 的支路的 部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-05T09:24:09",
+        "last_announcement": "2024-07-05T08:58:00"
+    },
+    "IN-24-03839": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "traffic accident happened earlier",
+            "INCIDENT_DETAIL_CN": "較早前交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tuen Mun Road Bus-Bus Interchange",
+            "NEAR_LANDMARK_CN": "屯門公路巴士轉乘站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T08:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99647",
+                "CONTENT_EN": "Due to traffic accident happened earlier , Tuen Mun Road (Kowloon bound) near Tuen Mun Road Bus-Bus Interchange is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "因較早前交通意外，屯門公路(往九龍方向)近屯門公路巴士轉乘站的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-05T09:24:09",
+        "last_announcement": "2024-07-05T08:49:00"
+    },
+    "IN-24-03840": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T09:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99649",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近深井的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-05T09:12:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99650",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-07-05T09:24:09",
+        "last_announcement": "2024-07-05T09:12:00"
     }
 }
