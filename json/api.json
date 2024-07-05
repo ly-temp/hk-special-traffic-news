@@ -105,84 +105,6 @@
         "last_update": "2024-07-04T06:32:59",
         "last_announcement": "2024-07-04T06:13:00"
     },
-    "IN-24-03772": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road East",
-            "LOCATION_CN": "太子道東",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Choi Hung Road",
-            "NEAR_LANDMARK_CN": "彩虹道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-02T17:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99465",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Kwun Tong bound) near Choi Hung Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，太子道東(往觀塘方向)近彩虹道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-02T18:21:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "99469",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Kwun Tong bound) near Choi Hung Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往觀塘方向)近彩虹道的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-07-02T18:36:28",
-        "last_announcement": "2024-07-02T18:21:00"
-    },
-    "IN-24-03773": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Austin Road",
-            "LOCATION_CN": "柯士甸道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Parkes Street",
-            "NEAR_LANDMARK_CN": "白加士街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-02T18:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99467",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Austin Road (Hung Hom bound) near Parkes Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，柯士甸道(往紅磡方向)近白加士街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-02T18:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99470",
-                "CONTENT_EN": "Part of the lanes of Austin Road (Hung Hom bound) near Parkes Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的柯士甸道(往紅磡方向)近白加士街的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-07-02T18:36:28",
-        "last_announcement": "2024-07-02T18:29:00"
-    },
     "IN-24-03774": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3386,5 +3308,101 @@
         "district": "大埔區",
         "last_update": "2024-07-05T18:36:05",
         "last_announcement": "2024-07-05T18:23:00"
+    },
+    "IN-24-03861": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Lai Yip Street",
+            "NEAR_LANDMARK_CN": "勵業街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T18:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99691",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Lai Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近勵業街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-05T18:46:21",
+        "last_announcement": "2024-07-05T18:27:00"
+    },
+    "IN-24-03858": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Tsui Ping South Estate",
+            "NEAR_LANDMARK_CN": "翠屏南邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T18:28:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99692",
+                "CONTENT_EN": "The fast lane of Tseung Kwan O Road (Kwun Tong bound) near Tsui Ping South Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘方向)近翠屏南邨的快線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-05T18:46:21",
+        "last_announcement": "2024-07-05T18:28:00"
+    },
+    "IN-24-03860": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tai Po Railway Pier",
+            "NEAR_LANDMARK_CN": "大埔鐵路碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-05T18:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99693",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Tai Po Railway Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近大埔鐵路碼頭的部份行車線現已解封。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-07-05T18:46:21",
+        "last_announcement": "2024-07-05T18:41:00"
     }
 }
