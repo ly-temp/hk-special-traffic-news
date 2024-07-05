@@ -99,50 +99,18 @@
                 "ID": "99552",
                 "CONTENT_EN": "All lanes of Fung Mo Street (Tung Tau Tsuen Road bound) between Fu Mei Street and Heng Lam Street which was closed due to road subsidence is re-opened to all traffic; all lanes of Fung Mo Street (Chuk Yuen Estate bound) between Fu Mei Street and Heng Lam Street are still closed to all traffic. Affected bus routes KMB Nos. 1 and 11K (Chuk Yuen bound) have to be diverted.",
                 "CONTENT_CN": "較早前因路面下陷而封閉的鳳舞街(往東頭村道方向)介乎富美街與杏林街之間的全線現已解封; 鳳舞街(往竹園邨方向)介乎富美街與杏林街之間的全線仍然封閉。 受影響巴士路線九巴1及11K號線(往竹園方向)須改道。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-07-04T06:32:59",
-        "last_announcement": "2024-07-04T06:13:00"
-    },
-    "IN-24-03774": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Wong Tai Sin MTR Station",
-            "NEAR_LANDMARK_CN": "黃大仙港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-02T18:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99471",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Wong Tai Sin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近黃大仙港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
             },
-            "2024-07-02T23:21:00": {
+            "2024-07-05T23:23:00": {
                 "INCIDENT_STATUS_EN": "UPDATED",
                 "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99485",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Wong Tai Sin MTR Station which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往觀塘方向)近黃大仙港鐵站的部份行車線現已解封。"
+                "ID": "99705",
+                "CONTENT_EN": "All lanes of Fung Mo Street (Chuk Yuen Estate bound) between Fu Mei Street and Heng Lam Street, which were closed due to road subsidence are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面下陷而封閉的鳳舞街(往竹園邨方向)介乎富美街與杏林街之間的路段已全線解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-07-02T23:41:48",
-        "last_announcement": "2024-07-02T23:21:00"
+        "last_update": "2024-07-05T23:45:32",
+        "last_announcement": "2024-07-05T23:23:00"
     },
     "IN-24-03777": {
         "description": {
