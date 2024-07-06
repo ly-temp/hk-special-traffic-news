@@ -1,50 +1,4 @@
 {
-    "IN-24-03763": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Sheung Shing Street",
-            "LOCATION_CN": "常盛街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tin Kwong Road",
-            "DIRECTION_CN": "天光道",
-            "NEAR_LANDMARK_EN": "St. Teresa Secondary School",
-            "NEAR_LANDMARK_CN": "德蘭中學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-02T11:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99443",
-                "CONTENT_EN": "Due to emergency repair of road surface , the only lane of Sheung Shing Street (Tin Kwong Road bound) near St. Teresa Secondary School is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因緊急路面維修，常盛街(往天光道方向)近德蘭中學的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-07-02T11:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99449",
-                "CONTENT_EN": "Due to emergency repair of road surface , the one-lane-two-way traffic arrangement is being implemented on Sheung Shing Street near St. Teresa Secondary School. Traffic is busy now.",
-                "CONTENT_CN": "因緊急路面維修，常盛街近德蘭中學現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-07-03T11:35:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "99502",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Sheung Shing Street near St. Teresa Secondary School due to emergency repair of road surface is now cancelled.",
-                "CONTENT_CN": "較早前因緊急路面維修而於常盛街近德蘭中學實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-07-03T11:52:02",
-        "last_announcement": "2024-07-03T11:35:00"
-    },
     "IN-24-03765": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3449,10 +3403,17 @@
                 "ID": "99719",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往九龍方向)近沙田港鐵站的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-06T11:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99721",
+                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin MTR Station which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往九龍方向)近沙田港鐵站的慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-07-06T11:20:41",
-        "last_announcement": "2024-07-06T10:57:00"
+        "last_update": "2024-07-06T11:53:09",
+        "last_announcement": "2024-07-06T11:37:00"
     }
 }
