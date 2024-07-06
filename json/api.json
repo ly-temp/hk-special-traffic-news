@@ -66,45 +66,6 @@
         "last_update": "2024-07-05T23:45:32",
         "last_announcement": "2024-07-05T23:23:00"
     },
-    "IN-24-03801": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Clear Water Bay Road",
-            "LOCATION_CN": "清水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lung Cheung Road",
-            "DIRECTION_CN": "龍翔道",
-            "NEAR_LANDMARK_EN": "Choi Wan (I) Estate",
-            "NEAR_LANDMARK_CN": "彩雲(一)邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-03T19:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99543",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Choi Wan (I) Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，清水灣道(往龍翔道方向)近彩雲(一)邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-03T20:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99545",
-                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Choi Wan (I) Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往龍翔道方向)近彩雲(一)邨的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-07-03T20:30:19",
-        "last_announcement": "2024-07-03T20:03:00"
-    },
     "IN-24-03802": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
