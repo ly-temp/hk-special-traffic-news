@@ -112,45 +112,6 @@
         "last_update": "2024-07-03T19:45:23",
         "last_announcement": "2024-07-03T19:32:00"
     },
-    "IN-24-03800": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Siu Hong MTR Station",
-            "NEAR_LANDMARK_CN": "兆康港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-03T18:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99541",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near Siu Hong MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近兆康港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-03T19:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99542",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near Siu Hong MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近兆康港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-07-03T19:14:33",
-        "last_announcement": "2024-07-03T19:02:00"
-    },
     "IN-24-03801": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3254,10 +3215,17 @@
                 "ID": "99748",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Gloucester Road (Central bound) near Cannon Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，告士打道(往中環方向)近景隆街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-06T19:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99749",
+                "CONTENT_EN": "Part of the lanes of Gloucester Road (Central bound) near Cannon Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的告士打道(往中環方向)近景隆街的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-07-06T19:07:51",
-        "last_announcement": "2024-07-06T18:53:00"
+        "last_update": "2024-07-06T19:20:17",
+        "last_announcement": "2024-07-06T19:01:00"
     }
 }
