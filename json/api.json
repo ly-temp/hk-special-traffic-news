@@ -66,52 +66,6 @@
         "last_update": "2024-07-05T23:45:32",
         "last_announcement": "2024-07-05T23:23:00"
     },
-    "IN-24-03843": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "On Sau Road",
-            "LOCATION_CN": "安秀道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Clear Water Bay Road",
-            "DIRECTION_CN": "清水灣道",
-            "NEAR_LANDMARK_EN": "On Tai Shopping Centre",
-            "NEAR_LANDMARK_CN": "安泰商場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-05T11:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99655",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of On Sau Road (Clear Water Bay Road bound) near On Tai Shopping Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，安秀道(往清水灣道方向)近安泰商場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-05T11:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99656",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of On Sau Road (Clear Water Bay Road bound) near On Tai Shopping Centre is closed to all traffic. \nOnly remaining lane is available to motorists.   Affected KMB bus routes nos. 213D (Mong Kok bound), 213M and 290X (Tsuen Wan West bound) have been diverted.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，安秀道(往清水灣道方向)近安泰商場的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  受影響九巴巴士第213D(往旺角方向)、213M及290X(往荃灣西方向)號線須改道行駛。  現時上址交通繁忙。"
-            },
-            "2024-07-05T12:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99658",
-                "CONTENT_EN": "Part of the lanes of On Sau Road (Clear Water Bay Road bound) near On Tai Shopping Centre which was closed due to traffic accident is re-opened to all traffic.   Affected bus routes have resumed their original routeings.",
-                "CONTENT_CN": "較早前因交通意外而封閉的安秀道(往清水灣道方向)近安泰商場的部份行車線現已解封。  受影響巴士路線現已恢復原有路線行駛。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-07-05T12:39:38",
-        "last_announcement": "2024-07-05T12:25:00"
-    },
     "IN-24-03844": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
