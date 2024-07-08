@@ -66,45 +66,6 @@
         "last_update": "2024-07-05T23:45:32",
         "last_announcement": "2024-07-05T23:23:00"
     },
-    "IN-24-03845": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Gascoigne Road",
-            "LOCATION_CN": "加士居道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Princess Margaret Road",
-            "NEAR_LANDMARK_CN": "公主道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-05T13:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99660",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Gascoigne Road (Hung Hom bound) near Princess Margaret Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，加士居道(往紅磡方向)近公主道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-05T13:49:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "99663",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road (Hung Hom bound) near Princess Margaret Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的加士居道(往紅磡方向)近公主道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-07-05T14:13:58",
-        "last_announcement": "2024-07-05T13:49:00"
-    },
     "IN-24-03846": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2579,5 +2540,37 @@
         "district": "南區",
         "last_update": "2024-07-08T13:31:14",
         "last_announcement": "2024-07-08T13:14:00"
+    },
+    "IN-24-03914": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tung Lo Wan Road",
+            "LOCATION_CN": "銅鑼灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Moreton Terrace",
+            "DIRECTION_CN": "摩頓臺",
+            "NEAR_LANDMARK_EN": "St Paul's Hospital",
+            "NEAR_LANDMARK_CN": "聖保祿醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-08T14:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99821",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tung Lo Wan Road (Moreton Terrace bound) near St Paul's Hospital is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，銅鑼灣道(往摩頓臺方向)近聖保祿醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-07-08T14:34:00",
+        "last_announcement": "2024-07-08T14:09:00"
     }
 }
