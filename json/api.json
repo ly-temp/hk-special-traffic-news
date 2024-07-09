@@ -38,38 +38,6 @@
         "last_update": "2024-07-07T10:59:05",
         "last_announcement": "2024-07-07T10:47:00"
     },
-    "IN-24-03868": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tsing Lung Tau",
-            "NEAR_LANDMARK_CN": "青龍頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-06T08:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99708",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Tsing Lung Tau which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近青龍頭的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-07-06T09:06:14",
-        "last_announcement": "2024-07-06T08:50:00"
-    },
     "IN-24-03869": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2085,10 +2053,294 @@
                 "ID": "99835",
                 "CONTENT_EN": "Due to traffic accident , the only lane of Hiram's Highway (Sai Kung bound) near Ta Ho Tun Road is closed to all traffic. \nThe one-lane-two-way traffic arrangement is being implemented on Hiram's Highway near Ta Ho Tun Road.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，西貢公路(往西貢方向)近打蠔墩路的唯一行車線現已封閉。\n西貢公路近打蠔墩路現已實施單線雙程行車措施。  現時上址交通繁忙。"
+            },
+            "2024-07-09T08:43:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99843",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Hiram's Highway near Ta Ho Tun Road due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於西貢公路近打蠔墩路實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "西貢區",
-        "last_update": "2024-07-09T07:59:23",
-        "last_announcement": "2024-07-09T07:45:00"
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T08:43:00"
+    },
+    "IN-24-03922": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Sha Highway",
+            "LOCATION_CN": "青沙公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Shatin Heights Tunnel entrance",
+            "NEAR_LANDMARK_CN": "沙田嶺隧道入口",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T08:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99836",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Sha Highway (Kowloon bound) near Shatin Heights Tunnel entrance is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青沙公路(往九龍方向)近沙田嶺隧道入口的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T08:15:00"
+    },
+    "IN-24-03923": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Sau Mau Ping Road",
+            "LOCATION_CN": "秀茂坪道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hiu Kwong Street",
+            "NEAR_LANDMARK_CN": "曉光街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T08:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99837",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sau Mau Ping Road Roundabout  near Hiu Kwong Street is closed to all traffic. Only remaining lanes is available to motorists. Traffic queue on Sau Mau Ping Road Roundabout  ends at Tseung Kwan O Road near Tsui Ping South Estate. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，秀茂坪道迴旋處近曉光街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在秀茂坪道迴旋處的車龍龍尾已到將軍澳道近翠屏南邨。 現時上址交通擠塞。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T08:20:00"
+    },
+    "IN-24-03924": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O",
+            "DIRECTION_CN": "將軍澳",
+            "NEAR_LANDMARK_EN": "Tsui Ping South Estate",
+            "NEAR_LANDMARK_CN": "翠屏南邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T08:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99840",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Tseung Kwan O bound) near Tsui Ping South Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳方向)近翠屏南邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-09T08:36:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99842",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Tseung Kwan O bound) near Tsui Ping South Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往將軍澳方向)近翠屏南邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T08:36:00"
+    },
+    "IN-24-03926": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kai Fuk Road",
+            "LOCATION_CN": "啓福道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Kowloonbay International Trade  Exhibition Centre",
+            "NEAR_LANDMARK_CN": "九龍灣國際展貿中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T08:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99844",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kai Fuk Road (Kwun Tong bound) near Kowloonbay International Trade amp; Exhibition Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，啓福道(往觀塘方向)近九龍灣國際展貿中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-09T08:58:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99847",
+                "CONTENT_EN": "Part of the lanes of Kai Fuk Road (Kwun Tong bound) near Kowloonbay International Trade amp; Exhibition Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的啓福道(往觀塘方向)近九龍灣國際展貿中心的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T08:58:00"
+    },
+    "IN-24-03925": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T08:50:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99845",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近和富中心的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T08:50:00"
+    },
+    "IN-24-03927": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Lookout",
+            "NEAR_LANDMARK_CN": "龍翔道眺望處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T09:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99848",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Lookout is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Tin Ma Court. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道眺望處的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近天馬苑。 現時上址交通擠塞。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T09:01:00"
+    },
+    "IN-24-03928": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sham Tseng Interchange",
+            "NEAR_LANDMARK_CN": "深井交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T09:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99850",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近深井交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T09:15:00"
+    },
+    "IN-24-03929": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lung Cheung Road",
+            "DIRECTION_CN": "龍翔道",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T09:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99851",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，清水灣道(往龍翔道方向)近坪石邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-09T09:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99852",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往龍翔道方向)近坪石邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-09T09:35:47",
+        "last_announcement": "2024-07-09T09:29:00"
     }
 }
