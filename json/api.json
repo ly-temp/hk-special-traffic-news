@@ -2234,11 +2234,18 @@
                 "ID": "99887",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of North Lantau Highway (Kowloon bound) near Lantau Link Bus-Bus Interchange is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on North Lantau Highway (Kowloon bound) ends at North Lantau Highway near Siu Ho Wan Sewage Treatment Works. Traffic is very congested now.   As the accident involves multiple vehicles, the processing time is expected to be relatively long, and it is during the evening peak hour. The Transport Department would like to appeal to motorists to consider using alternative roads. If encountering traffic jams, please be patient. Public transport services operating on the affected road sections will have longer journey times than normal. Members of the public are advised to allow more time for travel and plan the itinerary in advance to avoid travel delays.   Members of the public are also advised to pay attention to the latest traffic news, broadcast on radio, television stations through the Transport Department's mobile application \"Hong Kong E-Mobility\".",
                 "CONTENT_CN": "因交通意外，北大嶼山公路(往九龍方向)近青嶼幹線巴士轉乘站的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在北大嶼山公路(往九龍方向)的車龍龍尾已到北大嶼山公路近小濠灣污水處理廠。受影響路段交通十分擠塞。  由於意外涉及多部車輛，預計處理時間會比較長，加上正值下午繁忙時間，我哋運輸署想喺呢度呼籲駕駛人士，可因應你哋嘅目的地考慮使用替代道路。如遇交通受阻，請小心忍讓。行經受影響路段路面嘅公共運輸服務，車程會比正常較長。市民請預留較多嘅出行時間，預早規劃行程，避免延誤出行嘅時間。  市民亦請留意電台同電視台廣播嘅最新交通消息，亦可以透過運輸署嘅流動應用程式 「香港出行易」，了解最新嘅交通及公共運輸服務嘅情況。"
+            },
+            "2024-07-09T18:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99888",
+                "CONTENT_EN": "Part of the lanes of North Lantau Highway (Kowloon bound) near Lantau Link Bus-Bus Interchange which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的北大嶼山公路(往九龍方向)近青嶼幹線巴士轉乘站的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-07-09T18:59:41",
-        "last_announcement": "2024-07-09T18:42:00"
+        "last_update": "2024-07-09T19:18:06",
+        "last_announcement": "2024-07-09T18:55:00"
     },
     "IN-24-03942": {
         "description": {
@@ -2349,5 +2356,37 @@
         "district": "深水埗區",
         "last_update": "2024-07-09T18:39:37",
         "last_announcement": "2024-07-09T18:31:00"
+    },
+    "IN-24-03945": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "North Lantau Highway",
+            "LOCATION_CN": "北大嶼山公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "MTR Sunny Bay Station",
+            "NEAR_LANDMARK_CN": "港鐵欣澳站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T19:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99889",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of North Lantau Highway (Kowloon bound) near MTR Sunny Bay Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，北大嶼山公路(往九龍方向)近港鐵欣澳站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-09T19:18:06",
+        "last_announcement": "2024-07-09T19:05:00"
     }
 }
