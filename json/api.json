@@ -2356,5 +2356,37 @@
         "district": "油尖旺區",
         "last_update": "2024-07-09T19:38:16",
         "last_announcement": "2024-07-09T19:31:00"
+    },
+    "IN-24-03946": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Tsuen Wan Line Additional Travelling Time",
+            "INCIDENT_DETAIL_CN": "荃灣綫車程延長",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-09T20:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "99891",
+                "CONTENT_EN": "There is an additional travelling time of 5 to 8 minutes on the Tsuen Wan Line between Central and Tsuen Wan because of signalling fault near Admiralty Station.",
+                "CONTENT_CN": "由於金鐘站附近信號故障，荃灣綫來往中環至荃灣車程延長5至8分鐘。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-07-09T20:40:32",
+        "last_announcement": "2024-07-09T20:31:00"
     }
 }
