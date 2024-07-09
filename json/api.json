@@ -98,123 +98,6 @@
         "last_update": "2024-07-06T23:31:36",
         "last_announcement": "2024-07-06T23:23:00"
     },
-    "IN-24-03876": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Prince Edward Road East",
-            "LOCATION_CN": "太子道東",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Tak Ku Ling Road Rest Garden",
-            "NEAR_LANDMARK_CN": "打鼓嶺道休憩花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-06T12:59:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99724",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Prince Edward Road East flyover (Mong Kok bound) near Tak Ku Ling Road Rest Garden is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，太子道東天橋(往旺角方向)近打鼓嶺道休憩花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-06T13:49:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "99728",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road East flyover (Mong Kok bound) near Tak Ku Ling Road Rest Garden which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的太子道東天橋(往旺角方向)近打鼓嶺道休憩花園的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-07-06T14:23:17",
-        "last_announcement": "2024-07-06T13:49:00"
-    },
-    "IN-24-03877": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lei Yue Mun Road",
-            "LOCATION_CN": "鯉魚門道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Kwun Tong Swimming Pool",
-            "NEAR_LANDMARK_CN": "觀塘游泳池",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-06T13:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99726",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lei Yue Mun Road (Mong Kok bound) near Kwun Tong Swimming Pool are closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，鯉魚門道(往旺角方向)近觀塘游泳池的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-06T13:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99730",
-                "CONTENT_EN": "Part of the lanes of Lei Yue Mun Road (Mong Kok bound) near Kwun Tong Swimming Pool which were closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的鯉魚門道(往旺角方向)近觀塘游泳池的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-07-06T14:23:17",
-        "last_announcement": "2024-07-06T13:54:00"
-    },
-    "IN-24-03878": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Kwai Highway",
-            "LOCATION_CN": "青葵公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Lai King MTR Station",
-            "NEAR_LANDMARK_CN": "荔景港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-06T13:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99727",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kwai Chung bound) near Lai King MTR Station are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青葵公路(往葵涌方向)近荔景港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-06T14:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99732",
-                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kwai Chung bound) near Lai King MTR Station which were closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往葵涌方向)近荔景港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-07-06T14:36:45",
-        "last_announcement": "2024-07-06T14:25:00"
-    },
     "IN-24-03879": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2344,10 +2227,17 @@
                 "ID": "99863",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of San Tin Highway (Yuen Long bound) near Fairview Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，新田公路(往元朗方向)近錦繡花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-09T13:52:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "99864",
+                "CONTENT_EN": "Part of the lanes of San Tin Highway (Yuen Long bound) near Fairview Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往元朗方向)近錦繡花園的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-07-09T13:58:26",
-        "last_announcement": "2024-07-09T13:45:00"
+        "last_update": "2024-07-09T14:45:20",
+        "last_announcement": "2024-07-09T13:52:00"
     }
 }
