@@ -2674,11 +2674,18 @@
                 "ID": "99925",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，青嶼幹線(青馬大橋)(往機場方向) 的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-10T09:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99926",
+                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的青嶼幹線(青馬大橋)(往機場方向) 的慢線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-07-10T09:35:18",
-        "last_announcement": "2024-07-10T09:15:00"
+        "last_update": "2024-07-10T10:23:29",
+        "last_announcement": "2024-07-10T09:30:00"
     },
     "IN-24-03959": {
         "description": {
@@ -2706,11 +2713,18 @@
                 "ID": "99922",
                 "CONTENT_EN": "Due to traffic accident happened earlier , Tuen Mun Road (Tuen Mun bound) near Tsing Yung Terrace is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "因較早前交通意外，屯門公路(往屯門方向)近青榕台的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-07-10T10:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "99927",
+                "CONTENT_EN": "Traffic at Tuen Mun Road (Tuen Mun bound) near Tsing Yung Terrace has resumed normal.",
+                "CONTENT_CN": "屯門公路(往屯門方向)近青榕台的交通現已恢復正常。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-07-10T09:35:18",
-        "last_announcement": "2024-07-10T08:49:00"
+        "last_update": "2024-07-10T10:23:29",
+        "last_announcement": "2024-07-10T10:04:00"
     },
     "IN-24-03955": {
         "description": {
