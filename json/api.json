@@ -2872,10 +2872,49 @@
                 "ID": "100039",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Princess Margaret Road flyover (Waterloo Road bound) near Argyle Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，公主道天橋(往窩打老道方向)近亞皆老街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-12T11:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100041",
+                "CONTENT_EN": "The slow lane of Princess Margaret Road flyover (Waterloo Road bound) near Argyle Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的公主道天橋(往窩打老道方向)近亞皆老街的慢線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-07-12T11:10:58",
-        "last_announcement": "2024-07-12T10:52:00"
+        "last_update": "2024-07-12T11:28:40",
+        "last_announcement": "2024-07-12T11:11:00"
+    },
+    "IN-24-04008": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-12T11:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100042",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-07-12T11:28:40",
+        "last_announcement": "2024-07-12T11:19:00"
     }
 }
