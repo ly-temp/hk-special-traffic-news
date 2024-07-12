@@ -1,43 +1,4 @@
 {
-    "IN-24-03948": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Sha Tin Road",
-            "LOCATION_CN": "沙田路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-09T21:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99893",
-                "CONTENT_EN": "Due to fallen tree , all lanes of the slip road leading from Sha Tin Road (Tai Po bound) to Sha Tin Wai Road  is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因塌樹，由沙田路(往大埔方向)通往沙田圍路 的支路的全線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-07-09T23:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99896",
-                "CONTENT_EN": "All lanes of the slip road leading from Sha Tin Road (Kowloon bound) to Sha Tin Wai Road near Prince of Wales Hospital which was closed due to fallen tree is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因塌樹而封閉的由沙田路(往九龍方向)通往沙田圍路的支路近威爾斯親王醫院的全線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-07-09T23:21:45",
-        "last_announcement": "2024-07-09T23:07:00"
-    },
     "IN-24-03947": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
