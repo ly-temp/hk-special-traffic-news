@@ -1,50 +1,4 @@
 {
-    "IN-24-03933": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Castle Peak Bay Immigration Centre",
-            "NEAR_LANDMARK_CN": "青山灣入境事務中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-09T12:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99860",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Castle Peak Bay Immigration Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近青山灣入境事務中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-09T13:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99861",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Castle Peak Bay Immigration Centre is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Tuen Mun bound) ends at Tuen Mun Road near Siu Lam. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近青山灣入境事務中心的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往屯門方向)的車龍龍尾已到屯門公路近小欖。 現時上址交通擠塞。"
-            },
-            "2024-07-09T13:30:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "99862",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Castle Peak Bay Immigration Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近青山灣入境事務中心的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-07-09T13:38:18",
-        "last_announcement": "2024-07-09T13:30:00"
-    },
     "IN-24-03934": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3053,10 +3007,17 @@
                 "ID": "100054",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (both bounds) near Tai Po Tsai Village are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，清水灣道(來回方向)近大埔仔村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-12T13:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100055",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (both bounds) near Tai Po Tsai Village are still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Clear Water Bay Road (Tai Po Tsai Village bound) ends at Clear Water Bay Road near Pik Uk. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，清水灣道(來回方向)近大埔仔村的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在清水灣道(往大埔仔村方向)的車龍龍尾已到清水灣道近壁屋。 現時上址交通擠塞。"
             }
         },
         "district": "西貢區",
-        "last_update": "2024-07-12T13:30:07",
-        "last_announcement": "2024-07-12T13:11:00"
+        "last_update": "2024-07-12T13:40:04",
+        "last_announcement": "2024-07-12T13:21:00"
     }
 }
