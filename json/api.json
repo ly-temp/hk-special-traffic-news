@@ -2833,10 +2833,49 @@
                 "ID": "100038",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Tung Yan Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近同仁街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-12T10:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100040",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Tung Yan Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近同仁街的部份行車線現已解封。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-07-12T10:51:59",
-        "last_announcement": "2024-07-12T10:42:00"
+        "last_update": "2024-07-12T11:10:58",
+        "last_announcement": "2024-07-12T10:58:00"
+    },
+    "IN-24-04010": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Princess Margaret Road",
+            "LOCATION_CN": "公主道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Waterloo Road",
+            "DIRECTION_CN": "窩打老道",
+            "NEAR_LANDMARK_EN": "Argyle Street",
+            "NEAR_LANDMARK_CN": "亞皆老街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-12T10:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100039",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Princess Margaret Road flyover (Waterloo Road bound) near Argyle Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，公主道天橋(往窩打老道方向)近亞皆老街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-07-12T11:10:58",
+        "last_announcement": "2024-07-12T10:52:00"
     }
 }
