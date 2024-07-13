@@ -3143,5 +3143,37 @@
         "district": "沙田區",
         "last_update": "2024-07-13T16:48:02",
         "last_announcement": "2024-07-13T16:38:00"
+    },
+    "IN-24-04053": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "concrete spalling",
+            "INCIDENT_DETAIL_CN": "混凝土剝落",
+            "LOCATION_EN": "Temple Street",
+            "LOCATION_CN": "廟街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Jordan Road",
+            "DIRECTION_CN": "佐敦道",
+            "NEAR_LANDMARK_EN": "Austin Road",
+            "NEAR_LANDMARK_CN": "柯士甸道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-13T17:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100141",
+                "CONTENT_EN": "Due to concrete spalling, all vehicles are prohibited from making left-turn from Austin Road (Hung Hom bound) onto Temple Street (Jordan Road bound).",
+                "CONTENT_CN": "因混凝土剝落，所有車輛禁止由柯士甸道(往紅磡方向)左轉進入廟街(往佐敦道方向)。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-13T17:39:35",
+        "last_announcement": "2024-07-13T17:28:00"
     }
 }
