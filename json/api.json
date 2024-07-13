@@ -2801,11 +2801,18 @@
                 "ID": "100118",
                 "CONTENT_EN": "The following road sections are busy:\n– Aberdeen Tunnel (Wan Chai bound)\n– Gloucester Road (North Point bound)\nTraffic queue on Princess Margaret Road (Cross Harbour Tunnel bound) ends at Princess Margaret Road near Oi Man Estate. Motorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–香港仔隧道(往灣仔方向)\n–告士打道(往北角方向)\n現時在公主道(往海底隧道方向)的車龍龍尾已到公主道近愛民邨。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-07-13T13:56:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "100125",
+                "CONTENT_EN": "Traffic at the following road section(s) have resumed normal: – Aberdeen Tunnel (Wan Chai bound) – Gloucester Road (North Point bound)",
+                "CONTENT_CN": "以下路段的交通現已恢復正常: –香港仔隧道(往灣仔方向) –告士打道(往北角方向)"
             }
         },
         "district": null,
-        "last_update": "2024-07-13T13:09:58",
-        "last_announcement": "2024-07-13T12:49:00"
+        "last_update": "2024-07-13T14:27:23",
+        "last_announcement": "2024-07-13T13:56:00"
     },
     "IN-24-04042": {
         "description": {
@@ -2872,11 +2879,18 @@
                 "ID": "100121",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Yuen Long bound) near Wo Hop Shek Village is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，粉嶺公路(往元朗方向)近和合石村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-13T13:52:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "100123",
+                "CONTENT_EN": "Part of the lanes of Fanling Highway (Yuen Long bound) near Wo Hop Shek Village which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往元朗方向)近和合石村的部份行車線現已解封。"
             }
         },
         "district": "北區",
-        "last_update": "2024-07-13T13:27:40",
-        "last_announcement": "2024-07-13T13:15:00"
+        "last_update": "2024-07-13T14:27:23",
+        "last_announcement": "2024-07-13T13:52:00"
     },
     "IN-24-04044": {
         "description": {
@@ -2909,5 +2923,69 @@
         "district": "葵青區",
         "last_update": "2024-07-13T13:48:11",
         "last_announcement": "2024-07-13T13:37:00"
+    },
+    "IN-24-04045": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sha Tin MTR Station",
+            "NEAR_LANDMARK_CN": "沙田港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-13T14:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100126",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近沙田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-07-13T14:27:23",
+        "last_announcement": "2024-07-13T14:10:00"
+    },
+    "IN-24-04046": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-13T14:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100127",
+                "CONTENT_EN": "The following road sections are busy:\n– Nathan Road (Tsim Sha Tsui bound)\n– Salisbury Road (Tsim Sha Tsui bound)\n– Chatham Road South (Tsim Sha Tsui bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–彌敦道(往尖沙咀方向)\n–梳士巴利道(往尖沙咀方向)\n–漆咸道南(往尖沙咀方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-13T14:27:23",
+        "last_announcement": "2024-07-13T14:17:00"
     }
 }
