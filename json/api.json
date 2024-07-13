@@ -1,43 +1,4 @@
 {
-    "IN-24-03973": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "Wo Yi Hop Road",
-            "LOCATION_CN": "和宜合道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Lei Muk Road",
-            "NEAR_LANDMARK_CN": "梨木道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-10T18:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "99954",
-                "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of the junction of\nWo Yi Hop Road and Lei Muk Road is closed to all traffic. \nOnly remaining lanes are available to motorists.",
-                "CONTENT_CN": "因緊急路面維修，和宜合道和梨木道交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-07-11T06:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "99958",
-                "CONTENT_EN": "Part of the lanes of the junction of Wo Yi Hop Road and Lei Muk Road which was closed due to emergency repairing works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急維修而封閉的和宜合道和梨⽊道交界的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-07-11T06:20:41",
-        "last_announcement": "2024-07-11T06:03:00"
-    },
     "IN-24-03975": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
