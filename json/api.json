@@ -3099,10 +3099,49 @@
                 "ID": "100137",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Tin Ma Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近天馬苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-13T16:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100138",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Tin Ma Court which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近天馬苑的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-07-13T16:09:08",
-        "last_announcement": "2024-07-13T16:03:00"
+        "last_update": "2024-07-13T16:27:09",
+        "last_announcement": "2024-07-13T16:13:00"
+    },
+    "IN-24-04050": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Tai Po Road",
+            "NEAR_LANDMARK_CN": "大埔道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-13T16:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100136",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Tai Po Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近大埔道的慢線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-07-13T16:27:09",
+        "last_announcement": "2024-07-13T16:01:00"
     }
 }
