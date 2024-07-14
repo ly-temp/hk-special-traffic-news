@@ -2739,5 +2739,37 @@
         "district": "深水埗區",
         "last_update": "2024-07-15T07:12:27",
         "last_announcement": "2024-07-15T06:48:00"
+    },
+    "IN-24-04070": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Sha Tin Road",
+            "LOCATION_CN": "沙田路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tsang Tai Uk",
+            "NEAR_LANDMARK_CN": "曾大屋",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-15T07:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100177",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Sha Tin Road (Kowloon bound) near Tsang Tai Uk is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，沙田路(往九龍方向)近曾大屋的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-07-15T07:26:01",
+        "last_announcement": "2024-07-15T07:08:00"
     }
 }
