@@ -38,91 +38,6 @@
         "last_update": "2024-07-12T12:00:14",
         "last_announcement": "2024-07-12T11:43:00"
     },
-    "IN-24-04004": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "traffic accident happened earlier",
-            "INCIDENT_DETAIL_CN": "較早前交通意外",
-            "LOCATION_EN": "Po Shek Wu Road (Tai Tau Leng Roundabout)",
-            "LOCATION_CN": "寶石湖路(大頭嶺迴旋處)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-12T08:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100026",
-                "CONTENT_EN": "Due to traffic accident happened earlier , Po Shek Wu Road (Tai Tau Leng Roundabout) is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前交通意外，寶石湖路(大頭嶺迴旋處)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-07-12T09:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100033",
-                "CONTENT_EN": "Traffic at Po Shek Wu Road (Tai Tau Leng Roundabout)  has resumed normal.",
-                "CONTENT_CN": "寶石湖路(大頭嶺迴旋處)的交通現已恢復正常。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-07-12T10:09:59",
-        "last_announcement": "2024-07-12T09:31:00"
-    },
-    "IN-24-04005": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Incident",
-            "INCIDENT_DETAIL_CN": "道路事故",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Chak On Estate",
-            "NEAR_LANDMARK_CN": "澤安邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-12T08:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100027",
-                "CONTENT_EN": "Due to road incident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因道路事故，龍翔道(往荃灣方向)近澤安邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-12T09:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100030",
-                "CONTENT_EN": "Due to road incident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Lung Cheung Road Park. Traffic is congested now.",
-                "CONTENT_CN": "因道路事故，龍翔道(往荃灣方向)近澤安邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近龍翔道公園。 現時上址交通擠塞。"
-            },
-            "2024-07-12T09:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100031",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chak On Estate which was closed due to road incident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因道路事故而封閉的龍翔道(往荃灣方向)近澤安邨的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-07-12T10:09:59",
-        "last_announcement": "2024-07-12T09:14:00"
-    },
     "IN-24-04006": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -161,38 +76,6 @@
         "district": "九龍城區",
         "last_update": "2024-07-12T10:41:53",
         "last_announcement": "2024-07-12T10:05:00"
-    },
-    "IN-24-04007": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Leighton Road",
-            "LOCATION_CN": "禮頓道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tin Hau",
-            "DIRECTION_CN": "天后",
-            "NEAR_LANDMARK_EN": "Yun Ping Road",
-            "NEAR_LANDMARK_CN": "恩平道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-12T09:39:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "100035",
-                "CONTENT_EN": "The slow lane of Leighton Road (Tin Hau bound) near Yun Ping Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的禮頓道(往天后方向)近恩平道的慢線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-07-12T10:09:59",
-        "last_announcement": "2024-07-12T09:39:00"
     },
     "IN-24-04009": {
         "description": {
@@ -2709,11 +2592,25 @@
                 "ID": "100191",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Nob Hill is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Kwun Tong bound) ends at Tsing Long Highway (Ting Kau Bridge). Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近盈暉臺的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往觀塘方向)的車龍龍尾已到青朗公路(汀九橋)。 現時上址交通擠塞。"
+            },
+            "2024-07-15T09:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100199",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Nob Hill is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Ching Cheung Road (Kwun Tong bound) ends at Tsing Long Highway (Ting Kau Bridge) near Cheung Tsing Tunnel and Tsuen Wan Road near Tsuen Wan West MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近盈暉臺的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往觀塘方向)的車龍龍尾已到青朗公路(汀九橋)近長青隧道及荃灣路近荃灣西港鐵站。 現時上址交通擠塞。"
+            },
+            "2024-07-15T10:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100203",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Nob Hill which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近盈暉臺的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-07-15T09:21:27",
-        "last_announcement": "2024-07-15T08:48:00"
+        "last_update": "2024-07-15T10:23:02",
+        "last_announcement": "2024-07-15T10:03:00"
     },
     "IN-24-04074": {
         "description": {
@@ -2851,11 +2748,18 @@
                 "ID": "100197",
                 "CONTENT_EN": "The following road sections are still busy:\n– Ching Cheung Road (Kwai Chung bound). \n– Lion Rock Tunnel Road (Kowloon bound)\n– Island Eastern Corridor (both bounds)\nTraffic queue on Ching Cheung Road (Kwai Chung bound) ends at Lung Cheung Road near Lung Cheung Road Lookout. Motorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–呈祥道(往葵涌方向)\n–獅子山隧道公路(往九龍方向)\n–東區走廊(來回方向)\n現時在呈祥道(往葵涌方向)的車龍龍尾已到龍翔道近龍翔道眺望處。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-07-15T09:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100202",
+                "CONTENT_EN": "The following road sections are still busy:\n– Ching Cheung Road (Kwai Chung bound)\n– Island Eastern Corridor (both bounds)\nTraffic queue on Ching Cheung Road (Kwai Chung bound) ends at Ching Cheung Road near So Uk. Motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–呈祥道(往葵涌方向)\n–東區走廊(來回方向)\n現時在呈祥道(往葵涌方向)的車龍龍尾已到呈祥道近蘇屋。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-07-15T09:21:27",
-        "last_announcement": "2024-07-15T09:15:00"
+        "last_update": "2024-07-15T10:23:02",
+        "last_announcement": "2024-07-15T09:53:00"
     },
     "IN-24-04078": {
         "description": {
@@ -2888,5 +2792,44 @@
         "district": "離島區",
         "last_update": "2024-07-15T09:21:27",
         "last_announcement": "2024-07-15T09:05:00"
+    },
+    "IN-24-04079": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sai Kung",
+            "DIRECTION_CN": "西貢",
+            "NEAR_LANDMARK_EN": "Ngau Chi Wan Municipal Building",
+            "NEAR_LANDMARK_CN": "牛池灣市政大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-15T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100198",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Sai Kung bound) near Ngau Chi Wan Municipal Building is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，清水灣道(往西貢方向)近牛池灣市政大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-15T10:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100205",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Sai Kung bound) near Ngau Chi Wan Municipal Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往西貢方向)近牛池灣市政大廈的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-07-15T10:23:02",
+        "last_announcement": "2024-07-15T10:12:00"
     }
 }
