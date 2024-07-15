@@ -2441,5 +2441,37 @@
         "district": "深水埗區",
         "last_update": "2024-07-15T19:12:42",
         "last_announcement": "2024-07-15T19:01:00"
+    },
+    "IN-24-04098": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Road",
+            "DIRECTION_CN": "屯門公路",
+            "NEAR_LANDMARK_EN": "Kwai Tsing Road",
+            "NEAR_LANDMARK_CN": "葵青路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-15T19:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100244",
+                "CONTENT_EN": "The fast lane of Tsuen Wan Road (Tuen Mun Road bound) near Kwai Tsing Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往屯門公路方向)近葵青路的快線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-07-15T19:23:02",
+        "last_announcement": "2024-07-15T19:15:00"
     }
 }
