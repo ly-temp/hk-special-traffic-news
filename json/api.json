@@ -2739,5 +2739,37 @@
         "district": "觀塘區",
         "last_update": "2024-07-16T16:35:08",
         "last_announcement": "2024-07-16T16:26:00"
+    },
+    "IN-24-04128": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "obstacles on road",
+            "INCIDENT_DETAIL_CN": "路面有障礙物",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O",
+            "DIRECTION_CN": "將軍澳",
+            "NEAR_LANDMARK_EN": "Lin Tak Road",
+            "NEAR_LANDMARK_CN": "連德道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-16T16:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100305",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Tseung Kwan O bound) near Lin Tak Road which was closed due to obstacles on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有障礙物而封閉的將軍澳道(往將軍澳方向)近連德道的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-16T16:45:10",
+        "last_announcement": "2024-07-16T16:29:00"
     }
 }
