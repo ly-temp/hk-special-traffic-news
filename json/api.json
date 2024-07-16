@@ -2688,11 +2688,18 @@
                 "ID": "100277",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ferry Street flyover (Mong Kok bound) near Waterloo Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，渡船街天橋(往旺角方向)近窩打老道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-16T12:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100284",
+                "CONTENT_EN": "Part of the lanes of Ferry Street flyover (Mong Kok bound) near Waterloo Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的渡船街天橋(往旺角方向)近窩打老道的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-07-16T10:53:56",
-        "last_announcement": "2024-07-16T10:42:00"
+        "last_update": "2024-07-16T12:15:45",
+        "last_announcement": "2024-07-16T12:01:00"
     },
     "IN-24-04116": {
         "description": {
@@ -2757,5 +2764,37 @@
         "district": "沙田區",
         "last_update": "2024-07-16T11:33:45",
         "last_announcement": "2024-07-16T10:43:00"
+    },
+    "IN-24-04119": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Cotton Tree Drive",
+            "LOCATION_CN": "紅棉路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "uphill",
+            "DIRECTION_CN": "上山",
+            "NEAR_LANDMARK_EN": "Kennedy Road",
+            "NEAR_LANDMARK_CN": "堅尼地道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-16T11:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100283",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Cotton Tree Drive (uphill bound) near Kennedy Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，紅棉路(上山方向)近堅尼地道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-07-16T12:15:45",
+        "last_announcement": "2024-07-16T11:46:00"
     }
 }
