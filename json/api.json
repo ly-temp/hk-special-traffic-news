@@ -2881,5 +2881,37 @@
         "district": "屯門區",
         "last_update": "2024-07-16T19:17:25",
         "last_announcement": "2024-07-16T19:06:00"
+    },
+    "IN-24-04135": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Texaco Road",
+            "LOCATION_CN": "德士古道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Tsing Interchange",
+            "DIRECTION_CN": "荃青交匯處",
+            "NEAR_LANDMARK_EN": "Yeung Uk Road",
+            "NEAR_LANDMARK_CN": "楊屋道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-16T19:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100325",
+                "CONTENT_EN": "The slow lane of Texaco Road (Tsuen Tsing Interchange bound) near Yeung Uk Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的德士古道(往荃青交匯處方向)近楊屋道的慢線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-07-16T19:48:07",
+        "last_announcement": "2024-07-16T19:31:00"
     }
 }
