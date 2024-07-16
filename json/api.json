@@ -77,38 +77,6 @@
         "last_update": "2024-07-15T06:21:24",
         "last_announcement": "2024-07-15T06:08:00"
     },
-    "IN-24-04053": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "concrete spalling",
-            "INCIDENT_DETAIL_CN": "混凝土剝落",
-            "LOCATION_EN": "Temple Street",
-            "LOCATION_CN": "廟街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Jordan Road",
-            "DIRECTION_CN": "佐敦道",
-            "NEAR_LANDMARK_EN": "Austin Road",
-            "NEAR_LANDMARK_CN": "柯士甸道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-13T17:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100141",
-                "CONTENT_EN": "Due to concrete spalling, all vehicles are prohibited from making left-turn from Austin Road (Hung Hom bound) onto Temple Street (Jordan Road bound).",
-                "CONTENT_CN": "因混凝土剝落，所有車輛禁止由柯士甸道(往紅磡方向)左轉進入廟街(往佐敦道方向)。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-07-13T17:39:35",
-        "last_announcement": "2024-07-13T17:28:00"
-    },
     "IN-24-04054": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2773,10 +2741,17 @@
                 "ID": "100309",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Nob Hill is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，呈祥道(往觀塘方向)近盈暉臺的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-16T17:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100312",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Nob Hill which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往觀塘方向)近盈暉臺的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-07-16T17:29:54",
-        "last_announcement": "2024-07-16T17:16:00"
+        "last_update": "2024-07-16T17:39:57",
+        "last_announcement": "2024-07-16T17:26:00"
     }
 }
