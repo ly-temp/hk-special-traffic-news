@@ -2817,5 +2817,69 @@
         "district": "荃灣區",
         "last_update": "2024-07-16T19:01:51",
         "last_announcement": "2024-07-16T18:42:00"
+    },
+    "IN-24-04127": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Kwok Shui Road",
+            "LOCATION_CN": "國瑞路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Fu Uk Road",
+            "NEAR_LANDMARK_CN": "傅屋路",
+            "BETWEEN_LANDMARK_EN": "Mita Centre",
+            "BETWEEN_LANDMARK_CN": "美達中心",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-16T18:54:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "100322",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Kwok Shui Road between Fu Uk Road and Mita Centre due to emergency incident is now cancelled.",
+                "CONTENT_CN": "較早前因突發事件而於國瑞路介乎傅屋路與美達中心之間實施的單線雙程行車措施現已取消。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-07-16T19:17:25",
+        "last_announcement": "2024-07-16T18:54:00"
+    },
+    "IN-24-04138": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Harrow International School Hong Kong",
+            "NEAR_LANDMARK_CN": "哈羅香港國際學校",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-16T19:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100324",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Harrow International School Hong Kong which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近哈羅香港國際學校的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-16T19:17:25",
+        "last_announcement": "2024-07-16T19:06:00"
     }
 }
