@@ -2785,5 +2785,37 @@
         "district": "大埔區",
         "last_update": "2024-07-16T18:40:35",
         "last_announcement": "2024-07-16T18:24:00"
+    },
+    "IN-24-04137": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy Road Sections",
+            "LOCATION_CN": "交通繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-16T18:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100321",
+                "CONTENT_EN": "The following road sections are busy:\n– Wan Chai Interchange (Happy Valley bound)\n– Tsuen Wan Road (Tuen Mun Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–灣仔交匯處(往跑馬地方向)\n–荃灣路(往屯門公路方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-07-16T19:01:51",
+        "last_announcement": "2024-07-16T18:42:00"
     }
 }
