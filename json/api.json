@@ -3408,10 +3408,49 @@
                 "ID": "100423",
                 "CONTENT_EN": "Light Rail service disruption due to overhead line damaged by an external crane lorry near Shui Pin Wai Stop. Light Rail service diversion: Route 610, Route 614 and Route 615 both directions are diverted and will not stop between Tong Fong Tsuen and Yuen Long stops; Route 751 both directions is diverted and will not stop at Hang Mei Tsuen Stop; Route 761P both directions is diverted and will not stop between Hang Mei Tsuen and Yuen Long stops. Free MTR Shuttle Bus service is running between Hung Tin Road Emergency Platform and Yuen Long, and between Hung Tin Road Emergency Platform and Tin Shui Wai to carry affected passengers.",
                 "CONTENT_CN": "由於水邊圍站附近有外來吊臂車損毀架空電纜，輕鐵服務受阻。 輕鐵路綫改道如下： 610綫，614綫及615綫改道，將不停塘坊村站至元朗站； 751綫改道，將不停坑尾村站； 761P綫改道，將不停坑尾村站至元朗站。 港鐵已安排免費接駁巴士，行走來往洪天路緊急月台及元朗、以及來往洪天路緊急月台及天水圍，接載受影響車站的乘客。"
+            },
+            "2024-07-18T14:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100425",
+                "CONTENT_EN": "Light Rail service disruption due to overhead line damaged by an external crane lorry near Shui Pin Wai Stop. \n\nLight Rail service diversion:\n\nRoute 610, Route 614, Route 615 and Route 761P both directions is diverted and will not stop between Tong Fong Tsuen and Yuen Long stops. \n\nFree MTR Shuttle Bus service is running between Hung Tin Road Emergency Platform and Yuen Long to carry affected passengers.",
+                "CONTENT_CN": "由於水邊圍站附近有外來吊臂車損毀架空電纜，輕鐵服務受阻。\n\n輕鐵路綫改道如下：\n\n610綫，614綫，615綫及761P綫改道，將不停塘坊村站至元朗站。\n\n港鐵已安排免費接駁巴士，行走來往洪天路緊急月台及元朗，接載受影響車站的乘客。"
             }
         },
         "district": null,
-        "last_update": "2024-07-18T14:54:24",
-        "last_announcement": "2024-07-18T14:44:00"
+        "last_update": "2024-07-18T15:12:35",
+        "last_announcement": "2024-07-18T14:53:00"
+    },
+    "IN-24-04182": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Tin Ma Court",
+            "NEAR_LANDMARK_CN": "天馬苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-18T15:02:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "100426",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Tin Ma Court which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近天馬苑的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-07-18T15:12:35",
+        "last_announcement": "2024-07-18T15:02:00"
     }
 }
