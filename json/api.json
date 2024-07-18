@@ -3360,5 +3360,37 @@
         "district": null,
         "last_update": "2024-07-18T13:50:58",
         "last_announcement": "2024-07-18T13:45:00"
+    },
+    "IN-24-04181": {
+        "description": {
+            "INCIDENT_HEADING_EN": "LRT Incident",
+            "INCIDENT_HEADING_CN": "輕鐵事故",
+            "INCIDENT_DETAIL_EN": "Service Disruption on the Light Rail",
+            "INCIDENT_DETAIL_CN": "輕鐵服務受阻",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-18T14:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100419",
+                "CONTENT_EN": "Light Rail service near Shui Pin Wai Stop has been suspended. Please consider using other transport.",
+                "CONTENT_CN": "輕鐵水邊圍站附近的服務受阻，請考慮使用其他交通工具。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-07-18T14:32:52",
+        "last_announcement": "2024-07-18T14:10:00"
     }
 }
