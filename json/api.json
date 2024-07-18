@@ -84,38 +84,6 @@
         "last_update": "2024-07-15T18:45:31",
         "last_announcement": "2024-07-15T18:30:00"
     },
-    "IN-24-04095": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "North Point Police Station",
-            "NEAR_LANDMARK_CN": "北角警署",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-15T17:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100235",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near North Point Police Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近北角警署的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-07-15T18:19:19",
-        "last_announcement": "2024-07-15T17:54:00"
-    },
     "IN-24-04096": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3558,5 +3526,37 @@
         "district": "油尖旺區",
         "last_update": "2024-07-18T17:49:25",
         "last_announcement": "2024-07-18T17:33:00"
+    },
+    "IN-24-04192": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wai Yip Street",
+            "LOCATION_CN": "偉業街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hoi Yuen Road",
+            "NEAR_LANDMARK_CN": "開源道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-18T18:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100453",
+                "CONTENT_EN": "Part of the lanes of Wai Yip Street Roundabout  near Hoi Yuen Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的偉業街迴旋處近開源道的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-18T18:23:31",
+        "last_announcement": "2024-07-18T18:12:00"
     }
 }
