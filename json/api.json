@@ -3203,5 +3203,37 @@
         "district": "屯門區",
         "last_update": "2024-07-20T00:41:36",
         "last_announcement": "2024-07-20T00:30:00"
+    },
+    "IN-24-04231": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Broadcast Drive",
+            "LOCATION_CN": "廣播道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Broadcast Drive Playground",
+            "NEAR_LANDMARK_CN": "廣播道遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-20T06:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100540",
+                "CONTENT_EN": "Due to watermain burst , the one-lane-two-way traffic arrangement is being implemented on Broadcast Drive near Broadcast Drive Playground.",
+                "CONTENT_CN": "因水管爆裂，廣播道近廣播道遊樂場現已實施單線雙程行車措施。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-07-20T06:52:52",
+        "last_announcement": "2024-07-20T06:39:00"
     }
 }
