@@ -3230,11 +3230,18 @@
                 "ID": "100540",
                 "CONTENT_EN": "Due to watermain burst , the one-lane-two-way traffic arrangement is being implemented on Broadcast Drive near Broadcast Drive Playground.",
                 "CONTENT_CN": "因水管爆裂，廣播道近廣播道遊樂場現已實施單線雙程行車措施。"
+            },
+            "2024-07-20T07:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100544",
+                "CONTENT_EN": "Due to watermain burst , the one-lane-two-way traffic arrangement is being implemented on Broadcast Drive near Broadcast Drive Playground. Affected KMB bus route no. 208 have been diverted.",
+                "CONTENT_CN": "因水管爆裂，廣播道近廣播道遊樂場現已實施單線雙程行車措施。受影響九巴巴士第208號線須改道行駛。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-07-20T06:52:52",
-        "last_announcement": "2024-07-20T06:39:00"
+        "last_update": "2024-07-20T09:12:32",
+        "last_announcement": "2024-07-20T07:47:00"
     },
     "IN-24-04232": {
         "description": {
@@ -3301,10 +3308,81 @@
                 "ID": "100542",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Kowloon bound) near North West Tsing Yi Interchange is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青嶼幹線(往九龍方向)近青衣西北交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-20T07:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100546",
+                "CONTENT_EN": "Part of the lanes of Lantau Link (Kowloon bound) near North West Tsing Yi Interchange which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(往九龍方向)近青衣西北交匯處的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-07-20T07:25:15",
-        "last_announcement": "2024-07-20T07:18:00"
+        "last_update": "2024-07-20T09:12:32",
+        "last_announcement": "2024-07-20T07:55:00"
+    },
+    "IN-24-04234": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lion Rock Tunnel Road",
+            "NEAR_LANDMARK_CN": "獅子山隧道公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-20T08:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100547",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lion Rock Tunnel Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近獅子山隧道公路的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-07-20T09:12:32",
+        "last_announcement": "2024-07-20T08:43:00"
+    },
+    "IN-24-04235": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Hong Ning Road",
+            "NEAR_LANDMARK_CN": "康寧道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-20T09:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100548",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Ning Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近康寧道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-20T09:12:32",
+        "last_announcement": "2024-07-20T09:01:00"
     }
 }
