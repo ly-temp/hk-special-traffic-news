@@ -1,43 +1,4 @@
 {
-    "IN-24-04148": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Sai Sha Road",
-            "LOCATION_CN": "西沙路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Kei Ling Ha San Wai",
-            "NEAR_LANDMARK_CN": "企嶺下新圍",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-17T09:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100343",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sai Sha Road (both bounds) near Kei Ling Ha San Wai are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西沙路(來回方向)近企嶺下新圍的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-17T12:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100355",
-                "CONTENT_EN": "Part of the lanes of Sai Sha Road (both bounds) near Kei Ling Ha San Wai which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的西沙路(來回方向)近企嶺下新圍的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-07-17T12:39:51",
-        "last_announcement": "2024-07-17T12:30:00"
-    },
     "IN-24-04153": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3359,5 +3320,37 @@
         "district": "九龍城區",
         "last_update": "2024-07-20T12:35:47",
         "last_announcement": "2024-07-20T12:22:00"
+    },
+    "IN-24-04243": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cheung Pei Shan Road",
+            "LOCATION_CN": "象鼻山路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Tsuen Kam Interchange",
+            "NEAR_LANDMARK_CN": "荃錦交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-20T12:36:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100568",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Pei Shan Road (Tsuen Wan bound) near Tsuen Kam Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，象鼻山路(往荃灣方向)近荃錦交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-20T12:46:13",
+        "last_announcement": "2024-07-20T12:36:00"
     }
 }
