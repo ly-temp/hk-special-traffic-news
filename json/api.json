@@ -38,45 +38,6 @@
         "last_update": "2024-07-17T20:28:25",
         "last_announcement": "2024-07-17T19:45:00"
     },
-    "IN-24-04160": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "So Kwun Wat",
-            "NEAR_LANDMARK_CN": "掃管笏",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-17T19:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100374",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Tuen Mun Road (Tuen Mun bound) near So Kwun Wat is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Tuen Mun bound) ends at Tuen Mun Road near Hong Kong Garden. Traffic is congested now.",
-                "CONTENT_CN": "因車輛着火，屯門公路(往屯門方向)近掃管笏的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往屯門方向)的車龍龍尾已到屯門公路近豪景花園。 現時上址交通擠塞。"
-            },
-            "2024-07-17T19:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100375",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near So Kwun Wat which was closed due to vehicle on fire is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的屯門公路(往屯門方向)近掃管笏的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-07-17T19:45:01",
-        "last_announcement": "2024-07-17T19:32:00"
-    },
     "IN-24-04164": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
