@@ -3412,5 +3412,37 @@
         "district": null,
         "last_update": "2024-07-20T22:25:17",
         "last_announcement": "2024-07-20T22:02:00"
+    },
+    "IN-24-04256": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Airport Express Line",
+            "INCIDENT_DETAIL_CN": "機場快綫",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-21T06:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100599",
+                "CONTENT_EN": "Due to baggage handling system equipment fault, In‐town Check‐in service at Hong Kong Station is temporarily suspended. MTR is handling the situation to resume the service as soon as possible. The In-Town Check-in service in Kowloon Station maintains normal operations. Passengers are advised to leave earlier for the Airport for baggage check-in.",
+                "CONTENT_CN": "由於行李處理系統機件故障，機場快綫香港站市區預辦登機服務暫停，港鐵正在處理，以儘快恢復服務。 九龍站市區預辦登機服務維持正常運作。 乘客請提早前往機場辦理登機手續。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-07-21T07:07:01",
+        "last_announcement": "2024-07-21T06:46:00"
     }
 }
