@@ -38,38 +38,6 @@
         "last_update": "2024-07-17T12:39:51",
         "last_announcement": "2024-07-17T12:30:00"
     },
-    "IN-24-04150": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Tung Yan Street",
-            "NEAR_LANDMARK_CN": "同仁街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-17T10:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100349",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Tung Yan Street which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近同仁街的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-07-17T10:53:31",
-        "last_announcement": "2024-07-17T10:38:00"
-    },
     "IN-24-04151": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2996,11 +2964,18 @@
                 "ID": "100544",
                 "CONTENT_EN": "Due to watermain burst , the one-lane-two-way traffic arrangement is being implemented on Broadcast Drive near Broadcast Drive Playground. Affected KMB bus route no. 208 have been diverted.",
                 "CONTENT_CN": "因水管爆裂，廣播道近廣播道遊樂場現已實施單線雙程行車措施。受影響九巴巴士第208號線須改道行駛。"
+            },
+            "2024-07-20T10:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100561",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Broadcast Drive (uphill bound) near Broadway Towers is closed to all traffic. Only remaining lane is available to motorists. Besides, vehicles cannot turn right from Broadcast Drive (downhill bound) near Broadway Towers onto Broadcast Drive (uphill bound).",
+                "CONTENT_CN": "因水管爆裂，廣播道(往上山方向)近百樂園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 此外，車輛不能從廣播道(落山方向)近百樂園右轉入廣播道(上山方向)。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-07-20T09:12:32",
-        "last_announcement": "2024-07-20T07:47:00"
+        "last_update": "2024-07-20T10:59:23",
+        "last_announcement": "2024-07-20T10:49:00"
     },
     "IN-24-04232": {
         "description": {
@@ -3319,11 +3294,18 @@
                 "ID": "100557",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Kwun Tong bound) ends at Ching Cheung Road near So Uk. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近天馬苑的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往觀塘方向)的車龍龍尾已到呈祥道近蘇屋。 現時上址交通擠塞。"
+            },
+            "2024-07-20T10:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100560",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Tin Ma Court which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近天馬苑的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-07-20T10:37:22",
-        "last_announcement": "2024-07-20T10:21:00"
+        "last_update": "2024-07-20T10:59:23",
+        "last_announcement": "2024-07-20T10:46:00"
     },
     "IN-24-04240": {
         "description": {
