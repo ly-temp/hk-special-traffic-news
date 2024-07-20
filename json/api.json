@@ -869,11 +869,18 @@
                 "ID": "100403",
                 "CONTENT_EN": "Due to watermain burst , the one-lane-two-way traffic arrangement is being implemented on Hing Shing Road near Cotton Spinners Association Secondary School.",
                 "CONTENT_CN": "因水管爆裂，興盛路近棉紡會中學現已實施單線雙程行車措施。"
+            },
+            "2024-07-20T11:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100562",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Hing Shing Road near Cotton Spinners Association Secondary School due to watermain burst is now cancelled.",
+                "CONTENT_CN": "較早前因水管爆裂而於興盛路近棉紡會中學實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-07-18T09:34:15",
-        "last_announcement": "2024-07-18T09:17:00"
+        "last_update": "2024-07-20T11:35:36",
+        "last_announcement": "2024-07-20T11:24:00"
     },
     "IN-24-04175": {
         "description": {
@@ -3294,10 +3301,17 @@
                 "ID": "100558",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lion Rock Tunnel Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近獅子山隧道公路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-20T11:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100559",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lion Rock Tunnel Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Diamond Hill MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近獅子山隧道公路的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近鑽石山港鐵站。 現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-07-20T10:49:22",
-        "last_announcement": "2024-07-20T10:39:00"
+        "last_update": "2024-07-20T11:35:36",
+        "last_announcement": "2024-07-20T11:15:00"
     }
 }
