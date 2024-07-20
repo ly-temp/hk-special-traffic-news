@@ -38,38 +38,6 @@
         "last_update": "2024-07-17T20:28:25",
         "last_announcement": "2024-07-17T19:45:00"
     },
-    "IN-24-04163": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ice House Street",
-            "LOCATION_CN": "雪廠街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Chater Road",
-            "NEAR_LANDMARK_CN": "遮打道",
-            "BETWEEN_LANDMARK_EN": "Connaught Road Central",
-            "BETWEEN_LANDMARK_CN": "干諾道中",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-17T19:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100373",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ice House Street (both bounds) between Chater Road and Connaught Road Central is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，雪廠街(來回方向)介乎遮打道與干諾道中之間的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-07-17T19:34:48",
-        "last_announcement": "2024-07-17T19:24:00"
-    },
     "IN-24-04160": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
