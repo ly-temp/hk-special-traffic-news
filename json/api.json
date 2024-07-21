@@ -3054,5 +3054,37 @@
         "district": "東區",
         "last_update": "2024-07-21T11:40:53",
         "last_announcement": "2024-07-21T11:29:00"
+    },
+    "IN-24-04262": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "No train service between Prince Edward and Ho Man Tin on the Kwun Tong Line on 28 July",
+            "INCIDENT_DETAIL_CN": "7月28日觀塘綫太子至何文田列車服務暫停",
+            "LOCATION_EN": "Kwun Tong Line Service Disruption",
+            "LOCATION_CN": "觀塘綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-21T12:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100608",
+                "CONTENT_EN": "There will be no train service between Prince Edward and Ho Man Tin on the Kwun Tong Line on Sunday 28 July to facilitate large-scale tunnel asset renewal work. Please plan your journeys using alternative routes. More passengers than usual are expected in Prince Edward on that day. This may result in a longer waiting time on platforms or for station facilities; Exit C of Yau Ma Tei will also be temporarily closed, please use other exits.",
+                "CONTENT_CN": "配合隧道大型資產更新工程，於7月28日(星期日)，觀塘綫來往太子至何文田的列車服務暫停，請預早規劃行程及使用替代路綫。 預計當天太子站乘客較多，候車及等候使用站內設施時間或會較長；油麻地站C出入口亦會暫時關閉，請使用其他出入口。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-21T12:28:23",
+        "last_announcement": "2024-07-21T12:00:00"
     }
 }
