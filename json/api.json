@@ -2627,10 +2627,95 @@
                 "ID": "100621",
                 "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Tai Mong Tsai Road near Tai Wan Tsuen Village. Traffic queue on Tai Mong Tsai Road (Kowloon bound) ends at Sai Sha Road near Kei Ling Ha Lo Wai and traffic queue on Tai Mong Tsai Road (Ma On Shan bound) ends at Wang Kong Tsuen. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，大網仔路近大灣村現已實施單線雙程行車措施。 現時在大網仔路(往九龍方向)的車龍龍尾已到西沙路近企嶺下老圍及大網仔路(往馬鞍山方向)的車龍龍尾已到橫江村。 現時上址交通擠塞。"
+            },
+            "2024-07-22T09:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100625",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tai Mong Tsai Road near Tai Wan Tsuen Village due to traffic accident is now cancelled. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而於大網仔路近大灣村實施的單線雙程行車措施現已取消。 車龍有待消散。"
             }
         },
         "district": "西貢區",
-        "last_update": "2024-07-22T08:40:58",
-        "last_announcement": "2024-07-22T08:26:00"
+        "last_update": "2024-07-22T09:56:45",
+        "last_announcement": "2024-07-22T09:35:00"
+    },
+    "IN-24-04267": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "West Kowloon Highway",
+            "LOCATION_CN": "西九龍公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Western Harbour Crossing",
+            "DIRECTION_CN": "西區海底隧道",
+            "NEAR_LANDMARK_EN": "Olympic MTR Station",
+            "NEAR_LANDMARK_CN": "奧運港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-22T08:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100622",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Olympic MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西九龍公路(往西區海底隧道方向)近奧運港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-22T09:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100623",
+                "CONTENT_EN": "Part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Olympic MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西九龍公路(往西區海底隧道方向)近奧運港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-22T09:56:45",
+        "last_announcement": "2024-07-22T09:02:00"
+    },
+    "IN-24-04269": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Hoi Bun Road Park",
+            "NEAR_LANDMARK_CN": "海濱道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-22T09:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100624",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Mong Kok bound) near Hoi Bun Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近海濱道公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-22T09:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100626",
+                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Mong Kok bound) near Hoi Bun Road Park which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往旺角方向)近海濱道公園的慢線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-22T09:56:45",
+        "last_announcement": "2024-07-22T09:46:00"
     }
 }
