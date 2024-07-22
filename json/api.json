@@ -38,45 +38,6 @@
         "last_update": "2024-07-20T11:35:36",
         "last_announcement": "2024-07-20T11:24:00"
     },
-    "IN-24-04222": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Hing Fat Street",
-            "NEAR_LANDMARK_CN": "興發街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-19T17:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100524",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Island Eastern Corridor (Central bound) near Hing Fat Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東區走廊(往中環方向)近興發街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-19T17:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100525",
-                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Central bound) near Hing Fat Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近興發街的慢線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-07-19T17:26:49",
-        "last_announcement": "2024-07-19T17:14:00"
-    },
     "IN-24-04223": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
