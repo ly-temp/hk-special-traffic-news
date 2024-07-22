@@ -38,84 +38,6 @@
         "last_update": "2024-07-20T11:35:36",
         "last_announcement": "2024-07-20T11:24:00"
     },
-    "IN-24-04219": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "obstacles on road",
-            "INCIDENT_DETAIL_CN": "路面有障礙物",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Caritas Medical Centre",
-            "NEAR_LANDMARK_CN": "明愛醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-19T15:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100518",
-                "CONTENT_EN": "Due to obstacles on road , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Caritas Medical Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因路面有障礙物，呈祥道(往觀塘方向)近明愛醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-19T15:57:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "100522",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Caritas Medical Centre which was closed due to obstacles on road is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面有障礙物而封閉的呈祥道(往觀塘方向)近明愛醫院的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-07-19T16:18:59",
-        "last_announcement": "2024-07-19T15:57:00"
-    },
-    "IN-24-04220": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Chuk Yuen Road",
-            "NEAR_LANDMARK_CN": "竹園道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-19T15:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100519",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近竹園道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-19T15:56:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "100521",
-                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近竹園道的慢線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-07-19T16:18:59",
-        "last_announcement": "2024-07-19T15:56:00"
-    },
     "IN-24-04221": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2198,10 +2120,49 @@
                 "ID": "100638",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Cha Kwo Ling Road (Kwun Tong Swimming Pool bound) near Lei Yue Mun Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，茶果嶺道(往觀塘游泳池方向)近鯉魚門道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-22T16:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100639",
+                "CONTENT_EN": "Part of the lanes of Cha Kwo Ling Road (Kwun Tong Swimming Pool bound) near Lei Yue Mun Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的茶果嶺道(往觀塘游泳池方向)近鯉魚門道的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-07-22T15:36:26",
-        "last_announcement": "2024-07-22T15:30:00"
+        "last_update": "2024-07-22T16:23:27",
+        "last_announcement": "2024-07-22T16:06:00"
+    },
+    "IN-24-04276": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Kai Yip Estate",
+            "NEAR_LANDMARK_CN": "啟業邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-22T16:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100640",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Mong Kok bound) near Kai Yip Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往旺角方向)近啟業邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-22T16:23:27",
+        "last_announcement": "2024-07-22T16:14:00"
     }
 }
