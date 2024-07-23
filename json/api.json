@@ -91,38 +91,6 @@
         "last_update": "2024-07-21T14:16:41",
         "last_announcement": "2024-07-21T13:46:00"
     },
-    "IN-24-04253": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-20T18:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100592",
-                "CONTENT_EN": "To assist the Police with Crowd Management, Entrance/Exit J, L4, L5, L6 in East Tsim Sha Tsui Station are temporarily closed. Please use other Entrances/Exits.",
-                "CONTENT_CN": "為配合警方的人潮管制措施，尖東站J，L4，L5，L6出入口暫時關閉，請使用其他出入口。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-07-20T18:52:46",
-        "last_announcement": "2024-07-20T18:39:00"
-    },
     "IN-24-04254": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1794,10 +1762,17 @@
                 "ID": "100685",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近興田邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-23T18:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100689",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tseung Kwan O Road (Tseung Kwan O Tunnel bound) ends at Kwun Tong Bypass near Kowloon Flour Mills. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近興田邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在將軍澳道(往將軍澳隧道方向)的車龍龍尾已到觀塘繞道近九龍麵粉廠。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-07-23T18:28:34",
-        "last_announcement": "2024-07-23T18:20:00"
+        "last_update": "2024-07-23T19:00:09",
+        "last_announcement": "2024-07-23T18:44:00"
     }
 }
