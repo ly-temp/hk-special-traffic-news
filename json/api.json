@@ -1,43 +1,4 @@
 {
-    "IN-24-04176": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Hing Shing Road",
-            "LOCATION_CN": "興盛路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Cotton Spinners Association Secondary School",
-            "NEAR_LANDMARK_CN": "棉紡會中學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-18T09:17:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100403",
-                "CONTENT_EN": "Due to watermain burst , the one-lane-two-way traffic arrangement is being implemented on Hing Shing Road near Cotton Spinners Association Secondary School.",
-                "CONTENT_CN": "因水管爆裂，興盛路近棉紡會中學現已實施單線雙程行車措施。"
-            },
-            "2024-07-20T11:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100562",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Hing Shing Road near Cotton Spinners Association Secondary School due to watermain burst is now cancelled.",
-                "CONTENT_CN": "較早前因水管爆裂而於興盛路近棉紡會中學實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-07-20T11:35:36",
-        "last_announcement": "2024-07-20T11:24:00"
-    },
     "IN-24-04231": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
