@@ -176,45 +176,6 @@
         "last_update": "2024-07-20T12:20:41",
         "last_announcement": "2024-07-20T12:05:00"
     },
-    "IN-24-04241": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Wan",
-            "DIRECTION_CN": "上環",
-            "NEAR_LANDMARK_EN": "Jubilee Street",
-            "NEAR_LANDMARK_CN": "租庇利街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-20T11:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100563",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central (Sheung Wan bound) near Jubilee Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，干諾道中(往上環方向)近租庇利街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-20T11:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100564",
-                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Sheung Wan bound) near Jubilee Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往上環方向)近租庇利街的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-07-20T11:55:57",
-        "last_announcement": "2024-07-20T11:44:00"
-    },
     "IN-24-04242": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2015,5 +1976,76 @@
         "district": "中西區",
         "last_update": "2024-07-23T11:33:17",
         "last_announcement": "2024-07-23T11:11:00"
+    },
+    "IN-24-04290": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Kok Tsui",
+            "DIRECTION_CN": "大角咀",
+            "NEAR_LANDMARK_EN": "Kwong Wah Hospital",
+            "NEAR_LANDMARK_CN": "廣華醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-23T11:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100669",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Tai Kok Tsui bound) near Kwong Wah Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往大角咀方向)近廣華醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-23T12:16:30",
+        "last_announcement": "2024-07-23T11:57:00"
+    },
+    "IN-24-04291": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Rutland Quadrant",
+            "NEAR_LANDMARK_CN": "律倫街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-23T12:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100670",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-23T12:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100671",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-07-23T12:16:30",
+        "last_announcement": "2024-07-23T12:09:00"
     }
 }
