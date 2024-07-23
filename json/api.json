@@ -91,116 +91,6 @@
         "last_update": "2024-07-21T15:37:10",
         "last_announcement": "2024-07-21T15:25:00"
     },
-    "IN-24-04233": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link",
-            "LOCATION_CN": "青嶼幹線",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "North West Tsing Yi Interchange",
-            "NEAR_LANDMARK_CN": "青衣西北交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-20T07:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100542",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Kowloon bound) near North West Tsing Yi Interchange is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(往九龍方向)近青衣西北交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-20T07:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100546",
-                "CONTENT_EN": "Part of the lanes of Lantau Link (Kowloon bound) near North West Tsing Yi Interchange which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(往九龍方向)近青衣西北交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-07-20T09:12:32",
-        "last_announcement": "2024-07-20T07:55:00"
-    },
-    "IN-24-04234": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Lion Rock Tunnel Road",
-            "NEAR_LANDMARK_CN": "獅子山隧道公路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-20T08:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100547",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lion Rock Tunnel Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近獅子山隧道公路的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-07-20T09:12:32",
-        "last_announcement": "2024-07-20T08:43:00"
-    },
-    "IN-24-04235": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Hong Ning Road",
-            "NEAR_LANDMARK_CN": "康寧道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-20T09:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100548",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Ning Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近康寧道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-20T09:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100549",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Hong Ning Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近康寧道的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-07-20T10:08:11",
-        "last_announcement": "2024-07-20T09:09:00"
-    },
     "IN-24-04230": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -278,45 +168,6 @@
         "district": "深水埗區",
         "last_update": "2024-07-20T10:37:22",
         "last_announcement": "2024-07-20T10:13:00"
-    },
-    "IN-24-04238": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Causeway Bay Typhoon Shelter",
-            "NEAR_LANDMARK_CN": "銅鑼灣避風塘",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-20T09:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100553",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near Causeway Bay Typhoon Shelter is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近銅鑼灣避風塘的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-20T10:00:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "100554",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Causeway Bay Typhoon Shelter which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近銅鑼灣避風塘的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-07-20T10:08:11",
-        "last_announcement": "2024-07-20T10:00:00"
     },
     "IN-24-04239": {
         "description": {
@@ -2010,11 +1861,18 @@
                 "ID": "100652",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wai Yip Street (Yau Tong bound) near Tsun Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，偉業街(往油塘方向)近駿業街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-23T09:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100656",
+                "CONTENT_EN": "Part of the lanes of Wai Yip Street (Yau Tong bound) near Tsun Yip Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的偉業街(往油塘方向)近駿業街的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-07-23T09:07:05",
-        "last_announcement": "2024-07-23T08:33:00"
+        "last_update": "2024-07-23T10:10:43",
+        "last_announcement": "2024-07-23T09:05:00"
     },
     "IN-24-04284": {
         "description": {
@@ -2042,10 +1900,88 @@
                 "ID": "100654",
                 "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-23T09:01:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "100655",
+                "CONTENT_EN": "The tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西區海底隧道(往香港島方向)的管道快線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-07-23T09:07:05",
-        "last_announcement": "2024-07-23T08:58:00"
+        "last_update": "2024-07-23T10:10:43",
+        "last_announcement": "2024-07-23T09:01:00"
+    },
+    "IN-24-04283": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lung Cheung Road",
+            "DIRECTION_CN": "龍翔道",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-23T09:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100657",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Clear Water Bay Road (Lung Cheung Road bound) ends at New Clear Water Bay Road near Shun Lee Disciplined Services Quarters. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，清水灣道(往龍翔道方向)近坪石邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在清水灣道(往龍翔道方向)的車龍龍尾已到新清水灣道近順利紀律部隊宿舍。 現時上址交通擠塞。"
+            },
+            "2024-07-23T09:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100659",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往龍翔道方向)近坪石邨的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-23T10:10:43",
+        "last_announcement": "2024-07-23T09:35:00"
+    },
+    "IN-24-04285": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Chek Lap Kok Road",
+            "LOCATION_CN": "赤鱲角路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Chek Lap Kok Tunnel",
+            "DIRECTION_CN": "屯門赤鱲角隧道",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-23T09:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100660",
+                "CONTENT_EN": "The only lane of the slip road leading from Chek Lap Kok Road (Tuen Mun Chek Lap Kok Tunnel bound) to Shun Ming Road  which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的由赤鱲角路(往屯門赤鱲角隧道方向)通往順明路 的支路的 唯一行車線現已解封。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-07-23T10:10:43",
+        "last_announcement": "2024-07-23T09:40:00"
     }
 }
