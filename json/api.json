@@ -1746,5 +1746,37 @@
         "district": "九龍城區",
         "last_update": "2024-07-24T10:24:49",
         "last_announcement": "2024-07-24T10:04:00"
+    },
+    "IN-24-04305": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Fu Road",
+            "LOCATION_CN": "龍富路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Chek Lap Kok Tunnel",
+            "DIRECTION_CN": "屯門赤鱲角隧道",
+            "NEAR_LANDMARK_EN": "Lung Fu Road roundabout",
+            "NEAR_LANDMARK_CN": "龍富路迴旋處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-24T11:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100705",
+                "CONTENT_EN": "The slow lane of Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel bound) near Lung Fu Road roundabout which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍富路(往屯門赤鱲角隧道方向)近龍富路迴旋處的慢線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-24T12:12:49",
+        "last_announcement": "2024-07-24T11:46:00"
     }
 }
