@@ -1369,11 +1369,18 @@
                 "ID": "100718",
                 "CONTENT_EN": "There will be no train service between Prince Edward and Ho Man Tin on the Kwun Tong Line on Sunday 28 July to facilitate large-scale tunnel asset renewal work. Please plan your journeys using alternative routes. More passengers than usual are expected in Prince Edward on that day. This may result in a longer waiting time on platforms or for station facilities; Exit C of Yau Ma Tei will also be temporarily closed, please use other exits. For details, please refer to the website of MTR Corporation Limited (https://www. mtr. com. hk/en/customer/main/ktl-service-suspension. html).",
                 "CONTENT_CN": "配合隧道大型資產更新工程，於7月28日(星期日)，觀塘綫來往太子至何文田的列車服務暫停，請預早規劃行程及使用替代路綫。 預計當天太子站乘客較多，候車及等候使用站內設施時間或會較長；油麻地站C出入口亦會暫時關閉，請使用其他出入口。 詳細請參閱港鐵公司網頁：https://www.mtr.com.hk/ch/customer/main/ktl-service-suspension.html"
+            },
+            "2024-07-25T18:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100751",
+                "CONTENT_EN": "There will be no train service between Prince Edward and Ho Man Tin on the Kwun Tong Line on Sunday 28 July to facilitate large-scale tunnel asset renewal work. Please plan your journeys using alternative routes. \n\nPassengers going to Mong Kok or Yau Ma Tei should take the Tsuen Wan Line; to Ho Man Tin should take the Tuen Ma Line. \n\nMore passengers than usual are expected in Prince Edward on that day. This may result in a longer waiting time on platforms or for station facilities; Exit C of Yau Ma Tei will also be temporarily closed, please use other exits. \n\nFor details, please refer to the website of MTR Corporation Limited (https://www. mtr. com. hk/en/customer/main/ktl-service-suspension. html).",
+                "CONTENT_CN": "配合隧道大型資產更新工程，於7月28日(星期日)，觀塘綫來往太子至何文田的列車服務暫停，請預早規劃行程及使用替代路綫。\n\n往旺角或油麻地，請使用荃灣綫；往何文田，請使用屯馬綫。\n\n預計當天太子站乘客較多，候車及等候使用站內設施時間或會較長；油麻地站C出入口亦會暫時關閉，請使用其他出入口。\n\n詳細請參閱港鐵公司網頁：\nhttps://www.mtr.com.hk/ch/customer/main/ktl-service-suspension.html。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-07-24T17:38:48",
-        "last_announcement": "2024-07-24T17:30:00"
+        "last_update": "2024-07-25T18:14:40",
+        "last_announcement": "2024-07-25T18:01:00"
     },
     "IN-24-04314": {
         "description": {
@@ -1816,10 +1823,17 @@
                 "ID": "100747",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Pui To Road (Castle Peak Road bound) near Tsun Wen Road is closed to all traffic. \nAffected bus routes have been diverted.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，杯渡路(往青山公路方向)近震寰路的全線現已封閉。\n受影響巴士路線須改道行駛。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-07-25T18:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100749",
+                "CONTENT_EN": "All lanes of Pui To Road (Castle Peak Road bound) near Tsun Wen Road which were closed due to traffic accident are re-opened to all traffic. Affected bus routes have resumed their original routeings.",
+                "CONTENT_CN": "較早前因交通意外而封閉的杯渡路(往青山公路方向)近震寰路的全線現已解封。 受影響巴士路線現已恢復原有路線行駛。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-07-25T17:54:28",
-        "last_announcement": "2024-07-25T17:37:00"
+        "last_update": "2024-07-25T18:14:40",
+        "last_announcement": "2024-07-25T18:00:00"
     }
 }
