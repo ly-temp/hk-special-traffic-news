@@ -1789,5 +1789,37 @@
         "district": "觀塘區",
         "last_update": "2024-07-25T18:32:33",
         "last_announcement": "2024-07-25T18:14:00"
+    },
+    "IN-24-04326": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Hing Fong Road",
+            "NEAR_LANDMARK_CN": "興芳路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-25T18:36:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100753",
+                "CONTENT_EN": "The fast lane of Tsuen Wan Road (Tuen Mun bound) near Hing Fong Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往屯門方向)近興芳路的快線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-07-25T18:52:53",
+        "last_announcement": "2024-07-25T18:36:00"
     }
 }
