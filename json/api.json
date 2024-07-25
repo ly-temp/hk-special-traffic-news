@@ -1,43 +1,4 @@
 {
-    "IN-24-04277": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Wong Chu Road",
-            "LOCATION_CN": "皇珠路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun Road",
-            "DIRECTION_CN": "屯門公路",
-            "NEAR_LANDMARK_EN": "On Ting Estate",
-            "NEAR_LANDMARK_CN": "安定邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-22T17:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100642",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Wong Chu Road (Tuen Mun Road bound) near On Ting Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，皇珠路(往屯門公路方向)近安定邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-22T17:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100643",
-                "CONTENT_EN": "Part of the lanes of Wong Chu Road (Tuen Mun Road bound) near On Ting Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的皇珠路(往屯門公路方向)近安定邨的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-07-22T18:22:39",
-        "last_announcement": "2024-07-22T17:58:00"
-    },
     "IN-24-04278": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1835,5 +1796,37 @@
         "district": "屯門區",
         "last_update": "2024-07-25T18:14:40",
         "last_announcement": "2024-07-25T18:00:00"
+    },
+    "IN-24-04327": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Wang Chiu Road",
+            "LOCATION_CN": "宏照道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Sheung Yuet Road",
+            "NEAR_LANDMARK_CN": "常悅道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-25T18:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100752",
+                "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Wang Chiu Road (Kwun Tong bound) near Sheung Yuet Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，宏照道(往觀塘方向)近常悅道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-25T18:32:33",
+        "last_announcement": "2024-07-25T18:14:00"
     }
 }
