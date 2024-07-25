@@ -45,45 +45,6 @@
         "last_update": "2024-07-22T14:43:21",
         "last_announcement": "2024-07-22T14:35:00"
     },
-    "IN-24-04272": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Canal Road Flyover",
-            "LOCATION_CN": "堅拿道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Hennessy Road",
-            "NEAR_LANDMARK_CN": "軒尼詩道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-22T13:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100631",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Canal Road Flyover (Cross Harbour Tunnel bound) near Hennessy Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，堅拿道天橋(往海底隧道方向)近軒尼詩道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-22T13:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100632",
-                "CONTENT_EN": "Part of the lanes of Canal Road Flyover (Cross Harbour Tunnel bound) near Hennessy Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的堅拿道天橋(往海底隧道方向)近軒尼詩道的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-07-22T14:00:20",
-        "last_announcement": "2024-07-22T13:48:00"
-    },
     "IN-24-04273": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1227,11 +1188,18 @@
                 "ID": "100728",
                 "CONTENT_EN": "As informed by Mainland Railway Authorities, some High Speed Rail train\nservices on 25 and 26 July 2024 traveling between Hong Kong West Kowloon Station and Mainland have been cancelled or the destination changed due to expected adverse weather conditions. \n\n25 July 2024\nCancelled train services:\nFrom Hong Kong West Kowloon Station\nTo Shenzhenbei Station: G5612\nTo Xiamen Station: G3004, G3006, G3008\nTo Fuzhou Station: G3002\n\nTo Hong Kong West Kowloon Station\nFrom Shenzhenbei Station: G5609\nFrom Xiamen Station: G3003, G3005, G3007\nFrom Fuzhou Station: G3001\n\nDestination Changed:\nG6391 (will depart from Chaoshan Station)\nG6392 (will arrive at Chaoshan Station)\n\n26 July 2024\nCancelled train services:\nFrom Hong Kong West Kowloon Station\nTo Xiamen Station: G3008\nTo Fuzhou Station: G3002\n\nTo Hong Kong West Kowloon Station\nFrom Xiamen Station: G3007\nFrom Fuzhou Station: G3001\n\nFor latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app. You may also check latest train information from HSR website or mobile app or the information available at Hong Kong West Kowloon Station. \n\nTicket refunds should be obtained within 30 days. Please use the 12306 official website (12306. cn) or mobile app and avoid coming to Hong Kong West Kowloon Station.",
                 "CONTENT_CN": "內地鐵路單位通報，由於預期天氣情況惡劣，2024年7月25日及26日部分來往香港西九龍站及內地的高速鐵路列車車次取消或更改目的地。\n\n2024年7月25日\n已取消的車次:\n香港西九龍站出發\n前往深圳北站:G5612\n前往廈門站:G3004,G3006,G3008\n前往福州站:G3002\n\n前往香港西九龍站\n由深圳北站:G5609\n由廈門站:G3003,G3005,G3007\n由福州站:G3001\n\n更改目的地的車次:\nG6391(始發站更改為潮汕站)\nG6392 (終到站更改為潮汕站)\n\n2024年7月26日\n已取消的車次:\n香港西九龍站出發\n前往廈門站:G3008\n前往褔州站:G3002\n\n前往香港西九龍站\n由廈門站:G3007\n由褔州站:G3001\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n\n如需退票，您可在30天內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
+            },
+            "2024-07-25T13:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100742",
+                "CONTENT_EN": "As informed by Mainland Railway Authorities, some High Speed Rail train services on 25 and 26 July 2024 traveling between Hong Kong West Kowloon Station and Mainland have been cancelled or the destination changed due to expected adverse weather conditions. \n\n25 July 2024\n\nCancelled train services:\nFrom Hong Kong West Kowloon Station\nTo Shenzhenbei Station: G5612\nTo Xiamen Station: G3004, G3006, G3008\nTo Fuzhou Station: G3002\n\nTo Hong Kong West Kowloon Station\nFrom Shenzhenbei Station: G5609\nFrom Xiamen Station: G3003, G3005, G3007\nFrom Fuzhou Station: G3001\n\nDestination Changed:\nG6391 (will depart from Chaoshan Station)\nG6392 (will arrive at Chaoshan Station)\nG6388 (will arrive at Shanwei Station)\n\n26 July 2024\nCancelled train services:\nFrom Hong Kong West Kowloon Station\nTo Xiamen Station: G3008\nTo Fuzhou Station: G3002\nTo Hong Kong West Kowloon Station\n\nFrom Xiamen Station: G3007\nFrom Fuzhou Station: G3001\nFrom Chaoshan Station: G6387\n\nFor latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app. You may also check latest train information from HSR website or mobile app or the information available at Hong Kong West Kowloon Station. \n\nTicket refunds should be obtained within 30 days. Please use the 12306 official website (12306. cn) or mobile app and avoid coming to Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "內地鐵路單位通報，由於預期天氣情況惡劣，2024年7月25日及26日部分來往香港西九龍站及內地的高速鐵路列車車次取消或更改目的地。\n\n2024年7月25日\n\n已取消的車次:\n香港西九龍站出發\n前往深圳北站:G5612\n\n前往廈門站:G3004,G3006, G3008\n前往福州站:G3002\n前往香港西九龍站\n\n由深圳北站:G5609\n由廈門站:G3003,G3005,G3007\n由福州站:G3001\n\n更改目的地的車次:\nG6391 (始發站更改為潮汕站)\nG6392 (終到站更改為潮汕站)\nG6388 (終到站更改為汕尾站)\n\n2024年7月26日\n已取消的車次:\n香港西九龍站出發\n前往廈門站:G3008\n前往褔州站:G3002\n前往香港西九龍站\n\n由廈門站:G3007\n由褔州站:G3001\n由潮汕站:G6387\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n\n如需退票，您可在30天內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
             }
         },
         "district": null,
-        "last_update": "2024-07-25T06:47:48",
-        "last_announcement": "2024-07-25T06:39:00"
+        "last_update": "2024-07-25T14:12:20",
+        "last_announcement": "2024-07-25T13:42:00"
     },
     "IN-24-04303": {
         "description": {
