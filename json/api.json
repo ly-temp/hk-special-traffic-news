@@ -1,43 +1,4 @@
 {
-    "IN-24-04296": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road West",
-            "LOCATION_CN": "太子道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "La Salle Road",
-            "NEAR_LANDMARK_CN": "喇沙利道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-23T16:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100682",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near La Salle Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，太子道西(往大角咀方向)近喇沙利道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-23T16:41:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "100683",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near La Salle Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道西(往大角咀方向)近喇沙利道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-07-23T16:57:15",
-        "last_announcement": "2024-07-23T16:41:00"
-    },
     "IN-24-04297": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -280,11 +241,18 @@
                 "ID": "100759",
                 "CONTENT_EN": "As informed by Mainland Railway Authorities, some High Speed Rail train services from 26 to 27 July 2024 between Hong Kong West Kowloon Station and Mainland have been cancelled due to expected adverse weather conditions. 26 July 2024 Cancelled train services: From Hong Kong West Kowloon Station: To Xiamen Station: G3008 To Fuzhou Station: G3002 To Shanghai Hongqiao Station: D908 To Hong Kong West Kowloon Station: From Xiamen Station: G3007 From Fuzhou Station: G3001 From Chaoshan Station: G6387 From Shanghai Hongqiao Station: D907 27 July 2024 Cancelled train services: From Hong Kong West Kowloon Station: To Shanghai Hongqiao Station: D908 To Hong Kong West Kowloon Station: From Shanghai Hongqiao Station: D907 For latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app. You may also check latest train information from HSR website or mobile app or the information available at Hong Kong West Kowloon Station. Ticket refunds should be obtained within 30 days. Please use the 12306 official website (12306. cn) or mobile app and avoid coming to Hong Kong West Kowloon Station.",
                 "CONTENT_CN": "內地鐵路單位通報，由於預期天氣情況惡劣，2024年7月26至27日部分來往香港西九龍站及內地的高速鐵路列車車次取消。 2024年7月26日 已取消的車次: 香港西九龍站出發: 前往廈門站:G3008 前往褔州站:G3002 前往上海虹橋站:D908 前往香港西九龍站 由廈門站:G3007 由褔州站:G3001 由潮汕站:G6387 由上海虹橋站:D907 2024年7月27日 香港西九龍站出發: 前往上海虹橋站:D908 前往香港西九龍站: 由上海虹橋站:D907 有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。 如需退票，您可在30天內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
+            },
+            "2024-07-26T16:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100788",
+                "CONTENT_EN": "As informed by the Mainland Railway Authorities, some High Speed Rail train services from 26 to 27 July 2024 between Hong Kong West Kowloon Station and Mainland have been cancelled or had their departing station and destination changed due to expected adverse weather conditions. \n\n26 July 2024\nCancelled Train Service:\nFrom Hong Kong West Kowloon Station:\nTo Xiamen Station: G3008\nTo Fuzhou Station: G3002\nTo Shanghai Hongqiao Station: D908\n\nTo Hong Kong West Kowloon Station:\nFrom Xiamen Station: G3007\nFrom Fuzhou Station: G3001\nFrom Chaoshan Station: G6387\nFrom Shanghai Hongqiao Station: D907\n\n27 July 2024\nCancelled Train Service:\nFrom Hong Kong West Kowloon Station:\nTo Shanghai Hongqiao Station: D908\n\nTo Hong Kong West Kowloon Station:\nFrom Shanghai Hongqiao Station: D907\n\nDeparting Station / Destination Changed:\nG6391 (will depart from Chaoshan Station)\nG6392 (will arrive at Chaoshan Station)\n\nFor latest train schedules, please refer to 12306 official website (12306. cn) or their mobile app. You may also check the latest train information from HSR website or mobile app or the information available at Hong Kong West Kowloon Station. \n\nTicket refunds should be obtained within 30 days. Please use the 12306 official website (12306. cn) or mobile app and avoid coming to Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "內地鐵路單位通報，由於預期天氣情況惡劣，2024年7月26日至27日部分來往香港西九龍站及內地的高速鐵路列車車次取消，或需要更改始發站及目的地。\n\n2024年7月26日\n已取消的車次\n香港西九龍站出發:\n前往廈門站:G3008\n前往福州站:G3002\n前往上海虹橋站:D908\n\n前往香港西九龍站:\n由廈門站:G3007\n由福州站:G3001\n由潮汕站:G6387\n由上海虹橋站:D907\n\n2024年7月27日\n已取消的車次\n香港西九龍站出發:\n前往上海虹橋站:D908\n\n前往香港西九龍站:\n由上海虹橋站:D907\n\n更改始發站及目的地的車次\nG6391(始發站更改為潮汕站)\nG6392 (終到站更改為潮汕站)\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁或手機應用程式或香港西九龍站發放的最新資訊。\n\n如需退票，您可在30天內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
             }
         },
         "district": null,
-        "last_update": "2024-07-26T00:20:55",
-        "last_announcement": "2024-07-25T23:47:00"
+        "last_update": "2024-07-26T17:10:38",
+        "last_announcement": "2024-07-26T16:26:00"
     },
     "IN-24-04303": {
         "description": {
