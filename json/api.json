@@ -1980,5 +1980,37 @@
         "district": "葵青區",
         "last_update": "2024-07-27T15:29:51",
         "last_announcement": "2024-07-27T15:15:00"
+    },
+    "IN-24-04368": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Kwun Tong Line Service Adjustment",
+            "INCIDENT_DETAIL_CN": "觀塘綫服務調整",
+            "LOCATION_EN": "Kwun Tong Line Service Disruption",
+            "LOCATION_CN": "觀塘綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-28T05:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100842",
+                "CONTENT_EN": "There is no train service between Prince Edward and Ho Man Tin on the Kwun Tong Line today to facilitate large-scale tunnel asset renewal work. Details are as below: Service Status of Kwun Tong Line: Between Whampoa Station and Ho Man Tin Station: 7-10 minute intervals Between Ho Man Tin Station and Prince Edward Station: Suspended Between Prince Edward Station and Tiu Keng Leng Station: 7-10 minute intervals Train service on other Lines remains normal. Trains depart from Tiu Keng Leng will stop service at Prince Edward. Passengers going to Mong Kok or Yau Ma Tei should take the Tsuen Wan Line; to Ho Man Tin should take the Tuen Ma Line. You may click on the “Alternative Transport Information” under MTR Mobile to search for other routes. There are more passengers than usual in Prince Edward. This may result in a longer waiting time on platforms or for station facilities. Exit C of Yau Ma Tei will also be temporarily closed, please use other exits.",
+                "CONTENT_CN": "為配合隧道大型資產更新工程，觀塘綫太子至何文田列車服務今日暫停。詳情如下: 觀塘綫車務狀況： 黃埔站往返何文田站：每7-10分鐘一班 何文田站往返太子站：暫停服務 太子站往返調景嶺站：每7-10分鐘一班 其他綫路維持正常服務。調景嶺開出的列車以太子為終點站，往旺角或油麻地，請使用荃灣綫；往何文田，請使用屯馬綫。 你可在MTR Mobile 按下「其他交通工具資料」連結搜尋替代路綫。 太子站乘客較多，候車及等候使用站內設施時間或會較長；油麻地站C出入口暫時關閉，請使用其他出入口。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-28T06:00:11",
+        "last_announcement": "2024-07-28T05:38:00"
     }
 }
