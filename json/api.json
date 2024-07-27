@@ -1987,5 +1987,37 @@
         "district": "荃灣區",
         "last_update": "2024-07-27T11:31:00",
         "last_announcement": "2024-07-27T11:09:00"
+    },
+    "IN-24-04306": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon City",
+            "DIRECTION_CN": "九龍城",
+            "NEAR_LANDMARK_EN": "San Lau Street",
+            "NEAR_LANDMARK_CN": "新柳街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-27T11:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100822",
+                "CONTENT_EN": "The fast lane of Chatham Road North (Kowloon City bound) near San Lau Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的漆咸道北(往九龍城方向)近新柳街的快線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-07-27T11:41:12",
+        "last_announcement": "2024-07-27T11:31:00"
     }
 }
