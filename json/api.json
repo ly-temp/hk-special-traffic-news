@@ -94,109 +94,6 @@
         "last_update": "2024-07-27T00:23:58",
         "last_announcement": "2024-07-26T23:52:00"
     },
-    "IN-24-04303": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Long Tin Road",
-            "LOCATION_CN": "朗天路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Tong Yan San Tsuen Interchange",
-            "NEAR_LANDMARK_CN": "唐人新村交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-24T09:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100699",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Long Tin Road (Tuen Mun bound) near Tong Yan San Tsuen Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，朗天路(往屯門方向)近唐人新村交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-24T09:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100701",
-                "CONTENT_EN": "Part of the lanes of Long Tin Road (Tuen Mun bound) near Tong Yan San Tsuen Interchange which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的朗天路(往屯門方向)近唐人新村交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-07-24T10:24:49",
-        "last_announcement": "2024-07-24T09:49:00"
-    },
-    "IN-24-04304": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Harcourt Road",
-            "LOCATION_CN": "夏慤道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Wan",
-            "DIRECTION_CN": "上環",
-            "NEAR_LANDMARK_EN": "Arsenal Street",
-            "NEAR_LANDMARK_CN": "軍器廠街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-24T09:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100702",
-                "CONTENT_EN": "Part of the lanes of Harcourt Road (Sheung Wan bound) near Arsenal Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的夏慤道(往上環方向)近軍器廠街的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-07-24T10:24:49",
-        "last_announcement": "2024-07-24T09:52:00"
-    },
-    "IN-24-04306": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "San Lau Street",
-            "NEAR_LANDMARK_CN": "新柳街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-24T10:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100704",
-                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Chatham Road North (Kowloon City bound) near San Lau Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，漆咸道北(往九龍城方向)近新柳街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-07-24T10:24:49",
-        "last_announcement": "2024-07-24T10:04:00"
-    },
     "IN-24-04305": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1980,5 +1877,76 @@
         "district": "觀塘區",
         "last_update": "2024-07-27T10:22:19",
         "last_announcement": "2024-07-27T09:38:00"
+    },
+    "IN-24-04357": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Hip Wo Street",
+            "LOCATION_CN": "協和街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong Road",
+            "DIRECTION_CN": "觀塘道",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-27T10:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100815",
+                "CONTENT_EN": "Due to emergency repair of road surface, vehicles can only make right turning from Hip Wo Street (Kwun Tong Road bound) onto Hong Ning Road. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，車輛必須由協和街(往觀塘道方向)右轉入康寧道。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-07-27T10:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100817",
+                "CONTENT_EN": "Due to emergency repair of road surface , the slow lane of Hip Wo Street (Kwun Tong Road bound) near Hong Ning Road is closed to all traffic. Only remaining lane are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，協和街(往觀塘道方向)近康寧道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-27T10:43:33",
+        "last_announcement": "2024-07-27T10:26:00"
+    },
+    "IN-24-04358": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Kowloon Bay MTR Station",
+            "NEAR_LANDMARK_CN": "九龍灣港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-27T10:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100818",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Mong Kok bound) near Kowloon Bay MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往旺角方向)近九龍灣港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-27T10:43:33",
+        "last_announcement": "2024-07-27T10:34:00"
     }
 }
