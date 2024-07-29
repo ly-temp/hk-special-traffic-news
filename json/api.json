@@ -129,84 +129,6 @@
         "last_update": "2024-07-29T00:30:49",
         "last_announcement": "2024-07-29T00:02:00"
     },
-    "IN-24-04346": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road South",
-            "LOCATION_CN": "漆咸道南",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-26T18:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100793",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-26T18:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100795",
-                "CONTENT_EN": "Part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-07-26T19:13:51",
-        "last_announcement": "2024-07-26T18:48:00"
-    },
-    "IN-24-04347": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lung Cheung Road",
-            "DIRECTION_CN": "龍翔道",
-            "NEAR_LANDMARK_EN": "Lion Rock Tunnel exit",
-            "NEAR_LANDMARK_CN": "獅子山隧道出口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-26T18:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100794",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Lung Cheung Road bound) near Lion Rock Tunnel exit is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，獅子山隧道公路(往龍翔道方向)近獅子山隧道出口的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-26T18:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100796",
-                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Lung Cheung Road bound) near Lion Rock Tunnel exit which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往龍翔道方向)近獅子山隧道出口的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-07-26T19:13:51",
-        "last_announcement": "2024-07-26T18:55:00"
-    },
     "IN-24-04348": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2630,10 +2552,49 @@
                 "ID": "100947",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road South (Tai Kok Tsui bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，漆咸道南(往大角咀方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-29T19:00:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "100948",
+                "CONTENT_EN": "Part of the lanes of Chatham Road South (Tai Kok Tsui bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道南(往大角咀方向)近香港理工大學的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-07-29T19:08:39",
-        "last_announcement": "2024-07-29T18:47:00"
+        "last_update": "2024-07-29T19:21:30",
+        "last_announcement": "2024-07-29T19:00:00"
+    },
+    "IN-24-04412": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tong Mi Road",
+            "LOCATION_CN": "塘尾道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "Bute Street",
+            "NEAR_LANDMARK_CN": "弼街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-29T19:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100949",
+                "CONTENT_EN": "Part of the lanes of Tong Mi Road (Yau Ma Tei bound) near Bute Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的塘尾道(往油麻地方向)近弼街的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-29T19:21:30",
+        "last_announcement": "2024-07-29T19:10:00"
     }
 }
