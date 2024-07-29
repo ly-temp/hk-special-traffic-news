@@ -129,77 +129,6 @@
         "last_update": "2024-07-29T00:30:49",
         "last_announcement": "2024-07-29T00:02:00"
     },
-    "IN-24-04332": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Wing Shun Street",
-            "NEAR_LANDMARK_CN": "永順街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-26T08:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100762",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Kowloon bound) near Wing Shun Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近永順街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-26T09:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100765",
-                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Wing Shun Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近永順街的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-07-26T09:13:09",
-        "last_announcement": "2024-07-26T09:01:00"
-    },
-    "IN-24-04333": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Boundary Street",
-            "NEAR_LANDMARK_CN": "界限街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-26T08:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100763",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Boundary Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道天橋(往獅子山隧道方向)近界限街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-07-26T09:13:09",
-        "last_announcement": "2024-07-26T08:52:00"
-    },
     "IN-24-04334": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2247,10 +2176,191 @@
                 "ID": "100891",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Corridor (Tsim Sha Tsui bound) near Bute Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，西九龍走廊(往尖沙咀方向)近弼街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-29T08:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100893",
+                "CONTENT_EN": "Part of the lanes of West Kowloon Corridor (Tsim Sha Tsui bound) near Bute Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西九龍走廊(往尖沙咀方向)近弼街的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-07-29T07:57:09",
-        "last_announcement": "2024-07-29T07:42:00"
+        "last_update": "2024-07-29T09:24:05",
+        "last_announcement": "2024-07-29T08:32:00"
+    },
+    "IN-24-04388": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Stubbs Road",
+            "LOCATION_CN": "司徒拔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Queen's Road East",
+            "DIRECTION_CN": "皇后大道東",
+            "NEAR_LANDMARK_EN": "Stubbs Road Children's Playground",
+            "NEAR_LANDMARK_CN": "司徒拔道兒童遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-29T08:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100892",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Stubbs Road (Queen's Road East bound) near Stubbs Road Children's Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，司徒拔道(往皇后大道東方向)近司徒拔道兒童遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-29T08:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100894",
+                "CONTENT_EN": "Part of the lanes of Stubbs Road (Queen's Road East bound) near Stubbs Road Children's Playground which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的司徒拔道(往皇后大道東方向)近司徒拔道兒童遊樂場的部份行車線現已解封。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-07-29T09:24:05",
+        "last_announcement": "2024-07-29T08:37:00"
+    },
+    "IN-24-04390": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Possession Street",
+            "LOCATION_CN": "水坑口街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-29T08:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100897",
+                "CONTENT_EN": "Due to fire , part of the lanes of Possession Street  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因火警，水坑口街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-29T09:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100902",
+                "CONTENT_EN": "Part of the lanes of Possession Street  which was closed due to fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因火警而封閉的水坑口街的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-07-29T09:24:05",
+        "last_announcement": "2024-07-29T09:04:00"
+    },
+    "IN-24-04391": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Lin Cheung Road",
+            "LOCATION_CN": "連翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Civil Aid Service Headquarters",
+            "NEAR_LANDMARK_CN": "民眾安全服務隊總部",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-29T08:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100898",
+                "CONTENT_EN": "Due to road incident , part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Civil Aid Service Headquarters is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因道路事故，連翔道(往尖沙咀方向)近民眾安全服務隊總部的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-07-29T09:24:05",
+        "last_announcement": "2024-07-29T08:52:00"
+    },
+    "IN-24-04393": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "Causeway Bay Typhoon Shelter",
+            "NEAR_LANDMARK_CN": "銅鑼灣避風塘",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-29T09:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100900",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Island Eastern Corridor (Chai Wan bound) near Causeway Bay Typhoon Shelter is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東區走廊(往柴灣方向)近銅鑼灣避風塘的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-07-29T09:24:05",
+        "last_announcement": "2024-07-29T09:01:00"
+    },
+    "IN-24-04395": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-29T09:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100904",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road flyover (Tsuen Wan bound) near Ping Shek Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道天橋(往荃灣方向)近坪石邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-07-29T09:24:05",
+        "last_announcement": "2024-07-29T09:12:00"
     }
 }
