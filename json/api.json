@@ -2518,5 +2518,69 @@
         "district": "觀塘區",
         "last_update": "2024-07-29T20:18:23",
         "last_announcement": "2024-07-29T20:09:00"
+    },
+    "IN-24-04417": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Mount Davis Road",
+            "LOCATION_CN": "摩星嶺道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "St. Clare's Girls' School",
+            "NEAR_LANDMARK_CN": "聖嘉勒女書院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-30T05:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100955",
+                "CONTENT_EN": "Due to fallen tree , all lanes of Mount Davis Road (both bounds) near St. Clare's Girls' School is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因塌樹，摩星嶺道(來回方向)近聖嘉勒女書院的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-07-30T06:19:36",
+        "last_announcement": "2024-07-30T05:54:00"
+    },
+    "IN-24-04418": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Lantau Link",
+            "LOCATION_CN": "青嶼幹線",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": "Lantau Link (Tsing Ma Bridge)",
+            "NEAR_LANDMARK_CN": "青嶼幹線(青馬大橋)",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-30T06:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100956",
+                "CONTENT_EN": "Due to emergency incident , the slow lane of Lantau Link (Airport bound) near Lantau Link (Tsing Ma Bridge) is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因突發事件，青嶼幹線(往機場方向)近青嶼幹線(青馬大橋)的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-30T06:19:36",
+        "last_announcement": "2024-07-30T06:01:00"
     }
 }
