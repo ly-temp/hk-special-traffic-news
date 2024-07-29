@@ -2552,10 +2552,56 @@
                 "ID": "100939",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wai Yip Street (Kwun Tong bound) near Kowloon Bay Sports Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，偉業街(往觀塘方向)近九龍灣體育館的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-29T18:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100942",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wai Yip Street (Kwun Tong bound) near Kowloon Bay Sports Centre is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Wai Yip Street (Kwun Tong bound) ends at Lung Cheung Road near Diamond Hill MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，偉業街(往觀塘方向)近九龍灣體育館的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在偉業街(往觀塘方向)的車龍龍尾已到龍翔道近鑽石山港鐵站。 現時上址交通擠塞。"
+            },
+            "2024-07-29T18:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100943",
+                "CONTENT_EN": "Part of the lanes of Wai Yip Street (Kwun Tong bound) near Kowloon Bay Sports Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的偉業街(往觀塘方向)近九龍灣體育館的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-07-29T17:52:05",
-        "last_announcement": "2024-07-29T17:43:00"
+        "last_update": "2024-07-29T18:32:26",
+        "last_announcement": "2024-07-29T18:23:00"
+    },
+    "IN-24-04411": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Fu Road",
+            "LOCATION_CN": "龍富路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wong Chu Road",
+            "DIRECTION_CN": "皇珠路",
+            "NEAR_LANDMARK_EN": "Lung Fu Road roundabout",
+            "NEAR_LANDMARK_CN": "龍富路迴旋處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-29T18:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100941",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Fu Road (Wong Chu Road bound) near Lung Fu Road roundabout is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍富路(往皇珠路方向)近龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-07-29T18:32:26",
+        "last_announcement": "2024-07-29T18:08:00"
     }
 }
