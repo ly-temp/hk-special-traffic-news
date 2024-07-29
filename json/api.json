@@ -129,38 +129,6 @@
         "last_update": "2024-07-29T00:30:49",
         "last_announcement": "2024-07-29T00:02:00"
     },
-    "IN-24-04340": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": "Island Line Service Disruption",
-            "LOCATION_CN": "港島綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-26T14:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100778",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that there is an additional travelling time of 10 to 15 minutes on the Island Line between Kennedy Town and Chai Wan because of a passenger on a train requiring urgent medical assistance at Tin Hau Station. This may result in a longer waiting time for trains to arrive.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於天后站列車上有乘客需要緊急醫療協助，港島綫來往堅尼地城至柴灣的車程延長10至15分鐘。候車時間可能會延遲。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-07-26T14:43:19",
-        "last_announcement": "2024-07-26T14:32:00"
-    },
     "IN-24-04341": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
