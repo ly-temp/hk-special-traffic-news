@@ -168,38 +168,6 @@
         "last_update": "2024-07-27T10:22:19",
         "last_announcement": "2024-07-27T09:31:00"
     },
-    "IN-24-04355": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Rainstorm Incident",
-            "INCIDENT_HEADING_CN": "暴雨事故",
-            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-27T09:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100810",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-07-27T09:34:45",
-        "last_announcement": "2024-07-27T09:00:00"
-    },
     "IN-24-04356": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2545,11 +2513,25 @@
                 "ID": "100956",
                 "CONTENT_EN": "Due to emergency incident , the slow lane of Lantau Link (Airport bound) near Lantau Link (Tsing Ma Bridge) is closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因突發事件，青嶼幹線(往機場方向)近青嶼幹線(青馬大橋)的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-07-30T07:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100961",
+                "CONTENT_EN": "Due to emergency incident , the slow lane of Lantau Link (Airport bound) near Lantau Link (Tsing Ma Bridge) is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   The lower deck of Lantau Link (Airport bound) has been opened.   Traffic queue on Lantau Link (Airport bound) ends at Cheung Tsing Highway near Kam Chuk Kok.   Traffic is congested now.",
+                "CONTENT_CN": "因突發事件，青嶼幹線(往機場方向)近青嶼幹線(青馬大橋)的慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  青嶼幹線下層(往機場方向)現已開放。  現時在青嶼幹線(往機場方向)的車龍龍尾已到長青公路近金竹角。  現時上址交通擠塞。"
+            },
+            "2024-07-30T08:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100967",
+                "CONTENT_EN": "The slow lane of Lantau Link (Airport bound) near Lantau Link (Tsing Ma Bridge) which was closed due to emergency incident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因突發事件而封閉的青嶼幹線(往機場方向)近青嶼幹線(青馬大橋)的慢線現已解封。 車龍有待消散。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-07-30T06:19:36",
-        "last_announcement": "2024-07-30T06:01:00"
+        "last_update": "2024-07-30T09:36:46",
+        "last_announcement": "2024-07-30T08:33:00"
     },
     "IN-24-04353": {
         "description": {
@@ -2609,10 +2591,173 @@
                 "ID": "100959",
                 "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Lion Rock Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，獅子山隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-30T08:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100962",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Lion Rock Tunnel (Kowloon bound) is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lion Rock Tunnel (Kowloon bound) ends at Sha Tin Road near Pok Hong Estate. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，獅子山隧道(往九龍方向)的管道慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在獅子山隧道(往九龍方向)的車龍龍尾已到沙田路近博康邨。 現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-07-30T07:58:49",
-        "last_announcement": "2024-07-30T07:42:00"
+        "last_update": "2024-07-30T09:36:46",
+        "last_announcement": "2024-07-30T08:04:00"
+    },
+    "IN-24-04420": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Hong Kong Garden",
+            "NEAR_LANDMARK_CN": "豪景花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-30T08:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100966",
+                "CONTENT_EN": "The fast lane of Tuen Mun Road (Kowloon bound) near Hong Kong Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近豪景花園的快線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-07-30T09:36:46",
+        "last_announcement": "2024-07-30T08:24:00"
+    },
+    "IN-24-04421": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tai Po Railway Pier",
+            "NEAR_LANDMARK_CN": "大埔鐵路碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-30T08:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100969",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Tai Po Railway Pier is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tolo Highway (Kowloon bound) ends at Tolo Highway near Classical Gardens. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近大埔鐵路碼頭的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在吐露港公路(往九龍方向)的車龍龍尾已到吐露港公路近新峰花園。 現時上址交通擠塞。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-07-30T09:36:46",
+        "last_announcement": "2024-07-30T08:34:00"
+    },
+    "IN-24-04423": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Chui Yu Road",
+            "NEAR_LANDMARK_CN": "聚魚道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-30T08:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100972",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Corridor (Tsim Sha Tsui bound) near Chui Yu Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西九龍走廊(往尖沙咀方向)近聚魚道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-30T08:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100974",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Corridor (Tsim Sha Tsui bound) near Chui Yu Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on West Kowloon Corridor (Tsim Sha Tsui bound) ends at Kwai Chung Road near Butterfly Valley Road. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，西九龍走廊(往尖沙咀方向)近聚魚道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在西九龍走廊(往尖沙咀方向)的車龍龍尾已到葵涌道近蝴蝶谷道。 現時上址交通擠塞。"
+            },
+            "2024-07-30T08:55:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "100975",
+                "CONTENT_EN": "Part of the lanes of West Kowloon Corridor (Tsim Sha Tsui bound) near Chui Yu Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西九龍走廊(往尖沙咀方向)近聚魚道的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-07-30T09:36:46",
+        "last_announcement": "2024-07-30T08:55:00"
+    },
+    "IN-24-04424": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Sha Tin Road",
+            "LOCATION_CN": "沙田路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Pok Hong Estate",
+            "NEAR_LANDMARK_CN": "博康邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-30T08:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100973",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sha Tin Road (Kowloon bound) near Pok Hong Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，沙田路(往九龍方向)近博康邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-07-30T08:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100977",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sha Tin Road (Kowloon bound) near Pok Hong Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Sha Tin Road (Kowloon bound) ends at Sha Lek Highway near Siu Lek Yuen Road. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，沙田路(往九龍方向)近博康邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在沙田路(往九龍方向)的車龍龍尾已到沙瀝公路近小瀝源路。 現時上址交通擠塞。"
+            },
+            "2024-07-30T09:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "100979",
+                "CONTENT_EN": "Part of the lanes of Sha Tin Road (Kowloon bound) near Pok Hong Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的沙田路(往九龍方向)近博康邨的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-07-30T09:36:46",
+        "last_announcement": "2024-07-30T09:18:00"
     }
 }
