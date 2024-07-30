@@ -2670,5 +2670,37 @@
         "district": "屯門區",
         "last_update": "2024-07-30T11:37:14",
         "last_announcement": "2024-07-30T11:23:00"
+    },
+    "IN-24-04430": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsing Yi",
+            "DIRECTION_CN": "青衣",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-07-30T13:23:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "100993",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of the slip road leading from Tsing Kwai Highway (Tsing Yi bound) to Kwai Tsing Road  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由青葵公路(往青衣方向)通往葵青路 的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-07-30T13:32:01",
+        "last_announcement": "2024-07-30T13:23:00"
     }
 }
