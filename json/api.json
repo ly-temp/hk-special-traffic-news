@@ -2866,5 +2866,37 @@
         "district": "灣仔區",
         "last_update": "2024-08-01T14:43:12",
         "last_announcement": "2024-08-01T14:25:00"
+    },
+    "IN-24-04478": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-01T14:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101110",
+                "CONTENT_EN": "Extra travelling time can be expected on the East Rail Line.",
+                "CONTENT_CN": "東鐵綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-08-01T14:53:14",
+        "last_announcement": "2024-08-01T14:42:00"
     }
 }
