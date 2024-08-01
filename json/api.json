@@ -38,77 +38,6 @@
         "last_update": "2024-07-29T19:42:11",
         "last_announcement": "2024-07-29T19:27:00"
     },
-    "IN-24-04414": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road South",
-            "LOCATION_CN": "漆咸道南",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-29T18:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100947",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road South (Tai Kok Tsui bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道南(往大角咀方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-29T19:00:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "100948",
-                "CONTENT_EN": "Part of the lanes of Chatham Road South (Tai Kok Tsui bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道南(往大角咀方向)近香港理工大學的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-07-29T19:21:30",
-        "last_announcement": "2024-07-29T19:00:00"
-    },
-    "IN-24-04412": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tong Mi Road",
-            "LOCATION_CN": "塘尾道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Bute Street",
-            "NEAR_LANDMARK_CN": "弼街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-29T19:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100949",
-                "CONTENT_EN": "Part of the lanes of Tong Mi Road (Yau Ma Tei bound) near Bute Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的塘尾道(往油麻地方向)近弼街的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-07-29T19:21:30",
-        "last_announcement": "2024-07-29T19:10:00"
-    },
     "IN-24-04415": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2613,11 +2542,18 @@
                 "ID": "101116",
                 "CONTENT_EN": "The following road sections are busy:\n– So Kwun Po Road roundabout\n– Tai Tau Leng Roundabout\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–掃管埔路迴旋處\n–大頭嶺迴旋處\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-08-01T19:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101127",
+                "CONTENT_EN": "Traffic at the following road section(s) have resumed normal: – So Kwun Po Road roundabout – Tai Tau Leng Roundabout",
+                "CONTENT_CN": "以下路段的交通現已恢復正常: –掃管埔路迴旋處 –大頭嶺迴旋處"
             }
         },
         "district": null,
-        "last_update": "2024-08-01T18:37:18",
-        "last_announcement": "2024-08-01T18:17:00"
+        "last_update": "2024-08-01T19:27:51",
+        "last_announcement": "2024-08-01T19:13:00"
     },
     "IN-24-04483": {
         "description": {
