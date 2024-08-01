@@ -3010,10 +3010,49 @@
                 "ID": "101102",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Lion Rock Tunnel Road (Tai Po bound) near Sun Tin Wai is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往大埔方向)近新田圍的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-01T10:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101104",
+                "CONTENT_EN": "The slow lane of Lion Rock Tunnel Road (Tai Po bound) near Sun Tin Wai which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往大埔方向)近新田圍的慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-08-01T10:52:31",
-        "last_announcement": "2024-08-01T10:31:00"
+        "last_update": "2024-08-01T11:11:48",
+        "last_announcement": "2024-08-01T10:49:00"
+    },
+    "IN-24-04475": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Kwong Fuk Park",
+            "NEAR_LANDMARK_CN": "廣福公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-01T10:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101105",
+                "CONTENT_EN": "The fast lane of Tolo Highway (Kowloon bound) near Kwong Fuk Park which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.   Citizens please take note KMB's service travelling via Tolo Highway (Kowloon bound) is still being affected. Citizens please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近廣福公園的快線現已解封。車龍有待消散。  市⺠請留意九巴途經吐露港公路往九⿓⽅向的服務仍然受影響，市⺠請考慮使⽤其他公共交通服務，例如港鐵服務。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-08-01T11:11:48",
+        "last_announcement": "2024-08-01T10:53:00"
     }
 }
