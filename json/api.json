@@ -1,43 +1,4 @@
 {
-    "IN-24-04401": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "So Kwun Wat",
-            "NEAR_LANDMARK_CN": "掃管笏",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-29T14:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100922",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near So Kwun Wat is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近掃管笏的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-29T14:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100923",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near So Kwun Wat which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近掃管笏的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-07-29T14:55:25",
-        "last_announcement": "2024-07-29T14:40:00"
-    },
     "IN-24-04402": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2893,10 +2854,17 @@
                 "ID": "101110",
                 "CONTENT_EN": "Extra travelling time can be expected on the East Rail Line.",
                 "CONTENT_CN": "東鐵綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
+            },
+            "2024-08-01T14:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101111",
+                "CONTENT_EN": "Due to an equipment fault on a train at Fo Tan Station, the total journey time on the East Rail Line between Admiralty Station and Lo Wu Station / Lok Ma Chau Station could be extended by 10-15 minutes. \n\nEast Rail Line service changes as follows:\nAdmiralty Station ↔ Lo Wu Station 8-minute intervals\nAdmiralty Station ↔ Lok Ma Chau Station 20-minute intervals\nLonger waiting times on East Rail Line platforms can be expected. \n\nPlease allow more time for travel.",
+                "CONTENT_CN": "由於有列車在火炭站出現設備故障，東鐵綫來往金鐘站及羅湖站/落馬洲站的行車時間預計需要額外10-15分鐘。\n\n東鐵綫服務更改如下\n金鐘站↔羅湖站 每8分鐘一班\n金鐘站↔落馬洲站 每20分鐘一班\n現時東鐵綫月台上的乘客較多，候車時間亦會較長。\n\n請為行程預留充裕時間。"
             }
         },
         "district": null,
-        "last_update": "2024-08-01T14:53:14",
-        "last_announcement": "2024-08-01T14:42:00"
+        "last_update": "2024-08-01T15:10:49",
+        "last_announcement": "2024-08-01T14:50:00"
     }
 }
