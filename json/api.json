@@ -2671,5 +2671,37 @@
         "district": "沙田區",
         "last_update": "2024-08-01T19:17:31",
         "last_announcement": "2024-08-01T18:56:00"
+    },
+    "IN-24-04485": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Saigon Street",
+            "LOCATION_CN": "西貢街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Wai Ching Street",
+            "NEAR_LANDMARK_CN": "偉晴街",
+            "BETWEEN_LANDMARK_EN": "Ferry Street",
+            "BETWEEN_LANDMARK_CN": "渡船街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-01T19:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101128",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Saigon Street  between Wai Ching Street and Ferry Street are closed to all traffic. Motorists may use alternative routing. At the same time, the slow lane of Ferry Street (Tsim Sha Tsui bound) near Saigon Street is also closed. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，西貢街介乎偉晴街與渡船街之間的全線現已封閉。 駕駛人士可改用其他道路。 同時，渡船街(往尖沙咀方向)近西貢街的慢線亦已封閉。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-01T19:37:59",
+        "last_announcement": "2024-08-01T19:20:00"
     }
 }
