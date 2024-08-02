@@ -1,43 +1,4 @@
 {
-    "IN-24-04436": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yeung Uk Road",
-            "LOCATION_CN": "楊屋道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Texaco Road",
-            "DIRECTION_CN": "德士古道",
-            "NEAR_LANDMARK_EN": "Luen Yan Street",
-            "NEAR_LANDMARK_CN": "聯仁街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-30T17:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101008",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yeung Uk Road (Texaco Road bound) near Luen Yan Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，楊屋道(往德士古道方向)近聯仁街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-30T17:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101009",
-                "CONTENT_EN": "Part of the lanes of Yeung Uk Road (Texaco Road bound) near Luen Yan Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的楊屋道(往德士古道方向)近聯仁街的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-07-30T17:49:19",
-        "last_announcement": "2024-07-30T17:40:00"
-    },
     "IN-24-04437": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2590,5 +2551,37 @@
         "district": "油尖旺區",
         "last_update": "2024-08-02T17:47:47",
         "last_announcement": "2024-08-02T17:38:00"
+    },
+    "IN-24-04506": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Gloucester Road",
+            "LOCATION_CN": "告士打道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Percival Street",
+            "NEAR_LANDMARK_CN": "波斯富街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-02T17:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101172",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Gloucester Road (Central bound) near Percival Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，告士打道(往中環方向)近波斯富街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-08-02T17:58:01",
+        "last_announcement": "2024-08-02T17:50:00"
     }
 }
