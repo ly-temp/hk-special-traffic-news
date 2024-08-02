@@ -2437,5 +2437,37 @@
         "district": "油尖旺區",
         "last_update": "2024-08-02T09:49:20",
         "last_announcement": "2024-08-02T09:38:00"
+    },
+    "IN-24-04493": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Tsing Long Highway (Ting Kau Bridge)",
+            "NEAR_LANDMARK_CN": "青朗公路(汀九橋)",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-02T10:42:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101145",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Tsing Long Highway (Ting Kau Bridge) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近青朗公路(汀九橋)的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-08-02T10:59:16",
+        "last_announcement": "2024-08-02T10:42:00"
     }
 }
