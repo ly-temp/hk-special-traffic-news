@@ -2469,5 +2469,37 @@
         "district": "屯門區",
         "last_update": "2024-08-02T12:58:31",
         "last_announcement": "2024-08-02T12:42:00"
+    },
+    "IN-24-04496": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sam Shing",
+            "NEAR_LANDMARK_CN": "三聖",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-02T13:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101150",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sam Shing which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近三聖的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-08-02T13:21:25",
+        "last_announcement": "2024-08-02T13:05:00"
     }
 }
