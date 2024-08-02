@@ -84,116 +84,6 @@
         "last_update": "2024-07-30T10:47:06",
         "last_announcement": "2024-07-30T10:26:00"
     },
-    "IN-24-04427": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Lai Yip Street",
-            "NEAR_LANDMARK_CN": "勵業街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-30T09:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "100981",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Lai Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近勵業街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-30T09:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100982",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Lai Yip Street is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong Bypass (Yau Tong bound) ends at Kwun Tong Bypass near EMSD Headquarters. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近勵業街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往油塘方向)的車龍龍尾已到觀塘繞道近機電工程署總部大樓。 現時上址交通擠塞。"
-            },
-            "2024-07-30T10:05:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "100986",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Lai Yip Street which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)近勵業街的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-07-30T10:25:10",
-        "last_announcement": "2024-07-30T10:05:00"
-    },
-    "IN-24-04425": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "traffic accident happened earlier",
-            "INCIDENT_DETAIL_CN": "較早前交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-30T09:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100984",
-                "CONTENT_EN": "Traffic at Tolo Highway (Kowloon bound) has resumed normal.",
-                "CONTENT_CN": "吐露港公路(往九龍方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-07-30T10:25:10",
-        "last_announcement": "2024-07-30T09:55:00"
-    },
-    "IN-24-04428": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Kau Lung Hang",
-            "NEAR_LANDMARK_CN": "九龍坑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-30T10:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "100988",
-                "CONTENT_EN": "The fast lane of Fanling Highway (Kowloon bound) near Kau Lung Hang which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的粉嶺公路(往九龍方向)近九龍坑的快線現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-07-30T10:25:10",
-        "last_announcement": "2024-07-30T10:15:00"
-    },
     "IN-24-04429": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2503,11 +2393,18 @@
                 "ID": "101138",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-02T10:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101144",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng Interchange which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近深井交匯處的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-08-02T09:49:20",
-        "last_announcement": "2024-08-02T08:33:00"
+        "last_update": "2024-08-02T10:27:56",
+        "last_announcement": "2024-08-02T10:05:00"
     },
     "IN-24-04492": {
         "description": {
@@ -2535,11 +2432,18 @@
                 "ID": "101140",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Shing Sai Road (Victoria Road bound) near Sai Cheung Street North is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，城西道(往域多利道方向)近西祥街北的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-02T09:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101143",
+                "CONTENT_EN": "The slow lane of Shing Sai Road (Victoria Road bound) near Sai Cheung Street North which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的城西道(往域多利道方向)近西祥街北的慢線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-08-02T09:49:20",
-        "last_announcement": "2024-08-02T09:36:00"
+        "last_update": "2024-08-02T10:27:56",
+        "last_announcement": "2024-08-02T09:48:00"
     },
     "IN-24-04491": {
         "description": {
