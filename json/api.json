@@ -38,38 +38,6 @@
         "last_update": "2024-07-30T19:38:39",
         "last_announcement": "2024-07-30T19:28:00"
     },
-    "IN-24-04441": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Cotton Tree Drive",
-            "LOCATION_CN": "紅棉路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "uphill",
-            "DIRECTION_CN": "上山",
-            "NEAR_LANDMARK_EN": "Peak Tram Station",
-            "NEAR_LANDMARK_CN": "山頂纜車站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-30T19:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101019",
-                "CONTENT_EN": "Part of the lanes of Cotton Tree Drive (uphill bound) near Peak Tram Station which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的紅棉路(上山方向)近山頂纜車站的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-07-30T19:27:52",
-        "last_announcement": "2024-07-30T19:13:00"
-    },
     "IN-24-04442": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
