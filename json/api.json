@@ -1,43 +1,4 @@
 {
-    "IN-24-04452": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Anchor Street",
-            "LOCATION_CN": "晏架街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Palm Street",
-            "NEAR_LANDMARK_CN": "棕樹街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-31T10:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101042",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Anchor Street  near Palm Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，晏架街近棕樹街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-31T12:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101057",
-                "CONTENT_EN": "Part of the lanes of Anchor Street  near Palm Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的晏架街近棕樹街的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-07-31T13:06:41",
-        "last_announcement": "2024-07-31T12:50:00"
-    },
     "IN-24-04456": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -111,45 +72,6 @@
         "district": "中西區",
         "last_update": "2024-08-03T06:41:20",
         "last_announcement": "2024-08-03T06:29:00"
-    },
-    "IN-24-04457": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Sha Highway",
-            "LOCATION_CN": "青沙公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "West Kowloon Highway",
-            "DIRECTION_CN": "西九龍公路",
-            "NEAR_LANDMARK_EN": "Hoi Lai Estate",
-            "NEAR_LANDMARK_CN": "海麗邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-31T12:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101056",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Sha Highway (West Kowloon Highway bound) near Hoi Lai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青沙公路(往西九龍公路方向)近海麗邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-07-31T12:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101058",
-                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (West Kowloon Highway bound) near Hoi Lai Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青沙公路(往西九龍公路方向)近海麗邨的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-07-31T13:06:41",
-        "last_announcement": "2024-07-31T12:55:00"
     },
     "IN-24-04458": {
         "description": {
