@@ -2454,11 +2454,18 @@
                 "ID": "101214",
                 "CONTENT_EN": "Due to obstacles on road , part of the lanes of Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel Road bound) near Lung Yat Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有障礙物，龍富路(往屯門赤鱲角隧道公路方向)近龍逸邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-03T16:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101225",
+                "CONTENT_EN": "Part of the lanes of Lung Fu Road (Tuen Mun Chek Lap Kok Tunnel Road bound) near Lung Yat Estate which was closed due to obstacles on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有障礙物而封閉的龍富路(往屯門赤鱲角隧道公路方向)近龍逸邨的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-08-03T14:28:52",
-        "last_announcement": "2024-08-03T14:11:00"
+        "last_update": "2024-08-03T17:07:57",
+        "last_announcement": "2024-08-03T16:50:00"
     },
     "IN-24-04527": {
         "description": {
@@ -2596,11 +2603,18 @@
                 "ID": "101222",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Princess Margaret Road flyover (Cross Harbour Tunnel bound) near Argyle Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，公主道天橋(往海底隧道方向)近亞皆老街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-03T16:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101226",
+                "CONTENT_EN": "The slow lane of Princess Margaret Road flyover (Cross Harbour Tunnel bound) near Argyle Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的公主道天橋(往海底隧道方向)近亞皆老街的慢線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-08-03T16:29:23",
-        "last_announcement": "2024-08-03T16:18:00"
+        "last_update": "2024-08-03T17:07:57",
+        "last_announcement": "2024-08-03T16:52:00"
     },
     "IN-24-04531": {
         "description": {
@@ -2640,5 +2654,37 @@
         "district": "深水埗區",
         "last_update": "2024-08-03T16:41:02",
         "last_announcement": "2024-08-03T16:30:00"
+    },
+    "IN-24-04532": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Road",
+            "DIRECTION_CN": "屯門公路",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-03T16:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101227",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of the slip road leading from Tsuen Wan Road (Tuen Mun Road bound) to Tai Chung Road Roundabout  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，由荃灣路(往屯門公路方向)通往大涌道迴旋處 的支路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-08-03T17:07:57",
+        "last_announcement": "2024-08-03T16:58:00"
     }
 }
