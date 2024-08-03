@@ -77,38 +77,6 @@
         "last_update": "2024-07-31T12:40:31",
         "last_announcement": "2024-07-31T12:21:00"
     },
-    "IN-24-04455": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Eastern Harbour Crossing",
-            "LOCATION_CN": "東區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-31T11:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101050",
-                "CONTENT_EN": "The tunnel tube slow lane of Eastern Harbour Crossing (Hong Kong Island bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區海底隧道(往香港島方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-07-31T11:28:23",
-        "last_announcement": "2024-07-31T11:20:00"
-    },
     "IN-24-04456": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
