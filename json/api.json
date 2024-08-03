@@ -77,38 +77,6 @@
         "last_update": "2024-07-31T12:40:31",
         "last_announcement": "2024-07-31T12:21:00"
     },
-    "IN-24-04454": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Yau Kom Tau",
-            "NEAR_LANDMARK_CN": "油柑頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-07-31T10:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101046",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tsuen Wan bound) near Yau Kom Tau is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往荃灣方向)近油柑頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-07-31T11:12:57",
-        "last_announcement": "2024-07-31T10:52:00"
-    },
     "IN-24-04455": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2544,5 +2512,37 @@
         "district": "深水埗區",
         "last_update": "2024-08-03T11:10:44",
         "last_announcement": "2024-08-03T10:48:00"
+    },
+    "IN-24-04521": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Castle Peak Road - Kwai Chung",
+            "LOCATION_CN": "青山公路　－　葵涌段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Lei Muk Road",
+            "NEAR_LANDMARK_CN": "梨木道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-03T11:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101208",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Castle Peak Road - Kwai Chung (Kowloon bound) near Lei Muk Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，青山公路　－　葵涌段(往九龍方向)近梨木道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-08-03T11:28:13",
+        "last_announcement": "2024-08-03T11:00:00"
     }
 }
