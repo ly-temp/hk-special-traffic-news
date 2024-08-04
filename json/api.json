@@ -2324,5 +2324,37 @@
         "district": "黃大仙區",
         "last_update": "2024-08-03T23:20:50",
         "last_announcement": "2024-08-03T23:05:00"
+    },
+    "IN-24-04537": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Tam Road",
+            "LOCATION_CN": "大潭道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Red Hill Peninsula",
+            "NEAR_LANDMARK_CN": "紅山半島",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-04T12:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101242",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Tai Tam Road near Red Hill Peninsula. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大潭道近紅山半島現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-08-04T12:27:06",
+        "last_announcement": "2024-08-04T12:02:00"
     }
 }
