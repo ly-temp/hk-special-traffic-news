@@ -119,52 +119,6 @@
         "last_update": "2024-08-03T09:07:25",
         "last_announcement": "2024-08-03T08:42:00"
     },
-    "IN-24-04478": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-01T14:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101110",
-                "CONTENT_EN": "Extra travelling time can be expected on the East Rail Line.",
-                "CONTENT_CN": "東鐵綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
-            },
-            "2024-08-01T14:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101111",
-                "CONTENT_EN": "Due to an equipment fault on a train at Fo Tan Station, the total journey time on the East Rail Line between Admiralty Station and Lo Wu Station / Lok Ma Chau Station could be extended by 10-15 minutes. \n\nEast Rail Line service changes as follows:\nAdmiralty Station ↔ Lo Wu Station 8-minute intervals\nAdmiralty Station ↔ Lok Ma Chau Station 20-minute intervals\nLonger waiting times on East Rail Line platforms can be expected. \n\nPlease allow more time for travel.",
-                "CONTENT_CN": "由於有列車在火炭站出現設備故障，東鐵綫來往金鐘站及羅湖站/落馬洲站的行車時間預計需要額外10-15分鐘。\n\n東鐵綫服務更改如下\n金鐘站↔羅湖站 每8分鐘一班\n金鐘站↔落馬洲站 每20分鐘一班\n現時東鐵綫月台上的乘客較多，候車時間亦會較長。\n\n請為行程預留充裕時間。"
-            },
-            "2024-08-01T15:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101113",
-                "CONTENT_EN": "The East Rail Line train which could not be operated at Fo Tan Station has moved away from the main line. Normal train service is gradually resuming.",
-                "CONTENT_CN": "在火炭站出現故障的列車已移離行車綫，東鐵綫列車服務逐步回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-08-01T15:23:45",
-        "last_announcement": "2024-08-01T15:07:00"
-    },
     "IN-24-04479": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
