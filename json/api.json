@@ -172,45 +172,6 @@
         "last_update": "2024-08-01T11:40:18",
         "last_announcement": "2024-08-01T11:29:00"
     },
-    "IN-24-04475": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Kwong Fuk Park",
-            "NEAR_LANDMARK_CN": "廣福公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-01T10:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101105",
-                "CONTENT_EN": "The fast lane of Tolo Highway (Kowloon bound) near Kwong Fuk Park which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.   Citizens please take note KMB's service travelling via Tolo Highway (Kowloon bound) is still being affected. Citizens please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近廣福公園的快線現已解封。車龍有待消散。  市⺠請留意九巴途經吐露港公路往九⿓⽅向的服務仍然受影響，市⺠請考慮使⽤其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-08-01T11:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101106",
-                "CONTENT_EN": "The fast lane of Tolo Highway (Kowloon bound) near Kwong Fuk Park which was closed due to traffic accident has been re-opened to all traffic. Traffic queue takes time to disperse.   Affected KMB's service has gradually resumed normal.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近廣福公園的快線已解封。車龍有待消散。  受影響的九巴服務已陸續回復正常。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-08-01T11:29:31",
-        "last_announcement": "2024-08-01T11:18:00"
-    },
     "IN-24-04477": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
