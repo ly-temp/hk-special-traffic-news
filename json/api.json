@@ -271,38 +271,6 @@
         "last_update": "2024-08-02T18:35:57",
         "last_announcement": "2024-08-02T18:15:00"
     },
-    "IN-24-04505": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road South",
-            "LOCATION_CN": "漆咸道南",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-02T17:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101170",
-                "CONTENT_EN": "Part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-08-02T17:47:47",
-        "last_announcement": "2024-08-02T17:38:00"
-    },
     "IN-24-04506": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2187,11 +2155,18 @@
                 "ID": "101288",
                 "CONTENT_EN": "Part of the lanes of Lantau Link (Kowloon bound) near Tsing Yi Administration Building which was closed due to traffic accident is re-opened to all traffic.",
                 "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(往九龍方向)近青衣行政大樓的部份行車線現已解封。"
+            },
+            "2024-08-05T17:36:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101290",
+                "CONTENT_EN": "Part of the lanes of Lantau Link (Kowloon bound) near Tsing Yi Administration Building which was closed due to traffic accident is re-opened to all traffic.   The lower deck of Lantau Link (Kowloon bound) has been opened.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(往九龍方向)近青衣行政大樓的部份行車線現已解封。  青嶼幹線下層(往九龍方向)現已開放。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-08-05T17:44:15",
-        "last_announcement": "2024-08-05T17:33:00"
+        "last_update": "2024-08-05T17:54:16",
+        "last_announcement": "2024-08-05T17:36:00"
     },
     "IN-24-04553": {
         "description": {
