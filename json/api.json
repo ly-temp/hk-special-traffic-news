@@ -2173,10 +2173,17 @@
                 "ID": "101279",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Nathan Road (both bounds) near Mong Kok Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，彌敦道(來回方向)近旺角道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-05T16:36:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101281",
+                "CONTENT_EN": "Part of the lanes of Nathan Road (both bounds) near Mong Kok Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的彌敦道(來回方向)近旺角道的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-08-05T16:26:17",
-        "last_announcement": "2024-08-05T16:11:00"
+        "last_update": "2024-08-05T16:50:19",
+        "last_announcement": "2024-08-05T16:36:00"
     }
 }
