@@ -232,45 +232,6 @@
         "last_update": "2024-08-05T07:43:54",
         "last_announcement": "2024-08-05T07:25:00"
     },
-    "IN-24-04517": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Argyle Street leading to Prince Edward Road East flyover",
-            "INCIDENT_DETAIL_CN": "亞皆老街通往太子道東天橋",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-03T00:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101198",
-                "CONTENT_EN": "Due to emergency repair of road surface , the only lane of Argyle Street leading to Prince Edward Road East flyover is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因緊急路面維修，亞皆老街通往太子道東天橋的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-08-03T06:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101199",
-                "CONTENT_EN": "The only lane of Argyle Street leading to Prince Edward Road East flyover which was closed due to emergency repair of road surface is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面維修而封閉的由亞皆老街通往太子道東天橋的唯一行車線現已解封。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-08-03T06:17:22",
-        "last_announcement": "2024-08-03T06:03:00"
-    },
     "IN-24-04518": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2137,10 +2098,17 @@
                 "ID": "101308",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Queen's Road West (Kennedy Town bound) between Centre Street and Kwai Heung Street are closed to all traffic. Affected bus routes have been diverted: - CTB routes no. 4, 7, 10, 37A, 90B and 91 (Kennedy Town/ Ap Lei Chau bound) - KMB/CTB routes no. 101 and 104 (Kennedy Town bound) Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因水管爆裂，皇后大道西(往堅尼地城方向)介乎正街與桂香街之間的全線現已封閉。 受影響的巴⼠路線須改道行駛： -城巴第4、7、10、37A、90B及91號線(往堅尼地城/鴨脷洲方向) -九巴/城巴第101及104號線(往堅尼地城方向) 駕駛人士請考慮改用其他道路。"
+            },
+            "2024-08-06T06:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101309",
+                "CONTENT_EN": "The fast and middle lanes of Queen's Road West (Kennedy Town bound) between Centre Street and Kwai Heung Street which were closed due to watermain burst are re-opened to all traffic;\nthe slow lane of Queen's Road West (Kennedy Town bound) between Centre Street and Kwai Heung Street is still closed to all traffic. Only remaining lanes is still available to motorists. \nAffected bus routes have resumed their original routeings.",
+                "CONTENT_CN": "較早前因水管爆裂而封閉的皇后大道西(往堅尼地城方向)介乎正街與桂香街之間的快線及中線現已解封;\n皇后大道西(往堅尼地城方向)介乎正街與桂香街之間的慢線仍然封閉。駕駛人士只可使用餘下行車線行車。\n受影響巴士路線現已恢復原有路線行駛。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-08-06T00:44:33",
-        "last_announcement": "2024-08-06T00:12:00"
+        "last_update": "2024-08-06T06:29:40",
+        "last_announcement": "2024-08-06T06:00:00"
     }
 }
