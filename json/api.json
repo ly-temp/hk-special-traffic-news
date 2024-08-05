@@ -2164,5 +2164,37 @@
         "district": "灣仔區",
         "last_update": "2024-08-05T12:11:38",
         "last_announcement": "2024-08-05T11:46:00"
+    },
+    "IN-24-04547": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Lai King Hill Road",
+            "LOCATION_CN": "荔景山路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Happy Villa",
+            "NEAR_LANDMARK_CN": "樂園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-05T12:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101268",
+                "CONTENT_EN": "Due to watermain emergency works , the one-lane-two-way traffic arrangement is being implemented on Lai King Hill Road near Happy Villa. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，荔景山路近樂園現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-08-05T12:30:18",
+        "last_announcement": "2024-08-05T12:10:00"
     }
 }
