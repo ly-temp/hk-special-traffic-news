@@ -232,45 +232,6 @@
         "last_update": "2024-08-05T07:43:54",
         "last_announcement": "2024-08-05T07:25:00"
     },
-    "IN-24-04501": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
-            "NEAR_LANDMARK_CN": "何文田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-02T15:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101158",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kowloon City bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往九龍城方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-02T15:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101161",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kowloon City bound) near Ho Man Tin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往九龍城方向)近何文田港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-02T16:30:08",
-        "last_announcement": "2024-08-02T15:58:00"
-    },
     "IN-24-04502": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2063,11 +2024,18 @@
                 "ID": "101278",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tolo Highway (Kowloon bound) ends at Tolo Highway near Tai Po Kau.   Citizens please take note KMB's and LWB's services travelling via Tolo Highway (Kowloon bound) have been affected, citizens please consider using other public transport services, such as MTR services.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在吐露港公路(往九龍方向)的車龍龍尾已到吐露港公路近大埔滘。  市民請留意九巴及龍運途經吐露港公路往九龍方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時上址交通擠塞。"
+            },
+            "2024-08-05T16:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101280",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tolo Highway (Kowloon bound) ends at Tolo Highway near Tai Po Kau.   Citizens please take note KMB's and LWB's services travelling via Tolo Highway (Kowloon bound) have been affected, citizens please consider using other public transport services, such as MTR services. Affected KMB route no. 72X (Kowloon bound) and LWB routes nos. A47X and E41 (Airport bound) have been diverted.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在吐露港公路(往九龍方向)的車龍龍尾已到吐露港公路近大埔滘。  市民請留意九巴及龍運途經吐露港公路往九龍方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。受影響九巴巴士第72X號線(往九龍方向)及龍運巴士第A47X及E41號線(往機場方向)須改道行駛。  現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-08-05T15:58:11",
-        "last_announcement": "2024-08-05T15:39:00"
+        "last_update": "2024-08-05T16:40:02",
+        "last_announcement": "2024-08-05T16:20:00"
     },
     "IN-24-04549": {
         "description": {
