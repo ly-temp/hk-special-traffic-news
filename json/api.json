@@ -165,84 +165,6 @@
         "last_update": "2024-08-04T09:37:17",
         "last_announcement": "2024-08-04T08:04:00"
     },
-    "IN-24-04490": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Sham Tseng Interchange",
-            "NEAR_LANDMARK_CN": "深井交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-02T08:33:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101138",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-02T10:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101144",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng Interchange which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近深井交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-08-02T10:27:56",
-        "last_announcement": "2024-08-02T10:05:00"
-    },
-    "IN-24-04492": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Shing Sai Road",
-            "LOCATION_CN": "城西道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Victoria Road",
-            "DIRECTION_CN": "域多利道",
-            "NEAR_LANDMARK_EN": "Sai Cheung Street North",
-            "NEAR_LANDMARK_CN": "西祥街北",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-02T09:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101140",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Shing Sai Road (Victoria Road bound) near Sai Cheung Street North is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，城西道(往域多利道方向)近西祥街北的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-02T09:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101143",
-                "CONTENT_EN": "The slow lane of Shing Sai Road (Victoria Road bound) near Sai Cheung Street North which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的城西道(往域多利道方向)近西祥街北的慢線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-08-02T10:27:56",
-        "last_announcement": "2024-08-02T09:48:00"
-    },
     "IN-24-04493": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2203,5 +2125,44 @@
         "district": "油尖旺區",
         "last_update": "2024-08-05T10:11:04",
         "last_announcement": "2024-08-05T09:52:00"
+    },
+    "IN-24-04545": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mei Foo",
+            "DIRECTION_CN": "美孚",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-05T10:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101265",
+                "CONTENT_EN": "West Kowloon Corridor (Mei Foo bound) is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "西九龍走廊(往美孚方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-08-05T10:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101266",
+                "CONTENT_EN": "Traffic at West Kowloon Corridor (Mei Foo bound) has resumed normal.",
+                "CONTENT_CN": "西九龍走廊(往美孚方向)的交通現已恢復正常。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-05T10:44:55",
+        "last_announcement": "2024-08-05T10:27:00"
     }
 }
