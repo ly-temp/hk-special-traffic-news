@@ -232,45 +232,6 @@
         "last_update": "2024-08-05T07:43:54",
         "last_announcement": "2024-08-05T07:25:00"
     },
-    "IN-24-04502": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Tai Hang Road",
-            "LOCATION_CN": "大坑道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Marymount Secondary School",
-            "NEAR_LANDMARK_CN": "瑪利曼中學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-02T15:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101159",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Tai Hang Road (both bounds) near Marymount Secondary School are closed to all traffic. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，大坑道(來回方向)近瑪利曼中學的全線現已封閉。 現時上址交通繁忙。"
-            },
-            "2024-08-02T18:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101180",
-                "CONTENT_EN": "All lanes of Tai Hang Road (both bounds) near Marymount Secondary School which was closed due to fallen tree is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因塌樹而封閉的大坑道(來回方向)近瑪利曼中學的全線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-08-02T18:35:57",
-        "last_announcement": "2024-08-02T18:15:00"
-    },
     "IN-24-04510": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
