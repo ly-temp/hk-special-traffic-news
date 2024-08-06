@@ -112,45 +112,6 @@
         "last_update": "2024-08-05T07:43:54",
         "last_announcement": "2024-08-05T07:25:00"
     },
-    "IN-24-04519": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "obstacles on road",
-            "INCIDENT_DETAIL_CN": "路面有障礙物",
-            "LOCATION_EN": "Lai Cheung Road",
-            "LOCATION_CN": "麗翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-03T09:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101205",
-                "CONTENT_EN": "Due to obstacles on road, vehicles travelling on Lai Cheung Road are not allowed to make left turning onto Hoi Wang Road. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因路面有障礙物，車輛不能沿麗翔道左轉入海泓道。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-08-03T10:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101206",
-                "CONTENT_EN": "The traffic arrangement of banning left turning from Lai Cheung Road onto Hoi Wang Road which was implemented before due to obstacles on road is now cancelled.",
-                "CONTENT_CN": "較早前因路面有障礙物實施禁止車輛由沿麗翔道左轉入海泓道的行車措施現已取消。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-08-03T10:52:29",
-        "last_announcement": "2024-08-03T10:31:00"
-    },
     "IN-24-04520": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1946,11 +1907,18 @@
                 "ID": "101309",
                 "CONTENT_EN": "The fast and middle lanes of Queen's Road West (Kennedy Town bound) between Centre Street and Kwai Heung Street which were closed due to watermain burst are re-opened to all traffic;\nthe slow lane of Queen's Road West (Kennedy Town bound) between Centre Street and Kwai Heung Street is still closed to all traffic. Only remaining lanes is still available to motorists. \nAffected bus routes have resumed their original routeings.",
                 "CONTENT_CN": "較早前因水管爆裂而封閉的皇后大道西(往堅尼地城方向)介乎正街與桂香街之間的快線及中線現已解封;\n皇后大道西(往堅尼地城方向)介乎正街與桂香街之間的慢線仍然封閉。駕駛人士只可使用餘下行車線行車。\n受影響巴士路線現已恢復原有路線行駛。"
+            },
+            "2024-08-06T10:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101313",
+                "CONTENT_EN": "Due to watermain burst , the slow lane of Queen's Road West (Kennedy Town bound) near Centre Street is still being closed to all traffic. Part of the lanes of Centre Street (Connaught Road West) near Queen's Road West is also closed. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因水管爆裂，皇后大道西(往堅尼地城方向)近正街的慢線仍然封閉。 正街(往干諾道西方向)近皇后大道西的部份行車線亦已封閉。 駕駛人士只可使用餘下行車線行車。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-08-06T06:29:40",
-        "last_announcement": "2024-08-06T06:00:00"
+        "last_update": "2024-08-06T10:53:09",
+        "last_announcement": "2024-08-06T10:34:00"
     },
     "IN-24-04567": {
         "description": {
