@@ -190,45 +190,6 @@
         "last_update": "2024-08-05T06:30:04",
         "last_announcement": "2024-08-05T06:12:00"
     },
-    "IN-24-04525": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Busy road sections",
-            "LOCATION_CN": "繁忙路段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-03T13:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101213",
-                "CONTENT_EN": "The following road sections are busy:\n– Convention Avenue\n– Expo Drive East\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–會議道\n–博覽道東\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-08-03T19:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101234",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Convention Avenue\n– Expo Drive East.",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–會議道\n–博覽道東。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-08-03T19:41:12",
-        "last_announcement": "2024-08-03T19:35:00"
-    },
     "IN-24-04534": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2075,5 +2036,37 @@
         "district": "屯門區",
         "last_update": "2024-08-06T19:38:14",
         "last_announcement": "2024-08-06T19:21:00"
+    },
+    "IN-24-04582": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Gascoigne Road Flyover",
+            "LOCATION_CN": "加士居道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom",
+            "DIRECTION_CN": "紅磡",
+            "NEAR_LANDMARK_EN": "Labour Tribunal",
+            "NEAR_LANDMARK_CN": "勞資審裁處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-06T19:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101344",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Gascoigne Road Flyover (Hung Hom bound) near Labour Tribunal is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，加士居道天橋(往紅磡方向)近勞資審裁處的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-06T19:48:31",
+        "last_announcement": "2024-08-06T19:38:00"
     }
 }
