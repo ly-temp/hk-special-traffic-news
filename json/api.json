@@ -190,52 +190,6 @@
         "last_update": "2024-08-05T06:30:04",
         "last_announcement": "2024-08-05T06:12:00"
     },
-    "IN-24-04535": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Jockey Club Road",
-            "NEAR_LANDMARK_CN": "馬會道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-03T20:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101235",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Jockey Club Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近馬會道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-03T21:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101236",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Jockey Club Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Fanling Highway (Sheung Shui bound) ends at Fanling Highway near Nam Wa Po. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近馬會道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在粉嶺公路(往上水方向)的車龍龍尾已到粉嶺公路近南華莆。 現時上址交通擠塞。"
-            },
-            "2024-08-03T21:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101237",
-                "CONTENT_EN": "Part of the lanes of Fanling Highway (Sheung Shui bound) near Jockey Club Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往上水方向)近馬會道的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-08-03T22:08:39",
-        "last_announcement": "2024-08-03T21:51:00"
-    },
     "IN-24-04536": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2141,10 +2095,17 @@
                 "ID": "101350",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Mong Kok bound) near Kwun Tong Industrial Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘道(往旺角方向)近官塘工業中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-06T21:50:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101351",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Mong Kok bound) near Kwun Tong Industrial Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往旺角方向)近官塘工業中心的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-08-06T21:45:38",
-        "last_announcement": "2024-08-06T21:34:00"
+        "last_update": "2024-08-06T22:14:55",
+        "last_announcement": "2024-08-06T21:50:00"
     }
 }
