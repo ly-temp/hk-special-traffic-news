@@ -2077,11 +2077,18 @@
                 "ID": "101323",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Castle Peak Road - Hung Shui Kiu (Yuen Long bound) near Hung Tin Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青山公路　–　洪水橋段(往元朗方向)近洪天路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-06T13:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101325",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Hung Shui Kiu (Yuen Long bound) near Hung Tin Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　洪水橋段(往元朗方向)近洪天路的部份行車線現已解封。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-08-06T13:27:49",
-        "last_announcement": "2024-08-06T13:05:00"
+        "last_update": "2024-08-06T14:30:53",
+        "last_announcement": "2024-08-06T13:56:00"
     },
     "IN-24-04573": {
         "description": {
@@ -2114,5 +2121,44 @@
         "district": null,
         "last_update": "2024-08-06T13:59:04",
         "last_announcement": "2024-08-06T13:45:00"
+    },
+    "IN-24-04574": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Kam Tin Road",
+            "LOCATION_CN": "錦田公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Wang Toi Shan Lo Uk Tsuen (Pat Heung)",
+            "NEAR_LANDMARK_CN": "橫台山羅屋村 (八鄉)",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-06T14:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101327",
+                "CONTENT_EN": "Due to fallen tree , all lanes of Kam Tin Road (both bounds) near Wang Toi Shan Lo Uk Tsuen (Pat Heung) are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，錦田公路(來回方向)近橫台山羅屋村(八鄉)的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-08-06T14:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101328",
+                "CONTENT_EN": "All lanes of Kam Tin Road (both bounds) near Wang Toi Shan Lo Uk Tsuen (Pat Heung) which were closed due to fallen tree are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因塌樹而封閉的錦田公路(來回方向)近橫台山羅屋村(八鄉)的全線現已解封。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-08-06T14:30:53",
+        "last_announcement": "2024-08-06T14:14:00"
     }
 }
