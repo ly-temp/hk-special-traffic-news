@@ -2031,10 +2031,49 @@
                 "ID": "101344",
                 "CONTENT_EN": "Due to vehicle breakdown , the only lane of Gascoigne Road Flyover (Hung Hom bound) near Labour Tribunal is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，加士居道天橋(往紅磡方向)近勞資審裁處的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-08-06T20:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101346",
+                "CONTENT_EN": "The only lane of Gascoigne Road Flyover (Hung Hom bound) near Labour Tribunal which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往紅磡方向)近勞資審裁處的唯一行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-08-06T19:48:31",
-        "last_announcement": "2024-08-06T19:38:00"
+        "last_update": "2024-08-06T20:40:22",
+        "last_announcement": "2024-08-06T20:05:00"
+    },
+    "IN-24-04583": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Tsun Yip Lane",
+            "NEAR_LANDMARK_CN": "駿業里",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-06T20:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101347",
+                "CONTENT_EN": "Due to fire , part of the lanes of Kwun Tong Road (Mong Kok bound) near Tsun Yip Lane is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因火警，觀塘道(往旺角方向)近駿業里的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-08-06T20:40:22",
+        "last_announcement": "2024-08-06T20:30:00"
     }
 }
