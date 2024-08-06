@@ -190,45 +190,6 @@
         "last_update": "2024-08-05T06:30:04",
         "last_announcement": "2024-08-05T06:12:00"
     },
-    "IN-24-04524": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chi Fu Road",
-            "LOCATION_CN": "置富道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Bus Terminus",
-            "NEAR_LANDMARK_CN": "巴士總站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-03T13:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101212",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chi Fu Road (both bounds) near Bus Terminus is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，置富道(來回方向)近巴士總站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-03T14:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101215",
-                "CONTENT_EN": "Part of the lanes of Chi Fu Road (both bounds) near Bus Terminus which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的置富道(來回方向)近巴士總站的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-03T14:42:27",
-        "last_announcement": "2024-08-03T14:32:00"
-    },
     "IN-24-04525": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
