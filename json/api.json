@@ -1999,10 +1999,49 @@
                 "ID": "101319",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Castle Peak Road - Tsuen Wan (Tuen Mun bound) near Sai Lau Kok Road are still being closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青山公路　–　荃灣段(往屯門方向)近西樓角路的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-06T12:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101321",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Tsuen Wan (Tuen Mun bound) near Sai Lau Kok Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　荃灣段(往屯門方向)近西樓角路的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-08-06T11:50:10",
-        "last_announcement": "2024-08-06T11:35:00"
+        "last_update": "2024-08-06T12:26:51",
+        "last_announcement": "2024-08-06T12:00:00"
+    },
+    "IN-24-04571": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "malfunction of traffic lights",
+            "INCIDENT_DETAIL_CN": "交通燈失靈",
+            "LOCATION_EN": "Sha Tsui Road",
+            "LOCATION_CN": "沙咀道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-06T11:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101320",
+                "CONTENT_EN": "Due to malfunction of traffic lights at the junction of Sha Tsui Road and Tai Ho Road, motorists are advised to drive with utmost care when passing through the road junctions, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.",
+                "CONTENT_CN": "由於沙咀道和大河道交界的交通燈失靈，駕駛⼈⼠在駛經有關路⼝時，請加倍⼩⼼，注意交通標誌的指⽰並留意過路⾏⼈的安全。⾏⼈在交通燈失靈的路⼝橫過⾺路時，請特別注意⾞輛。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-08-06T12:26:51",
+        "last_announcement": "2024-08-06T11:58:00"
     }
 }
