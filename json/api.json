@@ -2127,10 +2127,49 @@
                 "ID": "101357",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Hong Tai Path (Ho Man Tin bound) near Hong Kong Polytechnic University is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queues on Hong Tai Path (Ho Man Tin bound) ends at Chatham Road South near Wylie Road and Austin Road near Nathan Road. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，康泰徑(往何文田方向)近香港理工大學的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在康泰徑(往何文田方向)的車龍龍尾已到漆咸道南近衛理道及柯士甸道近彌敦道。 現時上址交通擠塞。"
+            },
+            "2024-08-07T10:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101358",
+                "CONTENT_EN": "Part of the lanes of Hong Tai Path (Ho Man Tin bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的康泰徑(往何文田方向)近香港理工大學的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-08-07T10:14:44",
-        "last_announcement": "2024-08-07T09:36:00"
+        "last_update": "2024-08-07T10:45:56",
+        "last_announcement": "2024-08-07T10:10:00"
+    },
+    "IN-24-04589": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Portland Street",
+            "LOCATION_CN": "砵蘭街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Pitt Street",
+            "NEAR_LANDMARK_CN": "碧街",
+            "BETWEEN_LANDMARK_EN": "Waterloo Road",
+            "BETWEEN_LANDMARK_CN": "窩打老道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-07T10:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101359",
+                "CONTENT_EN": "Due to emergency incident , the only lane of Portland Street  between Pitt Street and Waterloo Road is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因突發事件，砵蘭街介乎碧街與窩打老道之間的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-07T10:45:56",
+        "last_announcement": "2024-08-07T10:27:00"
     }
 }
