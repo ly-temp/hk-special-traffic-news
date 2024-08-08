@@ -2224,5 +2224,37 @@
         "district": "沙田區",
         "last_update": "2024-08-08T21:21:38",
         "last_announcement": "2024-08-08T21:06:00"
+    },
+    "IN-24-04620": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Hin Keng Street",
+            "LOCATION_CN": "顯徑街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Che Kung Miu Road",
+            "NEAR_LANDMARK_CN": "車公廟路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-09T06:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101435",
+                "CONTENT_EN": "Due to watermain burst , the one-lane-two-way traffic arrangement is being implemented on Hin Keng Street near Che Kung Miu Road. Vehicles making left turning from Hin Keng Street onto Che Kung Miu Road are also prohibited.",
+                "CONTENT_CN": "因水管爆裂，顯徑街近車公廟路現已實施單線雙程行車措施。車輛亦禁止由顯徑街左轉入車公廟路。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-08-09T06:21:30",
+        "last_announcement": "2024-08-09T06:05:00"
     }
 }
