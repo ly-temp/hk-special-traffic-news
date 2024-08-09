@@ -1,43 +1,4 @@
 {
-    "IN-24-04580": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "San Tin Highway",
-            "LOCATION_CN": "新田公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Pok Wai",
-            "NEAR_LANDMARK_CN": "壆圍",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-06T17:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101341",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of San Tin Highway (Sheung Shui bound) near Pok Wai is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，新田公路(往上水方向)近壆圍的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-06T18:40:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "101342",
-                "CONTENT_EN": "Part of the lanes of San Tin Highway (Sheung Shui bound) near Pok Wai which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往上水方向)近壆圍的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-08-06T18:59:14",
-        "last_announcement": "2024-08-06T18:40:00"
-    },
     "IN-24-04581": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1680,11 +1641,18 @@
                 "ID": "101462",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road are still being closed to all traffic. \nThe slow lane of Che Kung Miu Road (Hin Keng Bus Terminus bound) near Hin Keng Street is also closed. Affected bus routes have been diverted:\nKMB route no. 46X, 88K, 281M (Hin Keng/ San Tin Wai bound)\nKMB route no. 80, 87B, 85B (Mei Lam/ San Tin Wai/ Chun Shek bound)\nLWB route no. A42 (Airport bound).  The following temporary traffic arrangements have been implemented:\ni) Vehicles travelling on Hin Keng Street (Hin Keng Station bound) are prohibited to enter Che Kung Miu Road;\nii) Vehicles from Hin Keng Street could travel via Fu Kin Street and Tin Sam Street towards Che Kung Miu Road.",
                 "CONTENT_CN": "因水管爆裂，顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線仍然封閉。\n車公廟路(往顯徑巴士總站方向)近顯徑街的慢線亦已封閉。受影響巴士路線須改道行駛:\n九巴第46X、88K、281M號線(往顯徑/新田圍方向)\n九巴第80、87B、85B號線(往美林/新田圍/秦石方向)\n龍運第A42號線(往機場方向)。  現已實施以下的臨時交通安排:\ni)車輛不能從顯徑街(往顯徑站方向)行駛往車公廟路;\nii)在顯徑街行駛的車輛，可途經富健街及田心街前往車公廟路。"
+            },
+            "2024-08-09T18:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101485",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road are still being closed to all traffic. The slow lane of Che Kung Miu Road (Hin Keng Bus Terminus bound) near Hin Keng Street is also closed. Affected bus routes have been diverted: KMB route no. 46X, 88K, 281M (Hin Keng/ San Tin Wai bound) KMB route no. 80, 87B, 85B (Mei Lam/ San Tin Wai/ Chun Shek bound) LWB route no. A42 (Airport bound) CTB route no. 985 and 986 (Hong Kong Island bound) At the same time, vehicles on Hin Keng Street (Hin Keng Station bound) cannot enter Che Kung Miu Road and shall route via Fu Kin Street and Tin Sam Street to reach Che Kung Miu Road.",
+                "CONTENT_CN": "因水管爆裂，顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線仍然封閉。 車公廟路(往顯徑巴士總站方向)近顯徑街的慢線亦已封閉。 受影響巴士路線須改道行駛: 九巴第46X、88K、281M號線(往顯徑/新田圍方向) 九巴第80、87B、85B號線(往美林/新田圍/秦石方向) 龍運第A42號線(往機場方向) 城巴第985、986號線(往香港島方向) 同時，沿顯徑街(往顯徑站方向)行駛的車輛不能進入車公廟路,須改經富健街及田心街前往車公廟路。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-08-09T14:44:54",
-        "last_announcement": "2024-08-09T14:14:00"
+        "last_update": "2024-08-09T19:08:09",
+        "last_announcement": "2024-08-09T18:56:00"
     },
     "IN-24-04621": {
         "description": {
@@ -2361,11 +2329,18 @@
                 "ID": "101478",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Tate's Cairn Highway (Tate's Cairn Tunnel bound) near CUHK Medical Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大老山公路(往大老山隧道方向)近香港中文大學醫院的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-09T18:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101484",
+                "CONTENT_EN": "The slow lane of Tate's Cairn Highway (Tate's Cairn Tunnel bound) near CUHK Medical Centre which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大老山公路(往大老山隧道方向)近香港中文大學醫院的慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-08-09T18:32:06",
-        "last_announcement": "2024-08-09T18:04:00"
+        "last_update": "2024-08-09T19:08:09",
+        "last_announcement": "2024-08-09T18:54:00"
     },
     "IN-24-04642": {
         "description": {
