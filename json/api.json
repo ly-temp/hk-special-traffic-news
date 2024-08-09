@@ -38,59 +38,6 @@
         "last_update": "2024-08-06T16:56:40",
         "last_announcement": "2024-08-06T16:41:00"
     },
-    "IN-24-04564": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Queen's Road West",
-            "LOCATION_CN": "皇后大道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kennedy Town",
-            "DIRECTION_CN": "堅尼地城",
-            "NEAR_LANDMARK_EN": "Centre Street",
-            "NEAR_LANDMARK_CN": "正街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-05T21:59:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101306",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Queen's Road West (Kennedy Town bound) near Centre Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，皇后大道西(往堅尼地城方向)近正街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-06T00:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101308",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Queen's Road West (Kennedy Town bound) between Centre Street and Kwai Heung Street are closed to all traffic. Affected bus routes have been diverted: - CTB routes no. 4, 7, 10, 37A, 90B and 91 (Kennedy Town/ Ap Lei Chau bound) - KMB/CTB routes no. 101 and 104 (Kennedy Town bound) Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，皇后大道西(往堅尼地城方向)介乎正街與桂香街之間的全線現已封閉。 受影響的巴⼠路線須改道行駛： -城巴第4、7、10、37A、90B及91號線(往堅尼地城/鴨脷洲方向) -九巴/城巴第101及104號線(往堅尼地城方向) 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-08-06T06:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101309",
-                "CONTENT_EN": "The fast and middle lanes of Queen's Road West (Kennedy Town bound) between Centre Street and Kwai Heung Street which were closed due to watermain burst are re-opened to all traffic;\nthe slow lane of Queen's Road West (Kennedy Town bound) between Centre Street and Kwai Heung Street is still closed to all traffic. Only remaining lanes is still available to motorists. \nAffected bus routes have resumed their original routeings.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的皇后大道西(往堅尼地城方向)介乎正街與桂香街之間的快線及中線現已解封;\n皇后大道西(往堅尼地城方向)介乎正街與桂香街之間的慢線仍然封閉。駕駛人士只可使用餘下行車線行車。\n受影響巴士路線現已恢復原有路線行駛。"
-            },
-            "2024-08-06T10:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101313",
-                "CONTENT_EN": "Due to watermain burst , the slow lane of Queen's Road West (Kennedy Town bound) near Centre Street is still being closed to all traffic. Part of the lanes of Centre Street (Connaught Road West) near Queen's Road West is also closed. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因水管爆裂，皇后大道西(往堅尼地城方向)近正街的慢線仍然封閉。 正街(往干諾道西方向)近皇后大道西的部份行車線亦已封閉。 駕駛人士只可使用餘下行車線行車。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-08-06T10:53:09",
-        "last_announcement": "2024-08-06T10:34:00"
-    },
     "IN-24-04569": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2362,5 +2309,69 @@
         "district": "九龍城區",
         "last_update": "2024-08-09T10:28:32",
         "last_announcement": "2024-08-09T10:19:00"
+    },
+    "IN-24-04625": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Ticketing and travel arrangements for Mainland Travel Permit for Hong Kong and Macao Permanent Residents (Non-Chinese Ci",
+            "INCIDENT_DETAIL_CN": "持港澳居民來往內地通行證（非中國籍）乘客的購票及乘車安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-09T10:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101449",
+                "CONTENT_EN": "Passengers for High Speed Rail holding a Mainland Travel Permit for Hong Kong and Macao Permanent Residents (Non-Chinese Citizens) can now use this permit to purchase tickets through the 12306 official website and mobile app, station ticketing counters or appointed agents. Please use the staff assistance channel to enter and exit the gate until the gate system upgrade by the mainland authorities is completed.",
+                "CONTENT_CN": "持有「港澳居民來往內地通行證（非中國籍）」的高鐵乘客現可使用該證件於12306官方網站和手機應用程式、車站票務櫃位及指定代理購票。在內地相關單位完成閘機升級前，乘客請使用職員輔助通道出入閘。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-08-09T11:07:59",
+        "last_announcement": "2024-08-09T10:43:00"
+    },
+    "IN-24-04626": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Princess Margaret Road",
+            "LOCATION_CN": "公主道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Yu Chun Keung Memorial College",
+            "NEAR_LANDMARK_CN": "余振強紀念中學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-09T10:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101450",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Princess Margaret Road (Lion Rock Tunnel bound) near Yu Chun Keung Memorial College is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，公主道(往獅子山隧道方向)近余振強紀念中學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-09T11:07:59",
+        "last_announcement": "2024-08-09T10:54:00"
     }
 }
