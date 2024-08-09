@@ -38,84 +38,6 @@
         "last_update": "2024-08-06T16:56:40",
         "last_announcement": "2024-08-06T16:41:00"
     },
-    "IN-24-04572": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Castle Peak Road - Hung Shui Kiu",
-            "LOCATION_CN": "青山公路　–　洪水橋段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Hung Tin Road",
-            "NEAR_LANDMARK_CN": "洪天路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-06T13:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101323",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Castle Peak Road - Hung Shui Kiu (Yuen Long bound) near Hung Tin Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青山公路　–　洪水橋段(往元朗方向)近洪天路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-06T13:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101325",
-                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Hung Shui Kiu (Yuen Long bound) near Hung Tin Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　洪水橋段(往元朗方向)近洪天路的部份行車線現已解封。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-08-06T14:30:53",
-        "last_announcement": "2024-08-06T13:56:00"
-    },
-    "IN-24-04574": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Kam Tin Road",
-            "LOCATION_CN": "錦田公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Wang Toi Shan Lo Uk Tsuen (Pat Heung)",
-            "NEAR_LANDMARK_CN": "橫台山羅屋村 (八鄉)",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-06T14:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101327",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Kam Tin Road (both bounds) near Wang Toi Shan Lo Uk Tsuen (Pat Heung) are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，錦田公路(來回方向)近橫台山羅屋村(八鄉)的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-08-06T14:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101328",
-                "CONTENT_EN": "All lanes of Kam Tin Road (both bounds) near Wang Toi Shan Lo Uk Tsuen (Pat Heung) which were closed due to fallen tree are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因塌樹而封閉的錦田公路(來回方向)近橫台山羅屋村(八鄉)的全線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-08-06T14:30:53",
-        "last_announcement": "2024-08-06T14:14:00"
-    },
     "IN-24-04575": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1978,11 +1900,18 @@
                 "ID": "101448",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road are still being closed to all traffic. The slow lane of Che Kung Miu Road (Hin Keng Bus Terminus bound) near Hin Keng Street is also closed. Affected bus routes have been diverted: KMB route no. 46X, 88K, 281M (Hin Keng/ San Tin Wai bound) KMB route no. 80, 87B, 85B (Mei Lam/ San Tin Wai/ Chun Shek bound) LWB route no. A42 (Airport bound) Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線仍然封閉。 車公廟路(往顯徑巴士總站方向)近顯徑街的慢線亦已封閉。 受影響巴士路線須改道行駛: 九巴第46X、88K、281M號線(往顯徑/新田圍方向) 九巴第80、87B、85B號線(往美林/新田圍/秦石方向) 龍運第A42號線(往機場方向) 現時上址交通繁忙。"
+            },
+            "2024-08-09T14:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101462",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road are still being closed to all traffic. \nThe slow lane of Che Kung Miu Road (Hin Keng Bus Terminus bound) near Hin Keng Street is also closed. Affected bus routes have been diverted:\nKMB route no. 46X, 88K, 281M (Hin Keng/ San Tin Wai bound)\nKMB route no. 80, 87B, 85B (Mei Lam/ San Tin Wai/ Chun Shek bound)\nLWB route no. A42 (Airport bound).  The following temporary traffic arrangements have been implemented:\ni) Vehicles travelling on Hin Keng Street (Hin Keng Station bound) are prohibited to enter Che Kung Miu Road;\nii) Vehicles from Hin Keng Street could travel via Fu Kin Street and Tin Sam Street towards Che Kung Miu Road.",
+                "CONTENT_CN": "因水管爆裂，顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線仍然封閉。\n車公廟路(往顯徑巴士總站方向)近顯徑街的慢線亦已封閉。受影響巴士路線須改道行駛:\n九巴第46X、88K、281M號線(往顯徑/新田圍方向)\n九巴第80、87B、85B號線(往美林/新田圍/秦石方向)\n龍運第A42號線(往機場方向)。  現已實施以下的臨時交通安排:\ni)車輛不能從顯徑街(往顯徑站方向)行駛往車公廟路;\nii)在顯徑街行駛的車輛，可途經富健街及田心街前往車公廟路。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-08-09T10:50:37",
-        "last_announcement": "2024-08-09T09:29:00"
+        "last_update": "2024-08-09T14:44:54",
+        "last_announcement": "2024-08-09T14:14:00"
     },
     "IN-24-04621": {
         "description": {
@@ -2400,11 +2329,18 @@
                 "ID": "101458",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Chai Wan bound) near Heng Fa Chuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，東區走廊(往柴灣方向)近杏花邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-09T14:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101464",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near Heng Fa Chuen which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近杏花邨的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-08-09T14:00:10",
-        "last_announcement": "2024-08-09T13:48:00"
+        "last_update": "2024-08-09T14:44:54",
+        "last_announcement": "2024-08-09T14:40:00"
     },
     "IN-24-04630": {
         "description": {
