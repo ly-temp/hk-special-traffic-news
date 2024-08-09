@@ -38,45 +38,6 @@
         "last_update": "2024-08-06T16:56:40",
         "last_announcement": "2024-08-06T16:41:00"
     },
-    "IN-24-04571": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "malfunction of traffic lights",
-            "INCIDENT_DETAIL_CN": "交通燈失靈",
-            "LOCATION_EN": "Sha Tsui Road",
-            "LOCATION_CN": "沙咀道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-06T11:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101320",
-                "CONTENT_EN": "Due to malfunction of traffic lights at the junction of Sha Tsui Road and Tai Ho Road, motorists are advised to drive with utmost care when passing through the road junctions, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.",
-                "CONTENT_CN": "由於沙咀道和大河道交界的交通燈失靈，駕駛⼈⼠在駛經有關路⼝時，請加倍⼩⼼，注意交通標誌的指⽰並留意過路⾏⼈的安全。⾏⼈在交通燈失靈的路⼝橫過⾺路時，請特別注意⾞輛。"
-            },
-            "2024-08-06T12:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101322",
-                "CONTENT_EN": "All traffic lights at the junction of Sha Tsui Road and Tai Ho Road have resumed normal operation.",
-                "CONTENT_CN": "較早前位於沙咀道和大河道交界的交通燈已恢復正常運作。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-08-06T13:27:49",
-        "last_announcement": "2024-08-06T12:57:00"
-    },
     "IN-24-04572": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2334,5 +2295,69 @@
         "district": "南區",
         "last_update": "2024-08-09T13:09:01",
         "last_announcement": "2024-08-09T13:00:00"
+    },
+    "IN-24-04627": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kowloon Park Drive",
+            "LOCATION_CN": "九龍公園徑",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Jordan",
+            "DIRECTION_CN": "佐敦",
+            "NEAR_LANDMARK_EN": "Peking Road",
+            "NEAR_LANDMARK_CN": "北京道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-09T13:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101454",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kowloon Park Drive (Jordan bound) near Peking Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，九龍公園徑(往佐敦方向)近北京道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-09T13:28:46",
+        "last_announcement": "2024-08-09T13:03:00"
+    },
+    "IN-24-04629": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Route Twisk",
+            "LOCATION_CN": "荃錦公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Shek Kong",
+            "DIRECTION_CN": "石崗",
+            "NEAR_LANDMARK_EN": "Muk Min Ha Tsuen",
+            "NEAR_LANDMARK_CN": "木棉下村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-09T13:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101455",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Route Twisk near Muk Min Ha Tsuen. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，荃錦公路近木棉下村現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-08-09T13:28:46",
+        "last_announcement": "2024-08-09T13:05:00"
     }
 }
