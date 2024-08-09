@@ -1,43 +1,4 @@
 {
-    "IN-24-04582": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Labour Tribunal",
-            "NEAR_LANDMARK_CN": "勞資審裁處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-06T19:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101344",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Gascoigne Road Flyover (Hung Hom bound) near Labour Tribunal is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，加士居道天橋(往紅磡方向)近勞資審裁處的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-08-06T20:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101346",
-                "CONTENT_EN": "The only lane of Gascoigne Road Flyover (Hung Hom bound) near Labour Tribunal which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往紅磡方向)近勞資審裁處的唯一行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-08-06T20:40:22",
-        "last_announcement": "2024-08-06T20:05:00"
-    },
     "IN-24-04583": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
