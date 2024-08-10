@@ -38,45 +38,6 @@
         "last_update": "2024-08-08T13:39:08",
         "last_announcement": "2024-08-08T13:23:00"
     },
-    "IN-24-04589": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Portland Street",
-            "LOCATION_CN": "砵蘭街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Pitt Street",
-            "NEAR_LANDMARK_CN": "碧街",
-            "BETWEEN_LANDMARK_EN": "Waterloo Road",
-            "BETWEEN_LANDMARK_CN": "窩打老道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-07T10:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101359",
-                "CONTENT_EN": "Due to emergency incident , the only lane of Portland Street  between Pitt Street and Waterloo Road is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因突發事件，砵蘭街介乎碧街與窩打老道之間的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-08-07T12:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101363",
-                "CONTENT_EN": "The only lane of Portland Street  between Pitt Street and Waterloo Road which was closed due to emergency incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因突發事件而封閉的砵蘭街介乎碧街與窩打老道之間的唯一行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-08-07T12:43:04",
-        "last_announcement": "2024-08-07T12:26:00"
-    },
     "IN-24-04590": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
