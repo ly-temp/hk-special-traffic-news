@@ -84,45 +84,6 @@
         "last_update": "2024-08-08T06:08:57",
         "last_announcement": "2024-08-08T05:59:00"
     },
-    "IN-24-04593": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wong Chuk Hang Road",
-            "LOCATION_CN": "黃竹坑道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Tunnel",
-            "DIRECTION_CN": "香港仔隧道",
-            "NEAR_LANDMARK_EN": "Wong Chuk Hang Recreation Ground",
-            "NEAR_LANDMARK_CN": "黃竹坑遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-07T14:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101370",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Wong Chuk Hang Recreation Ground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，黃竹坑道(往香港仔隧道方向)近黃竹坑遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-07T14:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101373",
-                "CONTENT_EN": "Part of the lanes of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Wong Chuk Hang Recreation Ground which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的黃竹坑道(往香港仔隧道方向)近黃竹坑遊樂場的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-08-07T15:13:53",
-        "last_announcement": "2024-08-07T14:48:00"
-    },
     "IN-24-04594": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2359,5 +2320,37 @@
         "district": "沙田區",
         "last_update": "2024-08-10T15:08:02",
         "last_announcement": "2024-08-10T14:51:00"
+    },
+    "IN-24-04652": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Tam Road",
+            "LOCATION_CN": "大潭道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Tai Tam Tuk Reservoir, Dam",
+            "NEAR_LANDMARK_CN": "大潭篤水塘水壩",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-10T15:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101504",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Tai Tam Road near Tai Tam Tuk Reservoir, Dam. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大潭道近大潭篤水塘水壩現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-08-10T15:21:41",
+        "last_announcement": "2024-08-10T15:12:00"
     }
 }
