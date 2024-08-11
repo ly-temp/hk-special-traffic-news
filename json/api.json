@@ -1014,11 +1014,18 @@
                 "ID": "101499",
                 "CONTENT_EN": "Due to watermain emergency works , the fast lane of Kwun Tong Road (Yau Tong bound) near Choi Shek Lane is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，觀塘道(往油塘方向)近彩石里的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-12T06:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101531",
+                "CONTENT_EN": "The fast lane of Kwun Tong Road (Yau Tong bound) near Choi Shek Lane which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的觀塘道(往油塘方向)近彩石里的快線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-08-10T09:33:20",
-        "last_announcement": "2024-08-10T09:11:00"
+        "last_update": "2024-08-12T06:27:44",
+        "last_announcement": "2024-08-12T06:07:00"
     },
     "IN-24-04648": {
         "description": {
@@ -1565,5 +1572,37 @@
         "district": "觀塘區",
         "last_update": "2024-08-11T23:32:52",
         "last_announcement": "2024-08-11T23:21:00"
+    },
+    "IN-24-04664": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Tai Tong Road",
+            "LOCATION_CN": "大棠路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Shui Tsiu San Tsuen Road",
+            "NEAR_LANDMARK_CN": "水蕉新村路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-12T06:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101532",
+                "CONTENT_EN": "Due to fallen tree , the one-lane-two-way traffic arrangement is being implemented on Tai Tong Road near Shui Tsiu San Tsuen Road. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，大棠路近水蕉新村路現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-08-12T06:27:44",
+        "last_announcement": "2024-08-12T06:09:00"
     }
 }
