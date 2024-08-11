@@ -38,77 +38,6 @@
         "last_update": "2024-08-08T13:39:08",
         "last_announcement": "2024-08-08T13:23:00"
     },
-    "IN-24-04604": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Queensway",
-            "LOCATION_CN": "金鐘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Admiralty MTR Station",
-            "NEAR_LANDMARK_CN": "金鐘港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-08T09:16:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101398",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Queensway (Central bound) near Admiralty MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，金鐘道(往中環方向)近金鐘港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-08T10:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101399",
-                "CONTENT_EN": "Part of the lanes of Queensway (Central bound) near Admiralty MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的金鐘道(往中環方向)近金鐘港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-08-08T10:29:29",
-        "last_announcement": "2024-08-08T10:04:00"
-    },
-    "IN-24-04521": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Castle Peak Road - Kwai Chung",
-            "LOCATION_CN": "青山公路　－　葵涌段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Lei Muk Road",
-            "NEAR_LANDMARK_CN": "梨木道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-03T11:00:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "101208",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Castle Peak Road - Kwai Chung (Kowloon bound) near Lei Muk Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，青山公路　－　葵涌段(往九龍方向)近梨木道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-08-08T10:29:29",
-        "last_announcement": "2024-08-03T11:00:00"
-    },
     "IN-24-04605": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2065,5 +1994,37 @@
         "district": "灣仔區",
         "last_update": "2024-08-10T19:41:23",
         "last_announcement": "2024-08-10T19:22:00"
+    },
+    "IN-24-04657": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "She Shan Road",
+            "LOCATION_CN": "社山路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-11T10:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101517",
+                "CONTENT_EN": "Due to emergency repair of road surface , all lanes of She Shan Road (both bounds) are closed to all traffic.",
+                "CONTENT_CN": "因緊急路面維修，社山路(來回方向)的全線現已封閉。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-08-11T10:49:50",
+        "last_announcement": "2024-08-11T10:16:00"
     }
 }
