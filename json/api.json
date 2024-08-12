@@ -66,45 +66,6 @@
         "last_update": "2024-08-10T07:26:38",
         "last_announcement": "2024-08-10T07:06:00"
     },
-    "IN-24-04635": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Queensway",
-            "LOCATION_CN": "金鐘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wan Chai",
-            "DIRECTION_CN": "灣仔",
-            "NEAR_LANDMARK_EN": "Justice Drive",
-            "NEAR_LANDMARK_CN": "正義道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-09T16:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101469",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Queensway (Wan Chai bound) near Justice Drive is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，金鐘道(往灣仔方向)近正義道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-09T16:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101471",
-                "CONTENT_EN": "Part of the lanes of Queensway (Wan Chai bound) near Justice Drive which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的金鐘道(往灣仔方向)近正義道的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-08-09T16:47:31",
-        "last_announcement": "2024-08-09T16:34:00"
-    },
     "IN-24-04636": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1723,10 +1684,17 @@
                 "ID": "101573",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Choi Hung Road (Kowloon City bound) near Sze Mei Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，彩虹道(往九龍城方向)近四美街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-12T16:32:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101574",
+                "CONTENT_EN": "Part of the lanes of Choi Hung Road (Kowloon City bound) near Sze Mei Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的彩虹道(往九龍城方向)近四美街的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-08-12T15:47:19",
-        "last_announcement": "2024-08-12T15:38:00"
+        "last_update": "2024-08-12T16:50:52",
+        "last_announcement": "2024-08-12T16:32:00"
     }
 }
