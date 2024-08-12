@@ -105,59 +105,6 @@
         "last_update": "2024-08-09T10:50:37",
         "last_announcement": "2024-08-09T10:18:00"
     },
-    "IN-24-04624": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Essex Crescent",
-            "NEAR_LANDMARK_CN": "雅息士道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-09T09:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101443",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Essex Crescent is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近雅息士道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-09T09:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101444",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (both bounds) near Essex Crescent are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(來回方向)近雅息士道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-09T10:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101445",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Essex Crescent is still being closed to all traffic. Part of the lanes of Waterkoo Road (Tsim Sha Tsui bound) near Essex Crescent is re-opened. Only remaining lanes are available to motorists. Traffic queue on Waterloo Road (Lion Rock Tunnel bound) ends at Waterloo Road near Argyle Street. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近雅息士道的部份行車線仍然封閉。 窩打老道(往尖沙咀方向)近雅息士道的部份行車線現已解封。 駕駛人士只可使用餘下行車線行車。 現時在窩打老道(往獅子山隧道方向)的車龍龍尾已到窩打老道近亞皆老街。 現時上址交通擠塞。"
-            },
-            "2024-08-09T10:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101447",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Essex Crescent which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近雅息士道的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-09T10:28:32",
-        "last_announcement": "2024-08-09T10:19:00"
-    },
     "IN-24-04625": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -1780,11 +1727,18 @@
                 "ID": "101547",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Ting Kau. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近麗城花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近汀九。 現時上址交通擠塞。"
+            },
+            "2024-08-12T09:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101550",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Sea Crest Villa. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近麗城花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近浪翠園。 現時上址交通擠塞。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-08-12T09:51:51",
-        "last_announcement": "2024-08-12T09:15:00"
+        "last_update": "2024-08-12T10:34:02",
+        "last_announcement": "2024-08-12T09:50:00"
     },
     "IN-24-04666": {
         "description": {
@@ -1817,5 +1771,101 @@
         "district": "觀塘區",
         "last_update": "2024-08-12T09:51:51",
         "last_announcement": "2024-08-12T09:40:00"
+    },
+    "IN-24-04673": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-12T09:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101551",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (Chai Wan bound) near Provident Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東區走廊(往柴灣方向)近和富中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-08-12T10:34:02",
+        "last_announcement": "2024-08-12T09:57:00"
+    },
+    "IN-24-04669": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy road sections",
+            "LOCATION_CN": "繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-12T09:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101553",
+                "CONTENT_EN": "The following road sections are busy:\n– Tate's Cairn Highway (Kowloon bound)\n– Island Eastern Corridor (Central bound)\n– West Kowloon Highway (Western Harbour Crossing bound)\n– East Kowloon Way (Hung Hom bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–大老山公路(往九龍方向)\n–東區走廊(往中環方向)\n–西九龍公路(往西區海底隧道方向)\n–東九龍走廊(往紅磡方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-08-12T10:34:02",
+        "last_announcement": "2024-08-12T09:59:00"
+    },
+    "IN-24-04672": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Prince Edward Road West",
+            "NEAR_LANDMARK_CN": "太子道西",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-12T09:58:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101552",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road flyover (Cross Harbour Tunnel bound) near Prince Edward Road West which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道天橋(往海底隧道方向)近太子道西的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-12T10:34:02",
+        "last_announcement": "2024-08-12T09:58:00"
     }
 }
