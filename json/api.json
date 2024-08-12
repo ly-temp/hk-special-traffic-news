@@ -1,71 +1,4 @@
 {
-    "IN-24-04620": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Hin Keng Street",
-            "LOCATION_CN": "顯徑街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Che Kung Miu Road",
-            "NEAR_LANDMARK_CN": "車公廟路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-09T06:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101435",
-                "CONTENT_EN": "Due to watermain burst , the one-lane-two-way traffic arrangement is being implemented on Hin Keng Street near Che Kung Miu Road. Vehicles making left turning from Hin Keng Street onto Che Kung Miu Road are also prohibited.",
-                "CONTENT_CN": "因水管爆裂，顯徑街近車公廟路現已實施單線雙程行車措施。車輛亦禁止由顯徑街左轉入車公廟路。"
-            },
-            "2024-08-09T06:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101436",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road are closed to all traffic. Affected bus routes have been diverted: KMB route no. 46X、88K、281M (Hin Keng/ San Tin Wai bound) KMB route no. 80、87B、85B (Mei Lam/ San Tin Wai/ Chun Shek bound) LWB route no. A42 (Airport bound) Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線現已封閉。 受影響巴士路線須改道行駛: 九巴第46X、88K、281M號線(往顯徑/新田圍方向) 九巴第80、87B、85B號線(往美林/新田圍/秦石方向) 龍運第A42號線(往機場方向) 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-08-09T09:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101448",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road are still being closed to all traffic. The slow lane of Che Kung Miu Road (Hin Keng Bus Terminus bound) near Hin Keng Street is also closed. Affected bus routes have been diverted: KMB route no. 46X, 88K, 281M (Hin Keng/ San Tin Wai bound) KMB route no. 80, 87B, 85B (Mei Lam/ San Tin Wai/ Chun Shek bound) LWB route no. A42 (Airport bound) Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線仍然封閉。 車公廟路(往顯徑巴士總站方向)近顯徑街的慢線亦已封閉。 受影響巴士路線須改道行駛: 九巴第46X、88K、281M號線(往顯徑/新田圍方向) 九巴第80、87B、85B號線(往美林/新田圍/秦石方向) 龍運第A42號線(往機場方向) 現時上址交通繁忙。"
-            },
-            "2024-08-09T14:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101462",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road are still being closed to all traffic. \nThe slow lane of Che Kung Miu Road (Hin Keng Bus Terminus bound) near Hin Keng Street is also closed. Affected bus routes have been diverted:\nKMB route no. 46X, 88K, 281M (Hin Keng/ San Tin Wai bound)\nKMB route no. 80, 87B, 85B (Mei Lam/ San Tin Wai/ Chun Shek bound)\nLWB route no. A42 (Airport bound).  The following temporary traffic arrangements have been implemented:\ni) Vehicles travelling on Hin Keng Street (Hin Keng Station bound) are prohibited to enter Che Kung Miu Road;\nii) Vehicles from Hin Keng Street could travel via Fu Kin Street and Tin Sam Street towards Che Kung Miu Road.",
-                "CONTENT_CN": "因水管爆裂，顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線仍然封閉。\n車公廟路(往顯徑巴士總站方向)近顯徑街的慢線亦已封閉。受影響巴士路線須改道行駛:\n九巴第46X、88K、281M號線(往顯徑/新田圍方向)\n九巴第80、87B、85B號線(往美林/新田圍/秦石方向)\n龍運第A42號線(往機場方向)。  現已實施以下的臨時交通安排:\ni)車輛不能從顯徑街(往顯徑站方向)行駛往車公廟路;\nii)在顯徑街行駛的車輛，可途經富健街及田心街前往車公廟路。"
-            },
-            "2024-08-09T18:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101485",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road are still being closed to all traffic. The slow lane of Che Kung Miu Road (Hin Keng Bus Terminus bound) near Hin Keng Street is also closed. Affected bus routes have been diverted: KMB route no. 46X, 88K, 281M (Hin Keng/ San Tin Wai bound) KMB route no. 80, 87B, 85B (Mei Lam/ San Tin Wai/ Chun Shek bound) LWB route no. A42 (Airport bound) CTB route no. 985 and 986 (Hong Kong Island bound) At the same time, vehicles on Hin Keng Street (Hin Keng Station bound) cannot enter Che Kung Miu Road and shall route via Fu Kin Street and Tin Sam Street to reach Che Kung Miu Road.",
-                "CONTENT_CN": "因水管爆裂，顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線仍然封閉。 車公廟路(往顯徑巴士總站方向)近顯徑街的慢線亦已封閉。 受影響巴士路線須改道行駛: 九巴第46X、88K、281M號線(往顯徑/新田圍方向) 九巴第80、87B、85B號線(往美林/新田圍/秦石方向) 龍運第A42號線(往機場方向) 城巴第985、986號線(往香港島方向) 同時，沿顯徑街(往顯徑站方向)行駛的車輛不能進入車公廟路,須改經富健街及田心街前往車公廟路。"
-            },
-            "2024-08-10T07:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101496",
-                "CONTENT_EN": "All lanes of Hin Keng Street (Hin Keng Station bound) between Hin Kwai Lane and Che Kung Miu Road, and the slow lane of Che Kung Miu Road (Hin Keng Bus Terminus bound) near Hin Keng Street which were closed due to watermain burst are re-opened to all traffic. \n\nAffected bus routes have resumed their original routeings.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的顯徑街(往顯徑站方向)介乎顯貴里與車公廟路之間的全線及車公廟路(往顯徑巴士總站方向)近顯徑街的慢線現已解封。\n\n受影響巴士路線現已恢復原有路線行駛。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-08-10T07:26:38",
-        "last_announcement": "2024-08-10T07:06:00"
-    },
     "IN-24-04646": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1666,10 +1599,17 @@
                 "ID": "101590",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近龍翔道遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-13T07:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101591",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lung Cheung Road (Kwun Tong bound) ends at Lung Cheung Road near Beacon Heights. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近龍翔道遊樂場的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往觀塘方向)的車龍龍尾已到龍翔道近畢架山花園。 現時上址交通擠塞。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-08-13T06:40:16",
-        "last_announcement": "2024-08-13T06:28:00"
+        "last_update": "2024-08-13T07:34:22",
+        "last_announcement": "2024-08-13T07:20:00"
     }
 }
