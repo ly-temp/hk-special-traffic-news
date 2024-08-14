@@ -2217,5 +2217,37 @@
         "district": "灣仔區",
         "last_update": "2024-08-14T11:34:56",
         "last_announcement": "2024-08-14T11:19:00"
+    },
+    "IN-24-04714": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Harcourt Road",
+            "LOCATION_CN": "夏慤道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Performing Arts Avenue",
+            "NEAR_LANDMARK_CN": "演藝道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-14T12:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101658",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Harcourt Road (Central bound) near Performing Arts Avenue is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，夏慤道(往中環方向)近演藝道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-08-14T12:18:21",
+        "last_announcement": "2024-08-14T12:06:00"
     }
 }
