@@ -2217,5 +2217,37 @@
         "district": "南區",
         "last_update": "2024-08-14T12:43:51",
         "last_announcement": "2024-08-14T12:30:00"
+    },
+    "IN-24-04715": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Subsidence",
+            "INCIDENT_DETAIL_CN": "路面下陷",
+            "LOCATION_EN": "Tsui Ping Road",
+            "LOCATION_CN": "翠屏道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "uphill",
+            "DIRECTION_CN": "上山",
+            "NEAR_LANDMARK_EN": "Kwun Tong Road",
+            "NEAR_LANDMARK_CN": "觀塘道",
+            "BETWEEN_LANDMARK_EN": "Fuk Tong Road",
+            "BETWEEN_LANDMARK_CN": "福塘道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-14T12:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101661",
+                "CONTENT_EN": "Due to road subsidence , the only lane of Tsui Ping Road (uphill bound) between Kwun Tong Road and Fuk Tong Road is closed to all traffic. \nAt the same time , vehicles cannot make left turning from Kwun Tong Road onto Tsui Ping Road.   Motorists are advised to use alternative routes.   Affected KMB bus routes nos. 11B, 11C, 13M, 89, 89C, 89X have been diverted.   Traffic is busy now.",
+                "CONTENT_CN": "因路面下陷，翠屏道(往上山方向)介乎觀塘道與福塘道之間的唯一行車線現已封閉。\n同時，車輛不能由觀塘道左轉入翠屏道。  駕駛人士請考慮改用其他道路。  受影響九巴巴士第11B,11C,13M,89,89C及89X號線須改道行駛。  現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-08-14T13:13:15",
+        "last_announcement": "2024-08-14T12:55:00"
     }
 }
