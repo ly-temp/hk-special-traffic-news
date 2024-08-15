@@ -1827,5 +1827,37 @@
         "district": "南區",
         "last_update": "2024-08-15T19:15:06",
         "last_announcement": "2024-08-15T19:02:00"
+    },
+    "IN-24-04732": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Tsing Sha Highway",
+            "LOCATION_CN": "青沙公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Container Terminal 8",
+            "NEAR_LANDMARK_CN": "8號貨櫃碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-15T19:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101697",
+                "CONTENT_EN": "Due to emergency repairing works , the middle lane of Tsing Sha Highway (Kowloon bound) near Container Terminal 8 is closed to all traffic. \nOnly remaining lanes are available to motorists. \nAt the same time, the speed limit of the above road section is lowered from 80km/h to 50 km/h.   Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，青沙公路(往九龍方向)近8號貨櫃碼頭的中線現已封閉。駕駛人士只可使用餘下行車線行車。\n同時，上述路段車速限制由每小時80公里降至每小時50 公里。  現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-08-15T19:48:29",
+        "last_announcement": "2024-08-15T19:27:00"
     }
 }
