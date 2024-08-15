@@ -45,77 +45,6 @@
         "last_update": "2024-08-12T14:45:52",
         "last_announcement": "2024-08-12T14:29:00"
     },
-    "IN-24-04668": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
-            "NEAR_LANDMARK_CN": "何文田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-12T08:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101541",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-12T09:51:51",
-        "last_announcement": "2024-08-12T08:28:00"
-    },
-    "IN-24-04670": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Western Harbour Crossing",
-            "LOCATION_CN": "西區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-12T08:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101542",
-                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-12T09:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101545",
-                "CONTENT_EN": "The tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的西區海底隧道(往香港島方向)的管道快線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-08-12T09:51:51",
-        "last_announcement": "2024-08-12T09:00:00"
-    },
     "IN-24-04671": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -182,38 +111,6 @@
         "district": "荃灣區",
         "last_update": "2024-08-12T12:10:55",
         "last_announcement": "2024-08-12T11:52:00"
-    },
-    "IN-24-04666": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Lai Yip Street",
-            "NEAR_LANDMARK_CN": "勵業街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-12T09:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101549",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Mong Kok bound) near Lai Yip Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往旺角方向)近勵業街的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-08-12T09:51:51",
-        "last_announcement": "2024-08-12T09:40:00"
     },
     "IN-24-04673": {
         "description": {
@@ -2063,10 +1960,95 @@
                 "ID": "101671",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Park is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近荃灣公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-15T09:31:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101673",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近荃灣公園的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-08-15T09:30:03",
-        "last_announcement": "2024-08-15T08:46:00"
+        "last_update": "2024-08-15T10:18:16",
+        "last_announcement": "2024-08-15T09:31:00"
+    },
+    "IN-24-04721": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Shing Mun Tunnels",
+            "LOCATION_CN": "城門隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-15T09:29:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101672",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Shing Mun Tunnels (Sha Tin bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，城門隧道(往沙田方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-15T09:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101674",
+                "CONTENT_EN": "The tunnel tube slow lane of Shing Mun Tunnels (Sha Tin bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的城門隧道(往沙田方向)的管道慢線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-08-15T10:18:16",
+        "last_announcement": "2024-08-15T09:32:00"
+    },
+    "IN-24-04722": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Star Villa",
+            "NEAR_LANDMARK_CN": "星月居",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-15T09:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101676",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of West Kowloon Corridor (Mong Kok bound) near Star Villa is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，西九龍走廊(往旺角方向)近星月居的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-15T09:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101678",
+                "CONTENT_EN": "Part of the lanes of West Kowloon Corridor (Mong Kok bound) near Liberte which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的西九龍走廊(往旺角方向)近昇悅居的部份行車線現已解封。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-08-15T10:18:16",
+        "last_announcement": "2024-08-15T09:54:00"
     }
 }
