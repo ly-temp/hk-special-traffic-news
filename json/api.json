@@ -158,45 +158,6 @@
         "last_update": "2024-08-12T11:51:44",
         "last_announcement": "2024-08-12T11:46:00"
     },
-    "IN-24-04674": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Western Harbour Crossing",
-            "LOCATION_CN": "西區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-12T11:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101561",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube middle lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，西區海底隧道(往香港島方向)的管道中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-12T11:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101564",
-                "CONTENT_EN": "The tunnel tube middle lane of Western Harbour Crossing (Hong Kong Island bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的西區海底隧道(往香港島方向)的管道中線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-08-12T11:41:19",
-        "last_announcement": "2024-08-12T11:30:00"
-    },
     "IN-24-04675": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2070,11 +2031,18 @@
                 "ID": "101682",
                 "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Tseung Kwan O Road (Tseung Kwan O Tunnel bound) to Lin Tak Road is closed to all traffic.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，由將軍澳道(往將軍澳隧道方向)通往連德道 的支路的唯一行車線現已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-08-15T11:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101685",
+                "CONTENT_EN": "The only lane of the slip road leading from Tseung Kwan O Road (Tseung Kwan O Tunnel bound) to Lin Tak Road  which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的由將軍澳道(往將軍澳隧道方向)通往連德道 的支路的 唯一行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-08-15T11:39:31",
-        "last_announcement": "2024-08-15T11:19:00"
+        "last_update": "2024-08-15T11:49:55",
+        "last_announcement": "2024-08-15T11:40:00"
     },
     "IN-24-04724": {
         "description": {
