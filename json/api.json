@@ -45,73 +45,6 @@
         "last_update": "2024-08-12T14:45:52",
         "last_announcement": "2024-08-12T14:29:00"
     },
-    "IN-24-04671": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Belvedere Garden",
-            "NEAR_LANDMARK_CN": "麗城花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-12T09:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101546",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近麗城花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-12T09:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101547",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Ting Kau. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近麗城花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近汀九。 現時上址交通擠塞。"
-            },
-            "2024-08-12T09:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101550",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Sea Crest Villa. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近麗城花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近浪翠園。 現時上址交通擠塞。"
-            },
-            "2024-08-12T10:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101557",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden is still being closed to all traffic. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Sea Crest Villa. Motorists are advised to use alternative routes. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近麗城花園的全線仍然封閉。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近浪翠園。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
-            },
-            "2024-08-12T10:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101560",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden are still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Sea Crest Villa.   Citizens please take note KMB's service travelling via Tuen Mun Road (Kowloon bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近麗城花園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近浪翠園。  市民請留意九巴途經屯門公路(往九龍方向)的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時上址交通擠塞。"
-            },
-            "2024-08-12T11:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101566",
-                "CONTENT_EN": "Service of KMB which was affected by the traffic accident at Tuen Mun Road (Kowloon bound) near Belvedere Garden has gradually resumed normal.",
-                "CONTENT_CN": "較早前因位於屯門公路(往九龍方向)近麗城花園的交通意外而受影響的九巴服務已陸續回復正常。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-08-12T12:10:55",
-        "last_announcement": "2024-08-12T11:52:00"
-    },
     "IN-24-04675": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2031,10 +1964,17 @@
                 "ID": "101684",
                 "CONTENT_EN": "Due to traffic accident , tram service between Kennnedy Town Terminus and Hill Road is suspended.   Besides, all lanes of Des Voeux Road West (Kennedy Town bound) between Queen's Road West and Hill Road are still being closed to all traffic:",
                 "CONTENT_CN": "因交通意外，堅尼地城總站來往山道之間的電車服務仍然暫停。  此外，德輔道西(往堅尼地城方向)介乎皇后大道西與山道之間的全線仍然封閉。"
+            },
+            "2024-08-15T11:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101687",
+                "CONTENT_EN": "The tram service between Kennnedy Town Terminus and Hill Road which was suspended due to traffic accident has been resumed ;\nBesides, all lanes of Des Voeux Road West (Kennedy Town bound) between Queen's Road West and Hill Road are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而暫停的堅尼地城總站來往山道之間的電車服務現已恢復正常;\n此外，德輔道西(來回方向)介乎皇后大道西與山道之間的全線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-08-15T11:39:31",
-        "last_announcement": "2024-08-15T11:28:00"
+        "last_update": "2024-08-15T12:25:13",
+        "last_announcement": "2024-08-15T11:54:00"
     }
 }
