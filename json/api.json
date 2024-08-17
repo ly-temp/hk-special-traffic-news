@@ -2054,5 +2054,69 @@
         "district": null,
         "last_update": "2024-08-17T14:27:21",
         "last_announcement": "2024-08-17T14:10:00"
+    },
+    "IN-24-04758": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Che Kung Miu Road",
+            "LOCATION_CN": "車公廟路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Ma On Shan",
+            "DIRECTION_CN": "馬鞍山",
+            "NEAR_LANDMARK_EN": "Che Kung Temple MTR Station",
+            "NEAR_LANDMARK_CN": "車公廟港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-17T16:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101783",
+                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Che Kung Miu Road (Ma On Shan bound) near Che Kung Temple MTR Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，車公廟路(往馬鞍山方向)近車公廟港鐵站的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-08-17T17:18:38",
+        "last_announcement": "2024-08-17T16:48:00"
+    },
+    "IN-24-04770": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Austin Road West",
+            "LOCATION_CN": "柯士甸道西",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom",
+            "DIRECTION_CN": "紅磡",
+            "NEAR_LANDMARK_EN": "Xiqu Centre",
+            "NEAR_LANDMARK_CN": "戲曲中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-17T17:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101784",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Austin Road West (Hung Hom bound) near Xiqu Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，柯士甸道西(往紅磡方向)近戲曲中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-17T17:18:38",
+        "last_announcement": "2024-08-17T17:01:00"
     }
 }
