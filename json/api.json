@@ -2118,5 +2118,37 @@
         "district": "油尖旺區",
         "last_update": "2024-08-17T17:18:38",
         "last_announcement": "2024-08-17T17:01:00"
+    },
+    "IN-24-04771": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Nai Chung Gap Flyover",
+            "LOCATION_CN": "黃泥涌峽天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Leighton Road",
+            "NEAR_LANDMARK_CN": "禮頓道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-17T17:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101785",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Nai Chung Gap Flyover (Cross Harbour Tunnel bound) near Leighton Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，黃泥涌峽天橋(往海底隧道方向)近禮頓道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-08-17T17:28:38",
+        "last_announcement": "2024-08-17T17:18:00"
     }
 }
