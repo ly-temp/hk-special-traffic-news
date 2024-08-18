@@ -1152,11 +1152,18 @@
                 "ID": "101753",
                 "CONTENT_EN": "Due to fallen tree , all lanes of Mount Austin Road (both bounds) near Mount Austin Playground are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因塌樹，柯士甸山道(來回方向)近柯士甸山遊樂場的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-08-18T14:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101810",
+                "CONTENT_EN": "Due to fallen tree , the one-lane-two-way traffic arrangement is being implemented on Mount Austin Road near Lugard Road.",
+                "CONTENT_CN": "因塌樹，柯士甸山道近盧吉道現已實施單線雙程行車措施。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-08-17T07:49:05",
-        "last_announcement": "2024-08-17T07:30:00"
+        "last_update": "2024-08-18T14:16:30",
+        "last_announcement": "2024-08-18T14:04:00"
     },
     "IN-24-04756": {
         "description": {
@@ -2143,5 +2150,37 @@
         "district": "沙田區",
         "last_update": "2024-08-18T13:43:41",
         "last_announcement": "2024-08-18T13:39:00"
+    },
+    "IN-24-04782": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
+            "LOCATION_CN": "青嶼幹線(青馬大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-18T13:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101809",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-08-18T14:16:30",
+        "last_announcement": "2024-08-18T13:47:00"
     }
 }
