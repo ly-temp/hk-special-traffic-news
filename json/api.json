@@ -2221,5 +2221,37 @@
         "district": null,
         "last_update": "2024-08-18T17:26:27",
         "last_announcement": "2024-08-18T17:10:00"
+    },
+    "IN-24-04785": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fanling Highway and San Tin Highway, Yuen Long bound, near San Tin Interchange",
+            "INCIDENT_DETAIL_CN": "粉嶺公路及新田公路，往元朗方向，近新田交匯處",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-18T17:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101821",
+                "CONTENT_EN": "To facilitate the works of Development of Lok Ma Chau Loop, from 11.00 p. m. on 19 August 2024 (Monday) to 4.00 a. m. of the following day, Fanling Highway and San Tin Highway (Yuen Long bound) near San Tin Interchange will be fully closed to all vehicular traffic. Affected vehicles are advised to travel via San Tin Interchange.",
+                "CONTENT_CN": "因配合落馬洲河套地區發展工程，粉嶺公路及新田公路(往元朗方向)將於2024年8月19日(星期一)晚上11時至翌日凌晨4時全線封閉。駕駛人士須改經新田交匯處。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-08-18T17:47:33",
+        "last_announcement": "2024-08-18T17:35:00"
     }
 }
