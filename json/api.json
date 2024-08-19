@@ -2264,5 +2264,44 @@
         "district": "屯門區",
         "last_update": "2024-08-19T17:27:21",
         "last_announcement": "2024-08-19T17:00:00"
+    },
+    "IN-24-04803": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Expo Drive East",
+            "LOCATION_CN": "博覽道東",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Wan Chai Ferry Pier",
+            "NEAR_LANDMARK_CN": "灣仔渡輪碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-19T17:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101862",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Expo Drive East Roundabout  near Wan Chai Ferry Pier is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，博覽道東迴旋處近灣仔渡輪碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-19T17:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101863",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Expo Drive East Roundabout near Wan Chai Ferry Pier is closed to all traffic. \nBeside, Central Wan Chai Bypass (Chai Wan bound) Wan Chai North Exit is closed to all traffic. At the same time, vehicles cannot enter Expo Drive East via Fleming Road.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，博覽道東迴旋處近灣仔渡輪碼頭的部份行車線現已封閉。\n另外，中環灣仔繞道(往柴灣方向)的灣仔北出口現已封閉。同時，車輛不能沿菲林明道前往博覽道東。  現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-08-19T18:25:40",
+        "last_announcement": "2024-08-19T17:58:00"
     }
 }
