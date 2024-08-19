@@ -461,11 +461,18 @@
                 "ID": "101810",
                 "CONTENT_EN": "Due to fallen tree , the one-lane-two-way traffic arrangement is being implemented on Mount Austin Road near Lugard Road.",
                 "CONTENT_CN": "因塌樹，柯士甸山道近盧吉道現已實施單線雙程行車措施。"
+            },
+            "2024-08-19T16:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101857",
+                "CONTENT_EN": "All lanes of Mount Austin Road (both bounds) near Lugard Road which was closed due to fallen tree is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因塌樹而封閉的柯士甸山道(來回方向)近盧吉道的全線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-08-18T14:16:30",
-        "last_announcement": "2024-08-18T14:04:00"
+        "last_update": "2024-08-19T17:08:53",
+        "last_announcement": "2024-08-19T16:48:00"
     },
     "IN-24-04756": {
         "description": {
@@ -2218,5 +2225,37 @@
         "district": "沙田區",
         "last_update": "2024-08-19T16:51:12",
         "last_announcement": "2024-08-19T16:39:00"
+    },
+    "IN-24-04802": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Tsing Long Highway",
+            "LOCATION_CN": "青朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsing Long Highway (Ting Kau Bridge)",
+            "DIRECTION_CN": "青朗公路(汀九橋)",
+            "NEAR_LANDMARK_EN": "Tai Lam Tunnel  Bus-Bus Interchange",
+            "NEAR_LANDMARK_CN": "大欖隧道巴士轉乘站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-19T16:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101859",
+                "CONTENT_EN": "Due to fallen tree , the slow lane of Tsing Long Highway (Tsing Long Highway (Ting Kau Bridge) bound) near Tai Lam Tunnel Bus-Bus Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，青朗公路(往青朗公路(汀九橋)方向) 近大欖隧道巴士轉乘站的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-08-19T17:08:53",
+        "last_announcement": "2024-08-19T16:53:00"
     }
 }
