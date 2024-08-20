@@ -45,52 +45,6 @@
         "last_update": "2024-08-19T17:08:53",
         "last_announcement": "2024-08-19T16:48:00"
     },
-    "IN-24-04762": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Man Po Street",
-            "LOCATION_CN": "民寶街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wan Chai",
-            "DIRECTION_CN": "灣仔",
-            "NEAR_LANDMARK_EN": "Central Pier No.2",
-            "NEAR_LANDMARK_CN": "中環２號碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-17T11:16:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101766",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Man Po Street (Wan Chai bound) near Central Pier No.2 is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，民寶街(往灣仔方向)近中環２號碼頭的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-17T12:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101769",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Man Po Street (Wan Chai bound) near Central Pier No.2 is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Man Po Street (Wan Chai bound) ends at Connaught Road West near Sun Yat Sen Memorial Park. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，民寶街(往灣仔方向)近中環２號碼頭的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在民寶街(往灣仔方向)的車龍龍尾已到干諾道西近中山紀念公園。 現時上址交通擠塞。"
-            },
-            "2024-08-17T12:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101771",
-                "CONTENT_EN": "The slow lane of Man Po Street (Wan Chai bound) near Central Pier No.2 which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的民寶街(往灣仔方向)近中環２號碼頭的慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-08-17T12:30:20",
-        "last_announcement": "2024-08-17T12:09:00"
-    },
     "IN-24-04764": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
