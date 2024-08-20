@@ -45,77 +45,6 @@
         "last_update": "2024-08-19T17:08:53",
         "last_announcement": "2024-08-19T16:48:00"
     },
-    "IN-24-04769": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-17T13:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101780",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近和富中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-17T14:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101781",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近和富中心的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-08-17T14:27:21",
-        "last_announcement": "2024-08-17T14:08:00"
-    },
-    "IN-24-04768": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "rough sea condition",
-            "INCIDENT_DETAIL_CN": "海面風浪太大",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-17T14:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101782",
-                "CONTENT_EN": "Due to rough sea condition, the following ferry services will be or have been suspended. \nTsui Wah Ferry Service (H. K. ) Limited\n• Po Toi to Stanley: suspened at 02:00 pm and 04:00 pm\n.",
-                "CONTENT_CN": "因海⾯⾵浪較⼤，以下渡輪服務將會或已經停航。\n翠華船務（⾹港）有限公司\n•蒲台島⾄⾚柱: 下午2時及下午4時暫停\n。  市⺠請留意電台/電視廣播的最新公共運輸服務消息。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-08-17T14:27:21",
-        "last_announcement": "2024-08-17T14:10:00"
-    },
     "IN-24-04758": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1979,10 +1908,49 @@
                 "ID": "101895",
                 "CONTENT_EN": "Due to traffic accident , the westbound tram service between Swatow Street and Man Wah Lane is suspended.",
                 "CONTENT_CN": "因交通意外，介乎汕頭街及文華里之間的西行線電車服務暫停。"
+            },
+            "2024-08-20T14:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101897",
+                "CONTENT_EN": "The westbound tram service between Swatow Street and Man Wah Lane which was suspended due to traffic accident has been resumed",
+                "CONTENT_CN": "較早前因交通意外而暫停的介乎汕頭街及文華里之間的西行線電車服務現已恢復正常"
             }
         },
         "district": "南區",
-        "last_update": "2024-08-20T13:59:20",
-        "last_announcement": "2024-08-20T13:43:00"
+        "last_update": "2024-08-20T14:30:23",
+        "last_announcement": "2024-08-20T14:07:00"
+    },
+    "IN-24-04818": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Chuk Hang Road",
+            "LOCATION_CN": "黃竹坑道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Deep Water Bay",
+            "DIRECTION_CN": "深水灣",
+            "NEAR_LANDMARK_EN": "Wong Chuk Hang Recreation Ground",
+            "NEAR_LANDMARK_CN": "黃竹坑遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-20T13:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101896",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chuk Hang Road (Deep Water Bay bound) near Wong Chuk Hang Recreation Ground is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，黃竹坑道(往深水灣方向)近黃竹坑遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-08-20T14:30:23",
+        "last_announcement": "2024-08-20T13:55:00"
     }
 }
