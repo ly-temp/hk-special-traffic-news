@@ -2289,5 +2289,44 @@
         "district": "九龍城區",
         "last_update": "2024-08-20T21:45:40",
         "last_announcement": "2024-08-20T21:35:00"
+    },
+    "IN-24-04834": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Princess Margaret Road",
+            "LOCATION_CN": "公主道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Argyle Street",
+            "NEAR_LANDMARK_CN": "亞皆老街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-20T21:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101932",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Princess Margaret Road flyover (Lion Rock Tunnel bound) near Argyle Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，公主道天橋(往獅子山隧道方向)近亞皆老街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-20T21:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101934",
+                "CONTENT_EN": "Part of the lanes of Princess Margaret Road flyover (Lion Rock Tunnel bound) near Argyle Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的公主道天橋(往獅子山隧道方向)近亞皆老街的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-20T21:55:53",
+        "last_announcement": "2024-08-20T21:45:00"
     }
 }
