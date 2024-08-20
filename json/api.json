@@ -1979,10 +1979,17 @@
                 "ID": "101898",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Stanley Gap Road (both bounds) near Ma Hang Prison is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，赤柱峽道(來回方向)近馬坑監獄的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-20T15:00:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101899",
+                "CONTENT_EN": "Part of the lanes of Stanley Gap Road (both bounds) near Ma Hang Prison which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的赤柱峽道(來回方向)近馬坑監獄的部份行車線現已解封。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-08-20T14:43:57",
-        "last_announcement": "2024-08-20T14:32:00"
+        "last_update": "2024-08-20T15:12:45",
+        "last_announcement": "2024-08-20T15:00:00"
     }
 }
