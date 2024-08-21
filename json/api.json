@@ -123,45 +123,6 @@
         "last_update": "2024-08-20T06:40:53",
         "last_announcement": "2024-08-20T06:28:00"
     },
-    "IN-24-04788": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chui Yu Road",
-            "LOCATION_CN": "聚魚道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Nam Cheong Park",
-            "DIRECTION_CN": "南昌公園",
-            "NEAR_LANDMARK_EN": "Tai Kok Tsui Road",
-            "NEAR_LANDMARK_CN": "大角咀道",
-            "BETWEEN_LANDMARK_EN": "Sham Mong Road",
-            "BETWEEN_LANDMARK_CN": "深旺道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-19T00:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101825",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chui Yu Road (Nam Cheong Park bound) between Tai Kok Tsui Road and Sham Mong Road is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因交通意外，聚魚道(往南昌公園方向)介乎大角咀道與深旺道之間的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-08-19T01:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101826",
-                "CONTENT_EN": "Part of the lanes of Chui Yu Road (Nam Cheong Park bound) between Tai Kok Tsui Road and Sham Mong Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的聚魚道(往南昌公園方向)介乎大角咀道與深旺道之間的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-08-19T01:35:30",
-        "last_announcement": "2024-08-19T01:27:00"
-    },
     "IN-24-04789": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
