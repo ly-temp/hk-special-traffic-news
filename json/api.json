@@ -84,84 +84,6 @@
         "last_update": "2024-08-20T07:25:14",
         "last_announcement": "2024-08-20T06:59:00"
     },
-    "IN-24-04776": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yu Tung Road",
-            "LOCATION_CN": "裕東路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "North Lantau Highway",
-            "DIRECTION_CN": "北大嶼山公路",
-            "NEAR_LANDMARK_EN": "Shun Tung Road",
-            "NEAR_LANDMARK_CN": "順東路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-18T08:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101795",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yu Tung Road (North Lantau Highway bound) near Shun Tung Road is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，裕東路(往北大嶼山公路方向)近順東路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-08-18T09:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101796",
-                "CONTENT_EN": "Part of the lanes of Yu Tung Road (North Lantau Highway bound) near Shun Tung Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的裕東路(往北大嶼山公路方向)近順東路的部份行車線現已解封。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-08-18T10:31:16",
-        "last_announcement": "2024-08-18T09:48:00"
-    },
-    "IN-24-04777": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Butterfly Valley Road",
-            "NEAR_LANDMARK_CN": "蝴蝶谷道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-18T09:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101797",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Butterfly Valley Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近蝴蝶谷道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-18T10:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101798",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Butterfly Valley Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近蝴蝶谷道的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-08-18T10:31:16",
-        "last_announcement": "2024-08-18T10:21:00"
-    },
     "IN-24-04778": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2617,11 +2539,18 @@
                 "ID": "101952",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Kwun Tong bound) near Hing Tin Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tseung Kwan O Road (Kwun Tong bound) ends at Tseung Kwan O Tunnel Road near Po Hong Park. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，將軍澳道(往觀塘方向)近興田邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在將軍澳道(往觀塘方向)的車龍龍尾已到將軍澳隧道公路近寶康公園。 現時上址交通擠塞。"
+            },
+            "2024-08-21T09:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101959",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Kwun Tong bound) near Hing Tin Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘方向)近興田邨的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-08-21T10:00:34",
-        "last_announcement": "2024-08-21T08:55:00"
+        "last_update": "2024-08-21T10:39:35",
+        "last_announcement": "2024-08-21T09:58:00"
     },
     "IN-24-04843": {
         "description": {
@@ -2745,10 +2674,49 @@
                 "ID": "101957",
                 "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，康莊道(往海底隧道方向)近香港理工大學的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-21T10:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101960",
+                "CONTENT_EN": "The fast lane of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的康莊道(往海底隧道方向)近香港理工大學的快線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-08-21T10:00:34",
-        "last_announcement": "2024-08-21T09:46:00"
+        "last_update": "2024-08-21T10:39:35",
+        "last_announcement": "2024-08-21T10:10:00"
+    },
+    "IN-24-04847": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": "Lai King MTR Station",
+            "NEAR_LANDMARK_CN": "荔景港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T10:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101961",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Airport bound) near Lai King MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青葵公路(往機場方向)近荔景港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-08-21T10:39:35",
+        "last_announcement": "2024-08-21T10:20:00"
     }
 }
