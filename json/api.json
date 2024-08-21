@@ -84,38 +84,6 @@
         "last_update": "2024-08-20T07:25:14",
         "last_announcement": "2024-08-20T06:59:00"
     },
-    "IN-24-04775": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Rainstorm Incident",
-            "INCIDENT_HEADING_CN": "暴雨事故",
-            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-18T06:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101794",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-08-18T09:43:31",
-        "last_announcement": "2024-08-18T06:05:00"
-    },
     "IN-24-04776": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2447,11 +2415,25 @@
                 "ID": "101940",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsuen Wan Road (Kowloon bound) near Hing Fong Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近興芳路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-21T08:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101950",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsuen Wan Road (Kowloon bound) near Hing Fong Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tsuen Wan Road (Kowloon bound) ends at Belvedere Garden. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近興芳路的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在荃灣路(往九龍方向)的車龍龍尾已到麗城花園。 現時上址交通擠塞。"
+            },
+            "2024-08-21T09:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101953",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Hing Fong Road which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往九龍方向)近興芳路的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-08-21T07:52:58",
-        "last_announcement": "2024-08-21T07:39:00"
+        "last_update": "2024-08-21T10:00:34",
+        "last_announcement": "2024-08-21T09:04:00"
     },
     "IN-24-04838": {
         "description": {
@@ -2596,10 +2578,177 @@
                 "ID": "101948",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Sha Lek Highway (Ma On Shan bound) near Prince of Wales Hospital is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   But the only lane of the slip road leading from Sha Lek Highway (Ma On Shan bound) to Sha Tin Wai Road is re-opened to all traffic.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，沙瀝公路(往馬鞍山方向)近威爾斯親王醫院的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  惟由沙瀝公路(往馬鞍山方向)通往沙田圍路的支路的唯一行車線現已解封。  現時上址交通繁忙。"
+            },
+            "2024-08-21T09:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101958",
+                "CONTENT_EN": "Part of the lanes of Sha Lek Highway (Ma On Shan bound) near Prince of Wales Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的沙瀝公路(往馬鞍山方向)近威爾斯親王醫院的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-08-21T08:52:15",
-        "last_announcement": "2024-08-21T08:41:00"
+        "last_update": "2024-08-21T10:00:34",
+        "last_announcement": "2024-08-21T09:52:00"
+    },
+    "IN-24-04842": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Hing Tin Estate",
+            "NEAR_LANDMARK_CN": "興田邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T08:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101952",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Kwun Tong bound) near Hing Tin Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tseung Kwan O Road (Kwun Tong bound) ends at Tseung Kwan O Tunnel Road near Po Hong Park. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往觀塘方向)近興田邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在將軍澳道(往觀塘方向)的車龍龍尾已到將軍澳隧道公路近寶康公園。 現時上址交通擠塞。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-08-21T10:00:34",
+        "last_announcement": "2024-08-21T08:55:00"
+    },
+    "IN-24-04843": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Speed Limit of Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge",
+            "LOCATION_CN": "港珠澳大橋主橋車速限制",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T09:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101954",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge, with details as shown below: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge are lowered from 100km/h to 50 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge is lowered from 80km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋主橋已實施以下特別交通及運輸安排： (i)港珠澳大橋主橋的快線及中線車速限制由每小時100公里降至每小時50 公里；及 (ii)港珠澳大橋主橋的慢線車速限制由每小時80公里降至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-08-21T10:00:34",
+        "last_announcement": "2024-08-21T09:15:00"
+    },
+    "IN-24-04844": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Speed Limit of Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road",
+            "LOCATION_CN": "港珠澳大橋香港連接路車速限制",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101955",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-08-21T10:00:34",
+        "last_announcement": "2024-08-21T09:20:00"
+    },
+    "IN-24-04845": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Gloucester Road",
+            "LOCATION_CN": "告士打道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Cannon Street",
+            "NEAR_LANDMARK_CN": "景隆街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T09:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101956",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Gloucester Road (Central bound) near Cannon Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，告士打道(往中環方向)近景隆街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-08-21T10:00:34",
+        "last_announcement": "2024-08-21T09:37:00"
+    },
+    "IN-24-04846": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Hong Chong Road",
+            "LOCATION_CN": "康莊道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T09:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101957",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，康莊道(往海底隧道方向)近香港理工大學的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-21T10:00:34",
+        "last_announcement": "2024-08-21T09:46:00"
     }
 }
