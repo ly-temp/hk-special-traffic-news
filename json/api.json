@@ -2879,11 +2879,18 @@
                 "ID": "101995",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tsuen Wan Road (Tuen Mun bound) near Kwai Chung Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tsuen Wan Road (Tuen Mun bound) ends at Kwai Chung Road near Lai King MTR Station. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，荃灣路(往屯門方向)近葵涌公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在荃灣路(往屯門方向)的車龍龍尾已到葵涌道近荔景港鐵站。 現時上址交通擠塞。"
+            },
+            "2024-08-21T19:31:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101997",
+                "CONTENT_EN": "The slow lane of Tsuen Wan Road (Tuen Mun bound) near Kwai Chung Park which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往屯門方向)近葵涌公園的慢線現已解封。 車龍有待消散。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-08-21T19:18:41",
-        "last_announcement": "2024-08-21T18:57:00"
+        "last_update": "2024-08-21T20:38:32",
+        "last_announcement": "2024-08-21T19:31:00"
     },
     "IN-24-04861": {
         "description": {
@@ -2911,10 +2918,17 @@
                 "ID": "101999",
                 "CONTENT_EN": "Due to emergency incident , all lanes of Shek Yam Road between Tung Chi Street and Shek Yi Road are closed to all traffic.   Motorists are advised to use alternative routes.   Affected KMB route no. 35A (Tsim Sha Tsui East bound) has been diverted.   Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，石蔭路介乎童子街與石宜路之間的全線現已封閉。  駕駛人士請考慮改用其他道路。  受影響九巴第35A號線(往尖沙咀東)方向須改道行駛。  現時上址交通繁忙。"
+            },
+            "2024-08-21T20:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102000",
+                "CONTENT_EN": "All lanes of Shek Yam Road  between Tung Chi Street and Shek Yi Road which were closed due to emergency incident are re-opened to all traffic. Affected bus route has resumed its original routeing.",
+                "CONTENT_CN": "較早前因突發事件而封閉的石蔭路介乎童子街與石宜路之間的全線現已解封。 受影響巴士路線現已恢復原有路線行駛。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-08-21T19:59:12",
-        "last_announcement": "2024-08-21T19:42:00"
+        "last_update": "2024-08-21T20:38:32",
+        "last_announcement": "2024-08-21T20:20:00"
     }
 }
