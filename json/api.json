@@ -2732,5 +2732,69 @@
         "district": "中西區",
         "last_update": "2024-08-21T16:47:07",
         "last_announcement": "2024-08-21T16:36:00"
+    },
+    "IN-24-04856": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tate's Cairn Tunnel",
+            "DIRECTION_CN": "大老山隧道",
+            "NEAR_LANDMARK_EN": "Hong Kong Children's Hospital",
+            "NEAR_LANDMARK_CN": "香港兒童醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T16:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101981",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Hong Kong Children's Hospital is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往大老山隧道方向)近香港兒童醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-08-21T16:57:07",
+        "last_announcement": "2024-08-21T16:42:00"
+    },
+    "IN-24-04855": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T16:33:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101979",
+                "CONTENT_EN": "Due to vessel mechanical defects, the following Inner Harbour ferry service will be or have been suspended. \nFortune Ferry Company Limited\n- Departed from North Point : suspended at 04:30 pm and 05:30 pm\n-Departed from Kwun Tong : suspended at 04:15 pm and 04:45 pm.",
+                "CONTENT_CN": "因船隻機件故障，以下港內渡輪服務將會或已經停航。\n富裕小輪有限公司\n-北角開出:下午04時30分及下午05時30分暫停\n-觀塘開出:下午04時15分及下午04時45分暫停。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-08-21T16:57:07",
+        "last_announcement": "2024-08-21T16:33:00"
     }
 }
