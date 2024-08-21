@@ -84,45 +84,6 @@
         "last_update": "2024-08-20T07:25:14",
         "last_announcement": "2024-08-20T06:59:00"
     },
-    "IN-24-04783": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
-            "NEAR_LANDMARK_CN": "何文田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-18T16:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101818",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，漆咸道北(往油麻地方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-18T16:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101819",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Yau Ma Tei bound) near Ho Man Tin MTR Station which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的漆咸道北(往油麻地方向)近何文田港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-18T17:09:24",
-        "last_announcement": "2024-08-18T16:50:00"
-    },
     "IN-24-04784": {
         "description": {
             "INCIDENT_HEADING_EN": "Ferry Incident",
@@ -2759,11 +2720,18 @@
                 "ID": "101981",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Hong Kong Children's Hospital is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往大老山隧道方向)近香港兒童醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-21T17:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101984",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Hong Kong Children's Hospital is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Kwun Tong Bypass (Tate's Cairn Tunnel bound) ends at Kwun Tong Bypass near Kwun Tong Ferry Pier. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往大老山隧道方向)近香港兒童醫院的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往大老山隧道方向)的車龍龍尾已到觀塘繞道近觀塘碼頭。 現時上址交通擠塞。"
             }
         },
         "district": "南區",
-        "last_update": "2024-08-21T16:57:07",
-        "last_announcement": "2024-08-21T16:42:00"
+        "last_update": "2024-08-21T17:20:22",
+        "last_announcement": "2024-08-21T17:02:00"
     },
     "IN-24-04855": {
         "description": {
@@ -2796,5 +2764,44 @@
         "district": null,
         "last_update": "2024-08-21T16:57:07",
         "last_announcement": "2024-08-21T16:33:00"
+    },
+    "IN-24-04857": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
+            "NEAR_LANDMARK_CN": "龍翔道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-21T16:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "101983",
+                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道公園的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-21T17:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "101985",
+                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Diamond Hill MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道公園的中線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近鑽石山港鐵站。 現時上址交通擠塞。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-08-21T17:20:22",
+        "last_announcement": "2024-08-21T17:10:00"
     }
 }
