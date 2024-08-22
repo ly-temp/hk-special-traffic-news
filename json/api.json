@@ -3058,5 +3058,37 @@
         "district": "沙田區",
         "last_update": "2024-08-22T11:11:58",
         "last_announcement": "2024-08-22T11:01:00"
+    },
+    "IN-24-04873": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Object",
+            "INCIDENT_DETAIL_CN": "高空墮物",
+            "LOCATION_EN": "Nam On Lane",
+            "LOCATION_CN": "南安里",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Shau Kei Wan Road",
+            "DIRECTION_CN": "筲箕灣道",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-22T12:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102024",
+                "CONTENT_EN": "Due to fallen object , the slow lane of Nam On Lane (Shau Kei Wan Road bound) is closed to all traffic. \nVehicles cannot enter Shau Kei Wan Road (Chai Wan bound) via Nam On Lane. \nAt the same time, part of the lanes of Shau Kei Wan Road (both bounds) near Nam On Lane is also closed to all traffic. Only remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因高空墮物，南安里(往筲箕灣道方向)的慢線現已封閉。\n車輛不能沿南安里前往筲箕灣道(往柴灣方向)。\n同時，筲箕灣道(來回方向)近南安里的部分行車線亦已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-08-22T12:29:26",
+        "last_announcement": "2024-08-22T12:09:00"
     }
 }
