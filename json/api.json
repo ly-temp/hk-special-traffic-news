@@ -1,50 +1,4 @@
 {
-    "IN-24-04755": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Mount Austin Road",
-            "LOCATION_CN": "柯士甸山道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Mount Austin Playground",
-            "NEAR_LANDMARK_CN": "柯士甸山遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-17T07:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101753",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Mount Austin Road (both bounds) near Mount Austin Playground are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，柯士甸山道(來回方向)近柯士甸山遊樂場的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-08-18T14:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101810",
-                "CONTENT_EN": "Due to fallen tree , the one-lane-two-way traffic arrangement is being implemented on Mount Austin Road near Lugard Road.",
-                "CONTENT_CN": "因塌樹，柯士甸山道近盧吉道現已實施單線雙程行車措施。"
-            },
-            "2024-08-19T16:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101857",
-                "CONTENT_EN": "All lanes of Mount Austin Road (both bounds) near Lugard Road which was closed due to fallen tree is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因塌樹而封閉的柯士甸山道(來回方向)近盧吉道的全線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-08-19T17:08:53",
-        "last_announcement": "2024-08-19T16:48:00"
-    },
     "IN-24-04758": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3079,5 +3033,69 @@
         "district": "荃灣區",
         "last_update": "2024-08-22T16:40:15",
         "last_announcement": "2024-08-22T16:28:00"
+    },
+    "IN-24-04880": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Sha Tau Kok Road - Wo Hang Roundabout",
+            "LOCATION_CN": "沙頭角公路　－　禾坑段迴旋處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-22T17:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102044",
+                "CONTENT_EN": "Part of the lanes of Sha Tau Kok Road - Wo Hang Roundabout  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的沙頭角公路　－　禾坑段迴旋處的部份行車線現已解封。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-08-22T17:25:44",
+        "last_announcement": "2024-08-22T17:04:00"
+    },
+    "IN-24-04881": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Playground",
+            "NEAR_LANDMARK_CN": "龍翔道遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-22T17:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102045",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Playground which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近龍翔道遊樂場的慢線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-08-22T17:25:44",
+        "last_announcement": "2024-08-22T17:17:00"
     }
 }
