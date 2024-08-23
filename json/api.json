@@ -38,45 +38,6 @@
         "last_update": "2024-08-21T06:38:13",
         "last_announcement": "2024-08-21T06:26:00"
     },
-    "IN-24-04818": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wong Chuk Hang Road",
-            "LOCATION_CN": "黃竹坑道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Deep Water Bay",
-            "DIRECTION_CN": "深水灣",
-            "NEAR_LANDMARK_EN": "Wong Chuk Hang Recreation Ground",
-            "NEAR_LANDMARK_CN": "黃竹坑遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-20T13:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101896",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chuk Hang Road (Deep Water Bay bound) near Wong Chuk Hang Recreation Ground is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，黃竹坑道(往深水灣方向)近黃竹坑遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-20T16:06:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "101901",
-                "CONTENT_EN": "Part of the lanes of Wong Chuk Hang Road (Deep Water Bay bound) near Wong Chuk Hang Recreation Ground which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的黃竹坑道(往深水灣方向)近黃竹坑遊樂場的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-08-20T16:25:15",
-        "last_announcement": "2024-08-20T16:06:00"
-    },
     "IN-24-04820": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -115,38 +76,6 @@
         "district": "觀塘區",
         "last_update": "2024-08-20T16:39:32",
         "last_announcement": "2024-08-20T16:34:00"
-    },
-    "IN-24-04822": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Expo Drive East Roundabout",
-            "LOCATION_CN": "博覽道東迴旋處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-20T16:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101903",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Expo Drive East Roundabout  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，博覽道東迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-08-20T16:25:15",
-        "last_announcement": "2024-08-20T16:09:00"
     },
     "IN-24-04821": {
         "description": {
@@ -3053,10 +2982,49 @@
                 "ID": "102081",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Shing Sai Road (Kennedy Town bound) near Sai Cheung Street North is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，城西道(往堅尼地城方向)近西祥街北的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-23T16:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102082",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Shing Sai Road (Kennedy Town bound) near Sai Cheung Street North is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Shing Sai Road (Kennedy Town bound) ends at Connaught Road West flyover near Sheung Wan Fire Station. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，城西道(往堅尼地城方向)近西祥街北的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在城西道(往堅尼地城方向)的車龍龍尾已到干諾道西天橋近上環消防局。 現時上址交通擠塞。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-08-23T16:09:45",
-        "last_announcement": "2024-08-23T15:51:00"
+        "last_update": "2024-08-23T16:31:04",
+        "last_announcement": "2024-08-23T16:14:00"
+    },
+    "IN-24-04898": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Gloucester Road",
+            "LOCATION_CN": "告士打道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "North Point",
+            "DIRECTION_CN": "北角",
+            "NEAR_LANDMARK_EN": "Tonnochy Road",
+            "NEAR_LANDMARK_CN": "杜老誌道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-23T16:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102083",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Gloucester Road (North Point bound) near Tonnochy Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，告士打道(往北角方向)近杜老誌道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-08-23T16:31:04",
+        "last_announcement": "2024-08-23T16:18:00"
     }
 }
