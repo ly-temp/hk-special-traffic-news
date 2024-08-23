@@ -3065,5 +3065,37 @@
         "district": "屯門區",
         "last_update": "2024-08-23T12:49:40",
         "last_announcement": "2024-08-23T12:30:00"
+    },
+    "IN-24-04619": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Sha Tin Wai Road",
+            "LOCATION_CN": "沙田圍路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Chung Kiu Road",
+            "DIRECTION_CN": "大涌橋路",
+            "NEAR_LANDMARK_EN": "Prince of Wales Hospital",
+            "NEAR_LANDMARK_CN": "威爾斯親王醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-08T21:06:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "101434",
+                "CONTENT_EN": "Due to watermain emergency works , the fast lane of Sha Tin Wai Road (Tai Chung Kiu Road bound) near Prince of Wales Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，沙田圍路(往大涌橋路方向)近威爾斯親王醫院的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-08-23T13:34:36",
+        "last_announcement": "2024-08-08T21:06:00"
     }
 }
