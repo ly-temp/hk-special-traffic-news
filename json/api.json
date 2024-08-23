@@ -2946,11 +2946,18 @@
                 "ID": "102112",
                 "CONTENT_EN": "Due to emergency incident , part of the lanes of the section of Princess Margaret Road (Waterloo Road bound) near Pui Ching Road are still being closed to all traffic. Only remaining lane is available to motorists. At the same time, vehicles from Hong Chong Road are still not allowed to travel onto Princess Margaret Road. Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，公主道(往窩打老道方向)近培正道的一段部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 同時，康莊道車輛仍不能駛入公主道。 現時上址交通繁忙。"
+            },
+            "2024-08-23T23:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102113",
+                "CONTENT_EN": "Due to emergency incident , part of the lanes of the section of Princess Margaret Road (Waterloo Road bound) near Pui Ching Road are still being closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，公主道(往窩打老道方向)近培正道的一段部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-08-23T22:31:36",
-        "last_announcement": "2024-08-23T22:14:00"
+        "last_update": "2024-08-24T00:12:01",
+        "last_announcement": "2024-08-23T23:46:00"
     },
     "IN-24-04909": {
         "description": {
@@ -2990,5 +2997,37 @@
         "district": "屯門區",
         "last_update": "2024-08-23T21:23:04",
         "last_announcement": "2024-08-23T20:54:00"
+    },
+    "IN-24-04910": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "East Kowloon Way",
+            "LOCATION_CN": "東九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Chi Kiang Street",
+            "NEAR_LANDMARK_CN": "浙江街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-23T23:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102114",
+                "CONTENT_EN": "The slow lane of East Kowloon Way (Kwun Tong bound) near Chi Kiang Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東九龍走廊(往觀塘方向)近浙江街的慢線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-24T00:12:01",
+        "last_announcement": "2024-08-23T23:53:00"
     }
 }
