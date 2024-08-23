@@ -38,45 +38,6 @@
         "last_update": "2024-08-21T06:38:13",
         "last_announcement": "2024-08-21T06:26:00"
     },
-    "IN-24-04833": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Baptist University",
-            "NEAR_LANDMARK_CN": "浸會大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-20T21:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "101931",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Baptist University is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道天橋(往獅子山隧道方向)近浸會大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-20T21:45:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "101933",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Baptist University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道天橋(往獅子山隧道方向)近浸會大學的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-20T22:15:36",
-        "last_announcement": "2024-08-20T21:45:00"
-    },
     "IN-24-04835": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2978,11 +2939,18 @@
                 "ID": "102109",
                 "CONTENT_EN": "Due to emergency incident , part of the lanes of the section of Princess Margaret Road (Waterloo Road bound) between Pui Ching Road and Chatham Road South are still being closed to all traffic. Only remaining lane is available to motorists. At the same time, vehicles from Hong Chong Road and Hung Hom Bypass are not allowed to travel onto Princess Margaret Road. Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，公主道(往窩打老道方向)介乎培正道與漆咸道南之間的一段部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 同時，康莊道及紅磡繞道車輛不能駛入公主道。 現時上址交通繁忙。"
+            },
+            "2024-08-23T22:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102112",
+                "CONTENT_EN": "Due to emergency incident , part of the lanes of the section of Princess Margaret Road (Waterloo Road bound) near Pui Ching Road are still being closed to all traffic. Only remaining lane is available to motorists. At the same time, vehicles from Hong Chong Road are still not allowed to travel onto Princess Margaret Road. Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，公主道(往窩打老道方向)近培正道的一段部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 同時，康莊道車輛仍不能駛入公主道。 現時上址交通繁忙。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-08-23T22:13:26",
-        "last_announcement": "2024-08-23T21:25:00"
+        "last_update": "2024-08-23T22:31:36",
+        "last_announcement": "2024-08-23T22:14:00"
     },
     "IN-24-04909": {
         "description": {
