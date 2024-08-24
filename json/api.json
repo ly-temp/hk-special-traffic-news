@@ -2607,5 +2607,37 @@
         "district": "黃大仙區",
         "last_update": "2024-08-24T14:43:21",
         "last_announcement": "2024-08-24T14:23:00"
+    },
+    "IN-24-04917": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Lam Tunnel",
+            "LOCATION_CN": "大欖隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-24T14:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102129",
+                "CONTENT_EN": "Due to traffic accident , the tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因交通意外，大欖隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-24T14:53:11",
+        "last_announcement": "2024-08-24T14:43:00"
     }
 }
