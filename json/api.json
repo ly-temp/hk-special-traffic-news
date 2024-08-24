@@ -84,38 +84,6 @@
         "last_update": "2024-08-21T13:38:05",
         "last_announcement": "2024-08-21T13:21:00"
     },
-    "IN-24-04849": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Lung Cheung Road Playground",
-            "NEAR_LANDMARK_CN": "龍翔道遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-21T12:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "101969",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近龍翔道遊樂場的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-08-21T12:40:22",
-        "last_announcement": "2024-08-21T12:32:00"
-    },
     "IN-24-04851": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2614,5 +2582,69 @@
         "district": "灣仔區",
         "last_update": "2024-08-24T12:29:10",
         "last_announcement": "2024-08-24T12:07:00"
+    },
+    "IN-24-04914": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O Tunnel",
+            "DIRECTION_CN": "將軍澳隧道",
+            "NEAR_LANDMARK_EN": "Tsui Ping South Estate",
+            "NEAR_LANDMARK_CN": "翠屏南邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-24T12:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102123",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Tsui Ping South Estate are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近翠屏南邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-08-24T12:41:28",
+        "last_announcement": "2024-08-24T12:20:00"
+    },
+    "IN-24-04915": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Connaught Road West",
+            "LOCATION_CN": "干諾道西",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Sun Yat Sen Memorial Park Sports Centre",
+            "NEAR_LANDMARK_CN": "中山紀念公園體育館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-24T12:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102126",
+                "CONTENT_EN": "Part of the lanes of Connaught Road West (Central bound) near Sun Yat Sen Memorial Park Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的干諾道西(往中環方向)近中山紀念公園體育館的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-08-24T12:41:28",
+        "last_announcement": "2024-08-24T12:37:00"
     }
 }
