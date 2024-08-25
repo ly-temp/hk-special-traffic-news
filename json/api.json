@@ -45,70 +45,6 @@
         "last_update": "2024-08-23T06:32:40",
         "last_announcement": "2024-08-23T06:17:00"
     },
-    "IN-24-04880": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Sha Tau Kok Road - Wo Hang Roundabout",
-            "LOCATION_CN": "沙頭角公路　－　禾坑段迴旋處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-22T17:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102044",
-                "CONTENT_EN": "Part of the lanes of Sha Tau Kok Road - Wo Hang Roundabout  which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的沙頭角公路　－　禾坑段迴旋處的部份行車線現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-08-22T17:25:44",
-        "last_announcement": "2024-08-22T17:04:00"
-    },
-    "IN-24-04881": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Lung Cheung Road Playground",
-            "NEAR_LANDMARK_CN": "龍翔道遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-22T17:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102045",
-                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Playground which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近龍翔道遊樂場的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-08-22T17:25:44",
-        "last_announcement": "2024-08-22T17:17:00"
-    },
     "IN-24-04882": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2113,10 +2049,49 @@
                 "ID": "102170",
                 "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden which was closed due to vehicle breakdown is re-opened to all traffic.",
                 "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往紅磡方向)近駿發花園的部份行車線現已解封。"
+            },
+            "2024-08-25T16:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102172",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，加士居道天橋(往紅磡方向)近駿發花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-08-25T17:11:27",
-        "last_announcement": "2024-08-25T17:02:00"
+        "last_update": "2024-08-25T17:26:14",
+        "last_announcement": "2024-08-25T16:54:00"
+    },
+    "IN-24-04933": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Peninsula Heights",
+            "NEAR_LANDMARK_CN": "星輝豪庭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-25T17:04:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "102171",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Peninsula Heights which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近星輝豪庭的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-25T17:26:14",
+        "last_announcement": "2024-08-25T17:04:00"
     }
 }
