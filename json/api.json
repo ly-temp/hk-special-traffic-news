@@ -1983,5 +1983,37 @@
         "district": "油尖旺區",
         "last_update": "2024-08-25T20:30:33",
         "last_announcement": "2024-08-25T19:52:00"
+    },
+    "IN-24-04936": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Jordan Road",
+            "LOCATION_CN": "佐敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Queen Elizabeth Hospital",
+            "DIRECTION_CN": "伊利沙伯醫院",
+            "NEAR_LANDMARK_EN": "Chi Wo Street",
+            "NEAR_LANDMARK_CN": "志和街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-26T07:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102180",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Jordan Road (Queen Elizabeth Hospital bound) near Chi Wo Street is closed to all traffic. Only remaining lanes is available to motorists.",
+                "CONTENT_CN": "因水管緊急維修，佐敦道(往伊利沙伯醫院方向)近志和街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-26T07:48:47",
+        "last_announcement": "2024-08-26T07:37:00"
     }
 }
