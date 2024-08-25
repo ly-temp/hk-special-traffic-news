@@ -2088,10 +2088,49 @@
                 "ID": "102175",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Wang Chiu Road (Sheung Yuet Road bound) near Kai Cheung Road are closed to all traffic. Also, part of the lanes of Kai Cheung Road (Kai Tak Tunnel bound) near Wang Chiu Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，宏照道(往常悅道方向)近啓祥道的全線現已封閉。 同時，啓祥道(往啟德隧道方向)近宏照道的部份行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-08-25T19:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102176",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wang Chiu Road (Sheung Yuet Road bound) near Kai Cheung Road is still being closed to all traffic. Also, part of the lanes of Kai Cheung Road (Kai Tak Tunnel bound) near Wang Chiu Road is still closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，宏照道(往常悅道方向)近啓祥道的部份行車線仍然封閉。 同時，啓祥道(往啟德隧道方向)近宏照道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-08-25T19:11:52",
-        "last_announcement": "2024-08-25T18:37:00"
+        "last_update": "2024-08-25T19:25:27",
+        "last_announcement": "2024-08-25T19:09:00"
+    },
+    "IN-24-04935": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-25T19:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102177",
+                "CONTENT_EN": "Due to malfunction of traffic lights at Waterloo Road junction with Junction Road, motorists are advised to drive with utmost care when passing through the above road junction and pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing the above road junction with malfunctioned traffic light.",
+                "CONTENT_CN": "由於窩打老道與聯合道路口交通燈失靈,駕駛人士在駛經上述路口時，請加倍小心，注意交通標誌的指示並留意過路行人的安全。行人在橫過上述交通燈失靈的路口時，請特別注意車輛。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-25T19:25:27",
+        "last_announcement": "2024-08-25T19:15:00"
     }
 }
