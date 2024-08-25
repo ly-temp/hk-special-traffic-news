@@ -2139,5 +2139,37 @@
         "district": "沙田區",
         "last_update": "2024-08-25T11:33:44",
         "last_announcement": "2024-08-25T11:26:00"
+    },
+    "IN-24-04927": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-25T12:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102156",
+                "CONTENT_EN": "Train service between Mong Kok East Station and Tai Wai Station on the East Rail Line has been suspended. Please consider using other transport.",
+                "CONTENT_CN": "東鐵綫來往旺角東站至大圍站的列車服務暫停，請考慮使用其他交通工具。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-08-25T13:12:17",
+        "last_announcement": "2024-08-25T12:47:00"
     }
 }
