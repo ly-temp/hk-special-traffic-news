@@ -45,52 +45,6 @@
         "last_update": "2024-08-23T06:32:40",
         "last_announcement": "2024-08-23T06:17:00"
     },
-    "IN-24-04883": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Long Highway",
-            "LOCATION_CN": "青朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Tuen Mun Road",
-            "NEAR_LANDMARK_CN": "屯門公路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-22T19:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102048",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Long Highway (Tuen Mun bound) leading to Tuen Mun Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青朗公路(往屯門方向)通往屯門公路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-08-22T19:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102049",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Long Highway (Tuen Mun bound) leading to Tuen Mun Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tsing Long Highway (Tuen Mun bound) ends at North West Tsing Yi Interchange near Tsing Yi Administration Building.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，青朗公路(往屯門方向)通往屯門公路的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在青朗公路(往屯門方向)的車龍龍尾已到青衣西北交匯處近青衣行政大樓。  現時上址交通擠塞。"
-            },
-            "2024-08-22T19:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102050",
-                "CONTENT_EN": "Part of the lanes of Tsing Long Highway (Tuen Mun bound) leading to Tuen Mun Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青朗公路(往屯門方向)通往屯門公路的部份行車線現已解封。車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-08-22T19:48:55",
-        "last_announcement": "2024-08-22T19:37:00"
-    },
     "IN-24-04884": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2095,11 +2049,18 @@
                 "ID": "102176",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wang Chiu Road (Sheung Yuet Road bound) near Kai Cheung Road is still being closed to all traffic. Also, part of the lanes of Kai Cheung Road (Kai Tak Tunnel bound) near Wang Chiu Road is still closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，宏照道(往常悅道方向)近啓祥道的部份行車線仍然封閉。 同時，啓祥道(往啟德隧道方向)近宏照道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-25T19:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102178",
+                "CONTENT_EN": "Part of the lanes of Wang Chiu Road (Sheung Yuet Road bound) near Kai Cheung Road which was closed due to traffic accident is re-opened to all traffic. Also, part of the lanes of Kai Cheung Road (Kai Tak Tunnel bound) near Wang Chiu Road, which was closed due to traffic accident, is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的宏照道(往常悅道方向)近啓祥道的部份行車線現已解封。 同時，較早前因交通意外而封閉的啓祥道(往啟德隧道方向)近宏照道的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-08-25T19:25:27",
-        "last_announcement": "2024-08-25T19:09:00"
+        "last_update": "2024-08-25T19:56:08",
+        "last_announcement": "2024-08-25T19:43:00"
     },
     "IN-24-04935": {
         "description": {
