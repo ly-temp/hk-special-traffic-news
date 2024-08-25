@@ -84,52 +84,6 @@
         "last_update": "2024-08-22T17:06:50",
         "last_announcement": "2024-08-22T16:45:00"
     },
-    "IN-24-04877": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Kowloon Bay MTR Station",
-            "NEAR_LANDMARK_CN": "九龍灣港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-22T15:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102031",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Mong Kok bound) near Kowloon Bay MTR Station is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往旺角方向)近九龍灣港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-22T15:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102033",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Mong Kok bound) near Kowloon Bay MTR Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong Road (Mong Kok bound) ends at Kwun Tong Road near Ngau Tau Kok MTR Station. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往旺角方向)近九龍灣港鐵站的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘道(往旺角方向)的車龍龍尾已到觀塘道近牛頭角港鐵站。 現時上址交通擠塞。"
-            },
-            "2024-08-22T16:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102040",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Mong Kok bound) near Kowloon Bay MTR Station which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往旺角方向)近九龍灣港鐵站的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-08-22T16:40:15",
-        "last_announcement": "2024-08-22T16:24:00"
-    },
     "IN-24-04878": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -175,52 +129,6 @@
         "district": "中西區",
         "last_update": "2024-08-22T16:50:30",
         "last_announcement": "2024-08-22T16:16:00"
-    },
-    "IN-24-04879": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": "Tsuen Wan Line Service Disruption",
-            "LOCATION_CN": "荃灣綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-22T16:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102036",
-                "CONTENT_EN": "Extra travelling time can be expected on the Tsuen Wan Line. \nPlease allow more time for travel.",
-                "CONTENT_CN": "荃灣綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
-            },
-            "2024-08-22T16:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102039",
-                "CONTENT_EN": "Due to a passenger request for assistance on a train in Mong Kok Station, the total journey time on the Tsuen Wan Line between Central Station and Tsuen Wan Station could be extended by 15-20 minutes.",
-                "CONTENT_CN": "由於旺角站列車上有乘客需要協助，荃灣綫來往中環站及荃灣站的行車時間預計需要額外15-20分鐘。"
-            },
-            "2024-08-22T16:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102041",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The case of a passenger request for assistance at Mong Kok Station has been resolved. Normal train service is gradually resuming.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 旺角站乘客求助的事件已妥善處理，列車服務逐步回復正常。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-08-22T16:40:15",
-        "last_announcement": "2024-08-22T16:28:00"
     },
     "IN-24-04880": {
         "description": {
