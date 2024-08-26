@@ -1873,5 +1873,37 @@
         "district": "離島區",
         "last_update": "2024-08-26T15:39:48",
         "last_announcement": "2024-08-26T15:19:00"
+    },
+    "IN-24-04946": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": "Princess Margaret Hospital",
+            "NEAR_LANDMARK_CN": "瑪嘉烈醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-26T15:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102201",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Airport bound) near Princess Margaret Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往機場方向)近瑪嘉烈醫院的部份行車線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-08-26T15:49:48",
+        "last_announcement": "2024-08-26T15:39:00"
     }
 }
