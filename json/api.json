@@ -45,45 +45,6 @@
         "last_update": "2024-08-23T19:56:51",
         "last_announcement": "2024-08-23T19:43:00"
     },
-    "IN-24-04904": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Shing Mun Tunnels",
-            "LOCATION_CN": "城門隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-23T18:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102095",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Shing Mun Tunnels (Sha Tin bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，城門隧道(往沙田方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-23T18:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102098",
-                "CONTENT_EN": "The tunnel tube slow lane of Shing Mun Tunnels (Sha Tin bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的城門隧道(往沙田方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-08-23T18:57:01",
-        "last_announcement": "2024-08-23T18:37:00"
-    },
     "IN-24-04905": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1951,5 +1912,37 @@
         "district": "葵青區",
         "last_update": "2024-08-26T18:24:21",
         "last_announcement": "2024-08-26T18:10:00"
+    },
+    "IN-24-04953": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "City Garden",
+            "NEAR_LANDMARK_CN": "城市花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-26T18:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102224",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near City Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近城市花園的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-08-26T19:00:29",
+        "last_announcement": "2024-08-26T18:47:00"
     }
 }
