@@ -1,107 +1,4 @@
 {
-    "IN-24-04890": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Kowloon Flour Mills",
-            "NEAR_LANDMARK_CN": "九龍麵粉廠",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-23T09:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102063",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Mong Kok bound) near Kowloon Flour Mills is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近九龍麵粉廠的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-23T10:28:09",
-        "last_announcement": "2024-08-23T09:37:00"
-    },
-    "IN-24-04889": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "So Uk Estate",
-            "NEAR_LANDMARK_CN": "蘇屋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-23T09:44:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "102064",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near So Uk Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往觀塘方向)近蘇屋邨的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-08-23T10:28:09",
-        "last_announcement": "2024-08-23T09:44:00"
-    },
-    "IN-24-04891": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Cross Harbour Tunnel",
-            "LOCATION_CN": "海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-23T10:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102066",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Cross Harbour Tunnel (Hong Kong Island bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，海底隧道(往香港島方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-23T10:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102068",
-                "CONTENT_EN": "The tunnel tube slow lane of Cross Harbour Tunnel (Hong Kong Island bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的海底隧道(往香港島方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-08-23T10:28:09",
-        "last_announcement": "2024-08-23T10:09:00"
-    },
     "IN-24-04893": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2042,11 +1939,18 @@
                 "ID": "102186",
                 "CONTENT_EN": "Due to heavy traffic , Tuen Mun Road (Kowloon bound) near Hong Kong Garden is busy. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Sam Shing Estate. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "因車多關係，屯門公路(往九龍方向)近豪景花園的交通繁忙。 現時在屯門公路(往九龍方向)的車龍龍尾已到三聖邨。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-08-26T09:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102189",
+                "CONTENT_EN": "Traffic at Tuen Mun Road (Kowloon bound) near Hong Kong Garden has resumed normal.",
+                "CONTENT_CN": "屯門公路(往九龍方向)近豪景花園的交通現已恢復正常。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-08-26T09:39:58",
-        "last_announcement": "2024-08-26T08:36:00"
+        "last_update": "2024-08-26T10:29:16",
+        "last_announcement": "2024-08-26T09:45:00"
     },
     "IN-24-04941": {
         "description": {
@@ -2079,5 +1983,37 @@
         "district": "屯門區",
         "last_update": "2024-08-26T09:39:58",
         "last_announcement": "2024-08-26T09:35:00"
+    },
+    "IN-24-04942": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Kwun Tong",
+            "LOCATION_CN": "觀塘",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kwun Tong Station",
+            "NEAR_LANDMARK_CN": "觀塘站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-26T10:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102190",
+                "CONTENT_EN": "Due to heavy traffic , Kwun Tong (Yau Tong bound) near Kwun Tong Station is busy. Traffic queue on Kwun Tong (Yau Tong bound) ends at Kowloon Bay MTR Station. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "因車多關係，觀塘(往油塘方向)近觀塘站的交通繁忙。 現時在觀塘(往油塘方向)的車龍龍尾已到九龍灣港鐵站。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-08-26T10:29:16",
+        "last_announcement": "2024-08-26T10:00:00"
     }
 }
