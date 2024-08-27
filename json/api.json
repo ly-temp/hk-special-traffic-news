@@ -1,36 +1,4 @@
 {
-    "IN-24-04917": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Lam Tunnel",
-            "LOCATION_CN": "大欖隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-24T14:43:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102129",
-                "CONTENT_EN": "Due to traffic accident , the tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因交通意外，大欖隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-24T14:53:11",
-        "last_announcement": "2024-08-24T14:43:00"
-    },
     "IN-24-04918": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2086,5 +2054,37 @@
         "district": "荃灣區",
         "last_update": "2024-08-27T13:41:15",
         "last_announcement": "2024-08-27T13:32:00"
+    },
+    "IN-24-04971": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "San Tin Highway and Fanling Highway, Both bounds, near San Tin Interchange",
+            "INCIDENT_DETAIL_CN": "新田公路及粉嶺公路，來回方向，近新田交匯處",
+            "LOCATION_EN": "San Tin Highway and Fanling Highway",
+            "LOCATION_CN": "新田公路及粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-27T14:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102273",
+                "CONTENT_EN": "To facilitate the works of Development of Lok Ma Chau Loop, from 11.00 p. m. on 27 August 2024 (Tuesday) to 5.30 a. m. of the following day, the San Tin Highway and Fanling Highway (both bounds) near San Tin Interchange will be fully closed to all vehicular traffic. Affected vehicles are advised to travel via Castle Peak Road or San Tin Interchange.",
+                "CONTENT_CN": "因配合落馬洲河套地區發展工程，新田公路及粉嶺公路(來回方向)將於2024年8月27日(星期二)晚上11時至翌日上午5時30分全線封閉。駕駛人士須改經青山公路或新田交匯處。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-08-27T14:56:21",
+        "last_announcement": "2024-08-27T14:41:00"
     }
 }
