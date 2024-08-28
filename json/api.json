@@ -1,50 +1,4 @@
 {
-    "IN-24-04932": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Prosperous Garden",
-            "NEAR_LANDMARK_CN": "駿發花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-25T17:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102170",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往紅磡方向)近駿發花園的部份行車線現已解封。"
-            },
-            "2024-08-25T16:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102172",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，加士居道天橋(往紅磡方向)近駿發花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-25T17:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102173",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往紅磡方向)近駿發花園的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-08-25T17:46:54",
-        "last_announcement": "2024-08-25T17:36:00"
-    },
     "IN-24-04934": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2640,5 +2594,37 @@
         "district": "黃大仙區",
         "last_update": "2024-08-28T17:38:14",
         "last_announcement": "2024-08-28T17:26:00"
+    },
+    "IN-24-05001": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Cornwall Street",
+            "NEAR_LANDMARK_CN": "歌和老街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-28T17:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102342",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Cornwall Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，窩打老道天橋(往獅子山隧道方向)近歌和老街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-28T17:48:33",
+        "last_announcement": "2024-08-28T17:35:00"
     }
 }
