@@ -2060,10 +2060,81 @@
                 "ID": "102286",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near How Ming Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近巧明街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-28T08:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102291",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Mong Kok bound) near How Ming Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往旺角方向)近巧明街的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-08-28T07:52:19",
-        "last_announcement": "2024-08-28T07:44:00"
+        "last_update": "2024-08-28T08:47:41",
+        "last_announcement": "2024-08-28T08:18:00"
+    },
+    "IN-24-04978": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Road",
+            "LOCATION_CN": "香島道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen",
+            "DIRECTION_CN": "香港仔",
+            "NEAR_LANDMARK_EN": "Deep Water Bay Sewage Pumping Station",
+            "NEAR_LANDMARK_CN": "深水灣污水泵房",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-28T08:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102289",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Island Road near Deep Water Bay Sewage Pumping Station. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，香島道近深水灣污水泵房現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-08-28T08:47:41",
+        "last_announcement": "2024-08-28T08:14:00"
+    },
+    "IN-24-04980": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tai Po Railway Pier",
+            "NEAR_LANDMARK_CN": "大埔鐵路碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-28T08:21:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "102292",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Tai Po Railway Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近大埔鐵路碼頭的部份行車線現已解封。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-08-28T08:47:41",
+        "last_announcement": "2024-08-28T08:21:00"
     }
 }
