@@ -2408,10 +2408,49 @@
                 "ID": "102319",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近兆康的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-28T15:36:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102322",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近兆康的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-08-28T15:37:34",
-        "last_announcement": "2024-08-28T15:20:00"
+        "last_update": "2024-08-28T15:47:51",
+        "last_announcement": "2024-08-28T15:36:00"
+    },
+    "IN-24-04994": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Salisbury Road",
+            "LOCATION_CN": "梳士巴利道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Star Ferry Pier",
+            "DIRECTION_CN": "天星碼頭",
+            "NEAR_LANDMARK_EN": "Nathan Road",
+            "NEAR_LANDMARK_CN": "彌敦道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-28T15:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102324",
+                "CONTENT_EN": "Part of the lanes of Salisbury Road (Star Ferry Pier bound) near Nathan Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的梳士巴利道(往天星碼頭方向)近彌敦道的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-28T15:47:51",
+        "last_announcement": "2024-08-28T15:39:00"
     }
 }
