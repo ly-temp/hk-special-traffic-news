@@ -2792,5 +2792,37 @@
         "district": "中西區",
         "last_update": "2024-08-28T21:25:54",
         "last_announcement": "2024-08-28T20:59:00"
+    },
+    "IN-24-05008": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Mun Road",
+            "LOCATION_CN": "龍門路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Town Centre",
+            "DIRECTION_CN": "屯門市中心",
+            "NEAR_LANDMARK_EN": "Lung Fu Road roundabout",
+            "NEAR_LANDMARK_CN": "龍富路迴旋處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-29T06:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102366",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Lung Mun Road (Tuen Mun Town Centre bound) near Lung Fu Road roundabout is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍門路(往屯門市中心方向)近龍富路迴旋處的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-08-29T06:50:03",
+        "last_announcement": "2024-08-29T06:31:00"
     }
 }
