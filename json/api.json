@@ -1,50 +1,4 @@
 {
-    "IN-24-04927": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-25T12:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102156",
-                "CONTENT_EN": "Train service between Mong Kok East Station and Tai Wai Station on the East Rail Line has been suspended. Please consider using other transport.",
-                "CONTENT_CN": "東鐵綫來往旺角東站至大圍站的列車服務暫停，請考慮使用其他交通工具。"
-            },
-            "2024-08-25T13:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102157",
-                "CONTENT_EN": "Train service between Mong Kok East Station and Tai Wai Station on the East Rail Line has been suspended. East Rail Line service changes Admiralty Station to And from Mong Kok East Station 10-minute intervals Mong Kok East Station to And from Tai Wai Station Suspended Tai Wai Station to And from Lo Wu Station 10-minute intervals Tai Po Market Station to And from Lok Ma Chau Station 15-minute intervals Please consider using other transport.",
-                "CONTENT_CN": "東鐵綫來往旺角東站至大圍站的列車服務暫停。 東鐵綫服務更改如下 金鐘站往返旺角東站每10分鐘一班 旺角東站往返大圍站暫停服務 大圍站往返羅湖站每10分鐘一班 大埔墟站往返落馬洲站每15分鐘一班 請考慮使用其他交通工具"
-            },
-            "2024-08-25T13:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102159",
-                "CONTENT_EN": "Train service between Mong Kok East Station and Tai Wai Station on the East Rail Line has been suspended. \n\nEast Rail Line service changes\nAdmiralty Station to And from Mong Kok East Station 10-minute intervals\nMong Kok East Station to And from Tai Wai Station Suspended\nTai Wai Station to And from Lo Wu Station 10-minute intervals\nTai Po Market Station to And from Lok Ma Chau Station 15-minute intervals\nA Free MTR shuttle bus service between Kowloon Tong Station and Tai Wai Station, is now operating. Please consider using other transport.",
-                "CONTENT_CN": "東鐵綫來往旺角東站至大圍站的列車服務暫停。\n\n東鐵綫服務更改如下\n金鐘站往返旺角東站每10分鐘一班\n旺角東站往返大圍站暫停服務\n大圍站往返羅湖站每10分鐘一班\n大埔墟站往返落馬洲站每15分鐘一班\n港鐵正提供免費接駁巴士，來往九龍塘站和大圍站。請考慮使用其他交通工具。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-08-25T13:30:28",
-        "last_announcement": "2024-08-25T13:15:00"
-    },
     "IN-24-04928": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2349,5 +2303,44 @@
         "district": "觀塘區",
         "last_update": "2024-08-28T13:13:59",
         "last_announcement": "2024-08-28T12:55:00"
+    },
+    "IN-24-04988": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Victoria Park",
+            "NEAR_LANDMARK_CN": "維多利亞公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-28T13:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102309",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near Victoria Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近維多利亞公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-28T13:17:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "102310",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Victoria Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近維多利亞公園的部份行車線現已解封。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-08-28T13:31:06",
+        "last_announcement": "2024-08-28T13:17:00"
     }
 }
