@@ -1,43 +1,4 @@
 {
-    "IN-24-04956": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Hong Kong Science Park",
-            "NEAR_LANDMARK_CN": "香港科學園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-27T07:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102233",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-27T07:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102235",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近香港科學園的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-08-27T07:22:11",
-        "last_announcement": "2024-08-27T07:14:00"
-    },
     "IN-24-04958": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2959,5 +2920,37 @@
         "district": "油尖旺區",
         "last_update": "2024-08-30T06:31:45",
         "last_announcement": "2024-08-30T06:21:00"
+    },
+    "IN-24-05032": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Tung Chau Street",
+            "LOCATION_CN": "通州街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Prince Edward Road West",
+            "NEAR_LANDMARK_CN": "太子道西",
+            "BETWEEN_LANDMARK_EN": "Lime Street",
+            "BETWEEN_LANDMARK_CN": "菩提街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-30T07:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102425",
+                "CONTENT_EN": "Due to watermain burst , the only lane of the section of Tung Chau Street  between Prince Edward Road West and Lime Street is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管爆裂，通州街介乎太子道西與菩提街之間的一段唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-30T07:26:38",
+        "last_announcement": "2024-08-30T07:09:00"
     }
 }
