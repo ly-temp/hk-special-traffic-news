@@ -38,45 +38,6 @@
         "last_update": "2024-08-28T06:24:05",
         "last_announcement": "2024-08-28T06:02:00"
     },
-    "IN-24-04976": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Soares Avenue",
-            "NEAR_LANDMARK_CN": "梭椏道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-27T19:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102283",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Argyle Street (Tai Kok Tsui bound) near Soares Avenue is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，亞皆老街(往大角咀方向)近梭椏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-27T19:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102284",
-                "CONTENT_EN": "Part of the lanes of Argyle Street (Tai Kok Tsui bound) near Soares Avenue which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街(往大角咀方向)近梭椏道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-27T19:58:22",
-        "last_announcement": "2024-08-27T19:44:00"
-    },
     "IN-24-04977": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2913,5 +2874,83 @@
         "district": "黃大仙區",
         "last_update": "2024-08-30T19:55:54",
         "last_announcement": "2024-08-30T19:36:00"
+    },
+    "IN-24-05050": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Sha Tin Racecourse",
+            "NEAR_LANDMARK_CN": "沙田馬場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-30T19:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102461",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田馬場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-30T19:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102462",
+                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往大埔方向)近沙田馬場的慢線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-08-30T20:32:31",
+        "last_announcement": "2024-08-30T19:53:00"
+    },
+    "IN-24-05051": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Salisbury Road",
+            "DIRECTION_CN": "梳士巴利道",
+            "NEAR_LANDMARK_EN": "The Peninsula",
+            "NEAR_LANDMARK_CN": "半島酒店",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-30T20:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102463",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Nathan Road (Salisbury Road bound) near The Peninsula is closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Nathan Road (Salisbury Road bound) ends at Nathan Road near Austin Road. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，彌敦道(往梳士巴利道方向)近半島酒店的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在彌敦道(往梳士巴利道方向)的車龍龍尾已到彌敦道近柯士甸道。 現時上址交通擠塞。"
+            },
+            "2024-08-30T20:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102464",
+                "CONTENT_EN": "Part of the lanes of Nathan Road (Salisbury Road bound) near The Peninsula which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的彌敦道(往梳士巴利道方向)近半島酒店的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-08-30T20:32:31",
+        "last_announcement": "2024-08-30T20:19:00"
     }
 }
