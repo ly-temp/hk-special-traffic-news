@@ -2693,5 +2693,37 @@
         "district": "葵青區",
         "last_update": "2024-08-30T11:43:14",
         "last_announcement": "2024-08-30T11:30:00"
+    },
+    "IN-24-05037": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced MTR train service from 31 August",
+            "INCIDENT_DETAIL_CN": "8月31日起加強港鐵列車服務",
+            "LOCATION_EN": "East Rail Line, Tseung Kwan O Line and Tuen Ma Line Service Disruption",
+            "LOCATION_CN": "東鐵綫，將軍澳綫及屯馬綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-30T12:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102435",
+                "CONTENT_EN": "MTRCL is enhancing the train service on East Rail Line, Tseung Kwan O Line and Tuen Ma Line during specific periods from 31 August 2024, total 112 extra train trips added each week. For more information, please browse MTRCL website.",
+                "CONTENT_CN": "港鐵將於8月31日起加強東鐵綫、將軍澳綫及屯馬綫部份時段的列車服務，每周共增加112班列車。詳情請瀏覽港鐵網頁。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-08-30T12:33:56",
+        "last_announcement": "2024-08-30T12:18:00"
     }
 }
