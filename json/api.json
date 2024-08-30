@@ -1,43 +1,4 @@
 {
-    "IN-24-04971": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "San Tin Highway and Fanling Highway, Both bounds, near San Tin Interchange",
-            "INCIDENT_DETAIL_CN": "新田公路及粉嶺公路，來回方向，近新田交匯處",
-            "LOCATION_EN": "San Tin Highway and Fanling Highway",
-            "LOCATION_CN": "新田公路及粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-27T14:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102273",
-                "CONTENT_EN": "To facilitate the works of Development of Lok Ma Chau Loop, from 11.00 p. m. on 27 August 2024 (Tuesday) to 5.30 a. m. of the following day, the San Tin Highway and Fanling Highway (both bounds) near San Tin Interchange will be fully closed to all vehicular traffic. Affected vehicles are advised to travel via Castle Peak Road or San Tin Interchange.",
-                "CONTENT_CN": "因配合落馬洲河套地區發展工程，新田公路及粉嶺公路(來回方向)將於2024年8月27日(星期二)晚上11時至翌日上午5時30分全線封閉。駕駛人士須改經青山公路或新田交匯處。"
-            },
-            "2024-08-28T06:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102285",
-                "CONTENT_EN": "The San Tin Highway and Fanling Highway (both bounds) near San Tin Interchange which was closed due to the works of Development of Lok Ma Chau Loop is re-opened to all traffic.",
-                "CONTENT_CN": "較早前配合落馬洲河套地區發展工程⽽封閉的新田公路及粉嶺公路(來回方向)近新田交匯處現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-08-28T06:24:05",
-        "last_announcement": "2024-08-28T06:02:00"
-    },
     "IN-24-04977": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2959,5 +2920,37 @@
         "district": "油尖旺區",
         "last_update": "2024-08-30T20:32:31",
         "last_announcement": "2024-08-30T20:19:00"
+    },
+    "IN-24-05052": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Playground",
+            "NEAR_LANDMARK_CN": "龍翔道遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-31T06:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102466",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近龍翔道遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-08-31T06:33:09",
+        "last_announcement": "2024-08-31T06:10:00"
     }
 }
