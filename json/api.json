@@ -38,38 +38,6 @@
         "last_update": "2024-08-28T06:24:05",
         "last_announcement": "2024-08-28T06:02:00"
     },
-    "IN-24-04972": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Tam Road",
-            "LOCATION_CN": "大潭道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Tai Tam Tuk Reservoir",
-            "NEAR_LANDMARK_CN": "大潭篤水塘",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-27T16:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102275",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tai Tam Road near Tai Tam Tuk Reservoir due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於大潭道近大潭篤水塘實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-08-27T16:41:59",
-        "last_announcement": "2024-08-27T16:22:00"
-    },
     "IN-24-04973": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
