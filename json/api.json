@@ -2706,11 +2706,18 @@
                 "ID": "102437",
                 "CONTENT_EN": "Due to vessel defects, the following Water Taxi services will be or have been suspended. \nFortune Ferry Company Limited\n-Tsim Sha Tsui East: suspended at 01:20 pm and 02:20 pm\n-Wan Chai: suspended at 01:35 pm, 02:05 pm, 02:35 pm, 03:05 pm\n-Central: suspended at 01:50 pm and 02:50 pm.",
                 "CONTENT_CN": "因船隻機件故障，以下水上的士服務將會或已經暫停服務。\n富裕小輪有限公司\n-尖東:下午01時20分及下午02時20分暫停\n-灣仔:下午01時35分、下午02時05分、下午02時35分及下午03時05分暫停\n-中環:下午01時50分及下午02時50分暫停。"
+            },
+            "2024-08-30T15:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102441",
+                "CONTENT_EN": "The following Water Taxi service which was suspended due to vessel mechanical defects will be or have been resumed:\nFortune Ferry Company Limited\n- Departed from Tsim Sha Tsui East: resumes at 03:20 pm\n- Departed from Wan Chai: resumes at 03:35 pm\n- Departed from Central: resumes at 03:50 pm.",
+                "CONTENT_CN": "較早前因受船隻機件故障⽽停航的以下⽔上的⼠服務將會或已經恢復服務:\n富裕小輪有限公司\n-尖東開出:下午03時20分恢復\n-灣仔開出:下午03時35分恢復\n-中環開出:下午03時50分恢復。"
             }
         },
         "district": null,
-        "last_update": "2024-08-30T13:41:51",
-        "last_announcement": "2024-08-30T13:27:00"
+        "last_update": "2024-08-30T15:19:41",
+        "last_announcement": "2024-08-30T15:09:00"
     },
     "IN-24-05040": {
         "description": {
@@ -2738,10 +2745,17 @@
                 "ID": "102439",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Gloucester Road (North Point bound) near Tonnochy Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，告士打道(往北角方向)近杜老誌道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-08-30T14:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102440",
+                "CONTENT_EN": "Part of the lanes of Gloucester Road (North Point bound) near Tonnochy Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的告士打道(往北角方向)近杜老誌道的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-08-30T14:48:25",
-        "last_announcement": "2024-08-30T14:37:00"
+        "last_update": "2024-08-30T15:19:41",
+        "last_announcement": "2024-08-30T14:56:00"
     }
 }
