@@ -1,82 +1,4 @@
 {
-    "IN-24-04996": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": "Lung Cheung Road",
-            "NEAR_LANDMARK_CN": "龍翔道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-28T16:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102332",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lion Rock Tunnel Road (Sha Tin bound) near Lung Cheung Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Lion Rock Tunnel Road (Sha Tin bound) ends at Lung Cheung Road near Po Kong Village Road and Waterloo Road flyover near Hong Kong Baptist Hospital. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，獅子山隧道公路(往沙田方向)近龍翔道的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在獅子山隧道公路(往沙田方向)的車龍龍尾已到龍翔道近蒲崗村道及窩打老道天橋近香港浸信會醫院。 現時上址交通擠塞。"
-            },
-            "2024-08-28T16:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102334",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lion Rock Tunnel Road (Sha Tin bound) near Lung Cheung Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Lion Rock Tunnel Road (Sha Tin bound) ends at Lung Cheung Road near Choi Hung Estate and Waterloo Road flyover near Suffolk Road. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，獅子山隧道公路(往沙田方向)近龍翔道的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在獅子山隧道公路(往沙田方向)的車龍龍尾已到龍翔道近彩虹邨及窩打老道天橋近沙福道。 現時上址交通擠塞。"
-            },
-            "2024-08-28T17:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102337",
-                "CONTENT_EN": "The fast lane of Lion Rock Tunnel Road (Sha Tin bound) near Lung Cheung Road which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往沙田方向)近龍翔道的快線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-08-28T17:27:05",
-        "last_announcement": "2024-08-28T17:05:00"
-    },
-    "IN-24-04997": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kennedy Town",
-            "DIRECTION_CN": "堅尼地城",
-            "NEAR_LANDMARK_EN": "Shun Tak Centre",
-            "NEAR_LANDMARK_CN": "信德中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-28T16:20:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "102331",
-                "CONTENT_EN": "The slow lane of Connaught Road Central flyover (Kennedy Town bound) near Shun Tak Centre which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的干諾道中天橋(往堅尼地城方向)近信德中心的慢線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-08-28T17:27:05",
-        "last_announcement": "2024-08-28T16:20:00"
-    },
     "IN-24-04999": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2377,5 +2299,37 @@
         "district": "九龍城區",
         "last_update": "2024-08-31T16:45:55",
         "last_announcement": "2024-08-31T16:28:00"
+    },
+    "IN-24-05057": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Moonbeam Terrace",
+            "NEAR_LANDMARK_CN": "映月臺",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-08-31T17:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102476",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Moonbeam Terrace is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近映月臺的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-08-31T17:28:58",
+        "last_announcement": "2024-08-31T17:20:00"
     }
 }
