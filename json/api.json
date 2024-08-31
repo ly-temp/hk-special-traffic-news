@@ -38,45 +38,6 @@
         "last_update": "2024-08-28T14:11:28",
         "last_announcement": "2024-08-28T13:58:00"
     },
-    "IN-24-04985": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ko Chiu Road",
-            "LOCATION_CN": "高超道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Ko Yee Estate",
-            "NEAR_LANDMARK_CN": "高怡邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-28T11:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102304",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Ko Chiu Road (both bounds) near Ko Yee Estate is closed to all traffic. Affected bus routes have been diverted: - KMB Route Nos. 14, 14B, 14H, 14X, 214, 88X, 216M (Both bounds) - Cross Harbour Tunnel Route Nos. 603, 613 (Both bounds) Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，高超道(來回方向)近高怡邨的全線現已封閉。 受影響巴士路線須改道行駛: -九巴第14,14B,14H,14X,214,88X,216M號線(來回方向) -隧巴第603,613 號線(來回方向) 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-08-28T12:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102307",
-                "CONTENT_EN": "All lanes of Ko Chiu Road (both bounds) near Ko Yee Estate which was closed due to emergency incident is re-opened to all traffic. Affected bus services have gradually resumed normal.",
-                "CONTENT_CN": "較早前因突發事件而封閉的高超道(來回方向)近高怡邨的全線現已解封。 受影響的巴士服務已陸續回復正常。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-08-28T13:13:59",
-        "last_announcement": "2024-08-28T12:55:00"
-    },
     "IN-24-04988": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2695,11 +2656,18 @@
                 "ID": "102468",
                 "CONTENT_EN": "Due to emergency road surface works , the slow lane of West Kowloon Highway (Western Harbour Crossing bound) near Lai Chi Kok Park is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因緊急路面工程，西九龍公路(往西區海底隧道方向)近荔枝角公園的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-08-31T13:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102470",
+                "CONTENT_EN": "The slow lane of West Kowloon Highway (Western Harbour Crossing bound) near Lai Chi Kok Park which was closed due to emergency road surface works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面工程而封閉的西九龍公路(往西區海底隧道方向)近荔枝角公園的慢線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-08-31T10:32:34",
-        "last_announcement": "2024-08-31T10:21:00"
+        "last_update": "2024-08-31T13:29:08",
+        "last_announcement": "2024-08-31T13:04:00"
     },
     "IN-24-05054": {
         "description": {
