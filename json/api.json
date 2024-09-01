@@ -1395,5 +1395,37 @@
         "district": "元朗區",
         "last_update": "2024-09-01T17:21:47",
         "last_announcement": "2024-09-01T17:00:00"
+    },
+    "IN-24-05067": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-02T07:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102502",
+                "CONTENT_EN": "Lion Rock Tunnel Road (Kowloon bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "獅子山隧道公路(往九龍方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-09-02T07:58:17",
+        "last_announcement": "2024-09-02T07:46:00"
     }
 }
