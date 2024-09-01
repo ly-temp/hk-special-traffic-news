@@ -1,114 +1,4 @@
 {
-    "IN-24-05021": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Tai Wo Road",
-            "LOCATION_CN": "大埔太和路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Wo",
-            "DIRECTION_CN": "太和",
-            "NEAR_LANDMARK_EN": "Nam Wan Road",
-            "NEAR_LANDMARK_CN": "南運路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-29T17:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102394",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Tai Wo Road (Tai Wo bound) near Nam Wan Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔太和路(往太和方向)近南運路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-29T17:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102399",
-                "CONTENT_EN": "Part of the lanes of Tai Po Tai Wo Road (Tai Wo bound) near Nam Wan Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔太和路(往太和方向)近南運路的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-08-29T18:20:08",
-        "last_announcement": "2024-08-29T17:52:00"
-    },
-    "IN-24-05022": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "San Tin Highway",
-            "LOCATION_CN": "新田公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Mai Po Road",
-            "NEAR_LANDMARK_CN": "米埔路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-29T17:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102396",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of San Tin Highway (Yuen Long bound) near Mai Po Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，新田公路(往元朗方向)近米埔路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-29T18:00:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "102401",
-                "CONTENT_EN": "Part of the lanes of San Tin Highway (Yuen Long bound) near Mai Po Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的新田公路(往元朗方向)近米埔路的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-08-29T18:20:08",
-        "last_announcement": "2024-08-29T18:00:00"
-    },
-    "IN-24-05023": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-29T17:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102400",
-                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近和富中心的慢線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-08-29T18:20:08",
-        "last_announcement": "2024-08-29T17:57:00"
-    },
     "IN-24-05024": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1631,11 +1521,18 @@
                 "ID": "102491",
                 "CONTENT_EN": "Due to emergency repair of road surface , the one-lane-two-way traffic arrangement is being implemented on Lam Kam Road near She Shan Road. At the same time, all lanes of She Shan Road (both bounds) are closed to all traffic.",
                 "CONTENT_CN": "因緊急路面維修，林錦公路近社山路現已實施單線雙程行車措施。同時，社山路(來回⽅向)的全線現已封閉。"
+            },
+            "2024-09-01T18:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102500",
+                "CONTENT_EN": "All lanes of Lam Kam Road  near She Shan Road which were closed due to emergency repair of road surface are re-opened to all traffic. At the same time, all lanes of She Shan Road (both bounds) are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的林錦公路近社山路的全線現已解封。 同時，社山路(來回⽅向)的全線現已解封。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-09-01T11:48:09",
-        "last_announcement": "2024-09-01T11:28:00"
+        "last_update": "2024-09-01T18:30:10",
+        "last_announcement": "2024-09-01T18:16:00"
     },
     "IN-24-05063": {
         "description": {
