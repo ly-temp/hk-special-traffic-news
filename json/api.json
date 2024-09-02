@@ -77,38 +77,6 @@
         "last_update": "2024-09-01T01:39:44",
         "last_announcement": "2024-09-01T01:30:00"
     },
-    "IN-24-05037": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced MTR train service from 31 August",
-            "INCIDENT_DETAIL_CN": "8月31日起加強港鐵列車服務",
-            "LOCATION_EN": "East Rail Line, Tseung Kwan O Line and Tuen Ma Line Service Disruption",
-            "LOCATION_CN": "東鐵綫，將軍澳綫及屯馬綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-30T12:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102435",
-                "CONTENT_EN": "MTRCL is enhancing the train service on East Rail Line, Tseung Kwan O Line and Tuen Ma Line during specific periods from 31 August 2024, total 112 extra train trips added each week. For more information, please browse MTRCL website.",
-                "CONTENT_CN": "港鐵將於8月31日起加強東鐵綫、將軍澳綫及屯馬綫部份時段的列車服務，每周共增加112班列車。詳情請瀏覽港鐵網頁。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-08-30T12:33:56",
-        "last_announcement": "2024-08-30T12:18:00"
-    },
     "IN-24-05038": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1654,5 +1622,37 @@
         "district": "南區",
         "last_update": "2024-09-02T11:24:12",
         "last_announcement": "2024-09-02T11:04:00"
+    },
+    "IN-24-05078": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "person in dangerous position",
+            "INCIDENT_DETAIL_CN": "有人在危險位置",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Salisbury Road",
+            "DIRECTION_CN": "梳士巴利道",
+            "NEAR_LANDMARK_EN": "Cameron Road",
+            "NEAR_LANDMARK_CN": "金馬倫道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-02T12:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102528",
+                "CONTENT_EN": "Due to person in dangerous position , part of the lanes of Nathan Road (Salisbury Road bound) near Cameron Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因有人在危險位置，彌敦道(往梳士巴利道方向)近金馬倫道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-09-02T12:41:12",
+        "last_announcement": "2024-09-02T12:27:00"
     }
 }
