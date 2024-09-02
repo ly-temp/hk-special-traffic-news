@@ -77,45 +77,6 @@
         "last_update": "2024-09-01T01:39:44",
         "last_announcement": "2024-09-01T01:30:00"
     },
-    "IN-24-05035": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Princess Margaret Road",
-            "LOCATION_CN": "公主道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Oi Man Estate",
-            "NEAR_LANDMARK_CN": "愛民邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-30T09:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102431",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Oi Man Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，公主道(往海底隧道方向)近愛民邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-30T10:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102432",
-                "CONTENT_EN": "Part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Oi Man Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的公主道(往海底隧道方向)近愛民邨的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-30T10:33:55",
-        "last_announcement": "2024-08-30T10:23:00"
-    },
     "IN-24-05036": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1640,5 +1601,44 @@
         "district": "油尖旺區",
         "last_update": "2024-09-02T09:44:14",
         "last_announcement": "2024-09-02T09:24:00"
+    },
+    "IN-24-05076": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "North Point Fire Station",
+            "NEAR_LANDMARK_CN": "北角消防局",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-02T09:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102522",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-02T10:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102523",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Island Eastern Corridor (Central bound) ends at Island Eastern Corridor near Quarry Bay Park and Lei Yue Mun Road near Lam Tin MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近鰂魚涌公園及鯉魚門道近藍田港鐵站。 現時上址交通擠塞。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-09-02T10:37:10",
+        "last_announcement": "2024-09-02T10:09:00"
     }
 }
