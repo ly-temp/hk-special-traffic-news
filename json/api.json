@@ -116,45 +116,6 @@
         "last_update": "2024-08-31T17:17:18",
         "last_announcement": "2024-08-31T16:50:00"
     },
-    "IN-24-05056": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Flint Road",
-            "NEAR_LANDMARK_CN": "火石道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-31T16:17:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102473",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Flint Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近火石道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-31T16:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102474",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Flint Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近火石道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-31T16:45:55",
-        "last_announcement": "2024-08-31T16:28:00"
-    },
     "IN-24-05057": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
