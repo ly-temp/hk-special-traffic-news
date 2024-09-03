@@ -77,45 +77,6 @@
         "last_update": "2024-09-01T01:39:44",
         "last_announcement": "2024-09-01T01:30:00"
     },
-    "IN-24-05053": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
-            "INCIDENT_DETAIL_CN": "緊急路面維修",
-            "LOCATION_EN": "West Kowloon Highway",
-            "LOCATION_CN": "西九龍公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Western Harbour Crossing",
-            "DIRECTION_CN": "西區海底隧道",
-            "NEAR_LANDMARK_EN": "Lai Chi Kok Park",
-            "NEAR_LANDMARK_CN": "荔枝角公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-31T10:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102468",
-                "CONTENT_EN": "Due to emergency road surface works , the slow lane of West Kowloon Highway (Western Harbour Crossing bound) near Lai Chi Kok Park is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因緊急路面工程，西九龍公路(往西區海底隧道方向)近荔枝角公園的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-08-31T13:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102470",
-                "CONTENT_EN": "The slow lane of West Kowloon Highway (Western Harbour Crossing bound) near Lai Chi Kok Park which was closed due to emergency road surface works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急路面工程而封閉的西九龍公路(往西區海底隧道方向)近荔枝角公園的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-08-31T13:29:08",
-        "last_announcement": "2024-08-31T13:04:00"
-    },
     "IN-24-05054": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
