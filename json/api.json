@@ -1560,10 +1560,191 @@
                 "ID": "102558",
                 "CONTENT_EN": "Due to emergency repairing works , all lanes of Cheung Tsing Tunnel (Airport bound) is still being closed to all traffic. \nBesides, the one-tube-two-way traffic arrangement is still being implemented on Cheung Tsing Tunnel (Kowloon bound).   Traffic queue on Cheung Tsing Tunnel (Airport bound) ends at Tsing Kwai Highway near Kwai Chung Park and traffic queue on Cheung Tsing Tunnel (Kowloon bound) ends at Tsing Long Highway (Ting Kau Bridge).   Traffic is congested now.",
                 "CONTENT_CN": "因緊急維修，長青隧道(往機場方向)的全線仍然封閉。\n同時，⻑⻘隧道(往九⿓⽅向)現仍然實施單管雙程⾏⾞措施。  現時在長青隧道(往機場方向)的車龍龍尾已到青葵公路近葵涌公園及長青隧道(往九龍方向)的車龍龍尾已到青朗公路(汀九橋)。  現時上址交通擠塞。"
+            },
+            "2024-09-03T08:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102565",
+                "CONTENT_EN": "Tunnel tube fast and middle lanes of Cheung Tsing Tunnel (Airport bound) which were closed due to emergency repairing works are re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的長青隧道(往機場方向)的管道快線及中線現已解封。車龍有待消散。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-09-03T07:58:43",
-        "last_announcement": "2024-09-03T07:43:00"
+        "last_update": "2024-09-03T09:41:34",
+        "last_announcement": "2024-09-03T08:31:00"
+    },
+    "IN-24-05091": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lai Chi Kok Road",
+            "LOCATION_CN": "荔枝角道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Chung",
+            "DIRECTION_CN": "葵涌",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-03T08:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102560",
+                "CONTENT_EN": "The only lane of the slip road leading from Lai Chi Kok Road (Kwai Chung bound) to Cheung Sha Wan Road (Mong Kok bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由荔枝角道(往葵涌方向)通往長沙灣道(往旺角方向) 的支路的 唯一行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-09-03T09:41:34",
+        "last_announcement": "2024-09-03T08:01:00"
+    },
+    "IN-24-05092": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Hing Fong Road",
+            "NEAR_LANDMARK_CN": "興芳路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-03T08:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102562",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Kowloon bound) near Hing Fong Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近興芳路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-03T08:31:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "102566",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Hing Fong Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近興芳路的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-09-03T09:41:34",
+        "last_announcement": "2024-09-03T08:31:00"
+    },
+    "IN-24-05093": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "traffic accident happened earlier",
+            "INCIDENT_DETAIL_CN": "較早前交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sha Tin Racecourse",
+            "NEAR_LANDMARK_CN": "沙田馬場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-03T08:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102563",
+                "CONTENT_EN": "Due to traffic accident happened earlier , Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "因較早前交通意外，大埔公路　–　沙田段(往九龍方向)近沙田馬場的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-09-03T09:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102568",
+                "CONTENT_EN": "Traffic at Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse has resumed normal.",
+                "CONTENT_CN": "大埔公路　–　沙田段(往九龍方向)近沙田馬場的交通現已恢復正常。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-09-03T09:41:34",
+        "last_announcement": "2024-09-03T09:14:00"
+    },
+    "IN-24-05094": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Shenzhen Bay Bridge",
+            "LOCATION_CN": "深圳灣公路大橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Shenzhen Bay Port",
+            "DIRECTION_CN": "深圳灣口岸",
+            "NEAR_LANDMARK_EN": "chainage marker 3.6",
+            "NEAR_LANDMARK_CN": "里程標誌3.6處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-03T09:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102567",
+                "CONTENT_EN": "Due to road incident, the slow lane of Shenzhen Bay Bridge (Shenzhen Bay Port bound) near chainage marker 3.6 is closed to all traffic. \nOnly remaining lanes are available to motorists.",
+                "CONTENT_CN": "因道路事故，深圳灣公路大橋(往深圳灣口岸方向)近里程標誌3.6處的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-03T09:41:34",
+        "last_announcement": "2024-09-03T09:02:00"
+    },
+    "IN-24-05095": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "West Kowloon Highway",
+            "LOCATION_CN": "西九龍公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Western Harbour Crossing",
+            "DIRECTION_CN": "西區海底隧道",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-03T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102569",
+                "CONTENT_EN": "West Kowloon Highway (Western Harbour Crossing bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "西九龍公路(往西區海底隧道方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-09-03T09:41:34",
+        "last_announcement": "2024-09-03T09:20:00"
     }
 }
