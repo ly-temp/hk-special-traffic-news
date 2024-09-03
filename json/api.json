@@ -77,52 +77,6 @@
         "last_update": "2024-09-01T01:39:44",
         "last_announcement": "2024-09-01T01:30:00"
     },
-    "IN-24-05061": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Tsing Tin Interchange",
-            "NEAR_LANDMARK_CN": "青田交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-31T18:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102484",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Interchange is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近青田交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-08-31T18:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102487",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Interchange is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tuen Mun Road (Yuen Long bound) ends at Tuen Mun Road near Hong Kong Gold Coast. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近青田交匯處的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往元朗方向)的車龍龍尾已到屯門公路近香港黃金海岸。 現時上址交通擠塞。"
-            },
-            "2024-08-31T19:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102488",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Interchange which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近青田交匯處的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-08-31T19:57:18",
-        "last_announcement": "2024-08-31T19:40:00"
-    },
     "IN-24-05062": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1904,11 +1858,18 @@
                 "ID": "102598",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central (Sheung Wan bound) near Pottinger Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，干諾道中(往上環方向)近砵典乍街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-03T19:54:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "102603",
+                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Sheung Wan bound) near Pottinger Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往上環方向)近砵典乍街的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-09-03T19:23:31",
-        "last_announcement": "2024-09-03T19:15:00"
+        "last_update": "2024-09-03T20:31:15",
+        "last_announcement": "2024-09-03T19:54:00"
     },
     "IN-24-05109": {
         "description": {
@@ -1936,11 +1897,18 @@
                 "ID": "102599",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lin Cheung Road (Kwai Chung bound) near Civil Aid Service Headquarters is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，連翔道(往葵涌方向)近民眾安全服務隊總部的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-03T20:06:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "102605",
+                "CONTENT_EN": "Part of the lanes of Lin Cheung Road (Kwai Chung bound) near Civil Aid Service Headquarters which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的連翔道(往葵涌方向)近民眾安全服務隊總部的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-09-03T19:34:57",
-        "last_announcement": "2024-09-03T19:19:00"
+        "last_update": "2024-09-03T20:31:15",
+        "last_announcement": "2024-09-03T20:06:00"
     },
     "IN-24-05110": {
         "description": {
@@ -1968,11 +1936,18 @@
                 "ID": "102600",
                 "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Gascoigne Road Flyover (Tai Kok Tsui bound) near Hong Kong Girl Guides Association Headquarters is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，加士居道天橋(往大角咀方向)近香港女童軍總會的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-03T20:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102604",
+                "CONTENT_EN": "The fast lane of Gascoigne Road Flyover (Tai Kok Tsui bound) near Hong Kong Girl Guides Association Headquarters which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的加士居道天橋(往大角咀方向)近香港女童軍總會的快線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-09-03T19:45:08",
-        "last_announcement": "2024-09-03T19:29:00"
+        "last_update": "2024-09-03T20:31:15",
+        "last_announcement": "2024-09-03T20:02:00"
     },
     "IN-24-05111": {
         "description": {
@@ -2000,10 +1975,17 @@
                 "ID": "102601",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Tsuen Wan Sports Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往屯門方向)近荃灣體育館的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-03T19:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102602",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Tsuen Wan Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往屯門方向)近荃灣體育館的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-09-03T19:55:20",
-        "last_announcement": "2024-09-03T19:46:00"
+        "last_update": "2024-09-03T20:31:15",
+        "last_announcement": "2024-09-03T19:53:00"
     }
 }
