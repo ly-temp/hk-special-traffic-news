@@ -77,38 +77,6 @@
         "last_update": "2024-09-01T01:39:44",
         "last_announcement": "2024-09-01T01:30:00"
     },
-    "IN-24-05059": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Phoenix House",
-            "NEAR_LANDMARK_CN": "豐力樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-31T18:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102481",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Phoenix House is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近豐力樓的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-08-31T18:35:47",
-        "last_announcement": "2024-08-31T18:18:00"
-    },
     "IN-24-05060": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1936,10 +1904,17 @@
                 "ID": "102596",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Container Port Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，荃灣路(往屯門方向)近貨櫃碼頭路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-03T18:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102597",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Container Port Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往屯門方向)近貨櫃碼頭路的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-09-03T18:30:49",
-        "last_announcement": "2024-09-03T18:06:00"
+        "last_update": "2024-09-03T18:42:28",
+        "last_announcement": "2024-09-03T18:25:00"
     }
 }
