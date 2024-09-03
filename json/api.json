@@ -1709,11 +1709,18 @@
                 "ID": "102567",
                 "CONTENT_EN": "Due to road incident, the slow lane of Shenzhen Bay Bridge (Shenzhen Bay Port bound) near chainage marker 3.6 is closed to all traffic. \nOnly remaining lanes are available to motorists.",
                 "CONTENT_CN": "因道路事故，深圳灣公路大橋(往深圳灣口岸方向)近里程標誌3.6處的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-09-03T10:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102573",
+                "CONTENT_EN": "The slow lane of Shenzhen Bay Bridge (Shenzhen Bay Port bound) near chainage marker 3.6 which was closed due to road incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路事故而封閉的深圳灣公路大橋(往深圳灣口岸方向)近里程標誌3.6處的慢線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-09-03T09:41:34",
-        "last_announcement": "2024-09-03T09:02:00"
+        "last_update": "2024-09-03T11:16:40",
+        "last_announcement": "2024-09-03T10:53:00"
     },
     "IN-24-05095": {
         "description": {
@@ -1741,11 +1748,18 @@
                 "ID": "102569",
                 "CONTENT_EN": "West Kowloon Highway (Western Harbour Crossing bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "西九龍公路(往西區海底隧道方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-09-03T10:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102574",
+                "CONTENT_EN": "Traffic at West Kowloon Highway (Western Harbour Crossing bound) has resumed normal.",
+                "CONTENT_CN": "西九龍公路(往西區海底隧道方向)的交通現已恢復正常。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-09-03T09:41:34",
-        "last_announcement": "2024-09-03T09:20:00"
+        "last_update": "2024-09-03T11:16:40",
+        "last_announcement": "2024-09-03T10:56:00"
     },
     "IN-24-05096": {
         "description": {
