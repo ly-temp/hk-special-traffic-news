@@ -38,45 +38,6 @@
         "last_update": "2024-09-01T09:56:22",
         "last_announcement": "2024-09-01T08:02:00"
     },
-    "IN-24-05032": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Tung Chau Street",
-            "LOCATION_CN": "通州街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Prince Edward Road West",
-            "NEAR_LANDMARK_CN": "太子道西",
-            "BETWEEN_LANDMARK_EN": "Lime Street",
-            "BETWEEN_LANDMARK_CN": "菩提街",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-30T07:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102425",
-                "CONTENT_EN": "Due to watermain burst , the only lane of the section of Tung Chau Street  between Prince Edward Road West and Lime Street is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管爆裂，通州街介乎太子道西與菩提街之間的一段唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-09-01T01:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102489",
-                "CONTENT_EN": "The only lane of the section of Tung Chau Street  between Prince Edward Road West and Lime Street which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的通州街介乎太子道西與菩提街之間的一段唯一行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-09-01T01:39:44",
-        "last_announcement": "2024-09-01T01:30:00"
-    },
     "IN-24-05062": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
