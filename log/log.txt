@@ -712,3 +712,6 @@ del: IN-24-05062
 2024-09-05 01:21:45
 20240905-0101[E]: 'NoneType' object has no attribute 'pop'
 
+2024-09-05 01:36:23
+20240905-0131[E]: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
