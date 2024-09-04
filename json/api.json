@@ -1,43 +1,4 @@
 {
-    "IN-24-05026": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Pok Fu Lam Road",
-            "LOCATION_CN": "薄扶林道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Pok Fu Lam Reservoir Road",
-            "NEAR_LANDMARK_CN": "薄扶林水塘道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-08-29T19:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102406",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Pok Fu Lam Road (both bounds) near Pok Fu Lam Reservoir Road are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，薄扶林道(來回方向)近薄扶林水塘道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-01T08:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102490",
-                "CONTENT_EN": "Part of the lanes of Pok Fu Lam Road (both bounds) near Pok Fu Lam Reservoir Road which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的薄扶林道(來回方向)近薄扶林水塘道的部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-09-01T09:56:22",
-        "last_announcement": "2024-09-01T08:02:00"
-    },
     "IN-24-05062": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2131,11 +2092,25 @@
                 "ID": "102615",
                 "CONTENT_EN": "The following road sections are busy:\n– Lion Rock Tunnel Road (Kowloon bound)\n– Tai Po Road - Sha Tin (Kowloon bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–獅子山隧道公路(往九龍方向)\n–大埔公路　–　沙田段(往九龍方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-09-04T09:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102623",
+                "CONTENT_EN": "The following road sections are busy:\n– Lion Rock Tunnel Road (Kowloon bound)\n– West Kowloon Highway (Western Harbour Crossing bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   At the same time, traffic at the following road section has resumed normal:\n– Tai Po Road - Sha Tin (Kowloon bound).",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–獅子山隧道公路(往九龍方向)\n–西九龍公路(往西區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n-⼤埔公路-沙⽥段(往九⿓⽅向)。"
+            },
+            "2024-09-04T09:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102626",
+                "CONTENT_EN": "The following road section is still busy:\n– West Kowloon Highway (Western Harbour Crossing bound)\nMotorists passing through the above road section are advised to drive with utmost care and patience.   At the same time, traffic at the following road section has resumed normal:\n– Lion Rock Tunnel Road (Kowloon bound).",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–西九龍公路(往西區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n–獅子山隧道公路(往九龍方向)。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-09-04T08:45:42",
-        "last_announcement": "2024-09-04T08:26:00"
+        "last_update": "2024-09-04T10:02:20",
+        "last_announcement": "2024-09-04T09:32:00"
     },
     "IN-24-05117": {
         "description": {
@@ -2163,10 +2138,184 @@
                 "ID": "102616",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Nathan Road (Tsim Sha Tsui bound) near Mong Kok Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，彌敦道(往尖沙咀方向)近旺角道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-04T09:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102627",
+                "CONTENT_EN": "Part of the lanes of Nathan Road (Tsim Sha Tsui bound) near Mong Kok Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的彌敦道(往尖沙咀方向)近旺角道的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-09-04T08:45:42",
-        "last_announcement": "2024-09-04T08:38:00"
+        "last_update": "2024-09-04T10:02:20",
+        "last_announcement": "2024-09-04T09:37:00"
+    },
+    "IN-24-05118": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Fu Tai Estate",
+            "NEAR_LANDMARK_CN": "富泰邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-04T08:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102617",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Yuen Long Highway (Tuen Mun bound) near Fu Tai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近富泰邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-04T09:08:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "102622",
+                "CONTENT_EN": "The fast lane of Yuen Long Highway (Tuen Mun bound) near Fu Tai Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往屯門方向)近富泰邨的快線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-09-04T10:02:20",
+        "last_announcement": "2024-09-04T09:08:00"
+    },
+    "IN-24-05119": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Elegance Road",
+            "LOCATION_CN": "雅麗道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong Road",
+            "DIRECTION_CN": "觀塘道",
+            "NEAR_LANDMARK_EN": "Ngau Tau Kok MTR Station",
+            "NEAR_LANDMARK_CN": "牛頭角港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-04T08:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102619",
+                "CONTENT_EN": "Part of the lanes of Elegance Road (Kwun Tong Road bound) near Ngau Tau Kok MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的雅麗道(往觀塘道方向)近牛頭角港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-04T10:02:20",
+        "last_announcement": "2024-09-04T08:57:00"
+    },
+    "IN-24-05120": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-04T09:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102620",
+                "CONTENT_EN": "Due to vessel defect, the following Inner Harbour ferry service will be or have been suspended. Fortune Ferry Company Limited -Central to Hung Hom : suspended at 08:30 am -Hung Hom to Central : suspended at 08:50 am",
+                "CONTENT_CN": "因船隻機件故障，以下港內渡輪服務將會或已經停航。 富裕⼩輪有限公司 -中環⾄紅磡:上午08時30分暫停 -紅磡⾄中環:上午08時50分暫停"
+            }
+        },
+        "district": null,
+        "last_update": "2024-09-04T10:02:20",
+        "last_announcement": "2024-09-04T09:04:00"
+    },
+    "IN-24-05121": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Nai Chung Gap Road",
+            "LOCATION_CN": "黃泥涌峽道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Happy Valley",
+            "DIRECTION_CN": "跑馬地",
+            "NEAR_LANDMARK_EN": "The Hong Kong Cricket Club",
+            "NEAR_LANDMARK_CN": "香港木球會",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-04T09:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102621",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Nai Chung Gap Road (Happy Valley bound) near The Hong Kong Cricket Club is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，黃泥涌峽道(往跑馬地方向)近香港木球會的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-09-04T10:02:20",
+        "last_announcement": "2024-09-04T09:08:00"
+    },
+    "IN-24-05122": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Queensway",
+            "LOCATION_CN": "金鐘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wan Chai",
+            "DIRECTION_CN": "灣仔",
+            "NEAR_LANDMARK_EN": "United Centre",
+            "NEAR_LANDMARK_CN": "統一中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-04T09:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102625",
+                "CONTENT_EN": "Part of the lanes of Queensway (Wan Chai bound) near United Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的金鐘道(往灣仔方向)近統一中心的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-09-04T10:02:20",
+        "last_announcement": "2024-09-04T09:25:00"
     }
 }
