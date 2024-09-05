@@ -1,43 +1,4 @@
 {
-    "IN-24-05077": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Repulse Bay Road",
-            "LOCATION_CN": "淺水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Belleview Drive",
-            "NEAR_LANDMARK_CN": "麗景道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-02T10:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102525",
-                "CONTENT_EN": "Due to vehicle breakdown , the one-lane-two-way traffic arrangement is being implemented on Repulse Bay Road near Belleview Drive. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，淺水灣道近麗景道現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-09-02T11:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102527",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Repulse Bay Road near Belleview Drive due to vehicle breakdown is now cancelled.",
-                "CONTENT_CN": "較早前因車輛故障而於淺水灣道近麗景道實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-09-02T11:24:12",
-        "last_announcement": "2024-09-02T11:04:00"
-    },
     "IN-24-05078": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2508,5 +2469,69 @@
         "district": "元朗區",
         "last_update": "2024-09-05T10:47:19",
         "last_announcement": "2024-09-05T10:29:00"
+    },
+    "IN-24-05146": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "King's Road",
+            "LOCATION_CN": "英皇道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Causeway Bay",
+            "DIRECTION_CN": "銅鑼灣",
+            "NEAR_LANDMARK_EN": "Healthy Street West",
+            "NEAR_LANDMARK_CN": "健康西街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-05T10:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102680",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of King's Road (Causeway Bay bound) near Healthy Street West is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，英皇道(往銅鑼灣方向)近健康西街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-09-05T11:24:36",
+        "last_announcement": "2024-09-05T10:59:00"
+    },
+    "IN-24-05147": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Road",
+            "DIRECTION_CN": "屯門公路",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-05T11:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102681",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of the slip road leading from Tsuen Wan Road (Tuen Mun Road bound) to Tai Chung Road  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由荃灣路(往屯門公路方向)通往大涌道 的支路的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-09-05T11:24:36",
+        "last_announcement": "2024-09-05T11:06:00"
     }
 }
