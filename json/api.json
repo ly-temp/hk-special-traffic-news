@@ -1,121 +1,4 @@
 {
-    "IN-24-05084": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kowloon Flour Mills",
-            "NEAR_LANDMARK_CN": "九龍麵粉廠",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-02T18:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102541",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-02T19:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102547",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong Bypass (Yau Tong bound) ends at Kwun Tong Bypass near Richland Garden. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往油塘方向)的車龍龍尾已到觀塘繞道近麗晶花園。 現時上址交通擠塞。"
-            },
-            "2024-09-02T19:59:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "102550",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-09-02T20:43:46",
-        "last_announcement": "2024-09-02T19:59:00"
-    },
-    "IN-24-05085": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ting Kok Road",
-            "LOCATION_CN": "汀角路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Mei Tuk",
-            "DIRECTION_CN": "大尾篤",
-            "NEAR_LANDMARK_EN": "Dai Kwai Street",
-            "NEAR_LANDMARK_CN": "大貴街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-02T19:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102548",
-                "CONTENT_EN": "Part of the lanes of Ting Kok Road (Tai Mei Tuk bound) near Dai Kwai Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的汀角路(往大尾篤方向)近大貴街的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-09-02T20:43:46",
-        "last_announcement": "2024-09-02T19:50:00"
-    },
-    "IN-24-05087": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Sha Tin Sewage Treatment Works",
-            "NEAR_LANDMARK_CN": "沙田污水處理廠",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-02T19:59:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102549",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Tai Po bound) near Sha Tin Sewage Treatment Works is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往大埔方向)近沙田污水處理廠的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-02T20:27:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "102551",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Tai Po bound) near Sha Tin Sewage Treatment Works which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往大埔方向)近沙田污水處理廠的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-02T20:43:46",
-        "last_announcement": "2024-09-02T20:27:00"
-    },
     "IN-24-05088": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2031,11 +1914,18 @@
                 "ID": "102715",
                 "CONTENT_EN": "Due to the effect of tropical cyclone, the ferry/kaito services arrangements are as follows: Will be suspended Coral Sea Ferry Service Company Limited -Kwun Tong to Sai Wan Ho: Departure Time of Last Sailings at 5:18 PM -Sai Wan Ho To Kwun Tong: Departure Time of Last Sailings at 5:33 PM -Sam Ka Tsuen to Sai Wan Ho: Departure Time of Last Sailings at 5:30PM -Sai Wan Ho to Sam Ka Tsuen: Departure Time of Last Sailings at 5:15PM Tsui Wah Ferry Service (H. K. ) Limited -Aberdeen to Lamma Island Pak Kok Tsuen and Yung Shue Wan: Departure Time of Last Sailings at 5:50 PM - Yung Shue Wan to Aberdeen: Departure Time of Last Sailings at 6:35 PM - Peng Chau to Discovery Bay via Trappist Monastery: Departure Time of Last Sailings at 6:45 PM -Discovery Bay to Peng Chau via Trappist Monastery: Departure Time of Last Sailings at 7:00 PM Sun Ferry Services Company Ltd. - Central to Cheung Chau : Departure Time of Last Sailings at 8:00 PM - Cheung Chau to Central : Departure Time of Last Sailings at 8:00 PM - Central to Mui Wo : Departure Time of Last Sailings at 7:30 PM - Mui Wo to Central : Departure Time of Last Sailings at 7:30 PM -Mui Wo to Peng Chau - Departure Time of Last Sailings 3:20 PM Park Island Transport Company Limited -Park Island to Tsuen Wan - Departure Time of Last Sailings 4:15 PM -Tsuen Wan to Park Island - Departure Time of Last Sailings 4:35 PM -Park Island to Central - Departure Time of Last Sailings 7:00 PM -Central to Park Island - Departure Time of Last Sailings 7:30 PM Fortune Ferry Company Limited -North Point to Kwun Tong - Departure Time of Last Sailings 6:30 PM -Kwun Tong to North Point - Departure Time of Last Sailings 6:45 PM -Central to Hung Hum - Departure Time of Last Sailings 6:40 PM -Hung Hum to Central - Departure Time of Last Sailings 6:20 PM -Hong Kong Water Taxi: -Tsim Sha Tsui East - Departure Time of Last Sailings 5:20 PM -Wan Chai - Departure Time of Last Sailings 5:35 PM and 6:05PM -Central - Departure Time of Last Sailings 5:50 PM The \"Star\" Ferry Company, Limited -Central to Tsim Sha Tsui - Departure Time of Last Sailings 7:30 PM -Tsim Sha Tsui to Central - Departure Time of Last Sailings 7:30 PM Chuen Kee Ferry Limited -Aberdeen to Sok Kwu Wan - Departure Time of Last Sailings 4:30 PM - Sok Kwu Wan to Aberdeen - Departure Time of Last Sailings 5:20 PM Hong Kong &amp; Kowloon Ferry Limited - Central to Yung Shue Wan : Departure Time of Last Sailings at 7:30 PM suspended - Yung Shue Wan to Central : Departure Time of Last Sailings at 7:20 PM suspended - Central to Sok Kwu Wan : Departure Time of Last Sailings at 6:45 PM suspended - Sok Kwu Wan to Central : Departure Time of Last Sailings at 6:00 PM suspended -Central to Peng Chau : Departure Time of Last Sailings at 7:30 PM -Peng Chau to Central : Departure Time of Last Sailings at 7:20 PM - Peng Chau to Hei Ling Chau : Departure Time of Last Sailings at 6:30 PM - Hei Ling Chau to Peng Chau : Departure Time of Last Sailings at 6:40 PM Have been suspended Tsui Wah Ferry Service (H. K. ) Limited - Aberdeen - Po Toi Island - Ma Liu Shui - Tap Mun - Wong Shek - Tap Mun Best Sonic Industrial Limited - Sha Tau Kok - Lai Chi Wo/Ap Chau/Kat O - Tai Shui Hang - Lai Chi Wo/Kat O/Ap Chau Yun Lee Marine Holdings Limited - Tseung Kwan O (South) - Sai Wan Ho Fortune Ferry Company Limited - Tuen Mun - Tung Chung - Sha Lo Wan - Tai O",
                 "CONTENT_CN": "因受熱帶氣旋的影響，以下渡輪/街渡服務安排如下： 將會暫停服務 珊瑚海船務有限公司 -觀塘至西灣河–尾班船將於下午5時18分開出 -西灣河至觀塘–尾班船將於下午5時33分開出 -三家村至西灣河–尾班船將於下午5時30分開出 -西灣河至三家村–尾班船將於下午5時15分開出 翠華船務（香港）有限公司 -香港仔至南丫島北角村及榕樹灣：尾班船將於下午5時50分開出 -榕樹灣至香港仔：尾班船將於下午6時35分開出 -坪洲至愉景灣：尾班船將於下午6時45分開出 -愉景灣至坪洲：尾班船將於下午7時00分開出 新渡輪服務有限公司 -中環往長洲：尾班船將於下午8時開出 -長洲往中環：尾班船已於下午8時開出 -中環往梅窩：尾班船將於下午7時30開出 -梅窩往中環：尾班船將於下午7時30分開出 珀麗灣客運有限公司 -珀麗灣至荃灣：尾班船將於下午4時15分開出 -荃灣至珀麗灣：尾班船將於下午4時35分開出 -珀麗灣至中環：尾班船將於下午7時00分開出 -中環至珀麗灣：尾班船將於下午7時30分開出 富裕小輪有限公司 -北角至官塘：尾班船將於下午6時30分開出 -官塘至北角：尾班船將於下午6時45分開出 -中環至紅磡：尾班船將於下午6時40分開出 -紅磡至中環：尾班船將於下午6時20分開出 -香港水上的士循環線： -尖東尾班船將於下午5時20分開出 -灣仔尾班船將於下午5時35分及下午6時05分開出 -中環尾班船將於下午5時50分開出 天星小輪有限公司 -中環至尖沙咀：尾班船將於下午7時30分開出 -尖沙咀至中環：尾班船將於下午7時30分開出 全記渡有限公司 -香港仔至索罟灣：尾班船將於下午4時30分開出 -索罟灣至香港仔：尾班船將於下午5時20分開出 港九小輪有限公司 -中環往榕樹灣：尾班船將於下午7時30分開出 -榕樹灣往中環：尾班船將於下午7時20分開出 -中環往坪洲：尾班船將於下午7時30分開出 -坪洲往中環：尾班船將於下午7時20分開出 -坪洲往喜靈洲：尾班船將於下午6時30分開出 -喜靈洲往坪洲：尾班船將於下午6時40分開出 現已暫停服務 翠華船務（香港）有限公司 -香港仔-蒲苔島 -馬料水-塔門 -黃石-塔門 聲威實業有限公司 -沙頭角-荔枝窩/鴨洲/吉澳 -大水坑-荔枝窩/吉澳/鴨洲 潤利海事控股有限公司 -將軍澳(南)-西灣河 富裕小輪有限公司 -屯門—東涌—沙螺灣—大澳"
+            },
+            "2024-09-05T20:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102742",
+                "CONTENT_EN": "Due to typhoon, all inner harbour and outlying islands ferry/kaito services have been suspended until further notice.",
+                "CONTENT_CN": "因強風，所有港內線及港外線渡輪/街渡服務均已停止服務，直至另行通知。"
             }
         },
         "district": null,
-        "last_update": "2024-09-05T17:27:12",
-        "last_announcement": "2024-09-05T17:08:00"
+        "last_update": "2024-09-05T20:44:21",
+        "last_announcement": "2024-09-05T20:23:00"
     },
     "IN-24-05141": {
         "description": {
@@ -2605,11 +2495,18 @@
                 "ID": "102739",
                 "CONTENT_EN": "Due to the effect of tropical cyclone, the public transport services arrangement are as follows: MTR Rail and MTR Bus services are now maintaining at peak hours schedule and will be gradually reduced later on. The MTR Bus service will be suspended 3 hours after the issuing of Signal 8. The In-town Check-in service close-out time is adjusted to 120 minutes before scheduled flight departure time. Please allow additional time for travel as Crowd Management Measures may be in place in some stations. Service on open sections of the Railway, Light Rail and MTR Bus will be suspended immediately if Signal 9 or above is issued. MTR service arrangements are as follows: Line Service Tsuen Wan Line 2-minute intervals Kwun Tong Line 2.3-minute intervals Island Line 2-minute intervals South Island Line 3.3-minute intervals Tseung Kwan O Line North Point Station - Po Lam Station : 2.6-4.1-minute intervals North Point Station - LOHAS Park Station : 6.7-minute intervals Tung Chung Line Hong Kong Station - Tsing Yi Station : 3-5-minute intervals Hong Kong Station - Tung Chung Station : 4-8-minute intervals Disneyland Resort Line 10-minute intervals Airport Express 10-minute intervals East Rail Line Admiralty Station - Lo Wu Station : 3-6-minute intervals Admiralty Station - Lok Ma Chau Station : 10-minute intervals Tuen Ma Line 3-minute intervals Light Rail 5-18-minute intervals MTR Bus 3-8-minute intervals KMB and LWB All daytime KMB and LWB routes will be suspended from 20:30hrs, except the following routes which will maintain a limited service level, connecting to MTR stations or border control points, until the last departures or further notice: North District: 70K, 78A, 273A Sha Tin District: 80K, 81K, 83K, 85K, 86K, 87K, 285, 287 Tai Po District: 71A, 72K, 272A East Kowloon: 3M, 7M, 16M, 23M, 213M, 216M Tseung Kwan O: 296M Kwai Tsing and Tsuen Wan: 31M, 34M, 36, 37M, 39M, 248M, 249M Boundary routes: B1, B9, 276B Airport routes: S1, S64 Routes K12, K14, K17, K18 will be suspended from 21:20 hrs. All overnight services of KMB and LWB routes will be suspended. Citybus Except for Routes B3X, B7 and S1, all daytime routes of Citybus will gradually suspend service from 2030 hrs. NLB Routes 37M, 38, 39M, B2, B2P, B4 and B6 will provide limited service at 20:20 hrs. The following services are going to suspend: Route 1: Mui Wo to Tai O: 20:10; Tai O to Mui Wo: 20:30 Route 2: Mui Wo to Ngong Ping: 16:50; Ngong Ping to Mui Wo: 18:35 Route 3M: Mui Wo to Tung Chung Station Bus Terminus: 20:30; Tung Chung Station Bus Terminus to Mui Wo: 20:35 Route 4: Mui Wo to Tong Fuk: 19:30; Tong Fuk to Mui Wo: 15:25 Route 11: Tung Chung Station Bus Terminus to Tai O: 20:30; Tai O to Tung Chung Station Bus Terminus: 20:20 Route A35: Mui Wo to HZMB Hong Kong Port: 17:00; HZMB Hong Kong Port to Mui Wo: 18:15 Route 21: Tai O to Ngong Ping: 16:45; Ngong Ping to Tai O: 18:15 Route 23: Tung Chung Station Bus Terminus to Ngong Ping: 18:10; Ngong Ping to Tung Chung Station Bus Terminus: 19:10 Route 34: Tung Chung Station Bus Terminus to Shek Mun Kap: 20:30; Shek Mun Kap to Tung Chung Station Bus Terminus: 20:15 Route 36: Tung Chung Station Bus Terminus to Disneyland: 19:30; Disneyland to Tung Chung Station Bus Terminus: 20:05 Route 37H: depart from Ying Tung Estate: 20:30 Tram Service East bound -Kennedy Town>Happy Valley : last departure at 18:30 -Kennedy Town >Sai Wan Ho Depot : last departure at 19:05 -Shek Tong Tsui>North Point : last departure at 18:30 -Shek Tong Tsui >Causeway Bay: last departure at 18:35 -Western Market>Shau Kei Wan: last departure at 19:15 West bound - Shau Kei Wan > Western Market : last departure at 18:00 - Shau Kei Wan >Happy Valley : last departure at 18:30 - Shau Kei Wan >Whitty Street Depot : last departure at 19:05 -North Point > Shek Tong Tsui: last departure at 19:30 - Causeway Bay > Shek Tong Tsui: last departure at 19:30 Happy Valley loop - Happy Valley >Shau Kei Wan: last departure at 19:30 - Happy Valley > Kennedy Town: last departure at 19:30 Park Island Transport Company Limited Route NR334 Park Island to Airport: last departure at 19:30 (via HZMB Hong Kong Port) Airport to Park Island: last departure at 20:00 Central to Mid-Levels Escalator Service suspended at 20:20",
                 "CONTENT_CN": "因受熱帶氣旋的影響，公共運輸服務安排如下： 港鐵 鐵路及港鐵巴士服務維持繁忙時段班次，稍後逐步減少。 八號風球發出三小時後，港鐵巴士服務停止。 市區預辦登機服務調整至航班起飛前120分鐘截止。 部分車站或會實施客流管理措施，請預留額外乘車時間。 若改發九號或以上風球，露天段列車、輕鐵及港鐵巴士服務將即時暫停。 港鐵服務安排如下: 行車綫服務 荃灣綫2 分鐘一班 觀塘綫2.3 分鐘一班 港島綫2 分鐘一班 南港島綫3.3 分鐘一班 將軍澳綫 北角站-寶琳站:2.6-4.1 分鐘一班 北角站-康城站:6.7 分鐘一班 東涌綫 香港站-青衣站:3-5 分鐘一班 香港站-東涌站:4-8 分鐘一班 迪士尼綫10 分鐘一班 機場快綫10 分鐘一班 東鐵綫 金鐘站-羅湖站:3-6 分鐘一班 金鐘站-落馬洲站:10 分鐘一班 屯馬綫3 分鐘一班 輕鐵5-18 分鐘一班 港鐵巴士3-8 分鐘一班 九巴及龍運巴士 九巴及龍運所有日間路線將於晚上八時半起陸續暫停，除下述路線會在八號信號生效期間，繼續提供有限度服務，接駁至港鐵站或口岸，直至尾班車或另行通知： 北區：70K、78A、273A 沙田區：80K、81K、83K、85K、86K、87K、285、287 大埔區：71A、72K、272A 九龍東：3M、7M、16M、23M、213M、216M 將軍澳：296M 葵青及荃灣：31M、34M、36、37M、39M、248M、249M 口岸路線：B1、B9、276B 機場路線：S1、S64 路線K12、K14、K17、K18則於晚上九時二十分起暫停。 而九巴及龍運所有深宵和通宵路線則會暫停服務。 城巴 除B3X,B7及S1,所有日間路線於20:30起陸續暫停服務。 新大嶼山巴士 路線37M、38、39M、B2、B2P、B4及B6由20:20起維持有限度服務。 依照現有班次運作尾班車開出時間將會提前： 路線1:梅窩往大澳:20:10;大澳往梅窩:20:30 路線2:梅窩往昂坪:16:50;昂坪往梅窩:18:35 路綫3M:梅窩往東涌:20:30;東涌往梅窩:20:35 路綫4:梅窩往塘福:19:30;塘福往梅窩:15:25 路綫11:東涌往大澳:20:30;大澳往東涌:20:20 路綫A35:梅窩往大橋香港口岸:17:00;大橋香港口岸往梅窩:18:15 路綫21:大澳往昂坪:16:45;昂坪往大澳:18:15 路綫23:東涌往昂坪:18:10;昂坪往東涌:19:10 路綫34:東涌往石門甲:20:30;石門甲往東涌:20:15 路綫36:東涌往迪士尼:19:30;迪士尼往東涌:20:05 路綫37H:迎東開:20:30 電車服務 東行線 -堅尼地城>跑馬地:尾班車:18:30 -堅尼地城>西灣河電車廠:尾班車:19:05 -石塘咀>北角:尾班車:18:30 -石塘咀>銅鑼灣:尾班車:18:35 -上環(西港城)>筲箕灣:尾班車:19:15 西行線 -筲箕灣>上環(西港城):尾班車:18:00 -筲箕灣>跑馬地:尾班車:18:30 -筲箕灣>屈地街電車廠:尾班車:19:05 -北角>石塘咀:尾班車:19:30 -銅鑼灣>石塘咀:尾班車:19:30 跑馬地圈 -跑馬地>筲箕灣:尾班車:19:30 -跑馬地>堅尼地城:尾班車:19:30 珀麗灣客運 路線NR334 由珀麗灣往機場:尾班車19:30 (經港珠澳口岸) 由機場往珀麗灣:尾班車20:00 中環至半山自動扶梯 暫停服務20:20"
+            },
+            "2024-09-05T20:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102745",
+                "CONTENT_EN": "Due to the effect of tropical cyclone, the public transport services arrangement are as follows: MTR Rail and MTR Bus services are gradually being adjusted to non-peak schedules. The MTR Bus service will be suspended 3 hours after the issuing of Signal 8. The In-town Check-in service close-out time is adjusted to 120 minutes before scheduled flight departure time. Please allow additional time for travel as Crowd Management Measures may be in place in some stations. Service on open sections of the Railway, Light Rail and MTR Bus will be suspended immediately if Signal 9 or above is issued. KMB and LWB All daytime KMB and LWB routes will be suspended from 2030 hrs, except the following routes which will maintain a limited service level, connecting to MTR stations or border control points, until the last departures or further notice: North District: 70K, 78A, 273A Sha Tin District: 80K, 81K, 83K, 85K, 86K, 87K, 285, 287 Tai Po District: 71A, 72K, 272A East Kowloon: 3M, 7M, 16M, 23M, 213M, 216M Tseung Kwan O: 296M Kwai Tsing and Tsuen Wan: 31M, 34M, 36, 37M, 39M, 248M, 249M Boundary routes: B1, B9, 276B Airport routes: S1, S64 Routes K12, K14, K17, K18 will be suspended from 2120 hrs. All overnight services of KMB and LWB routes will be suspended. Citybus Except for Routes B3X, B7 and S1, all daytime routes of Citybus will gradually suspend service from 2030 hrs. NLB Routes 37M, 38, 39M, B2, B2P, B4 and B6 will provide limited service at 2020 hrs. The following services are going to suspend: Route 1: Mui Wo to Tai O: 20:10; Tai O to Mui Wo: 20:30 Route 2: Mui Wo to Ngong Ping: 16:50; Ngong Ping to Mui Wo: 18:35 Route 3M: Mui Wo to Tung Chung Station Bus Terminus: 20:30; Tung Chung Station Bus Terminus to Mui Wo: 20:35 Route 4: Mui Wo to Tong Fuk: 19:30; Tong Fuk to Mui Wo: 15:25 Route 11: Tung Chung Station Bus Terminus to Tai O: 20:30; Tai O to Tung Chung Station Bus Terminus: 20:20 Route A35: Mui Wo to HZMB Hong Kong Port: 17:00; HZMB Hong Kong Port to Mui Wo: 18:15 Route 21: Tai O to Ngong Ping: 16:45; Ngong Ping to Tai O: 18:15 Route 23: Tung Chung Station Bus Terminus to Ngong Ping: 18:10; Ngong Ping to Tung Chung Station Bus Terminus: 19:10 Route 34: Tung Chung Station Bus Terminus to Shek Mun Kap: 20:30; Shek Mun Kap to Tung Chung Station Bus Terminus: 20:15 Route 36: Tung Chung Station Bus Terminus to Disneyland: 19:30; Disneyland to Tung Chung Station Bus Terminus: 20:05 Route 37H: depart from Ying Tung Estate: 20:30 Tram Service East bound -Kennedy Town>Happy Valley : last departure at 18:30 -Kennedy Town >Sai Wan Ho Depot : last departure at 19:05 -Shek Tong Tsui>North Point : last departure at 18:30 -Shek Tong Tsui >Causeway Bay: last departure at 18:35 -Western Market>Shau Kei Wan: last departure at 19:15 West bound - Shau Kei Wan > Western Market : last departure at 18:00 - Shau Kei Wan >Happy Valley : last departure at 18:30 - Shau Kei Wan >Whitty Street Depot : last departure at 19:05 -North Point > Shek Tong Tsui: last departure at 19:30 - Causeway Bay > Shek Tong Tsui: last departure at 19:30 Happy Valley loop - Happy Valley >Shau Kei Wan: last departure at 19:30 - Happy Valley > Kennedy Town: last departure at 19:30 Park Island Transport Company Limited Route NR334 Park Island to Airport: last departure at 19:30 (via HZMB Hong Kong Port) Airport to Park Island: last departure at 20:00 Central to Mid-Levels Escalator Service will be suspended at 2020 hrs",
+                "CONTENT_CN": "因受熱帶氣旋的影響，公共運輸服務安排如下： 港鐵 鐵路及港鐵巴士服務逐步調整至非繁忙時段班次。 八號風球發出三小時後，港鐵巴士服務停止。 市區預辦登機服務調整至航班起飛前120分鐘截止。 部分車站或會實施客流管理措施，請預留額外乘車時間。 若改發九號或以上風球，露天段列車、輕鐵及港鐵巴士服務將即時暫停。 九巴及龍運巴士 九巴及龍運所有日間路線將於晚上8時30分起陸續暫停，除下述路線會在八號信號生效期間，繼續提供有限度服務，接駁至港鐵站或口岸，直至尾班車或另行通知： 北區：70K、78A、273A 沙田區：80K、81K、83K、85K、86K、87K、285、287 大埔區：71A、72K、272A 九龍東：3M、7M、16M、23M、213M、216M 將軍澳：296M 葵青及荃灣：31M、34M、36、37M、39M、248M、249M 口岸路線：B1、B9、276B 機場路線：S1、S64 路線K12、K14、K17、K18則於晚上9時20分起暫停。 而九巴及龍運所有深宵和通宵路線則會暫停服務。 城巴 除B3X,B7及S1,所有日間路線於晚上8時20分起陸續暫停服務。 新大嶼山巴士 路線37M、38、39M、B2、B2P、B4及B6由晚上8時20分起維持有限度服務。 依照現有班次運作尾班車開出時間將會提前： 路線1:梅窩往大澳:20:10;大澳往梅窩:20:30 路線2:梅窩往昂坪:16:50;昂坪往梅窩:18:35 路綫3M:梅窩往東涌:20:30;東涌往梅窩:20:35 路綫4:梅窩往塘福:19:30;塘福往梅窩:15:25 路綫11:東涌往大澳:20:30;大澳往東涌:20:20 路綫A35:梅窩往大橋香港口岸:17:00;大橋香港口岸往梅窩:18:15 路綫21:大澳往昂坪:16:45;昂坪往大澳:18:15 路綫23:東涌往昂坪:18:10;昂坪往東涌:19:10 路綫34:東涌往石門甲:20:30;石門甲往東涌:20:15 路綫36:東涌往迪士尼:19:30;迪士尼往東涌:20:05 路綫37H:迎東開:20:30 電車服務 東行線 -堅尼地城>跑馬地:尾班車:18:30 -堅尼地城>西灣河電車廠:尾班車:19:05 -石塘咀>北角:尾班車:18:30 -石塘咀>銅鑼灣:尾班車:18:35 -上環(西港城)>筲箕灣:尾班車:19:15 西行線 -筲箕灣>上環(西港城):尾班車:18:00 -筲箕灣>跑馬地:尾班車:18:30 -筲箕灣>屈地街電車廠:尾班車:19:05 -北角>石塘咀:尾班車:19:30 -銅鑼灣>石塘咀:尾班車:19:30 跑馬地圈 -跑馬地>筲箕灣:尾班車:19:30 -跑馬地>堅尼地城:尾班車:19:30 珀麗灣客運 路線NR334 由珀麗灣往機場:尾班車19:30 (經港珠澳口岸) 由機場往珀麗灣:尾班車20:00 中環至半山自動扶梯 將於晚上8時20分暫停服務"
             }
         },
         "district": null,
-        "last_update": "2024-09-05T19:39:36",
-        "last_announcement": "2024-09-05T19:25:00"
+        "last_update": "2024-09-05T20:44:21",
+        "last_announcement": "2024-09-05T20:02:00"
     },
     "IN-24-05157": {
         "description": {
@@ -2708,11 +2605,18 @@
                 "ID": "102707",
                 "CONTENT_EN": "Due to the effect of tropical cyclone, the service of cross-boundary coach will be adjusted as follows: - Hong Kong Zhuhai-Macao-Bridge Shuttle Bus will gradually suspend service from 6.20 pm - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus maintains limited service - Short-haul Cross-boundary Coach Service of Lok Ma Chau Boundary Control Point: Mong Kok Route (Northbound): Last departure at 7.30 pm Mong Kok Route (Southbound): Last departure at 6.30 pm Wan Chai Route (Northbound): Last departure at 7.35 pm Wan Chai Route (Southbound): Last departure at 6.35 pm Yau Tsim Route (Northbound): Last departure at 8.20 pm Yau Tsim Route (Southbound): Last departure at 8.20 pm Kwun Tong Route (Northbound): Last departure at 8.20 pm Kwun Tong Route (Southbound): Last departure at 8.20 pm Tsuen Wan Route (Northbound): Last departure at 8.20 pm Tsuen Wan Route (Southbound): Last departure at 8.20 pm",
                 "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士將於晚上6時20分起陸續暫停服務 -落馬洲-皇崗過境穿梭巴士會維持有限度服務 -落馬洲管制站短途跨境巴士服務： 旺角線(北行)：尾班車將於晚上7時30分開出 旺角線(南行)：尾班車將於晚上6時30分開出 灣仔線(北行)：尾班車將於晚上7時35分開出 灣仔線(南行)：尾班車將於晚上6時35分開出 油尖線(北行)：尾班車將於晚上8時20分開出 油尖線(南行)：尾班車將於晚上8時20分開出 觀塘線(北行)：尾班車將於晚上8時20分開出 觀塘線(南行)：尾班車將於晚上8時20分開出 荃灣線(北行)：尾班車將於晚上8時20分開出 荃灣線(南行)：尾班車將於晚上8時20分開出"
+            },
+            "2024-09-05T20:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102747",
+                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: - The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus has been suspended. - The service of short-haul cross-boundary coach of Lok Ma Chau Boundary Control Point has been suspended. - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will continue to maintain limited service.",
+                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士已暫停服務。 -落馬洲管制站短途跨境巴士已暫停服務。 -落馬洲-皇崗過境穿梭巴士將繼續維持有限度服務。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-09-05T16:42:03",
-        "last_announcement": "2024-09-05T16:22:00"
+        "last_update": "2024-09-05T20:44:21",
+        "last_announcement": "2024-09-05T20:25:00"
     },
     "IN-24-05161": {
         "description": {
@@ -2786,11 +2690,18 @@
                 "ID": "102722",
                 "CONTENT_EN": "The following road sections are busy:\n– Tuen Mun Road (Yuen Long bound)\n– Tate's Cairn Tunnel (Sha Tin bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Connaught Road Central (Sheung Wan bound)\n– Harcourt Road (Sheung Wan bound)\n– Kwun Tong Bypass near Laguna City (Yau Tong bound)\n– Kwun Tong Bypass near Richland Garden (Tate's Cairn Tunnel bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–屯門公路(往元朗方向)\n–大老山隧道(往沙田方向)\n–觀塘道(往黃大仙方向)\n–干諾道中(往上環方向)\n–夏慤道(往上環方向)\n–觀塘繞道近麗港城(往油塘方向)\n–觀塘繞道近麗晶花園(往大老山隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-09-05T19:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102743",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Tuen Mun Road (Yuen Long bound)\n– Tate's Cairn Tunnel (Sha Tin bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Connaught Road Central (Sheung Wan bound)\n– Kwun Tong Bypass near Richland Garden (Tate's Cairn Tunnel bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–屯門公路(往元朗方向)\n–大老山隧道(往沙田方向)\n–觀塘道(往黃大仙方向)\n–干諾道中(往上環方向)\n–觀塘繞道近麗晶花園(往大老山隧道方向)。"
             }
         },
         "district": null,
-        "last_update": "2024-09-05T17:58:19",
-        "last_announcement": "2024-09-05T17:50:00"
+        "last_update": "2024-09-05T20:44:21",
+        "last_announcement": "2024-09-05T19:56:00"
     },
     "IN-24-05162": {
         "description": {
@@ -3022,5 +2933,69 @@
         "district": "離島區",
         "last_update": "2024-09-05T19:59:54",
         "last_announcement": "2024-09-05T19:40:00"
+    },
+    "IN-24-05159": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Peak Tramways Suspension",
+            "INCIDENT_DETAIL_CN": "山頂纜車停止服務",
+            "LOCATION_EN": "Peak Tramways",
+            "LOCATION_CN": "山頂纜車",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-05T20:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102744",
+                "CONTENT_EN": "As the Gale or Storm Signal No. 8 was issued, the Peak Tram Service was temporarily suspended.",
+                "CONTENT_CN": "因應八號烈風或暴風信號已經發出，山頂纜車已全線暫停服務。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-09-05T20:44:21",
+        "last_announcement": "2024-09-05T20:04:00"
+    },
+    "IN-24-05170": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Ma Liu Shui Ferry Pier",
+            "NEAR_LANDMARK_CN": "馬料水渡輪碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-05T20:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102750",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Tai Po bound) near Ma Liu Shui Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往大埔方向)近馬料水渡輪碼頭的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-05T20:44:21",
+        "last_announcement": "2024-09-05T20:35:00"
     }
 }
