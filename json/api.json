@@ -1,43 +1,4 @@
 {
-    "IN-24-05082": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Tin Ma Court",
-            "NEAR_LANDMARK_CN": "天馬苑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-02T16:59:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102537",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Tin Ma Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近天馬苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-02T17:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102538",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Tin Ma Court which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近天馬苑的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-09-02T17:20:26",
-        "last_announcement": "2024-09-02T17:06:00"
-    },
     "IN-24-05083": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2148,11 +2109,18 @@
                 "ID": "102711",
                 "CONTENT_EN": "Due to the effect of tropical cyclone, the ferry/kaito services arrangements are as follows: Will be suspended Coral Sea Ferry Service Company Limited -Kwun Tong to Sai Wan Ho: Departure Time of Last Sailings at 5:18 PM -Sai Wan Ho To Kwun Tong: Departure Time of Last Sailings at 5:33 PM -Sam Ka Tsuen to Sai Wan Ho: Departure Time of Last Sailings at 5:30PM -Sai Wan Ho to Sam Ka Tsuen: Departure Time of Last Sailings at 5:15PM Tsui Wah Ferry Service (H. K. ) Limited -Aberdeen to Lamma Island Pak Kok Tsuen and Yung Shue Wan: Departure Time of Last Sailings at 5:50 PM - Yung Shue Wan to Aberdeen: Departure Time of Last Sailings at 6:35 PM - Peng Chau to Discovery Bay via Trappist Monastery: Departure Time of Last Sailings at 6:45 PM -Discovery Bay to Peng Chau via Trappist Monastery: Departure Time of Last Sailings at 7:00 PM Sun Ferry Services Company Ltd. - Central to Cheung Chau : Departure Time of Last Sailings at 8:00 PM - Cheung Chau to Central : Departure Time of Last Sailings at 8:00 PM - Central to Mui Wo : Departure Time of Last Sailings at 7:30 PM - Mui Wo to Central : Departure Time of Last Sailings at 7:30 PM -Mui Wo to Peng Chau - Departure Time of Last Sailings 3:20 PM Park Island Transport Company Limited -Park Island to Tsuen Wan - Departure Time of Last Sailings 4:15 PM -Tsuen Wan to Park Island - Departure Time of Last Sailings 4:35 PM -Park Island to Central - Departure Time of Last Sailings 7:00 PM -Central to Park Island - Departure Time of Last Sailings 7:30 PM Fortune Ferry Company Limited -North Point to Kwun Tong - Departure Time of Last Sailings 6:30 PM -Kwun Tong to North Point - Departure Time of Last Sailings 6:45 PM -Central to Hung Hum - Departure Time of Last Sailings 6:40 PM -Hung Hum to Central - Departure Time of Last Sailings 6:20 PM -Hong Kong Water Taxi: -Tsim Sha Tsui East - Departure Time of Last Sailings 5:20 PM -Wan Chai - Departure Time of Last Sailings 5:35 PM and 6:05PM -Central - Departure Time of Last Sailings 5:50 PM The \"Star\" Ferry Company, Limited -Central to Tsim Sha Tsui - Departure Time of Last Sailings 7:30 PM -Tsim Sha Tsui to Central - Departure Time of Last Sailings 7:30 PM Chuen Kee Ferry Limited -Aberdeen to Sok Kwu Wan - Departure Time of Last Sailings 4:30 PM - Sok Kwu Wan to Aberdeen - Departure Time of Last Sailings 5:20 PM Hong Kong &amp; Kowloon Ferry Limited - Central to Yung Shue Wan : Departure Time of Last Sailings at 7:30 PM suspended - Yung Shue Wan to Central : Departure Time of Last Sailings at 7:20 PM suspended - Central to Sok Kwu Wan : Departure Time of Last Sailings at 6:45 PM suspended - Sok Kwu Wan to Central : Departure Time of Last Sailings at 6:00 PM suspended -Central to Peng Chau : Departure Time of Last Sailings at 7:30 PM -Peng Chau to Central : Departure Time of Last Sailings at 7:20 PM - Peng Chau to Hei Ling Chau : Departure Time of Last Sailings at 6:30 PM - Hei Ling Chau to Peng Chau : Departure Time of Last Sailings at 6:40 PM Have been suspended Tsui Wah Ferry Service (H. K. ) Limited - Aberdeen - Po Toi Island - Ma Liu Shui - Tap Mun - Wong Shek - Tap Mun Best Sonic Industrial Limited - Sha Tau Kok - Lai Chi Wo/Ap Chau/Kat O - Tai Shui Hang - Lai Chi Wo/Kat O/Ap Chau Yun Lee Marine Holdings Limited - Tseung Kwan O (South) - Sai Wan Ho Fortune Ferry Company Limited - Tuen Mun - Tung Chung - Sha Lo Wan - Tai O",
                 "CONTENT_CN": "因受熱帶氣旋的影響，以下渡輪/街渡服務安排如下： 將會暫停服務 珊瑚海船務有限公司 -觀塘至西灣河–尾班船將於下午5時18分開出 -西灣河至觀塘–尾班船將於下午5時33分開出 -三家村至西灣河–尾班船將於下午5時30分開出 -西灣河至三家村–尾班船將於下午5時15分開出 翠華船務（香港）有限公司 -香港仔至南丫島北角村及榕樹灣：尾班船將於下午5時50分開出 -榕樹灣至香港仔：尾班船將於下午6時35分開出 -坪洲至愉景灣：尾班船將於下午6時45分開出 -愉景灣至坪洲：尾班船將於下午7時00分開出 新渡輪服務有限公司 -中環往長洲：尾班船將於下午8時開出 -長洲往中環：尾班船已於下午8時開出 -中環往梅窩：尾班船將於下午7時30開出 -梅窩往中環：尾班船將於下午7時30分開出 珀麗灣客運有限公司 -珀麗灣至荃灣：尾班船將於下午4時15分開出 -荃灣至珀麗灣：尾班船將於下午4時35分開出 -珀麗灣至中環：尾班船將於下午7時00分開出 -中環至珀麗灣：尾班船將於下午7時30分開出 富裕小輪有限公司 -北角至官塘：尾班船將於下午6時30分開出 -官塘至北角：尾班船將於下午6時45分開出 -中環至紅磡：尾班船將於下午6時40分開出 -紅磡至中環：尾班船將於下午6時20分開出 -香港水上的士循環線： -尖東尾班船將於下午5時20分開出 -灣仔尾班船將於下午5時35分及下午6時05分開出 -中環尾班船將於下午5時50分開出 天星小輪有限公司 -中環至尖沙咀：尾班船將於下午7時30分開出 -尖沙咀至中環：尾班船將於下午7時30分開出 全記渡有限公司 -香港仔至索罟灣：尾班船將於下午4時30分開出 -索罟灣至香港仔：尾班船將於下午5時20分開出 港九小輪有限公司 -中環往榕樹灣：尾班船將於下午7時30分開出 -榕樹灣往中環：尾班船將於下午7時20分開出 -中環往榕樹灣：尾班船將於下午6時45分開出 -索罟灣往中環：尾班船將於下午6時開出 -中環往坪洲：尾班船將於下午7時30分開出 -坪洲往中環：尾班船將於下午7時20分開出 -坪洲往喜靈洲：尾班船將於下午6時30分開出 -喜靈洲往坪洲：尾班船將於下午6時40分開出 現已暫停服務 翠華船務（香港）有限公司 -香港仔-蒲苔島 -馬料水-塔門 -黃石-塔門 聲威實業有限公司 -沙頭角-荔枝窩/鴨洲/吉澳 -大水坑-荔枝窩/吉澳/鴨洲 潤利海事控股有限公司 -將軍澳(南)-西灣河 富裕小輪有限公司 -屯門—東涌—沙螺灣—大澳"
+            },
+            "2024-09-05T17:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102715",
+                "CONTENT_EN": "Due to the effect of tropical cyclone, the ferry/kaito services arrangements are as follows: Will be suspended Coral Sea Ferry Service Company Limited -Kwun Tong to Sai Wan Ho: Departure Time of Last Sailings at 5:18 PM -Sai Wan Ho To Kwun Tong: Departure Time of Last Sailings at 5:33 PM -Sam Ka Tsuen to Sai Wan Ho: Departure Time of Last Sailings at 5:30PM -Sai Wan Ho to Sam Ka Tsuen: Departure Time of Last Sailings at 5:15PM Tsui Wah Ferry Service (H. K. ) Limited -Aberdeen to Lamma Island Pak Kok Tsuen and Yung Shue Wan: Departure Time of Last Sailings at 5:50 PM - Yung Shue Wan to Aberdeen: Departure Time of Last Sailings at 6:35 PM - Peng Chau to Discovery Bay via Trappist Monastery: Departure Time of Last Sailings at 6:45 PM -Discovery Bay to Peng Chau via Trappist Monastery: Departure Time of Last Sailings at 7:00 PM Sun Ferry Services Company Ltd. - Central to Cheung Chau : Departure Time of Last Sailings at 8:00 PM - Cheung Chau to Central : Departure Time of Last Sailings at 8:00 PM - Central to Mui Wo : Departure Time of Last Sailings at 7:30 PM - Mui Wo to Central : Departure Time of Last Sailings at 7:30 PM -Mui Wo to Peng Chau - Departure Time of Last Sailings 3:20 PM Park Island Transport Company Limited -Park Island to Tsuen Wan - Departure Time of Last Sailings 4:15 PM -Tsuen Wan to Park Island - Departure Time of Last Sailings 4:35 PM -Park Island to Central - Departure Time of Last Sailings 7:00 PM -Central to Park Island - Departure Time of Last Sailings 7:30 PM Fortune Ferry Company Limited -North Point to Kwun Tong - Departure Time of Last Sailings 6:30 PM -Kwun Tong to North Point - Departure Time of Last Sailings 6:45 PM -Central to Hung Hum - Departure Time of Last Sailings 6:40 PM -Hung Hum to Central - Departure Time of Last Sailings 6:20 PM -Hong Kong Water Taxi: -Tsim Sha Tsui East - Departure Time of Last Sailings 5:20 PM -Wan Chai - Departure Time of Last Sailings 5:35 PM and 6:05PM -Central - Departure Time of Last Sailings 5:50 PM The \"Star\" Ferry Company, Limited -Central to Tsim Sha Tsui - Departure Time of Last Sailings 7:30 PM -Tsim Sha Tsui to Central - Departure Time of Last Sailings 7:30 PM Chuen Kee Ferry Limited -Aberdeen to Sok Kwu Wan - Departure Time of Last Sailings 4:30 PM - Sok Kwu Wan to Aberdeen - Departure Time of Last Sailings 5:20 PM Hong Kong &amp; Kowloon Ferry Limited - Central to Yung Shue Wan : Departure Time of Last Sailings at 7:30 PM suspended - Yung Shue Wan to Central : Departure Time of Last Sailings at 7:20 PM suspended - Central to Sok Kwu Wan : Departure Time of Last Sailings at 6:45 PM suspended - Sok Kwu Wan to Central : Departure Time of Last Sailings at 6:00 PM suspended -Central to Peng Chau : Departure Time of Last Sailings at 7:30 PM -Peng Chau to Central : Departure Time of Last Sailings at 7:20 PM - Peng Chau to Hei Ling Chau : Departure Time of Last Sailings at 6:30 PM - Hei Ling Chau to Peng Chau : Departure Time of Last Sailings at 6:40 PM Have been suspended Tsui Wah Ferry Service (H. K. ) Limited - Aberdeen - Po Toi Island - Ma Liu Shui - Tap Mun - Wong Shek - Tap Mun Best Sonic Industrial Limited - Sha Tau Kok - Lai Chi Wo/Ap Chau/Kat O - Tai Shui Hang - Lai Chi Wo/Kat O/Ap Chau Yun Lee Marine Holdings Limited - Tseung Kwan O (South) - Sai Wan Ho Fortune Ferry Company Limited - Tuen Mun - Tung Chung - Sha Lo Wan - Tai O",
+                "CONTENT_CN": "因受熱帶氣旋的影響，以下渡輪/街渡服務安排如下： 將會暫停服務 珊瑚海船務有限公司 -觀塘至西灣河–尾班船將於下午5時18分開出 -西灣河至觀塘–尾班船將於下午5時33分開出 -三家村至西灣河–尾班船將於下午5時30分開出 -西灣河至三家村–尾班船將於下午5時15分開出 翠華船務（香港）有限公司 -香港仔至南丫島北角村及榕樹灣：尾班船將於下午5時50分開出 -榕樹灣至香港仔：尾班船將於下午6時35分開出 -坪洲至愉景灣：尾班船將於下午6時45分開出 -愉景灣至坪洲：尾班船將於下午7時00分開出 新渡輪服務有限公司 -中環往長洲：尾班船將於下午8時開出 -長洲往中環：尾班船已於下午8時開出 -中環往梅窩：尾班船將於下午7時30開出 -梅窩往中環：尾班船將於下午7時30分開出 珀麗灣客運有限公司 -珀麗灣至荃灣：尾班船將於下午4時15分開出 -荃灣至珀麗灣：尾班船將於下午4時35分開出 -珀麗灣至中環：尾班船將於下午7時00分開出 -中環至珀麗灣：尾班船將於下午7時30分開出 富裕小輪有限公司 -北角至官塘：尾班船將於下午6時30分開出 -官塘至北角：尾班船將於下午6時45分開出 -中環至紅磡：尾班船將於下午6時40分開出 -紅磡至中環：尾班船將於下午6時20分開出 -香港水上的士循環線： -尖東尾班船將於下午5時20分開出 -灣仔尾班船將於下午5時35分及下午6時05分開出 -中環尾班船將於下午5時50分開出 天星小輪有限公司 -中環至尖沙咀：尾班船將於下午7時30分開出 -尖沙咀至中環：尾班船將於下午7時30分開出 全記渡有限公司 -香港仔至索罟灣：尾班船將於下午4時30分開出 -索罟灣至香港仔：尾班船將於下午5時20分開出 港九小輪有限公司 -中環往榕樹灣：尾班船將於下午7時30分開出 -榕樹灣往中環：尾班船將於下午7時20分開出 -中環往坪洲：尾班船將於下午7時30分開出 -坪洲往中環：尾班船將於下午7時20分開出 -坪洲往喜靈洲：尾班船將於下午6時30分開出 -喜靈洲往坪洲：尾班船將於下午6時40分開出 現已暫停服務 翠華船務（香港）有限公司 -香港仔-蒲苔島 -馬料水-塔門 -黃石-塔門 聲威實業有限公司 -沙頭角-荔枝窩/鴨洲/吉澳 -大水坑-荔枝窩/吉澳/鴨洲 潤利海事控股有限公司 -將軍澳(南)-西灣河 富裕小輪有限公司 -屯門—東涌—沙螺灣—大澳"
             }
         },
         "district": null,
-        "last_update": "2024-09-05T17:10:16",
-        "last_announcement": "2024-09-05T16:51:00"
+        "last_update": "2024-09-05T17:27:12",
+        "last_announcement": "2024-09-05T17:08:00"
     },
     "IN-24-05141": {
         "description": {
@@ -2795,5 +2763,37 @@
         "district": "油尖旺區",
         "last_update": "2024-09-05T16:42:03",
         "last_announcement": "2024-09-05T16:22:00"
+    },
+    "IN-24-05161": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Connaught Road Central",
+            "LOCATION_CN": "干諾道中",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sai Wan",
+            "DIRECTION_CN": "西環",
+            "NEAR_LANDMARK_EN": "Shun Tak Centre",
+            "NEAR_LANDMARK_CN": "信德中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-05T17:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102713",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central flyover (Sai Wan bound) near Shun Tak Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，干諾道中天橋(往西環方向)近信德中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-09-05T17:27:12",
+        "last_announcement": "2024-09-05T17:10:00"
     }
 }
