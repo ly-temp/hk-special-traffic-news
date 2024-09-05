@@ -2547,5 +2547,37 @@
         "district": "大埔區",
         "last_update": "2024-09-05T11:37:31",
         "last_announcement": "2024-09-05T11:26:00"
+    },
+    "IN-24-05150": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-05T13:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102688",
+                "CONTENT_EN": "• The Hong Kong Observatory has announced that Typhoon Signal 8 will be issued later • Rail and MTR Bus services frequencies will be increased gradually from 3 pm onwards • Passengers are advised to return home as soon as possible or stay indoors in a safe place Service on open sections of the Railway, Light Rail and MTR Bus will be suspended immediately if Signal 9 or above is issued.",
+                "CONTENT_CN": "•香港天文台已公佈稍後將改發八號風球 •鐵路及港鐵巴士服務將於下午3時起逐步加密班次 •乘客應儘早回家或留在室內安全地方 若改發九號或以上風球，露天段列車、輕鐵及港鐵巴士服務將即時暫停。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-09-05T13:36:59",
+        "last_announcement": "2024-09-05T13:12:00"
     }
 }
