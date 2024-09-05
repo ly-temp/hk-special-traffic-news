@@ -1,43 +1,4 @@
 {
-    "IN-24-05078": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "person in dangerous position",
-            "INCIDENT_DETAIL_CN": "有人在危險位置",
-            "LOCATION_EN": "Nathan Road",
-            "LOCATION_CN": "彌敦道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Salisbury Road",
-            "DIRECTION_CN": "梳士巴利道",
-            "NEAR_LANDMARK_EN": "Cameron Road",
-            "NEAR_LANDMARK_CN": "金馬倫道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-02T12:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102528",
-                "CONTENT_EN": "Due to person in dangerous position , part of the lanes of Nathan Road (Salisbury Road bound) near Cameron Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因有人在危險位置，彌敦道(往梳士巴利道方向)近金馬倫道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-02T12:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102529",
-                "CONTENT_EN": "Part of the lanes of Nathan Road (Salisbury Road bound) near Cameron Road which was closed due to person in dangerous position is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因有人在危險位置而封閉的彌敦道(往梳士巴利道方向)近金馬倫道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-09-02T13:08:51",
-        "last_announcement": "2024-09-02T12:59:00"
-    },
     "IN-24-05079": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
