@@ -45,52 +45,6 @@
         "last_update": "2024-09-02T20:43:46",
         "last_announcement": "2024-09-02T19:59:00"
     },
-    "IN-24-05086": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
-            "NEAR_LANDMARK_CN": "龍翔道公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-02T19:16:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102543",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Waterloo Road (Lion Rock Tunnel bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近龍翔道公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-02T19:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102545",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Waterloo Road (Lion Rock Tunnel bound) near Lung Cheung Road Park is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Waterloo Road (Lion Rock Tunnel bound) ends at Waterloo Road near Argyle Street. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近龍翔道公園的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在窩打老道(往獅子山隧道方向)的車龍龍尾已到窩打老道近亞皆老街。 現時上址交通擠塞。"
-            },
-            "2024-09-02T19:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102546",
-                "CONTENT_EN": "The slow lane of Waterloo Road (Lion Rock Tunnel bound) near Lung Cheung Road Park which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近龍翔道公園的慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-09-02T19:37:51",
-        "last_announcement": "2024-09-02T19:30:00"
-    },
     "IN-24-05085": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2644,11 +2598,18 @@
                 "ID": "102736",
                 "CONTENT_EN": "Due to the effect of tropical cyclone, the public transport services arrangement are as follows: MTR Rail and MTR Bus services are now maintaining at peak hours schedule and will be gradually reduced later on. The MTR Bus service will be suspended 3 hours after the issuing of Signal 8. The In-town Check-in service close-out time is adjusted to 120 minutes before scheduled flight departure time. Please allow additional time for travel as Crowd Management Measures may be in place in some stations. Service on open sections of the Railway, Light Rail and MTR Bus will be suspended immediately if Signal 9 or above is issued. MTR service arrangements are as follows: Line Service Tsuen Wan Line 2-minute intervals Kwun Tong Line 2.3-minute intervals Island Line 2-minute intervals South Island Line 3.3-minute intervals Tseung Kwan O Line North Point Station - Po Lam Station : 2.6-4.1-minute intervals North Point Station - LOHAS Park Station : 6.7-minute intervals Tung Chung Line Hong Kong Station - Tsing Yi Station : 3-5-minute intervals Hong Kong Station - Tung Chung Station : 4-8-minute intervals Disneyland Resort Line 5-minute intervals Airport Express 10-minute intervals East Rail Line Admiralty Station - Lo Wu Station : 3-6-minute intervals Admiralty Station - Lok Ma Chau Station : 10-minute intervals Tuen Ma Line 3-minute intervals Light Rail 5-18-minute intervals MTR Bus 3-8-minute intervals KMB and LWB KMB and LWB will enhance service to cater the needs of passengers to return home. KMB and LWB will keep providing normal service on all routes until at least two hours after Number 8 gale or storm signal takes effect. During the period when the Number 8 gale or storm signal is hoisted, KMB and LWB will provide limited services on the following routes. Routes may be altered due to weather or actual road conditions. North District: 70K, 78A, 273A Sha Tin District: 80K, 81K, 83K, 85K, 86K, 87K, 285, 287 Tai Po District: 71A, 72K, 272A East Kowloon: 3M, 7M, 16M, 23M, 213M, 216M Tseung Kwan O: 296M Kwai Tsing and Tsuen Wan: 31M, 34M, 36, 37M, 39M, 248M, 249M Boundary routes: B1, B9, 276B Airport routes: S1, S64 Citybus Except for Routes B3X, B7 and S1, all daytime routes of Citybus will gradually suspend service from 2030 hrs. NLB Routes 37M, 38, 39M, B2, B2P, B4 and B6 will provide limited service at 20:20 hrs. The following services are going to suspend: Route 1: Mui Wo to Tai O: 20:10; Tai O to Mui Wo: 20:30 Route 2: Mui Wo to Ngong Ping: 16:50; Ngong Ping to Mui Wo: 18:35 Route 3M: Mui Wo to Tung Chung Station Bus Terminus: 20:30; Tung Chung Station Bus Terminus to Mui Wo: 20:35 Route 4: Mui Wo to Tong Fuk: 19:30; Tong Fuk to Mui Wo: 15:25 Route 11: Tung Chung Station Bus Terminus to Tai O: 20:30; Tai O to Tung Chung Station Bus Terminus: 20:20 Route A35: Mui Wo to HZMB Hong Kong Port: 17:00; HZMB Hong Kong Port to Mui Wo: 18:15 Route 21: Tai O to Ngong Ping: 16:45; Ngong Ping to Tai O: 18:15 Route 23: Tung Chung Station Bus Terminus to Ngong Ping: 18:10; Ngong Ping to Tung Chung Station Bus Terminus: 19:10 Route 34: Tung Chung Station Bus Terminus to Shek Mun Kap: 20:30; Shek Mun Kap to Tung Chung Station Bus Terminus: 20:15 Route 36: Tung Chung Station Bus Terminus to Disneyland: 19:30; Disneyland to Tung Chung Station Bus Terminus: 20:05 Route 37H: depart from Ying Tung Estate: 20:30 Tram Service East bound -Kennedy Town>Happy Valley : last departure at 18:30 -Kennedy Town >Sai Wan Ho Depot : last departure at 19:05 -Shek Tong Tsui>North Point : last departure at 18:30 -Shek Tong Tsui >Causeway Bay: last departure at 18:35 -Western Market>Shau Kei Wan: last departure at 19:15 West bound - Shau Kei Wan > Western Market : last departure at 18:00 - Shau Kei Wan >Happy Valley : last departure at 18:30 - Shau Kei Wan >Whitty Street Depot : last departure at 19:05 -North Point > Shek Tong Tsui: last departure at 19:30 - Causeway Bay > Shek Tong Tsui: last departure at 19:30 Happy Valley loop - Happy Valley >Shau Kei Wan: last departure at 19:30 - Happy Valley > Kennedy Town: last departure at 19:30 Park Island Transport Company Limited Route NR334 Park Island to Airport: last departure at 19:30 (via HZMB Hong Kong Port) Airport to Park Island: last departure at 20:00",
                 "CONTENT_CN": "因受熱帶氣旋的影響，公共運輸服務安排如下： 港鐵 鐵路及港鐵巴士服務維持繁忙時段班次，稍後逐步減少。 八號風球發出三小時後，港鐵巴士服務停止。 市區預辦登機服務調整至航班起飛前120分鐘截止。 部分車站或會實施客流管理措施，請預留額外乘車時間。 若改發九號或以上風球，露天段列車、輕鐵及港鐵巴士服務將即時暫停。 港鐵服務安排如下: 行車綫服務 荃灣綫2 分鐘一班 觀塘綫2.3 分鐘一班 港島綫2 分鐘一班 南港島綫3.3 分鐘一班 將軍澳綫 北角站-寶琳站:2.6-4.1 分鐘一班 北角站-康城站:6.7 分鐘一班 東涌綫 香港站-青衣站:3-5 分鐘一班 香港站-東涌站:4-8 分鐘一班 迪士尼綫5 分鐘一班 機場快綫10 分鐘一班 東鐵綫 金鐘站-羅湖站:3-6 分鐘一班 金鐘站-落馬洲站:10 分鐘一班 屯馬綫3 分鐘一班 輕鐵5-18 分鐘一班 港鐵巴士3-8 分鐘一班 九巴及龍運巴士 九巴及龍運將加強服務以方便市民回家，並維持所有路線服務至八號信號生效後最少兩小時。 在八號烈風或暴風信號生效期間，九巴及龍運以下路線將維持有限度服務，接載乘客來往港鐵站或口岸，而服務視乎天氣或實際路面狀況或會有所調整。 北區：70K、78A、273A 沙田區：80K、81K、83K、85K、86K、87K、285、287 大埔區：71A、72K、272A 九龍東：3M、7M、16M、23M、213M、216M 將軍澳：296M 葵青及荃灣：31M、34M、36、37M、39M、248M、249M 口岸路線：B1、B9、276B 機場路線：S1、S64 城巴 除B3X,B7及S1,所有日間路線於20:30起陸續暫停服務。 新大嶼山巴士 路線37M、38、39M、B2、B2P、B4及B6由20:20起維持有限度服務。 依照現有班次運作尾班車開出時間將會提前： 路線1:梅窩往大澳:20:10;大澳往梅窩:20:30 路線2:梅窩往昂坪:16:50;昂坪往梅窩:18:35 路綫3M:梅窩往東涌:20:30;東涌往梅窩:20:35 路綫4:梅窩往塘福:19:30;塘福往梅窩:15:25 路綫11:東涌往大澳:20:30;大澳往東涌:20:20 路綫A35:梅窩往大橋香港口岸:17:00;大橋香港口岸往梅窩:18:15 路綫21:大澳往昂坪:16:45;昂坪往大澳:18:15 路綫23:東涌往昂坪:18:10;昂坪往東涌:19:10 路綫34:東涌往石門甲:20:30;石門甲往東涌:20:15 路綫36:東涌往迪士尼:19:30;迪士尼往東涌:20:05 路綫37H:迎東開:20:30 電車服務 東行線 -堅尼地城>跑馬地:尾班車:18:30 -堅尼地城>西灣河電車廠:尾班車:19:05 -石塘咀>北角:尾班車:18:30 -石塘咀>銅鑼灣:尾班車:18:35 -上環(西港城)>筲箕灣:尾班車:19:15 西行線 -筲箕灣>上環(西港城):尾班車:18:00 -筲箕灣>跑馬地:尾班車:18:30 -筲箕灣>屈地街電車廠:尾班車:19:05 -北角>石塘咀:尾班車:19:30 -銅鑼灣>石塘咀:尾班車:19:30 跑馬地圈 -跑馬地>筲箕灣:尾班車:19:30 -跑馬地>堅尼地城:尾班車:19:30 珀麗灣客運 路線NR334 由珀麗灣往機場:尾班車19:30 (經港珠澳口岸) 由機場往珀麗灣:尾班車20:00"
+            },
+            "2024-09-05T19:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102739",
+                "CONTENT_EN": "Due to the effect of tropical cyclone, the public transport services arrangement are as follows: MTR Rail and MTR Bus services are now maintaining at peak hours schedule and will be gradually reduced later on. The MTR Bus service will be suspended 3 hours after the issuing of Signal 8. The In-town Check-in service close-out time is adjusted to 120 minutes before scheduled flight departure time. Please allow additional time for travel as Crowd Management Measures may be in place in some stations. Service on open sections of the Railway, Light Rail and MTR Bus will be suspended immediately if Signal 9 or above is issued. MTR service arrangements are as follows: Line Service Tsuen Wan Line 2-minute intervals Kwun Tong Line 2.3-minute intervals Island Line 2-minute intervals South Island Line 3.3-minute intervals Tseung Kwan O Line North Point Station - Po Lam Station : 2.6-4.1-minute intervals North Point Station - LOHAS Park Station : 6.7-minute intervals Tung Chung Line Hong Kong Station - Tsing Yi Station : 3-5-minute intervals Hong Kong Station - Tung Chung Station : 4-8-minute intervals Disneyland Resort Line 10-minute intervals Airport Express 10-minute intervals East Rail Line Admiralty Station - Lo Wu Station : 3-6-minute intervals Admiralty Station - Lok Ma Chau Station : 10-minute intervals Tuen Ma Line 3-minute intervals Light Rail 5-18-minute intervals MTR Bus 3-8-minute intervals KMB and LWB All daytime KMB and LWB routes will be suspended from 20:30hrs, except the following routes which will maintain a limited service level, connecting to MTR stations or border control points, until the last departures or further notice: North District: 70K, 78A, 273A Sha Tin District: 80K, 81K, 83K, 85K, 86K, 87K, 285, 287 Tai Po District: 71A, 72K, 272A East Kowloon: 3M, 7M, 16M, 23M, 213M, 216M Tseung Kwan O: 296M Kwai Tsing and Tsuen Wan: 31M, 34M, 36, 37M, 39M, 248M, 249M Boundary routes: B1, B9, 276B Airport routes: S1, S64 Routes K12, K14, K17, K18 will be suspended from 21:20 hrs. All overnight services of KMB and LWB routes will be suspended. Citybus Except for Routes B3X, B7 and S1, all daytime routes of Citybus will gradually suspend service from 2030 hrs. NLB Routes 37M, 38, 39M, B2, B2P, B4 and B6 will provide limited service at 20:20 hrs. The following services are going to suspend: Route 1: Mui Wo to Tai O: 20:10; Tai O to Mui Wo: 20:30 Route 2: Mui Wo to Ngong Ping: 16:50; Ngong Ping to Mui Wo: 18:35 Route 3M: Mui Wo to Tung Chung Station Bus Terminus: 20:30; Tung Chung Station Bus Terminus to Mui Wo: 20:35 Route 4: Mui Wo to Tong Fuk: 19:30; Tong Fuk to Mui Wo: 15:25 Route 11: Tung Chung Station Bus Terminus to Tai O: 20:30; Tai O to Tung Chung Station Bus Terminus: 20:20 Route A35: Mui Wo to HZMB Hong Kong Port: 17:00; HZMB Hong Kong Port to Mui Wo: 18:15 Route 21: Tai O to Ngong Ping: 16:45; Ngong Ping to Tai O: 18:15 Route 23: Tung Chung Station Bus Terminus to Ngong Ping: 18:10; Ngong Ping to Tung Chung Station Bus Terminus: 19:10 Route 34: Tung Chung Station Bus Terminus to Shek Mun Kap: 20:30; Shek Mun Kap to Tung Chung Station Bus Terminus: 20:15 Route 36: Tung Chung Station Bus Terminus to Disneyland: 19:30; Disneyland to Tung Chung Station Bus Terminus: 20:05 Route 37H: depart from Ying Tung Estate: 20:30 Tram Service East bound -Kennedy Town>Happy Valley : last departure at 18:30 -Kennedy Town >Sai Wan Ho Depot : last departure at 19:05 -Shek Tong Tsui>North Point : last departure at 18:30 -Shek Tong Tsui >Causeway Bay: last departure at 18:35 -Western Market>Shau Kei Wan: last departure at 19:15 West bound - Shau Kei Wan > Western Market : last departure at 18:00 - Shau Kei Wan >Happy Valley : last departure at 18:30 - Shau Kei Wan >Whitty Street Depot : last departure at 19:05 -North Point > Shek Tong Tsui: last departure at 19:30 - Causeway Bay > Shek Tong Tsui: last departure at 19:30 Happy Valley loop - Happy Valley >Shau Kei Wan: last departure at 19:30 - Happy Valley > Kennedy Town: last departure at 19:30 Park Island Transport Company Limited Route NR334 Park Island to Airport: last departure at 19:30 (via HZMB Hong Kong Port) Airport to Park Island: last departure at 20:00 Central to Mid-Levels Escalator Service suspended at 20:20",
+                "CONTENT_CN": "因受熱帶氣旋的影響，公共運輸服務安排如下： 港鐵 鐵路及港鐵巴士服務維持繁忙時段班次，稍後逐步減少。 八號風球發出三小時後，港鐵巴士服務停止。 市區預辦登機服務調整至航班起飛前120分鐘截止。 部分車站或會實施客流管理措施，請預留額外乘車時間。 若改發九號或以上風球，露天段列車、輕鐵及港鐵巴士服務將即時暫停。 港鐵服務安排如下: 行車綫服務 荃灣綫2 分鐘一班 觀塘綫2.3 分鐘一班 港島綫2 分鐘一班 南港島綫3.3 分鐘一班 將軍澳綫 北角站-寶琳站:2.6-4.1 分鐘一班 北角站-康城站:6.7 分鐘一班 東涌綫 香港站-青衣站:3-5 分鐘一班 香港站-東涌站:4-8 分鐘一班 迪士尼綫10 分鐘一班 機場快綫10 分鐘一班 東鐵綫 金鐘站-羅湖站:3-6 分鐘一班 金鐘站-落馬洲站:10 分鐘一班 屯馬綫3 分鐘一班 輕鐵5-18 分鐘一班 港鐵巴士3-8 分鐘一班 九巴及龍運巴士 九巴及龍運所有日間路線將於晚上八時半起陸續暫停，除下述路線會在八號信號生效期間，繼續提供有限度服務，接駁至港鐵站或口岸，直至尾班車或另行通知： 北區：70K、78A、273A 沙田區：80K、81K、83K、85K、86K、87K、285、287 大埔區：71A、72K、272A 九龍東：3M、7M、16M、23M、213M、216M 將軍澳：296M 葵青及荃灣：31M、34M、36、37M、39M、248M、249M 口岸路線：B1、B9、276B 機場路線：S1、S64 路線K12、K14、K17、K18則於晚上九時二十分起暫停。 而九巴及龍運所有深宵和通宵路線則會暫停服務。 城巴 除B3X,B7及S1,所有日間路線於20:30起陸續暫停服務。 新大嶼山巴士 路線37M、38、39M、B2、B2P、B4及B6由20:20起維持有限度服務。 依照現有班次運作尾班車開出時間將會提前： 路線1:梅窩往大澳:20:10;大澳往梅窩:20:30 路線2:梅窩往昂坪:16:50;昂坪往梅窩:18:35 路綫3M:梅窩往東涌:20:30;東涌往梅窩:20:35 路綫4:梅窩往塘福:19:30;塘福往梅窩:15:25 路綫11:東涌往大澳:20:30;大澳往東涌:20:20 路綫A35:梅窩往大橋香港口岸:17:00;大橋香港口岸往梅窩:18:15 路綫21:大澳往昂坪:16:45;昂坪往大澳:18:15 路綫23:東涌往昂坪:18:10;昂坪往東涌:19:10 路綫34:東涌往石門甲:20:30;石門甲往東涌:20:15 路綫36:東涌往迪士尼:19:30;迪士尼往東涌:20:05 路綫37H:迎東開:20:30 電車服務 東行線 -堅尼地城>跑馬地:尾班車:18:30 -堅尼地城>西灣河電車廠:尾班車:19:05 -石塘咀>北角:尾班車:18:30 -石塘咀>銅鑼灣:尾班車:18:35 -上環(西港城)>筲箕灣:尾班車:19:15 西行線 -筲箕灣>上環(西港城):尾班車:18:00 -筲箕灣>跑馬地:尾班車:18:30 -筲箕灣>屈地街電車廠:尾班車:19:05 -北角>石塘咀:尾班車:19:30 -銅鑼灣>石塘咀:尾班車:19:30 跑馬地圈 -跑馬地>筲箕灣:尾班車:19:30 -跑馬地>堅尼地城:尾班車:19:30 珀麗灣客運 路線NR334 由珀麗灣往機場:尾班車19:30 (經港珠澳口岸) 由機場往珀麗灣:尾班車20:00 中環至半山自動扶梯 暫停服務20:20"
             }
         },
         "district": null,
-        "last_update": "2024-09-05T19:19:29",
-        "last_announcement": "2024-09-05T19:04:00"
+        "last_update": "2024-09-05T19:39:36",
+        "last_announcement": "2024-09-05T19:25:00"
     },
     "IN-24-05157": {
         "description": {
@@ -2997,5 +2958,37 @@
         "district": null,
         "last_update": "2024-09-05T19:19:29",
         "last_announcement": "2024-09-05T19:00:00"
+    },
+    "IN-24-05169": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-05T19:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102737",
+                "CONTENT_EN": "Gale or Storm Signal No 8 is now issued, High Speed\nRail train service remains normal. \n\nMTR will coordinate with the Mainland if the weather\nconditions deteriorate, or a higher Tropical Cyclone Warning Signal is issued, and train services may\nbe suspended. \n\nBefore the journey, please check the train information through 12306 official website (12306. cn), mobile app or HSR website; stay tuned for the\nroad or traffic conditions, and allow more time to travel to Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "八號烈風或暴風信號現正生效，高速鐵路列車服務現維持正常。\n\n若天氣情況惡化或天文台發出較高熱帶氣旋警告信號，將與內地鐵路單位作出協調，高速鐵路列車服務或會暫停。\n\n出發前，請在12306官方網站(12306.cn)、手機應用程式或高速鐵路網頁查閱\n有關班次的資料，留意路面或交通情況的最新公佈消息，並預留額外時間前往香港西九龍站。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-09-05T19:39:36",
+        "last_announcement": "2024-09-05T19:15:00"
     }
 }
