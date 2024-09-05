@@ -2533,5 +2533,37 @@
         "district": "荃灣區",
         "last_update": "2024-09-05T11:24:36",
         "last_announcement": "2024-09-05T11:06:00"
+    },
+    "IN-24-05148": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Tsing Sha Highway",
+            "LOCATION_CN": "青沙公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": "Stonecutters Island Sewage Treatment Works",
+            "NEAR_LANDMARK_CN": "昂船洲污水處理廠",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-05T11:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102682",
+                "CONTENT_EN": "Due to emergency repair of road surface , the middle lane of Tsing Sha Highway (Sha Tin bound) near Stonecutters Island Sewage Treatment Works is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，青沙公路(往沙田方向)近昂船洲污水處理廠的中線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-09-05T11:37:31",
+        "last_announcement": "2024-09-05T11:26:00"
     }
 }
