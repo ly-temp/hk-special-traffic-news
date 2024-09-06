@@ -2124,11 +2124,18 @@
                 "ID": "102786",
                 "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows:\n\nHong Kong Zhuhai-Macao-Bridge\n- The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus is still being suspended. \n\nLok Ma Chau Control Point\n- Short-haul Cross-boundary Coach Service - Kwun Tong Route (both bounds) resumed operation at 11:30 am\n- Short-haul Cross-boundary Coach Service - Yau Tsim Route (both bounds) resumed operation at 11:30 am\n- Short-haul Cross-boundary Coach Service – Wan Chai Route (Northbound) will resume operation at 12:15 pm\n- Short-haul Cross-boundary Coach Service – Wan Chai Route (Southbound) will resume operation at 12:35 pm\n- Short-haul Cross-boundary Coach Service – Mong Kok Route (both bounds) will resume operation at 12:20 pm\n- Short-haul Cross-boundary Coach Service – Tsuen Wan Route (both bounds) will resume operation at 2:00 pm\n\n- Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will gradually resume normal service from 1:00pm.",
                 "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下：\n\n港珠澳大橋\n-港珠澳大橋穿梭巴士仍然暫停服務。\n\n落馬洲管制站\n-短途跨境巴士服務─觀塘線(來回方向)由上午11時30分起恢復運作\n-短途跨境巴士服務─油尖線(來回方向)由上午11時30分起恢復運作\n-短途跨境巴士服務─灣仔線(北行)由下午12時15分起恢復運作\n-短途跨境巴士服務─灣仔線(南行)由下午12時35分起恢復運作\n-短途跨境巴士服務─旺角線(來回方向)由下午12時20分起恢復運作\n-短途跨境巴士服務─荃灣線(來回方向)由下午2時起恢復運作\n\n-落馬洲─皇崗過境穿梭巴士服務於下午1時起陸續恢復正常班次。"
+            },
+            "2024-09-06T17:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102834",
+                "CONTENT_EN": "The following cross-boundary coach services, which were affected by Tropical Cyclone, have resumed normal operations. Lok Ma Chau Control Point - Short-haul Cross-boundary Coach Service - Kwun Tong Route (both bounds) - Short-haul Cross-boundary Coach Service - Yau Tsim Route (both bounds) - Short-haul Cross-boundary Coach Service – Wan Chai Route (Northbound) - Short-haul Cross-boundary Coach Service – Wan Chai Route (Southbound) - Short-haul Cross-boundary Coach Service – Mong Kok Route (both bounds) - Short-haul Cross-boundary Coach Service – Tsuen Wan Route (both bounds) - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus",
+                "CONTENT_CN": "下列在較早前受熱帶氣旋影響的跨境巴士服務已回復正常運作： 落馬洲管制站 -短途跨境巴士服務─觀塘線(來回方向) -短途跨境巴士服務─油尖線(來回方向) -短途跨境巴士服務─灣仔線(北行) -短途跨境巴士服務─灣仔線(南行) -短途跨境巴士服務─旺角線(來回方向) -短途跨境巴士服務─荃灣線(來回方向) -落馬洲─皇崗過境穿梭巴士服務"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-09-06T13:16:04",
-        "last_announcement": "2024-09-06T12:52:00"
+        "last_update": "2024-09-06T17:41:47",
+        "last_announcement": "2024-09-06T17:29:00"
     },
     "IN-24-05161": {
         "description": {
@@ -3133,5 +3140,37 @@
         "district": "元朗區",
         "last_update": "2024-09-06T17:31:30",
         "last_announcement": "2024-09-06T17:07:00"
+    },
+    "IN-24-05189": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Lung Cheung Road Park",
+            "NEAR_LANDMARK_CN": "龍翔道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-06T17:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102833",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近龍翔道公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-09-06T17:41:47",
+        "last_announcement": "2024-09-06T17:24:00"
     }
 }
