@@ -123,52 +123,6 @@
         "last_update": "2024-09-03T11:16:40",
         "last_announcement": "2024-09-03T10:56:00"
     },
-    "IN-24-05096": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Track Signaling Fault",
-            "INCIDENT_DETAIL_CN": "信號故障",
-            "LOCATION_EN": "Airport Express Line, Airport Express Line, Tung Chung Line and Tung Chung Line Service Disruption",
-            "LOCATION_CN": "機場快綫，機場快綫，東涌綫及東涌綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-03T09:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102570",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that extra travelling time can be expected on the Airport Express &amp; Tung Chung Line. \nPlease allow more time for travel.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，機場快綫及東涌綫列車預計需要額外行車時間，\n請為行程預留充裕時間。"
-            },
-            "2024-09-03T09:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102571",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that due to a signalling equipment fault between Sunny Bay Station and Tsing Yi Station, Airport Express &amp; Tung Chung Line trains will operate at a slower speed from Sunny Bay Station to Tsing Yi Station. This could extend the total journey time on the Airport Express &amp; Tung Chung Line between Hong Kong Station and Tung Chung / AsiaWorld-Expo Station by 10-15 minutes.   In-town Check-in service close out time is extended from 90 minutes to 120 minutes.   Longer waiting times on Airport Express &amp; Tung Chung Line platforms can be expected. \n\nPlease allow more time for travel.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於欣澳站和青衣站之間有信號設備故障，機場快綫及東涌綫列車駛經欣澳站至青衣站路段時需要慢駛，機場快綫及東涌綫來往香港站及東涌/博覽館站的行車時間預計需要額外10-15分鐘。  市區預辦登機服務的截止時間，將由飛機起飛前的90分鐘改為飛機起飛前的120分鐘。  現時機場快綫及東涌綫月台上的乘客較多，候車時間亦會較長。\n\n請為行程預留充裕時間。"
-            },
-            "2024-09-03T10:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102572",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that the signalling equipment fault between Sunny Bay Station and Tsing Yi Station on the Airport Express &amp; Tung Chung Line has been repaired. Train operations can now be safely resumed. Normal train service is gradually resuming.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，欣澳站和青衣站之間的信號設備故障已完成復修。機場快綫及東涌綫列車服務逐步回復正常。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-09-03T10:54:40",
-        "last_announcement": "2024-09-03T10:28:00"
-    },
     "IN-24-05097": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2377,11 +2331,18 @@
                 "ID": "102774",
                 "CONTENT_EN": "Due to the effect of tropical cyclone, the public transport services arrangement are as follows: MTR Rail service is now operating at limited frequencies The MTR Bus service is suspended The In-town Check-in service will close 120 minutes before scheduled flight departure time Service on open sections of the Railway and Light Rail will be suspended immediately if Signal 9 or above is issued. MTR service arrangements are as follows. Line Service Tsuen Wan Line 10-minute intervals Kwun Tong Line 10-minute intervals Island Line 10-minute intervals South Island Line 10-minute intervals Tseung Kwan O Line North Point Station - Po Lam Station : 10-minute intervals Tiu Keng Leng Station - LOHAS Park Station : 15-minute intervals Tung Chung Line 10-minute intervals Disneyland Resort Line 15-minute intervals Airport Express 10-minute intervals East Rail Line Admiralty Station - Lo Wu Station : 10-minute intervals Admiralty Station - Lok Ma Chau Station : 20-minute intervals Tuen Ma Line 10-12-minute intervals Light Rail 15-19-minute intervals (No service for Route 614 and Route 615) MTR Bus No service KMB and LWB All daytime services of KMB and LWB are suspended, except KMB Routes B1 and B9, and LWB Routes S1, S64, S64C, S64P and S64X will provide limited service. Citybus All daytime services of Citybus are suspended, except Routes B3X, B7 (direct trip between Fanling Station and Heung Yuen Wai Port) and S1 will provide limited service. NLB All daytime services of NLB routes are suspended, except Routes 37M, 38, 39M, B2, B2P, B4 and B6 will provide limited service. Discovery Bay Bus Bus services provide limited service, except Route DB01A, DB02A and DB03P were suspended. Tram Service All tram services were suspended. Park Island Transport Company Limited Routes NR330, NR334 services were suspended. Route NR332: 30-minute intervals (additional stop at Tsing Yi) Central to Mid-Levels Escalator Service were suspended",
                 "CONTENT_CN": "因受熱帶氣旋的影響，公共運輸服務安排如下： 港鐵 鐵路維持有限度服務 港鐵巴士服務暫停 市區預辦登機服務維持於航班起飛前120分鐘截止 若改發九號或以上風球，露天段列車及輕鐵服務將即時暫停。 港鐵服務安排如下: 行車綫服務 荃灣綫10 分鐘一班 觀塘綫10 分鐘一班 港島綫10 分鐘一班 南港島綫10 分鐘一班 將軍澳綫北角站-寶琳站:10 分鐘一班 調景嶺站-康城站:15 分鐘一班 東涌綫10 分鐘一班 迪士尼綫15 分鐘一班 機場快綫10 分鐘一班 東鐵綫金鐘站-羅湖站:10 分鐘一班 金鐘站-落馬洲站:20 分鐘一班 屯馬綫10-12 分鐘一班 輕鐵15-19 分鐘一班(路線614及615服務暫停) 港鐵巴士服務暫停 九巴及龍運巴士 除九巴路線B1、B9，龍運路線S1、S64、S64C、S64P及S64X維持有限度服務外，其他九巴及龍運日間路線暫停服務。 城巴 除城巴路線B3X、B7（只提供粉嶺站不停站往來香園圍口岸的服務）及S1維持有限度服務，其他城巴日間路線暫停服務。 新大嶼山巴士 除路線37M、38、39M、B2、B2P、B4及B6維持有限度服務，其他日間路線暫停服務。 愉景灣巴士 除路線DB01A、DB02A及DB03P暫停服務，其他路線提供有限度服務。 電車服務 所有電車服務暫停。 珀麗灣客運 路線NR330、NR334暫停服務。 路綫NR332維持每30分鐘班次(加停青衣站) 中環至半山自動扶梯 暫停服務"
+            },
+            "2024-09-06T10:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102777",
+                "CONTENT_EN": "Due to the effect of tropical cyclone, the public transport services arrangement are as follows:\n\nMTR\n\nRail service frequencies will be increased gradually\n\nThe MTR Bus service will resume gradually after the issuance of Signal 3\n\nThe In-town Check-in service will close 120 minutes before scheduled flight departure time until further notice\n\n\nKMB and LWB\n\nMajority routes of KMB and LWB will gradually resume service from 1240hrs onwards. \n\nKMB Routes B1 and B9, LWB Routes S1, S64, S64C, S64P, and S64X are now providing limited services. \n\n\nCitybus\n\nMost of Citybus daytime routes and Cityflyer routes will resume service at the same time, but some routes will need to be suspended due to road conditions.  \n\n\nNLB\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\nDiscovery Bay Bus\n\nAll bus service will resume normal gradually from 12:00 noon. \n\nTram Service\n\nAll tram services were suspended. \n\nPark Island Transport Company Limited\n\nRoutes NR330 has resumed limited service at 11:00 hrs\nRoute NR332: 30-minute intervals (additional stop at Tsing Yi)\nNR334 service was suspended. \n\nCentral to Mid-Levels Escalator\n\nService were suspended.",
+                "CONTENT_CN": "因受熱帶氣旋的影響，公共運輸服務安排如下：\n\n港鐵\n\n鐵路服務稍後會逐步加密\n港鐵巴士將於三號風球發出後亦會逐步恢復服務\n市區預辦登機服務維持於航班起飛前120分鐘截止，直至另行通知\n\n\n九巴及龍運巴士\n\n九巴及龍運大部分路線會於下午12時40分起陸續恢復服務。\n\n九巴路線B1及B9、龍運S1、S64、S64C、S64P和S64X線正提供有限度服務。\n\n\n城巴\n\n城巴大部份日間路線及機場快線將會於下午12時40分起陸續恢復服務，部份路線或會因路面情況仍需暫停服務。\n\n新大嶼山巴士\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n愉景灣巴士\n除路線DB01A、DB02A及DB03P暫停服務，其他路線提供有限度服務。\n\n電車服務\n所有電車服務暫停。\n\n珀麗灣客運\n路線NR330於上午11時起恢復有限度服務。\n路綫NR332維持每30分鐘班次(加停青衣站)\nNR334暫停服務。\n\n\n中環至半山自動扶梯\n暫停服務。"
             }
         },
         "district": null,
-        "last_update": "2024-09-06T07:36:41",
-        "last_announcement": "2024-09-06T07:27:00"
+        "last_update": "2024-09-06T10:56:30",
+        "last_announcement": "2024-09-06T10:40:00"
     },
     "IN-24-05157": {
         "description": {
@@ -2998,11 +2959,18 @@
                 "ID": "102763",
                 "CONTENT_EN": "Due to high wind , the following traffic and transport arrangements will be implemented on Cross Bay Bridge at Tseung Kwan O : Motorists heading for Cross Bay Bridge are advised that the Cross Bay Bridge is going to be closed soon due to high wind. Motorists are advised to use alternative route for travelling to LOHAS Park, Kowloon and Tiu Keng Leng. Besides, the cycle track and footpath of the Cross Bay Bridge have been closed due to high wind. Please use alternative route for travelling to LOHAS Park and Tiu Keng Leng.",
                 "CONTENT_CN": "因強風，將軍澳跨灣大橋將實施下列交通及運輸安排: 前往跨灣大橋駕駛人士請注意，因強風，跨灣大橋即將封閉。駕駛人士請改用其他道路前往日出康城、九龍及調景嶺。 此外，跨灣大橋單車徑及行人路亦已封閉。請改用其他單車徑及行人路前往日出康城及調景嶺。"
+            },
+            "2024-09-06T10:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102776",
+                "CONTENT_EN": "Due to improved weather condition, the following traffic and transport arrangements have been implemented on Cross Bay Bridge at Tseung Kwan O : Motorists heading for Cross Bay Bridge are advised that all lanes of the Cross Bay Bridge have been re-opened. Besides, the cycle track and footpath of the Cross Bay Bridge are still being closed due to high wind. Please use alternative route for travelling to LOHAS Park and Tiu Keng Leng.",
+                "CONTENT_CN": "因天氣情況改善，將軍澳跨灣大橋現已實施下列交通及運輸安排: 前往跨灣大橋駕駛人士請注意，跨灣大橋全線已經重開。 此外，跨灣大橋單車徑及行人路仍然封閉。請改用其他單車徑及行人路前往日出康城及調景嶺。"
             }
         },
         "district": null,
-        "last_update": "2024-09-05T23:08:05",
-        "last_announcement": "2024-09-05T22:55:00"
+        "last_update": "2024-09-06T10:56:30",
+        "last_announcement": "2024-09-06T10:20:00"
     },
     "IN-24-05174": {
         "description": {
