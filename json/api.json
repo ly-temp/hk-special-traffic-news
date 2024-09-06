@@ -2334,11 +2334,18 @@
                 "ID": "102760",
                 "CONTENT_EN": null,
                 "CONTENT_CN": null
+            },
+            "2024-09-06T14:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102802",
+                "CONTENT_EN": "Traffic Arrangement\nThe HZMB HKLR will be re-opened at 2:00 pm. \n\nPublic Transport Arrangement\nShuttle Bus will resume operation at 2:00 pm. \n\nDrivers are requested to drive with care and pay attention to the direction of the Police or the Management, Operation and Maintenance (MOM) Contractor of HyD.",
+                "CONTENT_CN": "交通安排\n港珠澳大橋香港連接路將於今日下午2時00分起恢復開放給所有車輛行駛。\n\n公共交通服務安排\n穿梭巴士將於下午2時00分恢復正常服務。\n\n駕駛人士請盡量忍讓及留意警務人員或路政署的服務承辦商指示。"
             }
         },
         "district": null,
-        "last_update": "2024-09-05T22:28:34",
-        "last_announcement": "2024-09-05T21:50:00"
+        "last_update": "2024-09-06T14:20:09",
+        "last_announcement": "2024-09-06T14:06:00"
     },
     "IN-24-05158": {
         "description": {
@@ -3111,10 +3118,49 @@
                 "ID": "102796",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tsing Lung Tau is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近青龍頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-06T14:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102800",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Tsing Lung Tau which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近青龍頭的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-09-06T13:54:27",
-        "last_announcement": "2024-09-06T13:37:00"
+        "last_update": "2024-09-06T14:20:09",
+        "last_announcement": "2024-09-06T14:00:00"
+    },
+    "IN-24-05179": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-06T13:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102797",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近和富中心的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-09-06T14:20:09",
+        "last_announcement": "2024-09-06T13:48:00"
     }
 }
