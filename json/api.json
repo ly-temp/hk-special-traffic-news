@@ -2968,11 +2968,18 @@
                 "ID": "102891",
                 "CONTENT_EN": "The following road sections are busy:\n– Nathan Road (Tsim Sha Tsui bound)\n– Prince Edward Road West (Tai Kok Tsui bound)\n– Sai Yee Street (Boundary Street bound)\n– Mong Kok Road (Sai Yee Street bound)\n– Cheung Sha Wan Road (Mong Kok bound)\n– Waterloo Road near Kowloon Tong Club (Tsim Sha Tsui bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   Besides, traffic at the following road section has resumed normal:\n– Gloucester Road near Wan Chai Sports Ground (North Point bound).",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–彌敦道(往尖沙咀方向)\n–太子道西(往大角咀方向)\n–洗衣街(往界限街方向)\n–旺角道(往洗衣街方向)\n–長沙灣道(往旺角方向)\n–窩打老道近九龍塘會(往尖沙咀方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  此外，以下路段的交通現已恢復正常:\n–告士打道近灣仔運動場(往北角方向)。"
+            },
+            "2024-09-07T18:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102894",
+                "CONTENT_EN": "The following road sections are still busy:\n– Nathan Road near Mong Kok Road (Tsim Sha Tsui bound)\n– Prince Edward Road West (Tai Kok Tsui bound)\n– Sai Yee Street (Boundary Street bound)\n– Mong Kok Road (Sai Yee Street bound)\n– Cheung Sha Wan Road (Mong Kok bound)\n– Waterloo Road near Kowloon Tong Club (Tsim Sha Tsui bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–彌敦道近旺角道(往尖沙咀方向)\n–太子道西(往大角咀方向)\n–洗衣街(往界限街方向)\n–旺角道(往洗衣街方向)\n–長沙灣道(往旺角方向)\n–窩打老道近九龍塘會(往尖沙咀方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": null,
-        "last_update": "2024-09-07T17:42:55",
-        "last_announcement": "2024-09-07T17:30:00"
+        "last_update": "2024-09-07T18:32:12",
+        "last_announcement": "2024-09-07T18:09:00"
     },
     "IN-24-05210": {
         "description": {
@@ -3136,5 +3143,37 @@
         "district": "屯門區",
         "last_update": "2024-09-07T17:53:21",
         "last_announcement": "2024-09-07T17:40:00"
+    },
+    "IN-24-05214": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Queen's Road East",
+            "LOCATION_CN": "皇后大道東",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wong Nai Chung Road",
+            "DIRECTION_CN": "黃泥涌道",
+            "NEAR_LANDMARK_EN": "Stubbs Road",
+            "NEAR_LANDMARK_CN": "司徒拔道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-07T17:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102893",
+                "CONTENT_EN": "Due to emergency repairing works , part of the lanes of Queen's Road East (Wong Nai Chung Road bound) near Stubbs Road is closed to all traffic. Besides, part of the lanes of Stubbs Road (downhill bound) near Queen's Road East is also closed to all traffic. Only remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，皇后大道東(往黃泥涌道方向)近司徒拔道的部份行車線現已封閉。此外，司徒拔道(下山方向)近皇后大道東的部份行車線亦已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-09-07T18:32:12",
+        "last_announcement": "2024-09-07T17:58:00"
     }
 }
