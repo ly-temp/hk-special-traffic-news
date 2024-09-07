@@ -3019,5 +3019,37 @@
         "district": "大埔區",
         "last_update": "2024-09-07T19:21:25",
         "last_announcement": "2024-09-07T19:07:00"
+    },
+    "IN-24-05177": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Dangerous scaffolding",
+            "INCIDENT_DETAIL_CN": "危險棚架",
+            "LOCATION_EN": "Kimberley Street",
+            "LOCATION_CN": "金巴利街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Observatory Road",
+            "NEAR_LANDMARK_CN": "天文臺道",
+            "BETWEEN_LANDMARK_EN": "Shun Yee Street",
+            "BETWEEN_LANDMARK_CN": "信義街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-07T19:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102897",
+                "CONTENT_EN": "The only lane of Kimberley Street  between Observatory Road and Shun Yee Street which was closed due to dangerous scaffolding is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因危險棚架而封閉的金巴利街介乎天文臺道與信義街之間的唯一行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-09-07T20:17:48",
+        "last_announcement": "2024-09-07T19:51:00"
     }
 }
