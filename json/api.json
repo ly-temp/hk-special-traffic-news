@@ -3117,11 +3117,18 @@
                 "ID": "102880",
                 "CONTENT_EN": "The following road sections are still busy:\n– Gloucester Road near Wan Chai Sports Ground (North Point bound)\n– Nathan Road (Tsim Sha Tsui bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–告士打道近灣仔運動場(往北角方向)\n–彌敦道(往尖沙咀方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-09-07T16:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102882",
+                "CONTENT_EN": "The following road sections are busy:\n– Gloucester Road near Wan Chai Sports Ground (North Point bound)\n– Nathan Road (Tsim Sha Tsui bound)\n– Prince Edward Road West (Tai Kok Tsui bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–告士打道近灣仔運動場(往北角方向)\n–彌敦道(往尖沙咀方向)\n–太子道西(往大角咀方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": null,
-        "last_update": "2024-09-07T15:47:57",
-        "last_announcement": "2024-09-07T15:30:00"
+        "last_update": "2024-09-07T16:25:07",
+        "last_announcement": "2024-09-07T16:06:00"
     },
     "IN-24-05210": {
         "description": {
@@ -3161,5 +3168,37 @@
         "district": "油尖旺區",
         "last_update": "2024-09-07T15:58:13",
         "last_announcement": "2024-09-07T15:42:00"
+    },
+    "IN-24-05211": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Tsung Pak Long",
+            "NEAR_LANDMARK_CN": "松柏塱",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-07T16:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102883",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Fanling Highway (Yuen Long bound) near Tsung Pak Long is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，粉嶺公路(往元朗方向)近松柏塱的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-09-07T16:25:07",
+        "last_announcement": "2024-09-07T16:10:00"
     }
 }
