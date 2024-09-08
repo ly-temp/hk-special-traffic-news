@@ -3090,5 +3090,37 @@
         "district": "油尖旺區",
         "last_update": "2024-09-08T13:55:44",
         "last_announcement": "2024-09-08T13:37:00"
+    },
+    "IN-24-05225": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wan Chai Interchange",
+            "LOCATION_CN": "灣仔交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Canal Road Flyover",
+            "DIRECTION_CN": "堅拿道天橋",
+            "NEAR_LANDMARK_EN": "Tunnel Approach Rest Garden",
+            "NEAR_LANDMARK_CN": "隧道入口處休憩花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-08T13:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102918",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Wan Chai Interchange (Canal Road Flyover bound) near Tunnel Approach Rest Garden is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，灣仔交匯處(往堅拿道天橋方向)近隧道入口處休憩花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-09-08T14:21:59",
+        "last_announcement": "2024-09-08T13:43:00"
     }
 }
