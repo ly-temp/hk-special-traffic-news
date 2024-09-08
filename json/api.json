@@ -161,45 +161,6 @@
         "last_update": "2024-09-07T14:29:41",
         "last_announcement": "2024-09-07T14:10:00"
     },
-    "IN-24-05144": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Eastern Harbour Crossing",
-            "LOCATION_CN": "東區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": "Tunnel Entrance",
-            "NEAR_LANDMARK_CN": "管道入口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-05T09:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102676",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Eastern Harbour Crossing (Hong Kong Island bound) near tunnel entrance is closed to all traffic. \nOnly remaining lanes is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區海底隧道(往香港島方向)近隧道入口的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-09-05T09:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102677",
-                "CONTENT_EN": "Part of the lanes of Eastern Harbour Crossing (Hong Kong Island bound) near Tunnel Entrance which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區海底隧道(往香港島方向)近管道入口的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-09-05T10:01:25",
-        "last_announcement": "2024-09-05T09:28:00"
-    },
     "IN-24-05145": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2819,11 +2780,18 @@
                 "ID": "102893",
                 "CONTENT_EN": "Due to emergency repairing works , part of the lanes of Queen's Road East (Wong Nai Chung Road bound) near Stubbs Road is closed to all traffic. Besides, part of the lanes of Stubbs Road (downhill bound) near Queen's Road East is also closed to all traffic. Only remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因緊急維修，皇后大道東(往黃泥涌道方向)近司徒拔道的部份行車線現已封閉。此外，司徒拔道(下山方向)近皇后大道東的部份行車線亦已封閉。駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-09-08T09:36:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "102904",
+                "CONTENT_EN": "Part of the lanes of Queen's Road East (Wong Nai Chung Road bound) near Stubbs Road which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的皇后大道東(往黃泥涌道方向)近司徒拔道的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-09-07T18:32:12",
-        "last_announcement": "2024-09-07T17:58:00"
+        "last_update": "2024-09-08T10:38:29",
+        "last_announcement": "2024-09-08T09:36:00"
     },
     "IN-24-05215": {
         "description": {
@@ -2929,11 +2897,18 @@
                 "ID": "102902",
                 "CONTENT_EN": "Due to landslide , all lanes of Bride's Pool Road (both bounds) near Sam Tam Lo are still being closed to all traffic. Affected KMB bus routes nos. 275R have been temporary suspended. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因山泥傾瀉，新娘潭路(來回方向)近三担籮的全線仍然封閉。 受影響九巴巴士第275R號線暫時停駛。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-09-08T09:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102905",
+                "CONTENT_EN": "Due to landslide , all lanes of Bride's Pool Road (both bounds) near Sam Tam Lo are still being closed to all traffic. Affected KMB bus routes nos. 275R have been temporary suspended. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因山泥傾瀉，新娘潭路(來回方向)近三担籮的全線仍然封閉。 受影響九巴巴士第275R號線暫時停駛。 駕駛人士請考慮改用其他道路。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-09-08T09:39:08",
-        "last_announcement": "2024-09-08T08:55:00"
+        "last_update": "2024-09-08T10:38:29",
+        "last_announcement": "2024-09-08T09:47:00"
     },
     "IN-24-05217": {
         "description": {
@@ -3000,10 +2975,113 @@
                 "ID": "102903",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwai Chung bound) near Choi Hung Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往葵涌方向)近彩虹邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-08T09:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102906",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwai Chung bound) near Choi Hung Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往葵涌方向)近彩虹邨的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-09-08T09:39:08",
-        "last_announcement": "2024-09-08T09:24:00"
+        "last_update": "2024-09-08T10:38:29",
+        "last_announcement": "2024-09-08T09:57:00"
+    },
+    "IN-24-05219": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Elizabeth House",
+            "NEAR_LANDMARK_CN": "伊利莎伯大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-08T10:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102907",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Elizabeth House is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近伊利莎伯大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-09-08T10:38:29",
+        "last_announcement": "2024-09-08T10:02:00"
+    },
+    "IN-24-05220": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Shan Tunnel",
+            "LOCATION_CN": "龍山隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-08T10:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102908",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Lung Shan Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍山隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-09-08T10:38:29",
+        "last_announcement": "2024-09-08T10:03:00"
+    },
+    "IN-24-05221": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Bute Street",
+            "NEAR_LANDMARK_CN": "弼街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-08T10:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102909",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Corridor (Tsim Sha Tsui bound) near Bute Street is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因交通意外，西九龍走廊(往尖沙咀方向)近弼街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-09-08T10:38:29",
+        "last_announcement": "2024-09-08T10:13:00"
     }
 }
