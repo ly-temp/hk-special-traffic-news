@@ -566,38 +566,6 @@
         "last_update": "2024-09-06T12:55:06",
         "last_announcement": "2024-09-06T12:42:00"
     },
-    "IN-24-05128": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Destination change for individual train service on 06 and 07 Sep 2024",
-            "INCIDENT_DETAIL_CN": "2024年09月06日及07日個別列車始發/終到站更改",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-05T18:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102732",
-                "CONTENT_EN": "Gale or Storm Signal No 8 is now issued, High Speed Rail train service remains normal. If the weather conditions deteriorate, or a higher Tropical Cyclone Warning Signal is issued, train services may be suspended. The destination of High Speed Rail train G6048/G6047 on 06 and 07 Sep 2024 travelling between Hong Kong West Kowloon Station and Zhanjiangxi Station will change to Guangzhounan Station. Trains affected: G6048 (will arrive at Guangzhounan Station) G6047 (will depart from Guangzhounan Station) For the latest train schedules, please refer to the 12306 official website (12306. cn) or the mobile app. You may also check latest train information from the HSR website, mobile app or see the information provided at Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "八號烈風或暴風信號現正生效，高速鐵路列車服務現維持正常。 若天氣情況惡化或天文台發出較高熱帶氣旋警告信號，高速鐵路列車服務或會暫停。 2024年09月06日及07日原定來往香港西九龍站及湛江西站的高速鐵路列車車次G6048/G6047，更改為來往廣州南站至香港西九龍站。 受影響車次: G6048 (終到站更改為廣州南站) G6047 (始發站更改為廣州南站) 有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-09-05T18:49:30",
-        "last_announcement": "2024-09-05T18:40:00"
-    },
     "IN-24-05168": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
