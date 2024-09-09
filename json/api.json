@@ -2825,10 +2825,49 @@
                 "ID": "102948",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往九龍方向)近沙田馬場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-09T12:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102950",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往九龍方向)近沙田馬場的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-09-09T11:26:03",
-        "last_announcement": "2024-09-09T11:05:00"
+        "last_update": "2024-09-09T12:30:44",
+        "last_announcement": "2024-09-09T12:20:00"
+    },
+    "IN-24-05235": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Shanghai Street",
+            "LOCATION_CN": "上海街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Shantung Street",
+            "NEAR_LANDMARK_CN": "山東街",
+            "BETWEEN_LANDMARK_EN": "Argyle Street",
+            "BETWEEN_LANDMARK_CN": "亞皆老街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-09T12:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "102949",
+                "CONTENT_EN": "Due to emergency incident , all lanes of Shanghai Street between Shantung Street and Argyle Street are closed to all traffic. \nAt the same time, part of the lanes of Argyle Street (Tai Kok Tsui bound) near Shanghai Street is also closed.   Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，上海街介乎山東街與亞皆老街之間的全線現已封閉。\n同時，亞皆老街(大角咀方向)近上海街的部分車線亦已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-09-09T12:30:44",
+        "last_announcement": "2024-09-09T12:15:00"
     }
 }
