@@ -548,38 +548,6 @@
         "last_update": "2024-09-06T14:49:53",
         "last_announcement": "2024-09-06T14:30:00"
     },
-    "IN-24-05176": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Tung Lo Wan Fire Station",
-            "NEAR_LANDMARK_CN": "銅鑼灣消防局",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-06T13:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102790",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (Central bound) near Tung Lo Wan Fire Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東區走廊(往中環方向)近銅鑼灣消防局的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-09-06T13:34:12",
-        "last_announcement": "2024-09-06T13:11:00"
-    },
     "IN-24-05178": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2754,10 +2722,17 @@
                 "ID": "102952",
                 "CONTENT_EN": "Due to person in dangerous position , all lanes of Shanghai Street  between Shantung Street and Argyle Street are still being closed to all traffic. At the same time, part of the lanes of Argyle Street (Tai Kok Tsui bound) near Shanghai Street is also closed. Affected KMB Route No. 36B, 46 (West Kowloon Station bound) and 203E (Kowloon Station bound) have been diverted. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因有人在危險位置，上海街介乎山東街與亞皆老街之間的全線仍然封閉。 同時，亞皆老街(往大角咀方向)近上海街的部分車道亦已封閉。 受影響九巴第36B，46(往西九龍站方向)及203E(往九龍站方向)路線須改道行駛。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-09-09T13:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102953",
+                "CONTENT_EN": "All lanes of Shanghai Street between Shantung Street and Argyle Street which were closed due to person in dangerous position are re-opened to all traffic. At the same time, part of the lanes of Argyle Street (Tai Kok Tsui bound) near Shanghai Street is also reopened. \n\nAffected bus routes have resumed their original routeings.",
+                "CONTENT_CN": "較早前因有人在危險位置而封閉的上海街介乎山東街與亞皆老街之間的全線現已解封。同時，亞皆老街(往大角咀方向)近上海街的部分車道亦已解封。\n\n受影響巴士路線現已恢復原有路線行駛。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-09-09T13:13:43",
-        "last_announcement": "2024-09-09T12:40:00"
+        "last_update": "2024-09-09T13:42:12",
+        "last_announcement": "2024-09-09T13:23:00"
     }
 }
