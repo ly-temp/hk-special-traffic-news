@@ -1,43 +1,4 @@
 {
-    "IN-24-05136": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Typhoon Incident",
-            "INCIDENT_HEADING_CN": "颱風事故",
-            "INCIDENT_DETAIL_EN": "Strong Wind Signal No. 3",
-            "INCIDENT_DETAIL_CN": "三號強風信號",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-04T18:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102658",
-                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "由於三號強風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
-            },
-            "2024-09-06T12:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102781",
-                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "由於三號強風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-09-06T12:55:06",
-        "last_announcement": "2024-09-06T12:40:00"
-    },
     "IN-24-05138": {
         "description": {
             "INCIDENT_HEADING_EN": "Ferry Incident",
@@ -487,45 +448,6 @@
         "district": "油尖旺區",
         "last_update": "2024-09-06T17:41:47",
         "last_announcement": "2024-09-06T17:29:00"
-    },
-    "IN-24-05164": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
-            "INCIDENT_DETAIL_CN": "緊急維修",
-            "LOCATION_EN": "Yiu Hing Road",
-            "LOCATION_CN": "耀興道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-05T17:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102724",
-                "CONTENT_EN": "Due to inclement weather and while the emergency slope repair works are still in progress, both bounds traffic lanes of Yiu Hing Road between Yiu Kwai House and Yiu Hing House of Yiu Tung Estate are closed to all traffic. Motorists are advised to use alternative routes. Eastbound franchised bus and green minibus services will be diverted as follow: - Citybus route nos. 77, 99, 720X and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street, Tai Lok Street and Shau Kei Wan Road eastbound before resuming its original routeing; while Green Minibus route no. 50 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street and Tai Lok Street before resuming its original routeing. Westbound franchised bus and green minibus services will be diverted as follow: - Citybus route nos. 77, 82S, 99 and N8, Cross Harbour route nos. 110 and 606 departures that after Shau Kei Wan Road westbound near Sun Sing Street will be diverted via Shau Kei Wan Road westbound, Tai Hong Street, Lei King Road, Tai On Street, Shing On Street, Yiu Hing Road eastbound, Yiu Tung Estate Bus Terminus and Yiu Hing Road westbound before resuming its original routeing; while Green Minibus route no. 65 departures that after Shau Kei Wan Road westbound near Nam Hong Street will be diverted via Nam Hong Street, Yiu Hing Road westbound, Sun Sing Street, Sai Wan Ho Street, Shing On Street and Yiu Hing Road eastbound, before resuming its original routeing. Traffic is busy now.",
-                "CONTENT_CN": "因受惡劣天氣影響及緊急斜坡復修工程仍在進行中，耀興道介乎耀東邨耀貴樓與耀東邨耀興樓之間的來回方向行車線現已封閉。駕駛人士請考慮改用其他道路。 往東行方向的巴士及小巴路線須改道如下: -城巴第77、99、720X及N8號線、過海巴士第110及606號線及專線小巴第65號線須改道行駛，路線途經耀東邨巴士總站後，會改經耀興道西行、惠亨街、太樂街及筲箕灣道東行，然後返回原有路線；至於專線小巴第50號線在途經耀東邨巴士總站後，則會改經耀興道西行、惠亨街及太樂街，然後返回原有路線。 往西行方向的巴士及小巴路線須改道如下: -城巴第77、82S、99及N8號線、過海巴士第110及606號線須改道行駛，路線途經筲箕灣道西行近新成街後，巴士會改經筲箕灣道西行、太康街、鯉景道、太安街、成安街、耀興道東行、耀東邨巴士總站及耀興道西行，然後返回原有路線；至於專線小巴第65號線在途經筲箕灣道西行近南康街後，小巴會改經南康街、耀興道西行、新成街、西灣河街、成安街及耀興道東行，然後返回原有路線。 現時上址交通繁忙。"
-            },
-            "2024-09-06T12:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102783",
-                "CONTENT_EN": "Both bounds traffic lanes of Yiu Hing Road between Yiu Kwai House and Yiu Hing House of Yiu Tung Estate, which was closed earlier due to inclement weather and while the emergency slope repair works are still in progress, is re-opened to all traffic. The seven franchised bus routes (including Citybus Routes 77, 82S, 99, 720X, N8 and Cross Harbour Routes 110 and 606) and two green minibus (GMB) routes 50 and 60 plying Yiu Hing Road near Yiu Tung Estate, Shau Kei Wan all resume their original routeings.",
-                "CONTENT_CN": "較早前因受惡劣天氣影響及緊急斜坡復修工程仍在進行中，而封閉的耀興道介乎耀東邨耀貴樓與耀東邨耀興樓之間的來回方向行車線現已解封。 行經筲箕灣耀東邨耀興道的七條巴士路線（包括城巴第77、82S、99、720X、N8號線及過海巴士第110及606號線）及兩條專線小巴第50及65號線，全部恢復行駛原有路線。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-09-06T12:55:06",
-        "last_announcement": "2024-09-06T12:42:00"
     },
     "IN-24-05159": {
         "description": {
@@ -2864,10 +2786,17 @@
                 "ID": "102949",
                 "CONTENT_EN": "Due to emergency incident , all lanes of Shanghai Street between Shantung Street and Argyle Street are closed to all traffic. \nAt the same time, part of the lanes of Argyle Street (Tai Kok Tsui bound) near Shanghai Street is also closed.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，上海街介乎山東街與亞皆老街之間的全線現已封閉。\n同時，亞皆老街(大角咀方向)近上海街的部分車線亦已封閉。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-09-09T12:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102952",
+                "CONTENT_EN": "Due to person in dangerous position , all lanes of Shanghai Street  between Shantung Street and Argyle Street are still being closed to all traffic. At the same time, part of the lanes of Argyle Street (Tai Kok Tsui bound) near Shanghai Street is also closed. Affected KMB Route No. 36B, 46 (West Kowloon Station bound) and 203E (Kowloon Station bound) have been diverted. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因有人在危險位置，上海街介乎山東街與亞皆老街之間的全線仍然封閉。 同時，亞皆老街(往大角咀方向)近上海街的部分車道亦已封閉。 受影響九巴第36B，46(往西九龍站方向)及203E(往九龍站方向)路線須改道行駛。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-09-09T12:30:44",
-        "last_announcement": "2024-09-09T12:15:00"
+        "last_update": "2024-09-09T13:13:43",
+        "last_announcement": "2024-09-09T12:40:00"
     }
 }
