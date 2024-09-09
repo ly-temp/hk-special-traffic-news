@@ -534,38 +534,6 @@
         "last_update": "2024-09-06T16:10:44",
         "last_announcement": "2024-09-06T15:21:00"
     },
-    "IN-24-05182": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Siu Lam",
-            "NEAR_LANDMARK_CN": "小欖",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-06T14:35:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "102811",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Lam which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近小欖的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-09-06T15:20:45",
-        "last_announcement": "2024-09-06T14:35:00"
-    },
     "IN-24-05185": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2637,11 +2605,18 @@
                 "ID": "102958",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近畢架山花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-09T15:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "102965",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Lung Cheung Road Park. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近畢架山花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近龍翔道公園。 現時上址交通擠塞。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-09-09T14:41:26",
-        "last_announcement": "2024-09-09T14:32:00"
+        "last_update": "2024-09-09T15:24:59",
+        "last_announcement": "2024-09-09T15:02:00"
     },
     "IN-24-05239": {
         "description": {
