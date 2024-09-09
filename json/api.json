@@ -389,66 +389,6 @@
         "last_update": "2024-09-06T21:00:14",
         "last_announcement": "2024-09-06T20:29:00"
     },
-    "IN-24-05160": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": "Cross-boundary coach arrangement",
-            "LOCATION_CN": "跨境巴士服務安排",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-05T16:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102707",
-                "CONTENT_EN": "Due to the effect of tropical cyclone, the service of cross-boundary coach will be adjusted as follows: - Hong Kong Zhuhai-Macao-Bridge Shuttle Bus will gradually suspend service from 6.20 pm - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus maintains limited service - Short-haul Cross-boundary Coach Service of Lok Ma Chau Boundary Control Point: Mong Kok Route (Northbound): Last departure at 7.30 pm Mong Kok Route (Southbound): Last departure at 6.30 pm Wan Chai Route (Northbound): Last departure at 7.35 pm Wan Chai Route (Southbound): Last departure at 6.35 pm Yau Tsim Route (Northbound): Last departure at 8.20 pm Yau Tsim Route (Southbound): Last departure at 8.20 pm Kwun Tong Route (Northbound): Last departure at 8.20 pm Kwun Tong Route (Southbound): Last departure at 8.20 pm Tsuen Wan Route (Northbound): Last departure at 8.20 pm Tsuen Wan Route (Southbound): Last departure at 8.20 pm",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士將於晚上6時20分起陸續暫停服務 -落馬洲-皇崗過境穿梭巴士會維持有限度服務 -落馬洲管制站短途跨境巴士服務： 旺角線(北行)：尾班車將於晚上7時30分開出 旺角線(南行)：尾班車將於晚上6時30分開出 灣仔線(北行)：尾班車將於晚上7時35分開出 灣仔線(南行)：尾班車將於晚上6時35分開出 油尖線(北行)：尾班車將於晚上8時20分開出 油尖線(南行)：尾班車將於晚上8時20分開出 觀塘線(北行)：尾班車將於晚上8時20分開出 觀塘線(南行)：尾班車將於晚上8時20分開出 荃灣線(北行)：尾班車將於晚上8時20分開出 荃灣線(南行)：尾班車將於晚上8時20分開出"
-            },
-            "2024-09-05T20:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102747",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: - The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus has been suspended. - The service of short-haul cross-boundary coach of Lok Ma Chau Boundary Control Point has been suspended. - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will continue to maintain limited service.",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士已暫停服務。 -落馬洲管制站短途跨境巴士已暫停服務。 -落馬洲-皇崗過境穿梭巴士將繼續維持有限度服務。"
-            },
-            "2024-09-06T11:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102779",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: - The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus has been suspended. - Short-haul Cross-boundary Coach Service - Kwun Tong Route (both bounds) resumed operation at 11:30 am - Short-haul Cross-boundary Coach Service - Yau Tsim Route (both bounds) resumed operation at 11:30 am - Short-haul Cross-boundary Coach Service – Wan Chai Route (Northbound) will resume operation at 12:15 pm - Short-haul Cross-boundary Coach Service – Wan Chai Route (Southbound) will resume operation at 12:35 pm - Short-haul Cross-boundary Coach Service – Mong Kok Route (bothbounds) will resume operation at 12:20 pm - Short-haul Cross-boundary Coach Service – Tsuen Wan Route (bothbounds) will resume operation at 2:00 pm - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will continue to maintain limited service.",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士已暫停服務。 -短途跨境巴士服務─觀塘線(來回方向)由上午11時30分起恢復運作 -短途跨境巴士服務─油尖線(來回方向)由上午11時30分起恢復運作 -短途跨境巴士服務─灣仔線(北行)由下午12時15分起恢復運作 -短途跨境巴士服務─灣仔線(南行)由下午12時35分起恢復運作 -短途跨境巴士服務─旺角線(來回方向)由下午12時20分起恢復運作 -短途跨境巴士服務─荃灣線(來回方向)由下午2時起恢復運作 -落馬洲-皇崗過境穿梭巴士將繼續維持有限度服務。"
-            },
-            "2024-09-06T12:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102786",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows:\n\nHong Kong Zhuhai-Macao-Bridge\n- The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus is still being suspended. \n\nLok Ma Chau Control Point\n- Short-haul Cross-boundary Coach Service - Kwun Tong Route (both bounds) resumed operation at 11:30 am\n- Short-haul Cross-boundary Coach Service - Yau Tsim Route (both bounds) resumed operation at 11:30 am\n- Short-haul Cross-boundary Coach Service – Wan Chai Route (Northbound) will resume operation at 12:15 pm\n- Short-haul Cross-boundary Coach Service – Wan Chai Route (Southbound) will resume operation at 12:35 pm\n- Short-haul Cross-boundary Coach Service – Mong Kok Route (both bounds) will resume operation at 12:20 pm\n- Short-haul Cross-boundary Coach Service – Tsuen Wan Route (both bounds) will resume operation at 2:00 pm\n\n- Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will gradually resume normal service from 1:00pm.",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下：\n\n港珠澳大橋\n-港珠澳大橋穿梭巴士仍然暫停服務。\n\n落馬洲管制站\n-短途跨境巴士服務─觀塘線(來回方向)由上午11時30分起恢復運作\n-短途跨境巴士服務─油尖線(來回方向)由上午11時30分起恢復運作\n-短途跨境巴士服務─灣仔線(北行)由下午12時15分起恢復運作\n-短途跨境巴士服務─灣仔線(南行)由下午12時35分起恢復運作\n-短途跨境巴士服務─旺角線(來回方向)由下午12時20分起恢復運作\n-短途跨境巴士服務─荃灣線(來回方向)由下午2時起恢復運作\n\n-落馬洲─皇崗過境穿梭巴士服務於下午1時起陸續恢復正常班次。"
-            },
-            "2024-09-06T17:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102834",
-                "CONTENT_EN": "The following cross-boundary coach services, which were affected by Tropical Cyclone, have resumed normal operations. Lok Ma Chau Control Point - Short-haul Cross-boundary Coach Service - Kwun Tong Route (both bounds) - Short-haul Cross-boundary Coach Service - Yau Tsim Route (both bounds) - Short-haul Cross-boundary Coach Service – Wan Chai Route (Northbound) - Short-haul Cross-boundary Coach Service – Wan Chai Route (Southbound) - Short-haul Cross-boundary Coach Service – Mong Kok Route (both bounds) - Short-haul Cross-boundary Coach Service – Tsuen Wan Route (both bounds) - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus",
-                "CONTENT_CN": "下列在較早前受熱帶氣旋影響的跨境巴士服務已回復正常運作： 落馬洲管制站 -短途跨境巴士服務─觀塘線(來回方向) -短途跨境巴士服務─油尖線(來回方向) -短途跨境巴士服務─灣仔線(北行) -短途跨境巴士服務─灣仔線(南行) -短途跨境巴士服務─旺角線(來回方向) -短途跨境巴士服務─荃灣線(來回方向) -落馬洲─皇崗過境穿梭巴士服務"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-09-06T17:41:47",
-        "last_announcement": "2024-09-06T17:29:00"
-    },
     "IN-24-05189": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
