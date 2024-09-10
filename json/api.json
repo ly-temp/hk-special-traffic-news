@@ -2167,5 +2167,69 @@
         "district": "九龍城區",
         "last_update": "2024-09-10T15:22:03",
         "last_announcement": "2024-09-10T15:04:00"
+    },
+    "IN-24-05260": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Hong Chong Road",
+            "LOCATION_CN": "康莊道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-10T15:14:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103026",
+                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的康莊道(往海底隧道方向)近香港理工大學的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-09-10T15:33:00",
+        "last_announcement": "2024-09-10T15:14:00"
+    },
+    "IN-24-05262": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Kak Tin Village",
+            "NEAR_LANDMARK_CN": "隔田村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-10T15:19:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103027",
+                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Kak Tin Village which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近隔田村的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-09-10T15:33:00",
+        "last_announcement": "2024-09-10T15:19:00"
     }
 }
