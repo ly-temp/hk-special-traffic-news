@@ -2334,5 +2334,37 @@
         "district": "觀塘區",
         "last_update": "2024-09-10T17:54:59",
         "last_announcement": "2024-09-10T17:45:00"
+    },
+    "IN-24-05270": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kai Fuk Road",
+            "LOCATION_CN": "啓福道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Wang Chin Street",
+            "NEAR_LANDMARK_CN": "宏展街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-10T17:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103045",
+                "CONTENT_EN": "Part of the lanes of Kai Fuk Road (Yau Tong bound) near Wang Chin Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的啓福道(往油塘方向)近宏展街的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-10T18:16:14",
+        "last_announcement": "2024-09-10T17:52:00"
     }
 }
