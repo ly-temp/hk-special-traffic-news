@@ -122,52 +122,6 @@
         "last_update": "2024-09-07T14:29:41",
         "last_announcement": "2024-09-07T14:10:00"
     },
-    "IN-24-05200": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Yuen Chau Tsai",
-            "NEAR_LANDMARK_CN": "元洲仔",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-07T09:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102858",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Yuen Chau Tsai is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近元洲仔的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-07T09:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102859",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Yuen Chau Tsai is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tolo Highway (Kowloon bound) ends at Tolo Highway near Ma Wo. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近元洲仔的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在吐露港公路(往九龍方向)的車龍龍尾已到吐露港公路近馬窩。 現時上址交通擠塞。"
-            },
-            "2024-09-07T09:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102860",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Yuen Chau Tsai which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近元洲仔的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-09-07T10:32:23",
-        "last_announcement": "2024-09-07T09:29:00"
-    },
     "IN-24-05201": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2402,10 +2356,49 @@
                 "ID": "103009",
                 "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往九龍方向)近沙田馬場的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-10T10:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103013",
+                "CONTENT_EN": "The fast lane of Tai Po Road - Sha Tin (Kowloon bound) near Sha Tin Racecourse which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往九龍方向)近沙田馬場的快線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-09-10T10:03:12",
-        "last_announcement": "2024-09-10T09:40:00"
+        "last_update": "2024-09-10T10:49:54",
+        "last_announcement": "2024-09-10T10:03:00"
+    },
+    "IN-24-05254": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tonkin Street",
+            "LOCATION_CN": "東京街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lei Cheng Uk Estate",
+            "DIRECTION_CN": "李鄭屋邨",
+            "NEAR_LANDMARK_EN": "Fuk Wing Street",
+            "NEAR_LANDMARK_CN": "福榮街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-10T09:51:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103010",
+                "CONTENT_EN": "Part of the lanes of Tonkin Street (Lei Cheng Uk Estate bound) near Fuk Wing Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東京街(往李鄭屋邨方向)近福榮街的部份行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-09-10T10:49:54",
+        "last_announcement": "2024-09-10T09:51:00"
     }
 }
