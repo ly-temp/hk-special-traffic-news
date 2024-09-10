@@ -2500,11 +2500,18 @@
                 "ID": "103059",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近荃灣公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-11T07:43:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103062",
+                "CONTENT_EN": "The slow lane of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Park which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往九龍方向)近荃灣公園的慢線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-09-11T07:26:34",
-        "last_announcement": "2024-09-11T07:11:00"
+        "last_update": "2024-09-11T07:58:14",
+        "last_announcement": "2024-09-11T07:43:00"
     },
     "IN-24-05279": {
         "description": {
@@ -2532,10 +2539,17 @@
                 "ID": "103060",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-11T07:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103061",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Island Eastern Corridor (Central bound) ends at Island Eastern Corridor near Quarry Bay Park. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近鰂魚涌公園。 現時上址交通擠塞。"
             }
         },
         "district": "東區",
-        "last_update": "2024-09-11T07:48:07",
-        "last_announcement": "2024-09-11T07:38:00"
+        "last_update": "2024-09-11T07:58:14",
+        "last_announcement": "2024-09-11T07:42:00"
     }
 }
