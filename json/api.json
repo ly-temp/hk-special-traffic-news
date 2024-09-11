@@ -3040,5 +3040,37 @@
         "district": "葵青區",
         "last_update": "2024-09-11T21:41:10",
         "last_announcement": "2024-09-11T21:31:00"
+    },
+    "IN-24-05304": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Lantau Link",
+            "LOCATION_CN": "青嶼幹線",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Ma Wan",
+            "NEAR_LANDMARK_CN": "馬灣",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-11T23:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103126",
+                "CONTENT_EN": "Due to emergency incident , the slow lane of Lantau Link (Kowloon bound) near Ma Wan is closed to all traffic. Only remaining lanes is available to motorists.",
+                "CONTENT_CN": "因突發事件，青嶼幹線(往九龍方向)近馬灣的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-09-11T23:10:43",
+        "last_announcement": "2024-09-11T23:01:00"
     }
 }
