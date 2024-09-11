@@ -66,45 +66,6 @@
         "last_update": "2024-09-08T23:39:40",
         "last_announcement": "2024-09-08T23:24:00"
     },
-    "IN-24-05224": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "West Kowloon Corridor West",
-            "LOCATION_CN": "西九龍走廊西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Cherry Street",
-            "NEAR_LANDMARK_CN": "櫻桃街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-08T13:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102917",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of West Kowloon Corridor West (Kwai Chung bound) near Cherry Street is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因車輛故障，西九龍走廊西(往葵涌方向)近櫻桃街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-09-08T14:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102922",
-                "CONTENT_EN": "Part of the lanes of West Kowloon Corridor West (Kwai Chung bound) near Cherry Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的西九龍走廊西(往葵涌方向)近櫻桃街的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-09-08T15:18:22",
-        "last_announcement": "2024-09-08T14:54:00"
-    },
     "IN-24-05226": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2600,5 +2561,37 @@
         "district": "西貢區",
         "last_update": "2024-09-11T15:15:45",
         "last_announcement": "2024-09-11T14:57:00"
+    },
+    "IN-24-05289": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Cheung Wan Street",
+            "LOCATION_CN": "長環街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsing Yi Fire Station",
+            "DIRECTION_CN": "青衣消防局",
+            "NEAR_LANDMARK_EN": "Tsing Yi Heung Sze Wui Road",
+            "NEAR_LANDMARK_CN": "青衣鄉事會路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-11T15:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103094",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Cheung Wan Street (Tsing Yi Fire Station bound) near Tsing Yi Heung Sze Wui Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，長環街(往青衣消防局方向)近青衣鄉事會路的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-09-11T15:27:29",
+        "last_announcement": "2024-09-11T15:10:00"
     }
 }
