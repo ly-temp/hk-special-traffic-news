@@ -2575,5 +2575,37 @@
         "district": "元朗區",
         "last_update": "2024-09-11T12:49:46",
         "last_announcement": "2024-09-11T12:39:00"
+    },
+    "IN-24-05287": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "MTR Service Updates",
+            "INCIDENT_DETAIL_CN": "服務提升",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-11T14:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103091",
+                "CONTENT_EN": "MTRCL is enhancing the train service on 17 September 2024: · Enhanced train service from 3pm: 8 rail lines (except the Airport Express and Disneyland Resort Line) · Overnight train service: All rail lines (except the Airport Express, Disneyland Resort Line and journeys to or from Lo Wu and Lok Ma Chau stations on the East Rail Line) and 7 Light Rail routes · Extended MTR Bus service hours: MTR Bus routes 506, K51 and K54 For more information, please browse MTRCL website.",
+                "CONTENT_CN": "港鐵將於9月17日中秋節加強列車服務: ·下午3時起加強服務：8 條本地鐵路綫（不包括機場快綫及迪士尼綫） ·通宵行駛：所有本地鐵路綫（不包括機場快綫、迪士尼綫及東鐵綫往返羅湖及落馬洲站）及7條輕鐵路綫 ·延長服務時間：港鐵巴士506、K51及K54 詳情請瀏覽港鐵網頁。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-09-11T14:31:08",
+        "last_announcement": "2024-09-11T14:12:00"
     }
 }
