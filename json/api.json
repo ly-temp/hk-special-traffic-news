@@ -1,43 +1,4 @@
 {
-    "IN-24-05236": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "North Point",
-            "DIRECTION_CN": "北角",
-            "NEAR_LANDMARK_EN": "Man Po Street slip road",
-            "NEAR_LANDMARK_CN": "民寶街支路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-09T14:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102954",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central flyover (North Point bound) near Man Po Street slip road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，干諾道中天橋(往北角方向)近民寶街支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-09T14:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102957",
-                "CONTENT_EN": "Part of the lanes of the slip road leading from Connaught Road Central flyover (North Point bound) to Man Po Street  which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的由干諾道中天橋(往北角碼頭方向)通往民寶街 的支路的 部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-09T14:41:26",
-        "last_announcement": "2024-09-09T14:26:00"
-    },
     "IN-24-05237": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3199,11 +3160,18 @@
                 "ID": "103163",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Wong Tai Sin MTR Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Kwun Tong bound) ends at Lung Cheung Road near Lung Cheung Road Lookout. Motorists are advised to use alternative routes. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近黃大仙港鐵站的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往觀塘方向)的車龍龍尾已到龍翔道近龍翔道觀景台。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
+            },
+            "2024-09-12T14:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103175",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Wong Tai Sin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近黃大仙港鐵站的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-09-12T12:59:49",
-        "last_announcement": "2024-09-12T12:51:00"
+        "last_update": "2024-09-12T14:45:31",
+        "last_announcement": "2024-09-12T14:25:00"
     },
     "IN-24-05320": {
         "description": {
@@ -3335,5 +3303,37 @@
         "district": "觀塘區",
         "last_update": "2024-09-12T14:29:33",
         "last_announcement": "2024-09-12T14:13:00"
+    },
+    "IN-24-05323": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "San Wo Lane Playground",
+            "NEAR_LANDMARK_CN": "新和里遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-12T14:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103176",
+                "CONTENT_EN": "Due to watermain burst , the slow lane of Tuen Mun Road (Yuen Long bound) near San Wo Lane Playground is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，屯門公路(往元朗方向)近新和里遊樂場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-12T14:45:31",
+        "last_announcement": "2024-09-12T14:35:00"
     }
 }
