@@ -52,123 +52,6 @@
         "last_update": "2024-09-09T19:25:59",
         "last_announcement": "2024-09-09T19:07:00"
     },
-    "IN-24-05243": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Texaco Road North",
-            "LOCATION_CN": "德士古道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cheung Pei Shan Road",
-            "DIRECTION_CN": "象鼻山路",
-            "NEAR_LANDMARK_EN": "Tsuen Kam Interchange",
-            "NEAR_LANDMARK_CN": "荃錦交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-09T18:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102974",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Texaco Road North (Cheung Pei Shan Road bound) near Tsuen Kam Interchange is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，德士古道北(往象鼻山路方向)近荃錦交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-09T18:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102976",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Texaco Road North (Cheung Pei Shan Road bound) near Tsuen Kam Interchange is closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Texaco Road North (Cheung Pei Shan Road bound) ends at Kwai Tsing Road (Kwai Tsing Interchange). Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，德士古道北(往象鼻山路方向)近荃錦交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在德士古道北(往象鼻山路方向)的車龍龍尾已到葵青路(葵青交匯處)。 現時上址交通擠塞。"
-            },
-            "2024-09-09T18:41:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "102979",
-                "CONTENT_EN": "Part of the lanes of Texaco Road North (Cheung Pei Shan Road bound) near Tsuen Kam Interchange which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的德士古道北(往象鼻山路方向)近荃錦交匯處的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-09-09T19:14:45",
-        "last_announcement": "2024-09-09T18:41:00"
-    },
-    "IN-24-05244": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Chak Cheung Street",
-            "NEAR_LANDMARK_CN": "澤祥街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-09T18:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102977",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Chak Cheung Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近澤祥街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-09T18:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102981",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Chak Cheung Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的吐露港公路(往九龍方向)近澤祥街的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-09T19:14:45",
-        "last_announcement": "2024-09-09T18:44:00"
-    },
-    "IN-24-05246": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Western Harbour Crossing",
-            "LOCATION_CN": "西區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-09T19:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102984",
-                "CONTENT_EN": "The tunnel tube middle lane of Western Harbour Crossing (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的西區海底隧道(往九龍方向)的管道中線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-09-09T19:14:45",
-        "last_announcement": "2024-09-09T19:02:00"
-    },
     "IN-24-05247": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3434,5 +3317,69 @@
         "district": "元朗區",
         "last_update": "2024-09-12T19:10:57",
         "last_announcement": "2024-09-12T18:51:00"
+    },
+    "IN-24-05332": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O Tunnel",
+            "DIRECTION_CN": "將軍澳隧道",
+            "NEAR_LANDMARK_EN": "Hing Tin Estate",
+            "NEAR_LANDMARK_CN": "興田邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-12T19:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103202",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近興田邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-12T19:25:00",
+        "last_announcement": "2024-09-12T19:03:00"
+    },
+    "IN-24-05333": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Ching Tak Street",
+            "NEAR_LANDMARK_CN": "正德街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-12T19:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103203",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Ching Tak Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近正德街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-09-12T19:25:00",
+        "last_announcement": "2024-09-12T19:11:00"
     }
 }
