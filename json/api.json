@@ -3310,5 +3310,37 @@
         "district": "九龍城區",
         "last_update": "2024-09-12T17:13:53",
         "last_announcement": "2024-09-12T16:52:00"
+    },
+    "IN-24-05327": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hing Fat Street",
+            "LOCATION_CN": "興發街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Island Eastern Corridor",
+            "DIRECTION_CN": "東區走廊",
+            "NEAR_LANDMARK_EN": "Lau Li Street",
+            "NEAR_LANDMARK_CN": "琉璃街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-12T17:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103189",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hing Fat Street (Island Eastern Corridor bound) near Lau Li Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，興發街(往東區走廊方向)近琉璃街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-09-12T17:29:43",
+        "last_announcement": "2024-09-12T17:18:00"
     }
 }
