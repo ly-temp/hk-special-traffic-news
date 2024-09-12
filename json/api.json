@@ -45,52 +45,6 @@
         "last_update": "2024-09-09T15:56:36",
         "last_announcement": "2024-09-09T15:42:00"
     },
-    "IN-24-05238": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Beacon Heights",
-            "NEAR_LANDMARK_CN": "畢架山花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-09T14:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102958",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近畢架山花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-09T15:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102965",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Lung Cheung Road Park. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近畢架山花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近龍翔道公園。 現時上址交通擠塞。"
-            },
-            "2024-09-09T15:27:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "102966",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Beacon Heights which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近畢架山花園的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-09-09T15:46:33",
-        "last_announcement": "2024-09-09T15:27:00"
-    },
     "IN-24-05239": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3344,10 +3298,17 @@
                 "ID": "103178",
                 "CONTENT_EN": "Due to watermain burst , the slow lane of Tuen Mun Road (Yuen Long bound) near San Wo Lane Playground is still being closed to all traffic. Only remaining lanes is available to motorists. Citizens please take note KMB and LWB's service travelling via Tuen Mun Road (Yuen Long bound) has been affected. Citizens heading to the vicinity of Tuen Mun and Yuen Long (via Tuen Mun Road) please consider using other public transport services, such as MTR services. Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Tuen Mun Road near Tuen Mun Court and Lung Fu Road near Lung Mun Oasis. Traffic is congested now.",
                 "CONTENT_CN": "因水管爆裂，屯門公路(往元朗方向)近新和里遊樂場的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 市民請留意九巴及龍運途經屯門公路往元朗方向的服務會受影響。前往屯門、元朗一帶(途經屯門公路)的市民請考慮使用其他公共交通服務，例如港鐵服務。 現時在屯門公路(往元朗方向)的車龍龍尾已到屯門公路近屯門閣及龍富路近龍門居。 現時上址交通擠塞。"
+            },
+            "2024-09-12T15:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103179",
+                "CONTENT_EN": "Due to watermain burst , the slow lane of Tuen Mun Road (Yuen Long bound) near San Wo Lane Playground is still being closed to all traffic. Only remaining lanes is available to motorists. Citizens please take note KMB and LWB's service travelling via Tuen Mun Road (Yuen Long bound) has been affected. Citizens heading to the vicinity of Tuen Mun and Yuen Long (via Tuen Mun Road) please consider using other public transport services, such as MTR services. Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Tuen Mun Road near So Kwun Wat and Lung Fu Road near Lung Mun Oasis. Traffic is congested now.",
+                "CONTENT_CN": "因水管爆裂，屯門公路(往元朗方向)近新和里遊樂場的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 市民請留意九巴及龍運途經屯門公路往元朗方向的服務會受影響。前往屯門、元朗一帶(途經屯門公路)的市民請考慮使用其他公共交通服務，例如港鐵服務。 現時在屯門公路(往元朗方向)的車龍龍尾已到屯門公路近掃管笏及龍富路近龍門居。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-09-12T15:38:23",
-        "last_announcement": "2024-09-12T15:17:00"
+        "last_update": "2024-09-12T15:48:30",
+        "last_announcement": "2024-09-12T15:30:00"
     }
 }
