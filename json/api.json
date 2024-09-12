@@ -1,57 +1,4 @@
 {
-    "IN-24-05242": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": "Airport Express Line and Tung Chung Line Service Disruption",
-            "LOCATION_CN": "機場快綫及東涌綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-09T17:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102973",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Extra travelling time can be expected on the Airport Express &amp; Tung Chung Line. In-town Check-in service close out time is extended from 90 minutes to 120 minutes.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 機場快綫及東涌綫列車預計需要額外行車時間。 市區預辦登機服務的截止時間，將由飛機起飛前的90分鐘改為飛機起飛前的120分鐘。"
-            },
-            "2024-09-09T18:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102975",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to a signalling fault at Nam Cheong Station, Airport Express and Tung Chung Line trains will operate at a slower speed at Nam Cheong Station. This could extend the total journey time on the Airport Express between Hong Kong Station and AsiaWorld-Expo Station by 30-40 minutes and on the Tung Chung Line between Hong Kong Station and Tung Chung Station by 30-40 minutes. In-town Check-in service close out time is extended from 90 minutes to 180 minutes until further notice.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 由於南昌站有信號故障，機場快綫及東涌綫列車駛經該路段時需要慢駛，機場快綫來往香港站及博覽館站的行車時間預計需要額外30-40分鐘及東涌綫來往香港站及東涌站的行車時間預計需要額外30-40分鐘。 市區預辦登機服務的截止時間，將由飛機起飛前的90分鐘改為飛機起飛前的180分鐘，直至另行通知。"
-            },
-            "2024-09-09T18:39:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102980",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The signalling fault at Nam Cheong Station on the Airport Express &amp; Tung Chung Line has been repaired. Normal train service is gradually resuming. In-town Check-in service close out time remains at 180 minutes.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 南昌站的信號故障已完成復修。機場快綫及東涌綫列車服務逐步回復正常。 市區預辦登機服務的截止時間維持為飛機起飛前的180分鐘。"
-            },
-            "2024-09-09T19:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102985",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The signalling fault at Nam Cheong Station on the Airport Express &amp; Tung Chung Line has been repaired. Normal train service is gradually resuming. In-town Check-in service close out time resumed to 90 minutes.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 南昌站的信號故障已完成復修。機場快綫及東涌綫列車服務逐步回復正常。 市區預辦登機服務的截止時間恢復為飛機起飛前的90分鐘。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-09-09T19:25:59",
-        "last_announcement": "2024-09-09T19:07:00"
-    },
     "IN-24-05247": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3344,11 +3291,18 @@
                 "ID": "103202",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近興田邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-12T19:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103204",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Hing Tin Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tseung Kwan O Road (Tseung Kwan O Tunnel bound) ends at Kwun Tong Bypass near Kwun Tong Ferry Pier. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近興田邨的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在將軍澳道(往將軍澳隧道方向)的車龍龍尾已到觀塘繞道近觀塘碼頭。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-09-12T19:25:00",
-        "last_announcement": "2024-09-12T19:03:00"
+        "last_update": "2024-09-12T19:36:05",
+        "last_announcement": "2024-09-12T19:23:00"
     },
     "IN-24-05333": {
         "description": {
