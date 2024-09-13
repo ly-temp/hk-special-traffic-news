@@ -1,64 +1,4 @@
 {
-    "IN-24-05251": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Busy Road Sections",
-            "LOCATION_CN": "繁忙路段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-10T08:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "102996",
-                "CONTENT_EN": "The following road sections are busy:\n– Tseung Kwan O Tunnel Road (Kowloon bound)\nTraffic queue on Tseung Kwan O Tunnel Road (Kowloon bound) ends at Wan Po Road near Po Shun Road. \n– Tate's Cairn Highway (Kowloon bound)\nTraffic queue on Tate's Cairn Highway (Kowloon bound) ends at Tate's Cairn Highway near Sha Tin Hospital. \n– Lion Rock Tunnel Road (Kowloon bound)\nTraffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Lion Rock Tunnel Road near Shui Chuen O. \n– Po Shek Wu Road (Tai Tau Leng Roundabout)\n– So Kwun Po Road roundabout\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–將軍澳隧道公路(往九龍方向)\n現時在將軍澳隧道公路(往九龍方向)的車龍龍尾已到環保大道近寶順路。\n–大老山公路(往九龍方向)\n現時在大老山公路(往九龍方向)的車龍龍尾已到大老山公路近沙田醫院。\n–獅子山隧道公路(往九龍方向)\n現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到獅子山隧道道近水泉澳。\n–寶石湖路(大頭嶺迴旋處)\n–掃管埔路迴旋處\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-09-10T08:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "102998",
-                "CONTENT_EN": "The following road sections are busy:\n– Tseung Kwan O Tunnel Road (Kowloon bound)\nTraffic queue on Tseung Kwan O Tunnel Road (Kowloon bound) ends at Wan Po Road near Po Shun Road. \n– Tate's Cairn Highway (Kowloon bound)\nTraffic queue on Tate's Cairn Highway (Kowloon bound) ends at Tate's Cairn Highway near Sha Tin Hospital. \n– Lion Rock Tunnel Road (Kowloon bound)\nTraffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Lion Rock Tunnel Road near Shui Chuen O. \n– Kwun Tong Road (Yau Tong bound)\nTraffic queue on Kwun Tong Road (Yau Tong bound) ends at Kwun Tong Road near Kowloon Bay MTR Station. \n– Po Shek Wu Road (Tai Tau Leng Roundabout)\n– So Kwun Po Road roundabout\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–將軍澳隧道公路(往九龍方向)\n現時在將軍澳隧道公路(往九龍方向)的車龍龍尾已到環保大道近寶順路。\n–大老山公路(往九龍方向)\n現時在大老山公路(往九龍方向)的車龍龍尾已到大老山公路近沙田醫院。\n–獅子山隧道公路(往九龍方向)\n現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到獅子山隧道道近水泉澳。\n–觀塘道(往油塘方向)\n現時在觀塘道(往油塘方向)的車龍龍尾已到觀塘道近九龍灣港鐵站。\n–寶石湖路(大頭嶺迴旋處)\n–掃管埔路迴旋處\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-09-10T09:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103011",
-                "CONTENT_EN": "The following road sections are still busy:\n– Po Shek Wu Road (Tai Tau Leng Roundabout)\n– So Kwun Po Road roundabout\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   At the same time, traffic at the following road sections have resumed normal:\n– Tate's Cairn Highway (Kowloon bound)\n– Lion Rock Tunnel Road (Kowloon bound).",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–寶石湖路(大頭嶺迴旋處)\n–掃管埔路迴旋處\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n–大老山公路(往九龍方向)\n–獅子山隧道公路(往九龍方向)。"
-            },
-            "2024-09-10T11:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103015",
-                "CONTENT_EN": "The following road sections are still busy:\n– Po Shek Wu Road (Tai Tau Leng Roundabout)\n– So Kwun Po Road roundabout\nMotorists passing through the above road section尸 are advised to drive with utmost care and patience.   Citizens please take note KMB's service travelling via Po Shek Wu Road (Tai Tau Leng Roundabout) and So Kwun Po Road roundabout have been affected, citizens please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–寶石湖路(大頭嶺迴旋處)\n–掃管埔路迴旋處\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  市民請留意九巴途經寶石湖路(大頭嶺迴旋處)及掃管埔路迴旋處的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-09-10T11:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103018",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Po Shek Wu Road (Tai Tau Leng Roundabout)\n– So Kwun Po Road roundabout\nService of KMB travelling via Po Shek Wu Road (Tai Tau Leng Roundabout) and So Kwun Po Road roundabout has gradually resumed normal.",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–寶石湖路(大頭嶺迴旋處)\n–掃管埔路迴旋處\n較早前途經寶石湖路(大頭嶺迴旋處)及掃管埔路迴旋處的九巴服務已陸續回復正常。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-10T12:13:04",
-        "last_announcement": "2024-09-10T11:50:00"
-    },
     "IN-24-05258": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3240,11 +3180,18 @@
                 "ID": "103247",
                 "CONTENT_EN": "The following road section(s) is still busy:\n– Tuen Mun Road (Kowloon bound) near Tuen Mun Town Centre\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.   At the same time, traffic at the following road sections has resumed normal:\n– Lung Cheung Road (Kwun Tong bound).",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–屯門公路(往九龍方向)近屯門市中心\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n–龍翔道(往觀塘方向)。"
+            },
+            "2024-09-13T11:54:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103253",
+                "CONTENT_EN": "Traffic at the following road section has resumed normal:\n– Tuen Mun Road (Kowloon bound) near Tuen Mun Town Centre.",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–屯門公路(往九龍方向)近屯門市中心。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-09-13T11:07:52",
-        "last_announcement": "2024-09-13T10:58:00"
+        "last_update": "2024-09-13T12:32:29",
+        "last_announcement": "2024-09-13T11:54:00"
     },
     "IN-24-05341": {
         "description": {
@@ -3603,5 +3550,44 @@
         "district": "觀塘區",
         "last_update": "2024-09-13T12:12:07",
         "last_announcement": "2024-09-13T11:54:00"
+    },
+    "IN-24-05350": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tate's Cairn Highway",
+            "NEAR_LANDMARK_CN": "大老山公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-13T12:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103255",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Tate's Cairn Highway is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近大老山公路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-13T12:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103256",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Tate's Cairn Highway which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近大老山公路的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-09-13T12:32:29",
+        "last_announcement": "2024-09-13T12:12:00"
     }
 }
