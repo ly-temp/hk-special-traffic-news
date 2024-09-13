@@ -3297,11 +3297,18 @@
                 "ID": "103242",
                 "CONTENT_EN": "The following road sections are still busy:\n– Lung Cheung Road (Kwun Tong bound)\n– Tuen Mun Road (Kowloon bound) near Tuen Mun Town Centre\nMotorists passing through the above road sections are advised to drive with utmost care and patience. At the same time, traffic at the following road sections have resumed normal:\n– Po Shek Wu Road (Tai Tau Leng Roundabout)\n– So Kwun Po Road roundabout\n– Tate's Cairn Highway (Kowloon bound).",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–龍翔道(往觀塘方向)\n–屯門公路(往九龍方向)近屯門市中心\n駕駛人士行經上述路段敬請忍讓及小心駕駛。同時，以下路段的交通現已恢復正常:\n–寶石湖路(大頭嶺迴旋處)\n–掃管埔路迴旋處\n–大老山公路(往九龍方向)。"
+            },
+            "2024-09-13T10:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103247",
+                "CONTENT_EN": "The following road section(s) is still busy:\n– Tuen Mun Road (Kowloon bound) near Tuen Mun Town Centre\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.   At the same time, traffic at the following road sections has resumed normal:\n– Lung Cheung Road (Kwun Tong bound).",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–屯門公路(往九龍方向)近屯門市中心\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n–龍翔道(往觀塘方向)。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-09-13T10:50:02",
-        "last_announcement": "2024-09-13T10:26:00"
+        "last_update": "2024-09-13T11:07:52",
+        "last_announcement": "2024-09-13T10:58:00"
     },
     "IN-24-05341": {
         "description": {
@@ -3568,5 +3575,37 @@
         "district": "黃大仙區",
         "last_update": "2024-09-13T10:50:02",
         "last_announcement": "2024-09-13T10:24:00"
+    },
+    "IN-24-05348": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-13T10:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103246",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Tuen Mun Road (Kowloon bound) to Wong Chu Road  is still being closed to all traffic. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Fuk Hang Tsuen. Motorists are advised to use alternative routes. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，由屯門公路(往九龍方向)通往皇珠路 的支路的唯一行車線仍然封閉。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近福亨村。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-09-13T11:07:52",
+        "last_announcement": "2024-09-13T10:50:00"
     }
 }
