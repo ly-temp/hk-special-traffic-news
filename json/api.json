@@ -3518,5 +3518,101 @@
         "district": "觀塘區",
         "last_update": "2024-09-13T16:16:16",
         "last_announcement": "2024-09-13T15:46:00"
+    },
+    "IN-24-05356": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lei Yue Mun Road",
+            "LOCATION_CN": "鯉魚門道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Cha Kwo Ling Road",
+            "NEAR_LANDMARK_CN": "茶果嶺道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-13T16:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103265",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lei Yue Mun Road (Mong Kok bound) near Cha Kwo Ling Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，鯉魚門道(往旺角方向)近茶果嶺道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-13T16:35:25",
+        "last_announcement": "2024-09-13T16:08:00"
+    },
+    "IN-24-05358": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Classical Gardens",
+            "NEAR_LANDMARK_CN": "新峰花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-13T16:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103267",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Classical Gardens is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近新峰花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-09-13T16:35:25",
+        "last_announcement": "2024-09-13T16:14:00"
+    },
+    "IN-24-05357": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) Train Service Enhancement",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)進一步提升列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-13T16:14:52": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103266",
+                "CONTENT_EN": "As informed by the Mainland Railway Authorities, for the Mid-Autumn Festival and the following day (17 &amp; 18 September) , an additional pair of sleeper trains will be added between Hong Kong West Kowloon Station (WEK) and Beijingxi Station , as well as between WEK and Shanghai Hongqiao Station, in response to the holiday demand. Tickets are available for sale starting from 13 September 2024. \n\nIn addition, with the opening of the Meizhou-Longchuan high-speed railway, starting from September 14, the Mainland Railway Authorities have made slight adjustments to certain cross-border high-speed rail services. These adjustments mainly involve changes to the timetables and intermediate stations of the concerned trains. \n\nMajor changes include:\n\n- Train G6388 (departing from WEK to Chaoshan) will stop at a new intermediate station Kuitan, increasing the number of direct destinations on the Hong Kong section from 78 to 79. \n\n- Train G6509 (departing from Guangzhounan to WEK) will have a scheduled stop at Qingsheng. This change extends the last southbound train from Qingsheng to Hong Kong from approximately 6:17 pm to approximately 8:39 pm.   For more information, please refer to the information available at Hong Kong West Kowloon Station or call the High Speed Rail Ticketing and Customer Service Hotline on (852) 2120 0888 or visit the High Speed Rail website www. mtr. com. hk/highspeed.",
+                "CONTENT_CN": "內地鐵路單位通報，配合中秋節假期客運需求，中秋節當日及翌日(9月17日及18日)將會加開各一對來往香港西九龍站及北京西站、以及來往香港西九龍站及上海虹橋站的臥鋪列車，車票於9月13日起發售。\n\n此外，配合梅龍高鐵開通，由9月14日起，內地鐵路單位就個別跨境高鐵列車相應作出輕微調整，包括更改時間表及中途站。\n\n主要變動包括：\n\n-G6388列車(由香港西九龍站開往潮汕站)增停新站點葵潭，令高鐵（香港段）的直達站點數目由78個增至79個;\n\n-G6509列車(由廣州南站開往香港西九龍站)中途改停慶盛站，令慶盛南下返港的尾班車時間由現時的黃昏約6時17分延至晚上約8時39分。  有關詳情，請留意於香港西九龍站發放的最新資訊，亦可致電高速鐵路購票及客務熱綫(852)2120 0888查詢或瀏覽高速鐵路網站www.mtr.com.hk/highspeed。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-09-13T16:35:25",
+        "last_announcement": "2024-09-13T16:14:52"
     }
 }
