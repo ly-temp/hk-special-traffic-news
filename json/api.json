@@ -1,36 +1,4 @@
 {
-    "IN-24-05270": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kai Fuk Road",
-            "LOCATION_CN": "啓福道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Wang Chin Street",
-            "NEAR_LANDMARK_CN": "宏展街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-10T17:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103045",
-                "CONTENT_EN": "Part of the lanes of Kai Fuk Road (Yau Tong bound) near Wang Chin Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的啓福道(往油塘方向)近宏展街的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-10T18:16:14",
-        "last_announcement": "2024-09-10T17:52:00"
-    },
     "IN-24-05271": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3524,11 +3492,18 @@
                 "ID": "103276",
                 "CONTENT_EN": "The following road section(s) is busy: – East Kowloon Corrodor (Tsim Sha Tsui bound) Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙: –東九龍走廊(往尖沙咀方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-09-13T17:48:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103280",
+                "CONTENT_EN": "Traffic at the following road section has resumed normal:\n– East Kowloon Corridor (Tsim Sha Tsui bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–東九龍走廊(往尖沙咀方向)。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-09-13T17:19:37",
-        "last_announcement": "2024-09-13T17:08:00"
+        "last_update": "2024-09-13T18:32:13",
+        "last_announcement": "2024-09-13T17:48:00"
     },
     "IN-24-05362": {
         "description": {
@@ -3607,5 +3582,37 @@
         "district": "黃大仙區",
         "last_update": "2024-09-13T18:09:59",
         "last_announcement": "2024-09-13T17:57:00"
+    },
+    "IN-24-05364": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy road sections",
+            "LOCATION_CN": "交通繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-13T18:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103283",
+                "CONTENT_EN": "The following road section(s) are busy: – Connaught Road Central (Sai Wan bound) – Harcourt Road (Central bound) Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙: –干諾道中(往西環方向) –夏慤道(往中環方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-09-13T18:32:13",
+        "last_announcement": "2024-09-13T18:14:00"
     }
 }
