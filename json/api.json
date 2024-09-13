@@ -1,36 +1,4 @@
 {
-    "IN-24-05261": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Lok Shan Road",
-            "LOCATION_CN": "落山道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City Road",
-            "DIRECTION_CN": "九龍城道",
-            "NEAR_LANDMARK_EN": "Yuk Yat Street",
-            "NEAR_LANDMARK_CN": "旭日街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-10T15:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103024",
-                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Lok Shan Road (Kowloon City Road bound) near Yuk Yat Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，落山道(往九龍城道方向)近旭日街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-09-10T15:22:03",
-        "last_announcement": "2024-09-10T15:04:00"
-    },
     "IN-24-05260": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
