@@ -1,92 +1,4 @@
 {
-    "IN-24-05279": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "North Point Fire Station",
-            "NEAR_LANDMARK_CN": "北角消防局",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-11T07:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103060",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-11T07:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103061",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Island Eastern Corridor (Central bound) ends at Island Eastern Corridor near Quarry Bay Park. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近鰂魚涌公園。 現時上址交通擠塞。"
-            },
-            "2024-09-11T07:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103063",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (both bounds) near North Point Fire Station are closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Island Eastern Corridor (Central bound) ends at Island Eastern Corridor near Quarry Bay Park. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，東區走廊(來回方向)近北角消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近鰂魚涌公園。 現時上址交通擠塞。"
-            },
-            "2024-09-11T08:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103065",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (both bounds) near North Point Fire Station are closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Island Eastern Corridor (Central bound) ends at Island Eastern Corridor near Quarry Bay Park and Eastern Harbour Crossing near Eastern Harbour Crossing Kowloon entrance. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，東區走廊(來回方向)近北角消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近鰂魚涌公園及東區海底隧道近東區海底隧道九龍入口。 現時上址交通擠塞。"
-            },
-            "2024-09-11T08:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103066",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Island Eastern Corridor (Central bound) end at Island Eastern Corridor near Quarry Bay Park and Eastern Harbour Crossing near Eastern Harbour Crossing Kowloon entrance.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近鰂魚涌公園及東區海底隧道近東區海底隧道九龍入口。  現時上址交通擠塞。"
-            },
-            "2024-09-11T08:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103068",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Island Eastern Corridor (Central bound) end at Island Eastern Corridor near Oi Tung Estate and Lei Yue Mun Road near Lam Tin MTR Station.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近愛東邨及鯉魚門道近藍田港鐵站。  現時上址交通擠塞。"
-            },
-            "2024-09-11T08:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103072",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station is still being closed to all traffic. Only remaining lanes are available to motorists. Citizens please take note KMB's service travelling via Island Eastern Corridor (Central bound) has been affected, citizens please consider using other public transport services, such as MTR services. Traffic queues on Island Eastern Corridor (Central bound) ends at Island Eastern Corridor near Shau Kei Wan MTR Station and Kwun Tong Bypass near Laguna City. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角消防局的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 市民請留意九巴途經東區走廊往中環方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。 現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近筲箕灣港鐵站及觀塘繞道近麗港城。 現時上址交通擠塞。"
-            },
-            "2024-09-11T09:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103075",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near North Point Fire Station which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse. Citizens please take note KMB's service travelling via Island Eastern Corridor (Central bound) has been affected, citizens please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近北角消防局的部份行車線現已解封。 車龍有待消散。 市民請留意九巴途經東區走廊往中環方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-09-11T10:12:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103079",
-                "CONTENT_EN": "Service of KMB which was affected by traffic accident at Island Eastern Corridor (Central bound) near North Point Fire Station has gradually resumed normal.",
-                "CONTENT_CN": "較早前因位於東區走廊(往中環方向)近北角消防局的交通意外而受影響的九巴服務已陸續回復正常。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-09-11T10:34:39",
-        "last_announcement": "2024-09-11T10:12:00"
-    },
     "IN-24-05281": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -178,38 +90,6 @@
         "district": "油尖旺區",
         "last_update": "2024-09-11T10:56:34",
         "last_announcement": "2024-09-11T10:28:00"
-    },
-    "IN-24-05283": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "MegaBox",
-            "NEAR_LANDMARK_CN": "MegaBox",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-11T10:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103078",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near MegaBox is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近MegaBox的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-11T10:34:39",
-        "last_announcement": "2024-09-11T10:01:00"
     },
     "IN-24-05284": {
         "description": {
@@ -3697,10 +3577,49 @@
                 "ID": "103318",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Sai Kung bound) near Ngau Chi Wan Sports Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，清水灣道(往西貢方向)近牛池灣體育館的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-14T10:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103319",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Sai Kung bound) near Ngau Chi Wan Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往西貢方向)近牛池灣體育館的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-09-14T10:01:41",
-        "last_announcement": "2024-09-14T09:47:00"
+        "last_update": "2024-09-14T10:46:36",
+        "last_announcement": "2024-09-14T10:03:00"
+    },
+    "IN-24-05376": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Sha Tin Road",
+            "LOCATION_CN": "沙田路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lion Rock Tunnel",
+            "DIRECTION_CN": "獅子山隧道",
+            "NEAR_LANDMARK_EN": "Pok Hong Estate",
+            "NEAR_LANDMARK_CN": "博康邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-14T10:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103320",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Sha Tin Road (Lion Rock Tunnel bound) near Pok Hong Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，沙田路(往獅子山隧道方向)近博康邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-09-14T10:46:36",
+        "last_announcement": "2024-09-14T10:17:00"
     }
 }
