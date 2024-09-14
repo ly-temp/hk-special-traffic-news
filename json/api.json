@@ -1,57 +1,4 @@
 {
-    "IN-24-05281": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-11T08:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103074",
-                "CONTENT_EN": "The following road sections are still busy:\n– West Kowloon Highway (Western Harbour Crossing bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Yau Tong bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience. \nBut traffic at Tai Tau Leng Roundabout has resumed normal.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–西九龍公路(往西區海底隧道方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往油塘方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。\n但大頭嶺迴旋處交通已恢復正常。"
-            },
-            "2024-09-11T09:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103077",
-                "CONTENT_EN": "The following road sections are still busy:\n– West Kowloon Highway (Western Harbour Crossing bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Yau Tong bound)\n– Princess Margaret Road (Cross Harbour Tunnel bound)\n– Kwun Tong Bypass (Yau Tong bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–西九龍公路(往西區海底隧道方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往油塘方向)\n–公主道(往海底隧道方向)\n–觀塘繞道(往油塘方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-09-11T10:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103081",
-                "CONTENT_EN": "The following road sections are still busy:\n– West Kowloon Highway (Western Harbour Crossing bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Princess Margaret Road (Cross Harbour Tunnel bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience. \nBut traffic of the following road sections has resumed normal:\n– Kwun Tong Road (Yau Tong bound)\n– Kwun Tong Bypass (Yau Tong bound).",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–西九龍公路(往西區海底隧道方向)\n–東九龍走廊(往尖沙咀方向)\n–公主道(往海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。\n但以下路段的交通已恢復正常:\n–東九龍走廊(往尖沙咀方向)\n–觀塘繞道(往油塘方向)。"
-            },
-            "2024-09-11T11:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103085",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– West Kowloon Highway (Western Harbour Crossing bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Princess Margaret Road (Cross Harbour Tunnel bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–西九龍公路(往西區海底隧道方向)\n–東九龍走廊(往尖沙咀方向)\n–公主道(往海底隧道方向)。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-09-11T11:33:53",
-        "last_announcement": "2024-09-11T11:20:00"
-    },
     "IN-24-05285": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3577,10 +3524,49 @@
                 "ID": "103321",
                 "CONTENT_EN": "Due to vehicle breakdown , the only lane of Texaco Road Flyover (Tsuen Tsing Interchange bound) near Sha Tsui Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，德士古道天橋(往荃青交匯處方向)近沙咀道的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-09-14T11:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103324",
+                "CONTENT_EN": "The only lane of Texaco Road Flyover (Tsuen Tsing Interchange bound) near Sha Tsui Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的德士古道天橋(往荃青交匯處方向)近沙咀道的唯一行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-09-14T11:00:26",
-        "last_announcement": "2024-09-14T10:51:00"
+        "last_update": "2024-09-14T11:37:49",
+        "last_announcement": "2024-09-14T11:26:00"
+    },
+    "IN-24-05378": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-14T11:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103323",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of the slip road leading from Fanling Highway (Yuen Long bound) to Po Shek Wu Road (Tai Tau Leng Roundabout)  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，由粉嶺公路(往元朗方向)通往寶石湖路(大頭嶺迴旋處)的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-09-14T11:37:49",
+        "last_announcement": "2024-09-14T11:16:00"
     }
 }
