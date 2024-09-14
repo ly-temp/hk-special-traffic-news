@@ -38,38 +38,6 @@
         "last_update": "2024-09-12T10:35:21",
         "last_announcement": "2024-09-12T09:45:00"
     },
-    "IN-24-05301": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kwun Tong Ferry Pier",
-            "NEAR_LANDMARK_CN": "觀塘碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-11T19:51:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103123",
-                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)近觀塘碼頭的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-11T20:44:09",
-        "last_announcement": "2024-09-11T19:51:00"
-    },
     "IN-24-05303": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3595,11 +3563,18 @@
                 "ID": "103360",
                 "CONTENT_EN": "Traffic at Fan Kam Road (Choi Yuen Estate bound) has resumed normal.",
                 "CONTENT_CN": "粉錦公路(往彩園邨方向)的交通現已恢復正常。"
+            },
+            "2024-09-14T20:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103363",
+                "CONTENT_EN": "Traffic at Fan Kam Road (Choi Yuen Estate bound) has resumed normal. At the same time, the affected KMB bus service has gradually resumed normal.",
+                "CONTENT_CN": "粉錦公路(往彩園邨方向)的交通現已恢復正常。 同時，受影響的九巴服務已陸續回復正常。"
             }
         },
         "district": "北區",
-        "last_update": "2024-09-14T19:50:49",
-        "last_announcement": "2024-09-14T19:38:00"
+        "last_update": "2024-09-14T20:47:13",
+        "last_announcement": "2024-09-14T20:33:00"
     },
     "IN-24-05394": {
         "description": {
