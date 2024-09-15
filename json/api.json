@@ -140,45 +140,6 @@
         "last_update": "2024-09-14T08:43:49",
         "last_announcement": "2024-09-14T07:53:00"
     },
-    "IN-24-05335": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T20:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103210",
-                "CONTENT_EN": "Due to traffic accident , the only lane of the slip road leading from Ching Cheung Road (Tsuen Wan bound) to Butterfly Valley Road  is closed to all traffic. Motorists may use alternative routing. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，由呈祥道(往荃灣方向)通往蝴蝶谷道 的支路的唯一行車線現已封閉。 駕駛人士可改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-09-12T20:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103212",
-                "CONTENT_EN": "The only lane of the slip road leading from Ching Cheung Road (Tsuen Wan bound) to Butterfly Valley Road  which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的由呈祥道(往荃灣方向)通往蝴蝶谷道 的支路的 唯一行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-12T21:00:52",
-        "last_announcement": "2024-09-12T20:38:00"
-    },
     "IN-24-05336": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2931,10 +2892,17 @@
                 "ID": "103399",
                 "CONTENT_EN": "Due to traffic accident, the one-lane-two-way traffic arrangement is still being implemented on Keung Shan Road near Shing Fai Orchard.",
                 "CONTENT_CN": "因交通意外，羗山道近成輝果園現時仍然實施單線雙程行車措施。"
+            },
+            "2024-09-15T21:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103402",
+                "CONTENT_EN": "All lanes of Keung Shan Road (both bounds) near Shing Fai Orchard which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的羗山道(來回方向)近成輝果園的全線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-09-15T20:37:06",
-        "last_announcement": "2024-09-15T20:14:00"
+        "last_update": "2024-09-15T21:24:17",
+        "last_announcement": "2024-09-15T21:01:00"
     }
 }
