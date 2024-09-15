@@ -1,43 +1,4 @@
 {
-    "IN-24-05289": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Cheung Wan Street",
-            "LOCATION_CN": "長環街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsing Yi Fire Station",
-            "DIRECTION_CN": "青衣消防局",
-            "NEAR_LANDMARK_EN": "Tsing Yi Heung Sze Wui Road",
-            "NEAR_LANDMARK_CN": "青衣鄉事會路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-11T15:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103094",
-                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Cheung Wan Street (Tsing Yi Fire Station bound) near Tsing Yi Heung Sze Wui Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，長環街(往青衣消防局方向)近青衣鄉事會路的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-12T09:45:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103151",
-                "CONTENT_EN": "The slow lane of Cheung Wan Street (Tsing Yi Fire Station bound) near Tsing Yi Heung Sze Wui Road which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的長環街(往青衣消防局方向)近青衣鄉事會路的慢線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-09-12T10:35:21",
-        "last_announcement": "2024-09-12T09:45:00"
-    },
     "IN-24-05305": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -76,187 +37,6 @@
         "district": "中西區",
         "last_update": "2024-09-12T10:57:20",
         "last_announcement": "2024-09-12T10:37:00"
-    },
-    "IN-24-05312": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tsuen Wan Park",
-            "NEAR_LANDMARK_CN": "荃灣公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T09:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103143",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Park is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近荃灣公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-12T09:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103153",
-                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近荃灣公園的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-09-12T10:35:21",
-        "last_announcement": "2024-09-12T09:55:00"
-    },
-    "IN-24-05313": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Boundary Street",
-            "NEAR_LANDMARK_CN": "界限街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T09:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103144",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Waterloo Road flyover (Lion Rock Tunnel bound) near Boundary Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，窩打老道天橋(往獅子山隧道方向)近界限街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-12T09:21:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103146",
-                "CONTENT_EN": "The fast lane of Waterloo Road flyover (Lion Rock Tunnel bound) near Boundary Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的窩打老道天橋(往獅子山隧道方向)近界限街的快線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-09-12T10:35:21",
-        "last_announcement": "2024-09-12T09:21:00"
-    },
-    "IN-24-05315": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "West Kowloon Highway",
-            "LOCATION_CN": "西九龍公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Western Harbour Crossing",
-            "DIRECTION_CN": "西區海底隧道",
-            "NEAR_LANDMARK_EN": "Civil Aid Service Headquarters",
-            "NEAR_LANDMARK_CN": "民眾安全服務隊總部",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T09:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103147",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of West Kowloon Highway (Western Harbour Crossing bound) near Civil Aid Service Headquarters is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西九龍公路(往西區海底隧道方向)近民眾安全服務隊總部的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-12T09:41:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103148",
-                "CONTENT_EN": "The fast lane of West Kowloon Highway (Western Harbour Crossing bound) near Civil Aid Service Headquarters which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的西九龍公路(往西區海底隧道方向)近民眾安全服務隊總部的快線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-09-12T10:35:21",
-        "last_announcement": "2024-09-12T09:41:00"
-    },
-    "IN-24-05316": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Sha Tin Road",
-            "LOCATION_CN": "沙田路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Pok Hong Estate",
-            "NEAR_LANDMARK_CN": "博康邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T09:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103150",
-                "CONTENT_EN": "Sha Tin Road (Kowloon bound) near Pok Hong Estate is busy. Traffic queue on Sha Tin Road (Kowloon bound) ends at Sha Tin Road near Prince of Wales Hospital. Motorists passing through the above road section are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "沙田路(往九龍方向)近博康邨的交通繁忙。現時在沙田路(往九龍方向)的車龍龍尾已到沙田路近威爾斯親王醫院。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-12T10:35:21",
-        "last_announcement": "2024-09-12T09:42:00"
-    },
-    "IN-24-05317": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Wong Tai Sin MTR Station",
-            "NEAR_LANDMARK_CN": "黃大仙港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T10:04:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103154",
-                "CONTENT_EN": "The middle lane of Lung Cheung Road (Kwun Tong bound) near Wong Tai Sin MTR Station which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往觀塘方向)近黃大仙港鐵站的中線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-09-12T10:35:21",
-        "last_announcement": "2024-09-12T10:04:00"
     },
     "IN-24-05318": {
         "description": {
@@ -3401,5 +3181,37 @@
         "district": "灣仔區",
         "last_update": "2024-09-15T09:50:43",
         "last_announcement": "2024-09-15T08:05:00"
+    },
+    "IN-24-05399": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Castle Peak Road - Tam Mi",
+            "LOCATION_CN": "青山公路　–　潭尾段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Kam Tin Road",
+            "NEAR_LANDMARK_CN": "錦田公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-15T09:53:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103373",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Tam Mi (Yuen Long bound) near Kam Tin Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　潭尾段(往元朗方向)近錦田公路的部份行車線現已解封。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-09-15T10:44:47",
+        "last_announcement": "2024-09-15T09:53:00"
     }
 }
