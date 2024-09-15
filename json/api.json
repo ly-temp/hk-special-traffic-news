@@ -77,226 +77,6 @@
         "last_update": "2024-09-12T10:57:20",
         "last_announcement": "2024-09-12T10:37:00"
     },
-    "IN-24-05306": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Clear Water Bay Road",
-            "LOCATION_CN": "清水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lung Cheung Road",
-            "DIRECTION_CN": "龍翔道",
-            "NEAR_LANDMARK_EN": "Ngau Chi Wan Substation",
-            "NEAR_LANDMARK_CN": "牛池灣變電站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T07:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103130",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Ngau Chi Wan Substation is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，清水灣道(往龍翔道方向)近牛池灣變電站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-09-12T09:38:48",
-        "last_announcement": "2024-09-12T07:50:00"
-    },
-    "IN-24-05307": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Hong Kong Science Park",
-            "NEAR_LANDMARK_CN": "香港科學園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T07:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103131",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-12T09:38:48",
-        "last_announcement": "2024-09-12T07:55:00"
-    },
-    "IN-24-05308": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Busy road sections",
-            "LOCATION_CN": "繁忙路段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T08:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103132",
-                "CONTENT_EN": "The following road sections are busy:\n– So Kwun Po Road roundabout\n– Po Shek Wu Road (Tai Tau Leng Roundabout)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–掃管埔路迴旋處\n–寶石湖路(大頭嶺迴旋處)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-09-12T08:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103139",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– So Kwun Po Road roundabout\n– Po Shek Wu Road (Tai Tau Leng Roundabout).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–掃管埔路迴旋處\n–寶石湖路(大頭嶺迴旋處)。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-12T09:38:48",
-        "last_announcement": "2024-09-12T08:51:00"
-    },
-    "IN-24-05309": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Kwong Fuk Park",
-            "NEAR_LANDMARK_CN": "廣福公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T08:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103134",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Kwong Fuk Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近廣福公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-12T08:12:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103135",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Kwong Fuk Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近廣福公園的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-12T09:38:48",
-        "last_announcement": "2024-09-12T08:12:00"
-    },
-    "IN-24-05310": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Hong Kong Science Park",
-            "NEAR_LANDMARK_CN": "香港科學園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T08:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103137",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Tai Po bound) near Hong Kong Science Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往大埔方向)近香港科學園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-12T08:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103138",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Tai Po bound) near Hong Kong Science Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往大埔方向)近香港科學園的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-12T09:38:48",
-        "last_announcement": "2024-09-12T08:26:00"
-    },
-    "IN-24-05311": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Cheung Sha Wan Road",
-            "LOCATION_CN": "長沙灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Po Lun Street",
-            "NEAR_LANDMARK_CN": "寶輪街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T08:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103141",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Sha Wan Road (Mong Kok bound) near Po Lun Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，長沙灣道(往旺角方向)近寶輪街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-12T09:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103142",
-                "CONTENT_EN": "Part of the lanes of Cheung Sha Wan Road (Mong Kok bound) near Po Lun Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的長沙灣道(往旺角方向)近寶輪街的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-09-12T09:38:48",
-        "last_announcement": "2024-09-12T09:00:00"
-    },
     "IN-24-05312": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -373,38 +153,6 @@
         },
         "district": "油尖旺區",
         "last_update": "2024-09-12T10:35:21",
-        "last_announcement": "2024-09-12T09:21:00"
-    },
-    "IN-24-05314": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Texaco Road",
-            "LOCATION_CN": "德士古道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Tsing Interchange",
-            "DIRECTION_CN": "荃青交匯處",
-            "NEAR_LANDMARK_EN": "Tai Wo Hau Road",
-            "NEAR_LANDMARK_CN": "大窩口道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-12T09:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103145",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Texaco Road (Tsuen Tsing Interchange bound) near Tai Wo Hau Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，德士古道(往荃青交匯處方向)近大窩口道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-09-12T09:38:48",
         "last_announcement": "2024-09-12T09:21:00"
     },
     "IN-24-05315": {
@@ -3148,11 +2896,18 @@
                 "ID": "103334",
                 "CONTENT_EN": "Due to emergency road surface repairing works , the fast lane of Stubbs Road (downhill bound) near Queen's Road East is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因路面緊急維修，司徒拔道(下⼭方向)近皇后大道東的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-09-15T08:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103372",
+                "CONTENT_EN": "The fast lane of Stubbs Road amp; Queen's Road East  which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的司徒拔道及皇后大道東的快線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-09-14T14:43:17",
-        "last_announcement": "2024-09-14T14:28:00"
+        "last_update": "2024-09-15T09:50:43",
+        "last_announcement": "2024-09-15T08:54:00"
     },
     "IN-24-05386": {
         "description": {
@@ -3251,11 +3006,18 @@
                 "ID": "103340",
                 "CONTENT_EN": "Due to watermain emergency works , part of the lanes of the junction of Jaffe Road and O'Brien Road  is closed to all traffic. Only remaining lane is available to motorists. Vehicles cannot make left turning from O'Brien Road onto Jaffe Road. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，謝斐道與柯布連道交界的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 ⾞輛不能由柯布連道左轉⼊謝斐道。 現時上址交通繁忙。"
+            },
+            "2024-09-15T08:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103371",
+                "CONTENT_EN": "Part of the lanes of The junction of Jaffe Road and O'Brien Road  which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的謝斐道與柯布連道交界的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-09-14T16:23:48",
-        "last_announcement": "2024-09-14T15:54:00"
+        "last_update": "2024-09-15T09:50:43",
+        "last_announcement": "2024-09-15T08:14:00"
     },
     "IN-24-05388": {
         "description": {
@@ -3627,10 +3389,17 @@
                 "ID": "103368",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Mong Kok bound) near Robert Black General Out-patient Clinic is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，太子道東(往旺角方向)近柏立基普通科門診診所的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-15T08:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103369",
+                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Mong Kok bound) near Robert Black General Out-patient Clinic which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往旺角方向)近柏立基普通科門診診所的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-09-15T07:57:55",
-        "last_announcement": "2024-09-15T07:35:00"
+        "last_update": "2024-09-15T09:50:43",
+        "last_announcement": "2024-09-15T08:05:00"
     }
 }
