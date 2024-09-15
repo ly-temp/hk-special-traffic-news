@@ -3298,5 +3298,37 @@
         "district": "東區",
         "last_update": "2024-09-15T12:36:54",
         "last_announcement": "2024-09-15T12:15:00"
+    },
+    "IN-24-05404": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Fortress Hill Road",
+            "LOCATION_CN": "炮台山道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "downhill",
+            "DIRECTION_CN": "下山",
+            "NEAR_LANDMARK_EN": "King's Road",
+            "NEAR_LANDMARK_CN": "英皇道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-15T12:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103385",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Fortress Hill Road (downhill bound) near King's Road is closed to all traffic. Only remaining lanes are available to motorists.   The slow lane of King's Road (Causeway Bay bound) near Fortress Hill Road which was closed due to watermain burst is re-opened to all traffic.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，炮台山道(往下山方向)近英皇道的部份行車線現已封閉。駕駛人士只可使用餘下行車線行車。\n較早前因水管爆裂而封閉的英皇道(往銅鑼灣方向)近炮台山道的慢綫現已解封。  現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-09-15T12:57:37",
+        "last_announcement": "2024-09-15T12:34:00"
     }
 }
