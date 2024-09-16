@@ -2448,5 +2448,37 @@
         "district": "沙田區",
         "last_update": "2024-09-16T10:44:34",
         "last_announcement": "2024-09-16T10:17:00"
+    },
+    "IN-24-05413": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": "East Rail Line Service Disruption",
+            "LOCATION_CN": "東鐵綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-16T12:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103418",
+                "CONTENT_EN": "Due to a person on the track at Kowloon Tong Station, train service between Mong Kok East Station and Tai Wai Station on the East Rail Line has been suspended. Please consider using other transport.",
+                "CONTENT_CN": "由於有人進入九龍塘站路軌範圍，東鐵綫來往旺角東站至大圍站的列車服務暫停，請考慮使用其他交通工具。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-09-16T13:15:52",
+        "last_announcement": "2024-09-16T12:58:00"
     }
 }
