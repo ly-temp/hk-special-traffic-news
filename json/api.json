@@ -52,45 +52,6 @@
         "last_update": "2024-09-14T08:43:49",
         "last_announcement": "2024-09-14T07:53:00"
     },
-    "IN-24-05353": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Kai Yip Estate",
-            "NEAR_LANDMARK_CN": "啓業邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-13T14:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103261",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近啓業邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-13T14:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103262",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近啓業邨的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-13T14:49:58",
-        "last_announcement": "2024-09-13T14:32:00"
-    },
     "IN-24-05354": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2533,5 +2494,37 @@
         "district": "九龍城區",
         "last_update": "2024-09-16T14:45:19",
         "last_announcement": "2024-09-16T14:21:00"
+    },
+    "IN-24-05325": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-16T14:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103428",
+                "CONTENT_EN": "The Transport Department (TD) anticipates that there may be a number of cross-boundary passengers using public transport services to travel via the land boundary control points during and around the Chinese Mid-Autumn Festival. In the meantime, the number of cross boundary private cars travelling to / from the Mainland / Macao via the land boundary control points will also increase substantially. The TD has put in place the corresponding traffic and transport arrangements. Travelers are advised to plan their journeys ahead and travel outside peak periods as far as possible. \n\nLocal residents and visitors should particularly note that only MTR local lines and some Light Rail routes will provide overnight services on the evening of the Chinese Mid-Autumn Festival (i. e. the evening of 17 September). Airport Express Line, Disneyland Resort Line, and the services of East Rail Line to and from Lu Wu and Lok Ma Chau Stations will only maintain normal service hours. The departure times of the last trains of East Rail Line to and from Lo Wu and Lok Ma Chau Stations are given as follows:\n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\nThe public can make use of \"HKeMobility\" to access the snapshots of traffic conditions at the inbound and outbound vehicle plaza of HZMB Hong Kong Port, and they can also check the real time situations of the vehicle clearance plaza of HZMB Zhuhai Port through the service on real-time immigration clearance status of HZMB Zhuhai Port or「Zhuhai fa bu」WeChat official accounts (or visit https://traffic-info.gzazhka.com:5015/#/),inorder to plan their journeys ahead. \n\nMembers of the public are also advised that, subject to actual traffic conditions, special traffic arrangements may be implemented at Lok Ma Chau Control Point and Shenzhen Bay Port from 13 September to the early morning of 19 September 2024 to facilitate public transport vehicles to enter the above control points smoothly. Motorists are advised to pay special attention to variable message signs and traffic signs along the road. \n\nMembers of the public are also advised to keep in view the latest traffic news through radio, television broadcasts and TD's \"HKeMobility\" mobile application.",
+                "CONTENT_CN": "運輸署預計在中秋節及前後，將有大量跨境乘客使用公共運輸服務經各陸路管制站往返內地／澳門，而經各陸路管制站往返內地／澳門的跨境私家車亦會顯著增加，運輸署已作出相應交通及運輸安排，並在此呼籲旅客及早規劃行程，盡量選擇於非繁忙時段出行。\n\n市民及旅客需特別留意，中秋節當晚（即9月17日晚）港鐡只有本地鐵路綫及部分輕鐵路綫提供通宵服務。機場快綫、迪士尼綫及東鐵綫來往羅湖及落馬洲站的服務只會維持正常服務時間。東鐵綫來往落馬洲及羅湖站的尾班車開出時間詳列如下：\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n市民可透過「香港出行易」查閱港珠澳大橋香港口岸出境及入境客車通關廣場的交通快拍，以及透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務(或前往https://traffic-info.gzazhka.com:5015/#/)，查詢大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。\n\n市民亦請注意，視乎現場交通情況，落馬洲管制站及深圳灣口岸由2024年9月13日起至9月19日凌晨，或會實施特別交通安排，以便公共運輸車輛能暢順地進入上述口岸。駕駛人士請特別留意沿途可變信息顯示屏及交通標誌。\n\n運輸署亦請市民留意電台、電視台及運輸署流動應用程式「香港出行易」發放的最新交通消息。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-09-16T14:55:27",
+        "last_announcement": "2024-09-16T14:43:00"
     }
 }
