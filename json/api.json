@@ -3168,5 +3168,37 @@
         "district": "觀塘區",
         "last_update": "2024-09-18T00:55:33",
         "last_announcement": "2024-09-18T00:36:00"
+    },
+    "IN-24-05474": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "TSING YI ROAD WEST",
+            "LOCATION_CN": "青衣西路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Liu To Road",
+            "NEAR_LANDMARK_CN": "寮肚路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-18T06:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103579",
+                "CONTENT_EN": "Due to traffic accident , all lanes of TSING YI ROAD WEST (both bounds) near Liu To Road is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因交通意外，青衣西路(來回方向)近寮肚路的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-09-18T06:22:56",
+        "last_announcement": "2024-09-18T06:09:00"
     }
 }
