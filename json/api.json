@@ -2665,5 +2665,37 @@
         "district": "西貢區",
         "last_update": "2024-09-17T15:50:38",
         "last_announcement": "2024-09-17T15:33:00"
+    },
+    "IN-24-05451": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Handy tips for buying High Speed Rail tickets and travelling during holidays",
+            "INCIDENT_DETAIL_CN": "假日購票及乘車小貼士",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-17T15:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103505",
+                "CONTENT_EN": "A large number of passengers will be at the West Kowloon Station and travel on the High Speed Rail to enter the Mainland during the holidays. Please note the following before your journey: 1. Allow more time for immigration procedures. You may enter the gate at Level B1 120 minutes before the train departs at the earliest 2. Visit 12306 official website (12306. cn) or the mobile app for the latest train schedule and service adjustment You may buy HSR tickets up to 15 days before departure at different ticketing channels: 1. Please buy tickets through the 12306 official website (12306. cn) or mobile app, or through appointed travel agents (Click here) 2. If you would like to buy tickets at Hong Kong West Kowloon Station, you may use: · Self-service Ticket Machines: bring valid and original travel documents of all passengers; only e-payment methods are accepted (for example, contactless credit cards, WeChat Pay and Alipay) · Ticketing Counters: a longer waiting time is expected",
+                "CONTENT_CN": "假日期間，香港西九龍站會有較多旅客。出發乘搭高速鐵路前往內地前，需注意: 1.預留足夠時間辦理出入境手續，旅客最早可於開車前120分鐘於B1層入閘 2.瀏覽12306官方網站(12306.cn)或手機應用程式查看最新的列車班次及車務調動資訊 如需購買高速鐵路15天內車票: 1.建議使用12306官方網站(12306.cn)或手機應用程式，或透過指定代理購票(按此) 2.如前往香港西九龍站購票，可使用： ·自助售票機：需帶備所有乘車人士的有效旅遊證件正本；只接受電子支付（如感應式信用卡、微信支付及支付寶） ·票務櫃位：預計輪候時間可能會較長"
+            }
+        },
+        "district": null,
+        "last_update": "2024-09-17T16:10:06",
+        "last_announcement": "2024-09-17T15:31:00"
     }
 }
