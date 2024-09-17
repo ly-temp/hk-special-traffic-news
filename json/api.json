@@ -116,52 +116,6 @@
         "last_update": "2024-09-15T09:50:43",
         "last_announcement": "2024-09-15T08:14:00"
     },
-    "IN-24-05393": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wan Po Road",
-            "LOCATION_CN": "環保大道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O Industrial Estate",
-            "DIRECTION_CN": "將軍澳工業邨",
-            "NEAR_LANDMARK_EN": "Lohas Park Road",
-            "NEAR_LANDMARK_CN": "康城路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-14T19:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103355",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Wan Po Road (Tseung Kwan O Industrial Estate bound) near Lohas Park Road are closed to all traffic. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，環保大道(往將軍澳工業邨方向)近康城路的全線現已封閉。 現時上址交通繁忙。"
-            },
-            "2024-09-14T19:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103357",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wan Po Road (Tseung Kwan O Industrial Estate bound) near Lohas Park Road are closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，環保大道(往將軍澳工業邨方向)近康城路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-14T19:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103362",
-                "CONTENT_EN": "Part of the lanes of Wan Po Road (Tseung Kwan O Industrial Estate bound) near Lohas Park Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的環保大道(往將軍澳工業邨方向)近康城路的部份行車線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-09-14T20:12:07",
-        "last_announcement": "2024-09-14T19:57:00"
-    },
     "IN-24-05392": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -207,38 +161,6 @@
         "district": "北區",
         "last_update": "2024-09-14T20:47:13",
         "last_announcement": "2024-09-14T20:33:00"
-    },
-    "IN-24-05394": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sham Tseng Fire Station",
-            "NEAR_LANDMARK_CN": "深井消防局",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-14T19:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103361",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng Fire Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井消防局的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-09-14T20:12:07",
-        "last_announcement": "2024-09-14T19:45:00"
     },
     "IN-24-05396": {
         "description": {
@@ -2585,11 +2507,39 @@
                 "ID": "103538",
                 "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Tai Tau Leng Roundabout\n– Chatham Road North (Tsim Sha Tsui bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– Connaught Road Central flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Kennedy Town bound)\n– Gloucester Road (Central bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Tseung Kwan O Road (Tseung Kwan O bound)\n– New Clear Water Bay Road (Lung Cheung Road bound)\n– Princess Margaret Road (Lion Rock Tunnel bound)\n– Waterloo Road (Lion Rock Tunnel bound)\n– Lung Cheung Road (both bounds)\nMotorists passing through the above road sections are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Road, Kwun Tong Bypass, Lung Cheung Road, New Clear Water Bay Road, please consider using other public transport services, such as MTR services.",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–大頭嶺迴旋處\n–漆咸道北(往尖沙咀方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往堅尼地城方向)\n–告士打道(往中環方向)\n–大埔公路　–　沙田段(往大埔方向)\n–呈祥道(往荃灣方向)\n–將軍澳道(往將軍澳方向)\n–新清水灣道(往龍翔道方向)\n–公主道(往獅子山隧道方向)\n–窩打老道(往獅子山隧道方向)\n–龍翔道(來回方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。市民請留意九巴服務會受影響。途經觀塘繞道，觀塘道，龍翔道，新清水灣道的市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-09-17T19:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103546",
+                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– New Clear Water Bay Road (Lung Cheung Road bound)\n– Ying Yip Road (Clear Water Bay Road bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Road, Kwun Tong Bypass, New Clear Water Bay Road, please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–新清水灣道(往龍翔道方向)\n–影業路(往清水灣道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。市民請留意九巴服務會受影響。途經觀塘繞道，觀塘道，新清水灣道的市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-09-17T20:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103548",
+                "CONTENT_EN": "The following road section(s) are still busy: – Kwun Tong Bypass (Tate's Cairn Tunnel bound) – Clear Water Bay Road (Lung Cheung Road bound) – New Clear Water Bay Road (Lung Cheung Road bound) – Ying Yip Road (Clear Water Bay Road bound) Motorists passing through the above road section(s) are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Bypass, New Clear Water Bay Road, please consider using other public transport services, such as MTR services. Service of KMB via Kwun Tong Road which was affected earlier has gradually resumed normal.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙: –觀塘繞道(往大老山隧道方向) –清水灣道(往龍翔道方向) –新清水灣道(往龍翔道方向) –影業路(往清水灣道方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。 市民請留意九巴服務會受影響。途經觀塘繞道，新清水灣道的市民請考慮使用其他公共交通服務，例如港鐵服務。 較早前途經觀塘道受影響的九巴服務已陸續回復正常。"
+            },
+            "2024-09-17T20:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103549",
+                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Ying Yip Road (Clear Water Bay Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Bypass, please consider using other public transport services, such as MTR services. \n\nService of KMB via New Clear Water Bay Road which was affected earlier has gradually resumed normal.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–影業路(往清水灣道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。市民請留意九巴服務會受影響。途經觀塘繞道的市民請考慮使用其他公共交通服務，例如港鐵服務。\n\n較早前途經新清水灣道受影響的九巴服務已陸續回復正常。"
+            },
+            "2024-09-17T20:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103550",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Ying Yip Road (Clear Water Bay Road bound)\nService of KMB via Kwun Tong Bypass which was affected earlier has gradually resumed normal.",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–觀塘繞道(往大老山隧道方向)\n–影業路(往清水灣道方向)\n較早前途經觀塘繞道受影響的九巴服務已陸續回復正常。"
             }
         },
         "district": null,
-        "last_update": "2024-09-17T19:37:39",
-        "last_announcement": "2024-09-17T19:15:00"
+        "last_update": "2024-09-17T20:41:34",
+        "last_announcement": "2024-09-17T20:27:00"
     },
     "IN-24-05455": {
         "description": {
@@ -2888,5 +2838,37 @@
         "district": "黃大仙區",
         "last_update": "2024-09-17T19:57:48",
         "last_announcement": "2024-09-17T19:42:00"
+    },
+    "IN-24-05461": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Wong Tai Sin MTR Station",
+            "NEAR_LANDMARK_CN": "黃大仙港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-17T19:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103547",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Wong Tai Sin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近黃大仙港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-09-17T20:41:34",
+        "last_announcement": "2024-09-17T19:57:00"
     }
 }
