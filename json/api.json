@@ -38,45 +38,6 @@
         "last_update": "2024-09-16T07:08:41",
         "last_announcement": "2024-09-16T06:50:00"
     },
-    "IN-24-05400": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Structural / Mechanical Defects or Closure of Access",
-            "INCIDENT_DETAIL_CN": "結構/機械缺陷或關閉",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-15T10:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103377",
-                "CONTENT_EN": "Tsui Wah Ferry Service (H. K. ) Limited Due to vessel defect, the following ferry service will be suspended: Sai Kung to Kau Sai Village/High Island: 1130 hrs",
-                "CONTENT_CN": "翠華船務（香港）有限公司 由於船隻機件故障，以下渡輪服務將會暫停: 西貢至滘西村/糧船灣:11時30分"
-            },
-            "2024-09-15T14:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103388",
-                "CONTENT_EN": "Tsui Wah Ferry Service (H. K. ) Limited The following ferry service which was suspended due to vessel defects has been resumed at 1430 hrs: Sai Kung to Kau Sai Village/High Island",
-                "CONTENT_CN": "翠華船務（香港）有限公司 較早前因船隻機件故障而停航的以下渡輪服務於下午2時30分恢復服務： 西貢⾄滘西村/糧船灣"
-            }
-        },
-        "district": null,
-        "last_update": "2024-09-15T14:49:03",
-        "last_announcement": "2024-09-15T14:24:00"
-    },
     "IN-24-05404": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
