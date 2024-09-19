@@ -38,77 +38,6 @@
         "last_update": "2024-09-18T09:11:36",
         "last_announcement": "2024-09-18T08:26:00"
     },
-    "IN-24-05418": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "San Tin Interchange",
-            "NEAR_LANDMARK_CN": "新田交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-16T16:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103430",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Fanling Highway (Sheung Shui bound) near San Tin Interchange is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，粉嶺公路(往上水方向)近新田交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-16T16:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103435",
-                "CONTENT_EN": "Part of the lanes of Fanling Highway (Sheung Shui bound) near San Tin Interchange which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的粉嶺公路(往上水方向)近新田交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-09-16T16:55:24",
-        "last_announcement": "2024-09-16T16:38:00"
-    },
-    "IN-24-05419": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Austin Road West",
-            "LOCATION_CN": "柯士甸道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Xiqu Centre",
-            "NEAR_LANDMARK_CN": "戲曲中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-16T16:34:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103433",
-                "CONTENT_EN": "Part of the lanes of Austin Road West (Hung Hom bound) near Xiqu Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的柯士甸道西(往紅磡方向)近戲曲中心的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-09-16T16:55:24",
-        "last_announcement": "2024-09-16T16:34:00"
-    },
     "IN-24-05421": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2907,10 +2836,88 @@
                 "ID": "103629",
                 "CONTENT_EN": "Due to traffic accident , the only lane of Tung Lo Wan Road (Eastern Hospital Road bound) near St Paul's Convent School is still being closed to all traffic. \nThe following roads are busy:\n- Tung Lo Wan Road\n- Causeway Road\n- Hennessy Road\n- Leighton Road\n- Morrison Hill Road\n\nAffected Citybus route nos. 592, 72, 72A (Causeway Bay (Moreton Terrace) bound), cross harbour bus route nos. 108 (Braemar Hill bound), 930, 952, 962X, 969 (Causeway Bay (Moreton Terrace) bound) have been diverted.   Traffic queues on Tung Lo Wan Road (Eastern Hospital Road bound) ends at Hennessy Road near Percival Street and Causeway Road near Hing Fat Street.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，銅鑼灣道(往東院道方向)近聖保祿學校的唯一行車線仍然封閉。\n以下路段⼀帶的交通繁忙:\n-銅鑼灣道\n-⾼⼠威道\n-軒尼詩道\n-禮頓道\n-摩理臣山道\n\n受影響城巴第592，72，72A號線（往銅鑼灣(摩頓台)方向），隧巴第108號線（往寶馬山方向），930X，952，962X，969號線（往銅鑼灣(摩頓台)方向）須改道行駛。  現時在銅鑼灣道(往東院道方向)的車龍龍尾已到軒尼詩道近波斯富街及高士威道近興發街。  現時上址交通擠塞。"
+            },
+            "2024-09-19T16:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103632",
+                "CONTENT_EN": "The only lane of Tung Lo Wan Road (Eastern Hospital Road bound) near St Paul's Convent School which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse. Affected bus routes have resumed their original routeings. At the same time, the following roads are still busy: - Tung Lo Wan Road - Causeway Road - Hennessy Road - Leighton Road - Morrison Hill Road",
+                "CONTENT_CN": "較早前因交通意外而封閉的銅鑼灣道(往東院道方向)近聖保祿學校的唯一行車線現已解封。 車龍有待消散。 受影響巴士路線現已恢復原有路線行駛。 以下路段⼀帶的交通仍然繁忙: -銅鑼灣道 -⾼⼠威道 -軒尼詩道 -禮頓道 -摩理臣山道"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-09-19T16:53:29",
-        "last_announcement": "2024-09-19T16:27:00"
+        "last_update": "2024-09-19T17:13:18",
+        "last_announcement": "2024-09-19T16:52:00"
+    },
+    "IN-24-05491": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "San Tin Highway",
+            "LOCATION_CN": "新田公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "San Tin Interchange",
+            "NEAR_LANDMARK_CN": "新田交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-19T16:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103630",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of San Tin Highway (Sheung Shui bound) near San Tin Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，新田公路(往上水方向)近新田交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-09-19T17:13:18",
+        "last_announcement": "2024-09-19T16:40:00"
+    },
+    "IN-24-05492": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "East Kowloon Corridor",
+            "LOCATION_CN": "東九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Chi Kiang Street",
+            "NEAR_LANDMARK_CN": "浙江街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-19T16:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103631",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of East Kowloon Corridor (Kwun Tong bound) near Chi Kiang Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東九龍走廊(往觀塘方向)近浙江街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-19T17:01:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103633",
+                "CONTENT_EN": "Part of the lanes of East Kowloon Corridor (Kwun Tong bound) near Chi Kiang Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東九龍走廊(往觀塘方向)近浙江街的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-09-19T17:13:18",
+        "last_announcement": "2024-09-19T17:01:00"
     }
 }
