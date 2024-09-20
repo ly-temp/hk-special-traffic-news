@@ -38,38 +38,6 @@
         "last_update": "2024-09-18T09:11:36",
         "last_announcement": "2024-09-18T08:26:00"
     },
-    "IN-24-05287": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "MTR Service Updates",
-            "INCIDENT_DETAIL_CN": "服務提升",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-17T12:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103497",
-                "CONTENT_EN": "MTRCL will enhance train service today (Mid-Autumn Festival): · Service be enhanced from 3pm: 8 rail lines (except Airport Express and Disneyland Resort Line) · Overnight service: All rail lines (except Airport Express, Disneyland Resort Line and journeys to or from Lo Wu and Lok Ma Chau stations on East Rail Line) and 7 Light Rail routes MTR Bus Routes 506, K51 and K54 will also extend service hours on the day. For more information, please browse MTRCL website.",
-                "CONTENT_CN": "港鐵會於今天(中秋節)加強列車服務： ·下午3時起加強服務：8 條本地鐵路綫（不包括機場快綫及迪士尼綫） ·通宵行駛：所有本地鐵路綫（不包括機場快綫、迪士尼綫及東鐵綫往返羅湖及落馬洲站）及7條輕鐵路綫 港鐵巴士506、K51及K54當天亦會延長服務時間。 詳情請瀏覽港鐵網頁。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-09-17T13:22:21",
-        "last_announcement": "2024-09-17T12:55:00"
-    },
     "IN-24-05448": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2617,5 +2585,37 @@
         "district": "油尖旺區",
         "last_update": "2024-09-20T13:14:45",
         "last_announcement": "2024-09-20T13:04:00"
+    },
+    "IN-24-05512": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Princess Margaret Hospital",
+            "NEAR_LANDMARK_CN": "瑪嘉烈醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-20T13:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103684",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Princess Margaret Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近瑪嘉烈醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-09-20T13:32:42",
+        "last_announcement": "2024-09-20T13:14:00"
     }
 }
