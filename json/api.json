@@ -38,45 +38,6 @@
         "last_update": "2024-09-18T09:11:36",
         "last_announcement": "2024-09-18T08:26:00"
     },
-    "IN-24-05449": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Hong Kong Girl Guides Association",
-            "NEAR_LANDMARK_CN": "香港女童軍總會",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-17T14:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103501",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Gascoigne Road Flyover (Tai Kok Tsui bound) near Hong Kong Girl Guides Association is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，加士居道天橋(往大角咀方向)近香港女童軍總會的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-17T15:04:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103502",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Tai Kok Tsui bound) near Hong Kong Girl Guides Association which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的加士居道天橋(往大角咀方向)近香港女童軍總會的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-09-17T15:20:21",
-        "last_announcement": "2024-09-17T15:04:00"
-    },
     "IN-24-05450": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2709,5 +2670,37 @@
         "district": null,
         "last_update": "2024-09-20T15:07:53",
         "last_announcement": "2024-09-20T14:45:00"
+    },
+    "IN-24-05514": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Lai King MTR Station",
+            "NEAR_LANDMARK_CN": "荔景港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-20T15:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103696",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往九龍方向)近荔景港鐵站的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-09-20T15:25:52",
+        "last_announcement": "2024-09-20T15:01:00"
     }
 }
