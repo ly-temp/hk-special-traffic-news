@@ -38,45 +38,6 @@
         "last_update": "2024-09-18T09:11:36",
         "last_announcement": "2024-09-18T08:26:00"
     },
-    "IN-24-05450": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wong Nai Chung Road",
-            "LOCATION_CN": "黃泥涌道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Morrison Hill Road",
-            "DIRECTION_CN": "摩理臣山道",
-            "NEAR_LANDMARK_EN": "Hau Tak Lane",
-            "NEAR_LANDMARK_CN": "厚德里",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-17T15:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103503",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Nai Chung Road (Morrison Hill Road bound) near Hau Tak Lane is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，黃泥涌道(往摩理臣山道方向)近厚德里的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-17T15:33:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103504",
-                "CONTENT_EN": "Part of the lanes of Wong Nai Chung Road (Morrison Hill Road bound) near Hau Tak Lane which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的黃泥涌道(往摩理臣山道方向)近厚德里的部份行車線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-09-17T15:50:38",
-        "last_announcement": "2024-09-17T15:33:00"
-    },
     "IN-24-05451": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -2672,11 +2633,18 @@
                 "ID": "103694",
                 "CONTENT_EN": "Citizens please take note KMB's service travelling via Tsing Kwai Highway (Kowloon bound) has been affected, citizens please consider using other public transport services, such as MTR services.",
                 "CONTENT_CN": "市民請留意九巴途經青葵公路(往九龍方向)的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。"
+            },
+            "2024-09-20T15:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103701",
+                "CONTENT_EN": "Service of KMB travelling via Tsing Kwai Highway (Kowloon bound) has gradually resumed normal.",
+                "CONTENT_CN": "較早前九巴途經青葵公路(往九龍方向)的服務已陸續回復正常。"
             }
         },
         "district": null,
-        "last_update": "2024-09-20T15:07:53",
-        "last_announcement": "2024-09-20T14:45:00"
+        "last_update": "2024-09-20T15:56:47",
+        "last_announcement": "2024-09-20T15:46:00"
     },
     "IN-24-05514": {
         "description": {
@@ -2773,5 +2741,37 @@
         "district": "沙田區",
         "last_update": "2024-09-20T15:46:46",
         "last_announcement": "2024-09-20T15:29:00"
+    },
+    "IN-24-05519": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Tsing Interchange",
+            "LOCATION_CN": "荃青交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-20T15:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103700",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Tsing Interchange  is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，荃青交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-09-20T15:56:47",
+        "last_announcement": "2024-09-20T15:37:00"
     }
 }
