@@ -38,147 +38,6 @@
         "last_update": "2024-09-18T09:11:36",
         "last_announcement": "2024-09-18T08:26:00"
     },
-    "IN-24-05454": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-17T16:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103508",
-                "CONTENT_EN": "The following road sections are busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Wong Chu Road (Tuen Mun Road bound)\n– Tuen Mun Road near Tuen Mun Town Centre (Yuen Long bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–觀塘繞道(往大老山隧道方向)\n–皇珠路(往屯門公路方向)\n–屯門公路近屯門市中心(往元朗方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-09-17T16:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103512",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Wong Chu Road (Tuen Mun Road bound)\n– Tuen Mun Road near Tuen Mun Town Centre (Yuen Long bound)\n– Tai Tau Leng Roundabout\n– So Kwun Po Road roundabout\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–皇珠路(往屯門公路方向)\n–屯門公路近屯門市中心(往元朗方向)\n–大頭嶺迴旋處\n–掃管埔路迴旋處\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-09-17T17:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103516",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Wong Chu Road (Tuen Mun Road bound)\n– Tuen Mun Road near Tuen Mun Town Centre (Yuen Long bound)\n– Tai Tau Leng Roundabout\n– So Kwun Po Road roundabout\n– Chatham Road North (Tsim Sha Tsui bound)\n– Lung Cheung Road (Tsuen Wan bound)\n– Island Eastern Corridor (both bounds)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– Connaught Road Central flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Kennedy Town bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–皇珠路(往屯門公路方向)\n–屯門公路近屯門市中心(往元朗方向)\n–大頭嶺迴旋處\n–掃管埔路迴旋處\n–漆咸道北(往尖沙咀方向)\n–龍翔道(往荃灣方向)\n–東區走廊(來回方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往堅尼地城方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-09-17T17:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103518",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Wong Chu Road (Tuen Mun Road bound)\n– Tuen Mun Road near Tuen Mun Town Centre (Yuen Long bound)\n– Tai Tau Leng Roundabout\n– So Kwun Po Road roundabout\n– Chatham Road North (Tsim Sha Tsui bound)\n– Lung Cheung Road (Tsuen Wan bound)\n– Island Eastern Corridor (Chai Wan bound)\n– Island Eastern Corridor (both bounds)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– Connaught Road Central flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Kennedy Town bound)\n– Yuen Long Highway (Tuen Mun bound)\n– Gloucester Road (Central bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Tseung Kwan O Road (Tseung Kwan O bound)\n– New Clear Water Bay Road (Lung Cheung Road bound)\n– Princess Margaret Road (Lion Rock Tunnel bound)\n– Waterloo Road (Lion Rock Tunnel bound)\n– Gascoigne Road (Cross Harbour Tunnel bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–皇珠路(往屯門公路方向)\n–屯門公路近屯門市中心(往元朗方向)\n–大頭嶺迴旋處\n–掃管埔路迴旋處\n–漆咸道北(往尖沙咀方向)\n–龍翔道(往荃灣方向)\n–東區走廊(往柴灣方向)\n–東區走廊(來回方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往堅尼地城方向)\n–元朗公路(往屯門方向)\n–告士打道(往中環方向)\n–大埔公路　–　沙田段(往大埔方向)\n–呈祥道(往荃灣方向)\n–將軍澳道(往將軍澳方向)\n–新清水灣道(往龍翔道方向)\n–公主道(往獅子山隧道方向)\n–窩打老道(往獅子山隧道方向)\n–加士居道(往海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-09-17T17:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103523",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Wong Chu Road (Tuen Mun Road bound)\n– Tuen Mun Road near Tuen Mun Town Centre (Yuen Long bound)\n– Tai Tau Leng Roundabout\n– So Kwun Po Road roundabout\n– Chatham Road North (Tsim Sha Tsui bound)\n– Island Eastern Corridor (both bounds)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– Connaught Road Central flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Kennedy Town bound)\n– Yuen Long Highway (Tuen Mun bound)\n– Gloucester Road (Central bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Tseung Kwan O Road (Tseung Kwan O bound)\n– New Clear Water Bay Road (Lung Cheung Road bound)\n– Princess Margaret Road (Lion Rock Tunnel bound)\n– Waterloo Road (Lion Rock Tunnel bound)\n– Gascoigne Road (Cross Harbour Tunnel bound)\n– Prince Edward Road East (Kwun Tong bound)\n– Ma Tau Wai Road (Kwun Tong bound)\n– Lung Cheung Road (both bounds)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Road, Kwun Tong Bypass, Lung Cheung Road, New Clear Water Bay Road, please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–皇珠路(往屯門公路方向)\n–屯門公路近屯門市中心(往元朗方向)\n–大頭嶺迴旋處\n–掃管埔路迴旋處\n–漆咸道北(往尖沙咀方向)\n–東區走廊(來回方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往堅尼地城方向)\n–元朗公路(往屯門方向)\n–告士打道(往中環方向)\n–大埔公路　–　沙田段(往大埔方向)\n–呈祥道(往荃灣方向)\n–將軍澳道(往將軍澳方向)\n–新清水灣道(往龍翔道方向)\n–公主道(往獅子山隧道方向)\n–窩打老道(往獅子山隧道方向)\n–加士居道(往海底隧道方向)\n–太子道東(往觀塘方向)\n–馬頭圍道(往觀塘方向)\n–龍翔道(來回方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。市民請留意九巴服務會受影響。途經觀塘繞道，觀塘道，龍翔道，新清水灣道的市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-09-17T18:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103529",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Wong Chu Road (Tuen Mun Road bound)\n– Tuen Mun Road near Tuen Mun Town Centre (Yuen Long bound)\n– Tai Tau Leng Roundabout\n– Chatham Road North (Tsim Sha Tsui bound)\n– Island Eastern Corridor (both bounds)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– Connaught Road Central flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Kennedy Town bound)\n– Yuen Long Highway (Tuen Mun bound)\n– Gloucester Road (Central bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Tseung Kwan O Road (Tseung Kwan O bound)\n– New Clear Water Bay Road (Lung Cheung Road bound)\n– Princess Margaret Road (Lion Rock Tunnel bound)\n– Waterloo Road (Lion Rock Tunnel bound)\n– Gascoigne Road (Cross Harbour Tunnel bound)\n– Prince Edward Road East (Kwun Tong bound)\n– Ma Tau Wai Road (Kwun Tong bound)\n– Lung Cheung Road (both bounds)\n– Lung Fu Road (Wong Chu Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Bypass, Kwun Tong Road, Lung Cheung Road, New Clear Water Bay Road, Tuen Mun Road, please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–皇珠路(往屯門公路方向)\n–屯門公路近屯門市中心(往元朗方向)\n–大頭嶺迴旋處\n–漆咸道北(往尖沙咀方向)\n–東區走廊(來回方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往堅尼地城方向)\n–元朗公路(往屯門方向)\n–告士打道(往中環方向)\n–大埔公路　–　沙田段(往大埔方向)\n–呈祥道(往荃灣方向)\n–將軍澳道(往將軍澳方向)\n–新清水灣道(往龍翔道方向)\n–公主道(往獅子山隧道方向)\n–窩打老道(往獅子山隧道方向)\n–加士居道(往海底隧道方向)\n–太子道東(往觀塘方向)\n–馬頭圍道(往觀塘方向)\n–龍翔道(來回方向)\n–龍富路(往皇珠路方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  市民請留意九巴服務會受影響。途經觀塘繞道，觀塘道，龍翔道，新清水灣道，屯門公路的市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-09-17T18:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103535",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Tai Tau Leng Roundabout\n– Chatham Road North (Tsim Sha Tsui bound)\n– Island Eastern Corridor (both bounds)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– Connaught Road Central flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Kennedy Town bound)\n– Gloucester Road (Central bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Tseung Kwan O Road (Tseung Kwan O bound)\n– New Clear Water Bay Road (Lung Cheung Road bound)\n– Princess Margaret Road (Lion Rock Tunnel bound)\n– Waterloo Road (Lion Rock Tunnel bound)\n– Gascoigne Road (Cross Harbour Tunnel bound)\n– Prince Edward Road East (Kwun Tong bound)\n– Lung Cheung Road (both bounds)\nMotorists passing through the above road sections are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Road, Kwun Tong Bypass, Lung Cheung Road, New Clear Water Bay Road, please consider using other public transport services, such as MTR services. \n\nService of KMB via Tuen Mun Road (Yuen Long bound) which was affected earlier has gradually resumed normal.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–大頭嶺迴旋處\n–漆咸道北(往尖沙咀方向)\n–東區走廊(來回方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往堅尼地城方向)\n–告士打道(往中環方向)\n–大埔公路　–　沙田段(往大埔方向)\n–呈祥道(往荃灣方向)\n–將軍澳道(往將軍澳方向)\n–新清水灣道(往龍翔道方向)\n–公主道(往獅子山隧道方向)\n–窩打老道(往獅子山隧道方向)\n–加士居道(往海底隧道方向)\n–太子道東(往觀塘方向)\n–龍翔道(來回方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。市民請留意九巴服務會受影響。途經觀塘繞道，觀塘道，龍翔道，新清水灣道的市民請考慮使用其他公共交通服務，例如港鐵服務。\n\n較早前屯門公路(往元朗方向)受影響的九巴服務已陸續回復正常。"
-            },
-            "2024-09-17T19:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103538",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Tai Tau Leng Roundabout\n– Chatham Road North (Tsim Sha Tsui bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– Connaught Road Central flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Kennedy Town bound)\n– Gloucester Road (Central bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\n– Ching Cheung Road (Tsuen Wan bound)\n– Tseung Kwan O Road (Tseung Kwan O bound)\n– New Clear Water Bay Road (Lung Cheung Road bound)\n– Princess Margaret Road (Lion Rock Tunnel bound)\n– Waterloo Road (Lion Rock Tunnel bound)\n– Lung Cheung Road (both bounds)\nMotorists passing through the above road sections are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Road, Kwun Tong Bypass, Lung Cheung Road, New Clear Water Bay Road, please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–大頭嶺迴旋處\n–漆咸道北(往尖沙咀方向)\n–東九龍走廊(往尖沙咀方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往堅尼地城方向)\n–告士打道(往中環方向)\n–大埔公路　–　沙田段(往大埔方向)\n–呈祥道(往荃灣方向)\n–將軍澳道(往將軍澳方向)\n–新清水灣道(往龍翔道方向)\n–公主道(往獅子山隧道方向)\n–窩打老道(往獅子山隧道方向)\n–龍翔道(來回方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。市民請留意九巴服務會受影響。途經觀塘繞道，觀塘道，龍翔道，新清水灣道的市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-09-17T19:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103546",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Kwun Tong Road (Wong Tai Sin bound)\n– Clear Water Bay Road (Lung Cheung Road bound)\n– New Clear Water Bay Road (Lung Cheung Road bound)\n– Ying Yip Road (Clear Water Bay Road bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Road, Kwun Tong Bypass, New Clear Water Bay Road, please consider using other public transport services, such as MTR services.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–觀塘道(往黃大仙方向)\n–清水灣道(往龍翔道方向)\n–新清水灣道(往龍翔道方向)\n–影業路(往清水灣道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。市民請留意九巴服務會受影響。途經觀塘繞道，觀塘道，新清水灣道的市民請考慮使用其他公共交通服務，例如港鐵服務。"
-            },
-            "2024-09-17T20:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103548",
-                "CONTENT_EN": "The following road section(s) are still busy: – Kwun Tong Bypass (Tate's Cairn Tunnel bound) – Clear Water Bay Road (Lung Cheung Road bound) – New Clear Water Bay Road (Lung Cheung Road bound) – Ying Yip Road (Clear Water Bay Road bound) Motorists passing through the above road section(s) are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Bypass, New Clear Water Bay Road, please consider using other public transport services, such as MTR services. Service of KMB via Kwun Tong Road which was affected earlier has gradually resumed normal.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙: –觀塘繞道(往大老山隧道方向) –清水灣道(往龍翔道方向) –新清水灣道(往龍翔道方向) –影業路(往清水灣道方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。 市民請留意九巴服務會受影響。途經觀塘繞道，新清水灣道的市民請考慮使用其他公共交通服務，例如港鐵服務。 較早前途經觀塘道受影響的九巴服務已陸續回復正常。"
-            },
-            "2024-09-17T20:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103549",
-                "CONTENT_EN": "The following road sections are still busy:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Ying Yip Road (Clear Water Bay Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience. Citizens please take note KMB's service has been affected. Citizens travelling via Kwun Tong Bypass, please consider using other public transport services, such as MTR services. \n\nService of KMB via New Clear Water Bay Road which was affected earlier has gradually resumed normal.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–觀塘繞道(往大老山隧道方向)\n–影業路(往清水灣道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。市民請留意九巴服務會受影響。途經觀塘繞道的市民請考慮使用其他公共交通服務，例如港鐵服務。\n\n較早前途經新清水灣道受影響的九巴服務已陸續回復正常。"
-            },
-            "2024-09-17T20:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103550",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Ying Yip Road (Clear Water Bay Road bound)\nService of KMB via Kwun Tong Bypass which was affected earlier has gradually resumed normal.",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–觀塘繞道(往大老山隧道方向)\n–影業路(往清水灣道方向)\n較早前途經觀塘繞道受影響的九巴服務已陸續回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-09-17T20:41:34",
-        "last_announcement": "2024-09-17T20:27:00"
-    },
-    "IN-24-05461": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Wong Tai Sin MTR Station",
-            "NEAR_LANDMARK_CN": "黃大仙港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-17T19:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103547",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Wong Tai Sin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近黃大仙港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-09-17T20:41:34",
-        "last_announcement": "2024-09-17T19:57:00"
-    },
     "IN-24-05463": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2769,5 +2628,37 @@
         "district": "觀塘區",
         "last_update": "2024-09-20T20:40:45",
         "last_announcement": "2024-09-20T20:24:00"
+    },
+    "IN-24-05529": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lung Cheung Road",
+            "DIRECTION_CN": "龍翔道",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-20T20:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103727",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往龍翔道方向)近坪石邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-20T21:03:34",
+        "last_announcement": "2024-09-20T20:41:00"
     }
 }
