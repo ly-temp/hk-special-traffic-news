@@ -1,36 +1,4 @@
 {
-    "IN-24-05478": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Kap Shui Mun Bridge)",
-            "LOCATION_CN": "青嶼幹線(汲水門大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-19T08:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103597",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Kap Shui Mun Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(汲水門大橋)(往機場方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-09-19T08:33:17",
-        "last_announcement": "2024-09-19T08:21:00"
-    },
     "IN-24-05479": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3202,11 +3170,18 @@
                 "ID": "103800",
                 "CONTENT_EN": "Due to watermain emergency works , all lanes of Jaffe Road  between O'Brien Road and Fleming Road are closed to all traffic. Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因水管緊急維修，謝斐道介乎柯布連道與菲林明道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            },
+            "2024-09-22T08:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103812",
+                "CONTENT_EN": "All lanes of Jaffe Road  between O'Brien Road and Fleming Road which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的謝斐道介乎柯布連道與菲林明道之間的全線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-09-21T20:47:15",
-        "last_announcement": "2024-09-21T20:00:00"
+        "last_update": "2024-09-22T09:54:32",
+        "last_announcement": "2024-09-22T08:15:00"
     },
     "IN-24-05564": {
         "description": {
@@ -3324,5 +3299,76 @@
         "district": "觀塘區",
         "last_update": "2024-09-21T23:59:53",
         "last_announcement": "2024-09-21T23:44:00"
+    },
+    "IN-24-05567": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Classical Gardens",
+            "NEAR_LANDMARK_CN": "新峰花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-22T08:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103813",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Classical Gardens is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近新峰花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-22T09:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103815",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Classical Gardens which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近新峰花園的部份行車線現已解封。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-09-22T09:54:32",
+        "last_announcement": "2024-09-22T09:28:00"
+    },
+    "IN-24-05568": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Princess Margaret Road",
+            "LOCATION_CN": "公主道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Hung Hom Police Station",
+            "NEAR_LANDMARK_CN": "紅磡警署",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-22T09:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103814",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Hung Hom Police Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，公主道(往海底隧道方向)近紅磡警署的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-09-22T09:54:32",
+        "last_announcement": "2024-09-22T09:21:00"
     }
 }
