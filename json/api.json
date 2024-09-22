@@ -1,36 +1,4 @@
 {
-    "IN-24-05498": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Sha Tin Racecourse",
-            "NEAR_LANDMARK_CN": "沙田馬場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-20T07:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103650",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近沙田馬場的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-20T07:37:16",
-        "last_announcement": "2024-09-20T07:20:00"
-    },
     "IN-24-05499": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3269,10 +3237,17 @@
                 "ID": "103855",
                 "CONTENT_EN": "Due to landslide , all lanes of Stanley Gap Road (both bounds) between Chung Hom Kok Road and Tai Tam Road are still being closed to all traffic. Affected CTB bus routes nos. 6 (Central Exchange Square and Stanley Village bounds), 6A (Stanley Fort (Gate) bound), 73 (Cyberport/Wah Fu (North) and Stanley Village bounds), 260 (Central Exchange Square and Stanley Village bounds), have been diverted. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因山泥傾瀉，赤柱峽道(來回方向)介乎舂磡角道與大潭道之間的全線仍然封閉。 受影響城巴巴士第6(中環(交易廣場)和赤柱村方向)、6A(赤柱砲台(閘口)方向)、73(數碼港/華富(北)和赤柱村方向)及260(中環(交易廣場)和赤柱村方向)號線須改道行駛。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-09-23T07:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103856",
+                "CONTENT_EN": "Due to landslide , the one-lane-two-way traffic arrangement is being implemented on Stanley Gap Road between Chung Hom Kok Road and Tai Tam Road.   Affected bus routes have resumed their original routeings.   Traffic is busy now.",
+                "CONTENT_CN": "因山泥傾瀉，赤柱峽道介乎舂磡角道與大潭道之間現已實施單線雙程行車措施。  受影響巴士路線現已恢復原有路線行駛。  現時上址交通繁忙。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-09-23T07:14:46",
-        "last_announcement": "2024-09-23T06:49:00"
+        "last_update": "2024-09-23T07:41:17",
+        "last_announcement": "2024-09-23T07:20:00"
     }
 }
