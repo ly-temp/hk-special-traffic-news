@@ -2986,11 +2986,18 @@
                 "ID": "103830",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Shing Mun Tunnel Road (Sha Tin bound) near Mei Lam Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，城門隧道公路(往沙田方向)近美林邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-22T20:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103835",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Shing Mun Tunnel Road (both bounds) near Mei Lam Estate are closed to all traffic. Motorists may use alternative routing. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，城門隧道公路(來回方向)近美林邨的全線現已封閉。 駕駛人士可改用其他道路。 現時上址交通繁忙。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-09-22T18:10:00",
-        "last_announcement": "2024-09-22T17:58:00"
+        "last_update": "2024-09-22T20:48:49",
+        "last_announcement": "2024-09-22T20:25:00"
     },
     "IN-24-05579": {
         "description": {
@@ -3018,10 +3025,17 @@
                 "ID": "103833",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近龍翔道遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-22T20:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103836",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近龍翔道遊樂場的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-09-22T20:14:37",
-        "last_announcement": "2024-09-22T19:42:00"
+        "last_update": "2024-09-22T20:48:49",
+        "last_announcement": "2024-09-22T20:35:00"
     }
 }
