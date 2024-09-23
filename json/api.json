@@ -3035,11 +3035,18 @@
                 "ID": "103896",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Cotton Tree Drive (Uphill bound) near Kennedy Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，紅棉路(上山方向)近堅尼地道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-09-23T17:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103914",
+                "CONTENT_EN": "Part of the lanes of Cotton Tree Drive (Uphill bound) near Kennedy Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的紅棉路(往上山方向)近堅尼地道的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-09-23T17:23:33",
-        "last_announcement": "2024-09-23T16:59:00"
+        "last_update": "2024-09-23T18:27:11",
+        "last_announcement": "2024-09-23T17:58:00"
     },
     "IN-24-05605": {
         "description": {
@@ -3138,11 +3145,18 @@
                 "ID": "103906",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central (Sai Wan bound) near Jubilee Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，干諾道中(往西環方向)近租庇利街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-23T18:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103919",
+                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Sai Wan bound) near Jubilee Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往西環方向)近租庇利街的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-09-23T17:49:00",
-        "last_announcement": "2024-09-23T17:34:00"
+        "last_update": "2024-09-23T18:27:11",
+        "last_announcement": "2024-09-23T18:16:00"
     },
     "IN-24-05604": {
         "description": {
@@ -3175,5 +3189,69 @@
         "district": "屯門區",
         "last_update": "2024-09-23T17:49:00",
         "last_announcement": "2024-09-23T17:41:00"
+    },
+    "IN-24-05609": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Dragon Industrial Building",
+            "NEAR_LANDMARK_CN": "龍翔工業大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-23T18:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103915",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，呈祥道(往荃灣方向)近龍翔工業大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-09-23T18:27:11",
+        "last_announcement": "2024-09-23T18:01:00"
+    },
+    "IN-24-05610": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Tuen Mun Court",
+            "NEAR_LANDMARK_CN": "屯門閣",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-23T18:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103917",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Tuen Mun Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近屯門閣的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-09-23T18:27:11",
+        "last_announcement": "2024-09-23T18:09:00"
     }
 }
