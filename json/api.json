@@ -38,38 +38,6 @@
         "last_update": "2024-09-20T22:08:34",
         "last_announcement": "2024-09-20T21:52:00"
     },
-    "IN-24-05529": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Clear Water Bay Road",
-            "LOCATION_CN": "清水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lung Cheung Road",
-            "DIRECTION_CN": "龍翔道",
-            "NEAR_LANDMARK_EN": "Ping Shek Estate",
-            "NEAR_LANDMARK_CN": "坪石邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-20T20:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103727",
-                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往龍翔道方向)近坪石邨的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-20T21:03:34",
-        "last_announcement": "2024-09-20T20:41:00"
-    },
     "IN-24-05530": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3166,11 +3134,18 @@
                 "ID": "103934",
                 "CONTENT_EN": "Due to Stagnant water on road , part of the lanes of Yuen Long Highway (Sheung Shui bound) near To Yuen Wai is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Citizens please take note KMB's service travelling via Yuen Long Highway (Sheung Shui bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic queue on Yuen Long Highway (Sheung Shui bound) ends at Tuen Mun Road near Siu Lam.   Traffic is congested now.",
                 "CONTENT_CN": "因路面有積水，元朗公路(往上水方向)近桃園圍的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  市民請留意九巴途經元朗公路往上水方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時在元朗公路(往上水方向)的車龍龍尾已到屯門公路近小欖。  現時上址交通擠塞。"
+            },
+            "2024-09-23T20:27:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103940",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near To Yuen Wai which was closed due to Stagnant water on road is re-opened to all traffic.   Moreover, service of KMB travelling via Yuen Long Highway (Sheung Shui bound) has gradually resumed normal.",
+                "CONTENT_CN": "較早前因路面有積水而封閉的元朗公路(往上水方向)近桃園圍的部份行車線現已解封。  同時，較早前途經元朗公路(往上水方向)受影響的九巴服務已陸續回復正常。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-09-23T19:35:47",
-        "last_announcement": "2024-09-23T19:18:00"
+        "last_update": "2024-09-23T21:31:24",
+        "last_announcement": "2024-09-23T20:27:00"
     },
     "IN-24-05615": {
         "description": {
@@ -3210,5 +3185,37 @@
         "district": "大埔區",
         "last_update": "2024-09-23T21:02:59",
         "last_announcement": "2024-09-23T20:46:00"
+    },
+    "IN-24-05613": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Stagnant water on road",
+            "INCIDENT_DETAIL_CN": "路面有積水",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-23T20:45:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103943",
+                "CONTENT_EN": "Traffic at the slip road leading from Yuen Long Highway (Tuen Mun bound) to Hung Tin Road has resumed normal.   As stagnant water may still be found on the above road sections, motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "較早前由元朗公路(往屯門方向)通往洪天路的支路的交通現已恢復正常。  由於上述路段路面或仍有積水，駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-09-23T21:31:24",
+        "last_announcement": "2024-09-23T20:45:00"
     }
 }
