@@ -3003,11 +3003,18 @@
                 "ID": "103903",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Wong Chu Road (Tuen Mun Road bound) ends at Lung Fu Road near Lung Mun Oasis. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，皇珠路(往屯門公路方向)近友愛邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在皇珠路(往屯門公路方向)的車龍龍尾已到龍富路近龍門居。 現時上址交通擠塞。"
+            },
+            "2024-09-23T18:21:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "103921",
+                "CONTENT_EN": "Part of the lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的皇珠路(往屯門公路方向)近友愛邨的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-09-23T17:38:32",
-        "last_announcement": "2024-09-23T17:25:00"
+        "last_update": "2024-09-23T18:43:27",
+        "last_announcement": "2024-09-23T18:21:00"
     },
     "IN-24-05603": {
         "description": {
@@ -3216,11 +3223,18 @@
                 "ID": "103915",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，呈祥道(往荃灣方向)近龍翔工業大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-23T18:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103920",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Dragon Industrial Building which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往荃灣方向)近龍翔工業大廈的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-09-23T18:27:11",
-        "last_announcement": "2024-09-23T18:01:00"
+        "last_update": "2024-09-23T18:43:27",
+        "last_announcement": "2024-09-23T18:20:00"
     },
     "IN-24-05610": {
         "description": {
