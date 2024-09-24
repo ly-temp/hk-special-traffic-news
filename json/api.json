@@ -77,38 +77,6 @@
         "last_update": "2024-09-21T20:47:15",
         "last_announcement": "2024-09-21T20:26:00"
     },
-    "IN-24-05547": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wong Nai Chung Gap",
-            "LOCATION_CN": "黃泥涌峽",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Leighton Road",
-            "NEAR_LANDMARK_CN": "禮頓道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-21T13:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103767",
-                "CONTENT_EN": "The fast lane of Wong Nai Chung Gap flyover (Cross Harbour Tunnel bound) near Leighton Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的黃泥涌峽天橋(往海底隧道方向)近禮頓道的快線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-09-21T14:14:08",
-        "last_announcement": "2024-09-21T13:56:00"
-    },
     "IN-24-05549": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -915,11 +883,18 @@
                 "ID": "103817",
                 "CONTENT_EN": "Due to watermain emergency works , part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun bound) to Kwai Tsing Road (Kwai Tsing Interchange)  is closed to all traffic. Only remaining lane is available to motorists.",
                 "CONTENT_CN": "因水管緊急維修，由荃灣路(往屯門方向)通往葵青路(葵青交匯處)的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-09-24T14:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "103994",
+                "CONTENT_EN": "Part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun bound) to Kwai Tsing Road (Kwai Tsing Interchange)  which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的由荃灣路(往屯門方向)通往葵青路(葵青交匯處)的支路的 部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-09-22T14:33:57",
-        "last_announcement": "2024-09-22T14:15:00"
+        "last_update": "2024-09-24T14:30:35",
+        "last_announcement": "2024-09-24T14:20:00"
     },
     "IN-24-05570": {
         "description": {
@@ -3327,5 +3302,37 @@
         "district": "大埔區",
         "last_update": "2024-09-24T13:47:27",
         "last_announcement": "2024-09-24T13:36:00"
+    },
+    "IN-24-05634": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tate's Cairn Highway",
+            "LOCATION_CN": "大老山公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Tolo Highway",
+            "NEAR_LANDMARK_CN": "吐露港公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-24T13:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103993",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tate's Cairn Highway (Tai Po bound) near Tolo Highway is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大老山公路(往大埔方向)近吐露港公路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-09-24T14:30:35",
+        "last_announcement": "2024-09-24T13:52:00"
     }
 }
