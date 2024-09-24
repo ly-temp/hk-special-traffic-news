@@ -3116,11 +3116,18 @@
                 "ID": "104002",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Kowloonbay International Trade amp; Exhibition Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往大老山隧道方向)近九龍灣國際展貿中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-24T16:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104010",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Kowloonbay International Trade amp; Exhibition Centre is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Kwun Tong Bypass (Tate's Cairn Tunnel bound) ends at Kwun Tong Bypass near Kowloon Godown. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往大老山隧道方向)近九龍灣國際展貿中心的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往大老山隧道方向)的車龍龍尾已到觀塘繞道近九龍貨倉。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-09-24T16:34:25",
-        "last_announcement": "2024-09-24T16:08:00"
+        "last_update": "2024-09-24T16:59:21",
+        "last_announcement": "2024-09-24T16:37:00"
     },
     "IN-24-05639": {
         "description": {
@@ -3212,10 +3219,17 @@
                 "ID": "104008",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Chai Wan bound) near City Garden is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，東區走廊(往柴灣方向)近城市花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-24T16:38:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104009",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near City Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近城市花園的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-09-24T16:49:19",
-        "last_announcement": "2024-09-24T16:36:00"
+        "last_update": "2024-09-24T16:59:21",
+        "last_announcement": "2024-09-24T16:38:00"
     }
 }
