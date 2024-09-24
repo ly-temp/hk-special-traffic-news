@@ -77,116 +77,6 @@
         "last_update": "2024-09-21T20:47:15",
         "last_announcement": "2024-09-21T20:26:00"
     },
-    "IN-24-05554": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Lai Yip Street",
-            "NEAR_LANDMARK_CN": "勵業街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-21T15:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103780",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Lai Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近勵業街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-21T15:47:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103783",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Lai Yip Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往旺角方向)近勵業街的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-21T16:26:18",
-        "last_announcement": "2024-09-21T15:47:00"
-    },
-    "IN-24-05557": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Fo Tan",
-            "DIRECTION_CN": "火炭",
-            "NEAR_LANDMARK_EN": "Kak Tin Village",
-            "NEAR_LANDMARK_CN": "隔田村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-21T15:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103785",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Fo Tan bound) near Kak Tin Village is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，獅子山隧道公路(往火炭方向)近隔田村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-21T16:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103789",
-                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Fo Tan bound) near Kak Tin Village which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往火炭方向)近隔田村的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-21T16:26:18",
-        "last_announcement": "2024-09-21T16:09:00"
-    },
-    "IN-24-05556": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Argyle Street",
-            "NEAR_LANDMARK_CN": "亞皆老街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-21T16:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103787",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road flyover (Lion Rock Tunnel bound) near Argyle Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道天橋(往獅子山隧道方向)近亞皆老街的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-09-21T16:26:18",
-        "last_announcement": "2024-09-21T16:06:00"
-    },
     "IN-24-05558": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3224,5 +3114,101 @@
         "district": "屯門區",
         "last_update": "2024-09-24T16:10:45",
         "last_announcement": "2024-09-24T15:53:00"
+    },
+    "IN-24-05638": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tate's Cairn Tunnel",
+            "DIRECTION_CN": "大老山隧道",
+            "NEAR_LANDMARK_EN": "Kowloonbay International Trade  Exhibition Centre",
+            "NEAR_LANDMARK_CN": "九龍灣國際展貿中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-24T16:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104002",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Kowloonbay International Trade amp; Exhibition Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往大老山隧道方向)近九龍灣國際展貿中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-24T16:34:25",
+        "last_announcement": "2024-09-24T16:08:00"
+    },
+    "IN-24-05639": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Sha Lek Highway",
+            "LOCATION_CN": "沙瀝公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Ma On Shan",
+            "DIRECTION_CN": "馬鞍山",
+            "NEAR_LANDMARK_EN": "Ngau Pei Sha Street",
+            "NEAR_LANDMARK_CN": "牛皮沙街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-24T16:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104003",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sha Lek Highway (Ma On Shan bound) near Ngau Pei Sha Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，沙瀝公路(往馬鞍山方向)近牛皮沙街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-09-24T16:34:25",
+        "last_announcement": "2024-09-24T16:13:00"
+    },
+    "IN-24-05641": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Cheung Tung Road",
+            "LOCATION_CN": "翔東路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Fu Tung Street",
+            "NEAR_LANDMARK_CN": "富東街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-24T16:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104005",
+                "CONTENT_EN": "Due to fallen tree , all lanes of Cheung Tung Road (both bounds) near Fu Tung Street is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因塌樹，翔東路(來回方向)近富東街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-09-24T16:34:25",
+        "last_announcement": "2024-09-24T16:25:00"
     }
 }
