@@ -130,59 +130,6 @@
         "last_update": "2024-09-21T21:27:52",
         "last_announcement": "2024-09-21T21:15:00"
     },
-    "IN-24-05561": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Classical Gardens",
-            "NEAR_LANDMARK_CN": "新峰花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-21T17:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103794",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Tolo Highway (Sheung Shui bound) near Classical Gardens is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，吐露港公路(往上水方向)近新峰花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-21T17:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103796",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Tolo Highway (Sheung Shui bound) near Classical Gardens is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tolo Highway (Sheung Shui bound) ends at Tolo Highway near Tai Po Market MTR Station. Traffic is congested now.",
-                "CONTENT_CN": "因車輛着火，吐露港公路(往上水方向)近新峰花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在吐露港公路(往上水方向)的車龍龍尾已到吐露港公路近大埔墟港鐵站。 現時上址交通擠塞。"
-            },
-            "2024-09-21T17:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103798",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Tolo Highway (Sheung Shui bound) near Classical Gardens is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tolo Highway (Sheung Shui bound) ends at Tolo Highway near Tai Po Railway Pier. Traffic is congested now.",
-                "CONTENT_CN": "因車輛着火，吐露港公路(往上水方向)近新峰花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在吐露港公路(往上水方向)的車龍龍尾已到吐露港公路近大埔鐵路碼頭。 現時上址交通擠塞。"
-            },
-            "2024-09-21T18:07:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "103799",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Sheung Shui bound) near Classical Gardens which was closed due to vehicle on fire is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的吐露港公路(往上水方向)近新峰花園的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-09-21T18:31:23",
-        "last_announcement": "2024-09-21T18:07:00"
-    },
     "IN-24-05563": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3401,5 +3348,37 @@
         "district": "屯門區",
         "last_update": "2024-09-24T18:26:09",
         "last_announcement": "2024-09-24T18:12:00"
+    },
+    "IN-24-05649": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tate's Cairn Tunnel",
+            "DIRECTION_CN": "大老山隧道",
+            "NEAR_LANDMARK_EN": "Electrical And Mechanical Services Department Headquarters",
+            "NEAR_LANDMARK_CN": "機電工程署總部大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-24T18:14:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104035",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Electrical And Mechanical Services Department Headquarters which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往大老山隧道方向)近機電工程署總部大樓的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-24T18:42:25",
+        "last_announcement": "2024-09-24T18:14:00"
     }
 }
