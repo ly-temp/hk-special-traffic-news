@@ -38,45 +38,6 @@
         "last_update": "2024-09-22T15:16:17",
         "last_announcement": "2024-09-22T14:53:00"
     },
-    "IN-24-05538": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Rainstorm Incident",
-            "INCIDENT_HEADING_CN": "暴雨事故",
-            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-21T11:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103747",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            },
-            "2024-09-21T13:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103760",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-09-21T13:32:11",
-        "last_announcement": "2024-09-21T13:20:00"
-    },
     "IN-24-05543": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -115,38 +76,6 @@
         "district": "南區",
         "last_update": "2024-09-21T13:52:32",
         "last_announcement": "2024-09-21T13:40:00"
-    },
-    "IN-24-05542": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": "Yiu Hing Road",
-            "LOCATION_CN": "耀興道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-21T13:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103752",
-                "CONTENT_EN": "Due to inclement weather and while the emergency slope repair works are still in progress, both bounds traffic lanes of Yiu Hing Road between Yiu Kwai House and Yiu Hing House of Yiu Tung Estate are closed to all traffic. Motorists are advised to use alternative routes. Eastbound franchised bus and green minibus services will be diverted as follow: - Citybus route nos. 77, 99, 720X and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street, Tai Lok Street and Shau Kei Wan Road eastbound before resuming its original routeing; while Green Minibus route no. 50 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street and Tai Lok Street before resuming its original routeing. Westbound franchised bus and green minibus services will be diverted as follow: - Citybus route nos. 77, 82S, 99 and N8, Cross Harbour route nos. 110 and 606 departures that after Shau Kei Wan Road westbound near Sun Sing Street will be diverted via Shau Kei Wan Road westbound, Tai Hong Street, Lei King Road, Tai On Street, Shing On Street, Yiu Hing Road eastbound, Yiu Tung Estate Bus Terminus and Yiu Hing Road westbound before resuming its original routeing; while Green Minibus route no. 65 departures that after Shau Kei Wan Road westbound near Nam Hong Street will be diverted via Nam Hong Street, Yiu Hing Road westbound, Sun Sing Street, Sai Wan Ho Street, Shing On Street and Yiu Hing Road eastbound, before resuming its original routeing.",
-                "CONTENT_CN": "因受惡劣天氣影響及緊急斜坡復修工程仍在進行中，耀興道介乎耀東邨耀貴樓與耀東邨耀興樓之間的來回方向行車線現已封閉。駕駛人士請考慮改用其他道路。 往東行方向的巴士及小巴路線須改道如下: -城巴第77、99、720X及N8號線、過海巴士第110及606號線及專線小巴第65號線須改道行駛，路線途經耀東邨巴士總站後，會改經耀興道西行、惠亨街、太樂街及筲箕灣道東行，然後返回原有路線；至於專線小巴第50號線在途經耀東邨巴士總站後，則會改經耀興道西行、惠亨街及太樂街，然後返回原有路線。 往西行方向的巴士及小巴路線須改道如下: -城巴第77、82S、99及N8號線、過海巴士第110及606號線須改道行駛，路線途經筲箕灣道西行近新成街後，巴士會改經筲箕灣道西行、太康街、鯉景道、太安街、成安街、耀興道東行、耀東邨巴士總站及耀興道西行，然後返回原有路線；至於專線小巴第65號線在途經筲箕灣道西行近南康街後，小巴會改經南康街、耀興道西行、新成街、西灣河街、成安街及耀興道東行，然後返回原有路線。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-09-21T13:32:11",
-        "last_announcement": "2024-09-21T13:08:00"
     },
     "IN-24-05545": {
         "description": {
@@ -3430,5 +3359,37 @@
         "district": "九龍城區",
         "last_update": "2024-09-24T12:17:04",
         "last_announcement": "2024-09-24T11:50:00"
+    },
+    "IN-24-05633": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Deerhill Bay",
+            "NEAR_LANDMARK_CN": "鹿茵山莊",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-24T13:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "103991",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Sheung Shui bound) near Deerhill Bay is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往上水方向)近鹿茵山莊的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-09-24T13:37:16",
+        "last_announcement": "2024-09-24T13:21:00"
     }
 }
