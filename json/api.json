@@ -3315,11 +3315,18 @@
                 "ID": "104045",
                 "CONTENT_EN": "The following road sections are busy:\n– Yuen Long Highway near Fu Tai Estate (Tuen Mun bound)\n– Lion Rock Tunnel Road (Kowloon bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–元朗公路近富泰邨(往屯門方向)\n–獅子山隧道公路(往九龍方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-09-25T07:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104048",
+                "CONTENT_EN": "The following road sections are busy:\n– Yuen Long Highway near Fu Tai Estate (Tuen Mun bound)\n– Lion Rock Tunnel Road (Kowloon bound)\n– Fanling near Kai Leng and Tai Tau Leng\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–元朗公路近富泰邨(往屯門方向)\n–獅子山隧道公路(往九龍方向)\n–粉嶺一帶近雞嶺及大頭嶺\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-09-25T07:48:15",
-        "last_announcement": "2024-09-25T07:27:00"
+        "last_update": "2024-09-25T09:49:31",
+        "last_announcement": "2024-09-25T07:54:00"
     },
     "IN-24-05657": {
         "description": {
@@ -3347,10 +3354,159 @@
                 "ID": "104046",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Clear Water Bay Road (Sai Kung bound) near Ngau Chi Wan Fire Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，清水灣道(往西貢方向)近牛池灣消防局的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-25T07:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104047",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Sai Kung bound) near Ngau Chi Wan Fire Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往西貢方向)近牛池灣消防局的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-09-25T07:58:20",
-        "last_announcement": "2024-09-25T07:38:00"
+        "last_update": "2024-09-25T09:49:31",
+        "last_announcement": "2024-09-25T07:51:00"
+    },
+    "IN-24-05658": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Wo Che Estate",
+            "NEAR_LANDMARK_CN": "禾輋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-25T08:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104049",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tai Po Road - Sha Tin (Kowloon bound) ends at Tolo Highway near Hong Kong Science Park. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在大埔公路　–　沙田段(往九龍方向)的車龍龍尾已到吐露港公路近香港科學園。 現時上址交通繁忙。"
+            },
+            "2024-09-25T08:48:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104051",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-09-25T09:49:31",
+        "last_announcement": "2024-09-25T08:48:00"
+    },
+    "IN-24-05659": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "San Tin Highway",
+            "LOCATION_CN": "新田公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Palm Springs",
+            "NEAR_LANDMARK_CN": "加州花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-25T08:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104052",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of San Tin Highway (Sheung Shui bound) near Palm Springs is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，新田公路(往上水方向)近加州花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-25T09:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104055",
+                "CONTENT_EN": "Part of the lanes of San Tin Highway (Sheung Shui bound) near Palm Springs which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往上水方向)近加州花園的部份行車線現已解封。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-09-25T09:49:31",
+        "last_announcement": "2024-09-25T09:13:00"
+    },
+    "IN-24-05661": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Choi Hung Estate",
+            "NEAR_LANDMARK_CN": "彩虹邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-25T09:29:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104058",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road (Tsuen Wan bound) near Choi Hung Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近彩虹邨的慢線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-09-25T09:49:31",
+        "last_announcement": "2024-09-25T09:29:00"
+    },
+    "IN-24-05662": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "North Point Police Station",
+            "NEAR_LANDMARK_CN": "北角警署",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-25T09:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104060",
+                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Central bound) near North Point Police Station which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近北角警署的慢線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-09-25T09:49:31",
+        "last_announcement": "2024-09-25T09:34:00"
     }
 }
