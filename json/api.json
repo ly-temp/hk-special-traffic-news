@@ -98,38 +98,6 @@
         "last_update": "2024-09-23T22:12:32",
         "last_announcement": "2024-09-23T21:47:00"
     },
-    "IN-24-05592": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-23T11:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103879",
-                "CONTENT_EN": "Traffic at the following road section has resumed normal:\n– Lung Cheung Road (Kwun Tong bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–龍翔道(往觀塘方向)。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-09-23T11:41:06",
-        "last_announcement": "2024-09-23T11:25:00"
-    },
     "IN-24-05595": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
