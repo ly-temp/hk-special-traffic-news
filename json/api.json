@@ -204,45 +204,6 @@
         "last_update": "2024-09-23T20:35:42",
         "last_announcement": "2024-09-23T20:19:00"
     },
-    "IN-24-05614": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Kwai Highway",
-            "LOCATION_CN": "青葵公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": "Cheung Tsing Tunnel entrance",
-            "NEAR_LANDMARK_CN": "長青隧道入口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-23T19:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103931",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Airport bound) near Cheung Tsing Tunnel entrance is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青葵公路(往機場方向)近長青隧道入口的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-23T19:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103935",
-                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Airport bound) near Cheung Tsing Tunnel entrance which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往機場方向)近長青隧道入口的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-23T19:35:47",
-        "last_announcement": "2024-09-23T19:24:00"
-    },
     "IN-24-05608": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2953,10 +2914,17 @@
                 "ID": "104123",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng Fire Station is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queues on Tuen Mun Road (Tuen Mun bound) end at Tuen Mun Road near Ting Kau and Tsing Long Highway near Tsing Long Highway (Ting Kau Bridge).   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井消防局的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往屯門方向)的車龍龍尾已到屯門公路近汀九及青朗公路近青朗公路(汀九橋)。  現時上址交通擠塞。"
+            },
+            "2024-09-26T19:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104124",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng Fire Station which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近深井消防局的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-09-26T19:35:21",
-        "last_announcement": "2024-09-26T19:22:00"
+        "last_update": "2024-09-26T19:45:22",
+        "last_announcement": "2024-09-26T19:28:00"
     }
 }
