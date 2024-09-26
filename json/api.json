@@ -236,38 +236,6 @@
         "last_update": "2024-09-23T18:27:11",
         "last_announcement": "2024-09-23T17:58:00"
     },
-    "IN-24-05606": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kennedy Road",
-            "LOCATION_CN": "堅尼地道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Queen's Road East",
-            "DIRECTION_CN": "皇后大道東",
-            "NEAR_LANDMARK_EN": "Wah Yan College Hong Kong",
-            "NEAR_LANDMARK_CN": "香港華仁書院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-23T17:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "103904",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kennedy Road (Queen's Road Central bound) near Wah Yan College, Hong Kong is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，堅尼地道(往皇后大道中方向)近香港華仁書院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-09-23T17:49:00",
-        "last_announcement": "2024-09-23T17:29:00"
-    },
     "IN-24-05607": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -306,38 +274,6 @@
         "district": "中西區",
         "last_update": "2024-09-23T18:27:11",
         "last_announcement": "2024-09-23T18:16:00"
-    },
-    "IN-24-05604": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Siu Hong",
-            "NEAR_LANDMARK_CN": "兆康",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-23T17:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "103908",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近兆康的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-09-23T17:49:00",
-        "last_announcement": "2024-09-23T17:41:00"
     },
     "IN-24-05609": {
         "description": {
@@ -3092,10 +3028,17 @@
                 "ID": "104111",
                 "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Fanling Highway (Yuen Long bound) to Po Shek Wu Road (Tai Tau Leng Roundabout)  is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，由粉嶺公路(往元朗方向)通往寶石湖路(大頭嶺迴旋處)的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-09-26T17:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104112",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Fanling Highway (Yuen Long bound) to Po Shek Wu Road (Tai Tau Leng Roundabout)  is still being closed to all traffic. At the same time, traffic of Fanling Highway (Yuen Long bound) near Kwu Tung is busy. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因車輛故障，由粉嶺公路(往元朗方向)通往寶石湖路(大頭嶺迴旋處)的支路的唯一行車線仍然封閉。 同時，粉嶺公路(往元朗方向)近古洞交通繁忙。 駕駛人士請考慮改用其他道路。"
             }
         },
         "district": "北區",
-        "last_update": "2024-09-26T17:25:34",
-        "last_announcement": "2024-09-26T17:15:00"
+        "last_update": "2024-09-26T17:50:04",
+        "last_announcement": "2024-09-26T17:35:00"
     }
 }
