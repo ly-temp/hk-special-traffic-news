@@ -2829,11 +2829,18 @@
                 "ID": "104117",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road North (Kwun Tong bound) near Valley Road is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Chatham Road North (Kwun Tong bound) ends at Ferry Street flyover near Waterloo Road. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，漆咸道北(往觀塘方向)近山谷道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在漆咸道北(往觀塘方向)的車龍龍尾已到渡船街天橋近窩打老道。 現時上址交通擠塞。"
+            },
+            "2024-09-26T19:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104127",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Valley Road which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的漆咸道北(往觀塘方向)近山谷道的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-09-26T19:07:15",
-        "last_announcement": "2024-09-26T18:50:00"
+        "last_update": "2024-09-26T20:35:00",
+        "last_announcement": "2024-09-26T19:57:00"
     },
     "IN-24-05686": {
         "description": {
@@ -2958,5 +2965,76 @@
         "district": "荃灣區",
         "last_update": "2024-09-26T19:55:33",
         "last_announcement": "2024-09-26T19:37:00"
+    },
+    "IN-24-05690": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "North Point Ferry Pier",
+            "NEAR_LANDMARK_CN": "北角碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-26T20:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104130",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near North Point Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近北角碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-26T20:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104131",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near North Point Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近北角碼頭的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-09-26T20:35:00",
+        "last_announcement": "2024-09-26T20:20:00"
+    },
+    "IN-24-05689": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cross Harbour Tunnel",
+            "LOCATION_CN": "海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Cross Harbour Tunnel Administration Building",
+            "NEAR_LANDMARK_CN": "海底隧道行政大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-26T20:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104132",
+                "CONTENT_EN": "Part of the lanes of Cross Harbour Tunnel (both bounds) near Cross Harbour Tunnel Administration Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的海底隧道(來回方向)近海底隧道行政大樓的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-09-26T20:35:00",
+        "last_announcement": "2024-09-26T20:24:00"
     }
 }
