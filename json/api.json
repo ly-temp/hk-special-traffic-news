@@ -1,43 +1,4 @@
 {
-    "IN-24-05651": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wan Chai",
-            "DIRECTION_CN": "灣仔",
-            "NEAR_LANDMARK_EN": "Pedder Street",
-            "NEAR_LANDMARK_CN": "畢打街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-24T18:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104036",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central (Wan Chai bound) near Pedder Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，干諾道中(往灣仔方向)近畢打街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-24T19:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104037",
-                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Wan Chai bound) near Pedder Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往灣仔方向)近畢打街的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-09-24T19:24:17",
-        "last_announcement": "2024-09-24T19:05:00"
-    },
     "IN-24-05652": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2409,5 +2370,37 @@
         "district": "油尖旺區",
         "last_update": "2024-09-27T19:23:38",
         "last_announcement": "2024-09-27T19:06:00"
+    },
+    "IN-24-05715": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Laguna City",
+            "NEAR_LANDMARK_CN": "麗港城",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-27T19:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104180",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Laguna City is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近麗港城的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-09-27T19:35:04",
+        "last_announcement": "2024-09-27T19:16:00"
     }
 }
