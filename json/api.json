@@ -45,84 +45,6 @@
         "last_update": "2024-09-24T17:38:27",
         "last_announcement": "2024-09-24T17:13:00"
     },
-    "IN-24-05641": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Cheung Tung Road",
-            "LOCATION_CN": "翔東路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Fu Tung Street",
-            "NEAR_LANDMARK_CN": "富東街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-24T16:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104005",
-                "CONTENT_EN": "Due to fallen tree , all lanes of Cheung Tung Road (both bounds) near Fu Tung Street is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，翔東路(來回方向)近富東街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-09-24T16:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104013",
-                "CONTENT_EN": "Due to fallen tree , the one-lane-two-way traffic arrangement is being implemented on Cheung Tung Road near Fu Tung Street. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，翔東路近富東街現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-09-24T17:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104014",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Cheung Tung Road near Fu Tung Street due to fallen tree is now cancelled.",
-                "CONTENT_CN": "較早前因塌樹而於翔東路近富東街實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-09-24T17:25:13",
-        "last_announcement": "2024-09-24T17:03:00"
-    },
-    "IN-24-05642": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kennedy Town",
-            "DIRECTION_CN": "堅尼地城",
-            "NEAR_LANDMARK_EN": "Queen Victoria Street",
-            "NEAR_LANDMARK_CN": "域多利皇后街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-24T16:43:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104011",
-                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Kennedy Town bound) near Queen Victoria Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往堅尼地城方向)近域多利皇后街的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-09-24T17:25:13",
-        "last_announcement": "2024-09-24T16:43:00"
-    },
     "IN-24-05647": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2514,10 +2436,49 @@
                 "ID": "104166",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Lai Chi Kok Park is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近荔枝角公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-27T17:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104167",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Lai Chi Kok Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往荃灣方向)近荔枝角公園的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-09-27T17:24:51",
-        "last_announcement": "2024-09-27T16:56:00"
+        "last_update": "2024-09-27T17:37:49",
+        "last_announcement": "2024-09-27T17:14:00"
+    },
+    "IN-24-05710": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Prince Edward Road East",
+            "LOCATION_CN": "太子道東",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Inland Revenue Centre",
+            "NEAR_LANDMARK_CN": "稅務中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-27T17:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104168",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Mong Kok bound) near Inland Revenue Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，太子道東(往旺角方向)近稅務中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-09-27T17:37:49",
+        "last_announcement": "2024-09-27T17:21:00"
     }
 }
