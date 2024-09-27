@@ -2526,5 +2526,37 @@
         "district": "灣仔區",
         "last_update": "2024-09-27T12:56:44",
         "last_announcement": "2024-09-27T12:45:00"
+    },
+    "IN-24-05702": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Exit Closure",
+            "INCIDENT_DETAIL_CN": "出口封閉",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-27T14:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104154",
+                "CONTENT_EN": "Because of a burst water pipe at street level near the station, Entrance/Exit C2 in Jordan Station is temporarily closed. Please use other Entrances/Exits.",
+                "CONTENT_CN": "由於受站外路面水管爆裂影響，佐敦站C2出入口暫時關閉，請使用其他出入口。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-09-27T14:28:22",
+        "last_announcement": "2024-09-27T14:07:00"
     }
 }
