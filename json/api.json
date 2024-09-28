@@ -38,45 +38,6 @@
         "last_update": "2024-09-25T18:24:35",
         "last_announcement": "2024-09-25T17:59:00"
     },
-    "IN-24-05667": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-25T17:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104075",
-                "CONTENT_EN": "Due to traffic accident , the only lane of the slip road leading from Lion Rock Tunnel Road (Kowloon bound) to Lung Cheung Road (Kwun Tong bound) is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，由獅子山隧道公路(往九龍方向)通往龍翔道(往觀塘方向) 的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-09-25T17:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104076",
-                "CONTENT_EN": "The only lane of the slip road leading from Lion Rock Tunnel Road (Kowloon bound) to Lung Cheung Road (Kwun Tong bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的由獅子山隧道公路(往九龍方向)通往龍翔道(往觀塘方向) 的支路的 唯一行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-09-25T17:57:46",
-        "last_announcement": "2024-09-25T17:40:00"
-    },
     "IN-24-05668": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
