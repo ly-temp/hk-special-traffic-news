@@ -38,59 +38,6 @@
         "last_update": "2024-09-28T16:48:25",
         "last_announcement": "2024-09-28T16:29:00"
     },
-    "IN-24-05684": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-26T17:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104111",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Fanling Highway (Yuen Long bound) to Po Shek Wu Road (Tai Tau Leng Roundabout)  is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，由粉嶺公路(往元朗方向)通往寶石湖路(大頭嶺迴旋處)的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-09-26T17:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104112",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Fanling Highway (Yuen Long bound) to Po Shek Wu Road (Tai Tau Leng Roundabout)  is still being closed to all traffic. At the same time, traffic of Fanling Highway (Yuen Long bound) near Kwu Tung is busy. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因車輛故障，由粉嶺公路(往元朗方向)通往寶石湖路(大頭嶺迴旋處)的支路的唯一行車線仍然封閉。 同時，粉嶺公路(往元朗方向)近古洞交通繁忙。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-09-26T17:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104113",
-                "CONTENT_EN": "The only lane of the slip road leading from Fanling Highway (Yuen Long bound) to Po Shek Wu Road (Tai Tau Leng Roundabout) which was closed due to vehicle breakdown is re-opened to all traffic. \nAt the same time, traffic of Fanling Highway (Yuen Long bound) near Kwu Tung is still busy.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的由粉嶺公路(往元朗方向)通往寶石湖路(大頭嶺迴旋處)的支路的 唯一行車線現已解封。\n同時，粉嶺公路(往元朗方向)近古洞仍然交通繁忙。"
-            },
-            "2024-09-26T18:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104116",
-                "CONTENT_EN": "Traffic at Fanling Highway (Yuen Long bound) near Kwu Tung has resumed normal.",
-                "CONTENT_CN": "粉嶺公路(往元朗方向)近古洞的交通現已恢復正常。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-09-26T19:07:15",
-        "last_announcement": "2024-09-26T18:44:00"
-    },
     "IN-24-05685": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
