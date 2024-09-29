@@ -2052,11 +2052,18 @@
                 "ID": "104244",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Lai Chi Kok Road (Mong Kok bound) near Butterfly Valley Road are still being closed to all traffic. Vehicles on Kwai Chung Road (Mong Kok bound) and Butterfly Valley Road (Lai Chi Kok Road bound) cannot access to Lai Chi Kwok Road (Mong Kok bound) and West Kowloon Corridor (Mong Kok bound). Affected bus route nos. 40, 268X, 63X, 904, 2A, 6C, 2X, 32, 42, 30, 50 and 795X have been diverted. Traffic queue on Lai Chi Kok Road (Mong Kok bound) ends at Kwai Chung Road near Mei Foo MTR Station. Motorists are advised to use alternative routes such as Tsing Kwai Highway, West Kowloon Highway, Ching Cheung Road. Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，荔枝角道(往旺角方向)近蝴蝶谷道的全線仍然封閉。 於葵涌道(往旺角方向)及蝴蝶谷道(往荔枝角道方向)的車輛不能駛入荔枝角道(往旺角方向)及西九龍走廊(往旺角方向)。 受影響巴士第40、268X、63X、904、2A、6C、2X、32、42、30、50及795X號線須改道行駛。 現時在荔枝角道(往旺角方向)的車龍龍尾已到葵涌道近美孚港鐵站。 駕駛人士請考慮改用其他道路，例如青葵公路、西九龍公路、呈祥道。 現時上址交通繁忙。"
+            },
+            "2024-09-29T18:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104246",
+                "CONTENT_EN": "Due to watermain burst , the middle and slow lanes of Lai Chi Kok Road (Mong Kok bound) near Butterfly Valley Road are still being closed to all traffic, and the fast lane of the above road section is re-opened to all traffic.   Vehicles on Butterfly Valley Road (Lai Chi Kok Road bound) cannot access to Lai Chi Kok Road (Mong Kok bound) and West Kowloon Corridor (Mong Kok bound).   Affected bus route nos. 40, 63X, 904, 2A, 6C, 2X, 32, 42, 30, 50 and 795X have been diverted.   Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，荔枝角道(往旺角方向)近蝴蝶谷道的中線及慢線仍然封閉，而上述路段的快線現已解封。  於蝴蝶谷道(往荔枝角道方向)的車輛不能駛入荔枝角道(往旺角方向)及西九龍走廊(往旺角方向)。  受影響巴士第40、63X、904、2A、6C、2X、32、42、30、50及795X號線須改道行駛。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-09-29T16:27:42",
-        "last_announcement": "2024-09-29T15:52:00"
+        "last_update": "2024-09-29T18:37:49",
+        "last_announcement": "2024-09-29T18:16:00"
     },
     "IN-24-05735": {
         "description": {
@@ -2084,10 +2091,17 @@
                 "ID": "104245",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Che Kung Miu Road Roundabout  is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，車公廟路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-09-29T18:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104247",
+                "CONTENT_EN": "Part of the lanes of Che Kung Miu Road Roundabout  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的車公廟路迴旋處的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-09-29T17:59:48",
-        "last_announcement": "2024-09-29T17:45:00"
+        "last_update": "2024-09-29T18:37:49",
+        "last_announcement": "2024-09-29T18:25:00"
     }
 }
