@@ -77,45 +77,6 @@
         "last_update": "2024-09-27T11:41:44",
         "last_announcement": "2024-09-27T11:32:00"
     },
-    "IN-24-05697": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Hoi Bun Road Park",
-            "NEAR_LANDMARK_CN": "海濱道公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-27T09:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104144",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Yau Tong bound) near Hoi Bun Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近海濱道公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-27T10:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104147",
-                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Yau Tong bound) near Hoi Bun Road Park which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)近海濱道公園的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-09-27T10:56:28",
-        "last_announcement": "2024-09-27T10:06:00"
-    },
     "IN-24-05698": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1972,5 +1933,37 @@
         "district": "西貢區",
         "last_update": "2024-09-30T10:39:36",
         "last_announcement": "2024-09-30T09:56:00"
+    },
+    "IN-24-05746": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "San Tin Highway",
+            "LOCATION_CN": "新田公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Mo Fan Heung",
+            "NEAR_LANDMARK_CN": "模範鄉",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-30T11:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104270",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of San Tin Highway (Sheung Shui bound) near Mo Fan Heung is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，新田公路(往上水方向)近模範鄉的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-09-30T11:16:30",
+        "last_announcement": "2024-09-30T11:09:00"
     }
 }
