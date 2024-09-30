@@ -169,45 +169,6 @@
         "last_update": "2024-09-27T16:48:10",
         "last_announcement": "2024-09-27T16:24:00"
     },
-    "IN-24-05706": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Siu Hong",
-            "NEAR_LANDMARK_CN": "兆康",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-27T16:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104160",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近兆康的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-27T16:17:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104161",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近兆康的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-09-27T16:34:44",
-        "last_announcement": "2024-09-27T16:17:00"
-    },
     "IN-24-05707": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1832,11 +1793,18 @@
                 "ID": "104281",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Lai Chi Kok Road bound) near Lai Chi Kok Fire Station are still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Kwai Chung Road (Lai Chi Kok Road bound) ends at Kwai Chung Road near Princess Margaret Hospital.   Traffic is congested now.   Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因交通意外，葵涌道(往荔枝角道方向)近荔枝角消防局的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在葵涌道(往荔枝角道方向)的車龍龍尾已到葵涌道近瑪嘉烈醫院。  現時上址交通擠塞。  駕駛人士請考慮改用其他道路。"
+            },
+            "2024-09-30T16:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104288",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Lai Chi Kok Road bound) near Lai Chi Kok Fire Station are still being closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，葵涌道(往荔枝角道方向)近荔枝角消防局的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-09-30T15:34:12",
-        "last_announcement": "2024-09-30T15:22:00"
+        "last_update": "2024-09-30T16:41:42",
+        "last_announcement": "2024-09-30T16:29:00"
     },
     "IN-24-05749": {
         "description": {
@@ -1968,5 +1936,37 @@
         "district": "黃大仙區",
         "last_update": "2024-09-30T15:54:34",
         "last_announcement": "2024-09-30T15:43:00"
+    },
+    "IN-24-05752": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cherry Street",
+            "LOCATION_CN": "櫻桃街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Chung",
+            "DIRECTION_CN": "葵涌",
+            "NEAR_LANDMARK_EN": "Oak Street",
+            "NEAR_LANDMARK_CN": "橡樹街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-30T16:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104287",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cherry Street (Kwai Chung bound) near Oak Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，櫻桃街(往葵涌方向)近橡樹街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-09-30T16:41:42",
+        "last_announcement": "2024-09-30T16:21:00"
     }
 }
