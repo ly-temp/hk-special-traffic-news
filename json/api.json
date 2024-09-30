@@ -84,38 +84,6 @@
         "last_update": "2024-09-28T01:21:53",
         "last_announcement": "2024-09-28T00:55:00"
     },
-    "IN-24-05702": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Exit Closure",
-            "INCIDENT_DETAIL_CN": "出口封閉",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-27T14:07:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104154",
-                "CONTENT_EN": "Because of a burst water pipe at street level near the station, Entrance/Exit C2 in Jordan Station is temporarily closed. Please use other Entrances/Exits.",
-                "CONTENT_CN": "由於受站外路面水管爆裂影響，佐敦站C2出入口暫時關閉，請使用其他出入口。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-09-27T14:28:22",
-        "last_announcement": "2024-09-27T14:07:00"
-    },
     "IN-24-05703": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1862,5 +1830,37 @@
         "district": null,
         "last_update": "2024-09-30T12:36:27",
         "last_announcement": "2024-09-30T12:29:00"
+    },
+    "IN-24-05748": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwai Chung Road",
+            "LOCATION_CN": "葵涌道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lai Chi Kok Road",
+            "DIRECTION_CN": "荔枝角道",
+            "NEAR_LANDMARK_EN": "Lai Chi Kok Fire Station",
+            "NEAR_LANDMARK_CN": "荔枝角消防局",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-09-30T14:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104274",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Kwai Chung Road (Lai Chi Kok Road bound) near Lai Chi Kok Fire Station is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，葵涌道(往荔枝角道方向)近荔枝角消防局的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-09-30T14:33:56",
+        "last_announcement": "2024-09-30T14:20:00"
     }
 }
