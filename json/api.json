@@ -84,38 +84,6 @@
         "last_update": "2024-09-28T01:21:53",
         "last_announcement": "2024-09-28T00:55:00"
     },
-    "IN-24-05716": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Incident",
-            "INCIDENT_DETAIL_CN": "道路事故",
-            "LOCATION_EN": "Tsing Sha Highway (Stonecutters Bridge)",
-            "LOCATION_CN": "青沙公路(昂船洲大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-27T22:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104191",
-                "CONTENT_EN": "The slow lane of Tsing Sha Highway (Stonecutters Bridge) (Airport bound) which was closed due to police operation is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因警方行動而封閉的青沙公路(昂船洲大橋)(往機場方向) 的慢線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-09-27T23:12:16",
-        "last_announcement": "2024-09-27T22:47:00"
-    },
     "IN-24-05718": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
