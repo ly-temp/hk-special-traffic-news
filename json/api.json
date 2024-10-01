@@ -917,11 +917,18 @@
                 "ID": "104308",
                 "CONTENT_EN": "Due to emergency repairing works , the fast lane of Ting Kok Road (Tai Po Town Centre bound) near Yuen Shin Road is still being closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急維修，汀角路(往大埔市中心方向)近完善路的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-10-01T16:14:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104322",
+                "CONTENT_EN": "The fast lane of Ting Kok Road (Tai Po Town Centre bound) near Yuen Shin Road which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的汀角路(往大埔市中心方向)近完善路的快線現已解封。"
             }
         },
         "district": "西貢區",
-        "last_update": "2024-10-01T10:15:28",
-        "last_announcement": "2024-10-01T08:35:00"
+        "last_update": "2024-10-01T16:41:19",
+        "last_announcement": "2024-10-01T16:14:00"
     },
     "IN-24-05746": {
         "description": {
@@ -1723,5 +1730,37 @@
         "district": "西貢區",
         "last_update": "2024-10-01T15:55:00",
         "last_announcement": "2024-10-01T15:36:00"
+    },
+    "IN-24-05765": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge (HZMB) Hong Kong Link Road (HKLR)",
+            "LOCATION_CN": "港珠澳大橋香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-01T16:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104323",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-10-01T16:41:19",
+        "last_announcement": "2024-10-01T16:10:00"
     }
 }
