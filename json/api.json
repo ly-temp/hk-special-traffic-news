@@ -1130,11 +1130,18 @@
                 "ID": "104268",
                 "CONTENT_EN": "Due to emergency repairing works , the fast lane of Ting Kok Road (Tai Po Town Centre bound) near Yuen Shin Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因緊急維修，汀角路(往大埔市中心方向)近完善路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-01T08:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104308",
+                "CONTENT_EN": "Due to emergency repairing works , the fast lane of Ting Kok Road (Tai Po Town Centre bound) near Yuen Shin Road is still being closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因緊急維修，汀角路(往大埔市中心方向)近完善路的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。"
             }
         },
         "district": "西貢區",
-        "last_update": "2024-09-30T10:39:36",
-        "last_announcement": "2024-09-30T09:56:00"
+        "last_update": "2024-10-01T10:15:28",
+        "last_announcement": "2024-10-01T08:35:00"
     },
     "IN-24-05746": {
         "description": {
@@ -1702,5 +1709,76 @@
         "district": "觀塘區",
         "last_update": "2024-09-30T21:16:22",
         "last_announcement": "2024-09-30T20:41:00"
+    },
+    "IN-24-05700": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Wu Chui Road",
+            "LOCATION_CN": "湖翠路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Ferry Pier",
+            "DIRECTION_CN": "屯門碼頭",
+            "NEAR_LANDMARK_EN": "Tip Sum House",
+            "NEAR_LANDMARK_CN": "蝶心樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-01T08:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104309",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Wu Chui Road (Tuen Mun Ferry Pier bound) near Tip Sum House is still being closed to all traffic. Only remaining lane is available to motorists.",
+                "CONTENT_CN": "因水管緊急維修，湖翠路(往屯門碼頭方向)近蝶心樓的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-01T10:15:28",
+        "last_announcement": "2024-10-01T08:38:00"
+    },
+    "IN-24-05760": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Fu Road roundabout",
+            "LOCATION_CN": "龍富路迴旋處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-01T08:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104310",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Fu Road roundabout  is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-01T09:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104311",
+                "CONTENT_EN": "Part of the lanes of Lung Fu Road roundabout  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍富路迴旋處的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-01T10:15:28",
+        "last_announcement": "2024-10-01T09:01:00"
     }
 }
