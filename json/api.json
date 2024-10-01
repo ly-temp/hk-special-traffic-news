@@ -84,38 +84,6 @@
         "last_update": "2024-09-29T20:41:57",
         "last_announcement": "2024-09-29T20:07:00"
     },
-    "IN-24-05720": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "North Lantau Highway",
-            "LOCATION_CN": "北大嶼山公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": "Siu Ho Wan",
-            "NEAR_LANDMARK_CN": "小蠔灣",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-28T11:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104200",
-                "CONTENT_EN": "Part of the lanes of North Lantau Highway (Airport bound) near Siu Ho Wan which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的北大嶼山公路(往機場方向)近小蠔灣的部份行車線現已解封。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-09-28T11:37:44",
-        "last_announcement": "2024-09-28T11:10:00"
-    },
     "IN-24-05721": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1768,10 +1736,17 @@
                 "ID": "104312",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Tseung Kwan O bound) near Laguna City is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往將軍澳方向)近麗港城的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-01T10:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104313",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Tseung Kwan O bound) near Laguna City which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往將軍澳方向)近麗港城的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-10-01T11:07:01",
-        "last_announcement": "2024-10-01T10:49:00"
+        "last_update": "2024-10-01T11:39:43",
+        "last_announcement": "2024-10-01T10:56:00"
     }
 }
