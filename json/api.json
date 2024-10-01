@@ -1645,5 +1645,67 @@
         "district": "離島區",
         "last_update": "2024-10-01T16:41:19",
         "last_announcement": "2024-10-01T16:10:00"
+    },
+    "IN-24-05766": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null
+        },
+        "message": {
+            "2024-10-01T18:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104324",
+                "CONTENT_EN": "As informed by Mainland railway authorities, High Speed Rail train G305 departing from Tianjinxi Station to Hong Kong West Kowloon Station will be delayed around 180 mins due to equipment fault in Mainland Section. For latest train schedules, please refer to 12306 official website (12306. cn), and also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "內地鐵路單位通報，由天津西站開往香港西九龍站"
+            }
+        },
+        "district": null,
+        "last_update": "2024-10-01T18:37:14",
+        "last_announcement": "2024-10-01T18:11:00"
+    },
+    "IN-24-05767": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "East Tsim Sha Tsui Station access arrangements",
+            "INCIDENT_DETAIL_CN": "尖東站進出安排",
+            "LOCATION_EN": "Tsuen Wan Line Service Disruption",
+            "LOCATION_CN": "荃灣綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-01T18:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104325",
+                "CONTENT_EN": "To assist the Police with Crowd Management, Entrances/Exits J, L1, L3, L4, L5 and L6 in East Tsim Sha Tsui Station are temporarily closed. Please use other Entrances/Exits.",
+                "CONTENT_CN": "為配合警方的人潮管制措施，尖東站J、L1、L3、L4、L5及L6出入口暫時關閉，請使用其他出入口。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-10-01T18:37:14",
+        "last_announcement": "2024-10-01T18:19:00"
     }
 }
