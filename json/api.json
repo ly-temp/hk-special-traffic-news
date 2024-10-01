@@ -84,52 +84,6 @@
         "last_update": "2024-09-29T06:40:57",
         "last_announcement": "2024-09-29T06:29:00"
     },
-    "IN-24-05732": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Yuk Yat Street",
-            "LOCATION_CN": "旭日街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Kwei Chow Street",
-            "NEAR_LANDMARK_CN": "貴州街",
-            "BETWEEN_LANDMARK_EN": "Lok Shan Road",
-            "BETWEEN_LANDMARK_CN": "落山道",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-28T22:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104230",
-                "CONTENT_EN": "Due to fire , all lanes of Yuk Yat Street  between Kwei Chow Street and Lok Shan Road is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因火警，旭日街介乎貴州街與落山道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-09-28T23:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104234",
-                "CONTENT_EN": "Due to fire , part of the lanes of Yuk Yat Street  between Kwei Chow Street and Lok Shan Road is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因火警，旭日街介乎貴州街與落山道之間的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-09-29T01:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104236",
-                "CONTENT_EN": "Part of the lanes of Yuk Yat Street  between Kwei Chow Street and Lok Shan Road which was closed due to fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因火警而封閉的旭日街介乎貴州街與落山道之間的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-09-29T01:37:28",
-        "last_announcement": "2024-09-29T01:23:00"
-    },
     "IN-24-05733": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
