@@ -1,43 +1,4 @@
 {
-    "IN-24-05682": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "drainage works",
-            "INCIDENT_DETAIL_CN": "渠務工程",
-            "LOCATION_EN": "Boundary Street",
-            "LOCATION_CN": "界限街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "Nathan Road",
-            "NEAR_LANDMARK_CN": "彌敦道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-26T16:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104109",
-                "CONTENT_EN": "Due to drainage works, part of the lanes of Boundary Street (Kowloon City bound) near Nathan Road is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因渠務工程，界限街(往九龍城方向)近彌敦道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-09-28T16:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104214",
-                "CONTENT_EN": "Part of the lanes of Boundary Street (Kowloon City bound) near Nathan Road which was closed due to drainage works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因渠務工程而封閉的界限街(往九龍城方向)近彌敦道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-09-28T16:48:25",
-        "last_announcement": "2024-09-28T16:29:00"
-    },
     "IN-24-05718": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
