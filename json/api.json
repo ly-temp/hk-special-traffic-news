@@ -1613,11 +1613,18 @@
                 "ID": "104346",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Shek Wu Road (Man Kam To bound) near Po Wan Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，寶石湖路(往文錦渡方向)近寶運路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-02T09:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104358",
+                "CONTENT_EN": "Part of the lanes of Po Shek Wu Road (Man Kam To bound) near Po Wan Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的寶石湖路(往文錦渡方向)近寶運路的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "北區",
-        "last_update": "2024-10-02T09:02:10",
-        "last_announcement": "2024-10-02T08:17:00"
+        "last_update": "2024-10-02T10:21:09",
+        "last_announcement": "2024-10-02T09:07:00"
     },
     "IN-24-05774": {
         "description": {
@@ -1696,5 +1703,218 @@
         "district": "荃灣區",
         "last_update": "2024-10-02T09:02:10",
         "last_announcement": "2024-10-02T08:40:00"
+    },
+    "IN-24-05778": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-02T08:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104356",
+                "CONTENT_EN": "Lion Rock Tunnel Road (Kowloon bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "獅子山隧道公路(往九龍方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-10-02T09:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104362",
+                "CONTENT_EN": "Traffic at Lion Rock Tunnel Road (Kowloon bound) has resumed normal.",
+                "CONTENT_CN": "獅子山隧道公路(往九龍方向)的交通現已恢復正常。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-10-02T10:21:09",
+        "last_announcement": "2024-10-02T09:43:00"
+    },
+    "IN-24-05776": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wai Yip Street",
+            "LOCATION_CN": "偉業街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "King Yip Street",
+            "NEAR_LANDMARK_CN": "敬業街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-02T09:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104357",
+                "CONTENT_EN": "Part of the lanes of Wai Yip Street (Yau Tong bound) near King Yip Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的偉業街(往油塘方向)近敬業街的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-02T10:21:09",
+        "last_announcement": "2024-10-02T09:04:00"
+    },
+    "IN-24-05777": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Siu Lam Road",
+            "NEAR_LANDMARK_CN": "小欖路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-02T09:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104359",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Siu Lam Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Tuen Mun bound) ends at Tuen Mun Road near Hong Kong Garden. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近小欖路的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往屯門方向)的車龍龍尾已到屯門公路近豪景花園。 現時上址交通擠塞。"
+            },
+            "2024-10-02T09:31:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104360",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Siu Lam Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近小欖路的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-02T10:21:09",
+        "last_announcement": "2024-10-02T09:31:00"
+    },
+    "IN-24-05779": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Wo Hop Shek",
+            "NEAR_LANDMARK_CN": "和合石",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-02T09:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104361",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Wo Hop Shek is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近和合石的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-02T10:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104366",
+                "CONTENT_EN": "Part of the lanes of Fanling Highway (Sheung Shui bound) near Wo Hop Shek which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往上水方向)近和合石的部份行車線現已解封。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-10-02T10:21:09",
+        "last_announcement": "2024-10-02T10:07:00"
+    },
+    "IN-24-05780": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Sham Tseng Interchange",
+            "NEAR_LANDMARK_CN": "深井交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-02T09:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104363",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sham Tseng Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-02T10:21:09",
+        "last_announcement": "2024-10-02T09:51:00"
+    },
+    "IN-24-05781": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Siu Sai Wan Road",
+            "LOCATION_CN": "小西灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Fullview Garden",
+            "DIRECTION_CN": "富景花園",
+            "NEAR_LANDMARK_EN": "Hiu Tsui Street",
+            "NEAR_LANDMARK_CN": "曉翠街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-02T09:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104364",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Siu Sai Wan Road (Fullview Garden bound) near Hiu Tsui Street are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，小西灣道(往富景花園方向)近曉翠街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-10-02T10:21:09",
+        "last_announcement": "2024-10-02T09:59:00"
     }
 }
