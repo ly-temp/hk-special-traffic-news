@@ -84,45 +84,6 @@
         "last_update": "2024-10-01T16:41:19",
         "last_announcement": "2024-10-01T16:14:00"
     },
-    "IN-24-05746": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "San Tin Highway",
-            "LOCATION_CN": "新田公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Mo Fan Heung",
-            "NEAR_LANDMARK_CN": "模範鄉",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-30T11:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104270",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of San Tin Highway (Sheung Shui bound) near Mo Fan Heung is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，新田公路(往上水方向)近模範鄉的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-09-30T11:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104271",
-                "CONTENT_EN": "The slow lane of San Tin Highway (Sheung Shui bound) near Mo Fan Heung which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往上水方向)近模範鄉的慢線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-09-30T12:14:13",
-        "last_announcement": "2024-09-30T11:52:00"
-    },
     "IN-24-05747": {
         "description": {
             "INCIDENT_HEADING_EN": "Ferry Incident",
@@ -2057,11 +2018,18 @@
                 "ID": "104406",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge, with details as shown below: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge are lowered from 100km/h to 50 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge is lowered from 80km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋主橋已實施以下特別交通及運輸安排： (i)港珠澳大橋主橋的快線及中線車速限制由每小時100公里降至每小時50 公里；及 (ii)港珠澳大橋主橋的慢線車速限制由每小時80公里降至每小時50 公里。"
+            },
+            "2024-10-03T12:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104432",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge has resumed 100 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge has resumed 80km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋主橋已實施以下安排： (i)港珠澳大橋主橋的快線及中線車速限制恢復為每小時100公里；及 (ii)港珠澳大橋主橋的慢線車速限制恢復為每小時80公里。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-10-03T06:32:14",
-        "last_announcement": "2024-10-03T06:18:00"
+        "last_update": "2024-10-03T12:24:59",
+        "last_announcement": "2024-10-03T12:10:00"
     },
     "IN-24-05797": {
         "description": {
@@ -2399,5 +2367,37 @@
         "district": "沙田區",
         "last_update": "2024-10-03T10:42:34",
         "last_announcement": "2024-10-03T10:14:00"
+    },
+    "IN-24-05808": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Yue Man Square",
+            "NEAR_LANDMARK_CN": "裕民坊",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-03T12:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104430",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Yue Man Square is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近裕民坊的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-03T12:24:59",
+        "last_announcement": "2024-10-03T12:07:00"
     }
 }
