@@ -1,50 +1,4 @@
 {
-    "IN-24-05744": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
-            "INCIDENT_DETAIL_CN": "緊急維修",
-            "LOCATION_EN": "Ting Kok Road",
-            "LOCATION_CN": "汀角路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po Town Centre",
-            "DIRECTION_CN": "大埔市中心",
-            "NEAR_LANDMARK_EN": "Yuen Shin Road",
-            "NEAR_LANDMARK_CN": "完善路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-09-30T09:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104268",
-                "CONTENT_EN": "Due to emergency repairing works , the fast lane of Ting Kok Road (Tai Po Town Centre bound) near Yuen Shin Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因緊急維修，汀角路(往大埔市中心方向)近完善路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-01T08:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104308",
-                "CONTENT_EN": "Due to emergency repairing works , the fast lane of Ting Kok Road (Tai Po Town Centre bound) near Yuen Shin Road is still being closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因緊急維修，汀角路(往大埔市中心方向)近完善路的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-10-01T16:14:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104322",
-                "CONTENT_EN": "The fast lane of Ting Kok Road (Tai Po Town Centre bound) near Yuen Shin Road which was closed due to emergency repairing works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因緊急維修而封閉的汀角路(往大埔市中心方向)近完善路的快線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-10-01T16:41:19",
-        "last_announcement": "2024-10-01T16:14:00"
-    },
     "IN-24-05700": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2754,5 +2708,69 @@
         "district": "東區",
         "last_update": "2024-10-04T16:29:50",
         "last_announcement": "2024-10-04T16:04:00"
+    },
+    "IN-24-05838": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Connaught Road West",
+            "LOCATION_CN": "干諾道西",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kennedy Town",
+            "DIRECTION_CN": "堅尼地城",
+            "NEAR_LANDMARK_EN": "Shun Tak Centre",
+            "NEAR_LANDMARK_CN": "信德中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-04T16:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104499",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road West flyover (Kennedy Town bound) near Shun Tak Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，干諾道西天橋(往堅尼地城方向)近信德中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-10-04T16:45:21",
+        "last_announcement": "2024-10-04T16:20:00"
+    },
+    "IN-24-05839": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Kwai Chung Hospital",
+            "NEAR_LANDMARK_CN": "葵涌醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-04T16:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104501",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Kwai Chung Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近葵涌醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-10-04T16:45:21",
+        "last_announcement": "2024-10-04T16:32:00"
     }
 }
