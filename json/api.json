@@ -77,36 +77,6 @@
         "last_update": "2024-10-03T11:34:30",
         "last_announcement": "2024-10-03T11:15:00"
     },
-    "IN-24-05766": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null
-        },
-        "message": {
-            "2024-10-01T18:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104324",
-                "CONTENT_EN": "As informed by Mainland railway authorities, High Speed Rail train G305 departing from Tianjinxi Station to Hong Kong West Kowloon Station will be delayed around 180 mins due to equipment fault in Mainland Section. For latest train schedules, please refer to 12306 official website (12306. cn), and also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "內地鐵路單位通報，由天津西站開往香港西九龍站"
-            }
-        },
-        "district": null,
-        "last_update": "2024-10-01T18:37:14",
-        "last_announcement": "2024-10-01T18:11:00"
-    },
     "IN-24-05767": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
@@ -2334,11 +2304,18 @@
                 "ID": "104513",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Shap Pat Heung Interchange  is closed to all traffic. Vehicles along Yuen Long Highway (Tuen Mun bound) are not allowed to access Shap Pat Heung Road through Shap Pat Heung Interchange. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，十八鄉交匯處的部份行車線現已封閉。 沿元朗公路(往屯門方向)的車輛不能經⼗⼋鄉交匯處駛入⼗⼋鄉路。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-04T18:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104517",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Shap Pat Heung Interchange is still being closed to all traffic. Only remaining lanes are available to motorists. \nVehicles along Yuen Long Highway (Tuen Mun bound) are not allowed to access Shap Pat Heung Road through Shap Pat Heung Interchange.   Traffic queues on Shap Pat Heung Interchange end at Yuen Long Highway near Tong Yan San Tsuen Interchange and San Tin Interchange near Fairview Park.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，十八鄉交匯處的部份行車線仍然封閉。駕駛人士只可使用餘下行車線行車。\n沿元朗公路(往屯門方向)的車輛不能經⼗⼋鄉交匯處駛入⼗⼋鄉路。  現時在十八鄉交匯處的車龍龍尾已到元朗公路近唐人新村交匯處及新田交匯處近錦繡花園。  現時上址交通擠塞。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-10-04T18:17:03",
-        "last_announcement": "2024-10-04T17:59:00"
+        "last_update": "2024-10-04T18:38:24",
+        "last_announcement": "2024-10-04T18:19:00"
     },
     "IN-24-05828": {
         "description": {
@@ -2935,5 +2912,37 @@
         "district": "屯門區",
         "last_update": "2024-10-04T18:17:03",
         "last_announcement": "2024-10-04T17:48:00"
+    },
+    "IN-24-05844": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sai Kung",
+            "DIRECTION_CN": "西貢",
+            "NEAR_LANDMARK_EN": "Pak Shek Wo",
+            "NEAR_LANDMARK_CN": "白石窩",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-04T18:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104515",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Clear Water Bay Road (Sai Kung bound) near Pak Shek Wo are closed to all traffic. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，清水灣道(往西貢方向)近白石窩的全線現已封閉。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-10-04T18:38:24",
+        "last_announcement": "2024-10-04T18:15:00"
     }
 }
