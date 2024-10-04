@@ -2311,11 +2311,18 @@
                 "ID": "104517",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Shap Pat Heung Interchange is still being closed to all traffic. Only remaining lanes are available to motorists. \nVehicles along Yuen Long Highway (Tuen Mun bound) are not allowed to access Shap Pat Heung Road through Shap Pat Heung Interchange.   Traffic queues on Shap Pat Heung Interchange end at Yuen Long Highway near Tong Yan San Tsuen Interchange and San Tin Interchange near Fairview Park.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，十八鄉交匯處的部份行車線仍然封閉。駕駛人士只可使用餘下行車線行車。\n沿元朗公路(往屯門方向)的車輛不能經⼗⼋鄉交匯處駛入⼗⼋鄉路。  現時在十八鄉交匯處的車龍龍尾已到元朗公路近唐人新村交匯處及新田交匯處近錦繡花園。  現時上址交通擠塞。"
+            },
+            "2024-10-04T18:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104524",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Shap Pat Heung Interchange is still being closed to all traffic. \nOnly remaining lanes are available to motorists. \nVehicles along Yuen Long Highway (Tuen Mun bound) are not allowed to access Shap Pat Heung Road through Shap Pat Heung Interchange. Citizens please take note KMB's service travelling via Yuen Long Highway (Tuen Mun bound) has been affected, citizens please consider using other public transport services, such as MTR services.   Traffic queues on Shap Pat Heung Interchange ends at Yuen Long Highway near Tong Yan San Tsuen Interchange and San Tin Interchange near Fairview Park.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，十八鄉交匯處的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。駕駛人士只可使用餘下行車線行車。\n沿元朗公路(往屯門方向)的車輛不能經⼗⼋鄉交匯處駛入⼗⼋鄉路。\n市民請留意九巴途經元朗公路往屯門方向的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。  現時在十八鄉交匯處的車龍龍尾已到元朗公路近唐人新村交匯處及新田交匯處近錦繡花園。  現時上址交通擠塞。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-10-04T18:38:24",
-        "last_announcement": "2024-10-04T18:19:00"
+        "last_update": "2024-10-04T19:17:45",
+        "last_announcement": "2024-10-04T18:48:00"
     },
     "IN-24-05828": {
         "description": {
@@ -3008,5 +3015,69 @@
         "district": "觀塘區",
         "last_update": "2024-10-04T18:58:40",
         "last_announcement": "2024-10-04T18:44:00"
+    },
+    "IN-24-05848": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kai Tak Tunnel",
+            "LOCATION_CN": "啟德隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-04T19:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104527",
+                "CONTENT_EN": "The tunnel tube fast lane of Kai Tak Tunnel (Tsim Sha Tsui bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的啟德隧道(往尖沙咀方向)的管道快線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-04T19:17:45",
+        "last_announcement": "2024-10-04T19:01:00"
+    },
+    "IN-24-05849": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": "Cheung Tsing Tunnel entrance",
+            "NEAR_LANDMARK_CN": "長青隧道入口",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-04T19:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104528",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Airport bound) near Cheung Tsing Tunnel entrance is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青葵公路(往機場方向)近長青隧道入口的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-10-04T19:17:45",
+        "last_announcement": "2024-10-04T19:02:00"
     }
 }
