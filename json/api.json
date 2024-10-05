@@ -3007,10 +3007,49 @@
                 "ID": "104561",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Castle Peak Road - Yuen Long is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，元朗公路(往上水方向)近青山公路　–　元朗段的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-05T15:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104562",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Castle Peak Road - Yuen Long which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往上水方向)近青山公路　–　元朗段的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-10-05T15:12:58",
-        "last_announcement": "2024-10-05T14:47:00"
+        "last_update": "2024-10-05T15:28:27",
+        "last_announcement": "2024-10-05T15:05:00"
+    },
+    "IN-24-05862": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Nai Chung Road",
+            "LOCATION_CN": "黃泥涌道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Causeway Bay",
+            "DIRECTION_CN": "銅鑼灣",
+            "NEAR_LANDMARK_EN": "Queen's Road East",
+            "NEAR_LANDMARK_CN": "皇后大道東",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-05T15:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104563",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of junction of Wong Nai Chung Road (Causeway Bay bound) and Queen's Road East is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，黃泥涌道(往銅鑼灣方向)和皇后大道東交界處的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-10-05T15:28:27",
+        "last_announcement": "2024-10-05T15:15:00"
     }
 }
