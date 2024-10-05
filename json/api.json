@@ -137,45 +137,6 @@
         "last_update": "2024-10-02T17:45:15",
         "last_announcement": "2024-10-02T17:31:00"
     },
-    "IN-24-05787": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O Tunnel",
-            "DIRECTION_CN": "將軍澳隧道",
-            "NEAR_LANDMARK_EN": "Lin Tak Road",
-            "NEAR_LANDMARK_CN": "連德道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-02T16:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104383",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Lin Tak Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近連德道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-02T16:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104385",
-                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Lin Tak Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往將軍澳隧道方向)近連德道的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-10-02T17:20:56",
-        "last_announcement": "2024-10-02T16:55:00"
-    },
     "IN-24-05789": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3058,5 +3019,44 @@
         "district": "屯門區",
         "last_update": "2024-10-05T16:27:19",
         "last_announcement": "2024-10-05T16:14:00"
+    },
+    "IN-24-05866": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Princess Margaret Road",
+            "LOCATION_CN": "公主道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Perth Street",
+            "NEAR_LANDMARK_CN": "巴富街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-05T17:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104572",
+                "CONTENT_EN": "Due to road incident , part of the lanes of Princess Margaret Road flyover (Tsim Sha Tsui bound) near Perth Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因道路事故，公主道天橋(往尖沙咀方向)近巴富街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-05T17:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104573",
+                "CONTENT_EN": "Part of the lanes of Princess Margaret Road flyover (Tsim Sha Tsui bound) near Perth Street which was closed due to road incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路事故而封閉的公主道天橋(往尖沙咀方向)近巴富街的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-05T17:30:59",
+        "last_announcement": "2024-10-05T17:17:00"
     }
 }
