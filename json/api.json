@@ -2358,11 +2358,18 @@
                 "ID": "104582",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Park is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   At the same time, part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Tsuen Wan Park is re-opened to all traffic.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近荃灣公園的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  同時，荃灣路(往屯門方向)近荃灣公園的部分行車線現已解封。  現時上址交通繁忙。"
+            },
+            "2024-10-06T12:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104585",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近荃灣公園的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-10-06T11:50:35",
-        "last_announcement": "2024-10-06T11:33:00"
+        "last_update": "2024-10-06T12:55:09",
+        "last_announcement": "2024-10-06T12:45:00"
     },
     "IN-24-05871": {
         "description": {
@@ -2390,10 +2397,17 @@
                 "ID": "104583",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tseng Choi Sitting-out Area is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近井財休憩處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-06T12:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104584",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tseng Choi Sitting-out Area is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Fuk Hang Tsuen. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近井財休憩處的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近福亨村。 現時上址交通繁忙。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-10-06T12:32:05",
-        "last_announcement": "2024-10-06T12:04:00"
+        "last_update": "2024-10-06T12:55:09",
+        "last_announcement": "2024-10-06T12:35:00"
     }
 }
