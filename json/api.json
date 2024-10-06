@@ -38,52 +38,6 @@
         "last_update": "2024-10-05T07:19:56",
         "last_announcement": "2024-10-05T07:03:00"
     },
-    "IN-24-05819": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-03T23:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104456",
-                "CONTENT_EN": "Due to vehicle on fire , all lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. The lower deck of Lantau Link (Airport bound) has been opened. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，青嶼幹線(青馬大橋)(往機場方向) 的全線現已封閉。 青嶼幹線下層(往機場方向)現已開放。 現時上址交通繁忙。"
-            },
-            "2024-10-03T23:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104457",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. The lower deck of Lantau Link (Airport bound) has been opened. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已封閉。 青嶼幹線下層(往機場方向)現已開放。 現時上址交通繁忙。"
-            },
-            "2024-10-04T02:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104458",
-                "CONTENT_EN": "Part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to vehicle on fire is re-opened to all traffic. The lower deck of Lantau Link (Airport bound) has been closed.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已解封。 青嶼幹線下層(往機場方向)現已關閉。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-10-04T02:39:32",
-        "last_announcement": "2024-10-04T02:15:00"
-    },
     "IN-24-05820": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
