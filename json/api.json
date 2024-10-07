@@ -158,38 +158,6 @@
         "last_update": "2024-10-04T17:54:38",
         "last_announcement": "2024-10-04T17:41:00"
     },
-    "IN-24-05841": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Caritas Medical Centre",
-            "NEAR_LANDMARK_CN": "明愛醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-04T17:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104505",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Lung Cheung Road Sitting-out Area. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，呈祥道(往荃灣方向)近明愛醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往荃灣方向)的車龍龍尾已到龍翔道休憩處。 現時上址交通擠塞。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-10-04T17:44:32",
-        "last_announcement": "2024-10-04T17:25:00"
-    },
     "IN-24-05843": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2008,5 +1976,37 @@
         "district": "灣仔區",
         "last_update": "2024-10-07T15:27:36",
         "last_announcement": "2024-10-07T15:01:00"
+    },
+    "IN-24-05890": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Hoi Bun Road Park",
+            "NEAR_LANDMARK_CN": "海濱道公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-07T17:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104636",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Mong Kok bound) near Hoi Bun Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近海濱道公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-07T17:47:10",
+        "last_announcement": "2024-10-07T17:32:00"
     }
 }
