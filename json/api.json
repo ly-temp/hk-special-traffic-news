@@ -1,43 +1,4 @@
 {
-    "IN-24-05810": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Kwai Luen Road",
-            "LOCATION_CN": "葵聯路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Wo Hau",
-            "DIRECTION_CN": "大窩口",
-            "NEAR_LANDMARK_EN": "Kwai Shing East Shopping Centre",
-            "NEAR_LANDMARK_CN": "葵盛東商場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-03T13:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104435",
-                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Kwai Luen Road (Tai Wo Hau bound) near Kwai Shing East Shopping Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，葵聯路(往大窩口方向)近葵盛東商場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-05T07:03:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104548",
-                "CONTENT_EN": "Part of the lanes of Kwai Luen Road (Tai Wo Hau bound) near Kwai Shing East Shopping Centre which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的葵聯路(往大窩口方向)近葵盛東商場的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-10-05T07:19:56",
-        "last_announcement": "2024-10-05T07:03:00"
-    },
     "IN-24-05853": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
