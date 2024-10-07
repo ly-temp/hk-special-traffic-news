@@ -119,84 +119,6 @@
         "last_update": "2024-10-05T00:39:01",
         "last_announcement": "2024-10-05T00:17:00"
     },
-    "IN-24-05833": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Canal Road Flyover",
-            "LOCATION_CN": "堅拿道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Hennessy Road",
-            "NEAR_LANDMARK_CN": "軒尼詩道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-04T13:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104486",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Canal Road Flyover (Cross Harbour Tunnel bound) near Hennessy Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，堅拿道天橋(往海底隧道方向)近軒尼詩道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-04T13:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104489",
-                "CONTENT_EN": "Part of the lanes of Canal Road Flyover (Cross Harbour Tunnel bound) near Hennessy Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的堅拿道天橋(往海底隧道方向)近軒尼詩道的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-10-04T14:22:51",
-        "last_announcement": "2024-10-04T13:50:00"
-    },
-    "IN-24-05834": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Hong Chong Road",
-            "NEAR_LANDMARK_CN": "康莊道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-04T14:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104490",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Hong Chong Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往油麻地方向)近康莊道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-04T14:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104491",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Yau Ma Tei bound) near Hong Chong Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往油麻地方向)近康莊道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-10-04T14:22:51",
-        "last_announcement": "2024-10-04T14:12:00"
-    },
     "IN-24-05835": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2191,10 +2113,17 @@
                 "ID": "104630",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Chai Wan Kok Cooked Food Market is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往屯門方向)近柴灣角熟食市場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-07T14:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104631",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Chai Wan Kok Cooked Food Market which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往屯門方向)近柴灣角熟食市場的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-10-07T14:19:32",
-        "last_announcement": "2024-10-07T13:58:00"
+        "last_update": "2024-10-07T14:42:18",
+        "last_announcement": "2024-10-07T14:13:00"
     }
 }
