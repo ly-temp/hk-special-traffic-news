@@ -1,43 +1,4 @@
 {
-    "IN-24-05853": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Airport Express In-town Check-in Service",
-            "INCIDENT_DETAIL_CN": "機場快綫市區預辦登機服務",
-            "LOCATION_EN": "Airport Express Line Service Disruption",
-            "LOCATION_CN": "機場快綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-05T06:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104547",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to baggage handling system equipment fault, In-town Check-in service at Hong Kong Station and Kowloon Station is adjusted to 120 minutes before scheduled flight departure time. Passengers are advised to leave earlier for the Airport for baggage check-in.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 由於行李處理系統機件故障，香港站及九龍站市區預辦登機服務調整至航班起飛前120分鐘截止。 乘客請考慮提早前往機場辦理登機手續。"
-            },
-            "2024-10-05T07:05:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104549",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that In-town Check-in services close out time at Hong Kong Station and Kowloon Station have resumed to 90 minutes.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 香港站及九龍站市區預辦登機服務的截⽌時間恢復為⾶機起⾶前的90分鐘。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-10-05T07:30:27",
-        "last_announcement": "2024-10-05T07:05:00"
-    },
     "IN-24-05854": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1700,5 +1661,37 @@
         "district": "觀塘區",
         "last_update": "2024-10-08T07:14:03",
         "last_announcement": "2024-10-08T07:00:00"
+    },
+    "IN-24-05897": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Wo Hop Shek",
+            "NEAR_LANDMARK_CN": "和合石",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-08T07:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104650",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Wo Hop Shek is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Fanling Highway (Sheung Shui bound) ends at Fanling Highway near Tai Hang. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近和合石的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在粉嶺公路(往上水方向)的車龍龍尾已到粉嶺公路近泰亨。 現時上址交通擠塞。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-10-08T07:39:42",
+        "last_announcement": "2024-10-08T07:23:00"
     }
 }
