@@ -165,38 +165,6 @@
         "last_update": "2024-10-04T15:59:53",
         "last_announcement": "2024-10-04T15:42:00"
     },
-    "IN-24-05836": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Olympic Garden",
-            "NEAR_LANDMARK_CN": "世運花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-04T15:31:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104495",
-                "CONTENT_EN": "The only lane of Argyle Street flyover (Mong Kok bound) near Olympic Garden which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街天橋(往旺角方向)近世運花園的唯一行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-10-04T15:49:39",
-        "last_announcement": "2024-10-04T15:31:00"
-    },
     "IN-24-05837": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
