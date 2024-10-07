@@ -38,130 +38,6 @@
         "last_update": "2024-10-05T07:19:56",
         "last_announcement": "2024-10-05T07:03:00"
     },
-    "IN-24-05823": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tate's Cairn Highway",
-            "LOCATION_CN": "大老山公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sha Tin Sewage Treatment Works",
-            "NEAR_LANDMARK_CN": "沙田污水處理廠",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-04T08:33:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104465",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tate's Cairn Highway (Kowloon bound) near Sha Tin Sewage Treatment Works is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大老山公路(往九龍方向)近沙田污水處理廠的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-04T08:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104466",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tate's Cairn Highway (Kowloon bound) near Sha Tin Sewage Treatment Works is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tate's Cairn Highway (Kowloon bound) ends at Tolo Highway near Hong Kong Science Park. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，大老山公路(往九龍方向)近沙田污水處理廠的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在大老山公路(往九龍方向)的車龍龍尾已到吐露港公路近香港科學園。 現時上址交通擠塞。"
-            },
-            "2024-10-04T08:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104468",
-                "CONTENT_EN": "Part of the lanes of Tate's Cairn Highway (Kowloon bound) near Sha Tin Sewage Treatment Works which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大老山公路(往九龍方向)近沙田污水處理廠的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-10-04T10:07:24",
-        "last_announcement": "2024-10-04T08:56:00"
-    },
-    "IN-24-05825": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tuen Lee Street",
-            "NEAR_LANDMARK_CN": "屯利街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-04T09:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104469",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Lee Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近屯利街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-04T09:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104470",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Lee Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近屯利街的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-10-04T10:07:24",
-        "last_announcement": "2024-10-04T09:34:00"
-    },
-    "IN-24-05827": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Tsui Ping South Estate",
-            "NEAR_LANDMARK_CN": "翠屏南邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-04T09:43:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104472",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Mong Kok bound) near Tsui Ping South Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，將軍澳道(往旺角方向)近翠屏南邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-04T09:53:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104473",
-                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Mong Kok bound) near Tsui Ping South Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往旺角方向)近翠屏南邨的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-10-04T10:07:24",
-        "last_announcement": "2024-10-04T09:53:00"
-    },
     "IN-24-05824": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2239,5 +2115,193 @@
         "district": "油尖旺區",
         "last_update": "2024-10-07T08:42:02",
         "last_announcement": "2024-10-07T08:34:00"
+    },
+    "IN-24-05881": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Kwai Highway",
+            "LOCATION_CN": "青葵公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Princess Margaret Hospital",
+            "NEAR_LANDMARK_CN": "瑪嘉烈醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-07T08:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104608",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kowloon bound) near Princess Margaret Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往九龍方向)近瑪嘉烈醫院的部份行車線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-10-07T10:10:42",
+        "last_announcement": "2024-10-07T08:42:00"
+    },
+    "IN-24-05883": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "traffic accident happened earlier",
+            "INCIDENT_DETAIL_CN": "較早前交通意外",
+            "LOCATION_EN": "West Kowloon Highway",
+            "LOCATION_CN": "西九龍公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Western Harbour Crossing",
+            "DIRECTION_CN": "西區海底隧道",
+            "NEAR_LANDMARK_EN": "Lai King MTR Station",
+            "NEAR_LANDMARK_CN": "荔景港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-07T08:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104610",
+                "CONTENT_EN": "Due to traffic accident happened earlier , West Kowloon Highway (Western Harbour Crossing bound) near Lai King MTR Station is busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "因較早前交通意外，西九龍公路(往西區海底隧道方向)近荔景港鐵站的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-10-07T08:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104613",
+                "CONTENT_EN": "Due to traffic accident happened earlier , the following road section(s) are busy: – West Kowloon Highway (Western Harbour Crossing bound) – Tsing Kwai Highway (Western Harbour Crossing bound) Traffic queue on Tsing Kwai Highway (Western Harbour Crossing bound) ends at Tsing Kwai Highway near Lai King MTR Station. Intermittent closure of Cheung Tsing Tunnel (Kowloon bound) has been implemented.",
+                "CONTENT_CN": "因較早前交通意外，以下路段的交通繁忙: –西九龍公路(往西區海底隧道方向) –青葵公路(往西區海底隧道方向) 現時在青葵公路(往西區海底隧道方向)的車龍龍尾已到青葵公路近荔景港鐵站。 長青隧道(往九龍方向)現正實施間封(間歇性封閉)。"
+            },
+            "2024-10-07T09:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104615",
+                "CONTENT_EN": "Due to traffic accident happened earlier , the following road sections are busy:\n– West Kowloon Highway (Western Harbour Crossing bound)\n– Tsing Kwai Highway (Western Harbour Crossing bound)\nTraffic queue on Tsing Kwai Highway (Western Harbour Crossing bound) ends at Tsing Kwai Highway near Lai King MTR Station. Intermittent closure of Cheung Tsing Tunnel (Kowloon bound) is cancelled. Motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "因較早前交通意外，以下路段的交通繁忙:\n–西九龍公路(往西區海底隧道方向)\n–青葵公路(往西區海底隧道方向)\n現時在青葵公路(往西區海底隧道方向)的車龍龍尾已到青葵公路近荔景港鐵站。長青隧道(往九龍方向)取消間封(間歇性封閉)。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-10-07T09:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104617",
+                "CONTENT_EN": "Due to traffic accident happened earlier , the following road section is still busy:\n– West Kowloon Highway (Western Harbour Crossing bound)\nTraffic queue on West Kowloon Highway (Western Harbour Crossing bound) ends at West Kowloon Highway near Lai Chi Kok Park. Motorists passing through the above road section are advised to drive with utmost care and patience.   Besides, traffic on Tsing Kwai Highway (Western Harbour Crossing bound) has resumed normal.",
+                "CONTENT_CN": "因較早前交通意外，以下路段的交通仍然繁忙:\n–西九龍公路(往西區海底隧道方向)\n現時在西九龍公路(往西區海底隧道方向)的車龍龍尾已到西九龍公路近荔枝角公園。駕駛人士行經上述路段敬請忍讓及小心駕駛。  另外，青葵公路(往西區海底隧道方向)交通現已恢復正常。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-10-07T10:10:42",
+        "last_announcement": "2024-10-07T09:28:00"
+    },
+    "IN-24-05882": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-07T08:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104611",
+                "CONTENT_EN": "The following road sections are busy:\nTraffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Sha Tin Road near Prince of Wales Hospital and traffic queue on Tate's Cairn Highway (Kowloon bound) ends at Shatin Hospital. Motorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到沙田路近威爾斯親王醫院及大老山公路(往九龍方向)的車龍龍尾已到沙田醫院。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-10-07T10:10:42",
+        "last_announcement": "2024-10-07T08:45:00"
+    },
+    "IN-24-05884": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
+            "NEAR_LANDMARK_CN": "何文田港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-07T09:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104619",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-07T09:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104621",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-07T10:10:42",
+        "last_announcement": "2024-10-07T09:55:00"
+    },
+    "IN-24-05885": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwai Chung Road",
+            "LOCATION_CN": "葵涌道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "kwai chung Police Station",
+            "NEAR_LANDMARK_CN": "葵涌警署",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-07T09:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104620",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Tsuen Wan bound) near Kwai Chung Police Station is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，葵涌道(往荃灣方向)近葵涌警署的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-10-07T10:10:42",
+        "last_announcement": "2024-10-07T09:49:00"
     }
 }
