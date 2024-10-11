@@ -1,43 +1,4 @@
 {
-    "IN-24-05894": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Princess Margaret Road, Tsim Sha Tsui bound, near Sheung Hing Street",
-            "INCIDENT_DETAIL_CN": "公主道，往尖沙咀方向，近常興街",
-            "LOCATION_EN": "Princess Margaret Road",
-            "LOCATION_CN": "公主道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Sheung Hing Street",
-            "NEAR_LANDMARK_CN": "常興街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-07T23:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104644",
-                "CONTENT_EN": "Due to emergency road surface repairing works, the slow lane of Princess Margaret Road (Tsim Sha Tsui bound) near Sheung Hing Street is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因路⾯緊急維修，公主道(往尖沙咀⽅向)近常興街的慢線現已封閉。 駕駛⼈⼠只可使⽤餘下⾏⾞線⾏⾞。"
-            },
-            "2024-10-09T07:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104705",
-                "CONTENT_EN": "The slow lane of Princess Margaret Road (Tsim Sha Tsui bound) near Sheung Hing Street which was closed due to emergency road surface repairing works is re-opened to all traffic. ",
-                "CONTENT_CN": "較早前因路⾯緊急維修而封閉的公主道(往尖沙咀方向)近常興街的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-10-09T07:16:18",
-        "last_announcement": "2024-10-09T07:08:00"
-    },
     "IN-24-05921": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
