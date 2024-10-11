@@ -77,247 +77,6 @@
         "last_update": "2024-10-09T06:17:06",
         "last_announcement": "2024-10-09T06:03:00"
     },
-    "IN-24-05897": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Wo Hop Shek",
-            "NEAR_LANDMARK_CN": "和合石",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-08T07:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104650",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Wo Hop Shek is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Fanling Highway (Sheung Shui bound) ends at Fanling Highway near Tai Hang. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近和合石的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在粉嶺公路(往上水方向)的車龍龍尾已到粉嶺公路近泰亨。 現時上址交通擠塞。"
-            },
-            "2024-10-08T08:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104656",
-                "CONTENT_EN": "Part of the lanes of Fanling Highway (Sheung Shui bound) near Wo Hop Shek which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往上水方向)近和合石的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-10-08T09:49:32",
-        "last_announcement": "2024-10-08T08:07:00"
-    },
-    "IN-24-05898": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-08T07:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104651",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-08T07:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104652",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is still being closed to all traffic. Only remaining lanes are available to motorists. The lower deck of Lantau Link (Airport bound) has been opened. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 青嶼幹線下層(往機場方向)現已開放。 現時上址交通繁忙。"
-            },
-            "2024-10-08T08:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104657",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is still being closed to all traffic. Only remaining lanes are available to motorists. The lower deck of Lantau Link (Airport bound) has been opened. Traffic queue on Lantau Link (Tsing Ma Bridge) (Airport bound) ends at Tsing Sha Highway near Nam Wan Tunnel. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 青嶼幹線下層(往機場方向)現已開放。 現時在青嶼幹線(青馬大橋)(往機場方向)的車龍龍尾已到青沙公路近南灣隧道。 現時上址交通擠塞。"
-            },
-            "2024-10-08T08:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104658",
-                "CONTENT_EN": "The fast lane of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse. The lower deck of Lantau Link (Airport bound) is still being opened.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往機場方向) 的快線現已解封。 車龍有待消散。 青嶼幹線下層(往機場方向)仍然開放。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-10-08T09:49:32",
-        "last_announcement": "2024-10-08T08:29:00"
-    },
-    "IN-24-05899": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "City Point",
-            "NEAR_LANDMARK_CN": "環宇海灣",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-08T07:58:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104654",
-                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near City Point which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近環宇海灣的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-10-08T09:49:32",
-        "last_announcement": "2024-10-08T07:58:00"
-    },
-    "IN-24-05900": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Kap Shui Mun Bridge)",
-            "LOCATION_CN": "青嶼幹線(汲水門大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-08T08:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104659",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lantau Link (Kap Shui Mun Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(汲水門大橋)(往機場方向) 的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-08T09:14:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104666",
-                "CONTENT_EN": "The fast lane of Lantau Link (Kap Shui Mun Bridge) (Airport bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(汲水門大橋)(往機場方向) 的快線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-10-08T09:49:32",
-        "last_announcement": "2024-10-08T09:14:00"
-    },
-    "IN-24-05902": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road East",
-            "LOCATION_CN": "太子道東",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Argyle Street",
-            "DIRECTION_CN": "亞皆老街",
-            "NEAR_LANDMARK_EN": "Olympic Garden",
-            "NEAR_LANDMARK_CN": "世運花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-08T08:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104660",
-                "CONTENT_EN": "Due to traffic accident , the only lane of Prince Edward Road East flyover (Argyle Street bound) near Olympic Garden is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，太子道東天橋(往亞皆老街方向)近世運花園的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-10-08T08:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104662",
-                "CONTENT_EN": "The only lane of Prince Edward Road East flyover (Argyle Street bound) near Olympic Garden which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道東天橋(往亞皆老街方向)近世運花園的唯一行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-10-08T09:49:32",
-        "last_announcement": "2024-10-08T08:57:00"
-    },
-    "IN-24-05904": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Hang Road",
-            "LOCATION_CN": "大坑道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Tai Hang Drive",
-            "NEAR_LANDMARK_CN": "大坑徑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-08T09:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104665",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Hang Road (both bounds) near Tai Hang Drive are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大坑道(來回方向)近大坑徑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-08T09:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104668",
-                "CONTENT_EN": "Part of the lanes of Tai Hang Road (both bounds) near Tai Hang Drive which were closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大坑道(來回方向)近大坑徑的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-10-08T09:49:32",
-        "last_announcement": "2024-10-08T09:31:00"
-    },
     "IN-24-05905": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2427,5 +2186,69 @@
         "district": "葵青區",
         "last_update": "2024-10-11T09:48:08",
         "last_announcement": "2024-10-11T09:12:00"
+    },
+    "IN-24-05964": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-11T09:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104798",
+                "CONTENT_EN": "The traffic on the Shenzhen Bay Bridge (Shenzhen bound) is very busy at the moment. Members of the public are advised to plan ahead their journeys, travel outside peak periods as far as possible and should reserve sufficient commuting time, and be patient while queuing. Meanwhile, members of the public may consider using the other boundary control points for travelling to Shenzhen. ",
+                "CONTENT_CN": "深圳灣公路大橋(往深圳方向)的交通現時非常繁忙。請市民妥善規劃行程，盡量選擇於非繁忙時段出行，並應預留充裕交通時間，在輪候時保持忍讓。同時，市民亦請考慮使用其他口岸過境前往深圳。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-10-11T10:41:36",
+        "last_announcement": "2024-10-11T09:47:00"
+    },
+    "IN-24-05965": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-11T10:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104799",
+                "CONTENT_EN": "In view that there is a lot of cross-boundary private cars entering Shenzhen Bay Boundary Control Point, the waiting time for proceeding to the clearance area for departure procedures might require around 30 minutes. The Police is implementing Phase II special traffic arrangement at Shenzhen Bay Boundary Control Point： • The traffic arrangements for goods vehicles remain unchanged, they will continue to enter the holding area awaiting clearance through the Goods Vehicles Lanes. • Public transport vehicles, including cross-boundary coaches, franchised buses, green minibuses and taxis will continue to enter the boundary control point through the Passenger Vehicles Lanes as usual. • Cross-boundary private cars must keep left on the Shenzhen Bay Bridge and then enter the designated waiting area through the Goods Vehicles Lanes. Private cars must queue up and await further instructions to proceed to the clearance area for departure procedures. • Please be patient when waiting, thank you very much for your cooperation. ",
+                "CONTENT_CN": "鑑於進入深圳灣管制站的跨境私家車車輛眾多，等候駛往旅檢區進行離境手續的時間可能需要30分鐘，警方現正在深圳灣管制站實施第二階段特別交通安排： －對貨車的交通安排維持不變，即繼續沿貨車通道進入貨車等候區後前往清關； －對公共運輸車輛，包括跨境巴士、專營巴士、專線小巴及的士的交通安排維持不變，即繼續沿客車通道進入管制站；及 －跨境私家車須沿深圳灣公路大橋靠左行駛，然後沿貨車通道進入一個預設的私家車等候區排隊，並等候進一步指示駛往旅檢區進行離境手續。 －政府呼籲市民耐心等候，多謝合作。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-10-11T10:41:36",
+        "last_announcement": "2024-10-11T10:05:00"
     }
 }
