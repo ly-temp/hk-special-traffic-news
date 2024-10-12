@@ -1587,5 +1587,37 @@
         "district": null,
         "last_update": "2024-10-12T14:17:36",
         "last_announcement": "2024-10-12T14:03:00"
+    },
+    "IN-24-05975": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "So Uk Estate",
+            "NEAR_LANDMARK_CN": "蘇屋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-12T15:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104823",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near So Uk Estate which was closed due to traffic accident is re-opened to all traffic. ",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近蘇屋邨的部份行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-10-12T15:19:14",
+        "last_announcement": "2024-10-12T15:06:00"
     }
 }
