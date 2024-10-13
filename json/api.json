@@ -1626,5 +1626,37 @@
         "district": "觀塘區",
         "last_update": "2024-10-13T12:27:56",
         "last_announcement": "2024-10-13T12:02:00"
+    },
+    "IN-24-05985": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Princess Margaret Road",
+            "LOCATION_CN": "公主道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Waterloo Road",
+            "DIRECTION_CN": "窩打老道",
+            "NEAR_LANDMARK_EN": "Sheung Shing Street Park",
+            "NEAR_LANDMARK_CN": "常盛街公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-13T12:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104839",
+                "CONTENT_EN": "Due to emergency incident , the only lane of the slip road leading from Princess Margaret Road (Waterloo Road bound) to Argyle Street  near Sheung Shing Street Park is closed to all traffic. Motorists can only use Princess Margaret Road flyover. Traffic is busy now. ",
+                "CONTENT_CN": "因突發事件，由公主道(往窩打老道方向)通往亞皆老街 的支路近常盛街公園的唯一行車線現已封閉。 駕駛人士只可使用公主道天橋。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-13T12:43:46",
+        "last_announcement": "2024-10-13T12:19:00"
     }
 }
