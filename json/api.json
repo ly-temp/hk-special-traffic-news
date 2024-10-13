@@ -1135,11 +1135,18 @@
                 "ID": "104838",
                 "CONTENT_EN": "The following road sections in the vicinity of Tsim Sha Tsui are busy:\n- Chatham Road South\n- Salisbury Road\nMotorists passing through the above road sections are advised to drive with utmost care and patience. ",
                 "CONTENT_CN": "以下尖沙咀⼀帶路段的交通繁忙:\n-漆咸道南\n-梳⼠巴利道\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-10-13T15:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104849",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n- Chatham Road South\n- Salisbury Road. ",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n-漆咸道南\n-梳⼠巴利道。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-10-13T12:27:56",
-        "last_announcement": "2024-10-13T12:02:00"
+        "last_update": "2024-10-13T15:29:40",
+        "last_announcement": "2024-10-13T15:22:00"
     },
     "IN-24-05985": {
         "description": {
@@ -1323,10 +1330,17 @@
                 "ID": "104847",
                 "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Tsing Long Highway (Yuen Long bound) to Pat Heung Road  near Tai Lam Tunnel Administration Building is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now. ",
                 "CONTENT_CN": "因車輛故障，由青朗公路(往元朗方向)通往八鄉路 的支路近大欖隧道行政大樓的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-10-13T15:11:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104848",
+                "CONTENT_EN": "The only lane of the slip road leading from Tsing Long Highway (Yuen Long bound) to Pat Heung Road  near Tai Lam Tunnel Administration Building which was closed due to vehicle breakdown is re-opened to all traffic. ",
+                "CONTENT_CN": "較早前因車輛故障而封閉的由青朗公路(往元朗方向)通往八鄉路 的支路近大欖隧道行政大樓的 唯一行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-10-13T15:19:41",
-        "last_announcement": "2024-10-13T14:54:00"
+        "last_update": "2024-10-13T15:29:40",
+        "last_announcement": "2024-10-13T15:11:00"
     }
 }
