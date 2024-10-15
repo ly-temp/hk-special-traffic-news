@@ -1571,11 +1571,18 @@
                 "ID": "104916",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central (Sheung Wan bound) near Club Street is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   At the same time, vehicles cannot make left turning from Connaught Road Central onto Club Street.   Traffic queue on Connaught Road Central (Sheung Wan bound) ends at Gloucester Road near Wan Chai Sports Ground.   Traffic is congested now. ",
                 "CONTENT_CN": "因交通意外，干諾道中(往上環方向)近會所街的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  同時，車輛不能由干諾道中左轉入會所街。  現時在干諾道中(往上環方向)的車龍龍尾已到告士打道近灣仔運動場。  現時上址交通擠塞。"
+            },
+            "2024-10-15T16:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104917",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central (Sheung Wan bound) near Club Street is still being closed to all traffic. Only remaining lanes are available to motorists. At the same time, Vehicles cannot make left turning from Connaught Road Central onto Club Street. Traffic queue on Connaught Road Central (Sheung Wan bound) ends at Gloucester Road near Immigration Tower. Traffic is congested now. ",
+                "CONTENT_CN": "因交通意外，干諾道中(往上環方向)近會所街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 同時，車輛不能由干諾道中左轉入會所街。 現時在干諾道中(往上環方向)的車龍龍尾已到告士打道近入境事務大樓。 現時上址交通擠塞。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-10-15T16:36:30",
-        "last_announcement": "2024-10-15T16:16:00"
+        "last_update": "2024-10-15T17:25:47",
+        "last_announcement": "2024-10-15T16:57:00"
     },
     "IN-24-06021": {
         "description": {
@@ -1608,5 +1615,69 @@
         "district": "九龍城區",
         "last_update": "2024-10-15T16:36:30",
         "last_announcement": "2024-10-15T16:08:00"
+    },
+    "IN-24-06022": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tuen Mun Heung Sze Wui Road",
+            "NEAR_LANDMARK_CN": "屯門鄉事會路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-15T17:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104918",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Kowloon bound) near Tuen Mun Heung Sze Wui Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
+                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近屯門鄉事會路的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-15T17:25:47",
+        "last_announcement": "2024-10-15T17:07:00"
+    },
+    "IN-24-06023": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Sheung Yee Road",
+            "LOCATION_CN": "常怡道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Ngau Tau Kok",
+            "DIRECTION_CN": "牛頭角",
+            "NEAR_LANDMARK_EN": "MegaBox",
+            "NEAR_LANDMARK_CN": "MegaBox",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-15T17:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104919",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sheung Yee Road (Ngau Tau Kok bound) near MegaBox is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
+                "CONTENT_CN": "因交通意外，常怡道(往牛頭角方向)近MegaBox的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-15T17:25:47",
+        "last_announcement": "2024-10-15T17:15:00"
     }
 }
