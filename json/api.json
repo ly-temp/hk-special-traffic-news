@@ -1,50 +1,4 @@
 {
-    "IN-24-05979": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Broadcast Drive Garden",
-            "NEAR_LANDMARK_CN": "廣播道花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-12T17:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104827",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Broadcast Drive Garden is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近廣播道花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-12T17:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104829",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Broadcast Drive Garden is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Kwun Tong bound) ends at Lung Cheung Road near Lei Cheng Uk Estate. Traffic is congested now. ",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近廣播道花園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往觀塘方向)的車龍龍尾已到龍翔道近李鄭屋邨。 現時上址交通擠塞。"
-            },
-            "2024-10-12T17:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104831",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Broadcast Drive Garden which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse. ",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近廣播道花園的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-10-12T18:23:37",
-        "last_announcement": "2024-10-12T17:50:00"
-    },
     "IN-24-05981": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1578,11 +1532,18 @@
                 "ID": "104915",
                 "CONTENT_EN": "Due to watermain burst , the slow lane of Ma Tau Chung Road (Hung Hom bound) near Sung Wong Toi Road is closed to all traffic. Only remaining lanes are available to motorists. ",
                 "CONTENT_CN": "因水管爆裂，馬頭涌道(往紅磡方向)近宋皇臺道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-10-15T17:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104924",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Ma Tau Chung Road (Hung Hom bound) near Sung Wong Toi Road is still being closed to all traffic. Only remaining lanes are available to motorists. ",
+                "CONTENT_CN": "因水管緊急維修，馬頭涌道(往紅磡方向)近宋皇臺道的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-10-15T16:36:30",
-        "last_announcement": "2024-10-15T16:08:00"
+        "last_update": "2024-10-15T18:27:27",
+        "last_announcement": "2024-10-15T17:45:00"
     },
     "IN-24-06022": {
         "description": {
@@ -1654,5 +1615,76 @@
         "district": "觀塘區",
         "last_update": "2024-10-15T17:25:47",
         "last_announcement": "2024-10-15T17:15:00"
+    },
+    "IN-24-06024": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O Tunnel",
+            "DIRECTION_CN": "將軍澳隧道",
+            "NEAR_LANDMARK_EN": "Lin Tak Road",
+            "NEAR_LANDMARK_CN": "連德道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-15T18:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104925",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Lin Tak Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
+                "CONTENT_CN": "因交通意外，將軍澳道(往將軍澳隧道方向)近連德道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-15T18:07:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104926",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Lin Tak Road which was closed due to traffic accident is re-opened to all traffic. ",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往將軍澳隧道方向)近連德道的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-15T18:27:27",
+        "last_announcement": "2024-10-15T18:07:00"
+    },
+    "IN-24-06025": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "King's Road",
+            "LOCATION_CN": "英皇道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "North Point",
+            "DIRECTION_CN": "北角",
+            "NEAR_LANDMARK_EN": "Mount Parker Road",
+            "NEAR_LANDMARK_CN": "柏架山道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-15T18:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104927",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of King's Road (North Point bound) near Mount Parker Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
+                "CONTENT_CN": "因交通意外，英皇道(往北角方向)近柏架山道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-10-15T18:27:27",
+        "last_announcement": "2024-10-15T18:15:00"
     }
 }
