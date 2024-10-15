@@ -1550,10 +1550,49 @@
                 "ID": "104901",
                 "CONTENT_EN": "Due to person in dangerous position , all lanes of the section of Yu Chau Street between Nam Cheong Street and Pei Ho Street is closed to all traffic.   Motorists are advised to use alternative routes.   Affected KMB bus routes nos. 2X, 33A, 36B, 37, 42, 44, 86C, 117 and 118 have been diverted.   Traffic is busy now. ",
                 "CONTENT_CN": "因有人在危險位置，汝州街介乎南昌街與北河街之間的一段全線現已封閉。  駕駛人士請考慮改用其他道路。  受影響九巴巴士第2X,33A,36B,37,42,44,86C,117 及118號線須改道行駛。  現時上址交通繁忙。"
+            },
+            "2024-10-15T11:13:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104903",
+                "CONTENT_EN": "All lanes of the section of Yu Chau Street between Nam Cheong Street and Pei Ho Street which were closed due to person in dangerous position are re-opened to all traffic.   Affected bus routes have resumed their original routeings. ",
+                "CONTENT_CN": "較早前因有人在危險位置而封閉的汝州街介乎南昌街與北河街之間的一段全線現已解封。  受影響巴士路線現已恢復原有路線行駛。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-10-15T11:13:37",
-        "last_announcement": "2024-10-15T11:05:00"
+        "last_update": "2024-10-15T11:37:08",
+        "last_announcement": "2024-10-15T11:13:00"
+    },
+    "IN-24-06015": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Bypass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kwun Tong Ferry Pier",
+            "NEAR_LANDMARK_CN": "觀塘碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-15T11:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104902",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Kwun Tong Bypass (Yau Tong bound) near Kwun Tong Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近觀塘碼頭的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-15T11:37:08",
+        "last_announcement": "2024-10-15T11:08:00"
     }
 }
