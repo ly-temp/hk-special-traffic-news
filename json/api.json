@@ -1,43 +1,4 @@
 {
-    "IN-24-05982": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwai Chung Road",
-            "LOCATION_CN": "葵涌道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Lai King MTR Station",
-            "NEAR_LANDMARK_CN": "荔景港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-13T09:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104834",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Kowloon bound) near Lai King MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
-                "CONTENT_CN": "因交通意外，葵涌道(往九龍方向)近荔景港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-13T09:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104835",
-                "CONTENT_EN": "Part of the lanes of Kwai Chung Road (Kowloon bound) near Lai King MTR Station which was closed due to traffic accident is re-opened to all traffic. ",
-                "CONTENT_CN": "較早前因交通意外而封閉的葵涌道(往九龍方向)近荔景港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-10-13T09:49:07",
-        "last_announcement": "2024-10-13T09:37:00"
-    },
     "IN-24-05983": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1798,11 +1759,18 @@
                 "ID": "104935",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near East Kowloon Cultural Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now. ",
                 "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近東九文化中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-16T09:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104943",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near East Kowloon Cultural Centre is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Kwun Tong Road (Yau Tong bound) ends at Lung Cheung Road near Diamond Hill MTR Station. Traffic is congested now. ",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近東九文化中心的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘道(往油塘方向)的車龍龍尾已到龍翔道近鑽石山港鐵站。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-10-16T07:22:07",
-        "last_announcement": "2024-10-16T07:08:00"
+        "last_update": "2024-10-16T10:33:10",
+        "last_announcement": "2024-10-16T09:09:00"
     },
     "IN-24-06030": {
         "description": {
@@ -1933,10 +1901,56 @@
                 "ID": "104942",
                 "CONTENT_EN": "Due to traffic accident , the only lane of Ma Tau Chung Road flyover (Hung Hom bound) near Sung Wong Toi Playground is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now. ",
                 "CONTENT_CN": "因交通意外，馬頭涌道天橋(往紅磡方向)近宋王臺遊樂場的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-10-16T09:30:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "104944",
+                "CONTENT_EN": "The only lane of Ma Tau Chung Road flyover (Hung Hom bound) near Sung Wong Toi Playground which was closed due to traffic accident is re-opened to all traffic. ",
+                "CONTENT_CN": "較早前因交通意外而封閉的馬頭涌道天橋(往紅磡方向)近宋王臺遊樂場的唯一行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-10-16T09:10:32",
-        "last_announcement": "2024-10-16T08:42:00"
+        "last_update": "2024-10-16T10:33:10",
+        "last_announcement": "2024-10-16T09:30:00"
+    },
+    "IN-24-06034": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Oil Stain On Road",
+            "INCIDENT_DETAIL_CN": "路面有油漬",
+            "LOCATION_EN": "Lin Cheung Road",
+            "LOCATION_CN": "連翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-16T09:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "104945",
+                "CONTENT_EN": "Due to oil stain on road , the fast lane of the slip road leading from Lin Cheung Road (Tsim Sha Tsui bound) to Hoi Fai Road  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now. ",
+                "CONTENT_CN": "因路面有油漬，由連翔道(往尖沙咀方向)通往海輝道 的支路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-16T10:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "104946",
+                "CONTENT_EN": "The fast lane of the slip road leading from Lin Cheung Road (Tsim Sha Tsui bound) to Hoi Fai Road  which was closed due to oil stain on road is re-opened to all traffic. ",
+                "CONTENT_CN": "較早前因路面有油漬而封閉的由連翔道(往尖沙咀方向)通往海輝道 的支路的 快線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-10-16T10:33:10",
+        "last_announcement": "2024-10-16T10:05:00"
     }
 }
