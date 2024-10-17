@@ -1,43 +1,4 @@
 {
-    "IN-24-06006": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Shap Pat Heung Road",
-            "NEAR_LANDMARK_CN": "十八鄉路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-14T17:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104881",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Shap Pat Heung Road is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now. ",
-                "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近十八鄉路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-14T17:41:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "104883",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Shap Pat Heung Road which was closed due to traffic accident is re-opened to all traffic. ",
-                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往上水方向)近十八鄉路的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-10-14T17:57:16",
-        "last_announcement": "2024-10-14T17:41:00"
-    },
     "IN-24-06007": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2358,10 +2319,49 @@
                 "ID": "105019",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Canal Road Flyover (Cross Harbour Tunnel bound) near Hennessy Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，堅拿道天橋(往海底隧道方向)近軒尼詩道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-17T17:43:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105020",
+                "CONTENT_EN": "Part of the lanes of Canal Road Flyover (Cross Harbour Tunnel bound) near Hennessy Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的堅拿道天橋(往海底隧道方向)近軒尼詩道的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-10-17T17:54:46",
-        "last_announcement": "2024-10-17T17:40:00"
+        "last_update": "2024-10-17T18:16:19",
+        "last_announcement": "2024-10-17T17:43:00"
+    },
+    "IN-24-06070": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O Tunnel",
+            "DIRECTION_CN": "將軍澳隧道",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-17T17:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105021",
+                "CONTENT_EN": "Tseung Kwan O Road (Tseung Kwan O Tunnel bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "將軍澳道(往將軍澳隧道方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-17T18:16:19",
+        "last_announcement": "2024-10-17T17:54:00"
     }
 }
