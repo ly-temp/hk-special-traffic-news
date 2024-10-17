@@ -2241,11 +2241,18 @@
                 "ID": "105010",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tung Chung Waterfront Road (Caribbean Coast bound) near Man Tung Road Park is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，東涌海濱路(往映灣園方向)近文東路公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-17T16:31:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105016",
+                "CONTENT_EN": "Part of the lanes of Tung Chung Waterfront Road (Caribbean Coast bound) near Man Tung Road Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東涌海濱路(往映灣園方向)近文東路公園的部份行車線現已解封。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-10-17T15:28:24",
-        "last_announcement": "2024-10-17T15:05:00"
+        "last_update": "2024-10-17T16:46:10",
+        "last_announcement": "2024-10-17T16:31:00"
     },
     "IN-24-06066": {
         "description": {
@@ -2273,11 +2280,18 @@
                 "ID": "105012",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near San Hui Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近新墟遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-17T16:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105014",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near San Hui Playground which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近新墟遊樂場的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-10-17T16:30:30",
-        "last_announcement": "2024-10-17T15:51:00"
+        "last_update": "2024-10-17T16:46:10",
+        "last_announcement": "2024-10-17T16:16:00"
     },
     "IN-24-06067": {
         "description": {
@@ -2305,10 +2319,17 @@
                 "ID": "105013",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Wong Nai Chung Gap Flyover (Cross Harbour Tunnel bound) near Leighton Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，黃泥涌峽天橋(往海底隧道方向)近禮頓道的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-17T16:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105015",
+                "CONTENT_EN": "The fast lane of Wong Nai Chung Gap Flyover (Cross Harbour Tunnel bound) near Leighton Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的黃泥涌峽天橋(往海底隧道方向)近禮頓道的快線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-10-17T16:30:30",
-        "last_announcement": "2024-10-17T16:15:00"
+        "last_update": "2024-10-17T16:46:10",
+        "last_announcement": "2024-10-17T16:26:00"
     }
 }
