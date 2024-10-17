@@ -2402,5 +2402,37 @@
         "district": "觀塘區",
         "last_update": "2024-10-17T18:57:27",
         "last_announcement": "2024-10-17T18:34:00"
+    },
+    "IN-24-06072": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cotton Tree Drive",
+            "LOCATION_CN": "紅棉路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "uphill",
+            "DIRECTION_CN": "上山",
+            "NEAR_LANDMARK_EN": "Lower Albert Road",
+            "NEAR_LANDMARK_CN": "下亞厘畢道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-17T18:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105025",
+                "CONTENT_EN": "Part of the lanes of Cotton Tree Drive (uphill bound) near Lower Albert Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的紅棉路(往上山方向)近下亞厘畢道的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-10-17T19:18:15",
+        "last_announcement": "2024-10-17T18:54:00"
     }
 }
