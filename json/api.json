@@ -45,45 +45,6 @@
         "last_update": "2024-10-17T12:59:32",
         "last_announcement": "2024-10-17T06:49:00"
     },
-    "IN-24-06026": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Fan Kam Road",
-            "LOCATION_CN": "粉錦公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Shui Kan Shek",
-            "NEAR_LANDMARK_CN": "水澗石",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-15T18:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104929",
-                "CONTENT_EN": "Due to emergency incident , all lanes of Fan Kam Road (both bounds) near Shui Kan Shek is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now. ",
-                "CONTENT_CN": "因突發事件，粉錦公路(來回方向)近水澗石的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-10-15T18:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104930",
-                "CONTENT_EN": "All lanes of Fan Kam Road (both bounds) near Shui Kan Shek which were closed due to emergency incident are re-opened to all traffic. ",
-                "CONTENT_CN": "較早前因突發事件而封閉的粉錦公路(來回方向)近水澗石的全線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-10-15T19:12:43",
-        "last_announcement": "2024-10-15T18:48:00"
-    },
     "IN-24-06027": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2298,11 +2259,18 @@
                 "ID": "105060",
                 "CONTENT_EN": "The following road section is busy:\n– Wong Chu Road (Tuen Mun Road bound)\nMotorists passing through the above road section are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–皇珠路(往屯門公路方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-10-18T18:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105072",
+                "CONTENT_EN": "The following road sections are busy:\n– Wong Chu Road (Tuen Mun Road bound)\n– Connaught Road Central and Harcourt Road (Sai Wan bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–皇珠路(往屯門公路方向)\n–干諾道中及夏慤道(往西環方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-10-18T17:44:32",
-        "last_announcement": "2024-10-18T17:32:00"
+        "last_update": "2024-10-18T19:19:37",
+        "last_announcement": "2024-10-18T18:54:00"
     },
     "IN-24-06089": {
         "description": {
@@ -2447,11 +2415,18 @@
                 "ID": "105069",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of North Lantau Highway (Kowloon bound) near Administration Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，北大嶼山公路(往九龍方向)近行政大樓的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-18T18:52:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105071",
+                "CONTENT_EN": "Part of the lanes of North Lantau Highway (Kowloon bound) near Administration Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的北大嶼山公路(往九龍方向)近行政大樓的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-10-18T18:49:51",
-        "last_announcement": "2024-10-18T18:38:00"
+        "last_update": "2024-10-18T19:19:37",
+        "last_announcement": "2024-10-18T18:52:00"
     },
     "IN-24-06092": {
         "description": {
