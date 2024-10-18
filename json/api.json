@@ -84,45 +84,6 @@
         "last_update": "2024-10-15T19:48:03",
         "last_announcement": "2024-10-15T19:37:00"
     },
-    "IN-24-06028": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yee Wo Street",
-            "LOCATION_CN": "怡和街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "North Point",
-            "DIRECTION_CN": "北角",
-            "NEAR_LANDMARK_EN": "Causeway Road",
-            "NEAR_LANDMARK_CN": "高士威道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-15T19:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104932",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yee Wo Street (North Point bound) near Causeway Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
-                "CONTENT_CN": "因交通意外，怡和街(往北角方向)近高士威道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-15T19:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104933",
-                "CONTENT_EN": "Part of the lanes of Yee Wo Street (North Point bound) near Causeway Road which was closed due to traffic accident is re-opened to all traffic. ",
-                "CONTENT_CN": "較早前因交通意外而封閉的怡和街(往北角方向)近高士威道的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-10-15T19:37:52",
-        "last_announcement": "2024-10-15T19:29:00"
-    },
     "IN-24-06029": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2383,11 +2344,18 @@
                 "ID": "105065",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Aberdeen Sports Ground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，黃竹坑道(往香港仔隧道方向)近香港仔運動場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-18T19:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105076",
+                "CONTENT_EN": "The slow lane of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Aberdeen Sports Ground which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的黃竹坑道(往香港仔隧道方向)近香港仔運動場的慢線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2024-10-18T18:17:13",
-        "last_announcement": "2024-10-18T18:05:00"
+        "last_update": "2024-10-18T19:39:47",
+        "last_announcement": "2024-10-18T19:23:00"
     },
     "IN-24-06093": {
         "description": {
@@ -2491,5 +2459,44 @@
         "district": "沙田區",
         "last_update": "2024-10-18T19:29:41",
         "last_announcement": "2024-10-18T19:11:00"
+    },
+    "IN-24-06094": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Tsung Pak Long",
+            "NEAR_LANDMARK_CN": "松柏塱",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-18T19:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105075",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Tsung Pak Long is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Fanling Highway (Sheung Shui bound) ends at Fanling Highway near Europa Garden. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近松柏塱的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在粉嶺公路(往上水方向)的車龍龍尾已到粉嶺公路近歐意花園。 現時上址交通擠塞。"
+            },
+            "2024-10-18T19:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105077",
+                "CONTENT_EN": "Part of the lanes of Fanling Highway (Sheung Shui bound) near Tsung Pak Long which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往上水方向)近松柏塱的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-10-18T19:39:47",
+        "last_announcement": "2024-10-18T19:26:00"
     }
 }
