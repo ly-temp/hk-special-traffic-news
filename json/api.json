@@ -91,109 +91,6 @@
         "last_update": "2024-10-16T11:05:35",
         "last_announcement": "2024-10-16T10:36:00"
     },
-    "IN-24-06030": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Cheung Tsing Tunnel",
-            "LOCATION_CN": "長青隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "tunnel entrance",
-            "NEAR_LANDMARK_CN": "隧道入口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-16T08:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104936",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Cheung Tsing Tunnel (Kowloon bound) near tunnel entrance is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now. ",
-                "CONTENT_CN": "因交通意外，長青隧道(往九龍方向)近隧道入口的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-10-16T09:10:32",
-        "last_announcement": "2024-10-16T08:13:00"
-    },
-    "IN-24-06032": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Hong Kong Science Park",
-            "NEAR_LANDMARK_CN": "香港科學園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-16T08:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "104939",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now. ",
-                "CONTENT_CN": "因交通意外，吐露港公路(往九龍方向)近香港科學園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-16T08:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104941",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Hong Kong Science Park which were closed due to traffic accident are re-opened to all traffic. ",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往九龍方向)近香港科學園的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-10-16T09:10:32",
-        "last_announcement": "2024-10-16T08:35:00"
-    },
-    "IN-24-06031": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Dawning Views",
-            "NEAR_LANDMARK_CN": "牽晴間",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-16T08:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "104940",
-                "CONTENT_EN": "Part of the lanes of Fanling Highway (Kowloon bound) near Dawning Views which was closed due to traffic accident is re-opened to all traffic. ",
-                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往九龍方向)近牽晴間的部份行車線現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-10-16T09:10:32",
-        "last_announcement": "2024-10-16T08:35:00"
-    },
     "IN-24-06033": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2649,10 +2546,198 @@
                 "ID": "105088",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) are closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-19T07:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105089",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) are still being closed to all traffic. \nOnly remaining lane is available to motorists.   The lower deck of Lantau Link (Airport bound) has been opened.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  青嶼幹線下層(往機場方向)現已開放。  現時上址交通繁忙。"
+            },
+            "2024-10-19T08:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105090",
+                "CONTENT_EN": "Part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-10-19T07:58:50",
-        "last_announcement": "2024-10-19T07:43:00"
+        "last_update": "2024-10-19T09:47:24",
+        "last_announcement": "2024-10-19T08:08:00"
+    },
+    "IN-24-06102": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lantau Link (Kap Shui Mun Bridge)",
+            "LOCATION_CN": "青嶼幹線(汲水門大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-19T08:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105092",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Lantau Link (Kap Shui Mun Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. The lower deck of Lantau Link (Airport bound) has been opened. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(汲水門大橋)(往機場方向) 的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 青嶼幹線下層(往機場方向)現已開放。 現時上址交通繁忙。"
+            },
+            "2024-10-19T09:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105096",
+                "CONTENT_EN": "The fast lane of Lantau Link (Kap Shui Mun Bridge) (Airport bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(汲水門大橋)(往機場方向) 的快線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-19T09:47:24",
+        "last_announcement": "2024-10-19T09:15:00"
+    },
+    "IN-24-06103": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Choi Shek Lane",
+            "NEAR_LANDMARK_CN": "彩石里",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-19T08:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105093",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Kwun Tong Road (Kwun Tong bound) near Choi Shek Lane is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往觀塘方向)近彩石里的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-19T08:40:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105094",
+                "CONTENT_EN": "The fast lane of Kwun Tong Road (Kwun Tong bound) near Choi Shek Lane which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往觀塘方向)近彩石里的快線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-19T09:47:24",
+        "last_announcement": "2024-10-19T08:40:00"
+    },
+    "IN-24-06104": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Siu Hong MTR Station",
+            "NEAR_LANDMARK_CN": "兆康港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-19T08:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105095",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近兆康港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-19T09:47:24",
+        "last_announcement": "2024-10-19T08:59:00"
+    },
+    "IN-24-06105": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Western Harbour Crossing",
+            "LOCATION_CN": "西區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong Island",
+            "DIRECTION_CN": "香港島",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-19T09:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105097",
+                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-10-19T09:47:24",
+        "last_announcement": "2024-10-19T09:31:00"
+    },
+    "IN-24-06106": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
+            "LOCATION_CN": "青嶼幹線(青馬大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-19T09:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105099",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. \nOnly remaining lane is available to motorists.   The lower deck of Lantau Link (Airport bound) has been opened.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  青嶼幹線下層(往機場方向)現已開放。  現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-19T09:47:24",
+        "last_announcement": "2024-10-19T09:38:00"
     }
 }
