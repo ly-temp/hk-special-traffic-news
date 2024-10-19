@@ -2629,5 +2629,37 @@
         "district": "荃灣區",
         "last_update": "2024-10-19T15:52:51",
         "last_announcement": "2024-10-19T15:33:00"
+    },
+    "IN-24-06112": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train service between Tung Chung and Sunny Bay ends earlier on 26 October",
+            "INCIDENT_DETAIL_CN": "10月26日東涌綫來往東涌及欣澳列車服務提早完結",
+            "LOCATION_EN": "Tung Chung Line Service Disruption",
+            "LOCATION_CN": "東涌綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-19T15:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105114",
+                "CONTENT_EN": "To facilitate the Tung Chung Line Extension work, Tung Chung Line train service between Tung Chung and Sunny Bay will end early on Saturday 26 October. From Tung Chung to Hong Kong 23:01 From Hong Kong to Tung Chung 23:07 Train service between Hong Kong and Sunny Bay, as well as the Airport Express, will remain normal. After the last train departs, free shuttle buses will be provided between Tung Chung and Sunny Bay stations by MTR Corporation Limited. The estimated journey time is 20-30 minutes, with a frequency of 3-9 minutes. Departure time of the last bus: From Tung Chung 00:43* From Sunny Bay 01:18 *To take the train towards Hong Kong from Sunny Bay, please take the shuttle bus before 00:18.",
+                "CONTENT_CN": "為配合東涌綫延綫工程，於10月26日(星期六)，東涌綫來往東涌及欣澳的列車服務將提早完結。 由東涌往香港站 23:01 由香港站往東涌 23:07 香港站至欣澳及機場快綫服務正常。 尾班列車開出後，港鐵公司將提供免費接駁巴士來往東涌及欣澳，預計車程為20-30 分鐘，班次為3-9 分鐘一班。 最後一班巴士開出時間： 東涌開出 00:43* 欣澳開出 01:18 *如需乘搭由欣澳開往香港站方向的列車，請乘搭00:18前開出的接駁巴士。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-10-19T16:13:57",
+        "last_announcement": "2024-10-19T15:06:00"
     }
 }
