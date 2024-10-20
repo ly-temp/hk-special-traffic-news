@@ -2409,5 +2409,37 @@
         "district": null,
         "last_update": "2024-10-19T21:03:41",
         "last_announcement": "2024-10-19T20:36:00"
+    },
+    "IN-24-06116": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "drainage emergency works",
+            "INCIDENT_DETAIL_CN": "渠務緊急維修",
+            "LOCATION_EN": "Yan Cheung Road",
+            "LOCATION_CN": "欣翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hoi Wang Road",
+            "DIRECTION_CN": "海泓道",
+            "NEAR_LANDMARK_EN": "Man Cheong Street Park",
+            "NEAR_LANDMARK_CN": "文昌街公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-20T08:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105124",
+                "CONTENT_EN": "Due to drainage emergency works, the slow lane of Yan Cheung Road (Hoi Wang Road bound) near Man Cheong Street Park is closed to all traffic. \nOnly remaining lane is available to motorists. At the same time, vehicles making left turning from Yan Cheung Road onto Hoi Wan Road are prohibited. \nAffected Cross Harbour Bus route no. 914 and 914X (Tin Hau bound) have been diverted.",
+                "CONTENT_CN": "因渠務緊急維修，欣翔道(往海泓道方向)近文昌街公園的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。同時，車輛禁止由欣翔道左轉入海泓道。\n受影響隧巴第914及914X號路線(往天后方向):須改道行駛。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-10-20T09:03:31",
+        "last_announcement": "2024-10-20T08:05:00"
     }
 }
