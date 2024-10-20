@@ -2441,5 +2441,76 @@
         "district": "油尖旺區",
         "last_update": "2024-10-20T09:03:31",
         "last_announcement": "2024-10-20T08:05:00"
+    },
+    "IN-24-06117": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Ka Yip Street",
+            "LOCATION_CN": "嘉業街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Sheung Hong Street",
+            "NEAR_LANDMARK_CN": "常康街",
+            "BETWEEN_LANDMARK_EN": "Sun Yip Street",
+            "BETWEEN_LANDMARK_CN": "新業街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-20T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105125",
+                "CONTENT_EN": "Due to fire , all lanes of Ka Yip Street (both bounds) between Sheung Hong Street and Sun Yip Street are closed to all traffic.",
+                "CONTENT_CN": "因火警，嘉業街(來回方向)介乎常康街與新業街之間的全線現已封閉。"
+            },
+            "2024-10-20T10:03:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105127",
+                "CONTENT_EN": "All lanes of Ka Yip Street (both bounds) between Sheung Hong Street and Sun Yip Street which were closed due to fire are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因火警而封閉的嘉業街(來回方向)介乎常康街與新業街之間的全線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-20T10:34:57",
+        "last_announcement": "2024-10-20T10:03:00"
+    },
+    "IN-24-06118": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-20T09:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105126",
+                "CONTENT_EN": "Due to high wind , the speed limit of Hong Kong Zhuhai-Macao-Bridge Hong Kong Link Road (HZMB HKLR) is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-10-20T10:34:57",
+        "last_announcement": "2024-10-20T09:45:00"
     }
 }
