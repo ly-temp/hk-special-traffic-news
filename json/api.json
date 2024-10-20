@@ -38,45 +38,6 @@
         "last_update": "2024-10-17T20:47:17",
         "last_announcement": "2024-10-17T20:01:00"
     },
-    "IN-24-06071": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Ngau Tau Kok MTR Station",
-            "NEAR_LANDMARK_CN": "牛頭角港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-17T18:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105022",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road flyover (Mong Kok bound) near Ngau Tau Kok MTR Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道天橋(往旺角方向)近牛頭角港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-17T18:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105023",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road flyover (Mong Kok bound) near Ngau Tau Kok MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道天橋(往旺角方向)近牛頭角港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-10-17T18:57:27",
-        "last_announcement": "2024-10-17T18:34:00"
-    },
     "IN-24-06072": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2026,5 +1987,37 @@
         "district": "灣仔區",
         "last_update": "2024-10-20T17:44:22",
         "last_announcement": "2024-10-20T17:11:00"
+    },
+    "IN-24-06124": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Texaco Road",
+            "LOCATION_CN": "德士古道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsing Yi",
+            "DIRECTION_CN": "青衣",
+            "NEAR_LANDMARK_EN": "Tak Tai Path",
+            "NEAR_LANDMARK_CN": "德大徑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-20T18:44:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105140",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Texaco Road (Tsing Yi bound) near Tak Tai Path is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，德士古道(往青衣方向)近德大徑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-10-20T19:13:39",
+        "last_announcement": "2024-10-20T18:44:00"
     }
 }
