@@ -2143,5 +2143,44 @@
         "district": null,
         "last_update": "2024-10-20T13:16:51",
         "last_announcement": "2024-10-20T13:04:00"
+    },
+    "IN-24-06119": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Road",
+            "LOCATION_CN": "香島道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Aberdeen",
+            "DIRECTION_CN": "香港仔",
+            "NEAR_LANDMARK_EN": "Deep Water Bay",
+            "NEAR_LANDMARK_CN": "深水灣",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-20T13:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105129",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Road (Aberdeen bound) near Deep Water Bay is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，香島道(往香港仔方向)近深水灣的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-20T13:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105130",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Island Road near Deep Water Bay. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，香島道近深水灣現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-10-20T14:16:31",
+        "last_announcement": "2024-10-20T13:50:00"
     }
 }
