@@ -84,91 +84,6 @@
         "last_update": "2024-10-18T20:00:04",
         "last_announcement": "2024-10-18T19:45:00"
     },
-    "IN-24-06089": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Tsung Pak Long",
-            "NEAR_LANDMARK_CN": "松柏塱",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-18T17:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105061",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Tsung Pak Long is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近松柏塱的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-18T18:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105066",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Tsung Pak Long is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Fanling Highway (Sheung Shui bound) ends at Fanling Highway near Europa Garden. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近松柏塱的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在粉嶺公路(往上水方向)的車龍龍尾已到粉嶺公路近歐意花園。 現時上址交通繁忙。"
-            },
-            "2024-10-18T18:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105068",
-                "CONTENT_EN": "Part of the lanes of Fanling Highway (Sheung Shui bound) near Tsung Pak Long which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往上水方向)近松柏塱的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2024-10-18T18:38:47",
-        "last_announcement": "2024-10-18T18:27:00"
-    },
-    "IN-24-06090": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Wong Chuk Hang Road",
-            "LOCATION_CN": "黃竹坑道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Tunnel",
-            "DIRECTION_CN": "香港仔隧道",
-            "NEAR_LANDMARK_EN": "Hong Kong Academy Of Medicine",
-            "NEAR_LANDMARK_CN": "香港醫學專科學院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-18T17:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105062",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Hong Kong Academy Of Medicine is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，黃竹坑道(往香港仔隧道方向)近香港醫學專科學院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-18T18:03:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105064",
-                "CONTENT_EN": "Part of the lanes of Wong Chuk Hang Road (Aberdeen Tunnel bound) near Hong Kong Academy Of Medicine which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的黃竹坑道(往香港仔隧道方向)近香港醫學專科學院的部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-10-18T18:38:47",
-        "last_announcement": "2024-10-18T18:03:00"
-    },
     "IN-24-06091": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1857,10 +1772,24 @@
                 "ID": "105170",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun Road bound) to Tsuen Tsing Interchange  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，由荃灣路(往屯門公路方向)通往荃青交匯處 的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-21T18:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105171",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun Road bound) to Tsuen Tsing Interchange  is closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tsuen Wan Road (Tuen Mun Road bound) ends at Tsuen Wan Road near Lai King MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，由荃灣路(往屯門公路方向)通往荃青交匯處 的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在荃灣路(往屯門公路方向)的車龍龍尾已到荃灣路近荔景港鐵站。 現時上址交通擠塞。"
+            },
+            "2024-10-21T18:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105173",
+                "CONTENT_EN": "Part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun Road bound) to Tsuen Tsing Interchange  which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由荃灣路(往屯門公路方向)通往荃青交匯處 的支路的 部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-10-21T18:14:39",
-        "last_announcement": "2024-10-21T17:54:00"
+        "last_update": "2024-10-21T18:39:47",
+        "last_announcement": "2024-10-21T18:26:00"
     }
 }
