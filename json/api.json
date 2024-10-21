@@ -1708,10 +1708,49 @@
                 "ID": "105158",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，皇珠路(往屯門公路方向)近友愛邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-21T15:52:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105159",
+                "CONTENT_EN": "The slow lane of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的皇珠路(往屯門公路方向)近友愛邨的慢線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-10-21T15:35:56",
-        "last_announcement": "2024-10-21T15:22:00"
+        "last_update": "2024-10-21T16:25:00",
+        "last_announcement": "2024-10-21T15:52:00"
+    },
+    "IN-24-06129": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": "Lancashire Road",
+            "NEAR_LANDMARK_CN": "蘭開夏道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-21T16:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105161",
+                "CONTENT_EN": "The slow lane of Waterloo Road (Sha Tin bound) near Lancashire Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的窩打老道(往沙田方向)近蘭開夏道的慢線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-21T16:25:00",
+        "last_announcement": "2024-10-21T16:03:00"
     }
 }
