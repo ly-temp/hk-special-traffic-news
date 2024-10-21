@@ -1,57 +1,4 @@
 {
-    "IN-24-06082": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-18T12:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105047",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-18T13:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105049",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   The lower deck of Lantau Link (Kowloon bound) has been opened.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往九龍方向) 的慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  青嶼幹線下層(往九龍方向)現已開放。  現時上址交通繁忙。"
-            },
-            "2024-10-18T16:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105057",
-                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.   The lower deck of Lantau Link (Kowloon bound) is still being opened.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已解封。  ⻘嶼幹線下層(往九⿓⽅向)仍然開放。"
-            },
-            "2024-10-18T16:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105058",
-                "CONTENT_EN": "The lower deck of Lantau Link (Kowloon bound) which was opened due to traffic accident is closed to all traffic.",
-                "CONTENT_CN": "較早前因交通意外⽽開放的⻘嶼幹線下層(往九⿓⽅向)現已關閉。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-10-18T17:20:02",
-        "last_announcement": "2024-10-18T16:46:00"
-    },
     "IN-24-06085": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1832,10 +1779,56 @@
                 "ID": "105165",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Waterloo Road (Lion Rock Tunnel bound) ends at Princess Margaret Road near Pui Ching Road. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在窩打老道(往獅子山隧道方向)的車龍龍尾已到公主道近培正道。 現時上址交通擠塞。"
+            },
+            "2024-10-21T17:04:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105167",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-10-21T17:14:46",
-        "last_announcement": "2024-10-21T16:41:00"
+        "last_update": "2024-10-21T17:32:25",
+        "last_announcement": "2024-10-21T17:04:00"
+    },
+    "IN-24-06132": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Wo Che Estate",
+            "NEAR_LANDMARK_CN": "禾輋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-21T17:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105168",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近禾輋邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-21T17:15:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105169",
+                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往大埔方向)近禾輋邨的慢線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-10-21T17:32:25",
+        "last_announcement": "2024-10-21T17:15:00"
     }
 }
