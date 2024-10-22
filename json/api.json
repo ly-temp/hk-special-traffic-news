@@ -1765,11 +1765,18 @@
                 "ID": "105233",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Sha Wan Road (Sham Shui Po bound) near Mei Lai Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，長沙灣道(往深水埗方向)近美荔道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-22T18:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105235",
+                "CONTENT_EN": "Part of the lanes of Cheung Sha Wan Road (Sham Shui Po bound) near Mei Lai Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的長沙灣道(往深水埗方向)近美荔道的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-10-22T18:09:33",
-        "last_announcement": "2024-10-22T17:47:00"
+        "last_update": "2024-10-22T18:31:54",
+        "last_announcement": "2024-10-22T18:06:00"
     },
     "IN-24-06160": {
         "description": {
@@ -1802,5 +1809,37 @@
         "district": "深水埗區",
         "last_update": "2024-10-22T18:09:33",
         "last_announcement": "2024-10-22T17:58:00"
+    },
+    "IN-24-06161": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mei Foo",
+            "DIRECTION_CN": "美孚",
+            "NEAR_LANDMARK_EN": "Hing Wah Street",
+            "NEAR_LANDMARK_CN": "興華街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-22T18:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105237",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of West Kowloon Corridor (Mei Foo bound) near Hing Wah Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西九龍走廊(往美孚方向)近興華街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-10-22T18:31:54",
+        "last_announcement": "2024-10-22T18:16:00"
     }
 }
