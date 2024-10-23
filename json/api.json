@@ -2242,5 +2242,37 @@
         "district": "油尖旺區",
         "last_update": "2024-10-23T16:19:20",
         "last_announcement": "2024-10-23T15:57:00"
+    },
+    "IN-24-06180": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "obstacles on road",
+            "INCIDENT_DETAIL_CN": "路面有障礙物",
+            "LOCATION_EN": "Lin Cheung Road",
+            "LOCATION_CN": "連翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Olympian City",
+            "NEAR_LANDMARK_CN": "奧海城",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-23T16:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105277",
+                "CONTENT_EN": "Due to obstacles on road , part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Olympian City is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因路面有障礙物，連翔道(往尖沙咀方向)近奧海城的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-10-23T16:51:46",
+        "last_announcement": "2024-10-23T16:30:00"
     }
 }
