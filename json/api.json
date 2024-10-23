@@ -2269,11 +2269,18 @@
                 "ID": "105278",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近禾輋邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-23T17:24:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105279",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往大埔方向)近禾輋邨的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-10-23T17:10:27",
-        "last_announcement": "2024-10-23T16:50:00"
+        "last_update": "2024-10-23T17:51:27",
+        "last_announcement": "2024-10-23T17:24:00"
     },
     "IN-24-06182": {
         "description": {
@@ -2301,10 +2308,17 @@
                 "ID": "105280",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near East Kowloon Cultural Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近東九文化中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-23T17:37:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105281",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near East Kowloon Cultural Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近東九文化中心的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-10-23T17:41:18",
-        "last_announcement": "2024-10-23T17:29:00"
+        "last_update": "2024-10-23T17:51:27",
+        "last_announcement": "2024-10-23T17:37:00"
     }
 }
