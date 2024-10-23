@@ -38,45 +38,6 @@
         "last_update": "2024-10-21T06:22:55",
         "last_announcement": "2024-10-21T06:06:00"
     },
-    "IN-24-06117": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Ka Yip Street",
-            "LOCATION_CN": "嘉業街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Sheung Hong Street",
-            "NEAR_LANDMARK_CN": "常康街",
-            "BETWEEN_LANDMARK_EN": "Sun Yip Street",
-            "BETWEEN_LANDMARK_CN": "新業街",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-20T09:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105125",
-                "CONTENT_EN": "Due to fire , all lanes of Ka Yip Street (both bounds) between Sheung Hong Street and Sun Yip Street are closed to all traffic.",
-                "CONTENT_CN": "因火警，嘉業街(來回方向)介乎常康街與新業街之間的全線現已封閉。"
-            },
-            "2024-10-20T10:03:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105127",
-                "CONTENT_EN": "All lanes of Ka Yip Street (both bounds) between Sheung Hong Street and Sun Yip Street which were closed due to fire are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因火警而封閉的嘉業街(來回方向)介乎常康街與新業街之間的全線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-10-20T10:34:57",
-        "last_announcement": "2024-10-20T10:03:00"
-    },
     "IN-24-06118": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -2102,11 +2063,18 @@
                 "ID": "105258",
                 "CONTENT_EN": "Lantau Link: Due to strong wind, the following temporary traffic measure is implemented on Lantau Link: The speed limit of Lantau Link is reduced to 50km/h. Ting Kau Bridge: Due to strong wind, the following temporary traffic arrangement is implemented on Ting Kau Bridge: The speed limit of Ting Kau Bridge is reduced to 50km/h. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
                 "CONTENT_CN": "青嶼幹線： 由於強風關係，青嶼幹線已實施下列臨時交通措施： 青嶼幹線的車速限制降至每小時50 公里。 汀九橋： 由於強風關係，汀九橋已實施下列臨時交通措施： 汀九橋的車速限制降至每小時50 公里。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
+            },
+            "2024-10-23T10:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105270",
+                "CONTENT_EN": "Lantau Link: The temporary speed limit arrangement which was implemented before in the Lantau Link is cancelled. Ting Kau Bridge: Due to strong wind, the following temporary traffic arrangement is implemented on Ting Kau Bridge: The speed limit of Ting Kau Bridge is reduced to 50km/h. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
+                "CONTENT_CN": "青嶼幹線： 較早前於青嶼幹線實施的臨時車速限制措施現已取消。 汀九橋： 由於強風關係，汀九橋已實施下列臨時交通措施： 汀九橋的車速限制降至每小時50 公里。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
             }
         },
         "district": null,
-        "last_update": "2024-10-23T06:46:16",
-        "last_announcement": "2024-10-23T06:30:00"
+        "last_update": "2024-10-23T10:56:24",
+        "last_announcement": "2024-10-23T10:03:00"
     },
     "IN-24-06172": {
         "description": {
@@ -2276,10 +2244,49 @@
                 "ID": "105267",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Yau Street (both bounds) near New Tech Plaza is still being closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大有街(來回方向)近新科技廣場的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-23T09:53:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105268",
+                "CONTENT_EN": "Part of the lanes of Tai Yau Street (both bounds) near New Tech Plaza which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大有街(來回方向)近新科技廣場的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-10-23T10:07:51",
-        "last_announcement": "2024-10-23T09:35:00"
+        "last_update": "2024-10-23T10:56:24",
+        "last_announcement": "2024-10-23T09:53:00"
+    },
+    "IN-24-06176": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-23T09:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105269",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Ping Shek Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近坪石邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-23T10:56:24",
+        "last_announcement": "2024-10-23T09:56:00"
     }
 }
