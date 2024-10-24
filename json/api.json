@@ -1,89 +1,4 @@
 {
-    "IN-24-06131": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Rutland Quadrant",
-            "NEAR_LANDMARK_CN": "律倫街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-21T16:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105164",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-21T16:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105165",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Waterloo Road (Lion Rock Tunnel bound) ends at Princess Margaret Road near Pui Ching Road. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在窩打老道(往獅子山隧道方向)的車龍龍尾已到公主道近培正道。 現時上址交通擠塞。"
-            },
-            "2024-10-21T17:04:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105167",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-10-21T17:32:25",
-        "last_announcement": "2024-10-21T17:04:00"
-    },
-    "IN-24-06132": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Wo Che Estate",
-            "NEAR_LANDMARK_CN": "禾輋邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-21T17:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105168",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近禾輋邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-21T17:15:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105169",
-                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往大埔方向)近禾輋邨的慢線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-10-21T17:32:25",
-        "last_announcement": "2024-10-21T17:15:00"
-    },
     "IN-24-06133": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2661,5 +2576,37 @@
         "district": "屯門區",
         "last_update": "2024-10-24T17:28:53",
         "last_announcement": "2024-10-24T17:14:00"
+    },
+    "IN-24-06203": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Sheung Heung Road",
+            "LOCATION_CN": "上鄉道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon City Ferry Pier",
+            "DIRECTION_CN": "九龍城碼頭",
+            "NEAR_LANDMARK_EN": "To Kwa Wan Road",
+            "NEAR_LANDMARK_CN": "土瓜灣道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-24T17:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105340",
+                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Sheung Heung Road (Kowloon City Ferry Pier bound) near To Kwa Wan Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，上鄉道(往九龍城碼頭方向)近土瓜灣道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-24T17:41:13",
+        "last_announcement": "2024-10-24T17:19:00"
     }
 }
