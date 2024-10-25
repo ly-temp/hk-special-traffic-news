@@ -1,57 +1,4 @@
 {
-    "IN-24-06140": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Lai Chi Kok Road",
-            "LOCATION_CN": "荔枝角道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Tung Chau Street",
-            "NEAR_LANDMARK_CN": "通州街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-22T07:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105187",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Lai Chi Kok Road (Kwai Chung bound) near Tung Chau Street are closed to all traffic. Vehicles can only make right turning from Lai Chi Kok Road (Kwai Chung bound) onto Tai Nan West Street. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，荔枝角道(往葵涌方向)近通州街的全線現已封閉。 車輛只能由荔枝角道(往葵涌方向)右轉入大南西街。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-10-22T07:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105190",
-                "CONTENT_EN": "Due to watermain burst , all lanes of Lai Chi Kok Road (Kwai Chung bound) near Tung Chau Street are still being closed to all traffic. \nVehicles can only make right turning from Lai Chi Kok Road (Kwai Chung bound) onto Tai Nan West Street.   Motorists are advised to use alternative routes.   Affected KMB bus route no. 6C has been diverted.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，荔枝角道(往葵涌方向)近通州街的全線仍然封閉。\n車輛只能由荔枝角道(往葵涌方向)右轉入大南西街。  駕駛人士請考慮改用其他道路。  受影響九巴第6C號線須改道⾏駛。  現時上址交通繁忙。"
-            },
-            "2024-10-22T12:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105209",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Lai Chi Kok Road (Kwai Chung bound) near Tung Chau Street are still being closed to all traffic. \nOnly remaining lane is available to motorists.   Affected KMB bus routes no. 6C is still diverted.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，荔枝角道(往葵涌方向)近通州街的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  受影響九巴巴⼠第6C號線仍然改道⾏駛。  現時上址交通繁忙。"
-            },
-            "2024-10-23T06:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105255",
-                "CONTENT_EN": "Part of the lanes of Lai Chi Kok Road (Kwai Chung bound) near Tung Chau Street which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的荔枝角道(往葵涌方向)近通州街的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-10-23T06:19:28",
-        "last_announcement": "2024-10-23T06:02:00"
-    },
     "IN-24-06169": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -90,38 +37,6 @@
         "district": null,
         "last_update": "2024-10-23T07:19:13",
         "last_announcement": "2024-10-23T07:00:00"
-    },
-    "IN-24-06061": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Wong Tai Sin Road",
-            "LOCATION_CN": "黃大仙道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Shatin Pass Road",
-            "NEAR_LANDMARK_CN": "沙田㘭道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-23T06:09:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105256",
-                "CONTENT_EN": "Part of the lanes of Wong Tai Sin Road (both bounds) near Shatin Pass Road which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的黃大仙道(來回方向)近沙田㘭道的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-10-23T06:19:28",
-        "last_announcement": "2024-10-23T06:09:00"
     },
     "IN-24-06171": {
         "description": {
