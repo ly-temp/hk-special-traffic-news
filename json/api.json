@@ -52,45 +52,6 @@
         "last_update": "2024-10-23T06:19:28",
         "last_announcement": "2024-10-23T06:02:00"
     },
-    "IN-24-06152": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "West Kowloon Corridor",
-            "LOCATION_CN": "西九龍走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mei Foo",
-            "DIRECTION_CN": "美孚",
-            "NEAR_LANDMARK_EN": "Sham Shui Po Park",
-            "NEAR_LANDMARK_CN": "深水埗公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-22T14:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105217",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Corridor (Mei Foo bound) near Sham Shui Po Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西九龍走廊(往美孚方向)近深水埗公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-22T15:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105221",
-                "CONTENT_EN": "Part of the lanes of West Kowloon Corridor (Mei Foo bound) near Sham Shui Po Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的西九龍走廊(往美孚方向)近深水埗公園的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-10-22T16:16:37",
-        "last_announcement": "2024-10-22T15:48:00"
-    },
     "IN-24-06156": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -129,38 +90,6 @@
         "district": "觀塘區",
         "last_update": "2024-10-22T16:38:20",
         "last_announcement": "2024-10-22T16:04:00"
-    },
-    "IN-24-06153": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Tam Road",
-            "LOCATION_CN": "大潭道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Hing Man Estate",
-            "NEAR_LANDMARK_CN": "興民邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-22T16:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105224",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tai Tam Road near Hing Man Estate due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於大潭道近興民邨實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-10-22T16:16:37",
-        "last_announcement": "2024-10-22T16:06:00"
     },
     "IN-24-06157": {
         "description": {
@@ -2851,10 +2780,88 @@
                 "ID": "105388",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tsuen Wan Road (Kowloon bound) near Chun Shing Factory Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近晉昇工廠大廈的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-25T16:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105394",
+                "CONTENT_EN": "The slow lane of Tsuen Wan Road (Kowloon bound) near Chun Shing Factory Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往九龍方向)近晉昇工廠大廈的慢線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-10-25T14:47:19",
-        "last_announcement": "2024-10-25T14:26:00"
+        "last_update": "2024-10-25T16:16:49",
+        "last_announcement": "2024-10-25T16:05:00"
+    },
+    "IN-24-06226": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hammer Hill Road",
+            "LOCATION_CN": "斧山道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Ping Ting Road",
+            "NEAR_LANDMARK_CN": "平定道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-25T15:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105390",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hammer Hill Road (both bounds) near Ping Ting Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，斧山道(來回方向)近平定道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-10-25T16:16:49",
+        "last_announcement": "2024-10-25T15:45:00"
+    },
+    "IN-24-06227": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "San Tin Interchange",
+            "NEAR_LANDMARK_CN": "新田交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-25T15:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105391",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Yuen Long bound) near San Tin Interchange is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往元朗方向)近新田交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-25T16:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105393",
+                "CONTENT_EN": "All lanes of Fanling Highway (Yuen Long bound) near San Tin Interchange which were closed due to traffic accident are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往元朗方向)近新田交匯處的全線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-25T16:16:49",
+        "last_announcement": "2024-10-25T16:03:00"
     }
 }
