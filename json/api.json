@@ -52,66 +52,6 @@
         "last_update": "2024-10-23T06:19:28",
         "last_announcement": "2024-10-23T06:02:00"
     },
-    "IN-24-06157": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Fu Tai Estate",
-            "NEAR_LANDMARK_CN": "富泰邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-22T16:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105225",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Yuen Long bound) near Fu Tai Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，元朗公路(往元朗方向)近富泰邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-22T17:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105228",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Yuen Long bound) near Fu Tai Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queues on Yuen Long Highway (Yuen Long bound) ends at Tuen Mun Road near So Kwun Wat and Lung Fu Road near Tuen Mun Golf Centre. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，元朗公路(往元朗方向)近富泰邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往元朗方向)的車龍龍尾已到屯門公路近掃管笏及龍富路近屯門高爾夫球中心。 現時上址交通擠塞。"
-            },
-            "2024-10-22T17:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105229",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Yuen Long bound) near Fu Tai Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queues on Yuen Long Highway (Yuen Long bound) ends at Tuen Mun Road near Siu Lam and Lung Fu Road near Tuen Mun Public Riding School. Traffic is very congested now.",
-                "CONTENT_CN": "因車輛故障，元朗公路(往元朗方向)近富泰邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往元朗方向)的車龍龍尾已到屯門公路近小欖及龍富路近屯門公眾騎術學校。 現時上址交通非常擠塞。"
-            },
-            "2024-10-22T17:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105230",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Yuen Long bound) near Fu Tai Estate is still being closed to all traffic. \nOnly remaining lane is available to motorists. Citizens please take note KMB and LW's service has been affected. Citizens travelling to Yuen Long via Yuen Long Highway and Tuen Mun Road please consider using other public transport services, such as MTR services.   Traffic queues on Yuen Long Highway (Yuen Long bound) ends at Tuen Mun Road near Siu Lam and Lung Fu Road near Tuen Mun Public Riding School.   Traffic is very congested now.",
-                "CONTENT_CN": "因車輛故障，元朗公路(往元朗方向)近富泰邨的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。市民請留意九巴及龍運服務會受影響。元朗公路及屯門公路(往元朗方向)的市民請考慮使用其他公共交通服務，例如港鐵服務。  現時在元朗公路(往元朗方向)的車龍龍尾已到屯門公路近小欖及龍富路近屯門公眾騎術學校。  現時上址交通非常擠塞。"
-            },
-            "2024-10-22T20:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105236",
-                "CONTENT_EN": "Services of KMB and Long Win which were affected by vehicle breakdown at Yuen Long Highway (Yuen Long bound) near Fu Tai Estate have gradually resumed normal.",
-                "CONTENT_CN": "較早前因位於元朗公路(往元朗⽅向)近富泰邨的車輛故障⽽受影響的 九巴及⿓運巴士服務已陸續回復正常。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-10-22T21:11:52",
-        "last_announcement": "2024-10-22T20:40:00"
-    },
     "IN-24-06166": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
