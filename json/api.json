@@ -2844,11 +2844,18 @@
                 "ID": "105433",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2024-10-26T08:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105442",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": null,
-        "last_update": "2024-10-25T22:53:52",
-        "last_announcement": "2024-10-25T22:35:00"
+        "last_update": "2024-10-26T08:39:06",
+        "last_announcement": "2024-10-26T08:00:00"
     },
     "IN-24-06246": {
         "description": {
@@ -2952,5 +2959,37 @@
         "district": null,
         "last_update": "2024-10-26T07:29:56",
         "last_announcement": "2024-10-26T07:15:00"
+    },
+    "IN-24-06249": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Tam Road",
+            "LOCATION_CN": "大潭道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "The Manhattan",
+            "NEAR_LANDMARK_CN": "曼克頓花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-26T07:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105440",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Tai Tam Road near The Manhattan. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大潭道近曼克頓花園現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-10-26T08:39:06",
+        "last_announcement": "2024-10-26T07:50:00"
     }
 }
