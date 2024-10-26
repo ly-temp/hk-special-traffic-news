@@ -45,38 +45,6 @@
         "last_update": "2024-10-24T07:21:00",
         "last_announcement": "2024-10-24T06:53:00"
     },
-    "IN-24-06170": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Stonecutters Bridge",
-            "LOCATION_CN": "昂船洲大橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-23T07:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105261",
-                "CONTENT_EN": "Stonecutters Bridge: The Middle lane closure and temporary speed limit arrangements which were implemented before in the Stonecutters Bridge are cancelled. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
-                "CONTENT_CN": "昂船洲大橋： 較早前於昂船洲大橋實施的中線封閉及臨時車速限制措施現已取消。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-10-23T08:42:15",
-        "last_announcement": "2024-10-23T07:53:00"
-    },
     "IN-24-06173": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2986,10 +2954,95 @@
                 "ID": "105440",
                 "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Tai Tam Road near The Manhattan. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大潭道近曼克頓花園現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2024-10-26T08:43:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105443",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tai Tam Road near The Manhattan due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於大潭道近曼克頓花園實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-10-26T08:39:06",
-        "last_announcement": "2024-10-26T07:50:00"
+        "last_update": "2024-10-26T10:04:06",
+        "last_announcement": "2024-10-26T08:43:00"
+    },
+    "IN-24-06250": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road South",
+            "LOCATION_CN": "漆咸道南",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-26T08:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105444",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-26T09:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105445",
+                "CONTENT_EN": "Part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2024-10-26T10:04:06",
+        "last_announcement": "2024-10-26T09:20:00"
+    },
+    "IN-24-06251": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Tuen Mun Hospital",
+            "NEAR_LANDMARK_CN": "屯門醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-26T09:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105446",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near Tuen Mun Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近屯門醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-26T09:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105447",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near Tuen Mun Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近屯門醫院的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-10-26T10:04:06",
+        "last_announcement": "2024-10-26T09:45:00"
     }
 }
