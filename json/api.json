@@ -45,84 +45,6 @@
         "last_update": "2024-10-24T07:21:00",
         "last_announcement": "2024-10-24T06:53:00"
     },
-    "IN-24-06173": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tseung Kwan O Tunnel Road",
-            "LOCATION_CN": "將軍澳隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wan Po Road",
-            "DIRECTION_CN": "環保大道",
-            "NEAR_LANDMARK_EN": "Po Hong Park",
-            "NEAR_LANDMARK_CN": "寶康公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-23T08:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105262",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tseung Kwan O Tunnel Road (Wan Po Road bound) near Po Hong Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，將軍澳隧道公路(往環保大道方向)近寶康公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-23T08:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105263",
-                "CONTENT_EN": "The slow lane of Tseung Kwan O Tunnel Road (Wan Po Road bound) near Po Hong Park which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳隧道公路(往環保大道方向)近寶康公園的慢線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-10-23T10:07:51",
-        "last_announcement": "2024-10-23T08:51:00"
-    },
-    "IN-24-06174": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hong Chong Road",
-            "LOCATION_CN": "康莊道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ho Man Tin",
-            "DIRECTION_CN": "何文田",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-23T09:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105264",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，康莊道(往何文田方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-23T09:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105266",
-                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往何文田方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-10-23T10:07:51",
-        "last_announcement": "2024-10-23T09:22:00"
-    },
     "IN-24-06175": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2819,11 +2741,18 @@
                 "ID": "105442",
                 "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
                 "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
+            },
+            "2024-10-26T10:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105449",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
             }
         },
         "district": null,
-        "last_update": "2024-10-26T08:39:06",
-        "last_announcement": "2024-10-26T08:00:00"
+        "last_update": "2024-10-26T10:51:44",
+        "last_announcement": "2024-10-26T10:00:00"
     },
     "IN-24-06246": {
         "description": {
@@ -2922,11 +2851,25 @@
                 "ID": "105439",
                 "CONTENT_EN": "Due to the effect of tropical cyclone, the following kaito ferry services will be suspended on 26 October 2024 until further notice. \n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui - Tung Ping Chau\n- Ma Liu Shui - Tap Mun\n- Aberdeen/ Stanley - Po Toi Island\n- Sai Kung – Kau Sai Village/High Island.",
                 "CONTENT_CN": "因受熱帶氣旋的影響，以下街渡渡輪服務將會於2024年10⽉26⽇暫停服務，直⾄另⾏通知。\n\n翠華船務（⾹港）有限公司\n-馬料水-東平洲\n-馬料水-塔門\n-香港仔/赤柱-蒲台島\n-西貢-滘西村/糧船灣。"
+            },
+            "2024-10-26T09:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105448",
+                "CONTENT_EN": "Due to the effect of tropical cyclone, the following ferry/ kaito ferry services have been adjusted as follows until further notice. \n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui - Tung Ping Chau: Suspended\n- Ma Liu Shui - Tap Mun: Suspended\n- Aberdeen/ Stanley - Po Toi Island: Suspended\n- Sai Kung – Kau Sai Village/High Island: Suspended\n\nFortune Ferry Company Limited\nTuen Mun - Tung Chung - Sha Lo Wan - Tai O ferry route\n-the last sailing departed from Tuen Mun: 9:00 am\n-the last sailing departed from Tai O: 11:00 am.",
+                "CONTENT_CN": "因受熱帶氣旋的影響，以下渡輪/街渡渡輪服務已調整如下，直⾄另⾏通知。\n\n翠華船務（⾹港）有限公司\n-馬料水-東平洲:暫停服務\n-馬料水-塔門:暫停服務\n-香港仔/赤柱-蒲台島:暫停服務\n-西貢-滘西村/糧船灣:暫停服務\n\n富裕⼩輪有限公司\n屯⾨-東涌-沙螺灣-⼤澳線\n-由屯門開出的尾班船:上午9時\n-由⼤澳開出的尾班船:上午11時。"
+            },
+            "2024-10-26T10:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105451",
+                "CONTENT_EN": "Due to the effect of tropical cyclone, the following ferry/ kaito ferry services have been adjusted until further notice. \n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui - Tung Ping Chau: Suspended\n- Ma Liu Shui - Tap Mun: Suspended\n- Aberdeen/ Stanley - Po Toi Island: Suspended\n- Sai Kung – Kau Sai Village/High Island: Suspended\n\nFortune Ferry Company Limited\nTuen Mun - Tung Chung - Sha Lo Wan - Tai O ferry route\n-the last sailing from Tuen Mun to Tai O: 9:00 am\n-the last sailing from Tai O to Tuen Mun: 11:00 am\n\nPeng Chau Kai To Limited\nDiscovery Bay - Mui Wo ferry route\n-the last sailing from Discovery Bay to Mui Wo: 10:45 am\n-the last sailing from Mui Wo to Discovery Bay: 11:15 am.",
+                "CONTENT_CN": "因受熱帶氣旋的影響，以下渡輪/街渡渡輪服務已調整，直⾄另⾏通知。\n\n翠華船務（⾹港）有限公司\n-馬料水-東平洲:暫停服務\n-馬料水-塔門:暫停服務\n-香港仔/赤柱-蒲台島:暫停服務\n-西貢-滘西村/糧船灣:暫停服務\n\n富裕⼩輪有限公司\n屯⾨-東涌-沙螺灣-⼤澳線\n-由屯門至⼤澳的尾班船:上午9時\n-由⼤澳至屯門的尾班船:上午11時\n\n坪洲街渡有限公司\n愉景灣—梅窩線\n-由愉景灣至梅窩的尾班船:上午10時45分\n-由梅窩至愉景灣的尾班船:上午11時15分。"
             }
         },
         "district": null,
-        "last_update": "2024-10-26T07:29:56",
-        "last_announcement": "2024-10-26T07:15:00"
+        "last_update": "2024-10-26T10:51:44",
+        "last_announcement": "2024-10-26T10:25:00"
     },
     "IN-24-06249": {
         "description": {
@@ -3044,5 +2987,37 @@
         "district": "屯門區",
         "last_update": "2024-10-26T10:04:06",
         "last_announcement": "2024-10-26T09:45:00"
+    },
+    "IN-24-06252": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Typhoon Incident",
+            "INCIDENT_HEADING_CN": "颱風事故",
+            "INCIDENT_DETAIL_EN": "Strong Wind Signal No. 3",
+            "INCIDENT_DETAIL_CN": "三號強風信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-26T10:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105452",
+                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於三號強風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-10-26T10:51:44",
+        "last_announcement": "2024-10-26T10:40:00"
     }
 }
