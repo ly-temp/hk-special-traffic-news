@@ -38,66 +38,6 @@
         "last_update": "2024-10-26T06:16:31",
         "last_announcement": "2024-10-26T06:03:00"
     },
-    "IN-24-06201": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Wuhu Street",
-            "NEAR_LANDMARK_CN": "蕪湖街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-24T15:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105332",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Wuhu Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近蕪湖街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-24T15:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105333",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Wuhu Street is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Chatham Road North (Kwun Tong bound) ends at Gascoigne Road Flyover near Queen Elizabeth Hospital. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近蕪湖街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在漆咸道北(往觀塘方向)的車龍龍尾已到加士居道天橋近伊利沙伯醫院。 現時上址交通擠塞。"
-            },
-            "2024-10-24T15:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105334",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Wuhu Street is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Chatham Road North (Kwun Tong bound) ends at Gascoigne Road Flyover near Yau Ma Tei Wholesale Fruit Market. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近蕪湖街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在漆咸道北(往觀塘方向)的車龍龍尾已到加士居道天橋近油麻地果欄。 現時上址交通擠塞。"
-            },
-            "2024-10-24T15:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105335",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Wuhu Street is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Chatham Road North (Kwun Tong bound) ends at Ferry Street near Pitt Street. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近蕪湖街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在漆咸道北(往觀塘方向)的車龍龍尾已到渡船街近碧街。 現時上址交通擠塞。"
-            },
-            "2024-10-24T16:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105336",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Wuhu Street which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近蕪湖街的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-10-24T16:39:16",
-        "last_announcement": "2024-10-24T16:21:00"
-    },
     "IN-24-06202": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2703,5 +2643,37 @@
         "district": "南區",
         "last_update": "2024-10-27T16:26:50",
         "last_announcement": "2024-10-27T16:16:00"
+    },
+    "IN-24-06270": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": "West Kowloon Cultural District",
+            "LOCATION_CN": "西九文化區",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-27T16:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105490",
+                "CONTENT_EN": "All car parks at West Kowloon Cultural District are full. Members of the public are encouraged to take public transport to the West Kowloon Cultural District.",
+                "CONTENT_CN": "西九文化區內所有停車場現已泊滿車輛，前往西九文化區一帶的市民請使用公共交通工具。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-10-27T16:43:47",
+        "last_announcement": "2024-10-27T16:20:00"
     }
 }
