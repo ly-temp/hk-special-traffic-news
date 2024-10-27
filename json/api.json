@@ -77,38 +77,6 @@
         "last_update": "2024-10-27T13:19:23",
         "last_announcement": "2024-10-27T13:05:00"
     },
-    "IN-24-06210": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-24T22:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105353",
-                "CONTENT_EN": "As informed by the Mainland Railway Authorities, the southbound train travelling from Changshanan Station to Hong Kong West Kowloon Station will not stop at Shaoguan Station from 24 October until 29 November to facilitate improvement works. For latest train schedules, please refer to 12306 official website (12306. cn) or click HSR website or mobile app or the information available at Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "內地鐵路單位通報，配合工程需要，由10月24日至11月29日，由長沙南站前往香港西九龍站的高速鐵路列車車次G6113將暫時不停韶關站。 有關車次的資料，請留意12306官方網站(12306.cn)或如已安裝手機應用程式，可按「車站大屏」頁面。乘客亦可留意於高速鐵路網頁或手機應用程式或香港西九龍站發放的最新資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-10-24T23:19:08",
-        "last_announcement": "2024-10-24T22:45:00"
-    },
     "IN-24-06211": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
