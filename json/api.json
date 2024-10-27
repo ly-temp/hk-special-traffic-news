@@ -2613,10 +2613,49 @@
                 "ID": "105481",
                 "CONTENT_EN": "The following road sections in Causeway Bay and Happy Valley are busy:\n– Leighton Road\n– Tung Lo Wan Road\n– Caroline Hill Road\n– Eastern Hospital Road\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下銅鑼灣及跑馬地的路段交通繁忙:\n–禮頓道\n–銅鑼灣道\n–加路連山道\n–東院道\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-10-27T14:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105484",
+                "CONTENT_EN": "Traffic at the following road sections in Causeway Bay and Happy Valley have resumed normal:\n– Leighton Road\n– Tung Lo Wan Road\n– Caroline Hill Road\n– Eastern Hospital Road.",
+                "CONTENT_CN": "以下銅鑼灣及跑馬地的路段的交通現已恢復正常:\n–禮頓道\n–銅鑼灣道\n–加路連山道\n–東院道。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-10-27T13:19:23",
-        "last_announcement": "2024-10-27T12:49:00"
+        "last_update": "2024-10-27T14:21:21",
+        "last_announcement": "2024-10-27T14:07:00"
+    },
+    "IN-24-06267": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Maryknoll Convent School",
+            "NEAR_LANDMARK_CN": "瑪利諾修院學校",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-27T13:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105483",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Waterloo Road (Cross Harbour Tunnel bound) near Maryknoll Convent School is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往海底隧道方向)近瑪利諾修院學校的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-10-27T14:21:21",
+        "last_announcement": "2024-10-27T13:53:00"
     }
 }
