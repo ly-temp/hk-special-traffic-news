@@ -123,52 +123,6 @@
         "last_update": "2024-10-26T23:39:27",
         "last_announcement": "2024-10-26T23:15:00"
     },
-    "IN-24-06224": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Canal Road Flyover",
-            "LOCATION_CN": "堅拿道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen",
-            "DIRECTION_CN": "香港仔",
-            "NEAR_LANDMARK_EN": "Sharp Street East",
-            "NEAR_LANDMARK_CN": "霎東街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-25T14:17:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105386",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Canal Road Flyover (Aberdeen bound) near Sharp Street East is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，堅拿道天橋(往香港仔方向)近霎東街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-25T14:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105387",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Canal Road Flyover (Aberdeen bound) near Sharp Street East is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic queues on Canal Road Flyover (Aberdeen bound) ends at Gloucester Road (North Point bound) near The Hong Kong Academy for Performing Arts and Victoria Park Road (Central bound) near Paterson Street.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，堅拿道天橋(往香港仔方向)近霎東街的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在堅拿道天橋(往香港仔方向)的車龍龍尾已到告士打道(往北角方向)近香港演藝學院及維園道(往中環方向)近百德新街。  現時上址交通擠塞。"
-            },
-            "2024-10-25T14:37:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105389",
-                "CONTENT_EN": "Part of the lanes of Canal Road Flyover (Aberdeen bound) near Sharp Street East which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的堅拿道天橋(往香港仔方向)近霎東街的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-10-25T14:47:19",
-        "last_announcement": "2024-10-25T14:37:00"
-    },
     "IN-24-06225": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
