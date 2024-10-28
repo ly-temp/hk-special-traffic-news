@@ -77,123 +77,6 @@
         "last_update": "2024-10-27T13:19:23",
         "last_announcement": "2024-10-27T13:05:00"
     },
-    "IN-24-06212": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Tsing Lung Tau",
-            "NEAR_LANDMARK_CN": "青龍頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-25T07:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105356",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Tsing Lung Tau is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近青龍頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-25T07:46:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105360",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Tsing Lung Tau which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近青龍頭的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-10-25T09:50:23",
-        "last_announcement": "2024-10-25T07:46:00"
-    },
-    "IN-24-06214": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Sea Crest Villa",
-            "NEAR_LANDMARK_CN": "浪翠園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-25T08:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105361",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sea Crest Villa is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近浪翠園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-25T08:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105362",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Sea Crest Villa which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近浪翠園的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-10-25T09:50:23",
-        "last_announcement": "2024-10-25T08:22:00"
-    },
-    "IN-24-06215": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-25T08:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105363",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Chai Wan bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往柴灣方向)近和富中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-25T08:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105364",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近和富中心的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-10-25T09:50:23",
-        "last_announcement": "2024-10-25T08:30:00"
-    },
     "IN-24-06216": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -232,38 +115,6 @@
         "district": null,
         "last_update": "2024-10-25T11:50:14",
         "last_announcement": "2024-10-25T11:30:00"
-    },
-    "IN-24-06217": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Kwai Highway",
-            "LOCATION_CN": "青葵公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Lai King MTR Station",
-            "NEAR_LANDMARK_CN": "荔景港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-25T08:46:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105367",
-                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往九龍方向)近荔景港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-10-25T09:50:23",
-        "last_announcement": "2024-10-25T08:46:00"
     },
     "IN-24-06218": {
         "description": {
@@ -2436,11 +2287,25 @@
                 "ID": "105497",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-28T08:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105501",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tai Po Road - Sha Tin (Tai Po bound) ends at Shing Mun Tunnel Road near Mei Chung Court. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在大埔公路　–　沙田段(往大埔方向)的車龍龍尾已到城門隧道公路近美松苑。 現時上址交通擠塞。"
+            },
+            "2024-10-28T09:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105505",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tai Po Road - Sha Tin (Tai Po bound) ends at Shing Mun Tunnels.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在大埔公路　–　沙田段(往大埔方向)的車龍龍尾已到城門隧道。  現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-10-28T08:56:22",
-        "last_announcement": "2024-10-28T08:26:00"
+        "last_update": "2024-10-28T10:21:56",
+        "last_announcement": "2024-10-28T09:22:00"
     },
     "IN-24-06276": {
         "description": {
@@ -2468,11 +2333,18 @@
                 "ID": "105498",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Island Eastern Corridor (Central bound) ends at Island Eastern Corridor near Quarry Bay Park. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近和富中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在東區走廊(往中環方向)的車龍龍尾已到東區走廊近鰂魚涌公園。 現時上址交通擠塞。"
+            },
+            "2024-10-28T08:47:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105502",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近和富中心的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "東區",
-        "last_update": "2024-10-28T08:56:22",
-        "last_announcement": "2024-10-28T08:33:00"
+        "last_update": "2024-10-28T10:21:56",
+        "last_announcement": "2024-10-28T08:47:00"
     },
     "IN-24-06277": {
         "description": {
@@ -2500,10 +2372,88 @@
                 "ID": "105500",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近荔景港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-28T08:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105503",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tsing Kwai Highway (Kowloon bound) ends at Tsing Kwai Highway near Cheung Tsing Tunnel. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近荔景港鐵站的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在青葵公路(往九龍方向)的車龍龍尾已到青葵公路近長青隧道。 現時上址交通擠塞。"
+            },
+            "2024-10-28T09:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105507",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kowloon bound) near Lai King MTR Station which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往九龍方向)近荔景港鐵站的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-10-28T08:56:22",
-        "last_announcement": "2024-10-28T08:42:00"
+        "last_update": "2024-10-28T10:21:56",
+        "last_announcement": "2024-10-28T09:40:00"
+    },
+    "IN-24-06278": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road",
+            "LOCATION_CN": "港珠澳大橋香港連接路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-28T09:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105504",
+                "CONTENT_EN": "Due to high wind , the speed limit of the Hong Kong Zhuhai-Macao-Bridge Hong Kong Link Road is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-10-28T10:21:56",
+        "last_announcement": "2024-10-28T09:10:00"
+    },
+    "IN-24-06279": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "North Point Ferry Pier",
+            "NEAR_LANDMARK_CN": "北角碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-10-28T09:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105508",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near North Point Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近北角碼頭的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-10-28T10:21:56",
+        "last_announcement": "2024-10-28T09:44:00"
     }
 }
