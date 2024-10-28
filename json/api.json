@@ -176,45 +176,6 @@
         "last_update": "2024-10-26T14:39:16",
         "last_announcement": "2024-10-26T14:15:00"
     },
-    "IN-24-06246": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Hung Shui Kiu Tin Sam Road",
-            "LOCATION_CN": "洪水橋田心路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Hung Tai Road",
-            "NEAR_LANDMARK_CN": "洪堤路",
-            "BETWEEN_LANDMARK_EN": "Hung Yuen Road",
-            "BETWEEN_LANDMARK_CN": "洪元路",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-25T22:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105434",
-                "CONTENT_EN": "Due to fire , all lanes of Hung Shui Kiu Tin Sam Road (both bounds) between Hung Tai Road and Hung Yuen Road is closed to all traffic.",
-                "CONTENT_CN": "因火警，洪水橋田心路(來回方向)介乎洪堤路與洪元路之間的全線現已封閉。"
-            },
-            "2024-10-25T23:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105436",
-                "CONTENT_EN": "All lanes of Hung Shui Kiu Tin Sam Road (both bounds) between Hung Tai Road and Hung Yuen Road which was closed due to fire are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因火警而封閉的洪水橋田心路(來回方向)介乎洪堤路與洪元路之間的全線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-10-26T00:15:14",
-        "last_announcement": "2024-10-25T23:55:00"
-    },
     "IN-24-06247": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
