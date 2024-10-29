@@ -38,52 +38,6 @@
         "last_update": "2024-10-27T13:19:23",
         "last_announcement": "2024-10-27T13:05:00"
     },
-    "IN-24-06112": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train service between Tung Chung and Sunny Bay ends earlier on 26 October",
-            "INCIDENT_DETAIL_CN": "10月26日東涌綫來往東涌及欣澳列車服務提早完結",
-            "LOCATION_EN": "Tung Chung Line Service Disruption",
-            "LOCATION_CN": "東涌綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-25T13:39:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105385",
-                "CONTENT_EN": "To facilitate the Tung Chung Line Extension work, Tung Chung Line train service between Tung Chung and Sunny Bay will end early on Saturday 26 October. From Tung Chung to Hong Kong 23:01 From Hong Kong to Tung Chung 23:07 Train service between Hong Kong and Sunny Bay, as well as the Airport Express, will remain normal. Free shuttle buses will be provided between Tung Chung and Sunny Bay stations by MTR Corporation Limited. The estimated journey time is 20-30 minutes, with a frequency of 3-9 minutes. Please allow sufficient time for your journey. Departure time of the last bus: From Tung Chung 00:43* From Sunny Bay 01:18 *To take the train towards Hong Kong from Sunny Bay, please take the shuttle bus before 00:18.",
-                "CONTENT_CN": "為配合東涌綫延綫工程，於10月26日(星期六)，東涌綫來往東涌及欣澳的列車服務將提早完結。 由東涌往香港站 23:01 由香港站往東涌 23:07 香港站至欣澳及機場快綫服務正常。 港鐵公司將提供免費接駁巴士來往東涌及欣澳，預計車程為20-30 分鐘，班次為3-9 分鐘一班，請為行程預留充足時間。 最後一班巴士開出時間： 東涌開出 00:43* 欣澳開出 01:18 *如需乘搭由欣澳開往香港站方向的列車，請乘搭00:18前開出的接駁巴士。"
-            },
-            "2024-10-26T06:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105438",
-                "CONTENT_EN": "To facilitate the Tung Chung Line Extension work, Tung Chung Line train service between Tung Chung and Sunny Bay will end earlier tonight (Saturday 26 October). Last train between Tung Chung and Hong Kong stations Depart from Tung Chung: 23:01 Depart from Hong Kong: 23:07 Train service between Hong Kong and Sunny Bay stations, as well as the Airport Express, will remain normal. Free MTR shuttle buses will be provided between Tung Chung and Sunny Bay stations by MTR Corporation Limited. The estimated journey time is 20-30 minutes, with a frequency of 3-9 minutes. Please allow sufficient time for your journey. Departure time of the last bus From Tung Chung: 00:43* From Sunny Bay: 01:18 *To take the train from Sunny Bay Station towards Hong Kong Station, please take the shuttle bus before 00:18.",
-                "CONTENT_CN": "配合東涌綫延綫工程，於今晚(10月26日星期六)，東涌綫來往東涌及欣澳站的列車服務將提早完結。來往東涌及香港站的尾班車時間如下： 東涌站開出：23:01 香港站開出：23:07 來往香港至欣澳站及機場快綫列車服務維持正常。 港鐵公司將提供港鐵免費接駁巴士來往東涌及欣澳站，預計車程為20-30 分鐘，班次為3-9 分鐘一班，請預留充足時間乘車。 最後一班巴士開出時間 東涌開出：00:43* 欣澳開出：01:18 *如需乘搭由欣澳站開往香港站方向的列車，請乘搭00:18前開出的接駁巴士。"
-            },
-            "2024-10-26T23:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105474",
-                "CONTENT_EN": "To facilitate the Tung Chung Line Extension work, Tung Chung Line train service between Tung Chung and Sunny Bay ends earlier on 26 October. Last trains to and from Tung Chung departed at: From Tung Chung: 23:01 From Hong Kong: 23:07 Train service between Hong Kong and Sunny Bay stations, as well as the Airport Express, remains normal. Free MTR shuttle buses are provided between Tung Chung and Sunny Bay stations by MTR Corporation Limited. The estimated journey time is 20-30 minutes, with a frequency of 3-9 minutes. Please allow sufficient time for your journey. Departure time of the last bus From Tung Chung: 00:43* From Sunny Bay: 01:18 *To take the train from Sunny Bay Station towards Hong Kong Station, please take the shuttle bus before 00:18.",
-                "CONTENT_CN": "為配合東涌綫延綫工程，10月26日東涌綫來往東涌及欣澳站的列車服務提早完結。來往東涌及香港站最後一班列車已於以下時間開出： 東涌站開出：23:01 香港站開出：23:07 來往香港至欣澳站及機場快綫列車服務維持正常。 港鐵公司提供港鐵免費接駁巴士來往東涌及欣澳站，預計車程為20-30 分鐘，班次為3-9 分鐘一班，請預留充足時間乘車。 最後一班巴士開出時間 東涌開出：00:43* 欣澳開出：01:18 *如需乘搭由欣澳站開往香港站方向的列車，請乘搭00:18前開出的接駁巴士。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-10-26T23:39:27",
-        "last_announcement": "2024-10-26T23:15:00"
-    },
     "IN-24-06247": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
