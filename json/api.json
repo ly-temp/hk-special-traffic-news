@@ -2426,11 +2426,18 @@
                 "ID": "105655",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kai Fuk Road (Kai Tak Tunnel bound) near Hongkong Post Building is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，啓福道(往啟德隧道方向)近香港郵政大樓的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-31T16:19:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105662",
+                "CONTENT_EN": "Part of the lanes of Kai Fuk Road (Kai Tak Tunnel bound) near Hongkong Post Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的啓福道(往啟德隧道方向)近香港郵政大樓的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-10-31T15:20:14",
-        "last_announcement": "2024-10-31T14:53:00"
+        "last_update": "2024-10-31T16:45:58",
+        "last_announcement": "2024-10-31T16:19:00"
     },
     "IN-24-06347": {
         "description": {
@@ -2561,10 +2568,17 @@
                 "ID": "105663",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Tuen Mun Road (Kowloon bound) near San Hui Market is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近新墟街市的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-10-31T16:29:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "105664",
+                "CONTENT_EN": "The fast lane of Tuen Mun Road (Kowloon bound) near San Hui Market which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近新墟街市的快線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-10-31T16:33:34",
-        "last_announcement": "2024-10-31T16:20:00"
+        "last_update": "2024-10-31T16:45:58",
+        "last_announcement": "2024-10-31T16:29:00"
     }
 }
