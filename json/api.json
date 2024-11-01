@@ -59,38 +59,6 @@
         "last_update": "2024-10-29T16:24:44",
         "last_announcement": "2024-10-29T15:55:00"
     },
-    "IN-24-06295": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "Tung Choi Street",
-            "NEAR_LANDMARK_CN": "通菜街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-29T15:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105549",
-                "CONTENT_EN": "Part of the lanes of Argyle Street (Kowloon City bound) near Tung Choi Street which was closed due to emergency incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因突發事件而封閉的亞皆老街(往九龍城方向)近通菜街的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-10-29T15:22:44",
-        "last_announcement": "2024-10-29T15:06:00"
-    },
     "IN-24-06297": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
