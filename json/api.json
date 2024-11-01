@@ -2763,10 +2763,17 @@
                 "ID": "105700",
                 "CONTENT_EN": "Due to emergency repairing works , the tunnel tube fast lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急維修，大欖隧道(往九龍方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-11-01T12:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105701",
+                "CONTENT_EN": "The tunnel tube fast lane of Tai Lam Tunnel (Kowloon bound) which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的大欖隧道(往九龍方向)的管道快線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-11-01T11:10:08",
-        "last_announcement": "2024-11-01T10:28:00"
+        "last_update": "2024-11-01T12:18:34",
+        "last_announcement": "2024-11-01T12:02:00"
     }
 }
