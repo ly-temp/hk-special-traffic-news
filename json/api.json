@@ -1,36 +1,4 @@
 {
-    "IN-24-06320": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Sha Tin Road",
-            "LOCATION_CN": "沙田路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Pok Hong Estate",
-            "NEAR_LANDMARK_CN": "博康邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-30T16:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105602",
-                "CONTENT_EN": "Part of the lanes of Sha Tin Road (Lion Rock Tunnel bound) near Pok Hong Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的沙田路(往獅子山隧道方向)近博康邨的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-10-30T16:32:28",
-        "last_announcement": "2024-10-30T16:22:00"
-    },
     "IN-24-06321": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2580,5 +2548,69 @@
         "district": "中西區",
         "last_update": "2024-11-02T16:27:16",
         "last_announcement": "2024-11-02T16:05:00"
+    },
+    "IN-24-06390": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "North Point Ferry Pier",
+            "NEAR_LANDMARK_CN": "北角碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-02T16:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105757",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near North Point Ferry Pier which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近北角碼頭的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-11-02T16:42:14",
+        "last_announcement": "2024-11-02T16:18:00"
+    },
+    "IN-24-06392": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Cheung Tung Road",
+            "LOCATION_CN": "翔東路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Siu Ho Wan Water Treatment Works",
+            "NEAR_LANDMARK_CN": "小蠔灣濾水廠",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-02T16:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105758",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Cheung Tung Road (both bounds) near Siu Ho Wan Water Treatment Works is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，翔東路(來回方向)近小蠔灣濾水廠的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-11-02T16:42:14",
+        "last_announcement": "2024-11-02T16:25:00"
     }
 }
