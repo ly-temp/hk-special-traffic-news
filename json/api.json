@@ -1,43 +1,4 @@
 {
-    "IN-24-06321": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "King's Road",
-            "LOCATION_CN": "英皇道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "Shu Kuk Street",
-            "NEAR_LANDMARK_CN": "書局街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-30T16:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105603",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of King's Road (Chai Wan bound) near Shu Kuk Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，英皇道(往柴灣方向)近書局街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-30T17:29:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105606",
-                "CONTENT_EN": "Part of the lanes of King's Road (Chai Wan bound) near Shu Kuk Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的英皇道(往柴灣方向)近書局街的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-10-30T17:48:52",
-        "last_announcement": "2024-10-30T17:29:00"
-    },
     "IN-24-06322": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
