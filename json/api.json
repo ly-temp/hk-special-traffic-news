@@ -116,45 +116,6 @@
         "last_update": "2024-10-31T16:45:58",
         "last_announcement": "2024-10-31T16:19:00"
     },
-    "IN-24-06348": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Fu Road roundabout",
-            "LOCATION_CN": "龍富路迴旋處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-31T15:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105657",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Fu Road roundabout  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-31T15:43:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105658",
-                "CONTENT_EN": "Part of the lanes of Lung Fu Road roundabout  which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍富路迴旋處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-10-31T16:13:28",
-        "last_announcement": "2024-10-31T15:43:00"
-    },
     "IN-24-06349": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1918,10 +1879,49 @@
                 "ID": "105771",
                 "CONTENT_EN": "Due to emergency incident , part of the lanes of the slip road leading from Gloucester Road (eastbound) to the Entrance of Cross Harbour Tunnel  is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因突發事件，由告士打道(東行)通往海底隧道入口 的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-03T15:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105775",
+                "CONTENT_EN": "Part of the lanes of the slip road leading from Gloucester Road (eastbound) to the Entrance of Cross Harbour Tunnel  which was closed due to emergency incident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因突發事件而封閉的由告士打道(東行)通往海底隧道入口 的支路的 部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-11-03T13:29:12",
-        "last_announcement": "2024-11-03T13:06:00"
+        "last_update": "2024-11-03T16:23:41",
+        "last_announcement": "2024-11-03T15:57:00"
+    },
+    "IN-24-06397": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "West Kowloon Carpark",
+            "INCIDENT_DETAIL_CN": "西九文化區停車場",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-03T16:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105776",
+                "CONTENT_EN": "All car parks at West Kowloon Cultural District are full. Members of the public are encouraged to take public transport to the West Kowloon Cultural District.",
+                "CONTENT_CN": "西九⽂化區內所有停⾞場現已泊滿⾞輛，前往西九⽂化區⼀帶的市⺠請使⽤公共交通⼯具。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-11-03T16:23:41",
+        "last_announcement": "2024-11-03T16:02:00"
     }
 }
