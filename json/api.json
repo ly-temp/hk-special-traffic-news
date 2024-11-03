@@ -77,45 +77,6 @@
         "last_update": "2024-10-31T18:36:03",
         "last_announcement": "2024-10-31T18:25:00"
     },
-    "IN-24-06351": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Hong Kong Girl Guides Association",
-            "NEAR_LANDMARK_CN": "香港女童軍總會",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-31T16:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105665",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Gascoigne Road Flyover (Yau Ma Tei bound) near Hong Kong Girl Guides Association is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，加士居道天橋(往油麻地方向)近香港女童軍總會的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-10-31T17:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105666",
-                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Yau Ma Tei bound) near Hong Kong Girl Guides Association which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的加士居道天橋(往油麻地方向)近香港女童軍總會的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-10-31T17:33:14",
-        "last_announcement": "2024-10-31T17:15:00"
-    },
     "IN-24-06352": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1813,5 +1774,37 @@
         "district": null,
         "last_update": "2024-11-03T16:23:41",
         "last_announcement": "2024-11-03T16:02:00"
+    },
+    "IN-24-06398": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Stagnant water on road",
+            "INCIDENT_DETAIL_CN": "路面有積水",
+            "LOCATION_EN": "North Lantau Highway",
+            "LOCATION_CN": "北大嶼山公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": "Siu Ho Wan Sewage Treatment Works",
+            "NEAR_LANDMARK_CN": "小蠔灣污水處理廠",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-03T17:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105777",
+                "CONTENT_EN": "Due to Stagnant water on road, vehicles are required to move slowly at North Lantau Highway (Airport bound) near Siu Ho Wan Sewage Treatment Works.   Traffic is busy now.",
+                "CONTENT_CN": "因路面有積水，途徑北大嶼山公路(往機場方向)近小蠔灣污水處理廠的車輛需要慢行。  現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-11-03T17:34:27",
+        "last_announcement": "2024-11-03T17:15:00"
     }
 }
