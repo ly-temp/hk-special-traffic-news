@@ -38,38 +38,6 @@
         "last_update": "2024-11-01T02:40:18",
         "last_announcement": "2024-11-01T02:07:00"
     },
-    "IN-24-06340": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Portland Street",
-            "NEAR_LANDMARK_CN": "砵蘭街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-10-31T10:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105650",
-                "CONTENT_EN": "The slow lane of Argyle Street (Tai Kok Tsui bound) near Portland Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街(往大角咀方向)近砵蘭街的慢線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-10-31T11:15:20",
-        "last_announcement": "2024-10-31T10:57:00"
-    },
     "IN-24-06343": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
