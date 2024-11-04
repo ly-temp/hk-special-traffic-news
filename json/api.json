@@ -1589,5 +1589,37 @@
         "district": "沙田區",
         "last_update": "2024-11-04T20:55:02",
         "last_announcement": "2024-11-04T20:11:00"
+    },
+    "IN-24-06418": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Connaught Road Central",
+            "LOCATION_CN": "干諾道中",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wan Chai",
+            "DIRECTION_CN": "灣仔",
+            "NEAR_LANDMARK_EN": "Tim Wa Avenue",
+            "NEAR_LANDMARK_CN": "添華道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-04T23:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105825",
+                "CONTENT_EN": "Due to emergency repairing works, the slow lane between Connaught Road Central (Wan Chai bound) near Edinburgh Place and Harcourt Road (Wan Chai bound) near Tim Wa Avenue is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因緊急維修，由干諾道中(往灣仔方向)近愛丁堡廣場至夏慤道(往灣仔方向)近添華道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-11-05T00:22:34",
+        "last_announcement": "2024-11-04T23:52:00"
     }
 }
