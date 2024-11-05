@@ -1854,11 +1854,18 @@
                 "ID": "105864",
                 "CONTENT_EN": "The following road sections are still busy:\n– Prince Edward Road East (Kwun Tong bound)\n– Tolo Highway near Tai Po Railway Pier (Kowloon bound)\n– Salisbury Road (Star Ferry Pier bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n–太子道東(往觀塘方向)\n–吐露港公路近大埔鐵路碼頭(往九龍方向)\n–梳士巴利道(往天星碼頭方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-11-05T19:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105868",
+                "CONTENT_EN": "The following road section is still busy:\n– Salisbury Road (Star Ferry Pier bound)\nBut traffic at the following road sections have resumed normal:\n– Prince Edward Road East (Kwun Tong bound)\n– Tolo Highway near Tai Po Railway Pier (Kowloon bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–梳士巴利道(往天星碼頭方向)\n但以下路段交通已恢復正常:\n–太子道東(往觀塘方向)\n–吐露港公路近大埔鐵路碼頭(往九龍方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": null,
-        "last_update": "2024-11-05T18:55:33",
-        "last_announcement": "2024-11-05T18:42:00"
+        "last_update": "2024-11-05T19:25:58",
+        "last_announcement": "2024-11-05T19:11:00"
     },
     "IN-24-06438": {
         "description": {
@@ -1925,10 +1932,17 @@
                 "ID": "105865",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Island Eastern Corridor (Chai Wan bound) near Quarry Bay Park Phase 2 is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，東區走廊(往柴灣方向)近鰂魚涌公園二期的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-05T19:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105867",
+                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Chai Wan bound) near Quarry Bay Park Phase 2 which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往柴灣方向)近鰂魚涌公園二期的慢線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-11-05T19:14:07",
-        "last_announcement": "2024-11-05T18:49:00"
+        "last_update": "2024-11-05T19:25:58",
+        "last_announcement": "2024-11-05T19:08:00"
     }
 }
