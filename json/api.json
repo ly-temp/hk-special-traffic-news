@@ -1,57 +1,4 @@
 {
-    "IN-24-06380": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Jubilee Gardens",
-            "NEAR_LANDMARK_CN": "銀禧花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-01T22:17:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105724",
-                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Tai Po Road - Sha Tin (Kowloon bound) near Jubilee Gardens is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因水管緊急維修，大埔公路　–　沙田段(往九龍方向)近銀禧花園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-11-02T09:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105731",
-                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Tai Po Road - Sha Tin (Kowloon bound) near The Palazzo is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tai Po Road - Sha Tin (Kowloon bound) ends at Tolo Highway near Sha Tin Sewage Treatment Works. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，大埔公路　–　沙田段(往九龍方向)近御龍山的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在大埔公路　–　沙田段(往九龍方向)的車龍龍尾已到吐露港公路近沙田污水處理廠。 現時上址交通繁忙。"
-            },
-            "2024-11-02T15:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105754",
-                "CONTENT_EN": "Due to watermain repair works , the slow lane of Tai Po Road - Sha Tin (Kowloon bound) near The Palazzo is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因水管維修，大埔公路　–　沙田段(往九龍方向)近御龍山的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-11-03T13:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105774",
-                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Kowloon bound) near The Palazzo which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的大埔公路　–　沙田段(往九龍方向)近御龍山的慢線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2024-11-03T14:13:20",
-        "last_announcement": "2024-11-03T13:43:00"
-    },
     "IN-24-06392": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2395,5 +2342,44 @@
         "district": "黃大仙區",
         "last_update": "2024-11-06T13:57:22",
         "last_announcement": "2024-11-06T13:42:00"
+    },
+    "IN-24-06456": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Smithfield",
+            "LOCATION_CN": "士美菲路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Pok Fu Lam Road",
+            "DIRECTION_CN": "薄扶林道",
+            "NEAR_LANDMARK_EN": "Kennedy Town MTR Station",
+            "NEAR_LANDMARK_CN": "堅尼地城港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-06T13:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105902",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Smithfield (Pok Fu Lam Road bound) near Kennedy Town MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，士美菲路(往薄扶林道方向)近堅尼地城港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-06T14:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105903",
+                "CONTENT_EN": "Part of the lanes of Smithfield (Pok Fu Lam Road bound) near Kennedy Town MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的士美菲路(往薄扶林道方向)近堅尼地城港鐵站的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2024-11-06T14:29:35",
+        "last_announcement": "2024-11-06T14:11:00"
     }
 }
