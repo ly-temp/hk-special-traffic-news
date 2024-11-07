@@ -2445,5 +2445,37 @@
         "district": "觀塘區",
         "last_update": "2024-11-07T20:37:59",
         "last_announcement": "2024-11-07T19:53:00"
+    },
+    "IN-24-06482": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hoi An Street",
+            "LOCATION_CN": "海晏街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sun Sing Street",
+            "DIRECTION_CN": "新成街",
+            "NEAR_LANDMARK_EN": "Sai Wan Ho Street",
+            "NEAR_LANDMARK_CN": "西灣河街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-07T20:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105965",
+                "CONTENT_EN": "The only lane of Hoi An Street (Sun Sing Street bound) near Sai Wan Ho Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的海晏街(往新成街方向)近西灣河街的唯一行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-11-07T21:27:49",
+        "last_announcement": "2024-11-07T20:57:00"
     }
 }
