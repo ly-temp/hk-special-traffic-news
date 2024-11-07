@@ -2477,5 +2477,44 @@
         "district": "東區",
         "last_update": "2024-11-07T21:27:49",
         "last_announcement": "2024-11-07T20:57:00"
+    },
+    "IN-24-06483": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Castle Peak Road - Kwai Chung",
+            "LOCATION_CN": "青山公路　–　葵涌段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Wo Yi Hop Road",
+            "NEAR_LANDMARK_CN": "和宜合道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-07T22:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "105966",
+                "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Castle Peak Road - Kwai Chung (Tsuen Wan bound) near Wo Yi Hop Road is closed to all traffic. Only remaining lanes are available to motorists. At the same time, vehicles cannot make right turning from Castle Peak Road - Kwai Chung (Tsuen Wan bound) to Wo Yi Hop Road.   Affected KMB bus routes nos. 31B, 32, 35A, 35X, 36B, 40P, 936 and N237 (Shek Lei bound) have been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，青山公路　–　葵涌段(往荃灣方向)近和宜合道的部份行車線現已封閉。駕駛人士只可使用餘下行車線行車。同時，車輛不能由青山公路　–　葵涌段(往荃灣方向)右轉和宜合道。  受影響九巴巴⼠第31B,32,35A,35X,36B,40P,936 及N237號線須改道⾏駛。有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。  現時上址交通繁忙。"
+            },
+            "2024-11-07T23:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105967",
+                "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Castle Peak Road - Kwai Chung (both bounds) near Wo Yi Hop Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   At the same time, vehicles cannot make right turning from Castle Peak Road - Kwai Chung (Tsuen Wan bound) to Wo Yi Hop Road.   Affected KMB bus routes nos. 31B, 32, 35A, 35X, 36B, 40P, 936 and N237 (Shek Lei bound) have been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，青山公路　–　葵涌段(來回方向)近和宜合道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  同時，車輛不能由青山公路　–　葵涌段(往荃灣方向)右轉和宜合道。  受影響九巴巴⼠第31B,32,35A,35X,36B,40P,936 及N237號線須改道⾏駛。有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。  現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-11-07T23:18:44",
+        "last_announcement": "2024-11-07T23:02:00"
     }
 }
