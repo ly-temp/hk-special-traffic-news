@@ -1,114 +1,4 @@
 {
-    "IN-24-06410": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "MegaBox",
-            "NEAR_LANDMARK_CN": "MegaBox",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-04T17:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105806",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near MegaBox is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近MegaBox的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-04T17:47:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105807",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Mong Kok bound) near MegaBox which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往旺角方向)近MegaBox的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-11-04T18:28:13",
-        "last_announcement": "2024-11-04T17:47:00"
-    },
-    "IN-24-06411": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road East",
-            "LOCATION_CN": "太子道東",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "The Latitude",
-            "NEAR_LANDMARK_CN": "譽．港灣",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-04T17:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105808",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Kwun Tong bound) near The Latitude is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，太子道東(往觀塘方向)近譽．港灣的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-04T17:53:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "105809",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Kwun Tong bound) near The Latitude which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往觀塘方向)近譽．港灣的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-11-04T18:28:13",
-        "last_announcement": "2024-11-04T17:53:00"
-    },
-    "IN-24-06412": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section)",
-            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-04T17:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105811",
-                "CONTENT_EN": "High Speed Rail (Hong Kong Section) will add one temporary train service on November 7 and November 9: November 7: G9693 (from Guangzhounan Station to Hong Kong West Kowloon Station) November 9: G9694 (from Hong Kong West Kowloon Station to Guangzhounan Station) Tickets are available for sale through the 12306 official website (12306. cn) or mobile app; appointed travel agents (https://www. highspeed. mtr. com. hk/en/latest-news/ticket-agents. html) starting today. For train schedules, please refer to the 12306 official website (12306. cn) or mobile app, MTR High Speed Rail website or mobile app.",
-                "CONTENT_CN": "高速鐵路(香港段)將於11月7日及11月9日增加一班臨時班次： 11月7日:G9693 (由廣州南站前往香港西九龍站) 11月9日:G9694 (由香港西九龍站前往廣州南站) 由即日起，可透過12306官方網站(12306.cn)或手機應用程式、指定代理(https://www.highspeed.mtr.com.hk/tc/latest-news/ticket-agents.html)或前往香港西九龍站購買新增列車車票。 有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、港鐵高速鐵路網頁及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-11-04T18:28:13",
-        "last_announcement": "2024-11-04T17:58:00"
-    },
     "IN-24-06413": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2575,11 +2465,18 @@
                 "ID": "105957",
                 "CONTENT_EN": "Due to emergency repairing works , the fast lanes of Tsing Kwai Highway (both bounds) near Princess Margaret Hospital are closed to all traffic. \nOnly remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急維修，青葵公路(來回方向)近瑪嘉烈醫院的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-11-07T18:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "105958",
+                "CONTENT_EN": "The fast lanes of Tsing Kwai Highway (both bounds) near Princess Margaret Hospital which were closed due to emergency repairing works are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的青葵公路(來回方向)近瑪嘉烈醫院的快線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-11-07T18:09:11",
-        "last_announcement": "2024-11-07T17:54:00"
+        "last_update": "2024-11-07T18:32:20",
+        "last_announcement": "2024-11-07T18:18:00"
     },
     "IN-24-06478": {
         "description": {
