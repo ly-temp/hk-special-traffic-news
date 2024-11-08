@@ -1,57 +1,4 @@
 {
-    "IN-24-06437": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-05T18:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105862",
-                "CONTENT_EN": "The following road sections are busy:\n– Prince Edward Road East (Kwun Tong bound)\n– Tolo Highway near Tai Po Railway Pier (Kowloon bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–太子道東(往觀塘方向)\n–吐露港公路近大埔鐵路碼頭(往九龍方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-11-05T18:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105864",
-                "CONTENT_EN": "The following road sections are still busy:\n– Prince Edward Road East (Kwun Tong bound)\n– Tolo Highway near Tai Po Railway Pier (Kowloon bound)\n– Salisbury Road (Star Ferry Pier bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–太子道東(往觀塘方向)\n–吐露港公路近大埔鐵路碼頭(往九龍方向)\n–梳士巴利道(往天星碼頭方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-11-05T19:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105868",
-                "CONTENT_EN": "The following road section is still busy:\n– Salisbury Road (Star Ferry Pier bound)\nBut traffic at the following road sections have resumed normal:\n– Prince Edward Road East (Kwun Tong bound)\n– Tolo Highway near Tai Po Railway Pier (Kowloon bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n–梳士巴利道(往天星碼頭方向)\n但以下路段交通已恢復正常:\n–太子道東(往觀塘方向)\n–吐露港公路近大埔鐵路碼頭(往九龍方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-11-05T19:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105869",
-                "CONTENT_EN": "Traffic at Salisbury Road (Star Ferry Pier bound) has resumed normal.",
-                "CONTENT_CN": "梳士巴利道(往天星碼頭方向)的交通現已恢復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-11-05T19:47:13",
-        "last_announcement": "2024-11-05T19:35:00"
-    },
     "IN-24-06440": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2580,5 +2527,37 @@
         "district": "元朗區",
         "last_update": "2024-11-08T19:45:40",
         "last_announcement": "2024-11-08T19:26:00"
+    },
+    "IN-24-06507": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "Provident Centre",
+            "NEAR_LANDMARK_CN": "和富中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-08T19:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106021",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近和富中心的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-11-08T19:55:50",
+        "last_announcement": "2024-11-08T19:42:00"
     }
 }
