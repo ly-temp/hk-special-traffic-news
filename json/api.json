@@ -2640,5 +2640,37 @@
         "district": "觀塘區",
         "last_update": "2024-11-09T20:40:44",
         "last_announcement": "2024-11-09T20:24:00"
+    },
+    "IN-24-06531": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Close Approaching of Tropical Cyclone",
+            "INCIDENT_DETAIL_CN": "熱帶氣旋逐漸逼近",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-09T21:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106072",
+                "CONTENT_EN": "Due to the effect of tropical cyclone, the following kaito ferry services will be adjusted until further notice. \n\nSun Ferry Services Company Limited\nPeng Chau - Mui Wo - Chi Ma Wan - Cheung Chau ferry route\n- all sailings on 10 November 2024 will not stop at Chi Ma Wan.",
+                "CONTENT_CN": "因受熱帶氣旋的影響，以下街渡渡輪服務已調整，直⾄另⾏通知。\n\n新渡輪服務有限公司\n坪洲-梅窩-芝⿇灣-⻑洲線\n-所有在2024年11月10日開出的班次不會停泊芝⿇灣航點。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-11-09T21:34:57",
+        "last_announcement": "2024-11-09T21:13:00"
     }
 }
