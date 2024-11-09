@@ -45,45 +45,6 @@
         "last_update": "2024-11-07T06:30:53",
         "last_announcement": "2024-11-07T06:04:00"
     },
-    "IN-24-06454": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Canton Road",
-            "LOCATION_CN": "廣東道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Salisbury Road",
-            "DIRECTION_CN": "梳士巴利道",
-            "NEAR_LANDMARK_EN": "Peking Road",
-            "NEAR_LANDMARK_CN": "北京道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-06T12:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "105899",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Canton Road (Salisbury Road bound) near Peking Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，廣東道(往梳士巴利道方向)近北京道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-06T13:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "105900",
-                "CONTENT_EN": "Part of the lanes of Canton Road (Salisbury Road bound) near Peking Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的廣東道(往梳士巴利道方向)近北京道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2024-11-06T13:22:32",
-        "last_announcement": "2024-11-06T13:05:00"
-    },
     "IN-24-06455": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2394,10 +2355,49 @@
                 "ID": "106037",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近兆康港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-09T13:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106038",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Hung Tin Road. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近兆康港鐵站的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近洪天路。 現時上址交通擠塞。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-09T12:43:25",
-        "last_announcement": "2024-11-09T12:33:00"
+        "last_update": "2024-11-09T13:29:51",
+        "last_announcement": "2024-11-09T13:02:00"
+    },
+    "IN-24-06517": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-09T13:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106039",
+                "CONTENT_EN": "Due to the effect of tropical cyclone, the following ferry/ kaito ferry services have been adjusted until further notice. Fortune Ferry Company Limited Tuen Mun - Tung Chung - Sha Lo Wan - Tai O Tuen Mun - Tai O: last sailing will depart at 1500 hrs Tung Chung - Tai O: last sailing will depart at 1600 hrs Tai O - Tuen Mun: last sailing will depart at 1700 hrs",
+                "CONTENT_CN": "因受熱帶氣旋的影響，以下渡輪/街渡渡輪服務已調整，直⾄另⾏通知。 富裕小輪 屯門-東涌-沙螺灣-大澳航綫 屯門至大澳:尾班船將於下午3時開出 東涌至大澳:尾班船將於下午4時開出 大澳至屯門:尾班船將於下午5時開出"
+            }
+        },
+        "district": null,
+        "last_update": "2024-11-09T13:29:51",
+        "last_announcement": "2024-11-09T13:06:00"
     }
 }
