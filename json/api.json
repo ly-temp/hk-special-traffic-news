@@ -2246,5 +2246,37 @@
         "district": "灣仔區",
         "last_update": "2024-11-10T18:28:46",
         "last_announcement": "2024-11-10T18:09:00"
+    },
+    "IN-24-06542": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "person in dangerous position",
+            "INCIDENT_DETAIL_CN": "有人在危險位置",
+            "LOCATION_EN": "Tuen Mun Heung Sze Wui Road",
+            "LOCATION_CN": "屯門鄉事會路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Castle Peak",
+            "DIRECTION_CN": "青山",
+            "NEAR_LANDMARK_EN": "Ho Pong Street",
+            "NEAR_LANDMARK_CN": "河傍街",
+            "BETWEEN_LANDMARK_EN": "Yan Ching Street",
+            "BETWEEN_LANDMARK_CN": "仁政街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-10T22:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106098",
+                "CONTENT_EN": "Due to person in dangerous position , all lanes of Tuen Mun Heung Sze Wui Road (Castle Peak bound) between Ho Pong Street and Yan Ching Street is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因有人在危險位置，屯門鄉事會路(往青山方向)介乎河傍街與仁政街之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-11-10T22:29:29",
+        "last_announcement": "2024-11-10T22:16:00"
     }
 }
