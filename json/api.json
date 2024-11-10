@@ -2273,11 +2273,18 @@
                 "ID": "106098",
                 "CONTENT_EN": "Due to person in dangerous position , all lanes of Tuen Mun Heung Sze Wui Road (Castle Peak bound) between Ho Pong Street and Yan Ching Street is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因有人在危險位置，屯門鄉事會路(往青山方向)介乎河傍街與仁政街之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-11-10T23:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106101",
+                "CONTENT_EN": "Due to person in dangerous position , all lanes of Tuen Mun Heung Sze Wui Road (Castle Peak bound) between Ho Pong Street and Yan Ching Street are closed to all traffic. Affected bus route K51 will not stop at ACME Shopping Arcade. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因有人在危險位置，屯門鄉事會路(往青山方向)介乎河傍街與仁政街之間的全線現已封閉。 受影響巴⼠路線第K51號線將不停雅都商場。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-10T22:29:29",
-        "last_announcement": "2024-11-10T22:16:00"
+        "last_update": "2024-11-10T23:22:07",
+        "last_announcement": "2024-11-10T23:00:00"
     },
     "IN-24-06543": {
         "description": {
@@ -2305,10 +2312,17 @@
                 "ID": "106099",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Salisbury Road  and Nathan Road  are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，梳士巴利道和彌敦道 交界的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-10T22:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106100",
+                "CONTENT_EN": "Part of the lanes of the junction of Salisbury Road  and Nathan Road  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的梳士巴利道和彌敦道 交界的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-11-10T22:39:29",
-        "last_announcement": "2024-11-10T22:24:00"
+        "last_update": "2024-11-10T23:22:07",
+        "last_announcement": "2024-11-10T22:47:00"
     }
 }
