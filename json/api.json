@@ -1,43 +1,4 @@
 {
-    "IN-24-06515": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kai Fuk Road",
-            "LOCATION_CN": "啓福道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Kowloonbay International Trade  Exhibition Centre",
-            "NEAR_LANDMARK_CN": "九龍灣國際展貿中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-09T10:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106035",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kai Fuk Road (Tsim Sha Tsui bound) near Kowloonbay International Trade amp; Exhibition Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，啓福道(往尖沙咀方向)近九龍灣國際展貿中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-09T11:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106036",
-                "CONTENT_EN": "Part of the lanes of Kai Fuk Road (Tsim Sha Tsui bound) near Kowloonbay International Trade amp; Exhibition Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的啓福道(往尖沙咀方向)近九龍灣國際展貿中心的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-11-09T12:09:36",
-        "last_announcement": "2024-11-09T11:56:00"
-    },
     "IN-24-06516": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2078,5 +2039,44 @@
         "district": "東區",
         "last_update": "2024-11-12T10:59:50",
         "last_announcement": "2024-11-12T10:33:00"
+    },
+    "IN-24-06566": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": "Island Line and Island Line Service Disruption",
+            "LOCATION_CN": "港島綫及港島綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-12T11:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106162",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that there is an additional travelling time of 8 to 10 minutes on the Island Line between Kennedy Town and Chai Wan because of a technical fault on a train at Kennedy Town Station.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於堅尼地城站有列車機件故障，港島綫來往堅尼地城至柴灣的車程延長8至10分鐘。"
+            },
+            "2024-11-12T12:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106163",
+                "CONTENT_EN": "Due to an equipment fault on a train at Kennedy Town Station, the total journey time on the Island Line between Kennedy Town Station and Chai Wan Station could be extended by 15-20 minutes. Longer waiting times on Island Line platforms can be expected.",
+                "CONTENT_CN": "由於有列車在堅尼地城站出現設備故障，港島綫來往堅尼地城站及柴灣站的行車時間預計需要額外15-20分鐘。 現時港島綫月台上的乘客較多，候車時間亦會較長。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-11-12T12:27:31",
+        "last_announcement": "2024-11-12T12:03:00"
     }
 }
