@@ -1938,10 +1938,49 @@
                 "ID": "106182",
                 "CONTENT_EN": "Tate's Cairn Highway (Tai Po bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "大老山公路(往大埔方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-11-12T19:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106184",
+                "CONTENT_EN": "Traffic at Tate's Cairn Highway (Tai Po bound) has resumed normal.",
+                "CONTENT_CN": "大老山公路(往大埔方向)的交通現已恢復正常。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-12T19:12:33",
-        "last_announcement": "2024-11-12T18:47:00"
+        "last_update": "2024-11-12T19:25:25",
+        "last_announcement": "2024-11-12T19:13:00"
+    },
+    "IN-24-06573": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Elizabethan Court",
+            "NEAR_LANDMARK_CN": "依利沙伯大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-12T19:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106183",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Elizabethan Court which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往荃灣方向)近依利沙伯大廈的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-11-12T19:25:25",
+        "last_announcement": "2024-11-12T19:05:00"
     }
 }
