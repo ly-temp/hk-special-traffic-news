@@ -73,45 +73,6 @@
         "last_update": "2024-11-10T12:13:47",
         "last_announcement": "2024-11-11T00:00:00"
     },
-    "IN-24-06527": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "San Hui Market",
-            "NEAR_LANDMARK_CN": "新墟街市",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-09T18:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106064",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Tuen Mun Road (Yuen Long bound) near San Hui Market is closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Tuen Mun Road near So Kwun Wat and Lung Fu Road near Lung Mun Oasis. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近新墟街市的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往元朗方向)的車龍龍尾已到屯門公路近掃管笏及龍富路近龍門居。 現時上址交通擠塞。"
-            },
-            "2024-11-09T18:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106066",
-                "CONTENT_EN": "The slow lane of Tuen Mun Road (Yuen Long bound) near San Hui Market which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近新墟街市的慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-11-09T18:40:21",
-        "last_announcement": "2024-11-09T18:29:00"
-    },
     "IN-24-06528": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1892,11 +1853,18 @@
                 "ID": "106176",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Yuen Long bound) near On Ting Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Lung Fu Road near Lung Mun Oasis and Tuen Mun Road near Siu Lam. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近安定邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往元朗方向)的車龍龍尾已到龍富路近龍門居及屯門公路近小欖。 現時上址交通擠塞。"
+            },
+            "2024-11-12T18:33:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106180",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near On Ting Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往元朗方向)近安定邨的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-12T18:32:48",
-        "last_announcement": "2024-11-12T18:13:00"
+        "last_update": "2024-11-12T18:44:34",
+        "last_announcement": "2024-11-12T18:33:00"
     },
     "IN-24-06572": {
         "description": {
@@ -1924,10 +1892,17 @@
                 "ID": "106177",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Tate's Cairn Highway (Tai Po bound) near Sha Tin Sewage Treatment Works are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大老山公路(往大埔方向)近沙田污水處理廠的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-11-12T18:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106178",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tate's Cairn Highway (Tai Po bound) near Sha Tin Sewage Treatment Works is still being closed to all traffic. Only remaining lane is available to motorists. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大老山公路(往大埔方向)近沙田污水處理廠的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-11-12T18:32:48",
-        "last_announcement": "2024-11-12T18:22:00"
+        "last_update": "2024-11-12T18:44:34",
+        "last_announcement": "2024-11-12T18:30:00"
     }
 }
