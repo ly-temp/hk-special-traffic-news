@@ -2671,11 +2671,18 @@
                 "ID": "106278",
                 "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: Hong Kong Zhuhai-Macao-Bridge - The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus has been suspended. Lok Ma Chau Control Point - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus maintains limited service. - Short-haul Cross-boundary Coach Service: Mong Kok Route (Both bounds): service suspended Wan Chai Route (Both bounds): service suspended Yau Tsim Route (Both bounds): service suspended Kwun Tong Route (Northbound): will provide limited service starting from 6.30 am on 14 November 2024 Kwun Tong Route (Southbound): maintains limited service Tsuen Wan Route (Both bounds): service suspended",
                 "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： 港珠澳大橋 -港珠澳大橋穿梭巴士已暫停服務 落馬洲管制站 -落馬洲-皇崗過境穿梭巴士會維持有限度服務 -短途跨境巴士服務： 旺角線(來回方向)：已暫停服務 灣仔線(來回方向)：已暫停服務 油尖線(來回方向)：已暫停服務 觀塘線(北行)：將於2024年11月14日上午6時30分起維持有限度服務 觀塘線(南行)：維持有限度服務 荃灣線(來回方向)：已暫停服務"
+            },
+            "2024-11-14T06:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106297",
+                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: Hong Kong Zhuhai-Macao-Bridge - The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus has been suspended Lok Ma Chau Control Point - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus maintains limited service - Short-haul Cross-boundary Coach Service: Mong Kok Route (Both bounds): service suspended Wan Chai Route (Both bounds): service suspended Yau Tsim Route (Both bounds): service suspended Kwun Tong Route (Both bounds): maintains limited service Tsuen Wan Route (Both bounds): service suspended",
+                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： 港珠澳大橋 -港珠澳大橋穿梭巴士已暫停服務 落馬洲管制站 -落馬洲-皇崗過境穿梭巴士會維持有限度服務 -短途跨境巴士服務： 旺角線(來回方向)：已暫停服務 灣仔線(來回方向)：已暫停服務 油尖線(來回方向)：已暫停服務 觀塘線(來回方向)：維持有限度服務 荃灣線(來回方向)：已暫停服務"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-14T01:41:07",
-        "last_announcement": "2024-11-14T01:23:00"
+        "last_update": "2024-11-14T06:58:08",
+        "last_announcement": "2024-11-14T06:38:00"
     },
     "IN-24-06611": {
         "description": {
@@ -2870,10 +2877,17 @@
                 "ID": "106294",
                 "CONTENT_EN": "The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2024-11-14T06:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106298",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR):\n\nThe speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排：\n\n港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-11-14T05:49:55",
-        "last_announcement": "2024-11-14T05:30:00"
+        "last_update": "2024-11-14T06:58:08",
+        "last_announcement": "2024-11-14T06:40:00"
     }
 }
