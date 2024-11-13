@@ -2254,11 +2254,18 @@
                 "ID": "106236",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Lam Hau Tsuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近欖口村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-13T19:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106242",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Lam Hau Tsuen which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往上水方向)近欖口村的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-11-13T18:35:36",
-        "last_announcement": "2024-11-13T18:25:00"
+        "last_update": "2024-11-13T19:26:55",
+        "last_announcement": "2024-11-13T19:03:00"
     },
     "IN-24-06597": {
         "description": {
@@ -2325,10 +2332,17 @@
                 "ID": "106241",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Sha Tin Road (Tai Po bound) near City One Shatin is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，沙田路(往大埔方向)近沙田第一城的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-11-13T19:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106243",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sha Tin Road (Tai Po bound) near City One Shatin close to all traffic. \nOnly remaining lane is available to motorists.   Traffic queue on Sha Tin Road (Tai Po bound) ends at Sha Tin Road near Shui Chuen O Estate.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，沙田路(往大埔方向)近沙田第一城的部份行車線封閉。\n駕駛人士只可使用餘下行車線行車。  現時在沙田路(往大埔方向)的車龍龍尾已到沙田路近水泉澳邨。  現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-11-13T19:15:09",
-        "last_announcement": "2024-11-13T19:01:00"
+        "last_update": "2024-11-13T19:26:55",
+        "last_announcement": "2024-11-13T19:09:00"
     }
 }
