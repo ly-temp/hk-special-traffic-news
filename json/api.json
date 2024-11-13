@@ -1,36 +1,4 @@
 {
-    "IN-24-06537": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "rough sea condition",
-            "INCIDENT_DETAIL_CN": "海面風浪",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-10T14:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106088",
-                "CONTENT_EN": "Due to the rough sea condition, the following ferry/kaito ferry service will be or have been adjusted. \nTsui Wah Ferry Service (H. K. ) Limited\nMa Liu Shui - Tung Ping Chau: Suspended\nPo Toi Island - Aberdeen/Stanley: The last sailing depart at 6.00 pm from Po Toi Island to Aberdeen (Not via Stanley).",
-                "CONTENT_CN": "因受海面風浪影響，以下渡輪/街渡渡輪服務將會或已經作出調整。\n翠華船務（香港）有限公司\n馬料水-東平洲:暫停服務\n蒲台島-香港仔/赤柱:尾班船於下午6時正由蒲台島開出前往香港仔（不經赤柱）。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-11-10T14:30:02",
-        "last_announcement": "2024-11-10T14:08:00"
-    },
     "IN-24-06538": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
