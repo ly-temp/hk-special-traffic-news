@@ -38,45 +38,6 @@
         "last_update": "2024-11-10T15:36:51",
         "last_announcement": "2024-11-10T15:26:00"
     },
-    "IN-24-06539": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lei Yue Mun Road",
-            "LOCATION_CN": "鯉魚門道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ngau Tau Kok",
-            "DIRECTION_CN": "牛頭角",
-            "NEAR_LANDMARK_EN": "Tseung Kwan O Road",
-            "NEAR_LANDMARK_CN": "將軍澳道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-10T14:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106090",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lei Yue Mun Road (Ngau Tau Kok bound) near Tseung Kwan O Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，鯉魚門道(往牛頭角方向)近將軍澳道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-10T14:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106091",
-                "CONTENT_EN": "Part of the lanes of Lei Yue Mun Road (Ngau Tau Kok bound) near Tseung Kwan O Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的鯉魚門道(往牛頭角方向)近將軍澳道的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-11-10T14:54:00",
-        "last_announcement": "2024-11-10T14:46:00"
-    },
     "IN-24-06540": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2014,5 +1975,37 @@
         "district": "深水埗區",
         "last_update": "2024-11-13T13:46:40",
         "last_announcement": "2024-11-13T13:27:00"
+    },
+    "IN-24-06587": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Typhoon Incident",
+            "INCIDENT_HEADING_CN": "颱風事故",
+            "INCIDENT_DETAIL_EN": "Strong Wind Signal No. 3",
+            "INCIDENT_DETAIL_CN": "三號強風信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-13T14:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106216",
+                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於三號強風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-11-13T14:55:54",
+        "last_announcement": "2024-11-13T14:40:00"
     }
 }
