@@ -2626,11 +2626,18 @@
                 "ID": "106265",
                 "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: Hong Kong Zhuhai-Macao-Bridge - The last departures of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus (to/from Zhuhai Port and to/from Macao Port) will be operated at 1.00am Lok Ma Chau Control Point - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus maintains limited service - Short-haul Cross-boundary Coach Service: Mong Kok Route (Both bounds): Last departures at 12.00 midnight Wan Chai Route (Northbound): Last departure at 11.55 pm Wan Chai Route (Southbound): Last departure at 11.35 pm Yau Tsim Route (Both bounds): Last departures at 12.15 am Kwun Tong Route (Northbound): Last departure at 11.00 pm Kwun Tong Route (Southbound): Maintains limited service Tsuen Wan Route (Both bounds): Last departures at 1.00 am",
                 "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： 港珠澳大橋 -港珠澳大橋穿梭巴士（往來珠海口岸方向及往來澳門口岸方向）的尾班車將於凌晨1時正開出 落馬洲管制站 -落馬洲-皇崗過境穿梭巴士會維持有限度服務 -短途跨境巴士服務： 旺角線(來回方向)：尾班車將於午夜12時正開出 灣仔線(北行)：尾班車將於晚上11時55分開出 灣仔線(南行)：尾班車將於晚上11時35分開出 油尖線(來回方向)：尾班車將於凌晨12時15分開出 觀塘線(北行)：尾班車將於晚上11時正開出 觀塘線(南行)：將維持有限度服務 荃灣線(來回方向)：尾班車將於凌晨1時正開出"
+            },
+            "2024-11-14T01:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106278",
+                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: Hong Kong Zhuhai-Macao-Bridge - The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus has been suspended. Lok Ma Chau Control Point - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus maintains limited service. - Short-haul Cross-boundary Coach Service: Mong Kok Route (Both bounds): service suspended Wan Chai Route (Both bounds): service suspended Yau Tsim Route (Both bounds): service suspended Kwun Tong Route (Northbound): will provide limited service starting from 6.30 am on 14 November 2024 Kwun Tong Route (Southbound): maintains limited service Tsuen Wan Route (Both bounds): service suspended",
+                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： 港珠澳大橋 -港珠澳大橋穿梭巴士已暫停服務 落馬洲管制站 -落馬洲-皇崗過境穿梭巴士會維持有限度服務 -短途跨境巴士服務： 旺角線(來回方向)：已暫停服務 灣仔線(來回方向)：已暫停服務 油尖線(來回方向)：已暫停服務 觀塘線(北行)：將於2024年11月14日上午6時30分起維持有限度服務 觀塘線(南行)：維持有限度服務 荃灣線(來回方向)：已暫停服務"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-13T23:13:20",
-        "last_announcement": "2024-11-13T22:57:00"
+        "last_update": "2024-11-14T01:41:07",
+        "last_announcement": "2024-11-14T01:23:00"
     },
     "IN-24-06611": {
         "description": {
@@ -2786,10 +2793,17 @@
                 "ID": "106276",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近龍翔道公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-11-14T01:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106277",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近龍翔道公園的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-11-14T01:27:53",
-        "last_announcement": "2024-11-14T01:10:00"
+        "last_update": "2024-11-14T01:41:07",
+        "last_announcement": "2024-11-14T01:21:00"
     }
 }
