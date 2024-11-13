@@ -2656,5 +2656,69 @@
         "district": "屯門區",
         "last_update": "2024-11-13T23:13:20",
         "last_announcement": "2024-11-13T22:57:00"
+    },
+    "IN-24-06611": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": "Yiu Hing Road",
+            "LOCATION_CN": "耀興道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-13T23:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106270",
+                "CONTENT_EN": "Due to inclement weather and while the emergency slope repair works are still in progress, both bounds traffic lanes of Yiu Hing Road between Yiu Kwai House and Yiu Hing House of Yiu Tung Estate are closed to all traffic. Motorists are advised to use alternative routes. Eastbound franchised bus and green minibus services will be diverted as follow: Citybus route nos. 77, 99, 720X and N8, Cross Harbour route nos. 110 and 606 and Green Minibus route no. 65 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street, Tai Lok Street and Shau Kei Wan Road eastbound before resuming its original routeing; while Green Minibus route no. 50 departures that passed by Yiu Tung Estate Bus Terminus will be diverted via Yiu Hing Road westbound, Wai Hang Street and Tai Lok Street before resuming its original routeing. Westbound franchised bus and green minibus services will be diverted as follow: Citybus route nos. 77, 82S, 99 and N8, Cross Harbour route nos. 110 and 606 departures that after Shau Kei Wan Road westbound near Sun Sing Street will be diverted via Shau Kei Wan Road westbound, Tai Hong Street, Lei King Road, Tai On Street, Shing On Street, Yiu Hing Road eastbound, Yiu Tung Estate Bus Terminus and Yiu Hing Road westbound before resuming its original routeing; while Green Minibus route no. 65 departures that after Shau Kei Wan Road westbound near Nam Hong Street will be diverted via Nam Hong Street, Yiu Hing Road westbound, Sun Sing Street, Sai Wan Ho Street, Shing On Street and Yiu Hing Road eastbound, before resuming its original routeing.",
+                "CONTENT_CN": "因受惡劣天氣影響及緊急斜坡復修⼯程仍在進⾏中，耀興道介乎耀東邨耀貴樓與耀東邨耀興樓之間的來回⽅向⾏⾞線現已封閉。駕駛⼈⼠請考慮改⽤其他道路。 往東⾏⽅向的巴⼠及⼩巴路線須改道如下: 城巴第77、99、720X及N8號線、過海巴⼠第110及606號線及專線⼩巴第65號線須改道⾏駛，路線途經耀東邨巴⼠總站後，會改經耀興道西⾏、惠亨街、太樂街及筲箕灣道東⾏，然後返回原有路線；⾄於專線⼩巴第50號線在途經耀東邨巴⼠總站後，則會改經耀興道西⾏、惠亨街及太樂街，然後返回原有路線。 往西⾏⽅向的巴⼠及⼩巴路線須改道如下: 城巴第77、82S、99及N8號線、過海巴⼠第110及606號線須改道⾏駛，路線途經筲箕灣道西⾏近新成街後，巴⼠會改經筲箕灣道西⾏、太康街、鯉景道、太安街、成安街、耀興道東⾏、耀東邨巴⼠總站及耀興道西⾏，然後返回原有路線；⾄於專線⼩巴第65號線在途經筲箕灣道西⾏近南康街後，⼩巴會改經南康街、耀興道西⾏、新成街、西灣河街、成安街及耀興道東⾏，然後返回原有路線。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-11-13T23:43:05",
+        "last_announcement": "2024-11-13T23:16:00"
+    },
+    "IN-24-06612": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Peak Tram Incident",
+            "INCIDENT_HEADING_CN": "山頂纜車事故",
+            "INCIDENT_DETAIL_EN": "No. 8 Northeast Gale or Storm Signal",
+            "INCIDENT_DETAIL_CN": "八號東北烈風或暴風信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-13T23:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106271",
+                "CONTENT_EN": "As the Gale or Storm Signal No. 8 was issued, the Peak Tram Service will be temporarily suspended at 0730 hrs on 14 November 2024.",
+                "CONTENT_CN": "因應⼋號烈⾵或暴⾵信號已經發出，⼭頂纜⾞將會於2024年11月14日上午7時30分全線暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-11-13T23:43:05",
+        "last_announcement": "2024-11-13T23:28:00"
     }
 }
