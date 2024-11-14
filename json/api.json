@@ -2420,11 +2420,18 @@
                 "ID": "106296",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Rail service is now operating at limited frequencies. Service on open sections of the Railway and Light Rail will be suspended immediately if Signal 9 or above is issued. The In-town Check-in service close-out time is adjusted to 120 minutes before scheduled flight departure time\n\nMTR service arrangements are as follows：\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知，鐵路維持有限度服務。若改發九號或以上風球，露天段列車及輕鐵服務將即時暫停。市區預辦登機服務調整至航班起飛前120分鐘截止。\n\n港鐵服務安排如下：\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            },
+            "2024-11-14T08:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106302",
+                "CONTENT_EN": "The Hong Kong Observatory has announced that Typhoon Signal 3 will be issued later - Rail service frequencies are being increased - The MTR Bus service will resume after the issuing of Signal 3 - The In-town Check-in service close-out time is adjusted to 120 minutes before scheduled flight departure time",
+                "CONTENT_CN": "香港天文台公佈稍後將改發三號風球 -鐵路服務逐步加密班次 -港鐵巴士將於三號風球發出後恢復服務 -市區預辦登機服務調整至航班起飛前120分鐘截止"
             }
         },
         "district": null,
-        "last_update": "2024-11-14T06:37:55",
-        "last_announcement": "2024-11-14T06:09:00"
+        "last_update": "2024-11-14T08:59:08",
+        "last_announcement": "2024-11-14T08:02:00"
     },
     "IN-24-06605": {
         "description": {
@@ -2916,10 +2923,17 @@
                 "ID": "106299",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wan Chai Interchange (Cross Harbour Tunnel bound) near Tunnel Approach Rest Garden is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，灣仔交匯處(往海底隧道方向)近隧道入口處休憩花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-14T08:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106303",
+                "CONTENT_EN": "Part of the lanes of Wan Chai Interchange (Cross Harbour Tunnel bound) near Tunnel Approach Rest Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的灣仔交匯處(往海底隧道方向)近隧道入口處休憩花園的部份行車線現已解封。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-11-14T07:32:19",
-        "last_announcement": "2024-11-14T07:13:00"
+        "last_update": "2024-11-14T08:59:08",
+        "last_announcement": "2024-11-14T08:24:00"
     }
 }
