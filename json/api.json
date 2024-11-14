@@ -1,160 +1,4 @@
 {
-    "IN-24-06545": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Siu Lam",
-            "NEAR_LANDMARK_CN": "小欖",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-11T08:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106105",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Lam is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近小欖的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-11T08:33:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106106",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Lam which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近小欖的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-11-11T09:49:53",
-        "last_announcement": "2024-11-11T08:33:00"
-    },
-    "IN-24-06546": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Morse Park Swimming Pool",
-            "NEAR_LANDMARK_CN": "摩士公園游泳池",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-11T08:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106107",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Morse Park Swimming Pool is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近摩士公園游泳池的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-11T08:48:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106108",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Morse Park Swimming Pool which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近摩士公園游泳池的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-11-11T09:49:53",
-        "last_announcement": "2024-11-11T08:48:00"
-    },
-    "IN-24-06548": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Kwun Tong Ferry Pier",
-            "NEAR_LANDMARK_CN": "觀塘碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-11T09:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106110",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Kwun Tong Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近觀塘碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-11T09:14:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106111",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Kwun Tong Ferry Pier which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往旺角方向)近觀塘碼頭的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-11-11T09:49:53",
-        "last_announcement": "2024-11-11T09:14:00"
-    },
-    "IN-24-06549": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Fuk Hang Tsuen",
-            "NEAR_LANDMARK_CN": "福亨村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-11T09:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106112",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Fuk Hang Tsuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近福亨村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-11T09:26:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106113",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Tuen Mun bound) near Fuk Hang Tsuen which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往屯門方向)近福亨村的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-11-11T09:49:53",
-        "last_announcement": "2024-11-11T09:26:00"
-    },
     "IN-24-06547": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2639,11 +2483,18 @@
                 "ID": "106293",
                 "CONTENT_EN": "KMB\nThe Gale or Storm Signal No.8 is in force. All KMB Overnight Routes have been temporarily suspended. \nFor daytime services on 14 November 2024 (Thursday), KMB Routes B1 and B9 will maintain limited services from their first departures. Services of other daytime KMB bus routes (including routes K12, K14, K17 and K18) are temporarily suspended until further notice. \n\nLWB\nThe Gale or Storm Signal No.8 is in force. All LWB Overnight Routes have been temporarily suspended. \nFor daytime services on 14 November 2024 (Thursday), LWB Routes S1, S64, S64C, S64P and S64X will maintain limited services from their first departures. Services of other daytime LWB bus routes are temporarily suspended until further notice. \n\nCTB\nAll Citybus overnight routes have made their final departure。\nAll Citybus daytime routes on 14 November 2024 (Thursday) will suspend service until further notice, except for routes B3X, B7 (direct trip between Fanling Station and Heung Yuen Wai Port) and S1, which will provide limited level of services. \n\nNLB\nNLB Routes 37M, 38, 39M, B2, B2P, B4 and B6 will maintain limited services on 14 November 2024 (Thursday). Other daytime bus routes will be suspended until further notice. \n\nDiscover Bay Transit Services Limited\nRoutes DB01R, DB02R and DB03R will maintain limited services. Routes DB01A, DB02A, DB03P and DB08R will be suspended. \n\nPark Island Transport Company Limited\nRoutes NR330 and NR332 operates at 20 minutes headway. Route NR334 will be suspended. \n\nHong Kong Tramway\nAs Typhoon Signal No. 8 is hoisted, tram service is temporarily suspended.",
                 "CONTENT_CN": "九巴\n八號烈風或暴風信號現正生效，九巴所有通宵路線已暫停服務。\n11月14日(星期四)日間服務方面，除九巴B1及B9線由頭班車起維持有限度服務外，其他九巴日間路線(包括K12、K14、K17及K18線)暫停服務，直至另行通知。\n\n龍運\n八號烈風或暴風信號現正生效，龍運所有通宵路線已暫停服務。\n11月14日(星期四)日間服務方面，除龍運S1、S64、S64C、S64P及S64X線由頭班車起維持有限度服務外，其他龍運日間路線暫停服務，直至另行通知。\n\n城巴\n城巴所有通宵路線尾班車已開出。\n除B3X、B7(只提供粉嶺站不停站往來香園圍口岸的服務)及S1線於11月14日(星期四)日間提供有限度服務外，城巴所有日間路線暫停服務。\n\n新大嶼山巴士\n新大嶼山巴士路線37M、38、39M、B2、B2P、B4、B6 將於11月14日(星期四)維持有限度服務，其餘路線暫停服務直至另行通知。\n\n愉景灣交通服務有限公司\n路線DB01R、DB02R及DB03R提供有限度服務。路線DB01A、DB02A、DB03P及DB08R則暫停服務。\n\n珀麗灣客運有限公司\n路線NR330及NR332維持每20分鐘班次。路線NR334則暫停服務。\n\n香港電車\n由於八號烈風或暴風信號生效，電車服務已全線暫停。"
+            },
+            "2024-11-14T09:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106306",
+                "CONTENT_EN": "KMB and LWB\nMajority routes of KMB and LWB will gradually resume service from 1020 hrs onwards, except KMB routes 78S will be suspended. \n\nCTB\nMost of Citybus daytime routes and Cityflyer routes resumed service from\n1020 hrs, except CTB routes 3A, 23B, 81A, 85A, 85P, 95P, 702S and R8. \n\nNLB\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\n\nDiscover Bay Transit Services Limited\nAll bus services will resume normal gradually from 10:00 am\n\nPark Island Transport Company Limited\nRoutes NR330 and NR332 services will be strengthened. \nOther bus and ferry services will be arranged as follows:\nRoute NR334 first departure at 11:00, at 60mins headway. \n\nHong Kong Tramway\nAs Typhoon Signal No. 8 is hoisted, tram service is temporarily suspended.",
+                "CONTENT_CN": "九巴及⿓運\n除九巴第78S號線，九巴及⿓運⼤部分路線會於上午10時20分起陸續恢復服務。\n\n城巴\n除城巴第3A、23B、81A、85A、85P、95P,702S 及R8，城巴⼤部份⽇間路線及機場快線將會於上午10時20分起陸續恢復服務，\n\n新大嶼山巴士\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n愉景灣交通服務有限公司\n所有路線於上午10時起陸續恢復服務。\n\n珀麗灣客運有限公司\n路線NR330及NR332將加強服務。\n其他巴士路線，將安排如下：\n路線NR334由11:00開始，將維持每60分鐘一班。\n\n香港電車\n由於八號烈風或暴風信號生效，電車服務已全線暫停。"
             }
         },
         "district": null,
-        "last_update": "2024-11-14T05:49:55",
-        "last_announcement": "2024-11-14T05:22:00"
+        "last_update": "2024-11-14T10:19:14",
+        "last_announcement": "2024-11-14T09:32:00"
     },
     "IN-24-06609": {
         "description": {
@@ -2685,11 +2536,18 @@
                 "ID": "106297",
                 "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: Hong Kong Zhuhai-Macao-Bridge - The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus has been suspended Lok Ma Chau Control Point - Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus maintains limited service - Short-haul Cross-boundary Coach Service: Mong Kok Route (Both bounds): service suspended Wan Chai Route (Both bounds): service suspended Yau Tsim Route (Both bounds): service suspended Kwun Tong Route (Both bounds): maintains limited service Tsuen Wan Route (Both bounds): service suspended",
                 "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： 港珠澳大橋 -港珠澳大橋穿梭巴士已暫停服務 落馬洲管制站 -落馬洲-皇崗過境穿梭巴士會維持有限度服務 -短途跨境巴士服務： 旺角線(來回方向)：已暫停服務 灣仔線(來回方向)：已暫停服務 油尖線(來回方向)：已暫停服務 觀塘線(來回方向)：維持有限度服務 荃灣線(來回方向)：已暫停服務"
+            },
+            "2024-11-14T09:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106305",
+                "CONTENT_EN": "The service of cross-boundary coach will be adjusted as follows: Hong Kong Zhuhai-Macao-Bridge - The service of Hong Kong Zhuhai-Macao-Bridge Shuttle Bus (to/from Zhuhai Port and to/from Macao Port) will gradually resume normal starting from 10:30 am Lok Ma Chau Control Point - The service of Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus maintains limited service and will gradually resume normal starting from 10:20 am - Short-haul Cross-boundary Coach Service: Mong Kok Route (Both bounds): will gradually resume normal service starting from 9:20 am Wan Chai Route (Southbound to Hong Kong): will gradually resume normal service starting from 9:35 am Wan Chai Route (Northbound to Mainland): will gradually resume normal service starting from 9:15 am Yau Tsim Route (Both bounds): will gradually resume normal service starting from 10 am Kwun Tong Route (Both bounds): maintains limited service and will gradually resume normal service starting from 10:20 am Tsuen Wan Route (Both bounds): will gradually resume normal service starting from 11:00 am",
+                "CONTENT_CN": "跨境巴士服務安排如下： 港珠澳大橋 -港珠澳大橋穿梭巴士(往來珠海口岸及往來澳門口岸)由上午10時30分起陸續恢復正常運作 落馬洲管制站 -落馬洲-皇崗過境穿梭巴士維持有限度服務，並由上午10時20分起陸續恢復正常運作 -短途跨境巴士服務： 旺角線(來回方向)：由上午9時20分起陸續恢復正常運作 灣仔線(南行往香港方向)：由上午9時35分起陸續恢復正常運作 灣仔線(北行往內地方向)：由上午9時15分起陸續恢復正常運作 油尖線(來回方向)：由上午10時起陸續恢復正常運作 觀塘線(來回方向)：維持有限度服務，並由上午10時20分起陸續恢復正常運作 荃灣線(來回方向)：由上午11時起陸續恢復正常運作"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-14T06:58:08",
-        "last_announcement": "2024-11-14T06:38:00"
+        "last_update": "2024-11-14T10:19:14",
+        "last_announcement": "2024-11-14T09:30:00"
     },
     "IN-24-06611": {
         "description": {
@@ -2935,5 +2793,83 @@
         "district": "大埔區",
         "last_update": "2024-11-14T08:59:08",
         "last_announcement": "2024-11-14T08:24:00"
+    },
+    "IN-24-06618": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Dragon Industrial Building",
+            "NEAR_LANDMARK_CN": "龍翔工業大廈",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-14T09:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106304",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近龍翔工業大廈的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-11-14T09:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106307",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building is closed to all traffic. Only remaining lane is available to motorists.",
+                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近龍翔工業大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2024-11-14T09:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106309",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近龍翔工業大廈的部份行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-11-14T10:19:14",
+        "last_announcement": "2024-11-14T09:51:00"
+    },
+    "IN-24-06619": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Fung Shing Court",
+            "NEAR_LANDMARK_CN": "豐盛苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-14T10:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106311",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Fung Shing Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近豐盛苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-11-14T10:19:14",
+        "last_announcement": "2024-11-14T10:12:00"
     }
 }
