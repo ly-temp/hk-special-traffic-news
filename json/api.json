@@ -2830,11 +2830,18 @@
                 "ID": "106311",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Fung Shing Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近豐盛苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-14T10:19:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106313",
+                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Fung Shing Court which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近豐盛苑的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-11-14T10:19:14",
-        "last_announcement": "2024-11-14T10:12:00"
+        "last_update": "2024-11-14T11:54:00",
+        "last_announcement": "2024-11-14T10:19:00"
     },
     "IN-24-06620": {
         "description": {
@@ -2958,10 +2965,17 @@
                 "ID": "106330",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wan Chai Interchange (Cross Harbour Tunnel bound) near Tunnel Approach Rest Garden is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，灣仔交匯處(往海底隧道方向)近隧道入口處休憩花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-14T11:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106332",
+                "CONTENT_EN": "Part of the lanes of Wan Chai Interchange (Cross Harbour Tunnel bound) near Tunnel Approach Rest Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的灣仔交匯處(往海底隧道方向)近隧道入口處休憩花園的部份行車線現已解封。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-11-14T11:43:48",
-        "last_announcement": "2024-11-14T11:29:00"
+        "last_update": "2024-11-14T11:54:00",
+        "last_announcement": "2024-11-14T11:34:00"
     }
 }
