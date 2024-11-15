@@ -52,52 +52,6 @@
         "last_update": "2024-11-13T06:18:41",
         "last_announcement": "2024-11-13T06:02:00"
     },
-    "IN-24-06566": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": "Island Line and Island Line Service Disruption",
-            "LOCATION_CN": "港島綫及港島綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-12T11:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106162",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that there is an additional travelling time of 8 to 10 minutes on the Island Line between Kennedy Town and Chai Wan because of a technical fault on a train at Kennedy Town Station.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於堅尼地城站有列車機件故障，港島綫來往堅尼地城至柴灣的車程延長8至10分鐘。"
-            },
-            "2024-11-12T12:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106163",
-                "CONTENT_EN": "Due to an equipment fault on a train at Kennedy Town Station, the total journey time on the Island Line between Kennedy Town Station and Chai Wan Station could be extended by 15-20 minutes. Longer waiting times on Island Line platforms can be expected.",
-                "CONTENT_CN": "由於有列車在堅尼地城站出現設備故障，港島綫來往堅尼地城站及柴灣站的行車時間預計需要額外15-20分鐘。 現時港島綫月台上的乘客較多，候車時間亦會較長。"
-            },
-            "2024-11-12T12:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106164",
-                "CONTENT_EN": "The Island Line train which could not be operated at Kennedy Town Station has been moved away from the mainline. Normal train service is gradually resuming.",
-                "CONTENT_CN": "在堅尼地城站出現故障的列車已駛離行車綫，港島綫列車服務逐步回復正常。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-11-12T12:42:17",
-        "last_announcement": "2024-11-12T12:24:00"
-    },
     "IN-24-06567": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
