@@ -186,38 +186,6 @@
         "last_update": "2024-11-13T19:58:52",
         "last_announcement": "2024-11-13T19:37:00"
     },
-    "IN-24-06599": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Shek Pai Wan Road",
-            "LOCATION_CN": "石排灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kennedy Town",
-            "DIRECTION_CN": "堅尼地城",
-            "NEAR_LANDMARK_EN": "Pok Fu Lam Fire Station",
-            "NEAR_LANDMARK_CN": "薄扶林消防局",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-13T19:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106245",
-                "CONTENT_EN": "Part of the lanes of Shek Pai Wan Road (Kennedy Town bound) near Pok Fu Lam Fire Station which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的石排灣道(往堅尼地城方向)近薄扶林消防局的部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-11-13T19:38:31",
-        "last_announcement": "2024-11-13T19:25:00"
-    },
     "IN-24-06603": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
