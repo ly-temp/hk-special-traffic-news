@@ -4541,11 +4541,18 @@
                 "ID": "106559",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to the Tsuen Wan Line incident, in order to maintain smooth station operations and train service, the Kwun Tong Line train service is adjusted as follows. Service Status of Kwun Tong Line: Between Whampoa Station and Tiu Keng Leng Station: 5 minute intervals Longer waiting time on Kwun Tong Line platforms can be expected. Passengers please allow more time for travel.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知， 因應荃灣綫事故，為維持車站運作及列車服務順暢，觀塘綫列車服務作出以下調整。 觀塘綫車務狀況： 黃埔站往返調景嶺站：每5分鐘一班 現時觀塘綫月台上的乘客較多，候車時間亦會較長。乘客 \n請為行程預留充裕時間。"
+            },
+            "2024-11-16T15:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106562",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The incident on the Tsuen Wan Line near Tsim Sha Tsui Station has now ended. Normal train service is gradually resuming on Kwun Tong Line.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 荃灣綫尖沙咀站附近的事故已妥善處理。觀塘綫列車服務逐步回復正常。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-11-16T15:40:10",
-        "last_announcement": "2024-11-16T15:24:00"
+        "last_update": "2024-11-16T16:00:28",
+        "last_announcement": "2024-11-16T15:41:00"
     },
     "IN-24-06704": {
         "description": {
@@ -4573,10 +4580,17 @@
                 "ID": "106560",
                 "CONTENT_EN": "Due to the Tsuen Wan Line incident, in order to maintain smooth station operations and train service, the Island Line train service is adjusted as follows. Service Status of Island Line: Between Kennedy Town Station and Chai Wan Station: 5 minute intervals Longer waiting time on Island Line platforms can be expected. Passengers please allow more time for travel.",
                 "CONTENT_CN": "因應荃灣綫事故，為維持車站運作及列車服務順暢，港島綫列車服務作出以下調整。 港島綫車務狀況： 堅尼地城站往返柴灣站：每5分鐘一班 現時港島綫月台上的乘客較多，候車時間亦會較長。乘客 \n請為行程預留充裕時間。"
+            },
+            "2024-11-16T15:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106563",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The incident on the Tsuen Wan Line near Tsim Sha Tsui Station has now ended. Normal train service is gradually resuming on Island Line.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 荃灣綫尖沙咀站附近的事故已妥善處理。港島綫列車服務逐步回復正常。"
             }
         },
         "district": "北區",
-        "last_update": "2024-11-16T15:50:13",
-        "last_announcement": "2024-11-16T15:31:00"
+        "last_update": "2024-11-16T16:00:28",
+        "last_announcement": "2024-11-16T15:43:00"
     }
 }
