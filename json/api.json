@@ -4385,10 +4385,24 @@
                 "ID": "106544",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-16T12:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106545",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   The lower deck of Lantau Link (Airport bound) has been opened.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  青嶼幹線下層(往機場方向)現已開放。  現時上址交通繁忙。"
+            },
+            "2024-11-16T12:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106546",
+                "CONTENT_EN": "Part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-16T12:36:08",
-        "last_announcement": "2024-11-16T12:14:00"
+        "last_update": "2024-11-16T12:49:32",
+        "last_announcement": "2024-11-16T12:33:00"
     }
 }
