@@ -1,82 +1,4 @@
 {
-    "IN-24-06578": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Castle Peak Road - Tai Lam",
-            "LOCATION_CN": "青山公路　–　大欖段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Ching Lai Road",
-            "NEAR_LANDMARK_CN": "澄麗路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-13T08:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106195",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Castle Peak Road - Tai Lam (Kowloon bound) near Ching Lai Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青山公路　–　大欖段(往九龍方向)近澄麗路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-13T10:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106204",
-                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Tai Lam (Kowloon bound) near Ching Lai Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青山公路　–　大欖段(往九龍方向)近澄麗路的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-11-13T11:03:06",
-        "last_announcement": "2024-11-13T10:35:00"
-    },
-    "IN-24-06582": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Magazine Gap Road",
-            "LOCATION_CN": "馬己仙峽道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "2  3 Garden Terrace",
-            "NEAR_LANDMARK_CN": "花園台",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-13T09:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106201",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Magazine Gap Road and Robinson Road near Garden Terrace is closed to all traffic. \nOnly remaining lane is available to motorists.   At the same time, vehicles cannot enter Robinson Road from Magazine Gap Road.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，馬己仙峽道和羅便臣道 交界近花園台的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  同時，車輛不能由馬己仙峽道通往羅便臣道。  現時上址交通繁忙。"
-            },
-            "2024-11-13T10:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106206",
-                "CONTENT_EN": "Part of the lanes of the junction of Magazine Gap Road  and Robinson Road (bound) near 2 amp; 3 Garden Terrace which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的馬己仙峽道和羅便臣道(往方向) 交界近花園台的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-11-13T11:03:06",
-        "last_announcement": "2024-11-13T10:46:00"
-    },
     "IN-24-06583": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -4475,5 +4397,37 @@
         "district": "沙田區",
         "last_update": "2024-11-16T06:26:33",
         "last_announcement": "2024-11-14T11:03:00"
+    },
+    "IN-24-06696": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Western Harbour Crossing",
+            "LOCATION_CN": "西區海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hong Kong Island",
+            "DIRECTION_CN": "香港島",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-16T10:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106542",
+                "CONTENT_EN": "Due to emergency repairing works , the tunnel tube fast lane of Western Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，西區海底隧道(往香港島方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-11-16T11:19:10",
+        "last_announcement": "2024-11-16T10:43:00"
     }
 }
