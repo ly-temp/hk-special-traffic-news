@@ -94,45 +94,6 @@
         "last_update": "2024-11-14T15:21:28",
         "last_announcement": "2024-11-14T14:56:00"
     },
-    "IN-24-06607": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-13T22:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106257",
-                "CONTENT_EN": "Due to high wind , the following arrangements will be implemented on cycle track and footpath of Cross Bay Bridge at Tseung Kwan O: Members of the public heading for Cross Bay Bridge are advised that the cycle track and footpath of the Cross Bay Bridge are going to be closed soon due to high wind. Please use alternative route for travelling to LOHAS Park and Tiu Keng Leng.",
-                "CONTENT_CN": "因強風，將軍澳跨灣大橋單車徑及行人路將實施下列安排: 前往跨灣大橋人士請注意，因強風，跨灣大橋單車徑及行人路即將封閉。請改用其他單車徑及行人路前往日出康城及調景嶺。"
-            },
-            "2024-11-14T10:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106316",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on cycle track and footpath of Cross Bay Bridge at Tseung Kwan O: Members of the public heading for Cross Bay Bridge are advised that the cycle track and footpath of Cross Bay Bridge have been re-opened.",
-                "CONTENT_CN": "因天氣情況改善，將軍澳跨灣大橋單車徑及行人路現已實施下列安排: 前往跨灣大橋人士請注意，跨灣大橋單車徑及行人路已經重開。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-11-14T10:59:08",
-        "last_announcement": "2024-11-14T10:20:00"
-    },
     "IN-24-06606": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -361,52 +322,6 @@
         "district": null,
         "last_update": "2024-11-14T12:17:46",
         "last_announcement": "2024-11-14T11:52:00"
-    },
-    "IN-24-06618": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Dragon Industrial Building",
-            "NEAR_LANDMARK_CN": "龍翔工業大廈",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-14T09:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106304",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近龍翔工業大廈的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-11-14T09:39:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106307",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近龍翔工業大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-11-14T09:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106309",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Dragon Industrial Building which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近龍翔工業大廈的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-11-14T10:19:14",
-        "last_announcement": "2024-11-14T09:51:00"
     },
     "IN-24-06619": {
         "description": {
