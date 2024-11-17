@@ -77,38 +77,6 @@
         "last_update": "2024-11-14T16:18:09",
         "last_announcement": "2024-11-14T15:56:00"
     },
-    "IN-24-06630": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Wan",
-            "DIRECTION_CN": "上環",
-            "NEAR_LANDMARK_EN": "City Hall",
-            "NEAR_LANDMARK_CN": "大會堂",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-14T15:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106353",
-                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of Connaught Road Central (Sheung Wan bound) near City Hall is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Connaught Road Central (Sheung Wan bound) ends at Gloucester Road near Marsh Road. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，干諾道中(往上環方向)近大會堂的中線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在干諾道中(往上環方向)的車龍龍尾已到告士打道近馬師道。 現時上址交通擠塞。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-11-14T15:43:43",
-        "last_announcement": "2024-11-14T15:30:00"
-    },
     "IN-24-06632": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
