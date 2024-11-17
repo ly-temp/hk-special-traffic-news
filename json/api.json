@@ -38,38 +38,6 @@
         "last_update": "2024-11-15T06:50:12",
         "last_announcement": "2024-11-15T06:30:00"
     },
-    "IN-24-06640": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Hung Mui Kuk Road",
-            "LOCATION_CN": "紅梅谷路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel Road",
-            "DIRECTION_CN": "獅子山隧道公路",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-14T18:28:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106386",
-                "CONTENT_EN": "The only lane of the slip road leading from Hung Mui Kuk Road (Lion Rock Tunnel Road bound) to Lion Rock Tunnel Road (Tai Po bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的由紅梅谷路(往獅子山隧道公路方向)通往獅子山隧道公路(往大埔方向) 的支路 的 唯一行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-11-14T19:16:19",
-        "last_announcement": "2024-11-14T18:28:00"
-    },
     "IN-24-06645": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
