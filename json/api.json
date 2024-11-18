@@ -1,50 +1,4 @@
 {
-    "IN-24-06654": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Tree",
-            "INCIDENT_DETAIL_CN": "塌樹",
-            "LOCATION_EN": "Prince Edward Road West",
-            "LOCATION_CN": "太子道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Knight Street",
-            "NEAR_LANDMARK_CN": "勵德街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-15T07:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106408",
-                "CONTENT_EN": "Due to fallen tree , part of the lanes of Prince Edward Road West (Mong Kok bound) near Knight Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因塌樹，太子道西(往旺角方向)近勵德街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-15T09:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106434",
-                "CONTENT_EN": "Due to fallen tree , part of the lanes of Prince Edward Road West (Mong Kok bound) near Knight Street is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Affected KMB bus routes nos. 104, 203C and 203S have been diverted.   Motorists are advised to use alternative routes.   Traffic is congested now.",
-                "CONTENT_CN": "因塌樹，太子道西(往旺角方向)近勵德街的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  受影響九巴巴士第104、203C及203S號線須改道行駛。  駕駛人士請考慮改用其他道路。  現時上址交通擠塞。"
-            },
-            "2024-11-15T11:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106468",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road West (Mong Kok bound) near Knight Street which was closed due to fallen tree is re-opened to all traffic.   Affected bus routes have resumed their original routeings gradually.",
-                "CONTENT_CN": "較早前因塌樹而封閉的太子道西(往旺角方向)近勵德街的部份行車線現已解封。  受影響巴士路線陸續現已恢復原有路線行駛。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-11-15T11:44:20",
-        "last_announcement": "2024-11-15T11:24:00"
-    },
     "IN-24-06658": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -118,52 +72,6 @@
         "district": null,
         "last_update": "2024-11-15T12:39:33",
         "last_announcement": "2024-11-15T12:30:00"
-    },
-    "IN-24-06660": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": "Tseung Kwan O Line and Tseung Kwan O Line Service Disruption",
-            "LOCATION_CN": "將軍澳綫及將軍澳綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-15T08:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106421",
-                "CONTENT_EN": "Extra travelling time can be expected on the Tseung Kwan O Line.",
-                "CONTENT_CN": "將軍澳綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
-            },
-            "2024-11-15T08:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106424",
-                "CONTENT_EN": "Due to a signalling equipment fault near Yau Tong Station, the total journey time on the Tseung Kwan O Line between North Point Station and Po Lam Station / LOHAS Park Station could be extended by 3-5 minutes. Longer waiting times on Tseung Kwan O Line platforms can be expected. \nPlease allow more time for travel.",
-                "CONTENT_CN": "由於油塘站附近有信號設備故障，將軍澳綫來往北角站及寶琳站/康城站的行車時間預計需要額外3-5分鐘。 現時將軍澳綫月台上的乘客較多，候車時間亦會較長。 \n請為行程預留充裕時間。"
-            },
-            "2024-11-15T11:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106470",
-                "CONTENT_EN": "Normal non-peak-hour train service on the Tseung Kwan O Line is maintained. Maintenance personnel is handling the signalling equipment fault at Yau Tong Station.",
-                "CONTENT_CN": "將軍澳綫目前可維持正常的非繁忙時間班次。 維修人員會繼續跟進油塘站信號設備故障情況。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2024-11-15T11:44:20",
-        "last_announcement": "2024-11-15T11:30:00"
     },
     "IN-24-06666": {
         "description": {
@@ -2354,10 +2262,17 @@
                 "ID": "106603",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Stubbs Road (both bounds) near Stubbs Road Children's Playground are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，司徒拔道(來回方向)近司徒拔道兒童遊樂場的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-11-18T11:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106604",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Stubbs Road near Stubbs Road Children's Playground. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，司徒拔道近司徒拔道兒童遊樂場現已實施單線雙程行車措施。 現時上址交通擠塞。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-11-18T11:23:21",
-        "last_announcement": "2024-11-18T11:15:00"
+        "last_update": "2024-11-18T11:47:50",
+        "last_announcement": "2024-11-18T11:29:00"
     }
 }
