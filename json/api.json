@@ -1,64 +1,4 @@
 {
-    "IN-24-06685": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Busy road sections",
-            "LOCATION_CN": "交通繁忙路段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-15T18:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106519",
-                "CONTENT_EN": "The following road sections are still busy:\nHong Kong Island\n– Gloucester Road (Sai Wan bound)\n– Harcourt Road (Sai Wan bound)\n– Connaught Road Central flyover (Sai Wan bound)\nKowloon\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n香港島\n–告士打道(往西環方向)\n–夏慤道(往西環方向)\n–干諾道中天橋(往西環方向)\n九龍\n–東九龍走廊(往尖沙咀方向)\n–觀塘繞道(往大老山隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-11-15T19:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106528",
-                "CONTENT_EN": "The following road sections are still busy:\nHong Kong Island\n– Gloucester Road (Sai Wan bound)\n– Harcourt Road (Sai Wan bound)\n– Connaught Road Central flyover (Sai Wan bound)\nKowloon\n– East Kowloon Corridor (Tsim Sha Tsui bound)\nNew Territories\n– Tolo Highway (Sheung Shui bound)\nBut traffic at the following road sections have resumed normal:\nKowloon\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Waterloo Road (Princess Margaret Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n香港島\n–告士打道(往西環方向)\n–夏慤道(往西環方向)\n–干諾道中天橋(往西環方向)\n九龍\n–東九龍走廊(往尖沙咀方向)\n新界\n–吐露港公路(往上水方向)\n但以下路段的交通現已恢復正常:-\n九龍\n–觀塘繞道(往大老山隧道方向)\n–窩打老道(往公主道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-11-15T19:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106532",
-                "CONTENT_EN": "The following road sections are still busy:\nHong Kong Island\n– Gloucester Road, Harcourt Road, Connaught Road Central flyover (Sai Wan bound)\nCitizens please take note KMB's service travelling via Gloucester Road, Harcourt Road and Connaught Road Central flyover have been affected, citizens please consider using other public transport services, such as MTR services. \nKowloon\n– East Kowloon Corridor (Tsim Sha Tsui bound)\nNew Territories\n– Tolo Highway (Sheung Shui bound)\n\nTraffic at the following road sections have resumed normal:\nKowloon\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Waterloo Road (Princess Margaret Road bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n香港島\n–告士打道、夏慤道、干諾道中天橋(往西環方向)\n市民請留意九巴途經告士打道、夏慤道及干諾道中天橋的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。\n九龍\n–東九龍走廊(往尖沙咀方向)\n新界\n–吐露港公路(往上水方向)\n\n以下路段的交通現已恢復正常:-\n九龍\n–觀塘繞道(往大老山隧道方向)\n–窩打老道(往公主道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-11-15T20:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106534",
-                "CONTENT_EN": "The following road sections are still busy:\nHong Kong Island\n– Gloucester Road, Harcourt Road, Connaught Road Central flyover (Sai Wan bound)\nCitizens please take note KMB's service travelling via Gloucester Road, Harcourt Road and Connaught Road Central flyover have been affected, citizens please consider using other public transport services, such as MTR services. \nKowloon\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n\nTraffic at the following road sections have resumed normal:\nKowloon\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Waterloo Road (Princess Margaret Road bound)\nNew Territories\n– Tolo Highway (Sheung Shui bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n香港島\n–告士打道、夏慤道、干諾道中天橋(往西環方向)\n市民請留意九巴途經告士打道、夏慤道及干諾道中天橋的服務會受影響，市民請考慮使用其他公共交通服務，例如港鐵服務。\n九龍\n–東九龍走廊(往尖沙咀方向)\n\n以下路段的交通現已恢復正常:-\n九龍\n–觀塘繞道(往大老山隧道方向)\n–窩打老道(往公主道方向)\n新界\n–吐露港公路(往上水方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-11-15T20:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106538",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\nHong Kong Island\n– Gloucester Road, Harcourt Road, Connaught Road Central flyover (Sai Wan bound)\nService of KMB travelling via Gloucester Road, Harcourt Road and Connaught Road Central flyover has gradually resumed normal. \nKowloon\n– East Kowloon Corridor (Tsim Sha Tsui bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n香港島\n–告士打道、夏慤道、干諾道中天橋(往西環方向)\n較早前途經告士打道、夏慤道及干諾道中天橋的九巴服務已陸續回復正常。\n九龍\n–東九龍走廊(往尖沙咀方向)。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-11-15T21:13:03",
-        "last_announcement": "2024-11-15T20:40:00"
-    },
     "IN-24-06695": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1760,5 +1700,37 @@
         "district": "觀塘區",
         "last_update": "2024-11-18T20:45:16",
         "last_announcement": "2024-11-18T20:03:00"
+    },
+    "IN-24-06737": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "San Hui Market",
+            "NEAR_LANDMARK_CN": "新墟街市",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-18T20:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106638",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Yuen Long bound) near San Hui Market is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往元朗方向)近新墟街市的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-11-18T21:16:28",
+        "last_announcement": "2024-11-18T20:51:00"
     }
 }
