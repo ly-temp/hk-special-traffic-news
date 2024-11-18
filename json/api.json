@@ -1,114 +1,4 @@
 {
-    "IN-24-06676": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Provident Centre",
-            "NEAR_LANDMARK_CN": "和富中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-15T15:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106489",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近和富中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-15T17:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106505",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Provident Centre which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近和富中心的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-11-15T17:25:13",
-        "last_announcement": "2024-11-15T17:04:00"
-    },
-    "IN-24-06679": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Baker Street",
-            "NEAR_LANDMARK_CN": "必嘉街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-15T16:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106497",
-                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Chatham Road North (Tsim Sha Tsui bound) near Baker Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，漆咸道北(往尖沙咀方向)近必嘉街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-15T16:50:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106501",
-                "CONTENT_EN": "The fast lane of Chatham Road North (Tsim Sha Tsui bound) near Baker Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的漆咸道北(往尖沙咀方向)近必嘉街的快線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-11-15T17:25:13",
-        "last_announcement": "2024-11-15T16:50:00"
-    },
-    "IN-24-06681": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Eastern Harbour Crossing",
-            "LOCATION_CN": "東區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-15T16:50:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106502",
-                "CONTENT_EN": "The tunnel tube slow lane of Eastern Harbour Crossing (Hong Kong Island bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區海底隧道(往香港島方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-11-15T17:25:13",
-        "last_announcement": "2024-11-15T16:50:00"
-    },
     "IN-24-06682": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2018,10 +1908,56 @@
                 "ID": "106618",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Yuen Long bound) near Chau Tau Tsuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，粉嶺公路(往元朗方向)近洲頭村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-18T17:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106621",
+                "CONTENT_EN": "Part of the lanes of Fanling Highway (Yuen Long bound) near Chau Tau Tsuen which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往元朗方向)近洲頭村的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-11-18T17:14:26",
-        "last_announcement": "2024-11-18T16:59:00"
+        "last_update": "2024-11-18T17:34:13",
+        "last_announcement": "2024-11-18T17:15:00"
+    },
+    "IN-24-06731": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kowloon City Road",
+            "LOCATION_CN": "九龍城道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sung Wong Toi Road",
+            "DIRECTION_CN": "宋皇臺道",
+            "NEAR_LANDMARK_EN": "Ma Tau Kok Road",
+            "NEAR_LANDMARK_CN": "馬頭角道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-18T17:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106619",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kowloon City Road (Sung Wong Toi Road bound) near Ma Tau Kok Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，九龍城道(往宋皇臺道方向)近馬頭角道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-18T17:21:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106622",
+                "CONTENT_EN": "Part of the lanes of Kowloon City Road (Sung Wong Toi Road bound) near Ma Tau Kok Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的九龍城道(往宋皇臺道方向)近馬頭角道的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-11-18T17:34:13",
+        "last_announcement": "2024-11-18T17:21:00"
     }
 }
