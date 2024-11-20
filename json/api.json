@@ -2570,11 +2570,18 @@
                 "ID": "106744",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Wai Yip Street Flyover (Kwun Tong bound) near Kai Tai Court is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Wai Yip Street Flyover (Kwun Tong bound) ends at Lung Cheung Court near Diamond Hill MTR Station. Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，偉業街天橋(往觀塘方向)近啓泰苑的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在偉業街天橋(往觀塘方向)的車龍龍尾已到龍翔苑近鑽石山港鐵站。 現時上址交通擠塞。"
+            },
+            "2024-11-20T17:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106750",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Wai Yip Street Flyover (Kwun Tong bound) near Kai Tai Court is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Wai Yip Street Flyover (Kwun Tong bound) ends at Lung Cheung Road near Wong Tai Sin MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，偉業街天橋(往觀塘方向)近啓泰苑的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在偉業街天橋(往觀塘方向)的車龍龍尾已到龍翔道近黃大仙港鐵站。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-11-20T17:13:50",
-        "last_announcement": "2024-11-20T16:47:00"
+        "last_update": "2024-11-20T17:53:23",
+        "last_announcement": "2024-11-20T17:43:00"
     },
     "IN-24-06779": {
         "description": {
@@ -2602,10 +2609,17 @@
                 "ID": "106746",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Tuen Mun Road (Tuen Mun bound) near Sham Tseng East Village is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井東村的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-20T17:29:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106748",
+                "CONTENT_EN": "The fast lane of Tuen Mun Road (Tuen Mun bound) near Sham Tseng East Village which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近深井東村的快線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-11-20T17:32:12",
-        "last_announcement": "2024-11-20T17:19:00"
+        "last_update": "2024-11-20T17:53:23",
+        "last_announcement": "2024-11-20T17:29:00"
     }
 }
