@@ -2226,11 +2226,18 @@
                 "ID": "106747",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of West Kowloon Highway (Kwai Chung bound) near Hoi Lai Estate are still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on West Kowloon Highway (Kwai Chung bound) ends at West Kowloon Highway near Olympic MTR Station. Traffic is congested now.",
                 "CONTENT_CN": "因緊急路面維修，西九龍公路(往葵涌方向)近海麗邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在西九龍公路(往葵涌方向)的車龍龍尾已到西九龍公路近奧運港鐵站。 現時上址交通擠塞。"
+            },
+            "2024-11-21T02:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106778",
+                "CONTENT_EN": "Part of the lanes of West Kowloon Highway (Kwai Chung bound) near Hoi Lai Estate which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的西九龍公路(往葵涌方向)近海麗邨的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-11-20T17:43:19",
-        "last_announcement": "2024-11-20T17:28:00"
+        "last_update": "2024-11-21T02:21:19",
+        "last_announcement": "2024-11-21T02:00:00"
     },
     "IN-24-06771": {
         "description": {
@@ -2981,10 +2988,17 @@
                 "ID": "106776",
                 "CONTENT_EN": "Due to vehicle on fire , all lanes of Tai Lam Tunnel (Kowloon bound) are closed to all traffic. At the same time, part of the lanes of Tai Lam Tunnel (Yuen Long bound) is closed. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因車輛着火，大欖隧道(往九龍方向)的全線現已封閉。 同時，大欖隧道往元朗方向的部分行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-11-21T01:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106777",
+                "CONTENT_EN": "The vehicle on fire incident on Tai Lam Tunnel is handled. The scheduled one-tube-two-way arrangement on Tai Lam Tunnel will continue to implement this midnight.",
+                "CONTENT_CN": "大欖隧道的車輛着火事故已完成處理。預定於午夜在大欖隧道的單管雙程行車安排會繼續實施。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-11-21T01:18:03",
-        "last_announcement": "2024-11-21T00:47:00"
+        "last_update": "2024-11-21T02:21:19",
+        "last_announcement": "2024-11-21T01:52:00"
     }
 }
