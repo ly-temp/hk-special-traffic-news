@@ -2708,10 +2708,81 @@
                 "ID": "106757",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of East Kowloon Corridor (Kwun Tong bound) near San Lau Street is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on East Kowloon Corridor (Kwun Tong bound) ends at Gascoigne Road Flyover near Prosperous Garden. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，東九龍走廊(往觀塘方向)近新柳街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東九龍走廊(往觀塘方向)的車龍龍尾已到加士居道天橋近駿發花園。 現時上址交通擠塞。"
+            },
+            "2024-11-20T19:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106761",
+                "CONTENT_EN": "Part of the lanes of East Kowloon Corridor (Kwun Tong bound) near San Lau Street which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東九龍走廊(往觀塘方向)近新柳街的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-11-20T18:49:35",
-        "last_announcement": "2024-11-20T18:40:00"
+        "last_update": "2024-11-20T19:19:56",
+        "last_announcement": "2024-11-20T19:05:00"
+    },
+    "IN-24-06784": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Tung Shing Lei",
+            "NEAR_LANDMARK_CN": "東成里",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-20T18:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106759",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Tung Shing Lei is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，元朗公路(往屯門方向)近東成里的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-11-20T19:19:56",
+        "last_announcement": "2024-11-20T18:53:00"
+    },
+    "IN-24-06785": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lantau Link (Kap Shui Mun Bridge)",
+            "LOCATION_CN": "青嶼幹線(汲水門大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-20T19:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106760",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Kap Shui Mun Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(汲水門大橋)(往九龍方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-11-20T19:19:56",
+        "last_announcement": "2024-11-20T19:01:00"
     }
 }
