@@ -2925,5 +2925,37 @@
         "district": "屯門區",
         "last_update": "2024-11-22T06:54:06",
         "last_announcement": "2024-11-22T06:36:00"
+    },
+    "IN-24-06811": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "vessel mechanical defects",
+            "INCIDENT_DETAIL_CN": "船隻機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-22T07:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106837",
+                "CONTENT_EN": "Due to vessel mechanical defects, the following ferry service will be or have been suspended. \nFortune Ferry Company Limited\n- From North Point: 07:00, 07:30, 08:00, 08:30\n- From Kwun Tong: 07:15, 07:45, 08:15, 08:45.",
+                "CONTENT_CN": "因船隻機件故障，以下渡輪服務將會或已經暫停服務。\n富裕小輪有限公司\n-北⾓開出:07:00,07:30,08:00,08:30\n-觀塘開出:07:15,07:45,08:15,08:45。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-11-22T07:51:35",
+        "last_announcement": "2024-11-22T07:32:00"
     }
 }
