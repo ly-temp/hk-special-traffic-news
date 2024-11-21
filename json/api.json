@@ -1,107 +1,4 @@
 {
-    "IN-24-06718": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Texaco Road Flyover",
-            "LOCATION_CN": "德士古道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsing Yi",
-            "DIRECTION_CN": "青衣",
-            "NEAR_LANDMARK_EN": "Tai Wo Hau Road",
-            "NEAR_LANDMARK_CN": "大窩口道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-18T08:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106597",
-                "CONTENT_EN": "The only lane of Texaco Road Flyover (Tsing Yi bound) near Tai Wo Hau Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的德士古道天橋(往青衣方向)近大窩口道的唯一行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-11-18T09:37:47",
-        "last_announcement": "2024-11-18T08:26:00"
-    },
-    "IN-24-06719": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Kowloon Hospital",
-            "NEAR_LANDMARK_CN": "九龍醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-18T08:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106598",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Kowloon Hospital which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往尖沙咀方向)近九龍醫院的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-11-18T09:37:47",
-        "last_announcement": "2024-11-18T08:49:00"
-    },
-    "IN-24-06720": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsim Sha Tsui",
-            "DIRECTION_CN": "尖沙咀",
-            "NEAR_LANDMARK_EN": "Fat Kwong Street",
-            "NEAR_LANDMARK_CN": "佛光街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-18T09:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106599",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Fat Kwong Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往尖沙咀方向)近佛光街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-18T09:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106600",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Tsim Sha Tsui bound) near Fat Kwong Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往尖沙咀方向)近佛光街的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-11-18T09:37:47",
-        "last_announcement": "2024-11-18T09:14:00"
-    },
     "IN-24-06721": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2942,11 +2839,18 @@
                 "ID": "106780",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Chung Wa Road  near Pui Shing Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，重華路近培成路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-21T08:46:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106788",
+                "CONTENT_EN": "Part of the lanes of Chung Wa Road  near Pui Shing Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的重華路近培成路的部份行車線現已解封。"
             }
         },
         "district": "西貢區",
-        "last_update": "2024-11-21T08:42:25",
-        "last_announcement": "2024-11-21T08:00:00"
+        "last_update": "2024-11-21T10:12:35",
+        "last_announcement": "2024-11-21T08:46:00"
     },
     "IN-24-06792": {
         "description": {
@@ -2974,10 +2878,166 @@
                 "ID": "106781",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road flyover (Tsim Sha Tsui bound) near St. George Apartments is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道天橋(往尖沙咀方向)近聖佐治大廈的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-21T08:34:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106786",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road flyover (Tsim Sha Tsui bound) near St. George Apartments which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道天橋(往尖沙咀方向)近聖佐治大廈的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-11-21T08:42:25",
-        "last_announcement": "2024-11-21T08:06:00"
+        "last_update": "2024-11-21T10:12:35",
+        "last_announcement": "2024-11-21T08:34:00"
+    },
+    "IN-24-06794": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tuen Mun Road Bus-Bus Interchange",
+            "NEAR_LANDMARK_CN": "屯門公路巴士轉乘站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-21T08:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106787",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Mun Road Bus-Bus Interchange is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Sam Shing Estate. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近屯門公路巴士轉乘站的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近三聖邨。 現時上址交通擠塞。"
+            },
+            "2024-11-21T09:36:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106794",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Mun Road Bus-Bus Interchange which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近屯門公路巴士轉乘站的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-11-21T10:12:35",
+        "last_announcement": "2024-11-21T09:36:00"
+    },
+    "IN-24-06795": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lei Yue Mun Road",
+            "LOCATION_CN": "鯉魚門道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Cha Kwo Ling Road",
+            "NEAR_LANDMARK_CN": "茶果嶺道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-21T08:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106790",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lei Yue Mun Road (Mong Kok bound) near Cha Kwo Ling Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，鯉魚門道(往旺角方向)近茶果嶺道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-21T08:56:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106791",
+                "CONTENT_EN": "Part of the lanes of Lei Yue Mun Road (Mong Kok bound) near Cha Kwo Ling Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的鯉魚門道(往旺角方向)近茶果嶺道的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-11-21T10:12:35",
+        "last_announcement": "2024-11-21T08:56:00"
+    },
+    "IN-24-06793": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hung Mui Kuk Road",
+            "LOCATION_CN": "紅梅谷路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Che Kung Miu Road",
+            "DIRECTION_CN": "車公廟路",
+            "NEAR_LANDMARK_EN": "Lung Hang Estate",
+            "NEAR_LANDMARK_CN": "隆亨邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-21T09:17:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106792",
+                "CONTENT_EN": "Part of the lanes of Hung Mui Kuk Road (Che Kung Miu Road bound) near Lung Hang Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的紅梅谷路(往車公廟路方向)近隆亨邨的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-11-21T10:12:35",
+        "last_announcement": "2024-11-21T09:17:00"
+    },
+    "IN-24-06796": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Kwong Fuk Park",
+            "NEAR_LANDMARK_CN": "廣福公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-21T09:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106795",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Sheung Shui bound) near Kwong Fuk Park is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tolo Highway (Sheung Shui bound) ends at Tolo Highway near Tai Po Kau San Wai. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，吐露港公路(往上水方向)近廣福公園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在吐露港公路(往上水方向)的車龍龍尾已到吐露港公路近大埔滘新圍。 現時上址交通擠塞。"
+            },
+            "2024-11-21T09:53:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106796",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Sheung Shui bound) near Kwong Fuk Park which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往上水方向)近廣福公園的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-11-21T10:12:35",
+        "last_announcement": "2024-11-21T09:53:00"
     }
 }
