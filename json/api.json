@@ -2924,11 +2924,18 @@
                 "ID": "106812",
                 "CONTENT_EN": "Due to traffic accident happened earlier , all lanes of Sing Woo Road (both bounds) near Happy Valley Police Station is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因較早前交通意外，成和道(來回方向)近跑馬地警署的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-11-21T17:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106817",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Sing Woo Road near Happy Valley Police Station due to traffic accident happened earlier is now cancelled.",
+                "CONTENT_CN": "較早前因較早前交通意外而於成和道近跑馬地警署實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-11-21T17:25:17",
-        "last_announcement": "2024-11-21T17:08:00"
+        "last_update": "2024-11-21T17:59:49",
+        "last_announcement": "2024-11-21T17:41:00"
     },
     "IN-24-06802": {
         "description": {
@@ -3007,5 +3014,37 @@
         "district": "北區",
         "last_update": "2024-11-21T17:49:40",
         "last_announcement": "2024-11-21T17:28:00"
+    },
+    "IN-24-06804": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lei Yue Mun Road",
+            "LOCATION_CN": "鯉魚門道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Tsui Ping Road",
+            "NEAR_LANDMARK_CN": "翠屏道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-21T17:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106818",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lei Yue Mun Road (Mong Kok bound) near Tsui Ping Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，鯉魚門道(往旺角方向)近翠屏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-11-21T17:59:49",
+        "last_announcement": "2024-11-21T17:46:00"
     }
 }
