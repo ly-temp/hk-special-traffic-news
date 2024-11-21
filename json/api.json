@@ -38,45 +38,6 @@
         "last_update": "2024-11-18T20:45:16",
         "last_announcement": "2024-11-18T20:25:00"
     },
-    "IN-24-06733": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "San Hui",
-            "NEAR_LANDMARK_CN": "新墟",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-18T18:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106630",
-                "CONTENT_EN": "Tuen Mun Road (Yuen Long bound) near San Hui is still busy. Traffic queue on Tuen Mun Road (Yuen Long bound) ends at Tuen Mun Road near Sam Shing. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "屯門公路(往元朗方向)近新墟的交通仍然繁忙。 現時在屯門公路(往元朗方向)的車龍龍尾已到屯門公路近三聖。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2024-11-18T19:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106635",
-                "CONTENT_EN": "Traffic at Tuen Mun Road (Yuen Long bound) near San Hui has resumed normal.",
-                "CONTENT_CN": "屯門公路(往元朗方向)近新墟的交通現已恢復正常。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2024-11-18T19:36:59",
-        "last_announcement": "2024-11-18T19:18:00"
-    },
     "IN-24-06736": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
