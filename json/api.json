@@ -38,45 +38,6 @@
         "last_update": "2024-11-20T11:04:26",
         "last_announcement": "2024-11-20T08:40:00"
     },
-    "IN-24-06760": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lei Yue Mun Road",
-            "LOCATION_CN": "鯉魚門道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Tsui Ping Road",
-            "NEAR_LANDMARK_CN": "翠屏道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-20T07:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106692",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lei Yue Mun Road (Yau Tong bound) near Tsui Ping Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，鯉魚門道(往油塘方向)近翠屏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-20T07:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106693",
-                "CONTENT_EN": "Part of the lanes of Lei Yue Mun Road (Yau Tong bound) near Tsui Ping Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的鯉魚門道(往油塘方向)近翠屏道的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-11-20T07:41:23",
-        "last_announcement": "2024-11-20T07:31:00"
-    },
     "IN-24-06761": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2158,11 +2119,18 @@
                 "ID": "106836",
                 "CONTENT_EN": "Due to watermain burst, all lanes of the section of Tuen Mun Heung Sze Wui Road (Yuen Long bound) between Pui To Road and Yan Ching Street are closed to all traffic. \nBesides, part of the lanes of the junction of Tuen Mun Heung Sze Wui Road and Pui To Road is also closed to all traffic.   Affected bus routes nos. 62X, A33X, K51 and K51A have been diverted.   Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，屯門鄉事會路(往元朗方向)介乎杯渡路與仁政街之間的一段全線現已封閉。\n此外，屯門鄉事會路和杯渡路交界的部分行車線亦現已封閉。  受影響巴士第62X、A33X、K51及K51A號線須改道行駛。  現時上址交通繁忙。"
+            },
+            "2024-11-23T07:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106892",
+                "CONTENT_EN": "All lanes of the section of Tuen Mun Heung Sze Wui Road (Yuen Long bound) between Pui To Road and Yan Ching Street which was closed due to watermain burst is re-opened to all traffic. \nBesides, part of the lanes of the junction of Tuen Mun Heung Sze Wui Road and Pui To Road which as closed is also re-opened to all traffic.   Affected bus routes have resumed their original routeings.",
+                "CONTENT_CN": "較早前因水管爆裂而封閉的屯門鄉事會路(往元朗方向)介乎杯渡路與仁政街之間的一段全線現已解封。\n此外，較早前封閉的屯門鄉事會路和杯渡路交界的部分行車線亦現已解封。  受影響巴⼠路線現已恢復原有路線⾏駛。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-11-22T06:54:06",
-        "last_announcement": "2024-11-22T06:36:00"
+        "last_update": "2024-11-23T07:43:16",
+        "last_announcement": "2024-11-23T07:31:00"
     },
     "IN-24-06811": {
         "description": {
