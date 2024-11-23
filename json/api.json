@@ -45,59 +45,6 @@
         "last_update": "2024-11-21T02:21:19",
         "last_announcement": "2024-11-21T02:00:00"
     },
-    "IN-24-06778": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Wai Yip Street Flyover",
-            "LOCATION_CN": "偉業街天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Kai Tai Court",
-            "NEAR_LANDMARK_CN": "啓泰苑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-20T16:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106743",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Wai Yip Street Flyover (Kwun Tong bound) near Kai Tai Court is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，偉業街天橋(往觀塘方向)近啓泰苑的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-20T16:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106744",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Wai Yip Street Flyover (Kwun Tong bound) near Kai Tai Court is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Wai Yip Street Flyover (Kwun Tong bound) ends at Lung Cheung Court near Diamond Hill MTR Station. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，偉業街天橋(往觀塘方向)近啓泰苑的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在偉業街天橋(往觀塘方向)的車龍龍尾已到龍翔苑近鑽石山港鐵站。 現時上址交通擠塞。"
-            },
-            "2024-11-20T17:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106750",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Wai Yip Street Flyover (Kwun Tong bound) near Kai Tai Court is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Wai Yip Street Flyover (Kwun Tong bound) ends at Lung Cheung Road near Wong Tai Sin MTR Station. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，偉業街天橋(往觀塘方向)近啓泰苑的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在偉業街天橋(往觀塘方向)的車龍龍尾已到龍翔道近黃大仙港鐵站。 現時上址交通擠塞。"
-            },
-            "2024-11-20T17:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106752",
-                "CONTENT_EN": "The slow lane of Wai Yip Street Flyover (Kwun Tong bound) near Kai Tai Court which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的偉業街天橋(往觀塘方向)近啓泰苑的慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-11-20T18:14:17",
-        "last_announcement": "2024-11-20T17:59:00"
-    },
     "IN-24-06781": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
