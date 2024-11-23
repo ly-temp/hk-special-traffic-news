@@ -2141,5 +2141,37 @@
         "district": "黃大仙區",
         "last_update": "2024-11-23T17:26:31",
         "last_announcement": "2024-11-23T17:10:00"
+    },
+    "IN-24-06836": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Ting Kau Beach",
+            "NEAR_LANDMARK_CN": "汀九灣泳灘",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-23T21:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106908",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Ting Kau Beach is closed to all traffic. At the same time, part of the lanes of the slip road leading from Ting Kau Bridge to Tuen Mun Road (Tuen Mun bound) is also closed. Only remaining lanes is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近汀九灣泳灘的部份行車線現已封閉。 同時，汀九橋支路通往屯門公路(屯門方向)的部分行車線亦已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-11-23T21:50:43",
+        "last_announcement": "2024-11-23T21:32:00"
     }
 }
