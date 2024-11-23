@@ -2448,11 +2448,18 @@
                 "ID": "106903",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (Shau Kei Wan bound) near Quarry Bay Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，東區走廊(往筲箕灣方向)近鰂魚涌公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-23T16:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106906",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Shau Kei Wan bound) near Quarry Bay Park which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往筲箕灣方向)近鰂魚涌公園的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-11-23T16:41:05",
-        "last_announcement": "2024-11-23T16:22:00"
+        "last_update": "2024-11-23T16:51:07",
+        "last_announcement": "2024-11-23T16:41:00"
     },
     "IN-24-06835": {
         "description": {
@@ -2480,10 +2487,17 @@
                 "ID": "106904",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-23T16:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106905",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lung Cheung Road Park is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Kwun Tong Road near Kai Yip Estate. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，龍翔道(往荃灣方向)近龍翔道公園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到觀塘道近啟業邨。 現時上址交通擠塞。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-11-23T16:41:05",
-        "last_announcement": "2024-11-23T16:29:00"
+        "last_update": "2024-11-23T16:51:07",
+        "last_announcement": "2024-11-23T16:33:00"
     }
 }
