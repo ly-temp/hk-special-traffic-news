@@ -1754,5 +1754,37 @@
         "district": null,
         "last_update": "2024-11-24T13:11:32",
         "last_announcement": "2024-11-24T12:57:00"
+    },
+    "IN-24-06840": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Car parks at West Kowloon Cultural District full",
+            "INCIDENT_DETAIL_CN": "西九文化區車位已泊滿",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-24T15:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106925",
+                "CONTENT_EN": "All car parks at West Kowloon Cultural District are full. Members of the public are encouraged to take public transport to the West Kowloon Cultural District.",
+                "CONTENT_CN": "西九⽂化區內所有停⾞場現已泊滿⾞輛，前往西九⽂化區⼀帶的市⺠請使⽤公共交通⼯具。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-11-24T15:26:00",
+        "last_announcement": "2024-11-24T15:14:00"
     }
 }
