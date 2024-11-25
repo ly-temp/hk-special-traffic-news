@@ -183,45 +183,6 @@
         "last_update": "2024-11-23T03:14:59",
         "last_announcement": "2024-11-23T02:54:00"
     },
-    "IN-24-06829": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Eastern Harbour Crossing",
-            "LOCATION_CN": "東區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-23T01:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106884",
-                "CONTENT_EN": "Due to traffic accident, the tunnel tube of Eastern Harbour Crossing with one-tube-two-way arrangement is now implementing one-lane-two-way traffic arrangement. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區海底隧道現實施單管雙程的管道，正實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2024-11-23T01:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106885",
-                "CONTENT_EN": "The traffic accident happened earlier at Eastern Harbour Crossing is handled. The traffic arrangement at the tunnel tube of Eastern Harbour Crossing with one-tube-two-way being implemented, has resumed from one-lane-two-way to two-lane-two-way.",
-                "CONTENT_CN": "較早前於東區海底隧道的交通意外已完成處理。於東區海底隧道實施單管雙程的管道，行車措施已由單線雙程恢復為雙線雙程。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-11-23T01:56:22",
-        "last_announcement": "2024-11-23T01:40:00"
-    },
     "IN-24-06830": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
