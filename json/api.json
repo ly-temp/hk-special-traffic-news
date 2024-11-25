@@ -151,66 +151,6 @@
         "last_update": "2024-11-22T20:48:16",
         "last_announcement": "2024-11-22T20:21:00"
     },
-    "IN-24-06824": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Chuk Yuen Road",
-            "NEAR_LANDMARK_CN": "竹園道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-22T18:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106868",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近竹園道的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-22T18:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106869",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Hammer Hill Road. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近竹園道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到龍翔道近斧山道。 現時上址交通擠塞。"
-            },
-            "2024-11-22T18:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106872",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Kwun Tong Road near Kowloon Bay MTR Station. Traffic is very congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近竹園道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到觀塘道近九龍灣港鐵站。 現時上址交通非常擠塞。"
-            },
-            "2024-11-22T19:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106874",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Kwun Tong Road near Kowloon Bay MTR Station. Motorists are advised to use alternative routes such as Prince Edward Road East. Traffic is very congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近竹園道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到觀塘道近九龍灣港鐵站。 駕駛人士請考慮改用其他道路，例如太子道東。 現時上址交通非常擠塞。"
-            },
-            "2024-11-22T19:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106875",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近竹園道的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-11-22T19:38:42",
-        "last_announcement": "2024-11-22T19:22:00"
-    },
     "IN-24-06825": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1491,10 +1431,17 @@
                 "ID": "106957",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Pok Oi Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近博愛醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-25T19:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106958",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Pok Oi Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往上水方向)近博愛醫院的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-11-25T19:31:15",
-        "last_announcement": "2024-11-25T19:18:00"
+        "last_update": "2024-11-25T19:41:17",
+        "last_announcement": "2024-11-25T19:24:00"
     }
 }
