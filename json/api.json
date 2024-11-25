@@ -1318,10 +1318,49 @@
                 "ID": "106965",
                 "CONTENT_EN": "Due to emergency repairing works , the only lane of Wo Kwai Lane (Kwai Chung Road bound) near Wo Tong Tsui Street is closed to all traffic.",
                 "CONTENT_CN": "因緊急維修，禾葵里(往葵涌道方向)近禾塘咀街的唯一行車線現已封閉。"
+            },
+            "2024-11-26T06:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106967",
+                "CONTENT_EN": "The only lane of Wo Kwai Lane (Kwai Chung Road bound) near Wo Tong Tsui Street which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的禾葵里(往葵涌道方向)近禾塘咀街的唯一行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-11-25T23:26:27",
-        "last_announcement": "2024-11-25T23:04:00"
+        "last_update": "2024-11-26T06:31:58",
+        "last_announcement": "2024-11-26T06:09:00"
+    },
+    "IN-24-06861": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Sheung Yee Road",
+            "LOCATION_CN": "常怡道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wai Yip Street",
+            "DIRECTION_CN": "偉業街",
+            "NEAR_LANDMARK_EN": "Hong Kong Police Force Kowloon Bay Vehicle Detention And Examination Centre",
+            "NEAR_LANDMARK_CN": "香港警務處九龍灣車輛扣留及驗車中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-26T06:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106968",
+                "CONTENT_EN": "Due to watermain works , the lane no. 3 of Sheung Yee Road (Wai Yip Street bound) near Hong Kong Police Force Kowloon Bay Vehicle Detention And Examination Centre is closed to all traffic. \nOnly remaining lanes is available to motorists.",
+                "CONTENT_CN": "因水管維修，常怡道(往偉業街方向)近香港警務處九龍灣車輛扣留及驗車中心的第3線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-11-26T06:31:58",
+        "last_announcement": "2024-11-26T06:17:00"
     }
 }
