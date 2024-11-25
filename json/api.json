@@ -91,130 +91,6 @@
         "last_update": "2024-11-22T11:06:15",
         "last_announcement": "2024-11-22T10:44:00"
     },
-    "IN-24-06812": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Garden Road",
-            "LOCATION_CN": "花園道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Downhill bound",
-            "DIRECTION_CN": "下山方向",
-            "NEAR_LANDMARK_EN": "Lower Albert Road",
-            "NEAR_LANDMARK_CN": "下亞厘畢道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-22T07:42:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106839",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Garden Road (downhill bound) near Lower Albert Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，花園道(下山方向)近下亞厘畢道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-22T07:48:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106840",
-                "CONTENT_EN": "Part of the lanes of Garden Road (downhill bound) near Lower Albert Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的花園道(下山方向)近下亞厘畢道的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2024-11-22T08:48:57",
-        "last_announcement": "2024-11-22T07:48:00"
-    },
-    "IN-24-06813": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Shek Pai Wan Road",
-            "LOCATION_CN": "石排灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Tunnel",
-            "DIRECTION_CN": "香港仔隧道",
-            "NEAR_LANDMARK_EN": "Tin Wan Street",
-            "NEAR_LANDMARK_CN": "田灣街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-22T07:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106841",
-                "CONTENT_EN": "Due to fire , part of the lanes of Shek Pai Wan Road (Aberdeen Tunnel bound) near Tin Wan Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因火警，石排灣道(往香港仔隧道方向)近田灣街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-22T08:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106844",
-                "CONTENT_EN": "Part of the lanes of Shek Pai Wan Road (Aberdeen Tunnel bound) near Tin Wan Street which was closed due to fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因火警而封閉的石排灣道(往香港仔隧道方向)近田灣街的部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-11-22T08:48:57",
-        "last_announcement": "2024-11-22T08:30:00"
-    },
-    "IN-24-06814": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": "East Rail Line Service Disruption",
-            "LOCATION_CN": "東鐵綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-22T08:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106842",
-                "CONTENT_EN": "Extra travelling time can be expected on the East Rail Line. \nPlease allow more time for travel.",
-                "CONTENT_CN": "東鐵綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
-            },
-            "2024-11-22T08:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106843",
-                "CONTENT_EN": "Due to an equipment fault on a train near University Station, the total journey time on the East Rail Line between Admiralty Station and Lo Wu Station / Lok Ma Chau Station could be extended by 10-15 minutes. Longer waiting times on East Rail Line platforms can be expected. \nPlease allow more time for travel.",
-                "CONTENT_CN": "由於有列車在大學站附近出現設備故障，東鐵綫來往金鐘站及羅湖站/落馬洲站的行車時間預計需要額外10-15分鐘。 現時東鐵綫月台上的乘客較多，候車時間亦會較長。 \n請為行程預留充裕時間。"
-            },
-            "2024-11-22T08:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106845",
-                "CONTENT_EN": "The East Rail Line train which could not be operated near University Station has moved away. Normal train service is gradually resuming.",
-                "CONTENT_CN": "在大學站附近出現故障的列車已駛離行車綫，東鐵綫列車服務逐步回復正常。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-11-22T08:48:57",
-        "last_announcement": "2024-11-22T08:35:00"
-    },
     "IN-24-06815": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1459,11 +1335,18 @@
                 "ID": "106931",
                 "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Victoria Road near Baguio Villa. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，域多利道近碧瑤灣現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2024-11-25T08:02:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106933",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Victoria Road near Baguio Villa due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於域多利道近碧瑤灣實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "南區",
-        "last_update": "2024-11-25T06:55:38",
-        "last_announcement": "2024-11-25T06:42:00"
+        "last_update": "2024-11-25T08:58:43",
+        "last_announcement": "2024-11-25T08:02:00"
     },
     "IN-24-06844": {
         "description": {
@@ -1491,10 +1374,56 @@
                 "ID": "106932",
                 "CONTENT_EN": "Due to traffic accident , the tunnel tube slow lane of Lung Shan Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍山隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-25T08:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106936",
+                "CONTENT_EN": "The tunnel tube slow lane of Lung Shan Tunnel (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍山隧道(往九龍方向)的管道慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-11-25T07:42:11",
-        "last_announcement": "2024-11-25T07:23:00"
+        "last_update": "2024-11-25T08:58:43",
+        "last_announcement": "2024-11-25T08:31:00"
+    },
+    "IN-24-06845": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Chu Road",
+            "LOCATION_CN": "皇珠路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Road",
+            "DIRECTION_CN": "屯門公路",
+            "NEAR_LANDMARK_EN": "On Ting Estate",
+            "NEAR_LANDMARK_CN": "安定邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-25T08:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106934",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chu Road (Tuen Mun Road bound) near On Ting Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，皇珠路(往屯門公路方向)近安定邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-25T08:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106935",
+                "CONTENT_EN": "Part of the lanes of Wong Chu Road (Tuen Mun Road bound) near On Ting Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的皇珠路(往屯門公路方向)近安定邨的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-11-25T08:58:43",
+        "last_announcement": "2024-11-25T08:30:00"
     }
 }
