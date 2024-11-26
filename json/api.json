@@ -98,59 +98,6 @@
         "last_update": "2024-11-23T23:37:54",
         "last_announcement": "2024-11-23T23:19:00"
     },
-    "IN-24-06836": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Ting Kau Beach",
-            "NEAR_LANDMARK_CN": "汀九灣泳灘",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-23T21:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106908",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Ting Kau Beach is closed to all traffic. At the same time, part of the lanes of the slip road leading from Ting Kau Bridge to Tuen Mun Road (Tuen Mun bound) is also closed. Only remaining lanes is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近汀九灣泳灘的部份行車線現已封閉。 同時，汀九橋支路通往屯門公路(屯門方向)的部分行車線亦已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-23T22:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106909",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Ting Kau Beach is still being closed to all traffic. At the same time, part of the lanes of the slip road leading from Ting Kau Bridge to Tuen Mun Road (Tuen Mun bound) is also closed. Only remaining lanes is available to motorists. Traffic queues on Tuen Mun Road (Tuen Mun bound) ends at Tuen Mun Road near Yau Kom Tau and Cheung Tsing Tunnel near Kam Chuk Kok. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近汀九灣泳灘的部份行車線仍然封閉。 同時，汀九橋支路通往屯門公路(屯門方向)的部分行車線亦已封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往屯門方向)的車龍龍尾已到屯門公路近油柑頭及長青隧道近金竹角。 現時上址交通擠塞。"
-            },
-            "2024-11-23T22:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106910",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Ting Kau Beach is still being closed to all traffic. At the same time, part of the lanes of the slip road leading from Ting Kau Bridge to Tuen Mun Road (Tuen Mun bound) is also closed. Only remaining lane is available to motorists. Traffic queues on Tuen Mun Road (Tuen Mun bound) ends at Tsuen Wan Road near Tsuen Wan Park and Cheung Tsing Tunnel near Kam Chuk Kok. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近汀九灣泳灘的部份行車線仍然封閉。 同時，汀九橋支路通往屯門公路(屯門方向)的部分行車線亦已封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往屯門方向)的車龍龍尾已到荃灣路近荃灣公園及長青隧道近金竹角。 現時上址交通擠塞。"
-            },
-            "2024-11-23T22:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "106911",
-                "CONTENT_EN": "The following road sections which were closed due to vehicle breakdown are re-opened to all traffic: - part of the lanes of Tuen Mun Road (Tuen Mun bound) near Ting Kau Beach; and - part of the lanes of the slip road leading from Ting Kau Bridge to Tuen Mun Road (Tuen Mun bound). Traffic queues take time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障已封閉的以下路現已重開: -屯門公路(往屯門方向)近汀九灣泳灘的部份行車線；及 -汀九橋支路通往屯門公路(屯門方向)的部分行車線。 車龍有待消散。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-11-23T23:07:08",
-        "last_announcement": "2024-11-23T22:49:00"
-    },
     "IN-24-06837": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2196,5 +2143,37 @@
         "district": "北區",
         "last_update": "2024-11-26T20:40:57",
         "last_announcement": "2024-11-26T19:47:00"
+    },
+    "IN-24-06893": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Sharp Street East",
+            "LOCATION_CN": "霎東街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Percival Street",
+            "NEAR_LANDMARK_CN": "波斯富街",
+            "BETWEEN_LANDMARK_EN": "Matheson Street",
+            "BETWEEN_LANDMARK_CN": "勿地臣街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-26T22:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107041",
+                "CONTENT_EN": "Due to watermain emergency works , all lanes of Sharp Street East  between Percival Street and Matheson Street are closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管緊急維修，霎東街介乎波斯富街與勿地臣街之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-11-26T23:13:10",
+        "last_announcement": "2024-11-26T22:47:00"
     }
 }
