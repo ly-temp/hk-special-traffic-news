@@ -1733,11 +1733,18 @@
                 "ID": "106995",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Queen's Road East (Admiralty bound) near Kennedy Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，皇后大道東(往金鐘方向)近堅彌地街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-26T14:26:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "106998",
+                "CONTENT_EN": "Part of the lanes of Queen's Road East (Admiralty bound) near Kennedy Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的皇后大道東(往金鐘方向)近堅彌地街的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2024-11-26T14:20:54",
-        "last_announcement": "2024-11-26T13:51:00"
+        "last_update": "2024-11-26T14:54:27",
+        "last_announcement": "2024-11-26T14:26:00"
     },
     "IN-24-06874": {
         "description": {
@@ -1765,10 +1772,17 @@
                 "ID": "106999",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Hom Road (Kwun Tong bound) near Diamond Hill MTR Station is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，大磡道(往觀塘方向)近鑽石山港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-11-26T14:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107000",
+                "CONTENT_EN": "Part of the lanes of Tai Hom Road (Kwun Tong bound) near Diamond Hill MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大磡道(往觀塘方向)近鑽石山港鐵站的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-11-26T14:43:20",
-        "last_announcement": "2024-11-26T14:27:00"
+        "last_update": "2024-11-26T14:54:27",
+        "last_announcement": "2024-11-26T14:42:00"
     }
 }
