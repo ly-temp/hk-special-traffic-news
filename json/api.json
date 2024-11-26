@@ -1925,11 +1925,18 @@
                 "ID": "107029",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Kowloon bound) near Jockey Club Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Fanling Highway (Kowloon bound) ends at Fanling Highway near Kam Tsin Tsuen. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，粉嶺公路(往九龍方向)近馬會道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在粉嶺公路(往九龍方向)的車龍龍尾已到粉嶺公路近金錢村。 現時上址交通擠塞。"
+            },
+            "2024-11-26T18:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107032",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Kowloon bound) near Jockey Club Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Fanling Highway (Kowloon bound) ends at Fanling Highway near Kwu Tung. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往九龍方向)近馬會道的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在粉嶺公路(往九龍方向)的車龍龍尾已到粉嶺公路近古洞。 現時上址交通擠塞。"
             }
         },
         "district": "北區",
-        "last_update": "2024-11-26T18:40:42",
-        "last_announcement": "2024-11-26T18:25:00"
+        "last_update": "2024-11-26T19:08:08",
+        "last_announcement": "2024-11-26T18:48:00"
     },
     "IN-24-06885": {
         "description": {
@@ -2040,5 +2047,37 @@
         "district": "黃大仙區",
         "last_update": "2024-11-26T18:40:42",
         "last_announcement": "2024-11-26T18:23:00"
+    },
+    "IN-24-06887": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lion Rock Tunnel Road",
+            "NEAR_LANDMARK_CN": "獅子山隧道公路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-26T18:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107031",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Lion Rock Tunnel Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近獅子山隧道公路的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-11-26T19:08:08",
+        "last_announcement": "2024-11-26T18:44:00"
     }
 }
