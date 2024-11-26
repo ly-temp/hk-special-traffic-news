@@ -1348,5 +1348,179 @@
         "district": "離島區",
         "last_update": "2024-11-26T07:29:59",
         "last_announcement": "2024-11-26T07:00:00"
+    },
+    "IN-24-06863": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Main Bridge",
+            "LOCATION_CN": "港珠澳大橋主橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-26T07:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106970",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge, with details as shown below: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge are lowered from 100km/h to 50 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge is lowered from 80km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋主橋已實施以下特別交通及運輸安排： (i)港珠澳大橋主橋的快線及中線車速限制由每小時100公里降至每小時50 公里；及 (ii)港珠澳大橋主橋的慢線車速限制由每小時80公里降至每小時50 公里。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2024-11-26T08:49:04",
+        "last_announcement": "2024-11-26T07:45:00"
+    },
+    "IN-24-06864": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Wo Hing Tsuen",
+            "NEAR_LANDMARK_CN": "和興村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-26T07:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106971",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Kowloon bound) near Wo Hing Tsuen is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往九龍方向)近和興村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2024-11-26T08:49:04",
+        "last_announcement": "2024-11-26T07:56:00"
+    },
+    "IN-24-06865": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lei Yue Mun Road",
+            "LOCATION_CN": "鯉魚門道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Cha Kwo Ling Road",
+            "NEAR_LANDMARK_CN": "茶果嶺道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-26T08:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106972",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Lei Yue Mun Road (Mong Kok bound) near Cha Kwo Ling Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，鯉魚門道(往旺角方向)近茶果嶺道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-26T08:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106979",
+                "CONTENT_EN": "The slow lane of Lei Yue Mun Road (Mong Kok bound) near Cha Kwo Ling Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的鯉魚門道(往旺角方向)近茶果嶺道的慢線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-11-26T08:49:04",
+        "last_announcement": "2024-11-26T08:38:00"
+    },
+    "IN-24-06867": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Prince Edward Road East",
+            "LOCATION_CN": "太子道東",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "King Tai Court",
+            "NEAR_LANDMARK_CN": "景泰苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-26T08:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "106974",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Mong Kok bound) near King Tai Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，太子道東(往旺角方向)近景泰苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-26T08:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106978",
+                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Mong Kok bound) near King Tai Court which were closed due to traffic accident are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往旺角方向)近景泰苑的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-11-26T08:49:04",
+        "last_announcement": "2024-11-26T08:29:00"
+    },
+    "IN-24-06866": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Argyle Street",
+            "LOCATION_CN": "亞皆老街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Olympic Garden",
+            "NEAR_LANDMARK_CN": "世運花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-26T08:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "106977",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Argyle Street flyover (Mong Kok bound) near Olympic Garden are still being closed to all traffic. In addition, all traffic lanes of Argyle Street (Kwun Tong bound) are re-opened to all traffic. Motorists are advised to use alternative routes such as Argyle Street (at-grade). Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，亞皆老街天橋(往旺角方向)近世運花園的全線仍然封閉。 另外，亞皆老街(往觀塘方向)的所有行車線現已解封。 駕駛人士請考慮改用其他道路，例如亞皆老街地面行車線。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-11-26T08:49:04",
+        "last_announcement": "2024-11-26T08:23:00"
     }
 }
