@@ -2252,11 +2252,18 @@
                 "ID": "107065",
                 "CONTENT_EN": "Due to fire , all lanes of Cheung Pei Shan Road (Tsuen Kam Interchange bound) near Cheung Shan Estate are still being closed to all traffic. \nPart of the lanes of Cheung Pei Shan Road (Shing Mun Tunnels bound) near Cheung Shan Estate is still being closed to all traffic.   Affected KMB bus routes 49X (Tsing Yi bound), 263 (Tuen Mun/Yuen Long bound), 269D (Tuen Mun/Yuen Long bound) and LWB bus routes E41 and E42 (both bound) have been diverted.   Motorists are advised to use alternative routes such as Wo Yi Hop Road.   Traffic is busy now.",
                 "CONTENT_CN": "因火警，象鼻山路(往荃錦交匯處方向)近象山邨的全線仍然封閉。\n象鼻山路(往城門隧道方向)近象山邨的部份行車線現已封閉。  受影響九巴巴士路線49X (往青衣方向),263 (往屯門/元朗方向),269D (往屯門/元朗方向)和龍運巴士路線E41,E42 (來回方向)須改道行駛。  駕駛人士請考慮改用其他道路，例如和宜合道。  現時上址交通繁忙。"
+            },
+            "2024-11-27T14:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107068",
+                "CONTENT_EN": "Due to fire , all lanes of Cheung Pei Shan Road (Tsuen Kam Interchange bound) near Cheung Shan Estate are still being closed to all traffic. \nPart of the lanes of Cheung Pei Shan Road (Shing Mun Tunnels bound) near Cheung Shan Estate is still being closed to all traffic.   Affected KMB bus routes 49X (Tsing Yi bound), 263 (Tuen Mun/Yuen Long bound), 269D (Tuen Mun/Yuen Long bound) and LWB bus routes E41 and E42 (both bound) have been diverted. \nFor the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   In addition , affected NT GMB routes no. 481, 481A, 481B have been diverted.   Motorists are advised to use alternative routes such as Wo Yi Hop Road.   Traffic is busy now.",
+                "CONTENT_CN": "因火警，象鼻山路(往荃錦交匯處方向)近象山邨的全線仍然封閉。\n象鼻山路(往城門隧道方向)近象山邨的部份行車線現已封閉。  受影響九巴巴士路線49X (往青衣方向),263 (往屯門/元朗方向),269D (往屯門/元朗方向)和龍運巴士路線E41,E42 (來回方向)須改道行駛。\n有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。  此外，受影響新界專線小巴第481,481A 及481B號線須改道行駛。  駕駛人士請考慮改用其他道路，例如和宜合道。  現時上址交通繁忙。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-11-27T12:55:45",
-        "last_announcement": "2024-11-27T12:32:00"
+        "last_update": "2024-11-27T14:50:31",
+        "last_announcement": "2024-11-27T14:30:00"
     },
     "IN-24-06901": {
         "description": {
@@ -2335,5 +2342,37 @@
         "district": "西貢區",
         "last_update": "2024-11-27T13:37:23",
         "last_announcement": "2024-11-27T13:15:00"
+    },
+    "IN-24-06904": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "West Kowloon Highway",
+            "LOCATION_CN": "西九龍公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Western Harbour Crossing",
+            "DIRECTION_CN": "西區海底隧道",
+            "NEAR_LANDMARK_EN": "Olympic Station",
+            "NEAR_LANDMARK_CN": "奧運站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T14:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107067",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Olympic Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西九龍公路(往西區海底隧道方向)近奧運站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2024-11-27T14:50:31",
+        "last_announcement": "2024-11-27T14:30:00"
     }
 }
