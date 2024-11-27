@@ -2383,11 +2383,18 @@
                 "ID": "107059",
                 "CONTENT_EN": "Due to fire , all lanes of Cheung Pei Shan Road (Tsuen Kam Interchange bound) near Cheung Shan Estate are closed to all traffic. Motorists are advised to use alternative routes such as Wo Yi Hop Road. Traffic is busy now.",
                 "CONTENT_CN": "因火警，象鼻山路(往荃錦交匯處方向)近象山邨的全線現已封閉。 駕駛人士請考慮改用其他道路，例如和宜合道。 現時上址交通繁忙。"
+            },
+            "2024-11-27T12:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107064",
+                "CONTENT_EN": "Due to fire , all lanes of Cheung Pei Shan Road (Tsuen Kam Interchange bound) near Cheung Shan Estate are still being closed to all traffic. \nPart of the lanes of Cheung Pei Shan Road (Shing Mun Tunnels bound) near Cheung Shan Estate is still being closed to all traffic.   Affected bus routes have been diverted.   Motorists are advised to use alternative routes such as Wo Yi Hop Road.   Traffic is busy now.",
+                "CONTENT_CN": "因火警，象鼻山路(往荃錦交匯處方向)近象山邨的全線仍然封閉。\n象鼻山路(往城門隧道方向)近象山邨的部份行車線現已封閉。  受影響巴士路線須改道行駛。  駕駛人士請考慮改用其他道路，例如和宜合道。  現時上址交通繁忙。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-11-27T11:46:38",
-        "last_announcement": "2024-11-27T11:25:00"
+        "last_update": "2024-11-27T12:27:17",
+        "last_announcement": "2024-11-27T12:07:00"
     },
     "IN-24-06901": {
         "description": {
@@ -2427,5 +2434,37 @@
         "district": "黃大仙區",
         "last_update": "2024-11-27T11:57:35",
         "last_announcement": "2024-11-27T11:40:00"
+    },
+    "IN-24-06903": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Wan Po Road",
+            "LOCATION_CN": "環保大道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O Tunnel",
+            "DIRECTION_CN": "將軍澳隧道",
+            "NEAR_LANDMARK_EN": "Pung Loi Avenue",
+            "NEAR_LANDMARK_CN": "蓬萊徑",
+            "BETWEEN_LANDMARK_EN": "Pung Loi Road",
+            "BETWEEN_LANDMARK_CN": "蓬萊路",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T11:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107063",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Wan Po Road (Tseung Kwan O Tunnel bound) between Pung Loi Avenue and Pung Loi Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，環保大道(往將軍澳隧道方向)介乎蓬萊徑與蓬萊路之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-11-27T12:27:17",
+        "last_announcement": "2024-11-27T11:56:00"
     }
 }
