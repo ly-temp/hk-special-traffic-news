@@ -59,38 +59,6 @@
         "last_update": "2024-11-24T13:43:04",
         "last_announcement": "2024-11-24T13:34:00"
     },
-    "IN-24-06837": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Wo Tong Tsui Street",
-            "LOCATION_CN": "禾塘咀街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Kwai Hing Estate Hing Kok House",
-            "NEAR_LANDMARK_CN": "葵興邨興國樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-24T09:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106915",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of the junction of Wo Tong Tsui Street near Kwai Hing Estate Hing Kok House and Kwai Hing Road is closed to all traffic. \nOnly remaining lane is available to motorists.   At the same time, vehicles cannot make left turning from Wo Tong Tsui Street to Kwai Hing Road.",
-                "CONTENT_CN": "因水管爆裂，禾塘咀街近葵興邨興國樓和葵興路交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  同時，車輛不能由禾塘咀街左轉葵興路。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2024-11-24T10:41:38",
-        "last_announcement": "2024-11-24T09:44:00"
-    },
     "IN-24-06838": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2356,5 +2324,37 @@
         "district": "黃大仙區",
         "last_update": "2024-11-27T10:34:43",
         "last_announcement": "2024-11-27T08:59:00"
+    },
+    "IN-24-06900": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Kai Yip Estate",
+            "NEAR_LANDMARK_CN": "啟業邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T10:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107057",
+                "CONTENT_EN": "Due to emergency repairing works , part of the lanes of Kwun Tong Road (Yau Tong bound) near Kai Yip Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，觀塘道(往油塘方向)近啟業邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-11-27T11:20:51",
+        "last_announcement": "2024-11-27T10:28:00"
     }
 }
