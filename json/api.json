@@ -2356,5 +2356,69 @@
         "district": "觀塘區",
         "last_update": "2024-11-27T11:20:51",
         "last_announcement": "2024-11-27T10:28:00"
+    },
+    "IN-24-06902": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Cheung Pei Shan Road",
+            "LOCATION_CN": "象鼻山路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Kam Interchange",
+            "DIRECTION_CN": "荃錦交匯處",
+            "NEAR_LANDMARK_EN": "Cheung Shan Estate",
+            "NEAR_LANDMARK_CN": "象山邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T11:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107059",
+                "CONTENT_EN": "Due to fire , all lanes of Cheung Pei Shan Road (Tsuen Kam Interchange bound) near Cheung Shan Estate are closed to all traffic. Motorists are advised to use alternative routes such as Wo Yi Hop Road. Traffic is busy now.",
+                "CONTENT_CN": "因火警，象鼻山路(往荃錦交匯處方向)近象山邨的全線現已封閉。 駕駛人士請考慮改用其他道路，例如和宜合道。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-11-27T11:46:38",
+        "last_announcement": "2024-11-27T11:25:00"
+    },
+    "IN-24-06901": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "obstacles on road",
+            "INCIDENT_DETAIL_CN": "路面有障礙物",
+            "LOCATION_EN": "Chuk Yuen Road",
+            "LOCATION_CN": "竹園道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T11:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107061",
+                "CONTENT_EN": "Due to obstacles on road , the only lane of the slip road leading from Chuk Yuen Road  to Lung Cheung Road (Tsuen Wan bound) is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因路面有障礙物，由竹園道通往龍翔道(往荃灣方向) 的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-11-27T11:46:38",
+        "last_announcement": "2024-11-27T11:19:00"
     }
 }
