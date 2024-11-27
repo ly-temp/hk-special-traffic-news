@@ -2143,5 +2143,179 @@
         "district": "灣仔區",
         "last_update": "2024-11-27T06:31:23",
         "last_announcement": "2024-11-27T06:04:00"
+    },
+    "IN-24-06894": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong By-Pass",
+            "LOCATION_CN": "觀塘繞道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tate's Cairn Tunnel",
+            "DIRECTION_CN": "大老山隧道",
+            "NEAR_LANDMARK_EN": "MegaBox",
+            "NEAR_LANDMARK_CN": "MegaBox",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T07:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107043",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong By-Pass (Tate's Cairn Tunnel bound) near MegaBox is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘繞道(往大老山隧道方向)近MegaBox的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-11-27T08:58:27",
+        "last_announcement": "2024-11-27T07:49:00"
+    },
+    "IN-24-06896": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Chu Road",
+            "LOCATION_CN": "皇珠路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun Road",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "On Ting Estate",
+            "NEAR_LANDMARK_CN": "安定邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T07:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107045",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chu Road (Tuen Mun Road bound) near On Ting Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，皇珠路(往屯門方向)近安定邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-11-27T08:58:27",
+        "last_announcement": "2024-11-27T07:54:00"
+    },
+    "IN-24-06895": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Lower Ngau Tau Kok Estate",
+            "NEAR_LANDMARK_CN": "牛頭角下邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T08:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107046",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Lower Ngau Tau Kok Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近牛頭角下邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-11-27T08:58:27",
+        "last_announcement": "2024-11-27T08:05:00"
+    },
+    "IN-24-06897": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Lam Hau Tsuen",
+            "NEAR_LANDMARK_CN": "欖口村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T08:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107047",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Lam Hau Tsuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近欖口村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-27T08:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107050",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Lam Hau Tsuen is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Yuen Long Highway (Sheung Shui bound) ends at Yuen Long Highway near Hung Tin Road. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近欖口村的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在元朗公路(往上水方向)的車龍龍尾已到元朗公路近洪天路。 現時上址交通擠塞。"
+            },
+            "2024-11-27T08:42:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "107052",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Lam Hau Tsuen which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往上水方向)近欖口村的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-11-27T08:58:27",
+        "last_announcement": "2024-11-27T08:42:00"
+    },
+    "IN-24-06898": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Harrow International School Hong Kong",
+            "NEAR_LANDMARK_CN": "哈羅香港國際學校",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-11-27T08:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107051",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Harrow International School Hong Kong is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近哈羅香港國際學校的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2024-11-27T08:58:27",
+        "last_announcement": "2024-11-27T08:41:00"
     }
 }
