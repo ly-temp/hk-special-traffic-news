@@ -38,45 +38,6 @@
         "last_update": "2024-11-28T09:57:34",
         "last_announcement": "2024-11-28T09:26:00"
     },
-    "IN-24-06893": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Sharp Street East",
-            "LOCATION_CN": "霎東街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Percival Street",
-            "NEAR_LANDMARK_CN": "波斯富街",
-            "BETWEEN_LANDMARK_EN": "Matheson Street",
-            "BETWEEN_LANDMARK_CN": "勿地臣街",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-26T22:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107041",
-                "CONTENT_EN": "Due to watermain emergency works , all lanes of Sharp Street East  between Percival Street and Matheson Street are closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因水管緊急維修，霎東街介乎波斯富街與勿地臣街之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2024-11-27T06:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107042",
-                "CONTENT_EN": "All lanes of Sharp Street East  between Percival Street and Matheson Street which were closed due to watermain emergency works are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的霎東街介乎波斯富街與勿地臣街之間的全線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-11-27T06:31:23",
-        "last_announcement": "2024-11-27T06:04:00"
-    },
     "IN-24-06894": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2612,11 +2573,18 @@
                 "ID": "107218",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Tung Tau Tsuen Road (both bounds) between Tung Lung Road and Fung Mo Street are still being closed to all traffic.   At the same time, vehicles cannot make left turning from Tung Tau Tsuen Road (both bounds) to Tung Lung Road.   Affected bus routes have been diverted:\n- KMB bus routes nos. 1, 10, 11K and 2D\n- Cross-harbour route no. 113\nFor the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，東頭村道(來回方向)介乎東隆道與鳳舞街之間的全線仍然封閉。  同時，車輛不能由東頭村道(來回方向)左轉東隆道。  受影響巴⼠路線須改道⾏駛：\n-九巴巴士路線第1、10、11K及2D號線\n-過海巴士路線第113號線\n有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2024-11-30T06:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107222",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Tung Tau Tsuen Road (Ching Tak Street bound) between Tung Lung Road and Fung Mo Street are still being closed to all traffic.   Motorists are advised to use alternative routes.   Affected bus routes have been diverted:\n- KMB bus routes nos. 1, 11K and 2D (Wong Tai Sin bound)\n- Cross-harbour route no. 113 (Choi Hung bound).  For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   In addition, all lanes of Tung Tau Tsuen Road (Junction Road bounds) between Tung Lung Road and Fung Mo Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "因水管爆裂，東頭村道(往正德街方向)介乎東隆道與鳳舞街之間的全線仍然封閉。  駕駛人士請考慮改用其他道路。  受影響巴⼠路線須改道⾏駛：\n-九巴巴士路線第1、11K及2D號線(往黃大仙方向)\n-過海巴士路線第113號線(往彩虹方向)。  有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。  另外，較早前因水管爆裂⽽封閉的東頭村道(往聯合道⽅向)介乎東隆道與鳳舞街之間的全線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-11-29T21:43:35",
-        "last_announcement": "2024-11-29T21:16:00"
+        "last_update": "2024-11-30T06:31:23",
+        "last_announcement": "2024-11-30T06:05:00"
     },
     "IN-24-06960": {
         "description": {
@@ -2676,10 +2644,17 @@
                 "ID": "107220",
                 "CONTENT_EN": "Due to emergency repair of road surface , the one-lane-two-way traffic arrangement is being implemented on Bonham Road near Park Road.",
                 "CONTENT_CN": "因緊急路面維修，般咸道近柏道現已實施單線雙程行車措施。"
+            },
+            "2024-11-30T06:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107221",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Bonham Road near Park Road due to emergency repair of road surface is now cancelled.",
+                "CONTENT_CN": "較早前因緊急路面維修而於般咸道近柏道實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "中西區",
-        "last_update": "2024-11-29T22:34:25",
-        "last_announcement": "2024-11-29T22:16:00"
+        "last_update": "2024-11-30T06:31:23",
+        "last_announcement": "2024-11-30T06:01:00"
     }
 }
