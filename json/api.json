@@ -38,84 +38,6 @@
         "last_update": "2024-11-28T09:57:34",
         "last_announcement": "2024-11-28T09:26:00"
     },
-    "IN-24-06873": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Queen's Road East",
-            "LOCATION_CN": "皇后大道東",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Admiralty",
-            "DIRECTION_CN": "金鐘",
-            "NEAR_LANDMARK_EN": "Kennedy Street",
-            "NEAR_LANDMARK_CN": "堅彌地街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-26T13:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106995",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Queen's Road East (Admiralty bound) near Kennedy Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，皇后大道東(往金鐘方向)近堅彌地街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-26T14:26:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "106998",
-                "CONTENT_EN": "Part of the lanes of Queen's Road East (Admiralty bound) near Kennedy Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的皇后大道東(往金鐘方向)近堅彌地街的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-11-26T14:54:27",
-        "last_announcement": "2024-11-26T14:26:00"
-    },
-    "IN-24-06874": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Hom Road",
-            "LOCATION_CN": "大磡道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Diamond Hill MTR Station",
-            "NEAR_LANDMARK_CN": "鑽石山港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-26T14:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "106999",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Hom Road (Kwun Tong bound) near Diamond Hill MTR Station is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大磡道(往觀塘方向)近鑽石山港鐵站的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2024-11-26T14:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107000",
-                "CONTENT_EN": "Part of the lanes of Tai Hom Road (Kwun Tong bound) near Diamond Hill MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大磡道(往觀塘方向)近鑽石山港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-11-26T14:54:27",
-        "last_announcement": "2024-11-26T14:42:00"
-    },
     "IN-24-06875": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2648,11 +2570,18 @@
                 "ID": "107183",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Hiram's Highway (both bounds) near Nam Pin Wai Road are still being closed to all traffic. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，西貢公路(來回方向)近南邊圍路的全線仍然封閉。 現時上址交通擠塞。"
+            },
+            "2024-11-29T14:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107187",
+                "CONTENT_EN": "Part of the lanes of Hiram's Highway (both bounds) near Nam Pin Wai Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的西貢公路(來回方向)近南邊圍路的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-11-29T13:34:53",
-        "last_announcement": "2024-11-29T13:13:00"
+        "last_update": "2024-11-29T14:57:59",
+        "last_announcement": "2024-11-29T14:46:00"
     },
     "IN-24-06942": {
         "description": {
