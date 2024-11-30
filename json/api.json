@@ -200,84 +200,6 @@
         "last_update": "2024-11-28T20:22:48",
         "last_announcement": "2024-11-28T19:43:00"
     },
-    "IN-24-06907": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Pui Ching Road",
-            "LOCATION_CN": "培正道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Fat Kwong Street",
-            "DIRECTION_CN": "佛光街",
-            "NEAR_LANDMARK_EN": "Kowloon Public Library",
-            "NEAR_LANDMARK_CN": "九龍公共圖書館",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-27T16:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107078",
-                "CONTENT_EN": "Due to traffic accident , the fast lane of Pui Ching Road (Fat Kwong Street bound) near Kowloon Public Library is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，培正道(往佛光街方向)近九龍公共圖書館的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-27T16:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107085",
-                "CONTENT_EN": "The fast lane of Pui Ching Road (Fat Kwong Street bound) near Kowloon Public Library which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的培正道(往佛光街方向)近九龍公共圖書館的快線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-11-27T17:17:13",
-        "last_announcement": "2024-11-27T16:54:00"
-    },
-    "IN-24-06908": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Ma Liu Shui Ferry Pier",
-            "NEAR_LANDMARK_CN": "馬料水渡輪碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-27T16:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107080",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tolo Highway (Tai Po bound) near Ma Liu Shui Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，吐露港公路(往大埔方向)近馬料水渡輪碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-11-27T17:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107086",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Tai Po bound) near Ma Liu Shui Ferry Pier which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的吐露港公路(往大埔方向)近馬料水渡輪碼頭的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-11-27T17:17:13",
-        "last_announcement": "2024-11-27T17:00:00"
-    },
     "IN-24-06911": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2587,10 +2509,17 @@
                 "ID": "107246",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Lion Rock Tunnel Road (Kowloon bound) near Union Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近仁安醫院的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-30T16:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107247",
+                "CONTENT_EN": "The fast lane of Lion Rock Tunnel Road (Kowloon bound) near Union Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近仁安醫院的快線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-11-30T16:56:55",
-        "last_announcement": "2024-11-30T16:49:00"
+        "last_update": "2024-11-30T17:19:49",
+        "last_announcement": "2024-11-30T16:58:00"
     }
 }
