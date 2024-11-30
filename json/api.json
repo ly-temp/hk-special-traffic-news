@@ -179,45 +179,6 @@
         "last_update": "2024-11-28T04:26:23",
         "last_announcement": "2024-11-28T04:08:00"
     },
-    "IN-24-06901": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "obstacles on road",
-            "INCIDENT_DETAIL_CN": "路面有障礙物",
-            "LOCATION_EN": "Chuk Yuen Road",
-            "LOCATION_CN": "竹園道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-11-27T11:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107061",
-                "CONTENT_EN": "Due to obstacles on road , the only lane of the slip road leading from Chuk Yuen Road  to Lung Cheung Road (Tsuen Wan bound) is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因路面有障礙物，由竹園道通往龍翔道(往荃灣方向) 的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-11-27T11:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107062",
-                "CONTENT_EN": "The only lane of the slip road leading from Chuk Yuen Road  to Lung Cheung Road (Tsuen Wan bound) which was closed due to obstacles on road is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面有障礙物而封閉的由竹園道通往龍翔道(往荃灣方向) 的支路的 唯一行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2024-11-27T11:57:35",
-        "last_announcement": "2024-11-27T11:40:00"
-    },
     "IN-24-06903": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2406,11 +2367,18 @@
                 "ID": "107213",
                 "CONTENT_EN": "Due to watermain burst , part of the lanes of Sa Po Road (Nga Tsin Wai Road bound) near Carpenter Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，沙浦道(往衙前圍道方向)近賈炳達道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-11-30T11:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107236",
+                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Sa Po Road (Nga Tsin Wai Road bound) near Carpenter Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，沙浦道(往衙前圍道方向)近賈炳達道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-11-29T20:13:37",
-        "last_announcement": "2024-11-29T19:54:00"
+        "last_update": "2024-11-30T12:10:34",
+        "last_announcement": "2024-11-30T11:55:00"
     },
     "IN-24-06961": {
         "description": {
