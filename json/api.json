@@ -2202,5 +2202,37 @@
         "district": "離島區",
         "last_update": "2024-12-01T01:31:13",
         "last_announcement": "2024-12-01T01:04:00"
+    },
+    "IN-24-06968": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Aberdeen Tunnel",
+            "LOCATION_CN": "香港仔隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Pok Fu Lam",
+            "DIRECTION_CN": "薄扶林",
+            "NEAR_LANDMARK_EN": "Wong Chuk Hang San Wai Village",
+            "NEAR_LANDMARK_CN": "黃竹坑新圍村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-01T11:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107269",
+                "CONTENT_EN": "The slow lane of Aberdeen Tunnel (Pok Fu Lam bound) near Wong Chuk Hang San Wai Village which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的香港仔隧道(往薄扶林方向)近黃竹坑新圍村的慢線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2024-12-01T12:02:27",
+        "last_announcement": "2024-12-01T11:34:00"
     }
 }
