@@ -1,36 +1,4 @@
 {
-    "IN-24-07024": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hennessy Road",
-            "LOCATION_CN": "軒尼詩道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Fleming Road",
-            "NEAR_LANDMARK_CN": "菲林明道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-03T15:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107372",
-                "CONTENT_EN": "Part of the lanes of Hennessy Road (Central bound) near Fleming Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的軒尼詩道(往中環方向)近菲林明道的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-12-03T16:21:58",
-        "last_announcement": "2024-12-03T15:55:00"
-    },
     "IN-24-07025": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2667,10 +2635,17 @@
                 "ID": "107530",
                 "CONTENT_EN": "Due to obstruction of ferry berth at ferry piers , the following ferry service(s) has been suspended until further notice. \nFortune Ferry Company Limited: North Point - Kwun Tong.",
                 "CONTENT_CN": "因輪渡碼頭泊位阻塞，以下渡輪服務已經暫停服務至另行通知。\n富裕小輪有限公司 : 北角 - 觀塘。"
+            },
+            "2024-12-06T16:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107534",
+                "CONTENT_EN": "Fortune Ferry Company Limited The services of North Point - Kwun Tong ferry route suspended earlier today due to emergency incident will be resumed normal at 4:30 pm departing from North Point.",
+                "CONTENT_CN": "富裕小輪有限公司 較早前因突發事件⽽暫停服務的往來北⾓-觀塘渡輪服務由下午4:30分恢復正常由北⾓開出。"
             }
         },
         "district": null,
-        "last_update": "2024-12-06T15:34:30",
-        "last_announcement": "2024-12-06T15:14:00"
+        "last_update": "2024-12-06T16:42:07",
+        "last_announcement": "2024-12-06T16:15:00"
     }
 }
