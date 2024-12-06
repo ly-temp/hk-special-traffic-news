@@ -1,128 +1,4 @@
 {
-    "IN-24-07017": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Sha Tin Road",
-            "LOCATION_CN": "沙田路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Pok Hong Estate",
-            "NEAR_LANDMARK_CN": "博康邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-03T08:43:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107355",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Sha Tin Road (Tai Po bound) near Pok Hong Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，沙田路(往大埔方向)近博康邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-03T09:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107359",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Sha Tin Road (Tai Po bound) near Pok Hong Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Sha Tin Road (Tai Po bound) ends at Lion Rock Tunnel Road near Julimount Garden. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，沙田路(往大埔方向)近博康邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在沙田路(往大埔方向)的車龍龍尾已到獅子山隧道公路近瑞峰花園。 現時上址交通擠塞。"
-            },
-            "2024-12-03T09:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107360",
-                "CONTENT_EN": "Part of the lanes of Sha Tin Road (Tai Po bound) near Pok Hong Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的沙田路(往大埔方向)近博康邨的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-12-03T10:42:11",
-        "last_announcement": "2024-12-03T09:42:00"
-    },
-    "IN-24-07018": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Caritas Medical Centre",
-            "NEAR_LANDMARK_CN": "明愛醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-03T09:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107358",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Caritas Medical Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，呈祥道(往觀塘方向)近明愛醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-03T10:06:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107361",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Caritas Medical Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往觀塘方向)近明愛醫院的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-12-03T10:42:11",
-        "last_announcement": "2024-12-03T10:06:00"
-    },
-    "IN-24-07019": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "West Kowloon Highway",
-            "LOCATION_CN": "西九龍公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Western Harbour Crossing",
-            "DIRECTION_CN": "西區海底隧道",
-            "NEAR_LANDMARK_EN": "Hoi Tat Estate",
-            "NEAR_LANDMARK_CN": "海達邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-03T10:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107362",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Hoi Tat Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，西九龍公路(往西區海底隧道方向)近海達邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-03T10:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107363",
-                "CONTENT_EN": "Part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Hoi Tat Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的西九龍公路(往西區海底隧道方向)近海達邨的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-12-03T10:42:11",
-        "last_announcement": "2024-12-03T10:18:00"
-    },
     "IN-24-07021": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2543,11 +2419,18 @@
                 "ID": "107510",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Yen Chow Street (Nam Cheong bound) near Hai Tan Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，欽州街(往南昌方向)近海壇街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-06T10:37:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "107516",
+                "CONTENT_EN": "Part of the lanes of Yen Chow Street (Nam Cheong bound) near Hai Tan Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的欽州街(往南昌方向)近海壇街的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-12-06T09:52:56",
-        "last_announcement": "2024-12-06T09:35:00"
+        "last_update": "2024-12-06T10:57:47",
+        "last_announcement": "2024-12-06T10:37:00"
     },
     "IN-24-07089": {
         "description": {
@@ -2575,10 +2458,127 @@
                 "ID": "107511",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Sports Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近荃灣體育館的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-06T09:47:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "107512",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Wan Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近荃灣體育館的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-12-06T09:52:56",
-        "last_announcement": "2024-12-06T09:38:00"
+        "last_update": "2024-12-06T10:57:47",
+        "last_announcement": "2024-12-06T09:47:00"
+    },
+    "IN-24-07090": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chai Wan",
+            "DIRECTION_CN": "柴灣",
+            "NEAR_LANDMARK_EN": "ICAC Headquarters Building",
+            "NEAR_LANDMARK_CN": "廉政公署總部大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-06T10:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107513",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (Chai Wan bound) near ICAC Headquarters Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東區走廊(往柴灣方向)近廉政公署總部大樓的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-06T10:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107517",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near ICAC Headquarters Building which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往柴灣方向)近廉政公署總部大樓的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-12-06T10:57:47",
+        "last_announcement": "2024-12-06T10:43:00"
+    },
+    "IN-24-07091": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wan Chai Interchange",
+            "LOCATION_CN": "灣仔交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Tunnel Approach Rest Garden",
+            "NEAR_LANDMARK_CN": "隧道入口處休憩花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-06T10:21:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107514",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Wan Chai Interchange (Cross Harbour Tunnel bound) near Tunnel Approach Rest Garden is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，灣仔交匯處(往海底隧道方向)近隧道入口處休憩花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-06T10:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107515",
+                "CONTENT_EN": "Part of the lanes of Wan Chai Interchange (Cross Harbour Tunnel bound) near Tunnel Approach Rest Garden which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的灣仔交匯處(往海底隧道方向)近隧道入口處休憩花園的部份行車線現已解封。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-12-06T10:57:47",
+        "last_announcement": "2024-12-06T10:33:00"
+    },
+    "IN-24-07092": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "East Kowloon Corridor",
+            "LOCATION_CN": "東九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Fat Kwong Street",
+            "NEAR_LANDMARK_CN": "佛光街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-06T10:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107518",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of East Kowloon Corridor (Tsim Sha Tsui bound) near Fat Kwong Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，東九龍走廊(往尖沙咀方向)近佛光街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-12-06T10:57:47",
+        "last_announcement": "2024-12-06T10:49:00"
     }
 }
