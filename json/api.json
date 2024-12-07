@@ -38,70 +38,6 @@
         "last_update": "2024-12-04T19:47:08",
         "last_announcement": "2024-12-04T19:34:00"
     },
-    "IN-24-07049": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Cheung Sha Wan Road",
-            "LOCATION_CN": "長沙灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwai Chung",
-            "DIRECTION_CN": "葵涌",
-            "NEAR_LANDMARK_EN": "Cheung Sha Wan Fire Station",
-            "NEAR_LANDMARK_CN": "長沙灣消防局",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-04T18:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107424",
-                "CONTENT_EN": "Part of the lanes of Cheung Sha Wan Road (Kwai Chung bound) near Cheung Sha Wan Fire Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的長沙灣道(往葵涌方向)近長沙灣消防局的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-12-04T19:08:36",
-        "last_announcement": "2024-12-04T18:50:00"
-    },
-    "IN-24-07051": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-04T18:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107425",
-                "CONTENT_EN": "The following road sections are busy:\n– Shing Mun Tunnel Road (Tai Po bound)\n– Tsing Sha Highway (Tai Po bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–城門隧道公路(往大埔方向)\n–青沙公路(往大埔方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-12-04T19:08:36",
-        "last_announcement": "2024-12-04T18:56:00"
-    },
     "IN-24-07052": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2997,10 +2933,17 @@
                 "ID": "107604",
                 "CONTENT_EN": "The following road sections in Tsim Sha Tsui are busy:\n- Salisbury Road (both bounds)\n- Canton Road (Salisbury Road bound)\n- Kowloon Park Drive (Salisbury Road bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "尖沙咀以下路段的交通繁忙:\n-梳⼠巴利道(來回⽅向)\n-廣東道(往梳⼠巴利道⽅向)\n-九⿓公園徑(往梳⼠巴利道⽅向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-12-07T19:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107607",
+                "CONTENT_EN": "The following road sections in Tsim Sha Tsui are busy:\n- Salisbury Road (both bounds)\n- Canton Road (Salisbury Road bound)\n- Kowloon Park Drive (Salisbury Road bound)\n– Austin Road West (Nathan Road bound)\n– Lin Cheung Road (Tsim Sha Tsui bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "尖沙咀以下路段的交通繁忙:\n-梳⼠巴利道(來回⽅向)\n-廣東道(往梳⼠巴利道⽅向)\n-九⿓公園徑(往梳⼠巴利道⽅向)\n–柯士甸道西(往彌敦道方向)\n–連翔道(往尖沙咀方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2024-12-07T18:38:01",
-        "last_announcement": "2024-12-07T18:25:00"
+        "last_update": "2024-12-07T19:18:14",
+        "last_announcement": "2024-12-07T19:05:00"
     }
 }
