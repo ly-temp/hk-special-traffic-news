@@ -1,43 +1,4 @@
 {
-    "IN-24-07097": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Obstruction of Ferry Berth at Ferry Piers",
-            "INCIDENT_DETAIL_CN": "輪渡碼頭泊位阻塞",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-06T15:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107530",
-                "CONTENT_EN": "Due to obstruction of ferry berth at ferry piers , the following ferry service(s) has been suspended until further notice. \nFortune Ferry Company Limited: North Point - Kwun Tong.",
-                "CONTENT_CN": "因輪渡碼頭泊位阻塞，以下渡輪服務已經暫停服務至另行通知。\n富裕小輪有限公司 : 北角 - 觀塘。"
-            },
-            "2024-12-06T16:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107534",
-                "CONTENT_EN": "Fortune Ferry Company Limited The services of North Point - Kwun Tong ferry route suspended earlier today due to emergency incident will be resumed normal at 4:30 pm departing from North Point.",
-                "CONTENT_CN": "富裕小輪有限公司 較早前因突發事件⽽暫停服務的往來北⾓-觀塘渡輪服務由下午4:30分恢復正常由北⾓開出。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-12-06T16:42:07",
-        "last_announcement": "2024-12-06T16:15:00"
-    },
     "IN-24-07098": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
