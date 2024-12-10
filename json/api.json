@@ -1,36 +1,4 @@
 {
-    "IN-24-07124": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Po Shek Wu Road (Tai Tau Leng Roundabout)",
-            "LOCATION_CN": "寶石湖路(大頭嶺迴旋處)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-07T16:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107597",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Po Shek Wu Road (Tai Tau Leng Roundabout) (Sheung Shui bound)\n– So Kwun Po Road roundabout (Sheung Shui bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–寶石湖路(大頭嶺迴旋處)(往上水方向)\n–掃管埔路迴旋處(往上水方向)。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2024-12-07T16:47:21",
-        "last_announcement": "2024-12-07T16:25:00"
-    },
     "IN-24-07126": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -812,10 +780,17 @@
                 "ID": "107730",
                 "CONTENT_EN": "Due to fire , part of the lanes of Shau Kei Wan Road (both bounds) between Hing Man Street and Sun Sing Street are still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Tram services are resumed normal.   Traffic is busy now.",
                 "CONTENT_CN": "因火警，筲箕灣道(來回方向)介乎興民街與新成街之間的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  電車服務已經恢復正常。  現時上址交通繁忙。"
+            },
+            "2024-12-10T16:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107731",
+                "CONTENT_EN": "Part of the lanes of Shau Kei Wan Road (both bounds) between Hing Man Street and Sun Sing Street which were closed due to fire are re-opened to all traffic. Tram services resume normal.",
+                "CONTENT_CN": "較早前因火警而封閉的筲箕灣道(來回方向)介乎興民街與新成街之間的部份行車線現已解封。 電⾞服務已經恢復正常。"
             }
         },
         "district": "東區",
-        "last_update": "2024-12-10T16:41:02",
-        "last_announcement": "2024-12-10T16:20:00"
+        "last_update": "2024-12-10T16:54:34",
+        "last_announcement": "2024-12-10T16:31:00"
     }
 }
