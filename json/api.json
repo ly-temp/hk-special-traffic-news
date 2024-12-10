@@ -1,36 +1,4 @@
 {
-    "IN-24-07125": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Mechanical Failure",
-            "INCIDENT_DETAIL_CN": "機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-07T16:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107596",
-                "CONTENT_EN": "Due to mechanical failure, the following ferry services are suspended. \nFortune Ferry Company Limited\n-Departing at 04:00 pm from Tung Chung to Sha Lo Wan, Tai O \n-Departing at 05:00 pm from Tai O to Sha Lo Wan, Tung Chung.",
-                "CONTENT_CN": "因機件故障，以下渡輪班次暫停服務。\n富裕小輪有限公司\n-下午04時00分由東涌開出前往沙螺灣、大澳\n-下午05時00分由大澳開出前往沙螺灣、東涌。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-12-07T16:32:56",
-        "last_announcement": "2024-12-07T16:14:00"
-    },
     "IN-24-07124": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -837,10 +805,17 @@
                 "ID": "107729",
                 "CONTENT_EN": "Due to fire , part of the lanes of Shau Kei Wan Road (both bounds) between Hing Man Street and Sun Sing Street are still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Tram services are suspended with details as follows:\nEastbound service from Nam On Lane to Shau Kei Wan Terminus;\nWestbound service from Shau Kei Wan Terminus to Hoi An Street.   Traffic is busy now.",
                 "CONTENT_CN": "因火警，筲箕灣道(來回方向)介乎興民街與新成街之間的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  以下電車服務已經暫停:\n東行線由南安里至筲箕灣總站；\n西行線由筲箕灣總站至海晏街。  現時上址交通繁忙。"
+            },
+            "2024-12-10T16:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107730",
+                "CONTENT_EN": "Due to fire , part of the lanes of Shau Kei Wan Road (both bounds) between Hing Man Street and Sun Sing Street are still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Tram services are resumed normal.   Traffic is busy now.",
+                "CONTENT_CN": "因火警，筲箕灣道(來回方向)介乎興民街與新成街之間的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  電車服務已經恢復正常。  現時上址交通繁忙。"
             }
         },
         "district": "東區",
-        "last_update": "2024-12-10T16:16:08",
-        "last_announcement": "2024-12-10T15:58:00"
+        "last_update": "2024-12-10T16:41:02",
+        "last_announcement": "2024-12-10T16:20:00"
     }
 }
