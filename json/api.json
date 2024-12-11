@@ -1,57 +1,4 @@
 {
-    "PE-24-00014": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Event",
-            "INCIDENT_HEADING_CN": "活動",
-            "INCIDENT_DETAIL_EN": "Hong Kong Streetathon 2024",
-            "INCIDENT_DETAIL_CN": "Hong Kong Streetathon 2024",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-08T00:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107614",
-                "CONTENT_EN": "To facilitate the “Hong Kong Streetathon” today, road closure and traffic diversions will be implemented starting from 1:00 a. m. in phases at various locations on Hong Kong Island North and in Kowloon East and Tseung Kwan O, major closed roads include: Hong Kong Island: Lung Wo Road eastbound, Central-Wan Chai Bypass eastbound and section of Island Eastern Corridor eastbound between Victoria Park Road and Eastern Harbour Crossing. Kowloon: Kwun Tong Bypass eastbound, Cha Kwo Ling Road, Hoi Bun Road, Kai Fuk Road westbound, Kai Tak Tunnel westbound and East Kowloon Corridor westbound. New Territories: Tseung Lam Highway and Wan O Road westbound. Eastern Harbour Crossing (Hong Kong bound tube) will implement the one-tube-two-way arrangement. Vehicular traffic towards Kowloon via Eastern Harbour Crossing are advised to use the entrances from Sai Wan Ho or Kornhill, and use the exit at Man Hong Street, North Point towards Hong Kong Island. During the road closure, a total of 58 bus routes and 16 green minibus routes are required to be diverted, truncated or relocated on their stops in phases. In addition, taxi stands, public light bus stands, roadside parking spaces and private car parks on the road affected have been gradually suspended. The traffic in the affected areas and the major roads in the vicinity will become significantly congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. In case of traffic congestion, motorists should exercise patience and follow the instruction of the Police on site. When going to the aforesaid areas, the public should plan their journeys early and allow sufficient traveling time to avoid unexpected delay, use railway services as far as possible, and stay alert to the latest traffic news through the media.",
-                "CONTENT_CN": "為配合今日舉行「香港街馬」，港島北、九龍東及將軍澳多處將於上午1時起分階段實施封路及交通改道措施，主要封閉路段包括： 香港島：龍和道(東行)、中環及灣仔繞道(東行)及介乎維園道至東區海底隧道之間的一段東區走廊(東行)。 九龍區：觀塘繞道(東行)、茶果嶺道、海濱道、啟福道(西行)、啟德隧道(西行)及東九龍走廊(西行)。 新界區：將藍公路及環澳路(西行)。 東區海底隧道往港島方向的管道將會實施單管雙程行車，經東隧前往九龍的車輛須使用西灣河或康山入口，前往香港島的車輛則須使用北角民康街出口。 封路期間，合共58條巴士路線及16條專線小巴路線需要分階段實施改道、縮短路線或遷站安排。此外，位於封路地區內的的士站、公共小巴站、路旁停車位及私人停車場已逐步暫停使用。 在受影響地區及附近的主要道路的交通將會較平常的星期日顯著擠塞。駕駛人士請避免駕車前往受影響的地區。如遇交通擠塞時，駕車人士請保持忍讓，並遵從在場警方的指示。市民如前往受影響地區，請提早計劃行程及預留額外的行程時間以免延誤，盡量使用鐵路服務，並留意傳媒廣播的最新交通消息。"
-            },
-            "2024-12-08T04:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107619",
-                "CONTENT_EN": "To facilitate the “Hong Kong Streetathon” today, road closure and traffic diversions have been implemented at various locations on Hong Kong Island North and in Kowloon East and Tseung Kwan O, major closed roads include: Hong Kong Island: Lung Wo Road eastbound, Central-Wan Chai Bypass eastbound and section of Island Eastern Corridor eastbound between Victoria Park Road and Eastern Harbour Crossing. Kowloon: Kwun Tong Bypass eastbound, Cha Kwo Ling Road, Hoi Bun Road, Kai Fuk Road westbound, Kai Tak Tunnel westbound and East Kowloon Corridor westbound. New Territories: Tseung Lam Highway and Wan O Road westbound. Eastern Harbour Crossing (Hong Kong bound tube) has implemented the one-tube-two-way arrangement. Vehicular traffic towards Kowloon via Eastern Harbour Crossing are advised to use the entrances from Sai Wan Ho or Kornhill, and use the exit at Man Hong Street, North Point towards Hong Kong Island. There are 8 bus routes and 2 green minibus routes currently being diverted, truncated or relocated on their stops. In addition, taxi stands, public light bus stands, roadside parking spaces and private car parks on the road affected have been gradually suspended. The traffic in the affected areas and the major roads in the vicinity will become significantly congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. In case of traffic congestion, motorists should exercise patience and follow the instruction of the Police on site. When going to the aforesaid areas, the public should plan their journeys early and allow sufficient traveling time to avoid unexpected delay, use railway services as far as possible, and stay alert to the latest traffic news through the media.",
-                "CONTENT_CN": "為配合今日舉行「香港街馬」，港島北、九龍東及將軍澳多處現正實施封路及交通改道措施，主要封閉路段包括： 香港島：龍和道(東行)、中環及灣仔繞道(東行)及介乎維園道至東區海底隧道之間的一段東區走廊(東行)。 九龍區：觀塘繞道(東行)、茶果嶺道、海濱道、啟福道(西行)、啟德隧道(西行)及東九龍走廊(西行)。 新界區：將藍公路及環澳路(西行)。 東區海底隧道往港島方向的管道現正實施單管雙程行車，經東隧前往九龍的車輛須使用西灣河或康山入口，前往香港島的車輛則須使用北角民康街出口。 現時，8條巴士路線及2條專線小巴路線正實施改道、縮短路線或遷站安排。此外，位於封路地區內的的士站、公共小巴站、路旁停車位及私人停車場已逐步暫停使用。 在受影響地區及附近的主要道路的交通將會較平常的星期日顯著擠塞。駕駛人士請避免駕車前往受影響的地區。如遇交通擠塞時，駕車人士請保持忍讓，並遵從在場警方的指示。市民如前往受影響地區，請提早計劃行程及預留額外的行程時間以免延誤，盡量使用鐵路服務，並留意傳媒廣播的最新交通消息。"
-            },
-            "2024-12-08T08:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107622",
-                "CONTENT_EN": "Several closed roads for the “Hong Kong Streetathon” on Hong Kong Island, including Lung Wo Road eastbound, Central-Wan Chai Bypass eastbound and section of Island Eastern Corridor eastbound between Victoria Park Road and Eastern Harbour Crossing, etc. have been re-opened to traffic. The one-tube-two-way arrangement is still implemented in Eastern Harbour Crossing. Vehicles from Victoria Park Road heading for Island Eastern Corridor could only travel towards North Point and Chai Wan. Vehicles heading for Kowloon still need to use the entrances from Sai Wan Ho or Kornhill heading for Eastern Harbour Crossing. The closed road sections in Kowloon and New Territories, including Kwun Tong Bypass eastbound, Cha Kwo Ling Road, Hoi Bun Road, Kai Fuk Road westbound, Kai Tak Tunnel westbound, East Kowloon Corridor westbound, Tseung Lam Highway and Wan O Road westbound are remain closed. There are 40 bus routes and 12 green minibus routes currently being diverted, truncated or relocated on their stops. The traffic in the affected areas and roads in the vicinity will become significantly congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. When going to the aforesaid areas, the public should plan their journeys early, allow sufficient traveling time to avoid unexpected delay, and use railway services as far as possible.",
-                "CONTENT_CN": "因應「香港街馬」早前封閉香港島的多條道路，包括龍和道(東行)、中環及灣仔繞道(東行)及介乎維園道至東區海底隧道之間的一段東區走廊(東行)等已經重開。 東區海底隧道現時繼續維持單管雙程行車。由維園道前往東區走廊的車輛只可前往北角及柴灣。前往九龍的車輛仍須由西灣河或康山入口前往東隧。 在九龍及新界的封閉路段，包括觀塘繞道(東行)、茶果嶺道、海濱道、啟福道(西行)、啟德隧道(西行)、東九龍走廊(西行)、將藍公路及環澳路(西行)，現時仍然封閉。 現時，40條巴士路線及12條專線小巴路線正實施改道、縮短路線或遷站安排。 受影響地區及附近道路的交通會較平常的星期日顯著擠塞，駕駛人士請避免駕車前往受影響的地區。市民請提早計劃行程及預留額外的行程時間以免延誤，並盡量使用鐵路服務。"
-            },
-            "2024-12-08T09:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107624",
-                "CONTENT_EN": "Several closed roads for the “Hong Kong Streetathon” on Hong Kong Island, including Lung Wo Road eastbound, Central-Wan Chai Bypass eastbound and section of Island Eastern Corridor eastbound between Victoria Park Road and Eastern Harbour Crossing, etc. have been re-opened to traffic. Eastern Harbour Crossing has ceased the one-tube-two-way arrangement and resumed normal operation. The closed road sections in Kowloon and New Territories, including Kwun Tong Bypass eastbound, Cha Kwo Ling Road, Hoi Bun Road, Kai Fuk Road westbound, Kai Tak Tunnel westbound, East Kowloon Corridor westbound, Tseung Lam Highway and Wan O Road westbound are remain closed. There are 31 bus routes and 12 green minibus routes currently being diverted, truncated or relocated on their stops. The traffic in the affected areas and roads in the vicinity will become significantly congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. When going to the aforesaid areas, the public should plan their journeys early, allow sufficient traveling time to avoid unexpected delay, and use railway services as far as possible.",
-                "CONTENT_CN": "因應「香港街馬」早前封閉香港島的多條道路，包括龍和道(東行)、中環及灣仔繞道(東行)及介乎維園道至東區海底隧道之間的一段東區走廊(東行)等已經重開。東區海底隧道亦已取消單管雙程行車，行車管道恢復正常。 在九龍及新界的封閉路段，包括觀塘繞道(東行)、茶果嶺道、海濱道、啟福道(西行)、啟德隧道(西行)、東九龍走廊(西行)、將藍公路及環澳路(西行)，現時仍然封閉。 現時，31條巴士路線及12條專線小巴路線正實施改道、縮短路線或遷站安排。 受影響地區及附近道路的交通會較平常的星期日顯著擠塞，駕駛人士請避免駕車前往受影響的地區。市民請提早計劃行程及預留額外的行程時間以免延誤，並盡量使用鐵路服務。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-12-08T10:07:02",
-        "last_announcement": "2024-12-08T09:10:00"
-    },
     "IN-24-07134": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -915,11 +862,18 @@
                 "ID": "107763",
                 "CONTENT_EN": "Pok Fu Lam Road (Central bound) near Victoria Road is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "薄扶林道(往中環方向)近域多利道的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-12-11T09:40:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "107768",
+                "CONTENT_EN": "Traffic at Pok Fu Lam Road (Central bound) near Victoria Road has resumed normal.",
+                "CONTENT_CN": "薄扶林道(往中環方向)近域多利道的交通現已恢復正常。"
             }
         },
         "district": "南區",
-        "last_update": "2024-12-11T08:56:10",
-        "last_announcement": "2024-12-11T08:20:00"
+        "last_update": "2024-12-11T10:27:00",
+        "last_announcement": "2024-12-11T09:40:00"
     },
     "IN-24-07191": {
         "description": {
@@ -947,10 +901,24 @@
                 "ID": "107765",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近深井的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2024-12-11T08:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107766",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tuen Mun Road (Kowloon bound) ends at Ka Loon Tsuen.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近深井的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在屯門公路(往九龍方向)的車龍龍尾已到嘉龍村。  現時上址交通擠塞。"
+            },
+            "2024-12-11T09:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107767",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2024-12-11T08:56:10",
-        "last_announcement": "2024-12-11T08:46:00"
+        "last_update": "2024-12-11T10:27:00",
+        "last_announcement": "2024-12-11T09:23:00"
     }
 }
