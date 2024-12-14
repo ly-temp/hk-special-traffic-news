@@ -2103,11 +2103,18 @@
                 "ID": "107899",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近竹園道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-14T19:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107901",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Chuk Yuen Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近竹園道的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-12-14T19:20:04",
-        "last_announcement": "2024-12-14T19:05:00"
+        "last_update": "2024-12-14T19:40:19",
+        "last_announcement": "2024-12-14T19:23:00"
     },
     "IN-24-07255": {
         "description": {
@@ -2135,10 +2142,17 @@
                 "ID": "107900",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Tuen Mun Road bound) near Kwai Chung Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往屯門公路方向)近葵涌公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-14T19:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107904",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tuen Mun Road bound) near Kwai Chung Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往屯門公路方向)近葵涌公園的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-12-14T19:30:21",
-        "last_announcement": "2024-12-14T19:13:00"
+        "last_update": "2024-12-14T19:40:19",
+        "last_announcement": "2024-12-14T19:33:00"
     }
 }
