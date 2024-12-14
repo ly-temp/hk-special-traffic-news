@@ -38,38 +38,6 @@
         "last_update": "2024-12-12T08:59:13",
         "last_announcement": "2024-12-12T08:00:00"
     },
-    "IN-24-07204": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fallen Object",
-            "INCIDENT_DETAIL_CN": "高空墮物",
-            "LOCATION_EN": "Hai Tan Street",
-            "LOCATION_CN": "海壇街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yen Chow Street",
-            "DIRECTION_CN": "欽州街",
-            "NEAR_LANDMARK_EN": "Yen Chow Street",
-            "NEAR_LANDMARK_CN": "欽州街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-12T06:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107791",
-                "CONTENT_EN": "Due to fallen object , the fast lane of Hai Tan Street (Yen Chow Street bound) near Yen Chow Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因高空墮物，海壇街(往欽州街方向)近欽州街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-12-12T06:32:51",
-        "last_announcement": "2024-12-12T06:10:00"
-    },
     "IN-24-07205": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
