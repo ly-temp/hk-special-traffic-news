@@ -1,82 +1,4 @@
 {
-    "IN-24-07201": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Hong Kong Link Road",
-            "LOCATION_CN": "香港連接路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-11T20:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107785",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
-            },
-            "2024-12-12T08:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107794",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong Zhuhai-Macao-Bridge Hong Kong Link Road (HZMB HKLR): The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制回復每小時100 公里。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-12-12T08:59:13",
-        "last_announcement": "2024-12-12T08:00:00"
-    },
-    "IN-24-07205": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "San Wo Lane Playground",
-            "NEAR_LANDMARK_CN": "新和里遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-12T07:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107792",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near San Wo Lane Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近新和里遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-12T07:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107793",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near San Wo Lane Playground which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近新和里遊樂場的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-12-12T08:59:13",
-        "last_announcement": "2024-12-12T07:56:00"
-    },
     "IN-24-07206": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1904,11 +1826,18 @@
                 "ID": "107898",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強⾵，港珠澳⼤橋⾹港連接路已實施以下特別交通及運輸安排：港珠澳⼤橋⾹港連接路的最⾼⾞速限制由每⼩時100 公⾥降低⾄每⼩時50 公⾥。"
+            },
+            "2024-12-15T08:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107905",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳⼤橋⾹港連接路已實施以下安排： 港珠澳⼤橋⾹港連接路最⾼⾞速限制恢復為每⼩時100 公⾥。"
             }
         },
         "district": "離島區",
-        "last_update": "2024-12-14T19:20:04",
-        "last_announcement": "2024-12-14T19:00:00"
+        "last_update": "2024-12-15T10:06:39",
+        "last_announcement": "2024-12-15T08:04:00"
     },
     "IN-24-07254": {
         "description": {
@@ -2019,5 +1948,37 @@
         "district": "荃灣區",
         "last_update": "2024-12-14T19:50:30",
         "last_announcement": "2024-12-14T19:33:00"
+    },
+    "IN-24-07257": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Kwan Mun Hau Street",
+            "LOCATION_CN": "關門口街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-15T08:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107909",
+                "CONTENT_EN": "Due to watermain emergency works, the following road sections are closed to all traffic:\n- all lanes of Tsuen Kwai Street\n- all lanes of Tsuen Fu Street (Southbound) between Kwan Mun Hau Street and Tsuen Wah Street.  At the same time, vehicles cannot make left turning from Kwan Mun Hau Street to Tsuen Fu Street (Southbound).   Traffic is busy now. Motorists are advised to drive with utmost care and patience and follow the instructions on site. Members of the public are advised to pay attention to radio / TV announcements on traffic conditions.",
+                "CONTENT_CN": "因水管緊急維修，以下路段現已封閉:\n-荃貴街的全線\n-荃富街(南行)介乎關門口街與荃華街之間的全線。  同時，車輛不能由關門口街左轉荃富街(南行)。  現時上址交通繁忙。駕駛人士請盡量忍讓，並遵照現場指示。市民請留意電台/電視廣播的最新交通情況。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-12-15T10:06:39",
+        "last_announcement": "2024-12-15T08:53:00"
     }
 }
