@@ -1823,10 +1823,49 @@
                 "ID": "107956",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Yi Interchange  is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青衣交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-16T18:41:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "107958",
+                "CONTENT_EN": "Part of the lanes of Tsing Yi Interchange  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青衣交匯處的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-12-16T18:40:52",
-        "last_announcement": "2024-12-16T18:13:00"
+        "last_update": "2024-12-16T18:51:58",
+        "last_announcement": "2024-12-16T18:41:00"
+    },
+    "IN-24-07280": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Administration Building",
+            "NEAR_LANDMARK_CN": "行政大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-16T18:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "107957",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Lion Rock Tunnel Road (Kowloon bound) near Administration Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近行政大樓的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-12-16T18:51:58",
+        "last_announcement": "2024-12-16T18:38:00"
     }
 }
