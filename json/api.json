@@ -1,43 +1,4 @@
 {
-    "IN-24-07227": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Tram Incident",
-            "INCIDENT_HEADING_CN": "電車事故",
-            "INCIDENT_DETAIL_EN": "Road Incident",
-            "INCIDENT_DETAIL_CN": "道路事故",
-            "LOCATION_EN": "Tram service disruption",
-            "LOCATION_CN": "電車服務受阻",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-13T16:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107844",
-                "CONTENT_EN": "Due to road incident , the eastbound tram service from Gilman Street to Tonnochy Road is suspended ;",
-                "CONTENT_CN": "因道路事故，由機利文街至杜老誌道之間的東行線電車服務暫停;"
-            },
-            "2024-12-13T16:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107847",
-                "CONTENT_EN": "The eastbound tram service from Gilman Street to Tonnochy Road which was suspended due to road incident has been resumed",
-                "CONTENT_CN": "較早前因道路事故而暫停的由機利文街至杜老誌道之間的東行線電車服務現已恢復正常"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-12-13T16:52:50",
-        "last_announcement": "2024-12-13T16:30:00"
-    },
     "IN-24-07229": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
