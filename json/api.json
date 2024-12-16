@@ -1,36 +1,4 @@
 {
-    "IN-24-07229": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Belvedere Garden",
-            "NEAR_LANDMARK_CN": "麗城花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-13T16:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107849",
-                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Belvedere Garden which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往屯門方向)近麗城花園的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-12-13T17:13:34",
-        "last_announcement": "2024-12-13T16:49:00"
-    },
     "IN-24-07230": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1695,11 +1663,18 @@
                 "ID": "107943",
                 "CONTENT_EN": "Yuen Long Highway (Tuen Mun bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "元朗公路(往屯門方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-12-16T17:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "107946",
+                "CONTENT_EN": "Traffic at Yuen Long Highway (Tuen Mun bound) has resumed normal.",
+                "CONTENT_CN": "元朗公路(往屯門方向)的交通現已恢復正常。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-12-16T16:30:20",
-        "last_announcement": "2024-12-16T15:55:00"
+        "last_update": "2024-12-16T17:28:11",
+        "last_announcement": "2024-12-16T17:01:00"
     },
     "IN-24-07273": {
         "description": {
@@ -1727,10 +1702,17 @@
                 "ID": "107944",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road East (Kwun Tong bound) near Shek Ku Lung Road Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，太子道東(往觀塘方向)近石鼓壟道遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-16T16:57:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "107945",
+                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Kwun Tong bound) near Shek Ku Lung Road Playground which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往觀塘方向)近石鼓壟道遊樂場的部份行車線現已解封。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-12-16T16:49:34",
-        "last_announcement": "2024-12-16T16:35:00"
+        "last_update": "2024-12-16T17:28:11",
+        "last_announcement": "2024-12-16T16:57:00"
     }
 }
