@@ -1,43 +1,4 @@
 {
-    "IN-24-07253": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road",
-            "LOCATION_CN": "港珠澳大橋香港連接路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-14T19:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107898",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR, with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強⾵，港珠澳⼤橋⾹港連接路已實施以下特別交通及運輸安排：港珠澳⼤橋⾹港連接路的最⾼⾞速限制由每⼩時100 公⾥降低⾄每⼩時50 公⾥。"
-            },
-            "2024-12-15T08:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107905",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) HKLR: The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳⼤橋⾹港連接路已實施以下安排： 港珠澳⼤橋⾹港連接路最⾼⾞速限制恢復為每⼩時100 公⾥。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-12-15T10:06:39",
-        "last_announcement": "2024-12-15T08:04:00"
-    },
     "IN-24-07257": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2032,11 +1993,18 @@
                 "ID": "108030",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tsing Tsuen Road (Tsuen Tsing Interchange bound) near Tsing Yi MTR Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，青荃路(往荃青交匯處方向)近青衣港鐵站的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-18T09:48:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108036",
+                "CONTENT_EN": "The slow lane of Tsing Tsuen Road (Tsuen Tsing Interchange bound) near Tsing Yi MTR Station which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的青荃路(往荃青交匯處方向)近青衣港鐵站的慢線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-12-18T09:55:08",
-        "last_announcement": "2024-12-18T08:49:00"
+        "last_update": "2024-12-18T10:55:12",
+        "last_announcement": "2024-12-18T09:48:00"
     },
     "IN-24-07309": {
         "description": {
@@ -2115,5 +2083,37 @@
         "district": "深水埗區",
         "last_update": "2024-12-18T09:55:08",
         "last_announcement": "2024-12-18T09:15:00"
+    },
+    "IN-24-07310": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "North Point Ferry Pier",
+            "NEAR_LANDMARK_CN": "北角碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-18T09:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108037",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near North Point Ferry Pier which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近北角碼頭的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2024-12-18T10:55:12",
+        "last_announcement": "2024-12-18T09:54:00"
     }
 }
