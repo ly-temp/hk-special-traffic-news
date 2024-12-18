@@ -2496,11 +2496,18 @@
                 "ID": "108071",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Valley Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近山谷道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-18T18:56:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108080",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Valley Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近山谷道的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-12-18T18:43:41",
-        "last_announcement": "2024-12-18T18:24:00"
+        "last_update": "2024-12-18T19:12:05",
+        "last_announcement": "2024-12-18T18:56:00"
     },
     "IN-24-07324": {
         "description": {
@@ -2565,5 +2572,69 @@
         "district": "黃大仙區",
         "last_update": "2024-12-18T18:53:51",
         "last_announcement": "2024-12-18T18:43:00"
+    },
+    "IN-24-07325": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-18T18:45:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108075",
+                "CONTENT_EN": "The fast lane of Tuen Mun Road (Tuen Mun bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近深井的快線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2024-12-18T19:12:05",
+        "last_announcement": "2024-12-18T18:45:00"
+    },
+    "IN-24-07327": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy Road Sections",
+            "LOCATION_CN": "繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-18T18:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108078",
+                "CONTENT_EN": "The following road sections are busy:\n– Salisbury Road (Tsim Sha Tsui Ferry Pier bound)\n– Kowloon Park Drive (Tsim Sha Tsui Ferry Pier bound)\n– Chatham Road South (Tsim Sha Tsui Ferry Pier bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–梳士巴利道(往尖沙咀碼頭方向)\n–九龍公園徑(往尖沙咀碼頭方向)\n–漆咸道南(往尖沙咀碼頭方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-12-18T19:12:05",
+        "last_announcement": "2024-12-18T18:50:00"
     }
 }
