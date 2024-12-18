@@ -2668,5 +2668,37 @@
         "district": null,
         "last_update": "2024-12-18T19:37:13",
         "last_announcement": "2024-12-18T19:15:00"
+    },
+    "IN-24-07322": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Peninsula Heights",
+            "NEAR_LANDMARK_CN": "星輝豪庭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-18T19:35:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108085",
+                "CONTENT_EN": "The fast lane of Lung Cheung Road (Tsuen Wan bound) near Peninsula Heights which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近星輝豪庭的快線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2024-12-18T19:47:40",
+        "last_announcement": "2024-12-18T19:35:00"
     }
 }
