@@ -98,91 +98,6 @@
         "last_update": "2024-12-16T21:41:04",
         "last_announcement": "2024-12-16T21:28:00"
     },
-    "IN-24-07264": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "City Point",
-            "NEAR_LANDMARK_CN": "環宇海灣",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-16T08:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107924",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Tuen Mun bound) near City Point is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，荃灣路(往屯門方向)近環宇海灣的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-16T09:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107925",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Tuen Mun bound) near City Point is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Tsuen Wan Road (Tuen Mun bound) ends at Tsuen Wan Road near Lai King MTR Station. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，荃灣路(往屯門方向)近環宇海灣的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在荃灣路(往屯門方向)的車龍龍尾已到荃灣路近荔景港鐵站。 現時上址交通擠塞。"
-            },
-            "2024-12-16T09:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107926",
-                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tuen Mun bound) near City Point which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往屯門方向)近環宇海灣的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-12-16T10:22:41",
-        "last_announcement": "2024-12-16T09:16:00"
-    },
-    "IN-24-07265": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tai Lam Tunnel",
-            "LOCATION_CN": "大欖隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-16T09:23:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107927",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，大欖隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-16T09:29:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "107928",
-                "CONTENT_EN": "The tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的大欖隧道(往九龍方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-12-16T10:22:41",
-        "last_announcement": "2024-12-16T09:29:00"
-    },
     "IN-24-07266": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -221,45 +136,6 @@
         "district": "東區",
         "last_update": "2024-12-16T12:35:03",
         "last_announcement": "2024-12-16T10:49:00"
-    },
-    "IN-24-07267": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Canal Road Flyover",
-            "LOCATION_CN": "堅拿道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen Tunnel",
-            "DIRECTION_CN": "香港仔隧道",
-            "NEAR_LANDMARK_EN": "Sharp Street East",
-            "NEAR_LANDMARK_CN": "霎東街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-16T09:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "107930",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Canal Road Flyover (Aberdeen Tunnel bound) near Sharp Street East is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，堅拿道天橋(往香港仔隧道方向)近霎東街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-16T10:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107932",
-                "CONTENT_EN": "Part of the lanes of Canal Road Flyover (Aberdeen Tunnel bound) near Sharp Street East which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的堅拿道天橋(往香港仔隧道方向)近霎東街的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-12-16T10:22:41",
-        "last_announcement": "2024-12-16T10:04:00"
     },
     "IN-24-07268": {
         "description": {
@@ -2739,5 +2615,76 @@
         "district": "中西區",
         "last_update": "2024-12-19T09:20:55",
         "last_announcement": "2024-12-19T07:59:00"
+    },
+    "IN-24-07333": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Po Lam Road",
+            "LOCATION_CN": "寶琳路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Ma Yau Tong",
+            "NEAR_LANDMARK_CN": "馬游塘",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-19T09:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108093",
+                "CONTENT_EN": "Due to fire , the one-lane-two-way traffic arrangement is being implemented on Po Lam Road near Ma Yau Tong. Traffic is busy now.",
+                "CONTENT_CN": "因火警，寶琳路近馬游塘現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2024-12-19T09:56:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108094",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Po Lam Road near Ma Yau Tong due to fire is now cancelled.",
+                "CONTENT_CN": "較早前因火警而於寶琳路近馬游塘實施的單線雙程行車措施現已取消。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2024-12-19T10:39:22",
+        "last_announcement": "2024-12-19T09:56:00"
+    },
+    "IN-24-07332": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Po Kong Village Road",
+            "NEAR_LANDMARK_CN": "蒲崗村道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-19T10:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108095",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Po Kong Village Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近蒲崗村道的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2024-12-19T10:39:22",
+        "last_announcement": "2024-12-19T10:00:00"
     }
 }
