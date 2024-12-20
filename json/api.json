@@ -105,70 +105,6 @@
         "last_update": "2024-12-20T08:43:06",
         "last_announcement": "2024-12-20T08:04:00"
     },
-    "IN-24-07302": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lantau Link",
-            "LOCATION_CN": "青嶼幹線",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Lantau Administration Building",
-            "NEAR_LANDMARK_CN": "大嶼山行政大樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-17T18:43:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108015",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Kowloon bound) near Lantau Administration Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青嶼幹線(往九龍方向)近大嶼山行政大樓的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-12-17T19:10:31",
-        "last_announcement": "2024-12-17T18:43:00"
-    },
-    "IN-24-07304": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsuen Wan Road",
-            "LOCATION_CN": "荃灣路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Tai Chung Road Interchange",
-            "NEAR_LANDMARK_CN": "大涌道迴旋處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-17T18:59:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "108019",
-                "CONTENT_EN": "The slow lane of Tsuen Wan Road (Tuen Mun bound) near Tai Chung Road Interchange which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往屯門方向)近大涌道迴旋處的慢線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2024-12-17T19:10:31",
-        "last_announcement": "2024-12-17T18:59:00"
-    },
     "IN-24-07305": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2280,10 +2216,49 @@
                 "ID": "108149",
                 "CONTENT_EN": "Kai Tak Tunnel (Tsim Sha Tsui bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "啟德隧道(往尖沙咀方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-12-20T19:11:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108155",
+                "CONTENT_EN": "Traffic at Kai Tak Tunnel (Tsim Sha Tsui bound) has resumed normal.",
+                "CONTENT_CN": "啟德隧道(往尖沙咀方向)的交通現已恢復正常。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-12-20T19:06:23",
-        "last_announcement": "2024-12-20T18:46:00"
+        "last_update": "2024-12-20T19:21:51",
+        "last_announcement": "2024-12-20T19:11:00"
+    },
+    "IN-24-07360": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy Road Sections",
+            "LOCATION_CN": "繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-20T19:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108153",
+                "CONTENT_EN": "The following road sections are busy:\n– Chatham Road South (Salisbury Road bound)\n– Nathan Road (Salisbury Road bound)\n– Salisbury Road (Tsim Sha Tsui Ferry Pier bound)\n– Kowloon Park Drive (Tsim Sha Tsui Ferry Pier bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–漆咸道南(往梳士巴利道方向)\n–彌敦道(往梳士巴利道方向)\n–梳士巴利道(往尖沙咀碼頭方向)\n–九龍公園徑(往尖沙咀碼頭方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2024-12-20T19:21:51",
+        "last_announcement": "2024-12-20T19:06:00"
     }
 }
