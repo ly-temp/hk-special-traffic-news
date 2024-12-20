@@ -38,45 +38,6 @@
         "last_update": "2024-12-18T09:55:08",
         "last_announcement": "2024-12-18T08:28:00"
     },
-    "IN-24-07286": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Pok Fu Lam Road",
-            "LOCATION_CN": "薄扶林道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Ebenezer School  Home For The Visually Impaired",
-            "NEAR_LANDMARK_CN": "心光盲人院暨學校",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-17T08:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107979",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Pok Fu Lam Road (both bounds) near Ebenezer School amp; Home For The Visually Impaired is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Pok Fu Lam Road (Sai Wan bound) ends at Pok Fu Lam Road near Pokfulam Gardens and traffic queue on Pok Fu Lam Road (Aberdeen bound) ends at Pok Fu Lam Road near Queen Mary Hospital. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，薄扶林道(來回方向)近心光盲人院暨學校的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在薄扶林道(往西環方向)的車龍龍尾已到薄扶林道近薄扶林花園及薄扶林道(往香港仔方向)的車龍龍尾已到薄扶林道近瑪麗醫院。 現時上址交通擠塞。"
-            },
-            "2024-12-17T09:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "107981",
-                "CONTENT_EN": "Part of the lanes of Pok Fu Lam Road (both bounds) near Ebenezer School amp; Home For The Visually Impaired which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的薄扶林道(來回方向)近心光盲人院暨學校的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-12-17T10:54:51",
-        "last_announcement": "2024-12-17T09:51:00"
-    },
     "IN-24-07288": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2380,11 +2341,25 @@
                 "ID": "108125",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Princess Margaret Hospital is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近瑪嘉烈醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-20T10:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108132",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Kowloon bound) near Princess Margaret Hospital is still being closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青葵公路(往九龍方向)近瑪嘉烈醫院的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-20T10:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108134",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Kowloon bound) near Princess Margaret Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往九龍方向)近瑪嘉烈醫院的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2024-12-20T10:08:12",
-        "last_announcement": "2024-12-20T09:08:00"
+        "last_update": "2024-12-20T10:56:33",
+        "last_announcement": "2024-12-20T10:18:00"
     },
     "IN-24-07349": {
         "description": {
@@ -2419,11 +2394,18 @@
                 "ID": "108129",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Choi Hung Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lung Cheung Road (Tsuen Wan bound) ends at Kwun Tong Road near Kai Yip Estate. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近彩虹邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往荃灣方向)的車龍龍尾已到觀塘道近啟業邨。 現時上址交通擠塞。"
+            },
+            "2024-12-20T10:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108131",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Choi Hung Estate which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近彩虹邨的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2024-12-20T10:08:12",
-        "last_announcement": "2024-12-20T09:53:00"
+        "last_update": "2024-12-20T10:56:33",
+        "last_announcement": "2024-12-20T10:04:00"
     },
     "IN-24-07350": {
         "description": {
@@ -2456,5 +2438,44 @@
         "district": "東區",
         "last_update": "2024-12-20T10:08:12",
         "last_announcement": "2024-12-20T09:47:00"
+    },
+    "IN-24-07351": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwai Chung Road",
+            "LOCATION_CN": "葵涌道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lei Muk Shue",
+            "DIRECTION_CN": "梨木樹",
+            "NEAR_LANDMARK_EN": "Kwok Shui Road",
+            "NEAR_LANDMARK_CN": "國瑞路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-20T10:13:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108133",
+                "CONTENT_EN": "Due to traffic accident , the only lane of Kwai Chung Road flyover (Lei Muk Shue bound) near Kwok Shui Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，葵涌道天橋(往梨木樹方向)近國瑞路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-12-20T10:23:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108135",
+                "CONTENT_EN": "The only lane of Kwai Chung Road flyover (Lei Muk Shue bound) near Kwok Shui Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的葵涌道天橋(往梨木樹方向)近國瑞路的唯一行車線現已解封。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2024-12-20T10:56:33",
+        "last_announcement": "2024-12-20T10:23:00"
     }
 }
