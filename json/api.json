@@ -144,38 +144,6 @@
         "last_update": "2024-12-17T17:18:39",
         "last_announcement": "2024-12-17T16:49:00"
     },
-    "IN-24-07297": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Pok Fu Lam Road",
-            "LOCATION_CN": "薄扶林道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen",
-            "DIRECTION_CN": "香港仔",
-            "NEAR_LANDMARK_EN": "Queen Mary Hospital",
-            "NEAR_LANDMARK_CN": "瑪麗醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-17T16:25:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "108002",
-                "CONTENT_EN": "Part of the lanes of Pok Fu Lam Road (Aberdeen bound) near Queen Mary Hospital which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的薄扶林道(往香港仔方向)近瑪麗醫院的部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2024-12-17T16:41:48",
-        "last_announcement": "2024-12-17T16:25:00"
-    },
     "IN-24-07298": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
