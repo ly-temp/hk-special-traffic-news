@@ -2287,11 +2287,18 @@
                 "ID": "108156",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Tai Po bound) near University MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，吐露港公路(往大埔方向)近大學港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-20T19:36:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108158",
+                "CONTENT_EN": "Part of the lanes of Tolo Highway (Tai Po bound) near University MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往大埔方向)近大學港鐵站的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2024-12-20T19:32:49",
-        "last_announcement": "2024-12-20T19:22:00"
+        "last_update": "2024-12-20T19:53:01",
+        "last_announcement": "2024-12-20T19:36:00"
     },
     "IN-24-07362": {
         "description": {
@@ -2319,10 +2326,17 @@
                 "ID": "108157",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Wong Chu Road (Tuen Mun Road bound) near Tuen Mun Heung Sze Wui Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，皇珠路(往屯門公路方向)近屯門鄉事會路的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-20T19:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108159",
+                "CONTENT_EN": "The slow lane of Wong Chu Road (Tuen Mun Road bound) near Tuen Mun Heung Sze Wui Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的皇珠路(往屯門公路方向)近屯門鄉事會路的慢線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-12-20T19:42:54",
-        "last_announcement": "2024-12-20T19:31:00"
+        "last_update": "2024-12-20T19:53:01",
+        "last_announcement": "2024-12-20T19:42:00"
     }
 }
