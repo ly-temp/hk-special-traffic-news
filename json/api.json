@@ -105,38 +105,6 @@
         "last_update": "2024-12-18T20:46:53",
         "last_announcement": "2024-12-18T20:12:00"
     },
-    "IN-24-07330": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train service enhancement during Christmas  New Year",
-            "INCIDENT_DETAIL_CN": "聖誕新年期間加強服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-18T19:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108083",
-                "CONTENT_EN": "MTR have added extra train trips and adjusted servicehours during Christmas and New Year as follows:\n\nChristmas Eve (24 December)\n· Alllocal lines and 7 Light Rail routes will operate overnight (except for Airport Express, Disneyland Resort Line and journeys to or from Lo Wu and Lok Ma Chau stations on the East Rail Line)\n· Servicehours will be extended on 3 bus routes (506, K51 and K54)\n\n\nNew Year's Eve (31 December)​\n· Alllocal lines and 7 Light Rail routes will operate overnight (except for Airport Express, Disneyland Resort Line and journeys to or from Lo Wu and Lok Ma Chau stations on the East Rail Line)\n· DisneylandResort Line service hours will be extended\n· Servicehours will be extended on 3 bus routes (506, K51 and K54)\n\nThere will be a total of 2,200 extra train trips between 20 December and 1 January. The Island Line and South Island Line will operate at an increased frequency of approximately 3-4 minutes most of the time during the weekends and holidays. The Airport Express will provide addition early and late train trips as follows:\n· 25 December and 1 January: the first train will depart from Hong Kong Station at 5:30am\n· 29 December and 1 January: the last train will depart from AsiaWorld-Expo Station at 1:00am the next day\n\nPlease refer to MTR's website for more information. \n\nCrowd management measures may be implemented instations. Please refer to the latest service updates.",
-                "CONTENT_CN": "港鐵於聖誕及新年期間服務安排如下：\n\n平安夜（12月24日）​\n·本地鐵路綫及7條輕鐵路綫通宵行駛（不包括機場快綫、迪士尼綫及東鐵綫往返羅湖及落馬洲站）\n·3條巴士綫（506、K51及K54）延長服務時間\n\n\n除夕夜（12月31日）​\n·本地鐵路綫及7條輕鐵路綫通宵行駛（不包括機場快綫、迪士尼綫及東鐵綫往返羅湖及落馬洲站）\n·迪士尼綫延長服務時間\n·3條巴士綫（506、K51及K54）延長服務時間\n\n此外，12月20日至1月1日期間，部份本地鐵路綫於不同時段加密列車班次，總共增加2200班列車，其中港島綫及南港島綫於周末及假日大部份時間將加密至約3至4分鐘一班車。而機場快綫會作出以下特別安排，方便出行旅客：\n·12月25日及1月1日：香港站頭班車提前於早上05:30開出\n·12月29日及1月1日：博覽館站尾班車延至翌日凌晨01:00開出\n\n詳情請參考港鐵網頁。\n\n部分車站在人多時或會實施客流管理措施，請留意最新車務資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-12-18T19:37:13",
-        "last_announcement": "2024-12-18T19:15:00"
-    },
     "IN-24-07322": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2024,11 +1992,18 @@
                 "ID": "108219",
                 "CONTENT_EN": "The following road sections is busy:\n– Tuen Mun Road (Yuen Long bound)\n\nThe following road sections have resumed normal:\n– Tseung Kwan O Road (Tseung Kwan O Tunnel bound)\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\n– Tai Po Road - Sha Tin (Tai Po bound)\n\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–屯門公路(往元朗方向)\n\n以下路段的交通現已恢復正常:\n–將軍澳道(往將軍澳隧道方向)\n–觀塘繞道(往大老山隧道方向)\n–大埔公路　–　沙田段(往大埔方向)\n\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-12-21T19:29:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108220",
+                "CONTENT_EN": "Traffic at the following road sections has resumed normal:\n– Tuen Mun Road (Yuen Long bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–屯門公路(往元朗方向)。"
             }
         },
         "district": "大埔區",
-        "last_update": "2024-12-21T19:13:22",
-        "last_announcement": "2024-12-21T19:00:00"
+        "last_update": "2024-12-21T19:45:07",
+        "last_announcement": "2024-12-21T19:29:00"
     },
     "IN-24-07379": {
         "description": {
