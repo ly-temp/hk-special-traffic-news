@@ -2270,5 +2270,37 @@
         "district": "沙田區",
         "last_update": "2024-12-21T16:46:35",
         "last_announcement": "2024-12-21T16:36:00"
+    },
+    "IN-24-07376": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-21T16:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108196",
+                "CONTENT_EN": "The below High Speed Rail (Hong Kong Section) train trips will be arranged and amended starting from 5 January 2025: - Launch a new long-haul line to Xi’anbei, stopping at new stations including Luoyang Longmen and Huashanbei and provides one pair of northbound and southbound train trips daily; - Enhance train services to Shenzhenbei Station, Shanwei Station, and Wuhan Station, with one additional pair of train trips being added daily; - The Shanghai Hongqiao line (non-sleeper trains) will be adjusted to stop at Nanchangxi Station, Huangshanbei Station, Hangzhouxi Station, and Suzhounan Station (commencement date to be announced). - A pair of trains originally departing/terminating at Chaoshan Station will be rerouted to Meizhouxi Station, with a new intermediate stop at Longchuanxi Station (commencement date to be announced). Except for train services with commencement dates yet to be announced, tickets for the new train services will be available for sale starting December 22. Tickets are available for sale through the 12306 official website (12306. cn) or mobile app; appointed travel agents or at Hong Kong West Kowloon Station. For train schedules, please refer to the 12306 official website (12306. cn) or mobile app, High Speed Rail website or mobile app.",
+                "CONTENT_CN": "以下高速鐵路(香港段)的班次將由2025年1月5日起於作出服務提升及調整: -新增西安北長途綫，途經洛陽龍門、華山北等新站點，每日提供北行及南行各一班列車； -加強來往深圳北站、汕尾站及武漢站的列車服務，每日各加開一對列車； -上海虹橋綫(非臥鋪列車)改停南昌東站、黃山北站、杭州西站及蘇州南站（開通時間待公布）； -一對原本以潮汕站為起點/終點的列車將改道，新增停靠龍川西站，並改以梅州西為起點/終點（開通時間待公布）。 除開通時間待公布的列車服務外，新增列車服務的車票將於12月22日起發售。你可透過12306官方網站（12306.cn）或手機應用程式、指定代理或前往香港西九龍站購買車票。 有關列車服務詳情，請瀏覽12306官方網站（12306.cn）或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-12-21T17:17:42",
+        "last_announcement": "2024-12-21T16:55:00"
     }
 }
