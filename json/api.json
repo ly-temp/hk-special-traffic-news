@@ -1354,10 +1354,17 @@
                 "ID": "108276",
                 "CONTENT_EN": "Due to road works, part of the lanes of Island Eastern Corridor (Central bound) near Tong Shui Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因道路工程，東區走廊(往中環方向)近糖水道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-24T06:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108277",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Tong Shui Road which was closed due to road works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路工程而封閉的東區走廊(往中環方向)近糖水道的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2024-12-24T00:08:12",
-        "last_announcement": "2024-12-23T23:45:00"
+        "last_update": "2024-12-24T06:18:14",
+        "last_announcement": "2024-12-24T06:00:00"
     }
 }
