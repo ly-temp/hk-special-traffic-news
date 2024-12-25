@@ -135,11 +135,18 @@
                 "ID": "108252",
                 "CONTENT_EN": "Due to watermain emergency works , the middle lane of Tonkin Street (Lei Cheng Uk Estate bound) near Lai Chi Kok Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，東京街(往李鄭屋邨方向)近荔枝角道的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-25T09:12:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108308",
+                "CONTENT_EN": "The middle lane of Tonkin Street (Lei Cheng Uk Estate bound) near Lai Chi Kok Road which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的東京街(往李鄭屋邨方向)近荔枝角道的中線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-12-23T12:24:18",
-        "last_announcement": "2024-12-23T11:49:00"
+        "last_update": "2024-12-25T09:36:47",
+        "last_announcement": "2024-12-25T09:12:00"
     },
     "IN-24-07402": {
         "description": {
@@ -1033,5 +1040,69 @@
         "district": "黃大仙區",
         "last_update": "2024-12-25T02:44:53",
         "last_announcement": "2024-12-25T02:22:00"
+    },
+    "IN-24-07424": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Wo Che Street",
+            "LOCATION_CN": "禾輋街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Shatin Police Station",
+            "DIRECTION_CN": "沙田警署",
+            "NEAR_LANDMARK_EN": "Fung Shun Street",
+            "NEAR_LANDMARK_CN": "豐順街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-25T08:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108306",
+                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Wo Che Street (Shatin Police Station bound) near Fung Shun Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，禾輋街(往沙田警署方向)近豐順街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2024-12-25T09:36:47",
+        "last_announcement": "2024-12-25T08:07:00"
+    },
+    "IN-24-07330": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train service enhancement during Christmas  New Year",
+            "INCIDENT_DETAIL_CN": "聖誕新年期間加強服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-25T08:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108307",
+                "CONTENT_EN": "To make trips more convenient during the festive season, MTRCL has added extra train trips and adjusted service hours as follows:\nNew Year's Eve (31 December) ​\n- All local lines and 7 Light Rail routes will operate overnight (except for Airport Express, Disneyland Resort Line and journeys to or from Lo Wu and Lok Ma Chau stations on the East Rail Line)\n- Disneyland Resort Line service hours will be extended\n- Service hours will be extended on 3 bus routes (506, K51 and K54)\n\nThere will be a total of 2,200 extra train trips between 20 December and 1 January. The Island Line and South Island Line will operate at an increased frequencyof approximately 3-4 minutes most of the time during the weekends and holidays. \n\nThe Airport Express will provide addition early and late train trips as follows:\n- 25 December and 1 January: the first train will depart from Hong Kong Station at 5:30am\n- 29 December and 1 January: the last train will depart from AsiaWorld-Expo Station at 1:00am the next day\n\nPlease refer to MTRCL website for more information.",
+                "CONTENT_CN": "為方便乘客外出歡度佳節，港鐵公司服務安排如下：\n除夕夜（12月31日）​\n- 本地鐵路綫及7條輕鐵路綫通宵行駛（不包括機場快綫、迪士尼綫及東鐵綫往返羅湖及落馬洲站）\n- 迪士尼綫延長服務時間\n- 3條巴士綫（506、K51及K54）延長服務時間\n\n此外，12月20日至1月1日期間，部分本地鐵路綫於不同時段加密列車班次，總共增加2200班列車，其中港島綫及南港島綫於周末及假日大部份時間將加密至約3至4分鐘一班車。\n\n而機場快綫會作出以下特別安排，方便出行旅客：\n- 12月25日及1月1日：香港站頭班車提前於早上05:30開出\n- 12月29日及1月1日：博覽館站尾班車延至翌日凌晨01:00開出\n\n詳情請參閱港鐵網站。"
+            }
+        },
+        "district": null,
+        "last_update": "2024-12-25T09:36:47",
+        "last_announcement": "2024-12-25T08:12:00"
     }
 }
