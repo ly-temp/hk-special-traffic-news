@@ -1,43 +1,4 @@
 {
-    "IN-24-07400": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Fu Kin Street",
-            "LOCATION_CN": "富健街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Lung Hang Estate",
-            "NEAR_LANDMARK_CN": "隆亨邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-23T11:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108250",
-                "CONTENT_EN": "Due to emergency incident , part of the lanes of Fu Kin Street (both bounds) near Lung Hang Estate are closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因突發事件，富健街(來回方向)近隆亨邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-23T11:42:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "108251",
-                "CONTENT_EN": "Part of the lanes of Fu Kin Street (both bounds) near Lung Hang Estate which was closed due to emergency incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因突發事件而封閉的富健街(來回方向)近隆亨邨的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2024-12-23T11:56:54",
-        "last_announcement": "2024-12-23T11:42:00"
-    },
     "IN-24-07401": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
