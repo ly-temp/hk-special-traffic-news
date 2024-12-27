@@ -38,84 +38,6 @@
         "last_update": "2024-12-25T09:36:47",
         "last_announcement": "2024-12-25T09:12:00"
     },
-    "IN-24-07419": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ping Shek Estate",
-            "NEAR_LANDMARK_CN": "坪石邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-24T15:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108291",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Lung Cheung Road flyover (Kwun Tong bound) near Ping Shek Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道天橋(往觀塘方向)近坪石邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-24T16:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108294",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Lung Cheung Road flyover (Kwun Tong bound) near Ping Shek Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lung Cheung Road (Kwun Tong bound) ends at Lung Cheung Road near Wong Tai Sin MTR Station. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，龍翔道天橋(往觀塘方向)近坪石邨的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道(往觀塘方向)的車龍龍尾已到龍翔道近黃大仙港鐵站。 現時上址交通擠塞。"
-            },
-            "2024-12-24T16:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108296",
-                "CONTENT_EN": "The slow lane of Lung Cheung Road flyover (Kwun Tong bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道天橋(往觀塘方向)近坪石邨的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2024-12-24T16:24:11",
-        "last_announcement": "2024-12-24T16:10:00"
-    },
-    "IN-24-07420": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-24T15:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108295",
-                "CONTENT_EN": "The following road sections are busy:\nKowloon:\n– Salisbury Road (Star Ferry Pier bound)\n– Canton Road (Star Ferry Pier bound)\n– Austin Road near Canton Road (both bounds)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n九龍區:\n–梳士巴利道(往天星碼頭方向)\n–廣東道(往天星碼頭方向)\n–柯士甸道近廣東道(來回方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2024-12-24T16:24:11",
-        "last_announcement": "2024-12-24T15:57:00"
-    },
     "IN-24-07421": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
@@ -1163,11 +1085,18 @@
                 "ID": "108358",
                 "CONTENT_EN": "The following road sections are busy:\n– Repulse Bay Road near Island Road\n– Island Road near Repulse Bay Road\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n–淺水灣道近香島道\n–香島道近淺水灣道\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2024-12-27T16:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108364",
+                "CONTENT_EN": "Traffic at the following road section(s) have resumed normal: – Repulse Bay Road near Island Road – Island Road near Repulse Bay Road",
+                "CONTENT_CN": "以下路段的交通現已恢復正常: –淺水灣道近香島道 –香島道近淺水灣道"
             }
         },
         "district": null,
-        "last_update": "2024-12-27T14:24:49",
-        "last_announcement": "2024-12-27T14:09:00"
+        "last_update": "2024-12-27T16:28:38",
+        "last_announcement": "2024-12-27T16:00:00"
     },
     "IN-24-07447": {
         "description": {
@@ -1227,11 +1156,18 @@
                 "ID": "108361",
                 "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Pak Wo Road (Jockey Club Road bound) near Pak Fuk Tin Sum Playground is closed to all traffic. Only remaining lanes are available to motorists. At the same time, vehicles cannot make left turning from Pak Wo Road (Jockey Club Road bound) to Yat Ming Road. Traffic is busy now.",
                 "CONTENT_CN": "因車輛着火，百和路(往馬會道方向)近百福田心遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 同時，車輛不能由百和路(往馬會道方向)左轉一鳴路。 現時上址交通繁忙。"
+            },
+            "2024-12-27T15:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108363",
+                "CONTENT_EN": "Part of the lanes of Pak Wo Road (Jockey Club Road bound) near Pak Fuk Tin Sum Playground which was closed due to vehicle on fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛着火而封閉的百和路(往馬會道方向)近百福田心遊樂場的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2024-12-27T15:38:58",
-        "last_announcement": "2024-12-27T15:25:00"
+        "last_update": "2024-12-27T16:28:38",
+        "last_announcement": "2024-12-27T15:58:00"
     },
     "IN-24-07449": {
         "description": {
@@ -1264,5 +1200,37 @@
         "district": "南區",
         "last_update": "2024-12-27T15:59:20",
         "last_announcement": "2024-12-27T15:41:00"
+    },
+    "IN-24-07451": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Hong Lok Yuen",
+            "NEAR_LANDMARK_CN": "康樂園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-27T16:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108367",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Sheung Shui bound) near Hong Lok Yuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往上水方向)近康樂園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2024-12-27T16:28:38",
+        "last_announcement": "2024-12-27T16:11:00"
     }
 }
