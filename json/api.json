@@ -38,59 +38,6 @@
         "last_update": "2024-12-27T06:52:11",
         "last_announcement": "2024-12-27T06:34:00"
     },
-    "IN-24-07428": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Marble Road",
-            "LOCATION_CN": "馬寶道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Shu Kuk Street",
-            "NEAR_LANDMARK_CN": "書局街",
-            "BETWEEN_LANDMARK_EN": "Tin Chiu Street",
-            "BETWEEN_LANDMARK_CN": "電照街",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-25T16:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108313",
-                "CONTENT_EN": "Due to fire , all lanes of Marble Road between Shu Kuk Street and Tin Chiu Street is closed to all traffic.   At the same time, part of the lanes of Java Road (Quarry Bay bound) is closed to all traffic. Only remaining lanes are available to motorists. \nVehicles cannot make right turning from Java Road (Quarry Bay bound) to Kam Hong Street.   Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因火警，馬寶道介乎書局街與電照街之間的全線現已封閉。  同時，渣華道(往鰂魚涌方向)近琴行街的部分行車線現已封閉。駕駛人士只可使用餘下行車線行車。\n車輛不能由渣華道(往鰂魚涌方向)右轉琴行街。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2024-12-25T17:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108315",
-                "CONTENT_EN": "Due to fire , all lanes of Marble Road between Shu Kuk Street and Tin Chiu Street is still being closed to all traffic.   At the same time, part of the lanes of Java Road (Quarry Bay bound) is still being closed to all traffic. Only remaining lanes are available to motorists. \nVehicles cannot make right turning from Java Road (Quarry Bay bound) to Kam Hong Street.   Affected CTB bus routes nos. 10, 23, 27 and 82 have been diverted.   Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因火警，馬寶道介乎書局街與電照街之間的全線仍然封閉。  同時，渣華道(往鰂魚涌方向)近琴行街的部分行車線仍然封閉。駕駛人士只可使用餘下行車線行車。\n車輛不能由渣華道(往鰂魚涌方向)右轉琴行街。  受影響城巴巴士第10、23、27及82號線須改道行駛。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2024-12-25T20:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108320",
-                "CONTENT_EN": "Due to fire , all lanes of Marble Road  between Shu Kuk Street and Tin Chiu Street are still being closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因火警，馬寶道介乎書局街與電照街之間的全線仍然封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2024-12-25T23:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108328",
-                "CONTENT_EN": "All lanes of Marble Road  between Kam Hong Street and Tin Chiu Street which were closed due to fire are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因火警而封閉的馬寶道介乎琴行街與電照街之間的全線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2024-12-25T23:40:55",
-        "last_announcement": "2024-12-25T23:22:00"
-    },
     "IN-24-07433": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
