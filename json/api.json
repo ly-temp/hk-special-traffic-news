@@ -1422,11 +1422,18 @@
                 "ID": "108398",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Shap Pat Heung Interchange  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，十八鄉交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-28T15:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108401",
+                "CONTENT_EN": "Part of the lanes of Shap Pat Heung Interchange  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的十八鄉交匯處的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2024-12-28T15:14:47",
-        "last_announcement": "2024-12-28T15:07:00"
+        "last_update": "2024-12-28T16:23:48",
+        "last_announcement": "2024-12-28T15:53:00"
     },
     "IN-24-07464": {
         "description": {
@@ -1454,11 +1461,18 @@
                 "ID": "108399",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Cooke Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，漆咸道北(往油麻地方向)近曲街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-28T16:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108403",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Yau Ma Tei bound) near Cooke Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的漆咸道北(往油麻地方向)近曲街的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2024-12-28T15:36:44",
-        "last_announcement": "2024-12-28T15:25:00"
+        "last_update": "2024-12-28T16:23:48",
+        "last_announcement": "2024-12-28T16:05:00"
     },
     "IN-24-07465": {
         "description": {
@@ -1486,10 +1500,17 @@
                 "ID": "108400",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Hip Wo Street (Sau Mau Ping bound) near Yuet Wah Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，協和街(往秀茂坪方向)近月華街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-28T15:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108402",
+                "CONTENT_EN": "Part of the lanes of Hip Wo Street (Sau Mau Ping bound) near Yuet Wah Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的協和街(往秀茂坪方向)近月華街的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2024-12-28T15:57:01",
-        "last_announcement": "2024-12-28T15:48:00"
+        "last_update": "2024-12-28T16:23:48",
+        "last_announcement": "2024-12-28T15:58:00"
     }
 }
