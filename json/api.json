@@ -1335,5 +1335,44 @@
         "district": "觀塘區",
         "last_update": "2024-12-29T15:37:21",
         "last_announcement": "2024-12-29T15:25:00"
+    },
+    "IN-24-07474": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Lai Chi Kok Road",
+            "LOCATION_CN": "荔枝角道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mei Foo",
+            "DIRECTION_CN": "美孚",
+            "NEAR_LANDMARK_EN": "Nam Cheong Street",
+            "NEAR_LANDMARK_CN": "南昌街",
+            "BETWEEN_LANDMARK_EN": "Kweilin Street",
+            "BETWEEN_LANDMARK_CN": "桂林街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-29T17:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108419",
+                "CONTENT_EN": "Due to emergency incident , all lanes of Lai Chi Kok Road (Mei Foo bound) between Nam Cheong Street and Kweilin Street is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，荔枝角道(往美孚方向)介乎南昌街與桂林街之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2024-12-29T17:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108421",
+                "CONTENT_EN": "Due to emergency incident , part of the lanes of Lai Chi Kok Road (Mei Foo bound) near Nam Cheong Street is still being closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，荔枝角道(往美孚方向)近南昌街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2024-12-29T18:10:42",
+        "last_announcement": "2024-12-29T17:50:00"
     }
 }
