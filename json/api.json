@@ -1342,5 +1342,37 @@
         "district": "深水埗區",
         "last_update": "2024-12-29T18:30:31",
         "last_announcement": "2024-12-29T18:12:00"
+    },
+    "IN-24-07475": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Castle Peak Road - Yuen Long",
+            "LOCATION_CN": "青山公路　–　元朗段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Long Yip Street",
+            "NEAR_LANDMARK_CN": "朗業街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2024-12-29T22:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108423",
+                "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Castle Peak Road - Yuen Long (Sheung Shui bound) near Long Yip Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，青山公路　–　元朗段(往上水方向)近朗業街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2024-12-29T22:30:46",
+        "last_announcement": "2024-12-29T22:22:00"
     }
 }
