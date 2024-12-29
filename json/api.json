@@ -38,45 +38,6 @@
         "last_update": "2024-12-28T07:24:09",
         "last_announcement": "2024-12-28T06:59:00"
     },
-    "IN-24-07441": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Wuhu Street",
-            "NEAR_LANDMARK_CN": "蕪湖街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-27T06:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108345",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Wuhu Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往油麻地方向)近蕪湖街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-27T06:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108347",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Yau Ma Tei bound) near Wuhu Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往油麻地方向)近蕪湖街的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2024-12-27T07:10:07",
-        "last_announcement": "2024-12-27T06:45:00"
-    },
     "IN-24-07442": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1337,10 +1298,17 @@
                 "ID": "108423",
                 "CONTENT_EN": "Due to watermain emergency works , part of the lanes of Castle Peak Road - Yuen Long (Sheung Shui bound) near Long Yip Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，青山公路　–　元朗段(往上水方向)近朗業街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2024-12-30T06:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108425",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Yuen Long (Sheung Shui bound) near Long Yip Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的青山公路　–　元朗段(往上水方向)近朗業街的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2024-12-29T22:30:46",
-        "last_announcement": "2024-12-29T22:22:00"
+        "last_update": "2024-12-30T07:13:06",
+        "last_announcement": "2024-12-30T06:49:00"
     }
 }
