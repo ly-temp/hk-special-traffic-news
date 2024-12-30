@@ -1,43 +1,4 @@
 {
-    "IN-24-07434": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Fenwick Pier Street",
-            "LOCATION_CN": "分域碼頭街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lung Wui Road",
-            "DIRECTION_CN": "龍匯道",
-            "NEAR_LANDMARK_EN": "Hong Kong Academy for Performing Arts",
-            "NEAR_LANDMARK_CN": "香港演藝學院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-26T08:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108332",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Fenwick Pier Street (Lung Wui Road bound) near Hong Kong Academy for Performing Arts is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因水管爆裂，分域碼頭街(往龍匯道方向)近香港演藝學院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2024-12-28T06:59:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "108392",
-                "CONTENT_EN": "Part of the lanes of Fenwick Pier Street (Lung Wui Road bound) near Hong Kong Academy for Performing Arts which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的分域碼頭街(往龍匯道方向)近香港演藝學院的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2024-12-28T07:24:09",
-        "last_announcement": "2024-12-28T06:59:00"
-    },
     "IN-24-07460": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
