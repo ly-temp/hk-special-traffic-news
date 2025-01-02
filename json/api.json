@@ -1,121 +1,4 @@
 {
-    "IN-24-07476": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Airport Road",
-            "LOCATION_CN": "機場路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport South Interchange",
-            "DIRECTION_CN": "機場南交匯處",
-            "NEAR_LANDMARK_EN": "North Lantau Hospital Hong Kong Infection Control Centre",
-            "NEAR_LANDMARK_CN": "北大嶼山醫院香港感染控制中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-30T07:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108426",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Airport Road (Airport South Interchange bound) near North Lantau Hospital Hong Kong Infection Control Centre is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，機場路(往機場南交匯處方向)近北大嶼山醫院香港感染控制中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-30T08:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108431",
-                "CONTENT_EN": "Part of the lanes of Airport Road (Airport South Interchange bound) near North Lantau Hospital Hong Kong Infection Control Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的機場路(往機場南交匯處方向)近北大嶼山醫院香港感染控制中心的部份行車線現已解封。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-12-30T09:51:59",
-        "last_announcement": "2024-12-30T08:19:00"
-    },
-    "IN-24-07477": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Lung Cheung Road Playground",
-            "NEAR_LANDMARK_CN": "龍翔道遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-30T08:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108427",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近龍翔道遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-30T08:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108435",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往觀塘方向)近龍翔道遊樂場的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2024-12-30T09:51:59",
-        "last_announcement": "2024-12-30T08:30:00"
-    },
-    "IN-24-07478": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Yi North Coastal Road",
-            "LOCATION_CN": "青衣北岸公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": "Tam Kon Shan Interchange",
-            "NEAR_LANDMARK_CN": "担杆山交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2024-12-30T08:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "108429",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Yi North Coastal Road (Airport bound) near Tam Kon Shan Interchange is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青衣北岸公路(往機場方向)近担杆山交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2024-12-30T08:29:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "108434",
-                "CONTENT_EN": "Part of the lanes of Tsing Yi North Coastal Road (Airport bound) near Tam Kon Shan Interchange which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青衣北岸公路(往機場方向)近担杆山交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2024-12-30T09:51:59",
-        "last_announcement": "2024-12-30T08:29:00"
-    },
     "IN-24-07480": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1984,11 +1867,18 @@
                 "ID": "108558",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Sha Wan Road (Mong Kok bound) near Mei Lai Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，長沙灣道(往旺角方向)近美荔道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-01-02T09:55:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "108560",
+                "CONTENT_EN": "Part of the lanes of Cheung Sha Wan Road (Mong Kok bound) near Mei Lai Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的長沙灣道(往旺角方向)近美荔道的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2025-01-02T09:47:56",
-        "last_announcement": "2025-01-02T09:12:00"
+        "last_update": "2025-01-02T10:39:55",
+        "last_announcement": "2025-01-02T09:55:00"
     },
     "IN-25-00010": {
         "description": {
@@ -2021,5 +1911,37 @@
         "district": "屯門區",
         "last_update": "2025-01-02T09:47:56",
         "last_announcement": "2025-01-02T09:23:00"
+    },
+    "IN-25-00012": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Chek Lap Kok Tunnel",
+            "LOCATION_CN": "屯門赤鱲角隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-01-02T09:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108562",
+                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Tuen Mun Chek Lap Kok Tunnel (Airport bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門赤鱲角隧道(往機場方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-01-02T10:39:55",
+        "last_announcement": "2025-01-02T09:55:00"
     }
 }
