@@ -1068,5 +1068,37 @@
         "district": "葵青區",
         "last_update": "2025-01-04T00:28:29",
         "last_announcement": "2025-01-04T00:12:00"
+    },
+    "IN-25-00030": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Cheung Pei Shan Road",
+            "LOCATION_CN": "象鼻山路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Shek Wai Kok Estate",
+            "NEAR_LANDMARK_CN": "石圍角邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-01-04T06:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108619",
+                "CONTENT_EN": "The fast lane of Cheung Pei Shan Road (both bounds) near Shek Wai Kok Estate which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的象鼻山路(來回方向)近石圍角邨的快線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-01-04T06:32:22",
+        "last_announcement": "2025-01-04T06:19:00"
     }
 }
