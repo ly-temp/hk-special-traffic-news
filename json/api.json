@@ -1124,5 +1124,37 @@
         "district": "荃灣區",
         "last_update": "2025-01-03T18:50:01",
         "last_announcement": "2025-01-03T18:36:00"
+    },
+    "IN-25-00024": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Percival Street",
+            "LOCATION_CN": "波斯富街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Russell Street",
+            "NEAR_LANDMARK_CN": "羅素街",
+            "BETWEEN_LANDMARK_EN": "Hennessy Road",
+            "BETWEEN_LANDMARK_CN": "軒尼詩道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-01-03T18:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108599",
+                "CONTENT_EN": "Due to emergency incident , all lanes of Percival Street  between Russell Street and Hennessy Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，波斯富街介乎羅素街與軒尼詩道之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2025-01-03T19:00:05",
+        "last_announcement": "2025-01-03T18:45:00"
     }
 }
