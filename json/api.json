@@ -38,38 +38,6 @@
         "last_update": "2025-01-02T11:01:53",
         "last_announcement": "2025-01-02T10:48:00"
     },
-    "IN-24-07376": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) train service enhancement",
-            "INCIDENT_DETAIL_CN": "高速鐵路（香港段）進一步提升列車服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-01-01T08:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "108545",
-                "CONTENT_EN": "Starting from January 5, 2025, the High-Speed Rail (Hong Kong Section) will introduce the following service enhancements and adjustments:\n\n● Launch a new long-haul line to Xi’anbei, stopping at new stations including Luoyang Longmen and Huashanbei and provides one pair of northbound and southbound train trips daily;\n\n● Enhance train services to Shenzhenbei Station, Shanwei Station, and Wuhan Station, with one additional pair of train trips being added daily;\n\n● The Shanghai Hongqiao line (non-sleeper trains) will be adjusted to stop at Nanchangxi Station, Huangshanbei Station, Hangzhouxi Station, and Suzhounan Station (commencing from January 5*);\n\n● A pair of trains originally departing/terminating at Chaoshan Station will be rerouted to Meizhouxi Station, with a new intermediate stop at Longchuanxi Station (commencing January 5). \n\nTickets for the newly added trains are now on sale. Tickets are available for sale through the 12306 official website (12306. cn) or mobile app; appointed travel agents (Click here); or at Hong Kong West Kowloon Station. \n\n*G99, G6504: stop service on January 4, commencing new route from January 5;\n\nG6503, G100: stop service on January 5, commencing new route from January 6.",
-                "CONTENT_CN": "由2025年1月5日起，高速鐵路（香港段）將作出以下服務提升及調整：\n\n●新增西安北長途綫，途經洛陽龍門、華山北等新站點，每日提供北行及南行各一班列車；\n\n●加強來往深圳北站、汕尾站及武漢站的列車服務，每日各加開一對列車；\n\n●上海虹橋綫(非臥鋪列車)改停南昌東站、黃山北站、杭州西站及蘇州南站（1月5日起實施*）；\n\n●一對原本以潮汕站為起點/終點的列車將改道，新增停靠龍川西站，並改以梅州西為起點/終點（1月5日開通）。\n\n新增列車車票已開始發售。市民可透過12306官方網站（12306.cn）或手機應用程式、指定代理（按此）或前往香港西九龍站購買車票。\n\n*G99、G6504:1月4日暫停服務，1月5日起實施新路綫；\n\nG6503、G100:1月5日暫停服務，1月6日起實施新路綫。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-01-01T09:25:20",
-        "last_announcement": "2025-01-01T08:08:00"
-    },
     "IN-25-00006": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -188,11 +156,18 @@
                 "ID": "108552",
                 "CONTENT_EN": "Due to watermain emergency works , the one-lane-two-way traffic arrangement is being implemented on Granville Road near Hong Kong Science Museum.",
                 "CONTENT_CN": "因水管緊急維修，加連威老道近香港科學館現已實施單線雙程行車措施。"
+            },
+            "2025-01-04T08:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108623",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Granville Road near Hong Kong Science Museum due to watermain emergency works is now cancelled.",
+                "CONTENT_CN": "較早前因水管緊急維修⽽於加連威老道近香港科學館實施的單線雙程⾏⾞措施現已取消。"
             }
         },
         "district": "中西區",
-        "last_update": "2025-01-02T07:38:22",
-        "last_announcement": "2025-01-02T07:30:00"
+        "last_update": "2025-01-04T09:40:36",
+        "last_announcement": "2025-01-04T08:30:00"
     },
     "IN-25-00009": {
         "description": {
@@ -1100,5 +1075,115 @@
         "district": "荃灣區",
         "last_update": "2025-01-04T06:32:22",
         "last_announcement": "2025-01-04T06:19:00"
+    },
+    "IN-25-00032": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Fu Road roundabout",
+            "LOCATION_CN": "龍富路迴旋處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-01-04T08:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108620",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Fu Road roundabout  is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-01-04T08:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108622",
+                "CONTENT_EN": "Part of the lanes of Lung Fu Road roundabout  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍富路迴旋處的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-01-04T09:40:36",
+        "last_announcement": "2025-01-04T08:24:00"
+    },
+    "IN-25-00033": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "North West Tsing Yi Interchange",
+            "LOCATION_CN": "青衣西北交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsing Long Highway (Ting Kau Bridge)",
+            "DIRECTION_CN": "青朗公路(汀九橋)",
+            "NEAR_LANDMARK_EN": "Tsing Ma Control Area Tsing Yi Administration Building",
+            "NEAR_LANDMARK_CN": "青馬管制區青衣行政大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-01-04T08:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108621",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of North West Tsing Yi Interchange (Ting Kau Bridge bound) near Tsing Ma Control Area Tsing Yi Administration Building is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青衣西北交匯處(往汀九橋方向) 近青馬管制區青衣行政大樓的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2025-01-04T08:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108625",
+                "CONTENT_EN": "Part of the lanes of North West Tsing Yi Interchange (Ting Kau Bridge bound) near Tsing Ma Control Area Tsing Yi Administration Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青衣西北交匯處(往汀九橋方向) 近青馬管制區青衣行政大樓的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-01-04T09:40:36",
+        "last_announcement": "2025-01-04T08:51:00"
+    },
+    "IN-25-00034": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Tseung Kwan O Tunnel Road",
+            "LOCATION_CN": "將軍澳隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Verbena Heights",
+            "NEAR_LANDMARK_CN": "茵怡花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-01-04T08:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108624",
+                "CONTENT_EN": "Due to emergency repairing works , the fast lane of Tseung Kwan O Tunnel Road (Kwun Tong bound) near Verbena Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，將軍澳隧道公路(往觀塘方向)近茵怡花園的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2025-01-04T09:40:36",
+        "last_announcement": "2025-01-04T08:48:00"
     }
 }
