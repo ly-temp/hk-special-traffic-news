@@ -1258,10 +1258,17 @@
                 "ID": "108629",
                 "CONTENT_EN": "Due to watermain emergency works , Granville Circuit (Tsim Sha Tsui) is closed to all traffic.",
                 "CONTENT_CN": "因水管緊急維修，嘉蘭圍(尖沙咀)現已封閉。"
+            },
+            "2025-01-04T10:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108630",
+                "CONTENT_EN": "Granville Circuit (Tsim Sha Tsui) which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的嘉蘭圍(尖沙咀)現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-01-04T10:37:24",
-        "last_announcement": "2025-01-04T10:22:00"
+        "last_update": "2025-01-04T11:01:14",
+        "last_announcement": "2025-01-04T10:44:00"
     }
 }
