@@ -1180,10 +1180,88 @@
                 "ID": "108624",
                 "CONTENT_EN": "Due to emergency repairing works , the fast lane of Tseung Kwan O Tunnel Road (Kwun Tong bound) near Verbena Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因緊急維修，將軍澳隧道公路(往觀塘方向)近茵怡花園的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-01-04T09:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108626",
+                "CONTENT_EN": "The fast lane of Tseung Kwan O Tunnel Road (Kwun Tong bound) near Verbena Heights which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的將軍澳隧道公路(往觀塘方向)近茵怡花園的快線現已解封。"
             }
         },
         "district": "西貢區",
-        "last_update": "2025-01-04T09:40:36",
-        "last_announcement": "2025-01-04T08:48:00"
+        "last_update": "2025-01-04T10:37:24",
+        "last_announcement": "2025-01-04T09:28:00"
+    },
+    "IN-25-00035": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Valley Road",
+            "NEAR_LANDMARK_CN": "山谷道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-01-04T09:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108627",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Valley Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近山谷道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-01-04T09:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "108628",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Valley Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近山谷道的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-01-04T10:37:24",
+        "last_announcement": "2025-01-04T09:59:00"
+    },
+    "IN-25-00036": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Granville Circuit",
+            "LOCATION_CN": "嘉蘭圍",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-01-04T10:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "108629",
+                "CONTENT_EN": "Due to watermain emergency works , Granville Circuit (Tsim Sha Tsui) is closed to all traffic.",
+                "CONTENT_CN": "因水管緊急維修，嘉蘭圍(尖沙咀)現已封閉。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-01-04T10:37:24",
+        "last_announcement": "2025-01-04T10:22:00"
     }
 }
