@@ -77,45 +77,6 @@
         "last_update": "2025-01-31T09:46:48",
         "last_announcement": "2025-01-31T08:07:00"
     },
-    "IN-25-00584": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Shek O Road",
-            "LOCATION_CN": "石澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Tai Tam Road",
-            "NEAR_LANDMARK_CN": "大潭道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-01-29T14:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "109894",
-                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Shek O Road near Tai Tam Road. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，石澳道近大潭道現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2025-01-29T14:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "109896",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Shek O Road near Tai Tam Road due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於石澳道近大潭道實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-01-29T15:12:59",
-        "last_announcement": "2025-01-29T14:55:00"
-    },
     "IN-25-00585": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
