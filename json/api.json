@@ -1471,11 +1471,18 @@
                 "ID": "109977",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kowloon Park Drive (Jordan Road bound) near Peking Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，九龍公園徑(往佐敦道方向)近北京道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-01T13:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "109979",
+                "CONTENT_EN": "Part of the lanes of Kowloon Park Drive (Jordan Road bound) near Peking Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的九龍公園徑(往佐敦道方向)近北京道的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-02-01T13:10:57",
-        "last_announcement": "2025-02-01T12:43:00"
+        "last_update": "2025-02-01T13:28:37",
+        "last_announcement": "2025-02-01T13:04:00"
     },
     "IN-25-00619": {
         "description": {
@@ -1503,10 +1510,17 @@
                 "ID": "109978",
                 "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Eastern Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，東區海底隧道(往香港島方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-01T13:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "109980",
+                "CONTENT_EN": "The tunnel tube slow lane of Eastern Harbour Crossing (Hong Kong Island bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的東區海底隧道(往香港島方向)的管道慢線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2025-02-01T13:10:57",
-        "last_announcement": "2025-02-01T12:51:00"
+        "last_update": "2025-02-01T13:28:37",
+        "last_announcement": "2025-02-01T13:07:00"
     }
 }
