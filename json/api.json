@@ -1008,5 +1008,37 @@
         "district": "西貢區",
         "last_update": "2025-02-02T16:34:57",
         "last_announcement": "2025-02-02T16:17:00"
+    },
+    "IN-25-00627": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Notes for using land-based boundary control points today (February 2)",
+            "INCIDENT_DETAIL_CN": "今日(2月2日)使用跨境陸路口岸注意事項",
+            "LOCATION_EN": "Notes for using land-based boundary control points today (February 2)",
+            "LOCATION_CN": "今日(2月2日)使用跨境陸路口岸注意事項",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-02T16:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "109994",
+                "CONTENT_EN": "Today is the last day of the Lunar New Year holiday period. The Transport Department (TD) anticipates that there may be a number of cross-boundary passengers taking public transport services to travel to / from the Mainland / Macao via the land boundary control points between this evening and the small hours tomorrow. In the meantime, the number of cross boundary private cars travelling to / from the Mainland / Macao via the land boundary control points will also increase substantially. The TD has put in place the corresponding traffic and transport arrangements. Travellers are advised to plan their journeys ahead and travel outside peak periods as far as possible. \n\nThe TD also anticipates that there will be more outbound/ inbound cross boundary vehicles leaving / arriving at Hong Kong via the Hong Kong-Zhuhai-Macao Bridge (HZMB) today. The public can make use of \"HKeMobility\" to access the snapshots of traffic conditions at the inbound and outbound vehicle plaza of HZMB Hong Kong Port, and they can also check the real time situations of the vehicle clearance plaza of HZMB Zhuhai Port through the service on real-time immigration clearance status of HZMB Zhuhai Port or 「Zhuhai fa bu」WeChat official accounts (or visit https://traffic-info.gzazhka.com:5015/#/),inorder to plan their journeys ahead. \n\nMembers of the public are also advised to keep in view the latest traffic news through radio, television broadcasts and TD's \"HKeMobility\" mobile application.",
+                "CONTENT_CN": "今天為農曆新年長假期最後一日，運輸署預計由傍晚至凌晨期間，將有大量跨境乘客使用公共運輸服務經各陸路管制站往返內地／澳門，而經各陸路管制站往返內地／澳門的跨境私家車亦會顯著增加，運輸署已作出相應交通及運輸安排，並在此呼籲旅客及早規劃行程，盡量選擇於非繁忙時段出行。\n\n運輸署亦預計今天，將有較多跨境車輛使用港珠澳大橋離港及回港，市民可透過「香港出行易」查閱港珠澳大橋香港口岸出境及入境客車通關廣場的交通快拍，以及透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務(或前往https://traffic-info.gzazhka.com:5015/#/)，查詢大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。\n\n運輸署亦請市民留意電台、電視台及運輸署流動應用程式「香港出行易」發放的最新交通消息。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2025-02-02T16:45:05",
+        "last_announcement": "2025-02-02T16:24:00"
     }
 }
