@@ -893,11 +893,18 @@
                 "ID": "109993",
                 "CONTENT_EN": "Lam Kam Road (both bounds) near Lam Tsuen are busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "林錦公路(來回方向)近林村的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2025-02-02T17:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "109997",
+                "CONTENT_EN": "Traffic at Lam Kam Road (both bounds) near Lam Tsuen has resumed normal.",
+                "CONTENT_CN": "林錦公路(來回方向)近林村的交通現已恢復正常。"
             }
         },
         "district": "西貢區",
-        "last_update": "2025-02-02T16:34:57",
-        "last_announcement": "2025-02-02T16:17:00"
+        "last_update": "2025-02-02T18:19:03",
+        "last_announcement": "2025-02-02T17:49:00"
     },
     "IN-25-00627": {
         "description": {
@@ -957,11 +964,18 @@
                 "ID": "109995",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Hoi Bun Road Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近海濱道公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-02T18:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "109999",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Hoi Bun Road Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往旺角方向)近海濱道公園的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2025-02-02T17:36:56",
-        "last_announcement": "2025-02-02T17:16:00"
+        "last_update": "2025-02-02T18:19:03",
+        "last_announcement": "2025-02-02T18:03:00"
     },
     "IN-25-00629": {
         "description": {
@@ -989,10 +1003,17 @@
                 "ID": "109996",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Tsing Interchange  is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃青交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-02T18:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "109998",
+                "CONTENT_EN": "Part of the lanes of Tsuen Tsing Interchange  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃青交匯處的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-02-02T17:57:13",
-        "last_announcement": "2025-02-02T17:46:00"
+        "last_update": "2025-02-02T18:19:03",
+        "last_announcement": "2025-02-02T18:01:00"
     }
 }
