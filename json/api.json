@@ -38,84 +38,6 @@
         "last_update": "2025-01-31T09:46:48",
         "last_announcement": "2025-01-31T08:07:00"
     },
-    "IN-25-00597": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": "Hong Kong Link Road",
-            "LOCATION_CN": "香港連接路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-01-30T12:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "109922",
-                "CONTENT_EN": "Due to strong wind condition, the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR), with details as shown below:\nThe speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強風關係，港珠澳大橋香港連接路已實施以下特別交通及運輸安排：\n港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
-            },
-            "2025-01-30T13:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "109927",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR): The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2025-01-30T13:47:14",
-        "last_announcement": "2025-01-30T13:25:00"
-    },
-    "IN-25-00599": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Gascoigne Road Flyover",
-            "LOCATION_CN": "加士居道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Labour Tribunal",
-            "NEAR_LANDMARK_CN": "勞資審裁處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-01-30T13:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "109926",
-                "CONTENT_EN": "Due to traffic accident , the only lane of Gascoigne Road Flyover (Kwun Tong bound) near Labour Tribunal is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，加士居道天橋(往觀塘方向)近勞資審裁處的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-01-30T13:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "109928",
-                "CONTENT_EN": "The only lane of Gascoigne Road Flyover (Kwun Tong bound) near Labour Tribunal which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的加士居道天橋(往觀塘方向)近勞資審裁處的唯一行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-01-30T13:47:14",
-        "last_announcement": "2025-01-30T13:35:00"
-    },
     "IN-25-00600": {
         "description": {
             "INCIDENT_HEADING_EN": "Tram Incident",
@@ -1086,5 +1008,37 @@
         "district": "中西區",
         "last_update": "2025-02-02T12:52:18",
         "last_announcement": "2025-02-02T12:36:00"
+    },
+    "IN-25-00625": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-02T13:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "109991",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tuen Mun Road (Tuen Mun bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往屯門方向)近深井的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-02-02T13:49:41",
+        "last_announcement": "2025-02-02T13:26:00"
     }
 }
