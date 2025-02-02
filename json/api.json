@@ -38,45 +38,6 @@
         "last_update": "2025-01-31T09:46:48",
         "last_announcement": "2025-01-31T08:07:00"
     },
-    "IN-25-00601": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fat Kwong Street",
-            "LOCATION_CN": "佛光街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hung Hom",
-            "DIRECTION_CN": "紅磡",
-            "NEAR_LANDMARK_EN": "Sheung Hing Street",
-            "NEAR_LANDMARK_CN": "常興街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-01-30T15:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "109930",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fat Kwong Street (Hung Hom bound) near Sheung Hing Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，佛光街(往紅磡方向)近常興街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-01-30T15:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "109931",
-                "CONTENT_EN": "Part of the lanes of Fat Kwong Street (Hung Hom bound) near Sheung Hing Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的佛光街(往紅磡方向)近常興街的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-01-30T16:24:08",
-        "last_announcement": "2025-01-30T15:52:00"
-    },
     "IN-25-00603": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1015,5 +976,37 @@
         "district": "荃灣區",
         "last_update": "2025-02-02T14:29:22",
         "last_announcement": "2025-02-02T14:11:00"
+    },
+    "IN-25-00626": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Lam Kam Road",
+            "LOCATION_CN": "林錦公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Lam Tsuen",
+            "NEAR_LANDMARK_CN": "林村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-02T16:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "109993",
+                "CONTENT_EN": "Lam Kam Road (both bounds) near Lam Tsuen are busy. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "林錦公路(來回方向)近林村的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2025-02-02T16:34:57",
+        "last_announcement": "2025-02-02T16:17:00"
     }
 }
