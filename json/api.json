@@ -77,38 +77,6 @@
         "last_update": "2025-01-30T17:44:59",
         "last_announcement": "2025-01-30T17:23:00"
     },
-    "IN-25-00602": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Yuen Chau Tsai",
-            "LOCATION_CN": "大埔公路　–　元洲仔段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Kwong Wang Street",
-            "NEAR_LANDMARK_CN": "廣宏街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-01-30T17:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "109936",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Yuen Chau Tsai (both bounds) near Kwong Wang Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　元洲仔段(來回方向)近廣宏街的部份行車線現已解封。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2025-01-30T17:23:19",
-        "last_announcement": "2025-01-30T17:02:00"
-    },
     "IN-25-00605": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
