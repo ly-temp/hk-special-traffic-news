@@ -1168,5 +1168,37 @@
         "district": "油尖旺區",
         "last_update": "2025-02-03T19:48:38",
         "last_announcement": "2025-02-03T19:39:00"
+    },
+    "IN-25-00643": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Track Signaling Fault",
+            "INCIDENT_DETAIL_CN": "信號故障",
+            "LOCATION_EN": "Tung Chung Line and Tung Chung Line Service Disruption",
+            "LOCATION_CN": "東涌綫及東涌綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-03T19:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110037",
+                "CONTENT_EN": "Train service on the Tung Chung Line has resumed to non-peak hours frequencies.",
+                "CONTENT_CN": "東涌綫列車服務已回復非繁忙時間的班次。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2025-02-03T19:58:38",
+        "last_announcement": "2025-02-03T19:43:00"
     }
 }
