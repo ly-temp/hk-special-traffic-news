@@ -1551,5 +1551,37 @@
         "district": "深水埗區",
         "last_update": "2025-02-04T20:38:50",
         "last_announcement": "2025-02-04T19:51:00"
+    },
+    "IN-25-00662": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": "East Rail Line Service Disruption",
+            "LOCATION_CN": "東鐵綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-05T05:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110071",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that East Rail Line service changes: Admiralty Station ↔Tai Po Market Station: 8-minute intervals Tai Po Market Station ↔ Lo Wu Station and Lok Ma Chau Station: 35-minute intervals Please consider using other transport. Longer waiting time on East Rail Line platforms can be expected. \nPlease allow more time for travel.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 由於有工程車在太和站附近出現設備故障，東鐵綫列車服務作出以下調整: 東鐵綫服務更改如下: 金鐘站↔大埔墟站:每8分鐘一班 大埔墟站↔羅湖站及落馬洲站:每35分鐘一班 請考慮使用其他交通工具。 現時東鐵綫月台上的乘客較多，候車時間亦會較長。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2025-02-05T05:59:44",
+        "last_announcement": "2025-02-05T05:34:00"
     }
 }
