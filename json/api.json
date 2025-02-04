@@ -45,84 +45,6 @@
         "last_update": "2025-02-03T06:19:57",
         "last_announcement": "2025-02-03T06:04:00"
     },
-    "IN-25-00618": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kowloon Park Drive",
-            "LOCATION_CN": "九龍公園徑",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Jordan Road",
-            "DIRECTION_CN": "佐敦道",
-            "NEAR_LANDMARK_EN": "Peking Road",
-            "NEAR_LANDMARK_CN": "北京道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-01T12:43:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "109977",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kowloon Park Drive (Jordan Road bound) near Peking Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，九龍公園徑(往佐敦道方向)近北京道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-01T13:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "109979",
-                "CONTENT_EN": "Part of the lanes of Kowloon Park Drive (Jordan Road bound) near Peking Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的九龍公園徑(往佐敦道方向)近北京道的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-02-01T13:28:37",
-        "last_announcement": "2025-02-01T13:04:00"
-    },
-    "IN-25-00619": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Eastern Harbour Crossing",
-            "LOCATION_CN": "東區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hong Kong Island",
-            "DIRECTION_CN": "香港島",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-01T12:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "109978",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Eastern Harbour Crossing (Hong Kong Island bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東區海底隧道(往香港島方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-01T13:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "109980",
-                "CONTENT_EN": "The tunnel tube slow lane of Eastern Harbour Crossing (Hong Kong Island bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區海底隧道(往香港島方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-02-01T13:28:37",
-        "last_announcement": "2025-02-01T13:07:00"
-    },
     "IN-25-00620": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1370,5 +1292,37 @@
         "district": "觀塘區",
         "last_update": "2025-02-04T11:25:40",
         "last_announcement": "2025-02-04T11:01:00"
+    },
+    "IN-25-00652": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Crowd Management at Kai Tak and Sung Wong Toi stations",
+            "INCIDENT_DETAIL_CN": "啟德及宋皇臺站客流管理",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-04T13:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110050",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to an event at Kai Tak Sports Park, crowd management measures will be in place in Kai Tak and Sung Wong Toi stations tonight (4 February). One-way passenger flow will be implemented at specific entrances and exits. After the event, there may be additional waiting time to enter the station as passengers will enter in groups.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 為配合啟德體育園活動，啟德及宋皇臺站今晚(2月4日)將實施客流管理措施，個別出入口會作單向進出安排。 活動散場時，乘客或需於站外等候分批進入車站。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-02-04T13:29:21",
+        "last_announcement": "2025-02-04T13:02:00"
     }
 }
