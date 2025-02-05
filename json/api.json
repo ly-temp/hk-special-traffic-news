@@ -1592,10 +1592,56 @@
                 "ID": "110074",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to an equipment fault on an Engineer's train near Tai Wo Station, the East Rail Line train service is adjusted as follows: Admiralty Station ↔Tai Po Market Station: 8-minute intervals Tai Po Market Station ↔ Lo Wu Station : 16-minute intervals Sheung Shui Station ↔ Lok Ma Chau Station: 24-minute intervals Please consider using other transport. Crowd management measures will be in place in specific stations at East Rail Line. Longer waiting time on East Rail Line platforms can be expected. \nPlease allow more time for travel.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知， 由於有工程車在太和站附近出現設備故障，東鐵綫列車服務作出以下調整: 東鐵綫服務更改如下: 金鐘站↔大埔墟站:每8分鐘一班 大埔墟站↔羅湖站:每16分鐘一班 上水站↔落馬洲站:每24分鐘一班 請考慮使用其他交通工具。 現時東鐵綫個別車站將實施客流管理措施，東鐵綫月台上的乘客較多，候車時間亦會較長。"
+            },
+            "2025-02-05T08:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110075",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to an equipment fault on an Engineer's train near Tai Wo Station, the East Rail Line train service is adjusted as follows:\n\nAdmiralty Station ↔ Fo Tan Station: 4-minute intervals\nFo Tan Station ↔ Tai Po Market Station: 8-minute intervals\nTai Po Market Station ↔ Lo Wu Station : 16-minute intervals\nSheung Shui Station ↔ Lok Ma Chau Station: 24-minute intervals\nPlease consider using other transport. \n\nCrowd management measures will be in place in specific stations at East Rail Line. Longer waiting time on East Rail Line platforms can be expected. \nPlease allow more time for travel.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於有工程車在太和站附近出現設備故障，東鐵綫列車服務作出以下調整:\n\n東鐵綫服務更改如下:\n\n金鐘站↔火炭站:每4分鐘一班\n\n火炭站↔大埔墟站:每8分鐘一班\n\n大埔墟站↔羅湖站:每16分鐘一班\n\n上水站↔落馬洲站:每24分鐘一班\n\n請考慮使用其他交通工具。\n\n現時東鐵綫個別車站將實施客流管理措施，東鐵綫月台上的乘客較多，候車時間亦會較長。"
+            },
+            "2025-02-05T08:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110076",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to an equipment fault on an Engineer's train near Tai Wo Station, the East Rail Line train service is adjusted as follows:\n\nAdmiralty Station ↔ Fo Tan Station: 4-minute intervals\nFo Tan Station ↔ Tai Po Market Station: 8-minute intervals\nTai Po Market Station ↔ Lo Wu Station : 16-minute intervals\nSheung Shui Station ↔ Lok Ma Chau Station: 24-minute intervals\nPlease consider using other transport. \n\nCrowd management measures will be in place in specific stations at East Rail Line. Longer waiting time on East Rail Line platforms can be expected. \nPlease allow more time for travel.   Transport Department and bus companies are closely monitoring bus passenger demand, and the bus companies have already strengthened the bus services accordingly.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於有工程車在太和站附近出現設備故障，東鐵綫列車服務作出以下調整:\n\n東鐵綫服務更改如下:\n\n金鐘站↔火炭站:每4分鐘一班\n\n火炭站↔大埔墟站:每8分鐘一班\n\n大埔墟站↔羅湖站:每16分鐘一班\n\n上水站↔落馬洲站:每24分鐘一班\n\n請考慮使用其他交通工具。\n\n現時東鐵綫個別車站將實施客流管理措施，東鐵綫月台上的乘客較多，候車時間亦會較長。  運輸署及巴士公司現正密切監察巴士乘客需求，巴士公司已適當加強巴士服務應付乘客需求。"
             }
         },
         "district": "離島區",
-        "last_update": "2025-02-05T07:49:27",
-        "last_announcement": "2025-02-05T07:36:00"
+        "last_update": "2025-02-05T09:48:31",
+        "last_announcement": "2025-02-05T08:42:00"
+    },
+    "IN-25-00663": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Tsui Ping Road",
+            "NEAR_LANDMARK_CN": "翠屏道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-05T09:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110079",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Mong Kok bound) near Tsui Ping Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往旺角方向)近翠屏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-02-05T09:48:31",
+        "last_announcement": "2025-02-05T09:19:00"
     }
 }
