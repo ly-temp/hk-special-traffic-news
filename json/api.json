@@ -1770,5 +1770,37 @@
         "district": "油尖旺區",
         "last_update": "2025-02-05T17:47:35",
         "last_announcement": "2025-02-05T17:33:00"
+    },
+    "IN-25-00670": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wai Yip Street",
+            "LOCATION_CN": "偉業街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-05T17:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110103",
+                "CONTENT_EN": "Part of the lanes of the slip road leading from Wai Yip Street (Kwun Tong bound) to Kai Cheung Road (Kai Tak Tunnel bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的由偉業街(往觀塘方向)通往啓祥道(往啟德隧道方向) 的支路的 部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-02-05T17:57:39",
+        "last_announcement": "2025-02-05T17:44:00"
     }
 }
