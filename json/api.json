@@ -1678,5 +1678,51 @@
         "district": "深水埗區",
         "last_update": "2025-02-06T14:46:44",
         "last_announcement": "2025-02-06T14:26:00"
+    },
+    "IN-25-00682": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "West Kowloon Corridor",
+            "LOCATION_CN": "西九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwai Chung",
+            "DIRECTION_CN": "葵涌",
+            "NEAR_LANDMARK_EN": "Hing Wah Street",
+            "NEAR_LANDMARK_CN": "興華街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-06T16:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110130",
+                "CONTENT_EN": "Due to traffic accident , all lanes of West Kowloon Corridor (Kwai Chung bound) near Hing Wah Street are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西九龍走廊(往葵涌方向)近興華街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2025-02-06T17:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110131",
+                "CONTENT_EN": "Due to traffic accident , all lanes of West Kowloon Corridor (Kwai Chung bound) near Hing Wah Street are still being closed to all traffic. Traffic queue on West Kowloon Corridor (Kwai Chung bound) ends at West Kowloon Corridor near Cherry Street. Motorists are advised to use alternative routes. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，西九龍走廊(往葵涌方向)近興華街的全線仍然封閉。 現時在西九龍走廊(往葵涌方向)的車龍龍尾已到西九龍走廊近櫻桃街。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
+            },
+            "2025-02-06T17:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110132",
+                "CONTENT_EN": "Due to traffic accident , all lanes of West Kowloon Corridor (Kwai Chung bound) near Hing Wah Street are still being closed to all traffic.   Traffic queue on West Kowloon Corridor (Kwai Chung bound) ends at West Kowloon Corridor near Cherry Street.   Motorists are advised to use alternative routes.   At the same time, part of the lanes of West Kowloon Corridor (Mong Kok bound) near Hing Wah Street is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，西九龍走廊(往葵涌方向)近興華街的全線仍然封閉。  現時在西九龍走廊(往葵涌方向)的車龍龍尾已到西九龍走廊近櫻桃街。  駕駛人士請考慮改用其他道路。  同時，西九⿓⾛廊(往旺角⽅向)近興華街的部份行車線現已封閉。\n駕駛⼈⼠只可使⽤餘下⾏⾞線⾏⾞。  現時上址交通擠塞。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-02-06T17:19:46",
+        "last_announcement": "2025-02-06T17:03:00"
     }
 }
