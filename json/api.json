@@ -1559,11 +1559,18 @@
                 "ID": "110153",
                 "CONTENT_EN": "Due to road surface cleansing , the tunnel tube slow lane of Cheung Tsing Tunnel (Kowloon bound) is closed to all traffic. \nOnly remaining lane are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因路面清潔，長青隧道(往九龍方向)的管道慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2025-02-07T11:19:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110157",
+                "CONTENT_EN": "The tunnel tube slow lane of Cheung Tsing Tunnel (Kowloon bound) which was closed due to road surface cleansing is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面清潔而封閉的長青隧道(往九龍方向)的管道慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-02-07T10:58:20",
-        "last_announcement": "2025-02-07T10:33:00"
+        "last_update": "2025-02-07T11:42:32",
+        "last_announcement": "2025-02-07T11:19:00"
     },
     "IN-25-00690": {
         "description": {
@@ -1591,10 +1598,17 @@
                 "ID": "110155",
                 "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Aberdeen Tunnel (Aberdeen bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，香港仔隧道(往香港仔方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-07T11:15:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110156",
+                "CONTENT_EN": "The tunnel tube slow lane of Aberdeen Tunnel (Aberdeen bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的香港仔隧道(往香港仔方向)的管道慢線現已解封。"
             }
         },
         "district": "南區",
-        "last_update": "2025-02-07T11:28:13",
-        "last_announcement": "2025-02-07T11:10:00"
+        "last_update": "2025-02-07T11:42:32",
+        "last_announcement": "2025-02-07T11:15:00"
     }
 }
