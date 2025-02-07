@@ -38,45 +38,6 @@
         "last_update": "2025-02-06T09:48:32",
         "last_announcement": "2025-02-06T09:05:00"
     },
-    "IN-25-00660": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tung Chung Road",
-            "LOCATION_CN": "東涌道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mui Wo",
-            "DIRECTION_CN": "梅窩",
-            "NEAR_LANDMARK_EN": "Tung Chung Road Burial Ground No.18",
-            "NEAR_LANDMARK_CN": "東涌道18號塋葬區",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-04T18:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110067",
-                "CONTENT_EN": "Due to vehicle breakdown , the one-lane-two-way traffic arrangement is being implemented on Tung Chung Road near Tung Chung Road Burial Ground No.18. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東涌道近東涌道18號塋葬區現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2025-02-04T20:32:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "110070",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tung Chung Road near Tung Chung Road Burial Ground No.18 due to vehicle breakdown is now cancelled.",
-                "CONTENT_CN": "較早前因車輛故障而於東涌道近東涌道18號塋葬區實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2025-02-04T21:02:47",
-        "last_announcement": "2025-02-04T20:32:00"
-    },
     "IN-25-00662": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
