@@ -1552,11 +1552,18 @@
                 "ID": "110165",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Mong Kok bound) near Lai Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近勵業街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-07T18:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110169",
+                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Mong Kok bound) near Lai Yip Street which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往旺角方向)近勵業街的慢線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2025-02-07T18:37:47",
-        "last_announcement": "2025-02-07T18:28:00"
+        "last_update": "2025-02-07T18:57:58",
+        "last_announcement": "2025-02-07T18:42:00"
     },
     "IN-25-00696": {
         "description": {
@@ -1584,10 +1591,17 @@
                 "ID": "110166",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近深井的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-07T18:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110167",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2025-02-07T18:47:51",
-        "last_announcement": "2025-02-07T18:35:00"
+        "last_update": "2025-02-07T18:57:58",
+        "last_announcement": "2025-02-07T18:38:00"
     }
 }
