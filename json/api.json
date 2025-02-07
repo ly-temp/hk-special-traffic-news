@@ -1,36 +1,4 @@
 {
-    "IN-25-00652": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Crowd Management at Kai Tak and Sung Wong Toi stations",
-            "INCIDENT_DETAIL_CN": "啟德及宋皇臺站客流管理",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-04T13:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110050",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to an event at Kai Tak Sports Park, crowd management measures will be in place in Kai Tak and Sung Wong Toi stations tonight (4 February). One-way passenger flow will be implemented at specific entrances and exits. After the event, there may be additional waiting time to enter the station as passengers will enter in groups.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 為配合啟德體育園活動，啟德及宋皇臺站今晚(2月4日)將實施客流管理措施，個別出入口會作單向進出安排。 活動散場時，乘客或需於站外等候分批進入車站。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-02-04T13:29:21",
-        "last_announcement": "2025-02-04T13:02:00"
-    },
     "IN-25-00653": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
