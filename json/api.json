@@ -1712,11 +1712,18 @@
                 "ID": "110229",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-09T12:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110239",
+                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic. The lower deck of Lantau Link (Kowloon bound) is still being opened.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已解封。 ⻘嶼幹線下層(往九龍⽅向)仍然開放。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-02-09T12:30:39",
-        "last_announcement": "2025-02-09T12:11:00"
+        "last_update": "2025-02-09T13:09:31",
+        "last_announcement": "2025-02-09T12:57:00"
     },
     "IN-25-00725": {
         "description": {
@@ -1744,11 +1751,18 @@
                 "ID": "110231",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Mong Kok bound) near Kwun Tong Ferry Pier is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近觀塘碼頭的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-09T12:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110238",
+                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Mong Kok bound) near Kwun Tong Ferry Pier which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往旺角方向)近觀塘碼頭的慢線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2025-02-09T12:30:39",
-        "last_announcement": "2025-02-09T12:18:00"
+        "last_update": "2025-02-09T13:09:31",
+        "last_announcement": "2025-02-09T12:46:00"
     },
     "IN-25-00726": {
         "description": {
