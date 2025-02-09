@@ -1875,11 +1875,18 @@
                 "ID": "110248",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Garden Road (downhill bound) near Lower Albert Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，花園道(下山方向)近下亞厘畢道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-09T16:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110257",
+                "CONTENT_EN": "Part of the lanes of Garden Road (downhill bound) near Lower Albert Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的花園道(下山方向)近下亞厘畢道的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2025-02-09T15:37:06",
-        "last_announcement": "2025-02-09T15:19:00"
+        "last_update": "2025-02-09T16:57:39",
+        "last_announcement": "2025-02-09T16:47:00"
     },
     "IN-25-00731": {
         "description": {
@@ -2010,10 +2017,17 @@
                 "ID": "110253",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Eastern Harbour Crossing (Hong Kong Island bound) near Yau Lai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，東區海底隧道(往香港島方向)近油麗邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-09T16:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110256",
+                "CONTENT_EN": "Part of the lanes of Eastern Harbour Crossing (Hong Kong Island bound) near Yau Lai Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區海底隧道(往香港島方向)近油麗邨的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2025-02-09T16:47:22",
-        "last_announcement": "2025-02-09T16:29:00"
+        "last_update": "2025-02-09T16:57:39",
+        "last_announcement": "2025-02-09T16:39:00"
     }
 }
