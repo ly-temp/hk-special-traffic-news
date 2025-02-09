@@ -1726,11 +1726,18 @@
                 "ID": "110232",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近麗城花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-09T12:43:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110237",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Belvedere Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近麗城花園的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2025-02-09T12:41:50",
-        "last_announcement": "2025-02-09T12:27:00"
+        "last_update": "2025-02-09T15:47:16",
+        "last_announcement": "2025-02-09T12:43:00"
     },
     "IN-25-00727": {
         "description": {
@@ -1873,5 +1880,37 @@
         "district": "中西區",
         "last_update": "2025-02-09T15:37:06",
         "last_announcement": "2025-02-09T15:19:00"
+    },
+    "IN-25-00731": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Wai Yip Street",
+            "LOCATION_CN": "偉業街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-09T15:29:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110249",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Wai Yip Street (Yau Tong bound) to Lai Yip Street (Kwun Tong Road bound) is closed to all traffic. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，由偉業街(往油塘方向)通往勵業街(往觀塘道方向) 的支路的唯一行車線現已封閉。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-02-09T15:47:16",
+        "last_announcement": "2025-02-09T15:29:00"
     }
 }
