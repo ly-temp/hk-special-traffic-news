@@ -1,36 +1,4 @@
 {
-    "IN-25-00701": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-07T19:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110178",
-                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青嶼幹線(青馬大橋)(往機場方向) 的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-02-07T19:48:39",
-        "last_announcement": "2025-02-07T19:36:00"
-    },
     "IN-25-00702": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -1932,10 +1900,17 @@
                 "ID": "110293",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-10T19:30:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110295",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Racecourse which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往大埔方向)近沙田馬場的部份行車線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-02-10T19:38:04",
-        "last_announcement": "2025-02-10T19:27:00"
+        "last_update": "2025-02-10T19:58:15",
+        "last_announcement": "2025-02-10T19:30:00"
     }
 }
