@@ -1,82 +1,4 @@
 {
-    "IN-25-00695": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Lai Yip Street",
-            "NEAR_LANDMARK_CN": "勵業街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-07T18:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110165",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Kwun Tong Bypass (Mong Kok bound) near Lai Yip Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，觀塘繞道(往旺角方向)近勵業街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-07T18:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110169",
-                "CONTENT_EN": "The slow lane of Kwun Tong Bypass (Mong Kok bound) near Lai Yip Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往旺角方向)近勵業街的慢線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-02-07T18:57:58",
-        "last_announcement": "2025-02-07T18:42:00"
-    },
-    "IN-25-00696": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Sham Tseng",
-            "NEAR_LANDMARK_CN": "深井",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-07T18:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110166",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近深井的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-07T18:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110167",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2025-02-07T18:57:58",
-        "last_announcement": "2025-02-07T18:38:00"
-    },
     "IN-25-00698": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1996,11 +1918,18 @@
                 "ID": "110288",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Castle Peak Road - Yuen Long (Pat Heung bound) near Pok Oi Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青山公路　–　元朗段(往八鄉方向)近博愛醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-10T18:47:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110291",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Yuen Long (Pat Heung bound) near Pok Oi Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　元朗段(往八鄉方向)近博愛醫院的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2025-02-10T18:36:41",
-        "last_announcement": "2025-02-10T18:26:00"
+        "last_update": "2025-02-10T19:16:38",
+        "last_announcement": "2025-02-10T18:47:00"
     },
     "IN-25-00747": {
         "description": {
@@ -2040,5 +1969,37 @@
         "district": "灣仔區",
         "last_update": "2025-02-10T18:57:12",
         "last_announcement": "2025-02-10T18:44:00"
+    },
+    "IN-25-00748": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": "Tsing Sha Highway (Sha Tin Heights Tunnel)",
+            "LOCATION_CN": "青沙公路 (沙田嶺隧道)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-10T18:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110292",
+                "CONTENT_EN": "Due to emergency incident , the tunnel tube slow lane of Tsing Sha Highway (Sha Tin Heights Tunnel) (Sha Tin bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因突發事件，青沙公路(沙田嶺隧道)(往沙田方向) 的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-02-10T19:16:38",
+        "last_announcement": "2025-02-10T18:55:00"
     }
 }
