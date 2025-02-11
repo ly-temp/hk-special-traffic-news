@@ -2297,10 +2297,49 @@
                 "ID": "110349",
                 "CONTENT_EN": "Due to obstacles on road , part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Kai Cheung Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有障礙物，觀塘繞道(往大老山隧道方向)近啓祥道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-11T18:04:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110352",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Kai Cheung Road which was closed due to obstacles on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有障礙物而封閉的觀塘繞道(往大老山隧道方向)近啓祥道的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2025-02-11T18:15:30",
-        "last_announcement": "2025-02-11T17:59:00"
+        "last_update": "2025-02-11T18:36:18",
+        "last_announcement": "2025-02-11T18:04:00"
+    },
+    "IN-25-00771": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lung Cheung Road",
+            "DIRECTION_CN": "龍翔道",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-11T18:20:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110353",
+                "CONTENT_EN": "Part of the lanes of Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的清水灣道(往龍翔道方向)近坪石邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-02-11T18:36:18",
+        "last_announcement": "2025-02-11T18:20:00"
     }
 }
