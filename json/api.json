@@ -98,45 +98,6 @@
         "last_update": "2025-02-10T06:29:32",
         "last_announcement": "2025-02-10T06:08:00"
     },
-    "IN-25-00706": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-08T04:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110184",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR), with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
-            },
-            "2025-02-08T10:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110192",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR): The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-02-08T11:24:25",
-        "last_announcement": "2025-02-08T10:50:00"
-    },
     "IN-25-00709": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2226,11 +2187,18 @@
                 "ID": "110327",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Tsing Yi Road West (Tam Kon Shan Interchange bound) near Cheung Hang Estate are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青衣西路(往担杆山交匯處方向)近長亨邨的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2025-02-11T11:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110331",
+                "CONTENT_EN": "All lanes of Tsing Yi Road West (Tam Kon Shan Interchange bound) near Cheung Hang Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青衣西路(往担杆山交匯處方向)近長亨邨的全線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2025-02-11T10:40:53",
-        "last_announcement": "2025-02-11T10:12:00"
+        "last_update": "2025-02-11T11:28:39",
+        "last_announcement": "2025-02-11T11:03:00"
     },
     "IN-25-00763": {
         "description": {
