@@ -137,91 +137,6 @@
         "last_update": "2025-02-08T11:24:25",
         "last_announcement": "2025-02-08T10:50:00"
     },
-    "IN-25-00707": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Boundary Street",
-            "LOCATION_CN": "界限街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "College Road",
-            "NEAR_LANDMARK_CN": "書院道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-08T08:18:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110185",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Boundary Street (Kwun Tong bound) near College Road is closed to all traffic. \nOnly remaining lanes are available to motorists. At the same time, vehicles cannot enter Prince Edward Road West flyover (Kwun Tong bound) via Boundary Street.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，界限街(往觀塘方向)近書院道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。同時，車輛不能由界限街通往太子道西天橋(往觀塘方向)。  現時上址交通繁忙。"
-            },
-            "2025-02-08T09:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110189",
-                "CONTENT_EN": "Part of the lanes of Boundary Street (Kwun Tong bound) near College Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的界限街(往觀塘方向)近書院道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-02-08T09:38:54",
-        "last_announcement": "2025-02-08T09:08:00"
-    },
-    "IN-25-00708": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "East Kowloon Corridor",
-            "LOCATION_CN": "東九龍走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Sheung Heung Road",
-            "NEAR_LANDMARK_CN": "上鄉道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-08T08:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110186",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of East Kowloon Corridor (Kwun Tong bound) near Sheung Heung Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東九龍走廊(往觀塘方向)近上鄉道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-08T08:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110187",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of East Kowloon Corridor (Kwun Tong bound) near Sheung Heung Road is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on East Kowloon Corridor (Kwun Tong bound) ends at East Kowloon Corridor near Hok Yuen Street. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，東九龍走廊(往觀塘方向)近上鄉道的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東九龍走廊(往觀塘方向)的車龍龍尾已到東九龍走廊近鶴園街。 現時上址交通擠塞。"
-            },
-            "2025-02-08T09:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110190",
-                "CONTENT_EN": "The slow lane of East Kowloon Corridor (Kwun Tong bound) near Sheung Heung Road which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東九龍走廊(往觀塘方向)近上鄉道的慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-02-08T09:38:54",
-        "last_announcement": "2025-02-08T09:15:00"
-    },
     "IN-25-00709": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1967,11 +1882,25 @@
                 "ID": "110306",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road flyover (Kwun Tong bound) near Choi Hung Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道天橋(往觀塘方向)近彩虹邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-11T07:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110314",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Cheung Road flyover (Kwun Tong bound) near Choi Hung Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lung Cheung Road flyover (Kwun Tong bound) ends at Lung Cheung Road near Wong Tai Sin MTR Station. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍翔道天橋(往觀塘方向)近彩虹邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在龍翔道天橋(往觀塘方向)的車龍龍尾已到龍翔道近黃大仙港鐵站。 現時上址交通繁忙。"
+            },
+            "2025-02-11T08:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110316",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road flyover (Kwun Tong bound) near Choi Hung Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道天橋(往觀塘方向)近彩虹邨的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2025-02-11T07:29:47",
-        "last_announcement": "2025-02-11T07:11:00"
+        "last_update": "2025-02-11T09:48:41",
+        "last_announcement": "2025-02-11T08:04:00"
     },
     "IN-25-00753": {
         "description": {
@@ -2050,5 +1979,211 @@
         "district": "大埔區",
         "last_update": "2025-02-11T08:00:16",
         "last_announcement": "2025-02-11T07:46:00"
+    },
+    "IN-25-00756": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Gascoigne Road Flyover",
+            "LOCATION_CN": "加士居道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom",
+            "DIRECTION_CN": "紅磡",
+            "NEAR_LANDMARK_EN": "Nathan Road",
+            "NEAR_LANDMARK_CN": "彌敦道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-11T07:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110315",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Nathan Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，加士居道天橋(往紅磡方向)近彌敦道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-02-11T09:48:41",
+        "last_announcement": "2025-02-11T07:59:00"
+    },
+    "IN-25-00755": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Causeway Road",
+            "LOCATION_CN": "高士威道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wan Chai",
+            "DIRECTION_CN": "灣仔",
+            "NEAR_LANDMARK_EN": "Queen's College",
+            "NEAR_LANDMARK_CN": "皇仁書院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-11T08:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110317",
+                "CONTENT_EN": "Part of the lanes of Causeway Road (Wan Chai bound) near Queen's College which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的高士威道(往灣仔方向)近皇仁書院的部份行車線現已解封。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2025-02-11T09:48:41",
+        "last_announcement": "2025-02-11T08:22:00"
+    },
+    "IN-25-00757": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "East Kowloon Corridor",
+            "LOCATION_CN": "東九龍走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-11T08:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110319",
+                "CONTENT_EN": "East Kowloon Corridor (Tsim Sha Tsui bound) is busy. Motorists passing through the above road section is advised to drive with utmost care and patience.",
+                "CONTENT_CN": "東九龍走廊(往尖沙咀方向)的交通繁忙。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2025-02-11T09:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110320",
+                "CONTENT_EN": "Traffic at East Kowloon Corridor (Tsim Sha Tsui bound) has resumed normal.",
+                "CONTENT_CN": "東九龍走廊(往尖沙咀方向)的交通現已恢復正常。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-02-11T09:48:41",
+        "last_announcement": "2025-02-11T09:00:00"
+    },
+    "IN-25-00758": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "West Kowloon Highway",
+            "LOCATION_CN": "西九龍公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Western Harbour Crossing",
+            "DIRECTION_CN": "西區海底隧道",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-11T09:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110321",
+                "CONTENT_EN": "West Kowloon Highway (Western Harbour Crossing bound) is busy. \nMotorists passing through the above road section is advised to drive with utmost care and patience.",
+                "CONTENT_CN": "西九龍公路(往西區海底隧道方向)的交通繁忙。\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-02-11T09:48:41",
+        "last_announcement": "2025-02-11T09:09:00"
+    },
+    "IN-25-00759": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Connaught Road Central",
+            "LOCATION_CN": "干諾道中",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wan Chai",
+            "DIRECTION_CN": "灣仔",
+            "NEAR_LANDMARK_EN": "Shun Tak Centre",
+            "NEAR_LANDMARK_CN": "信德中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-11T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110322",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road Central (Wan Chai bound) near Shun Tak Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，干諾道中(往灣仔方向)近信德中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-11T09:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110324",
+                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Wan Chai bound) near Shun Tak Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往灣仔方向)近信德中心的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2025-02-11T09:48:41",
+        "last_announcement": "2025-02-11T09:34:00"
+    },
+    "IN-25-00760": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Jockey Club Road",
+            "NEAR_LANDMARK_CN": "馬會道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-11T09:29:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110323",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Kowloon bound) near Jockey Club Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，粉嶺公路(往九龍方向)近馬會道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2025-02-11T09:48:41",
+        "last_announcement": "2025-02-11T09:29:00"
     }
 }
