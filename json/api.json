@@ -59,38 +59,6 @@
         "last_update": "2025-02-10T06:29:32",
         "last_announcement": "2025-02-10T06:08:00"
     },
-    "IN-25-00717": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Airport",
-            "INCIDENT_DETAIL_CN": "機場",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-08T22:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110211",
-                "CONTENT_EN": "Car Park 1 of Hong Kong International Airport is full. Motorists are advised to pick up passengers at Car Park 4.",
-                "CONTENT_CN": "香港國際機場一號停車場已滿，駕駛人士請考慮改用四號停車場接載乘客。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-02-08T22:48:27",
-        "last_announcement": "2025-02-08T22:31:00"
-    },
     "IN-25-00719": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
