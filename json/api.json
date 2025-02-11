@@ -2173,11 +2173,18 @@
                 "ID": "110332",
                 "CONTENT_EN": "Due to Stagnant water on road , part of the lanes of Island Eastern Corridor (Central bound) near Quarry Bay Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有積水，東區走廊(往中環方向)近鰂魚涌公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-11T14:08:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110337",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Quarry Bay Park which was closed due to Stagnant water on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有積水而封閉的東區走廊(往中環方向)近鰂魚涌公園的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2025-02-11T11:42:15",
-        "last_announcement": "2025-02-11T11:32:00"
+        "last_update": "2025-02-11T14:39:14",
+        "last_announcement": "2025-02-11T14:08:00"
     },
     "IN-25-00765": {
         "description": {
@@ -2244,10 +2251,17 @@
                 "ID": "110335",
                 "CONTENT_EN": "Due to a passenger on a train requiring urgent medical assistance at Sheung Wan Station, Island Line between Kennedy Town Station and Chai Wan Station could be extended by 10-15 minutes.",
                 "CONTENT_CN": "由於上環站列車上有乘客需要緊急醫療協助，港島綫來往堅尼地城站及柴灣站的行車時間預計需要額外10-15分鐘。"
+            },
+            "2025-02-11T14:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110336",
+                "CONTENT_EN": "The service of Island Line between Kennedy Town Station and Chai Wan Station has resumed.",
+                "CONTENT_CN": "港島綫來往堅尼地城站及柴灣站的服務已恢復正常。"
             }
         },
         "district": "北區",
-        "last_update": "2025-02-11T14:15:18",
-        "last_announcement": "2025-02-11T13:55:00"
+        "last_update": "2025-02-11T14:39:14",
+        "last_announcement": "2025-02-11T14:06:00"
     }
 }
