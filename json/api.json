@@ -112,52 +112,6 @@
         "last_update": "2025-02-09T14:33:19",
         "last_announcement": "2025-02-09T14:00:00"
     },
-    "IN-25-00724": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-09T12:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110229",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-09T12:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110239",
-                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic. The lower deck of Lantau Link (Kowloon bound) is still being opened.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已解封。 ⻘嶼幹線下層(往九龍⽅向)仍然開放。"
-            },
-            "2025-02-09T13:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110241",
-                "CONTENT_EN": "The lower deck of Lantau Link (Kowloon bound) is closed.",
-                "CONTENT_CN": "⻘嶼幹線下層(往九龍⽅向)現已封閉。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-02-09T13:50:40",
-        "last_announcement": "2025-02-09T13:35:00"
-    },
     "IN-25-00726": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
