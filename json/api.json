@@ -1,36 +1,4 @@
 {
-    "IN-25-00600": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Tram Incident",
-            "INCIDENT_HEADING_CN": "電車事故",
-            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
-            "INCIDENT_DETAIL_CN": "緊急維修",
-            "LOCATION_EN": "Tram service disruption",
-            "LOCATION_CN": "電車服務受阻",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-10T13:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110277",
-                "CONTENT_EN": "The tram stop at Pottinger Street (westbound tram service) which was suspended due to emergency repairing works has been resumed.",
-                "CONTENT_CN": "較早前因緊急維修而暫停使用的砵甸乍街的電車站(西行線)現已恢復服務。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-02-10T14:32:45",
-        "last_announcement": "2025-02-10T13:46:00"
-    },
     "IN-25-00742": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2812,5 +2780,44 @@
         "district": "屯門區",
         "last_update": "2025-02-13T14:16:42",
         "last_announcement": "2025-02-13T14:03:00"
+    },
+    "IN-25-00813": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kai Tak Tunnel",
+            "LOCATION_CN": "啟德隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-13T14:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110449",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Kai Tak Tunnel (Tsim Sha Tsui bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，啟德隧道(往尖沙咀方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-13T14:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110450",
+                "CONTENT_EN": "The tunnel tube slow lane of Kai Tak Tunnel (Tsim Sha Tsui bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的啟德隧道(往尖沙咀方向)的管道慢線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-02-13T14:39:46",
+        "last_announcement": "2025-02-13T14:25:00"
     }
 }
