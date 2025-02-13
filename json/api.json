@@ -2584,11 +2584,18 @@
                 "ID": "110460",
                 "CONTENT_EN": "Due to watermain emergency works , the fast lane of Bulkeley Street  between Taku Street and Dock Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管緊急維修，寶其利街介乎大沽街與船澳街之間的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-14T06:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110480",
+                "CONTENT_EN": "The fast lane of Bulkeley Street  between Taku Street and Dock Street which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的寶其利街介乎大沽街與船澳街之間的快線現已解封。"
             }
         },
         "district": "大埔區",
-        "last_update": "2025-02-13T17:36:56",
-        "last_announcement": "2025-02-13T17:22:00"
+        "last_update": "2025-02-14T06:22:51",
+        "last_announcement": "2025-02-14T06:07:00"
     },
     "IN-25-00819": {
         "description": {
@@ -2928,10 +2935,17 @@
                 "ID": "110478",
                 "CONTENT_EN": "Due to watermain emergency works , the fast lane of Island Eastern Corridor (Central bound) near Quarry Bay Park is closed to all traffic. \nOnly remaining lanes are available to motorists.",
                 "CONTENT_CN": "因水務緊急維修，東區走廊(往中環方向)近鰂魚涌公園的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-02-14T06:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110479",
+                "CONTENT_EN": "The fast lane of Island Eastern Corridor (Central bound) near Quarry Bay Park which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的東區走廊(往中環方向)近鰂魚涌公園的快線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2025-02-13T21:42:32",
-        "last_announcement": "2025-02-13T21:30:00"
+        "last_update": "2025-02-14T06:22:51",
+        "last_announcement": "2025-02-14T06:05:00"
     }
 }
