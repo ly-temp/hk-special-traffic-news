@@ -1,43 +1,4 @@
 {
-    "IN-25-00742": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Chek Lap Kok Tunnel",
-            "LOCATION_CN": "屯門赤鱲角隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-10T14:41:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110278",
-                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Tuen Mun Chek Lap Kok Tunnel (Airport bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門赤鱲角隧道(往機場方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-10T14:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110279",
-                "CONTENT_EN": "The tunnel tube slow lane of Tuen Mun-Chek Lap Kok Tunnel (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門-赤鱲角隧道(往機場方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-02-10T15:19:57",
-        "last_announcement": "2025-02-10T14:51:00"
-    },
     "IN-25-00743": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2846,11 +2807,18 @@
                 "ID": "110451",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of West Kowloon Corridor (Mei Foo bound) near West Kowloon Law Courts Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，西九龍走廊(往美孚方向)近西九龍法院大樓的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-13T15:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110454",
+                "CONTENT_EN": "The slow lane of West Kowloon Corridor (Mei Foo bound) near West Kowloon Law Courts Building which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的西九龍走廊(往美孚方向)近西九龍法院大樓的慢線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2025-02-13T14:49:49",
-        "last_announcement": "2025-02-13T14:38:00"
+        "last_update": "2025-02-13T15:21:53",
+        "last_announcement": "2025-02-13T15:12:00"
     },
     "IN-25-00815": {
         "description": {
@@ -2878,10 +2846,17 @@
                 "ID": "110452",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Tsuen Wan bound) near Lai King MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，葵涌道(往荃灣方向)近荔景港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-13T14:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110453",
+                "CONTENT_EN": "Part of the lanes of Kwai Chung Road (Tsuen Wan bound) near Lai King MTR Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的葵涌道(往荃灣方向)近荔景港鐵站的部份行車線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2025-02-13T14:59:56",
-        "last_announcement": "2025-02-13T14:50:00"
+        "last_update": "2025-02-13T15:21:53",
+        "last_announcement": "2025-02-13T14:57:00"
     }
 }
