@@ -1,128 +1,4 @@
 {
-    "IN-25-00774": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-11T18:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110354",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Argyle Street (Tai Kok Tsui bound) and Princess Margaret Road (Kowloon Tong bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，亞皆老街(往大角咀方向)和公主道(往九龍塘方向) 交界的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-11T19:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110356",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Argyle Street (Tai Kok Tsui bound) and Princess Margaret Road (Kowloon Tong bound) is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Waterloo Road (Tsim Sha Tsui bound) ends at Lancashire Road.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，亞皆老街(往大角咀方向)和公主道(往九龍塘方向) 交界的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在窩打老道(往尖沙咀方向)的車龍龍尾已到蘭開夏道。  現時上址交通擠塞。"
-            },
-            "2025-02-11T20:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110362",
-                "CONTENT_EN": "Part of the lanes of the junction of Argyle Street (Tai Kok Tsui bound) and Princess Margaret Road (Kowloon Tong bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街(往大角咀方向)和公主道(往九龍塘方向) 交界的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-02-11T20:45:21",
-        "last_announcement": "2025-02-11T20:22:00"
-    },
-    "IN-25-00775": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hong Chong Road",
-            "LOCATION_CN": "康莊道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ho Man Tin",
-            "DIRECTION_CN": "何文田",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-11T18:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110355",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，康莊道(往何文田方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-11T19:50:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "110359",
-                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Ho Man Tin bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往何文田方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-02-11T20:45:21",
-        "last_announcement": "2025-02-11T19:50:00"
-    },
-    "IN-25-00776": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Mut Wah Street",
-            "LOCATION_CN": "物華街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ngau Tau Kok Road",
-            "DIRECTION_CN": "牛頭角道",
-            "NEAR_LANDMARK_EN": "Fu Yan Street",
-            "NEAR_LANDMARK_CN": "輔仁街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-11T19:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110357",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Mut Wah Street (Ngau Tau Kok Road bound) near Fu Yan Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，物華街(往牛頭角道方向)近輔仁街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-11T20:11:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "110361",
-                "CONTENT_EN": "Part of the lanes of Mut Wah Street (Ngau Tau Kok Road bound) near Fu Yan Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的物華街(往牛頭角道方向)近輔仁街的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-02-11T20:45:21",
-        "last_announcement": "2025-02-11T20:11:00"
-    },
     "IN-25-00777": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2548,11 +2424,18 @@
                 "ID": "110517",
                 "CONTENT_EN": "The following road sections are still busy:\nKowloon\n– Prince Edward Road West (Tai Kok Tsui bound)\nHong Kong Island\n– Connaught Road Central Flyover (Sai Wan bound)\n– Connaught Road Central (Sai Wan bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.   At the same time, traffic at the following road sections have resumed normal:\nKowloon\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Kwun Tong Bypass (Tate's Cairn Tunnel bound)\nHong Kong Island\n– Gloucester Road (both bounds)\n– Harcourt Road (Sai Wan bound).",
                 "CONTENT_CN": "以下路段的交通仍然繁忙:\n九龍\n–太子道西(往大角咀方向)\n香港島\n–干諾道中天橋(往西環方向)\n–干諾道中(往西環方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  同時，以下路段的交通現已恢復正常:\n九龍\n–東九龍走廊(往尖沙咀方向)\n–觀塘繞道(往大老山隧道方向)\n香港島\n–告士打道(來回方向)\n–夏慤道(往西環方向)。"
+            },
+            "2025-02-14T20:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110518",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\nKowloon\n– Prince Edward Road West (Tai Kok Tsui bound)\nHong Kong Island\n– Connaught Road Central Flyover (Sai Wan bound)\n– Connaught Road Central (Sai Wan bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n九龍\n–太子道西(往大角咀方向)\n香港島\n–干諾道中天橋(往西環方向)\n–干諾道中(往西環方向)。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2025-02-14T20:33:12",
-        "last_announcement": "2025-02-14T20:10:00"
+        "last_update": "2025-02-14T21:00:27",
+        "last_announcement": "2025-02-14T20:40:00"
     },
     "IN-25-00840": {
         "description": {
