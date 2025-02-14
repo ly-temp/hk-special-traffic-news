@@ -1,43 +1,4 @@
 {
-    "IN-25-00762": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Yi Road West",
-            "LOCATION_CN": "青衣西路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tam Kon Shan Interchange",
-            "DIRECTION_CN": "担杆山交匯處",
-            "NEAR_LANDMARK_EN": "Cheung Hang Estate",
-            "NEAR_LANDMARK_CN": "長亨邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-11T10:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110327",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Tsing Yi Road West (Tam Kon Shan Interchange bound) near Cheung Hang Estate are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青衣西路(往担杆山交匯處方向)近長亨邨的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-02-11T11:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110331",
-                "CONTENT_EN": "All lanes of Tsing Yi Road West (Tam Kon Shan Interchange bound) near Cheung Hang Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青衣西路(往担杆山交匯處方向)近長亨邨的全線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2025-02-11T11:28:39",
-        "last_announcement": "2025-02-11T11:03:00"
-    },
     "IN-25-00763": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
