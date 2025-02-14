@@ -2649,5 +2649,76 @@
         "district": "屯門區",
         "last_update": "2025-02-14T16:56:02",
         "last_announcement": "2025-02-14T16:38:00"
+    },
+    "IN-25-00837": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-14T16:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110502",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun bound) to Tsuen Tsing Interchange is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，由荃灣路(往屯門方向)通往荃青交匯處的支路的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2025-02-14T17:01:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110503",
+                "CONTENT_EN": "Part of the lanes of the slip road leading from Tsuen Wan Road (Tuen Mun bound) to Tsuen Tsing Interchange which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的由荃灣路(往屯門方向)通往荃青交匯處的支路的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-02-14T17:18:44",
+        "last_announcement": "2025-02-14T17:01:00"
+    },
+    "IN-25-00836": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cheung Sha Wan",
+            "DIRECTION_CN": "長沙灣",
+            "NEAR_LANDMARK_EN": "Waterloo Road",
+            "NEAR_LANDMARK_CN": "窩打老道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-14T17:04:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110504",
+                "CONTENT_EN": "Part of the lanes of Nathan Road (Cheung Sha Wan bound) near Waterloo Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的彌敦道(往長沙灣方向)近窩打老道的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-02-14T17:18:44",
+        "last_announcement": "2025-02-14T17:04:00"
     }
 }
