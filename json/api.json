@@ -66,52 +66,6 @@
         "last_update": "2025-02-12T10:05:27",
         "last_announcement": "2025-02-12T08:45:00"
     },
-    "IN-25-00782": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Deerhill Bay",
-            "NEAR_LANDMARK_CN": "鹿茵山莊",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-12T07:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110374",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tolo Highway (Kowloon bound) near Deerhill Bay is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，吐露港公路(往九龍方向)近鹿茵山莊的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-12T07:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110376",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tolo Highway (Kowloon bound) near Deerhill Bay is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tolo Highway (Kowloon bound) ends at Tolo Highway near Wan Tau Tong Estate. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，吐露港公路(往九龍方向)近鹿茵山莊的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在吐露港公路(往九龍方向)的車龍龍尾已到吐露港公路近運頭塘邨。 現時上址交通擠塞。"
-            },
-            "2025-02-12T07:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110377",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Kowloon bound) near Deerhill Bay which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的吐露港公路(往九龍方向)近鹿茵山莊的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2025-02-12T08:40:45",
-        "last_announcement": "2025-02-12T07:54:00"
-    },
     "IN-25-00783": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2507,5 +2461,69 @@
         "district": "觀塘區",
         "last_update": "2025-02-15T00:20:34",
         "last_announcement": "2025-02-14T23:53:00"
+    },
+    "IN-25-00846": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Tseung Kwan O Tunnel Road",
+            "LOCATION_CN": "將軍澳隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Verbena Heights",
+            "NEAR_LANDMARK_CN": "茵怡花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-15T09:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110525",
+                "CONTENT_EN": "Due to emergency repairing works , the fast lane of Tseung Kwan O Tunnel Road (Kwun Tong bound) near Verbena Heights is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，將軍澳隧道公路(往觀塘方向)近茵怡花園的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2025-02-15T09:47:25",
+        "last_announcement": "2025-02-15T09:00:00"
+    },
+    "IN-25-00847": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Ching Tak Street",
+            "NEAR_LANDMARK_CN": "正德街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-15T09:23:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110526",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Tsuen Wan bound) near Ching Tak Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道(往荃灣方向)近正德街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2025-02-15T09:47:25",
+        "last_announcement": "2025-02-15T09:23:00"
     }
 }
