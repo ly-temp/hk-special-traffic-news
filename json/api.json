@@ -52,38 +52,6 @@
         "last_update": "2025-02-13T16:47:51",
         "last_announcement": "2025-02-13T16:30:00"
     },
-    "IN-25-00801": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lion Rock Tunnel Road",
-            "LOCATION_CN": "獅子山隧道公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Julimount Garden",
-            "NEAR_LANDMARK_CN": "瑞峰花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-12T18:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110418",
-                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Julimount Garden which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的獅子山隧道公路(往九龍方向)近瑞峰花園的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2025-02-12T19:06:57",
-        "last_announcement": "2025-02-12T18:45:00"
-    },
     "IN-25-00802": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
