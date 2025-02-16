@@ -1532,11 +1532,18 @@
                 "ID": "110567",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Chuk Yuen Road (Shatin Pass Road bound) near Chuk Yuen Sports Centre are closed to all traffic. Affected KMB bus route no. 7M has been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.",
                 "CONTENT_CN": "因水管爆裂，竹園道(往沙田㘭道方向)近竹園體育館的全線現已封閉。 受影響九巴第7M號線須改道行駛。 有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。"
+            },
+            "2025-02-16T22:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110569",
+                "CONTENT_EN": "Due to watermain emergency works , all lanes of Chuk Yuen Road (Shatin Pass Road bound) near Chuk Yuen Sports Centre are closed to all traffic. Affected KMB bus route no. 7M has been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管緊急維修，竹園道(往沙田㘭道方向)近竹園體育館的全線現已封閉。 受影響九巴第7M號線須改道行駛。 有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。 駕駛人士請考慮改用其他道路。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2025-02-16T18:43:43",
-        "last_announcement": "2025-02-16T18:30:00"
+        "last_update": "2025-02-16T23:19:48",
+        "last_announcement": "2025-02-16T22:50:00"
     },
     "IN-25-00868": {
         "description": {
@@ -1564,10 +1571,17 @@
                 "ID": "110568",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Jordan Road  and Wui Man Road  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，佐敦道和匯民道 交界的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-16T22:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110570",
+                "CONTENT_EN": "Part of the lanes of the junction of Jordan Road  and Wui Man Road  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的佐敦道和匯民道 交界的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-02-16T22:57:44",
-        "last_announcement": "2025-02-16T22:41:00"
+        "last_update": "2025-02-16T23:19:48",
+        "last_announcement": "2025-02-16T22:59:00"
     }
 }
