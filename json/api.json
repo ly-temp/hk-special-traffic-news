@@ -38,45 +38,6 @@
         "last_update": "2025-02-14T06:22:51",
         "last_announcement": "2025-02-14T06:07:00"
     },
-    "IN-25-00820": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "West Kowloon Corridor",
-            "LOCATION_CN": "西九龍走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mei Foo",
-            "DIRECTION_CN": "美孚",
-            "NEAR_LANDMARK_EN": "West Kowloon Law Courts Building",
-            "NEAR_LANDMARK_CN": "西九龍法院大樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-13T17:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110464",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of West Kowloon Corridor (Mei Foo bound) near West Kowloon Law Courts Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，西九龍走廊(往美孚方向)近西九龍法院大樓的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-13T18:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110467",
-                "CONTENT_EN": "The slow lane of West Kowloon Corridor (Mei Foo bound) near West Kowloon Law Courts Building which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的西九龍走廊(往美孚方向)近西九龍法院大樓的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2025-02-13T18:38:43",
-        "last_announcement": "2025-02-13T18:15:00"
-    },
     "IN-25-00822": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1739,5 +1700,37 @@
         "district": "黃大仙區",
         "last_update": "2025-02-16T16:43:04",
         "last_announcement": "2025-02-16T16:20:00"
+    },
+    "IN-25-00867": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Chuk Yuen Road",
+            "LOCATION_CN": "竹園道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Shatin Pass Road",
+            "DIRECTION_CN": "沙田㘭道",
+            "NEAR_LANDMARK_EN": "Chuk Yuen Sports Centre",
+            "NEAR_LANDMARK_CN": "竹園體育館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-16T18:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110567",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Chuk Yuen Road (Shatin Pass Road bound) near Chuk Yuen Sports Centre are closed to all traffic. Affected KMB bus route no. 7M has been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.",
+                "CONTENT_CN": "因水管爆裂，竹園道(往沙田㘭道方向)近竹園體育館的全線現已封閉。 受影響九巴第7M號線須改道行駛。 有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2025-02-16T18:43:43",
+        "last_announcement": "2025-02-16T18:30:00"
     }
 }
