@@ -38,59 +38,6 @@
         "last_update": "2025-02-14T10:53:12",
         "last_announcement": "2025-02-14T10:20:00"
     },
-    "IN-25-00830": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sau Mau Ping Road",
-            "DIRECTION_CN": "秀茂坪道",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-14T08:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110484",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Tseung Kwan O Road slip road leading to Sau Mau Ping Road is closed to all traffic.   Traffic queue on Tseung Kwan O Road (Sau Mau Ping Road bound) ends at Tseung Kwan O Road near Kwun Tong Police Station.   Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，將軍澳道支路通往秀茂坪道的唯一行車線現已封閉。  現時在將軍澳道(往秀茂坪道方向)的車龍龍尾已到將軍澳道近觀塘警署。  現時上址交通繁忙。"
-            },
-            "2025-02-14T08:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110486",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Tseung Kwan O Road (Sau Mau Ping Road bound) is still being closed to all traffic. Traffic queues on Tseung Kwan O Road (Sau Mau Ping Road bound) ends at Kwun Tong Bypass near Kwun Tong Ferry Pier and Kwun Tong Road near Hoi Yuen Road roundabout. Motorists are advised to use alternative routes. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，將軍澳道(往秀茂坪道方向)的唯一行車線仍然封閉。 現時在將軍澳道(往秀茂坪道方向)的車龍龍尾已到觀塘繞道近觀塘碼頭及觀塘道近開源道迴旋處。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
-            },
-            "2025-02-14T09:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110488",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Tseung Kwan O Road to Sau Mau Ping Road is still being closed to all traffic.   Traffic queues on Tseung Kwan O Road (Sau Mau Ping Road bound) ends at Kwun Tong Bypass near Kwun Tong Ferry Pier and Kwun Tong Road near Hoi Yuen Road roundabout.   Motorists are advised to use alternative routes.   Affected bus routes (KMB: 93K,98A,98C,213M,213S) have been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，由將軍澳道通往秀茂坪道的支路的唯一行車線仍然封閉。  現時在將軍澳道(往秀茂坪道方向)的車龍龍尾已到觀塘繞道近觀塘碼頭及觀塘道近開源道迴旋處。  駕駛人士請考慮改用其他道路。  受影響巴士路線(九巴:93K,98A,98C,213M,213S)須改道行駛。有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。  現時上址交通擠塞。"
-            },
-            "2025-02-14T09:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110490",
-                "CONTENT_EN": "The only lane of the slip road leading from Tseung Kwan O Road to Sau Mau Ping Road which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse. Affected bus routes gradually resume their original routeings.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的由將軍澳道通往秀茂坪道的支路的唯一行車線現已解封。車龍有待消散。受影響巴士路線陸續恢復原有路線行駛。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-02-14T10:03:59",
-        "last_announcement": "2025-02-14T09:54:00"
-    },
     "IN-25-00831": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1539,10 +1486,88 @@
                 "ID": "110574",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Lai Chi Kok Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，呈祥道(往觀塘方向)近荔枝角公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-17T08:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110575",
+                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Lai Chi Kok Park which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往觀塘方向)近荔枝角公園的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2025-02-17T08:40:48",
-        "last_announcement": "2025-02-17T08:05:00"
+        "last_update": "2025-02-17T10:09:13",
+        "last_announcement": "2025-02-17T08:39:00"
+    },
+    "IN-25-00873": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lam Tin Interchange",
+            "LOCATION_CN": "藍田交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O - Lam Tin Tunnel",
+            "DIRECTION_CN": "將軍澳 - 藍田隧道",
+            "NEAR_LANDMARK_EN": "Administration Building",
+            "NEAR_LANDMARK_CN": "行政大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-17T08:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110577",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Lam Tin Interchange (Tseung Kwan O - Lam Tin Tunnel bound) near Administration Building is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，藍田交匯處(往將軍澳-藍田隧道方向)近行政大樓的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2025-02-17T09:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110579",
+                "CONTENT_EN": "The only lane of Lam Tin Interchange (Tseung Kwan O - Lam Tin Tunnel bound) near Administration Building which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的藍田交匯處(往將軍澳-藍田隧道方向)近行政大樓的唯一行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2025-02-17T10:09:13",
+        "last_announcement": "2025-02-17T09:04:00"
+    },
+    "IN-25-00872": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "North Point Police Station",
+            "NEAR_LANDMARK_CN": "北角警署",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-17T08:59:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110578",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near North Point Police Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近北角警署的部份行車線現已解封。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2025-02-17T10:09:13",
+        "last_announcement": "2025-02-17T08:59:00"
     }
 }
