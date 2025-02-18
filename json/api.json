@@ -38,38 +38,6 @@
         "last_update": "2025-02-16T12:39:26",
         "last_announcement": "2025-02-16T12:21:00"
     },
-    "IN-25-00856": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Caritas Medical Centre",
-            "NEAR_LANDMARK_CN": "明愛醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-15T15:12:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110548",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Caritas Medical Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的呈祥道(往荃灣方向)近明愛醫院的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2025-02-15T15:28:58",
-        "last_announcement": "2025-02-15T15:12:00"
-    },
     "IN-25-00858": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1438,5 +1406,37 @@
         "district": "油尖旺區",
         "last_update": "2025-02-18T14:50:23",
         "last_announcement": "2025-02-18T14:40:00"
+    },
+    "IN-25-00895": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lai Chi Kok Road",
+            "LOCATION_CN": "荔枝角道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Lai Chi Kok Fire Station",
+            "NEAR_LANDMARK_CN": "荔枝角消防局",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-18T15:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110626",
+                "CONTENT_EN": "Part of the lanes of Lai Chi Kok Road (Tsuen Wan bound) near Lai Chi Kok Fire Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荔枝角道(往荃灣方向)近荔枝角消防局的部份行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-02-18T15:35:18",
+        "last_announcement": "2025-02-18T15:23:00"
     }
 }
