@@ -1438,5 +1438,69 @@
         "district": "深水埗區",
         "last_update": "2025-02-18T15:35:18",
         "last_announcement": "2025-02-18T15:23:00"
+    },
+    "IN-25-00896": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-18T16:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110627",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，漆咸道北(往油麻地方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-02-18T16:39:45",
+        "last_announcement": "2025-02-18T16:15:00"
+    },
+    "IN-25-00897": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Gloucester Road",
+            "LOCATION_CN": "告士打道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "North Point",
+            "DIRECTION_CN": "北角",
+            "NEAR_LANDMARK_EN": "Sun Hung Kai Centre",
+            "NEAR_LANDMARK_CN": "新鴻基中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-18T16:29:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110630",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Gloucester Road (North Point bound) near Sun Hung Kai Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，告士打道(往北角方向)近新鴻基中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2025-02-18T16:39:45",
+        "last_announcement": "2025-02-18T16:29:00"
     }
 }
