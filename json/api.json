@@ -1798,11 +1798,18 @@
                 "ID": "110651",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lung Fu Road roundabout  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-19T11:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110656",
+                "CONTENT_EN": "Part of the lanes of Lung Fu Road roundabout  which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍富路迴旋處的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-02-19T10:40:38",
-        "last_announcement": "2025-02-19T10:29:00"
+        "last_update": "2025-02-19T11:47:05",
+        "last_announcement": "2025-02-19T11:33:00"
     },
     "IN-25-00908": {
         "description": {
@@ -1835,5 +1842,37 @@
         "district": "深水埗區",
         "last_update": "2025-02-19T11:32:43",
         "last_announcement": "2025-02-19T10:54:00"
+    },
+    "IN-25-00909": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Hip Wo Street",
+            "LOCATION_CN": "協和街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "United Christian Hospital",
+            "DIRECTION_CN": "基督教聯合醫院",
+            "NEAR_LANDMARK_EN": "Yuet Wah Street",
+            "NEAR_LANDMARK_CN": "月華街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-19T11:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110655",
+                "CONTENT_EN": "Due to fire , part of the lanes of Hip Wo Street (United Christian Hospital bound) near Yuet Wah Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因火警，協和街(往基督教聯合醫院方向)近月華街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-02-19T11:47:05",
+        "last_announcement": "2025-02-19T11:26:00"
     }
 }
