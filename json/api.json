@@ -1,43 +1,4 @@
 {
-    "IN-25-00849": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Shek Pai Wan Road",
-            "LOCATION_CN": "石排灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Aberdeen",
-            "DIRECTION_CN": "香港仔",
-            "NEAR_LANDMARK_EN": "Tin Wan Hill Road",
-            "NEAR_LANDMARK_CN": "田灣山道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-15T10:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110530",
-                "CONTENT_EN": "Due to watermain burst , the slow lane of Shek Pai Wan Road (Aberdeen bound) near Tin Wan Hill Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，石排灣道(往香港仔方向)近田灣山道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-16T12:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110558",
-                "CONTENT_EN": "The slow lane of Shek Pai Wan Road (Aberdeen bound) near Tin Wan Hill Road which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的石排灣道(往香港仔方向)近田灣山道的慢線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-02-16T12:39:26",
-        "last_announcement": "2025-02-16T12:21:00"
-    },
     "IN-25-00861": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
