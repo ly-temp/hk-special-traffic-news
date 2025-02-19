@@ -1926,11 +1926,18 @@
                 "ID": "110670",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Hilton Plaza is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近希爾頓中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-19T18:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110673",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Hilton Plaza is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tai Po Road - Sha Tin (Tai Po bound) ends at Shing Mun Tunnels near Mei Chung Court and Tsing Sha Highway (Tai Wai Tunnel) near tunnel exit. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近希爾頓中心的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在大埔公路　–　沙田段(往大埔方向)的車龍龍尾已到城門隧道近美松苑及青沙公路(大圍隧道)近隧道出口。 現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-02-19T18:41:51",
-        "last_announcement": "2025-02-19T18:19:00"
+        "last_update": "2025-02-19T19:08:57",
+        "last_announcement": "2025-02-19T18:46:00"
     },
     "IN-25-00919": {
         "description": {
@@ -1958,10 +1965,24 @@
                 "ID": "110671",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Extra travelling time can be expected on the Tsuen Wan Line.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知， 荃灣綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
+            },
+            "2025-02-19T18:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110672",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to a signalling equipment fault near Admiralty Station, the total journey time on the Tsuen Wan Line between Central Station and Tsuen Wan Station could be extended by 10-15 minutes. Passengers crossing the harbour are advised to use the Tung Chung Line or East Rail Line. Longer waiting times on Tsuen Wan Line platforms can be expected. \nPlease allow more time for travel.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 由於金鐘站附近有信號設備故障，荃灣綫來往中環站及荃灣站的行車時間預計需要額外10-15分鐘。 需要過海的乘客，可考慮乘搭東涌綫或東鐵綫。現時荃灣綫月台上的乘客較多，候車時間亦會較長。 \n請為行程預留充裕時間。"
+            },
+            "2025-02-19T18:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110674",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The signalling equipment fault near Admiralty Station on the Tsuen Wan Line has been fixed. Normal train service is gradually resuming.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 金鐘站附近的信號設備已完成復修。荃灣綫列車服務逐步回復正常。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2025-02-19T18:52:01",
-        "last_announcement": "2025-02-19T18:34:00"
+        "last_update": "2025-02-19T19:08:57",
+        "last_announcement": "2025-02-19T18:48:00"
     }
 }
