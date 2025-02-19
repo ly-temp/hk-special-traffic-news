@@ -1899,5 +1899,37 @@
         "district": "西貢區",
         "last_update": "2025-02-19T17:28:06",
         "last_announcement": "2025-02-19T17:18:00"
+    },
+    "IN-25-00918": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Hilton Plaza",
+            "NEAR_LANDMARK_CN": "希爾頓中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-19T18:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110670",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Hilton Plaza is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近希爾頓中心的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-02-19T18:41:51",
+        "last_announcement": "2025-02-19T18:19:00"
     }
 }
