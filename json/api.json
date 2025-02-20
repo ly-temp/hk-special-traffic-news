@@ -1,114 +1,4 @@
 {
-    "IN-25-00871": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Lai Chi Kok Park",
-            "NEAR_LANDMARK_CN": "荔枝角公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-17T08:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110574",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Ching Cheung Road (Kwun Tong bound) near Lai Chi Kok Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，呈祥道(往觀塘方向)近荔枝角公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-17T08:39:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110575",
-                "CONTENT_EN": "Part of the lanes of Ching Cheung Road (Kwun Tong bound) near Lai Chi Kok Park which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的呈祥道(往觀塘方向)近荔枝角公園的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2025-02-17T10:09:13",
-        "last_announcement": "2025-02-17T08:39:00"
-    },
-    "IN-25-00873": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lam Tin Interchange",
-            "LOCATION_CN": "藍田交匯處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O - Lam Tin Tunnel",
-            "DIRECTION_CN": "將軍澳 - 藍田隧道",
-            "NEAR_LANDMARK_EN": "Administration Building",
-            "NEAR_LANDMARK_CN": "行政大樓",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-17T08:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110577",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Lam Tin Interchange (Tseung Kwan O - Lam Tin Tunnel bound) near Administration Building is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，藍田交匯處(往將軍澳-藍田隧道方向)近行政大樓的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-02-17T09:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110579",
-                "CONTENT_EN": "The only lane of Lam Tin Interchange (Tseung Kwan O - Lam Tin Tunnel bound) near Administration Building which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的藍田交匯處(往將軍澳-藍田隧道方向)近行政大樓的唯一行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2025-02-17T10:09:13",
-        "last_announcement": "2025-02-17T09:04:00"
-    },
-    "IN-25-00872": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "North Point Police Station",
-            "NEAR_LANDMARK_CN": "北角警署",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-17T08:59:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "110578",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near North Point Police Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近北角警署的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2025-02-17T10:09:13",
-        "last_announcement": "2025-02-17T08:59:00"
-    },
     "IN-25-00874": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2069,5 +1959,37 @@
         "district": "觀塘區",
         "last_update": "2025-02-20T09:44:21",
         "last_announcement": "2025-02-20T09:10:00"
+    },
+    "IN-25-00926": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "The 15th National Games Cross Boundary marathon test event",
+            "INCIDENT_DETAIL_CN": "第十五屆全運會跨境馬拉松測試賽",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-20T10:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110691",
+                "CONTENT_EN": "[The 15th National Games Cross Boundary marathon test event will be held on 23 February (Sunday). Please pay attention to the public transport service arrangements. ]\n\nThe marathon test event of the 15th National Games will be held on Sunday. On that day, there will have different arrangements public transport services at Shenzhen Bay Port (SBP) and other land cross boundary control points. Among them, the Transport Department once again reminds public / tourists to pay special to:-\n\n(1) Public Transport Services at SBP: As SBP was temporarily closed at 2am on the day, all public transport services serving the SBP, including franchised buses, green minibuses, cross-boundary coaches and taxis will be gradually resumed services at 11am when the customs clearance at SBP resumes normal; and\n\n(2) Public Transport Services at other ports: During the temporary closure of SBP, cross-boundary passengers are advised to use the East Rail Line to travel to Shenzhen via Lo Wu and Lok Ma Chau stations as much as possible. Residents in Yuen Long, Tuen Mun and Tin Shui Wai may consider taking KMB Routes B1 and B9 to Lok Ma Chau Station and Heung Yuen Wai Control Point, or transfer to the Lok Ma Chau–Huanggang Cross-boundary Shuttle Bus Service at San Tin Interchange to Shenzhen. \n\nWe appeal to cross boundary and local tourist to plan their journey as early as possible. Passengers uses public transport services as much as possible and avoid driving to cross boundary ports during the test event period to avoid traffic congestion and unnecessary delays. Public can visit the Transport Department's website at www. td. gov. hk or the “Hong Kong EasyMobility” mobile application for the latest information. \n\nThe Emergency Transport Coordination Centre of the Transport Department will escalated to the highest level of Joint Steering Mode during the event. The department will work with major public transport operators including the MTR Corporation Limited and franchised bus companies, to closely monitor the traffic and transport conditions on the day and make timely adjustment to services if necessary. \n.",
+                "CONTENT_CN": "【第十五屆全運會跨境馬拉松測試賽周日舉行　注意公共運輸服務安排】\n\n第十五屆全國運動會馬拉松測試賽將於本星期日(2月23日)舉行。當日，深圳灣口岸及其他陸路跨境口岸的公共運輸服務均有不同安排。其中，運輸署再次提醒市民和旅客特別注意：\n\n(一)深圳灣口岸的公共運輸服務：深圳灣口岸當日凌晨2時臨時封閉，所有來往該口岸的公共運輸服務包括專營巴士、專線小巴、跨境直通巴士以及的士，預計於上午11時，當深圳灣口岸恢復通關後逐步恢復營運；\n\n(二)其他口岸的公共運輸服務：在深圳灣口岸臨時封閉期間，跨境旅客應盡量使用東鐵綫經羅湖及落馬洲站前往深圳。而元朗、屯門及天水圍一帶居民，可考慮使用九巴第B1及B9號線前往落馬洲站及香園圍管制站，又或於新田交匯處轉乘皇巴前往深圳。\n\n我們呼籲跨境及本地旅客，及早計劃行程。盡量使用公共運輸服務，避免在有關時段駕車前往各跨境口岸以免交通擠塞及造成不必要的延誤。大家可瀏覽運輸署網頁www.td.gov.hk或「香港出行易」流動應用程式，了解最新資訊。\n\n運輸署緊急事故交通協調中心會在賽事期間提升至最高級別的聯合督導模式運作。署方會聯同主要公共運輸營辦商包括港鐵和專營巴士公司，密切監察當日的交通及運輸情況，並在有需要時及時調整服務。\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-02-20T10:40:45",
+        "last_announcement": "2025-02-20T10:00:00"
     }
 }
