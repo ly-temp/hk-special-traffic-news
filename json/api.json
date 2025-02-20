@@ -1,36 +1,4 @@
 {
-    "IN-25-00884": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Connaught Road West",
-            "LOCATION_CN": "干諾道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Chai Wan",
-            "DIRECTION_CN": "柴灣",
-            "NEAR_LANDMARK_EN": "Western Fire Services Street",
-            "NEAR_LANDMARK_CN": "西消防街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-18T06:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110602",
-                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Connaught Road West (Chai Wan bound) near Western Fire Services Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，干諾道西(往柴灣方向)近西消防街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2025-02-18T06:15:28",
-        "last_announcement": "2025-02-18T06:04:00"
-    },
     "IN-25-00885": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
