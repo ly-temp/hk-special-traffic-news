@@ -2104,5 +2104,37 @@
         "district": "大埔區",
         "last_update": "2025-02-21T18:20:12",
         "last_announcement": "2025-02-21T17:56:00"
+    },
+    "IN-25-00953": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tai Po Road - Tai Wai",
+            "LOCATION_CN": "大埔公路　–　大圍段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Mei Lam Estate",
+            "NEAR_LANDMARK_CN": "美林邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-21T18:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110758",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Tai Po Road - Tai Wai  to Shing Mun Tunnel Road (Tsuen Wan bound) near Mei Lam Estate is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，由大埔公路　–　大圍段通往城門隧道公路(往荃灣方向) 的支路 近美林邨的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-02-21T18:58:00",
+        "last_announcement": "2025-02-21T18:39:00"
     }
 }
