@@ -1,43 +1,4 @@
 {
-    "IN-25-00902": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kennedy Town",
-            "DIRECTION_CN": "堅尼地城",
-            "NEAR_LANDMARK_EN": "Jubilee Street",
-            "NEAR_LANDMARK_CN": "租庇利街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-19T06:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110641",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Connaught Road Central (Kennedy Town bound) near Jubilee Street is closed to all traffic. Only remaining lanes is available to motorists.   Affected bus routes (Citybus: 3A, 4, 4X, 7, 71 and 91) have been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，干諾道中(往堅尼地城方向)近租庇利街的部份行車線現已封閉。駕駛人士只可使用餘下行車線行車。  受影響巴士路線(城巴：3A、4、4X、7、71及91)須改道行駛。有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。  現時上址交通繁忙。"
-            },
-            "2025-02-20T04:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110682",
-                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Kennedy Town bound) near Jubilee Street which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的干諾道中(往堅尼地城方向)近租庇利街的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2025-02-20T04:31:18",
-        "last_announcement": "2025-02-20T04:03:00"
-    },
     "IN-25-00912": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
