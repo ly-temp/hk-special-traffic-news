@@ -2234,11 +2234,18 @@
                 "ID": "110797",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Yee Wo Street (North Point bound) near Causeway Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，怡和街(往北角方向)近高士威道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-22T17:33:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110800",
+                "CONTENT_EN": "Part of the lanes of Yee Wo Street (North Point bound) near Causeway Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的怡和街(往北角方向)近高士威道的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2025-02-22T17:34:29",
-        "last_announcement": "2025-02-22T17:12:00"
+        "last_update": "2025-02-22T17:54:40",
+        "last_announcement": "2025-02-22T17:33:00"
     },
     "IN-25-00970": {
         "description": {
@@ -2280,10 +2287,17 @@
                 "ID": "110801",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate is still being closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，皇珠路(往屯門公路方向)近友愛邨的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-22T17:40:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "110802",
+                "CONTENT_EN": "Part of the lanes of Wong Chu Road (Tuen Mun Road bound) near Yau Oi Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的皇珠路(往屯門公路方向)近友愛邨的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-02-22T17:44:30",
-        "last_announcement": "2025-02-22T17:35:00"
+        "last_update": "2025-02-22T17:54:40",
+        "last_announcement": "2025-02-22T17:40:00"
     }
 }
