@@ -38,98 +38,6 @@
         "last_update": "2025-02-20T04:31:18",
         "last_announcement": "2025-02-20T04:03:00"
     },
-    "IN-25-00903": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Track Signaling Fault",
-            "INCIDENT_DETAIL_CN": "信號故障",
-            "LOCATION_EN": "Tsuen Wan Line Service Disruption",
-            "LOCATION_CN": "荃灣綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-19T08:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110642",
-                "CONTENT_EN": "Extra travelling time can be expected on the Tsuen Wan Line. \nPlease allow more time for travel.",
-                "CONTENT_CN": "荃灣綫列車預計需要額外行車時間， \n請為行程預留充裕時間。"
-            },
-            "2025-02-19T08:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110643",
-                "CONTENT_EN": "Due to a signalling equipment fault near Admiralty Station, the total journey time on the Tsuen Wan Line between Central Station and Tsuen Wan Station could be extended by 10-15 minutes. Longer waiting times on Tsuen Wan Line platforms can be expected.",
-                "CONTENT_CN": "由於金鐘站附近有信號設備故障，荃灣綫來往中環站及荃灣站的行車時間預計需要額外10-15分鐘。現時荃灣綫月台上的乘客較多，候車時間亦會較長。"
-            },
-            "2025-02-19T08:33:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110644",
-                "CONTENT_EN": "Due to a signalling equipment fault near Admiralty Station, the total journey time on the Tsuen Wan Line between Central Station and Tsuen Wan Station could be extended by 10-15 minutes. Passengers crossing the harbour are advised to use the Tung Chung Line or East Rail Line. Longer waiting times on Tsuen Wan Line platforms can be expected.",
-                "CONTENT_CN": "由於金鐘站附近有信號設備故障，荃灣綫來往中環站及荃灣站的行車時間預計需要額外10-15分鐘。需要過海的乘客，可考慮乘搭東涌綫或東鐵綫。現時荃灣綫月台上的乘客較多，候車時間亦會較長。"
-            },
-            "2025-02-19T08:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110645",
-                "CONTENT_EN": "The signalling equipment fault near Admiralty Station on the Tsuen Wan Line has been fixed. Normal train service is gradually resuming.",
-                "CONTENT_CN": "金鐘站附近的信號設備已完成復修。荃灣綫列車服務逐步回復正常。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2025-02-19T09:49:48",
-        "last_announcement": "2025-02-19T08:41:00"
-    },
-    "IN-25-00904": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Siu Hong MTR Station",
-            "NEAR_LANDMARK_CN": "兆康港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-19T09:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110646",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近兆康港鐵站的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-19T09:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110647",
-                "CONTENT_EN": "The slow lane of Tuen Mun Road (Kowloon bound) near Siu Hong MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近兆康港鐵站的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-02-19T09:49:48",
-        "last_announcement": "2025-02-19T09:09:00"
-    },
     "IN-25-00905": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2216,10 +2124,120 @@
                 "ID": "110770",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近紅梅谷路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-22T09:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110772",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lion Rock Tunnel Road (Kowloon bound) near Hung Mui Kuk Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lion Rock Tunnel Road (Kowloon bound) ends at Sha Tin Road near Prince of Wales Hospital. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，獅子山隧道公路(往九龍方向)近紅梅谷路的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在獅子山隧道公路(往九龍方向)的車龍龍尾已到沙田路近威爾斯親王醫院。 現時上址交通擠塞。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2025-02-22T09:46:06",
-        "last_announcement": "2025-02-22T08:58:00"
+        "last_update": "2025-02-22T10:37:34",
+        "last_announcement": "2025-02-22T09:52:00"
+    },
+    "IN-25-00959": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tai Lam Tunnel",
+            "LOCATION_CN": "大欖隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-22T09:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110771",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube middle lane of Tai Lam Tunnel (Yuen Long bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大欖隧道(往元朗方向)的管道中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-22T10:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110773",
+                "CONTENT_EN": "The tunnel tube middle lane of Tai Lam Tunnel (Yuen Long bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大欖隧道(往元朗方向)的管道中線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-02-22T10:37:34",
+        "last_announcement": "2025-02-22T10:10:00"
+    },
+    "IN-25-00960": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fo Tan Road",
+            "LOCATION_CN": "火炭路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Chun Yeung Estate",
+            "DIRECTION_CN": "駿洋邨",
+            "NEAR_LANDMARK_EN": "Tai Po Road - Sha Tin",
+            "NEAR_LANDMARK_CN": "大埔公路　–　沙田段",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-22T10:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110774",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fo Tan Road (Chun Yeung Estate bound) near Tai Po Road - Sha Tin is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，火炭路(往駿洋邨方向)近大埔公路　–　沙田段的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-02-22T10:37:34",
+        "last_announcement": "2025-02-22T10:15:00"
+    },
+    "IN-25-00961": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lung Shan Tunnel",
+            "LOCATION_CN": "龍山隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Heung Yuen Wai",
+            "DIRECTION_CN": "香園圍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-22T10:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110775",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Lung Shan Tunnel (Heung Yuen Wai bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，龍山隧道(往香園圍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-02-22T10:37:34",
+        "last_announcement": "2025-02-22T10:20:00"
     }
 }
