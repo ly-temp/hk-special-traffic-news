@@ -183,38 +183,6 @@
         "last_update": "2025-02-20T20:42:04",
         "last_announcement": "2025-02-20T19:53:00"
     },
-    "IN-25-00933": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Service Enhancement on the Tseung Kwan O Line",
-            "INCIDENT_DETAIL_CN": "將軍澳綫加強列車服務",
-            "LOCATION_EN": "Tseung Kwan O Line Service Disruption",
-            "LOCATION_CN": "將軍澳綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-20T18:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110707",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that To make your travel more convenient, starting from 23 February 2025 (Sunday), at least 52 additional train trips will be added to the Tseung Kwan O Line on Sundays and public holidays. \n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，爲方便大家出行，由2月23日（星期日）起，將軍澳綫逢星期日及公眾假期會加密恆常列車班次，每周將增加最少52班車。\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
-            }
-        },
-        "district": "西貢區",
-        "last_update": "2025-02-20T18:33:44",
-        "last_announcement": "2025-02-20T18:02:00"
-    },
     "IN-25-00934": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
