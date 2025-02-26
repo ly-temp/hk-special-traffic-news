@@ -98,45 +98,6 @@
         "last_update": "2025-02-23T21:45:10",
         "last_announcement": "2025-02-23T21:34:00"
     },
-    "IN-25-00974": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Repulse Bay Road",
-            "LOCATION_CN": "淺水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "The Brentwood",
-            "NEAR_LANDMARK_CN": "蔚峯園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-23T07:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110814",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Repulse Bay Road (both bounds) near The Brentwood are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，淺水灣道(來回方向)近蔚峯園的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-02-23T08:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110815",
-                "CONTENT_EN": "All lanes of Repulse Bay Road (both bounds) near The Brentwood which were closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的淺水灣道(來回方向)近蔚峯園的全線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-02-23T08:42:45",
-        "last_announcement": "2025-02-23T08:18:00"
-    },
     "IN-25-00975": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1677,10 +1638,166 @@
                 "ID": "110910",
                 "CONTENT_EN": "Due to traffic accident , all lanes of Kwai Chung Road (Kowloon bound) near Lai King Estate are closed to all traffic. Vehicles from Tsuen Wan Road heading to Kwai Chung Road (Kowloon bound) are not affected. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，葵涌道(往九龍方向)近荔景邨的全線現已封閉。 由荃灣路通往葵涌道(往九龍方向)的車輛不受影響。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2025-02-26T07:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110911",
+                "CONTENT_EN": "All lanes of Kwai Chung Road (Kowloon bound) near Lai King Estate which were closed due to traffic accident are re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的葵涌道(往九龍方向)近荔景邨的全線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2025-02-26T07:48:00",
-        "last_announcement": "2025-02-26T07:30:00"
+        "last_update": "2025-02-26T09:49:26",
+        "last_announcement": "2025-02-26T07:50:00"
+    },
+    "IN-25-01015": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Pok Fu Lam Road",
+            "LOCATION_CN": "薄扶林道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Hill Road",
+            "NEAR_LANDMARK_CN": "山道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-26T08:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110912",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Pok Fu Lam Road (Central bound) near Hill Road is closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Pok Fu Lam Road (Central bound) ends at Pok Fu Lam Road near Queen Mary Hospital. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，薄扶林道(往中環方向)近山道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在薄扶林道(往中環方向)的車龍龍尾已到薄扶林道近瑪麗醫院。 現時上址交通擠塞。"
+            },
+            "2025-02-26T08:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110914",
+                "CONTENT_EN": "Part of the lanes of Pok Fu Lam Road (Central bound) near Hill Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的薄扶林道(往中環方向)近山道的部份行車線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2025-02-26T09:49:26",
+        "last_announcement": "2025-02-26T08:21:00"
+    },
+    "IN-25-01017": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsing Long Highway (Ting Kau Bridge)",
+            "LOCATION_CN": "青朗公路(汀九橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-26T08:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110915",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Tsing Long Highway (Ting Kau Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青朗公路(汀九橋)(往九龍方向) 的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-26T08:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110916",
+                "CONTENT_EN": "The fast lane of Tsing Long Highway (Ting Kau Bridge) (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青朗公路(汀九橋)(往九龍方向) 的快線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-02-26T09:49:26",
+        "last_announcement": "2025-02-26T08:38:00"
+    },
+    "IN-25-01016": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Castle Peak Road - Tsuen Wan",
+            "LOCATION_CN": "青山公路　–　荃灣段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sham Tseng",
+            "DIRECTION_CN": "深井",
+            "NEAR_LANDMARK_EN": "Sai Lau Kok Road",
+            "NEAR_LANDMARK_CN": "西樓角路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-26T08:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110917",
+                "CONTENT_EN": "Part of the lanes of Castle Peak Road - Tsuen Wan (Sham Tseng bound) near Sai Lau Kok Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青山公路　–　荃灣段(往深井方向)近西樓角路的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-02-26T09:49:26",
+        "last_announcement": "2025-02-26T08:50:00"
+    },
+    "IN-25-01018": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tai Chung Road",
+            "NEAR_LANDMARK_CN": "大涌道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-26T09:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "110918",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tsuen Wan Road (Kowloon bound) near Tai Chung Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，荃灣路(往九龍方向)近大涌道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-26T09:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110919",
+                "CONTENT_EN": "The slow lane of Tsuen Wan Road (Kowloon bound) near Tai Chung Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的荃灣路(往九龍方向)近大涌道的慢線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-02-26T09:49:26",
+        "last_announcement": "2025-02-26T09:28:00"
     }
 }
