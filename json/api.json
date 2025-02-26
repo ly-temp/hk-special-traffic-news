@@ -1895,5 +1895,37 @@
         "district": "油尖旺區",
         "last_update": "2025-02-26T13:57:14",
         "last_announcement": "2025-02-26T13:45:00"
+    },
+    "IN-25-01023": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Vessel Mechanical Defects",
+            "INCIDENT_DETAIL_CN": "船隻機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-26T14:22:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110929",
+                "CONTENT_EN": "The following ferry services which were suspended due to vessel mechanical defects have been resumed:\nCoral Sea Ferry Service Company Limited\n-Sai Wan Ho to Sam Ka Tsuen \n-Sam Ka Tsuen to Sai Wan Ho.",
+                "CONTENT_CN": "較早前因受船隻機件故障而停航的以下渡輪服務已經恢復服務:\n珊瑚海船務有限公司\n-西灣河至三家村\n-三家村至西灣河。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-02-26T14:46:40",
+        "last_announcement": "2025-02-26T14:22:00"
     }
 }
