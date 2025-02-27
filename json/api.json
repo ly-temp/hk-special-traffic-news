@@ -1,75 +1,4 @@
 {
-    "IN-25-00982": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "New Clear Water Bay Road",
-            "LOCATION_CN": "新清水灣道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lung Cheung Road",
-            "DIRECTION_CN": "龍翔道",
-            "NEAR_LANDMARK_EN": "Ping Shek Playground",
-            "NEAR_LANDMARK_CN": "坪石遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-24T09:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110832",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of New Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，新清水灣道(往龍翔道方向)近坪石遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-24T10:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110834",
-                "CONTENT_EN": "Part of the lanes of New Clear Water Bay Road (Lung Cheung Road bound) near Ping Shek Playground which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的新清水灣道(往龍翔道方向)近坪石遊樂場的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-02-24T11:03:17",
-        "last_announcement": "2025-02-24T10:30:00"
-    },
-    "IN-25-00981": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "San Tin Highway",
-            "LOCATION_CN": "新田公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Palm Springs",
-            "NEAR_LANDMARK_CN": "加州花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-24T10:13:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "110833",
-                "CONTENT_EN": "Part of the lanes of San Tin Highway (Yuen Long bound) near Palm Springs which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的新田公路(往元朗方向)近加州花園的部份行車線現已解封。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2025-02-24T11:03:17",
-        "last_announcement": "2025-02-24T10:13:00"
-    },
     "IN-25-00983": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2531,10 +2460,49 @@
                 "ID": "110989",
                 "CONTENT_EN": "Due to fire , all lanes of Texaco Road (Tsuen Kam Interchange bound) near Tsuen Tsing Interchange are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因火警，德士古道(往荃錦交匯處方向)近荃青交匯處的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2025-02-27T10:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110992",
+                "CONTENT_EN": "Due to fire , all lanes of Texaco Road  near Tsuen Tsing Interchange are still being closed to all traffic. At the same time, vehicles from Ma Tau Pa Road and Yeung Uk Road cannot turn into Wang Lung Street. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因火警，德士古道近荃青交匯處的全線仍然封閉。 同時，⾞輛不能由⾺頭壩道及楊屋道進⼊橫⿓街。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-02-27T10:59:41",
-        "last_announcement": "2025-02-27T10:40:00"
+        "last_update": "2025-02-27T11:31:06",
+        "last_announcement": "2025-02-27T10:50:00"
+    },
+    "IN-25-01045": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy road sections",
+            "LOCATION_CN": "交通繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-27T11:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "110996",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Castle Peak Road - Ping Shan (Yuen Long bound)\n– Wang Tat Road (Pok Oi Interchange bound)\n– Long Yip Street (Pok Oi Interchange bound).",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–青山公路　–　屏山段(往元朗方向)\n–宏達路(往博愛交匯處方向)\n–朗業街(往博愛交匯處方向)。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-02-27T11:31:06",
+        "last_announcement": "2025-02-27T11:10:00"
     }
 }
