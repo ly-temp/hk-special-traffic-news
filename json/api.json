@@ -1,43 +1,4 @@
 {
-    "IN-25-00984": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Prince Edward Road West",
-            "LOCATION_CN": "太子道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Yuen Ngai Street",
-            "NEAR_LANDMARK_CN": "園藝街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-24T13:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110836",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near Yuen Ngai Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，太子道西(往大角咀方向)近園藝街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-24T13:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110838",
-                "CONTENT_EN": "Part of the lanes of Prince Edward Road West (Tai Kok Tsui bound) near Yuen Ngai Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的太子道西(往大角咀方向)近園藝街的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-02-24T14:15:32",
-        "last_announcement": "2025-02-24T13:45:00"
-    },
     "IN-25-00985": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2513,10 +2474,17 @@
                 "ID": "110999",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Tsuen Wan Sports Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往屯門方向)近荃灣體育館的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-02-27T13:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111000",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Tuen Mun bound) near Tsuen Wan Sports Centre which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往屯門方向)近荃灣體育館的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2025-02-27T13:53:41",
-        "last_announcement": "2025-02-27T13:46:00"
+        "last_update": "2025-02-27T14:19:50",
+        "last_announcement": "2025-02-27T13:57:00"
     }
 }
