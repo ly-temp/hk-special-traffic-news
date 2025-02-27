@@ -1,43 +1,4 @@
 {
-    "IN-25-00995": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Chatham Road South",
-            "LOCATION_CN": "漆咸道南",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Ma Tei",
-            "DIRECTION_CN": "油麻地",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-24T19:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110861",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-24T19:26:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110862",
-                "CONTENT_EN": "Part of the lanes of Chatham Road South (Yau Ma Tei bound) near Hong Kong Polytechnic University which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的漆咸道南(往油麻地方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-02-24T19:39:21",
-        "last_announcement": "2025-02-24T19:26:00"
-    },
     "IN-25-00994": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2318,11 +2279,18 @@
                 "ID": "111009",
                 "CONTENT_EN": "Due to vehicle breakdown , all lanes of Caroline Hill Road (both bounds) near Hoi Ping Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，加路連山道(來回方向)近開平道的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2025-02-27T19:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111013",
+                "CONTENT_EN": "Due to vehicle breakdown , the only lane of Caroline Hill Road (Link Road bound) near Hoi Ping Road is still being closed to all traffic.   Motorists are advised to use alternative routes. Motorists are advised to observe the instruction given by the Police.   Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，加路連山道(往連道方向)近開平道的唯一行車線仍然封閉。  駕駛人士請考慮改用其他道路。駕車人士請遵從警方的指示。  現時上址交通擠塞。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2025-02-27T18:56:49",
-        "last_announcement": "2025-02-27T18:33:00"
+        "last_update": "2025-02-27T19:48:58",
+        "last_announcement": "2025-02-27T19:29:00"
     },
     "IN-25-01053": {
         "description": {
