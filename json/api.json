@@ -1,36 +1,4 @@
 {
-    "IN-25-00994": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tate's Cairn Tunnel",
-            "DIRECTION_CN": "大老山隧道",
-            "NEAR_LANDMARK_EN": "Tak Long Estate",
-            "NEAR_LANDMARK_CN": "德朗邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-24T19:31:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "110864",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Tate's Cairn Tunnel bound) near Tak Long Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往大老山隧道方向)近德朗邨的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-02-24T19:49:19",
-        "last_announcement": "2025-02-24T19:31:00"
-    },
     "IN-25-00996": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2286,11 +2254,18 @@
                 "ID": "111013",
                 "CONTENT_EN": "Due to vehicle breakdown , the only lane of Caroline Hill Road (Link Road bound) near Hoi Ping Road is still being closed to all traffic.   Motorists are advised to use alternative routes. Motorists are advised to observe the instruction given by the Police.   Traffic is congested now.",
                 "CONTENT_CN": "因車輛故障，加路連山道(往連道方向)近開平道的唯一行車線仍然封閉。  駕駛人士請考慮改用其他道路。駕車人士請遵從警方的指示。  現時上址交通擠塞。"
+            },
+            "2025-02-27T19:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111014",
+                "CONTENT_EN": "Due to vehicle breakdown , all lanes of Caroline Hill Road (both bounds) near Link Road are closed to all traffic. Motorists are advised to use alternative routes. Motorists are advised to observe the instruction given by the Police. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，加路連山道(來回方向)近連道的全線現已封閉。 駕駛人士請考慮改用其他道路。 駕車人士請遵從警方的指示。 現時上址交通擠塞。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2025-02-27T19:48:58",
-        "last_announcement": "2025-02-27T19:29:00"
+        "last_update": "2025-02-27T19:59:11",
+        "last_announcement": "2025-02-27T19:49:00"
     },
     "IN-25-01053": {
         "description": {
