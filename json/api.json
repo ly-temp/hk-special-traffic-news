@@ -2362,5 +2362,37 @@
         "district": "灣仔區",
         "last_update": "2025-02-27T18:56:49",
         "last_announcement": "2025-02-27T18:33:00"
+    },
+    "IN-25-01053": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "San Hui",
+            "NEAR_LANDMARK_CN": "新墟",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-27T19:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111011",
+                "CONTENT_EN": "Tuen Mun Road (Yuen Long bound) near San Hui is busy. \nTraffic queue on Tuen Mun Road (Yuen Long bound) ends at So Kwun Wat. Motorists passing through the above road section are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "屯門公路(往元朗方向)近新墟的交通繁忙。現時在屯門公路(往元朗方向)的車龍龍尾已到掃管笏。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-02-27T19:16:45",
+        "last_announcement": "2025-02-27T19:01:00"
     }
 }
