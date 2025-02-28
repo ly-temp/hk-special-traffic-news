@@ -1,43 +1,4 @@
 {
-    "IN-25-01003": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Tai Po Tai Wo Road",
-            "LOCATION_CN": "大埔太和路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Wo Estate",
-            "DIRECTION_CN": "太和邨",
-            "NEAR_LANDMARK_EN": "Nam Wan Road",
-            "NEAR_LANDMARK_CN": "南運路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-25T11:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110882",
-                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Tai Po Tai Wo Road (Tai Wo Estate bound) near Nam Wan Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，大埔太和路(往太和邨方向)近南運路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-25T12:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110885",
-                "CONTENT_EN": "Part of the lanes of Tai Po Tai Wo Road (Tai Wo Estate bound) near Nam Wan Road which was closed due to vehicle on fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛着火而封閉的大埔太和路(往太和邨方向)近南運路的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2025-02-25T13:12:03",
-        "last_announcement": "2025-02-25T12:47:00"
-    },
     "IN-25-01004": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
