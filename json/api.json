@@ -3089,5 +3089,37 @@
         "district": "黃大仙區",
         "last_update": "2025-02-28T21:10:52",
         "last_announcement": "2025-02-28T20:17:00"
+    },
+    "IN-25-01093": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain emergency works",
+            "INCIDENT_DETAIL_CN": "水管緊急維修",
+            "LOCATION_EN": "Smithfield",
+            "LOCATION_CN": "士美菲路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Pok Fu Lam Road",
+            "DIRECTION_CN": "薄扶林道",
+            "NEAR_LANDMARK_EN": "Rock Hill Street",
+            "NEAR_LANDMARK_CN": "石山街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-02-28T21:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111106",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Smithfield (Pok Fu Lam Road bound) near Rock Hill Street is closed to all traffic. Only remaining lanes is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管緊急維修，士美菲路(往薄扶林道方向)近石山街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2025-02-28T22:11:43",
+        "last_announcement": "2025-02-28T21:55:00"
     }
 }
