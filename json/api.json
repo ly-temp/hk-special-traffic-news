@@ -3109,11 +3109,18 @@
                 "ID": "111116",
                 "CONTENT_EN": "Due to road works, part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Nam Cheong MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因道路工程，西九龍公路(往西區海底隧道方向)近南昌港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-01T11:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111122",
+                "CONTENT_EN": "Part of the lanes of West Kowloon Highway (Western Harbour Crossing bound) near Nam Cheong MTR Station which was closed due to road works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因道路工程而封閉的西九龍公路(往西區海底隧道方向)近南昌港鐵站的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-03-01T11:31:48",
-        "last_announcement": "2025-03-01T10:49:00"
+        "last_update": "2025-03-01T12:27:03",
+        "last_announcement": "2025-03-01T11:55:00"
     },
     "IN-25-01099": {
         "description": {
@@ -3180,10 +3187,49 @@
                 "ID": "111121",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Wuhu Street are still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Chatham Road North (Yau Ma Tei bound) ends at East Kowloon Corridor near San Shan Road. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，漆咸道北(往油麻地方向)近蕪湖街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在漆咸道北(往油麻地方向)的車龍龍尾已到東九龍走廊近新山道。 現時上址交通繁忙。"
+            },
+            "2025-03-01T11:59:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "111123",
+                "CONTENT_EN": "Part of the lanes of Chatham Road North (Yau Ma Tei bound) near Wuhu Street which were closed due to traffic accident are re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往油麻地方向)近蕪湖街的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-03-01T11:58:43",
-        "last_announcement": "2025-03-01T11:36:00"
+        "last_update": "2025-03-01T12:27:03",
+        "last_announcement": "2025-03-01T11:59:00"
+    },
+    "IN-25-01101": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": "Tuen Ma Line Service Disruption",
+            "LOCATION_CN": "屯馬綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-01T12:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111124",
+                "CONTENT_EN": "To facilitate the Grand Opening at Kai Tak Sports Park, crowd management measures will be in place in Kai Tak and Sung Wong Toi stations tonight (1 March). One-way passenger flow will be implemented at specific entrances and exits. After the event, there may be additional waiting time to enter the station as passengers will enter in groups. MTR will increase the train frequency when necessary. Please be patient and allow sufficient time for your journey. For details, please Watch the video.",
+                "CONTENT_CN": "為配合啟德體育園開幕，啟德及宋皇臺站今晚(3月1日)將實施客流管理措施，個別出入口會作單向進出安排。 活動散場時，乘客或需於站外等候分批進入車站。港鐵會按需要加密列車班次，請保持忍讓，耐心等候並為行程預留充裕時間。詳情請觀看短片【啟德體育園區—搭車攻略】。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-03-01T12:27:03",
+        "last_announcement": "2025-03-01T12:05:00"
     }
 }
