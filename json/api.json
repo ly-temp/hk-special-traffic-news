@@ -3270,5 +3270,37 @@
         "district": "黃大仙區",
         "last_update": "2025-03-01T18:24:55",
         "last_announcement": "2025-03-01T18:15:00"
+    },
+    "IN-25-01110": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Kak Tin Village",
+            "NEAR_LANDMARK_CN": "隔田村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-01T19:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111144",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lion Rock Tunnel Road (Tai Po bound) near Kak Tin Village is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Lion Rock Tunnel Road (Tai Po bound) ends at Lion Rock Tunnel Road near Union Hospital. Traffic is congested now.",
+                "CONTENT_CN": "因車輛故障，獅子山隧道公路(往大埔方向)近隔田村的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在獅子山隧道公路(往大埔方向)的車龍龍尾已到獅子山隧道公路近仁安醫院。 現時上址交通擠塞。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-03-01T19:17:19",
+        "last_announcement": "2025-03-01T19:01:00"
     }
 }
