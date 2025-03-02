@@ -1,57 +1,4 @@
 {
-    "IN-25-01046": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Texaco Road",
-            "LOCATION_CN": "德士古道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Kam Interchange",
-            "DIRECTION_CN": "荃錦交匯處",
-            "NEAR_LANDMARK_EN": "Tsuen Tsing Interchange",
-            "NEAR_LANDMARK_CN": "荃青交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-27T10:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "110989",
-                "CONTENT_EN": "Due to fire , all lanes of Texaco Road (Tsuen Kam Interchange bound) near Tsuen Tsing Interchange are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因火警，德士古道(往荃錦交匯處方向)近荃青交匯處的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-02-27T10:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110992",
-                "CONTENT_EN": "Due to fire , all lanes of Texaco Road  near Tsuen Tsing Interchange are still being closed to all traffic. At the same time, vehicles from Ma Tau Pa Road and Yeung Uk Road cannot turn into Wang Lung Street. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因火警，德士古道近荃青交匯處的全線仍然封閉。 同時，⾞輛不能由⾺頭壩道及楊屋道進⼊橫⿓街。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-02-27T11:29:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110997",
-                "CONTENT_EN": "Due to fire , part of the lanes of Texaco Road (Tsuen Kam Interchange bound) near Tsuen Tsing Interchange is still being closed to all traffic.   Only remaining lane is available to motorists.   The traffic arrangement of banning turning from Ma Tau Pa Road and Yeung Uk Road onto Wang Lung Street which was implemented before is now cancelled.   Traffic is busy now.",
-                "CONTENT_CN": "因火警，德士古道(往荃錦交匯處方向)近荃青交匯處的部份行車線仍然封閉。  駕駛人士只可使用餘下行車線行車。  較早前實施的禁止車輛由⾺頭壩道及楊屋道轉入橫⿓街的行車措施現已取消。  現時上址交通繁忙。"
-            },
-            "2025-02-27T12:01:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "110998",
-                "CONTENT_EN": "Part of the lanes of Texaco Road (Tsuen Kam Interchange bound) near Tsuen Tsing Interchange which was closed due to fire is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因火警而封閉的德士古道(往荃錦交匯處方向)近荃青交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-02-27T12:25:24",
-        "last_announcement": "2025-02-27T12:01:00"
-    },
     "IN-25-01047": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2752,10 +2699,49 @@
                 "ID": "111158",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Durham Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往尖沙咀方向)近對衡道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-02T12:09:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "111161",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Durham Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往尖沙咀方向)近對衡道的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-03-02T12:09:13",
-        "last_announcement": "2025-03-02T11:54:00"
+        "last_update": "2025-03-02T12:30:45",
+        "last_announcement": "2025-03-02T12:09:00"
+    },
+    "IN-25-01116": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-02T12:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111160",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road flyover (Kwun Tong bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道天橋(往觀塘方向)近坪石邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-03-02T12:30:45",
+        "last_announcement": "2025-03-02T12:08:00"
     }
 }
