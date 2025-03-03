@@ -77,38 +77,6 @@
         "last_update": "2025-03-01T03:18:35",
         "last_announcement": "2025-03-01T03:08:00"
     },
-    "IN-25-01091": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Po Kong Village Road",
-            "NEAR_LANDMARK_CN": "蒲崗村道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-28T20:17:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111102",
-                "CONTENT_EN": "The fast lane of Lung Cheung Road (Kwun Tong bound) near Po Kong Village Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往觀塘方向)近蒲崗村道的快線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2025-02-28T21:10:52",
-        "last_announcement": "2025-02-28T20:17:00"
-    },
     "IN-25-01093": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
