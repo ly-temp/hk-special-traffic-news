@@ -116,38 +116,6 @@
         "last_update": "2025-02-28T23:42:55",
         "last_announcement": "2025-02-28T23:30:00"
     },
-    "IN-25-00997": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Hong Lok Street",
-            "LOCATION_CN": "康樂街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Mong Kok Road",
-            "NEAR_LANDMARK_CN": "旺角道",
-            "BETWEEN_LANDMARK_EN": "Fife Street",
-            "BETWEEN_LANDMARK_CN": "快富街",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-28T22:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111107",
-                "CONTENT_EN": "The only lane of Hong Lok Street  between Mong Kok Road and Fife Street which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的康樂街介乎旺角道與快富街之間的唯一行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-02-28T22:53:48",
-        "last_announcement": "2025-02-28T22:44:00"
-    },
     "IN-25-01094": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
