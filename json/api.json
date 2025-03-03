@@ -77,84 +77,6 @@
         "last_update": "2025-03-01T03:18:35",
         "last_announcement": "2025-03-01T03:08:00"
     },
-    "IN-25-01081": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Boundary Street",
-            "LOCATION_CN": "界限街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon City",
-            "DIRECTION_CN": "九龍城",
-            "NEAR_LANDMARK_EN": "Fa Hui Park",
-            "NEAR_LANDMARK_CN": "花墟公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-28T18:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111079",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Boundary Street (Kowloon City bound) near Fa Hui Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，界限街(往九龍城方向)近花墟公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-28T18:59:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111085",
-                "CONTENT_EN": "Part of the lanes of Boundary Street (Kowloon City bound) near Fa Hui Park which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的界限街(往九龍城方向)近花墟公園的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-02-28T19:13:36",
-        "last_announcement": "2025-02-28T18:59:00"
-    },
-    "IN-25-01082": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Kok Tsui",
-            "DIRECTION_CN": "大角咀",
-            "NEAR_LANDMARK_EN": "Waterloo Road",
-            "NEAR_LANDMARK_CN": "窩打老道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-02-28T18:39:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111080",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Argyle Street flyover (Tai Kok Tsui bound) near Waterloo Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，亞皆老街天橋(往大角咀方向)近窩打老道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-02-28T18:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111084",
-                "CONTENT_EN": "The slow lane of Argyle Street flyover (Tai Kok Tsui bound) near Waterloo Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的亞皆老街天橋(往大角咀方向)近窩打老道的慢線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-02-28T19:13:36",
-        "last_announcement": "2025-02-28T18:54:00"
-    },
     "IN-25-01084": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2059,5 +1981,37 @@
         "district": "元朗區",
         "last_update": "2025-03-03T18:39:25",
         "last_announcement": "2025-03-03T18:18:00"
+    },
+    "IN-25-01137": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tuen Mun",
+            "DIRECTION_CN": "屯門",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-03T18:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111216",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Tuen Mun Road (Tuen Mun bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近深井的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-03-03T19:20:42",
+        "last_announcement": "2025-03-03T18:58:00"
     }
 }
