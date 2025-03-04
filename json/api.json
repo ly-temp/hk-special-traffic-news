@@ -38,45 +38,6 @@
         "last_update": "2025-03-02T13:31:53",
         "last_announcement": "2025-03-02T13:17:00"
     },
-    "IN-25-01097": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-01T09:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111115",
-                "CONTENT_EN": "The following road sections are busy:\n– Man Yiu Street (Connaught Road Central bound)\n– Man Po Street (Wan Chai bound)\n– Connaught Road Central flyover (Wan Chai bound)\n– Connaught Road West flyover (Wan Chai bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–民耀街(往干諾道中方向)\n–民寶街(往灣仔方向)\n–干諾道中天橋(往灣仔方向)\n–干諾道西天橋(往灣仔方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2025-03-01T13:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111128",
-                "CONTENT_EN": "Traffic at the following road section(s) have resumed normal: – Man Yiu Street (Connaught Road Central bound) – Man Po Street (Wan Chai bound) – Connaught Road Central flyover (Wan Chai bound) – Connaught Road West flyover (Wan Chai bound)",
-                "CONTENT_CN": "以下路段的交通現已恢復正常: –民耀街(往干諾道中方向) –民寶街(往灣仔方向) –干諾道中天橋(往灣仔方向) –干諾道西天橋(往灣仔方向)"
-            }
-        },
-        "district": null,
-        "last_update": "2025-03-01T13:29:06",
-        "last_announcement": "2025-03-01T13:10:00"
-    },
     "IN-25-01102": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -115,45 +76,6 @@
         "district": "荃灣區",
         "last_update": "2025-03-01T14:36:42",
         "last_announcement": "2025-03-01T14:10:00"
-    },
-    "IN-25-01103": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Chatham Road North",
-            "LOCATION_CN": "漆咸道北",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
-            "NEAR_LANDMARK_CN": "何文田港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-01T12:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111126",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-01T13:08:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111127",
-                "CONTENT_EN": "Part of the lanes of Chatham Road North (Kwun Tong bound) near Ho Man Tin MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往觀塘方向)近何文田港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-03-01T13:29:06",
-        "last_announcement": "2025-03-01T13:08:00"
     },
     "IN-25-01104": {
         "description": {
