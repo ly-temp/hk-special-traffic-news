@@ -77,38 +77,6 @@
         "last_update": "2025-03-01T16:31:42",
         "last_announcement": "2025-03-01T16:06:00"
     },
-    "IN-25-01105": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yee Wo Street",
-            "LOCATION_CN": "怡和街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "North Point",
-            "DIRECTION_CN": "北角",
-            "NEAR_LANDMARK_EN": "Regal Hong Kong Hotel",
-            "NEAR_LANDMARK_CN": "香港富豪酒店",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-01T16:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111135",
-                "CONTENT_EN": "Part of the lanes of Yee Wo Street (North Point bound) near Regal Hong Kong Hotel which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的怡和街(往北角方向)近香港富豪酒店的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2025-03-01T16:09:57",
-        "last_announcement": "2025-03-01T16:02:00"
-    },
     "IN-25-01107": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
