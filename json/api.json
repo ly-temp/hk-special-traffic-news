@@ -77,38 +77,6 @@
         "last_update": "2025-03-03T21:41:42",
         "last_announcement": "2025-03-03T21:29:00"
     },
-    "IN-25-01139": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin",
-            "LOCATION_CN": "大埔公路　–　沙田段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tai Po",
-            "DIRECTION_CN": "大埔",
-            "NEAR_LANDMARK_EN": "Sha Tin Market",
-            "NEAR_LANDMARK_CN": "沙田街市",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-03T19:37:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111221",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Tai Po bound) near Sha Tin Market which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往大埔方向)近沙田街市的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2025-03-03T19:51:37",
-        "last_announcement": "2025-03-03T19:37:00"
-    },
     "IN-25-01140": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3007,10 +2975,17 @@
                 "ID": "111408",
                 "CONTENT_EN": "Due to traffic accident happened earlier , Tuen Mun Road (Tuen Mun bound) is busy.   Traffic queues on Tuen Mun Road (Tuen Mun bound) ends at Tuen Mun Road near Tuen Mun Road Bus-Bus Interchange and Lung Fu Road (Tuen Mun Road bound) near Tuen Mun Golf Centre.   Motorists passing through the above road sections are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "因較早前交通意外，屯門公路(往屯門方向)的交通繁忙。  現時在屯門公路(往屯門方向)的車龍龍尾已到屯門公路近屯門公路巴士轉乘站及龍富路(往屯門公路方向)近屯門高爾夫球中心。  駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2025-03-06T19:53:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "111409",
+                "CONTENT_EN": "Traffic at Tuen Mun Road (Tuen Mun bound) gradually resumes normal.",
+                "CONTENT_CN": "屯門公路(往屯門方向)的交通陸續恢復正常。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-03-06T19:29:41",
-        "last_announcement": "2025-03-06T19:16:00"
+        "last_update": "2025-03-06T20:13:34",
+        "last_announcement": "2025-03-06T19:53:00"
     }
 }
