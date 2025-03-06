@@ -1,43 +1,4 @@
 {
-    "IN-25-01119": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Che Kung Miu Road",
-            "LOCATION_CN": "車公廟路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Hin Keng Estate",
-            "DIRECTION_CN": "顯徑邨",
-            "NEAR_LANDMARK_EN": "Che Kung Temple MTR Station",
-            "NEAR_LANDMARK_CN": "車公廟港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-02T16:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111169",
-                "CONTENT_EN": "Due to watermain emergency works , the fast and middle lanes of Che Kung Miu Road (Hin Keng Estate bound) near Che Kung Temple MTR Station is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管緊急維修，車公廟路(往顯徑邨方向)近車公廟港鐵站的快線及中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-04T06:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111225",
-                "CONTENT_EN": "Part of the lanes of Che Kung Miu Road (Hin Keng Estate bound) near Che Kung Temple MTR Station which was closed due to watermain emergency works is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的車公廟路(往顯徑邨方向)近車公廟港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2025-03-04T06:32:08",
-        "last_announcement": "2025-03-04T06:20:00"
-    },
     "IN-25-01141": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
