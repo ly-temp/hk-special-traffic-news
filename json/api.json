@@ -3331,5 +3331,37 @@
         "district": "東區",
         "last_update": "2025-03-07T19:46:12",
         "last_announcement": "2025-03-07T18:59:00"
+    },
+    "IN-25-01241": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po",
+            "LOCATION_CN": "大埔",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lai Chi Kok",
+            "DIRECTION_CN": "荔枝角",
+            "NEAR_LANDMARK_EN": "Shek Kip Mei Street",
+            "NEAR_LANDMARK_CN": "石硤尾街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-07T19:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111467",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po (Lai Chi Kok bound) near Shek Kip Mei Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔(往荔枝角方向)近石硤尾街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-03-07T19:56:20",
+        "last_announcement": "2025-03-07T19:48:00"
     }
 }
