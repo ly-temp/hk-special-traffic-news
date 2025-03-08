@@ -3026,5 +3026,76 @@
         "district": "油尖旺區",
         "last_update": "2025-03-08T11:41:10",
         "last_announcement": "2025-03-08T11:30:00"
+    },
+    "IN-25-01247": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Island Eastern Corridor",
+            "LOCATION_CN": "東區走廊",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Victoria Park",
+            "NEAR_LANDMARK_CN": "維多利亞公園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-08T14:57:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111481",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Island Eastern Corridor (Central bound) near Victoria Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近維多利亞公園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-08T15:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111483",
+                "CONTENT_EN": "The slow lane of Island Eastern Corridor (Central bound) near Victoria Park which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近維多利亞公園的慢線現已解封。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2025-03-08T15:18:59",
+        "last_announcement": "2025-03-08T15:10:00"
+    },
+    "IN-25-01248": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lin Cheung Road",
+            "LOCATION_CN": "連翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Hoi Fai Road",
+            "NEAR_LANDMARK_CN": "海輝道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-08T15:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111482",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lin Cheung Road (Tsim Sha Tsui bound) near Hoi Fai Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，連翔道(往尖沙咀方向)近海輝道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-03-08T15:18:59",
+        "last_announcement": "2025-03-08T15:08:00"
     }
 }
