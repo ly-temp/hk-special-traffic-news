@@ -1,167 +1,4 @@
 {
-    "IN-25-01159": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Wong Nai Chung Gap Road",
-            "LOCATION_CN": "黃泥涌峽道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Repulse Bay",
-            "DIRECTION_CN": "淺水灣",
-            "NEAR_LANDMARK_EN": "Stubbs Road",
-            "NEAR_LANDMARK_CN": "司徒拔道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-05T07:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111265",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Wong Nai Chung Gap Road (Repulse Bay bound) near Stubbs Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，黃泥涌峽道(往淺水灣方向)近司徒拔道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-05T07:45:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111269",
-                "CONTENT_EN": "Part of the lanes of Wong Nai Chung Gap Road (Repulse Bay bound) near Stubbs Road which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的黃泥涌峽道(往淺水灣方向)近司徒拔道的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2025-03-05T09:53:32",
-        "last_announcement": "2025-03-05T07:45:00"
-    },
-    "IN-25-01161": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Bypass",
-            "LOCATION_CN": "觀塘繞道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": "Laguna City",
-            "NEAR_LANDMARK_CN": "麗港城",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-05T07:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111270",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Laguna City is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近麗港城的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-05T07:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111271",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Laguna City is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong Bypass (Mong Kok bound) ends at Tseung Kwan O Road near Tseung Kwan O Tunnel Bus-Bus Interchange. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，觀塘繞道(往旺角方向)近麗港城的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往旺角方向)的車龍龍尾已到將軍澳道近將軍澳隧道巴士轉乘站。 現時上址交通擠塞。"
-            },
-            "2025-03-05T08:04:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111272",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Mong Kok bound) near Laguna City which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘繞道(往旺角方向)近麗港城的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-03-05T09:53:32",
-        "last_announcement": "2025-03-05T08:04:00"
-    },
-    "IN-25-01163": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Po Shek Wu Road (Tai Tau Leng Roundabout)",
-            "LOCATION_CN": "寶石湖路(大頭嶺迴旋處)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-05T08:17:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111274",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Shek Wu Road (Tai Tau Leng Roundabout)  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，寶石湖路(大頭嶺迴旋處) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-05T08:26:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111275",
-                "CONTENT_EN": "Part of the lanes of Po Shek Wu Road (Tai Tau Leng Roundabout)  which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的寶石湖路(大頭嶺迴旋處) 的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2025-03-05T09:53:32",
-        "last_announcement": "2025-03-05T08:26:00"
-    },
-    "IN-25-01164": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Siu Lam",
-            "NEAR_LANDMARK_CN": "小欖",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-05T08:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111276",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Lam is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近小欖的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-05T08:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111278",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Siu Lam is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Tuen Mun Road near Sam Shing. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近小欖的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到屯門公路近三聖。 現時上址交通擠塞。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-03-05T09:53:32",
-        "last_announcement": "2025-03-05T08:35:00"
-    },
     "IN-25-01162": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3203,5 +3040,37 @@
         "district": "荃灣區",
         "last_update": "2025-03-08T06:49:09",
         "last_announcement": "2025-03-08T06:31:00"
+    },
+    "IN-25-01243": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Castle Peak Road - Lam Tei",
+            "LOCATION_CN": "青山公路　–　藍地段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Lam Tei Main Street",
+            "NEAR_LANDMARK_CN": "藍地大街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-08T09:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111473",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Castle Peak Road - Lam Tei (Yuen Long bound) near Lam Tei Main Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青山公路　–　藍地段(往元朗方向)近藍地大街的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-03-08T10:08:35",
+        "last_announcement": "2025-03-08T09:58:00"
     }
 }
