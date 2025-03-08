@@ -3138,11 +3138,18 @@
                 "ID": "111487",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Sheung Shui bound) near Sha Tin Racecourse is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tai Po Road - Sha Tin (Sheung Shui bound) ends at Tai Po Road - Sha Tin near New Town Plaza and Sha Tin Road near Yuen Chau Kok Park. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往上水方向)近沙田馬場的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在大埔公路　–　沙田段(往上水方向)的車龍龍尾已到大埔公路　–　沙田段近新城市廣場及沙田路近圓洲角公園。 現時上址交通擠塞。"
+            },
+            "2025-03-08T15:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111490",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin (Sheung Shui bound) near Sha Tin Racecourse is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queues on Tai Po Road - Sha Tin (Sheung Shui bound) ends at Shing Mun Tunnel Road near Mei Lam Estate and Sha Tin Road near Yuen Chau Kok Park. Motorists are advised to use alternative routes. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田段(往上水方向)近沙田馬場的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在大埔公路　–　沙田段(往上水方向)的車龍龍尾已到城門隧道公路近美林邨及沙田路近圓洲角公園。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-03-08T15:49:03",
-        "last_announcement": "2025-03-08T15:34:00"
+        "last_update": "2025-03-08T15:59:14",
+        "last_announcement": "2025-03-08T15:45:00"
     },
     "IN-25-01250": {
         "description": {
@@ -3170,10 +3177,17 @@
                 "ID": "111485",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Cheung Sha Wan Road (Mong Kok bound) near Yen Chow Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，長沙灣道(往旺角方向)近欽州街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-08T15:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111488",
+                "CONTENT_EN": "Part of the lanes of Cheung Sha Wan Road (Mong Kok bound) near Yen Chow Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的長沙灣道(往旺角方向)近欽州街的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2025-03-08T15:39:03",
-        "last_announcement": "2025-03-08T15:20:00"
+        "last_update": "2025-03-08T15:59:14",
+        "last_announcement": "2025-03-08T15:39:00"
     }
 }
