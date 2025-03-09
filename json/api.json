@@ -1,96 +1,4 @@
 {
-    "IN-25-01188": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tolo Highway",
-            "LOCATION_CN": "吐露港公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Kwong Fuk Park",
-            "NEAR_LANDMARK_CN": "廣福公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T07:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111330",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Sheung Shui bound) near Kwong Fuk Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往上水方向)近廣福公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-06T08:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111341",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tolo Highway (Sheung Shui bound) near Kwong Fuk Park is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tolo Highway (Sheung Shui bound) ends at Tolo Highway near The Chinese University of Hong Kong. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，吐露港公路(往上水方向)近廣福公園的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在吐露港公路(往上水方向)的車龍龍尾已到吐露港公路近香港中文大學。 現時上址交通擠塞。"
-            },
-            "2025-03-06T08:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111343",
-                "CONTENT_EN": "Part of the lanes of Tolo Highway (Sheung Shui bound) near Kwong Fuk Park which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的吐露港公路(往上水方向)近廣福公園的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2025-03-06T10:11:04",
-        "last_announcement": "2025-03-06T08:40:00"
-    },
-    "IN-25-01186": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Po Kong Village Road",
-            "LOCATION_CN": "蒲崗村道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Choi Hung Road",
-            "DIRECTION_CN": "彩虹道",
-            "NEAR_LANDMARK_EN": "Lung Cheung Road",
-            "NEAR_LANDMARK_CN": "龍翔道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T08:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111332",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Kong Village Road (Choi Hung Road bound) near Lung Cheung Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Po Kong Village Road (Choi Hung Road bound) ends at Lung Cheung Road (Kwung Tong bound) near Morse Park.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，蒲崗村道(往彩虹道方向)近龍翔道的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在蒲崗村道(往彩虹道方向)的車龍龍尾已到龍翔道(往觀塘方向)近摩士公園。  現時上址交通擠塞。"
-            },
-            "2025-03-06T08:16:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111338",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Po Kong Village Road (Choi Hung Road bound) near Lung Cheung Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Po Kong Village Road (Choi Hung Road bound) ends at Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Lookout.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，蒲崗村道(往彩虹道方向)近龍翔道的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在蒲崗村道(往彩虹道方向)的車龍龍尾已到龍翔道(往觀塘方向)近龍翔道眺望處。  現時上址交通擠塞。"
-            },
-            "2025-03-06T08:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111345",
-                "CONTENT_EN": "Part of the lanes of Po Kong Village Road (Choi Hung Road bound) near Lung Cheung Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的蒲崗村道(往彩虹道方向)近龍翔道的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2025-03-06T10:11:04",
-        "last_announcement": "2025-03-06T08:54:00"
-    },
     "IN-25-01191": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -151,187 +59,6 @@
         "last_update": "2025-03-06T13:18:37",
         "last_announcement": "2025-03-06T12:50:00"
     },
-    "IN-25-01192": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Princess Margaret Road",
-            "LOCATION_CN": "公主道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Oi Man Estate",
-            "NEAR_LANDMARK_CN": "愛民邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T08:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111344",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Oi Man Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，公主道(往海底隧道方向)近愛民邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-06T09:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111352",
-                "CONTENT_EN": "Part of the lanes of Princess Margaret Road (Cross Harbour Tunnel bound) near Oi Man Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的公主道(往海底隧道方向)近愛民邨的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-03-06T10:11:04",
-        "last_announcement": "2025-03-06T09:30:00"
-    },
-    "IN-25-01194": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Quarry Bay Park",
-            "NEAR_LANDMARK_CN": "鰂魚涌公園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T09:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111347",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Island Eastern Corridor (Central bound) near Quarry Bay Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，東區走廊(往中環方向)近鰂魚涌公園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-06T09:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111350",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Quarry Bay Park which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近鰂魚涌公園的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2025-03-06T10:11:04",
-        "last_announcement": "2025-03-06T09:22:00"
-    },
-    "IN-25-01193": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun",
-            "DIRECTION_CN": "屯門",
-            "NEAR_LANDMARK_EN": "Fuk Hang Tsuen",
-            "NEAR_LANDMARK_CN": "福亨村",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T09:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111348",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Tuen Mun bound) near Fuk Hang Tsuen which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往屯門方向)近福亨村的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-03-06T10:11:04",
-        "last_announcement": "2025-03-06T09:04:00"
-    },
-    "IN-25-01195": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Lung Cheung Road Playground",
-            "NEAR_LANDMARK_CN": "龍翔道遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T09:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111349",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍翔道(往觀塘方向)近龍翔道遊樂場的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-06T09:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111357",
-                "CONTENT_EN": "The slow lane of Lung Cheung Road (Kwun Tong bound) near Lung Cheung Road Playground which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍翔道(往觀塘方向)近龍翔道遊樂場的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2025-03-06T10:11:04",
-        "last_announcement": "2025-03-06T09:46:00"
-    },
-    "IN-25-01196": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road West",
-            "LOCATION_CN": "干諾道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Central Police Station",
-            "NEAR_LANDMARK_CN": "中區警署",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T09:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111353",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Connaught Road West (Central bound) near Central Police Station is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Connaught Road West (Central bound) ends at Western Harbour Crossing. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，干諾道西(往中環方向)近中區警署的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在干諾道西(往中環方向)的車龍龍尾已到西區海底隧道。 現時上址交通擠塞。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2025-03-06T10:11:04",
-        "last_announcement": "2025-03-06T09:32:00"
-    },
     "IN-25-01197": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -370,38 +97,6 @@
         "district": "大埔區",
         "last_update": "2025-03-06T11:02:08",
         "last_announcement": "2025-03-06T10:03:00"
-    },
-    "IN-25-01184": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T10:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111359",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR): The speed limit of the HZMB HKLR resumes to 100 km/h.",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-03-06T10:11:04",
-        "last_announcement": "2025-03-06T10:00:00"
     },
     "IN-25-01198": {
         "description": {
@@ -1666,11 +1361,18 @@
                 "ID": "111441",
                 "CONTENT_EN": "Members of the public are advised that, the traffic within Wo Hop Shek Cemetery and in its vicinity (including Tai Wo Service Road West, Wah Ming Road, Wo Hing Road and Pak Wo Road, etc. ) is expected to be busier on the weekends before implementation of the special traffic arrangements for Ching Ming Festival. The Police will implement temporary traffic control measures depending on actual situation. Motorists are advised to watch out for the latest traffic news through media. In case of traffic congestion, motorists should exercise tolerance and patience, and follow the instructions of the Police.",
                 "CONTENT_CN": "公眾人士請留意，和合石墳場內及附近一帶路道（包括大窩西支路、華明路、和興路及百和路等）的交通預計在清明節特別交通安排實施前的週末將會較為繁忙，警方會視乎實際情況在上述道路實施臨時交通管制措施。駕駛人士請留意傳媒發放的最新交通消息。如遇交通受阻，駕駛人士請保持忍讓，並遵從警方的指示。"
+            },
+            "2025-03-09T09:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111516",
+                "CONTENT_EN": "Members of the public are advised that, the traffic within Wo Hop Shek Cemetery and in its vicinity (including Tai Wo Service Road West, Wah Ming Road, Wo Hing Road and Pak Wo Road, etc. ) is busy. The Police has implemented temporary traffic control measures that vehicles cannot enter Wo Hop Shek Cemetery through Ming Yin Road. Motorists are advised to drive with utmost care and exercise patience, and follow the instructions of the Police.",
+                "CONTENT_CN": "公眾人士請留意，和合石墳場內及附近一帶路道（包括大窩西支路、華明路、和興路及百和路等）的交通繁忙，警方已實施臨時交通管制措施，車輛不能由銘賢路駛入和合石墳場。駕駛人士請小心駕駛及保持忍讓，並遵從警方的指示。"
             }
         },
         "district": "北區",
-        "last_update": "2025-03-07T12:35:04",
-        "last_announcement": "2025-03-07T12:13:00"
+        "last_update": "2025-03-09T10:23:07",
+        "last_announcement": "2025-03-09T09:54:00"
     },
     "IN-25-01230": {
         "description": {
@@ -2939,10 +2641,17 @@
                 "ID": "111514",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，康莊道(往海底隧道方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-09T09:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111515",
+                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往海底隧道方向)近香港理工大學的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-03-09T09:38:32",
-        "last_announcement": "2025-03-09T08:34:00"
+        "last_update": "2025-03-09T10:23:07",
+        "last_announcement": "2025-03-09T09:51:00"
     }
 }
