@@ -105,77 +105,6 @@
         "last_update": "2025-03-06T12:29:28",
         "last_announcement": "2025-03-06T12:16:00"
     },
-    "IN-25-01200": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Choi Hung Estate",
-            "NEAR_LANDMARK_CN": "彩虹邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T11:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111367",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road flyover (Tsuen Wan bound) near Choi Hung Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道天橋(往荃灣方向)近彩虹邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-06T11:41:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111372",
-                "CONTENT_EN": "Part of the lanes of Lung Cheung Road flyover (Tsuen Wan bound) near Choi Hung Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道天橋(往荃灣方向)近彩虹邨的部份行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2025-03-06T11:48:49",
-        "last_announcement": "2025-03-06T11:41:00"
-    },
-    "IN-25-01201": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kwun Tong",
-            "DIRECTION_CN": "觀塘",
-            "NEAR_LANDMARK_EN": "Hammer Hill Road",
-            "NEAR_LANDMARK_CN": "斧山道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T11:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111369",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwun Tong bound) near Hammer Hill Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，龍翔道(往觀塘方向)近斧山道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2025-03-06T11:48:49",
-        "last_announcement": "2025-03-06T11:28:00"
-    },
     "IN-25-01202": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2575,5 +2504,37 @@
         "district": "油尖旺區",
         "last_update": "2025-03-09T10:23:07",
         "last_announcement": "2025-03-09T09:51:00"
+    },
+    "IN-25-01263": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Morrison Hill Road",
+            "LOCATION_CN": "摩理臣山道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Queen's Road East",
+            "NEAR_LANDMARK_CN": "皇后大道東",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-09T11:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111518",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Morrison Hill Road (Cross Harbour Tunnel bound) near Queen's Road East is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，摩理臣山道(往海底隧道方向)近皇后大道東的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2025-03-09T11:50:52",
+        "last_announcement": "2025-03-09T11:41:00"
     }
 }
