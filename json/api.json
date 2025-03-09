@@ -1,43 +1,4 @@
 {
-    "IN-25-01187": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "City Garden",
-            "NEAR_LANDMARK_CN": "城市花園",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T07:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111329",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near City Garden is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近城市花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-06T08:18:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111339",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near City Garden which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近城市花園的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2025-03-06T08:38:14",
-        "last_announcement": "2025-03-06T08:18:00"
-    },
     "IN-25-01188": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -129,70 +90,6 @@
         "district": "黃大仙區",
         "last_update": "2025-03-06T10:11:04",
         "last_announcement": "2025-03-06T08:54:00"
-    },
-    "IN-25-01189": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) temporary train trips",
-            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)臨時列車班次",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T08:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111334",
-                "CONTENT_EN": "As informed by the Mainland Railway Authorities, High Speed Rail (Hong Kong Section) will add the following temporary train trips:\n\n• March 20: Train G9695 from Shenzhenbei Station to Hong Kong West Kowloon Station (Ticket sales start on March 6)\n\n• March 24: Train G9696 from Hong Kong West Kowloon Station to Shenzhenbei Station (Ticket sales start on March 10)\n\nTickets are available for purchase through the 12306 official website (12306. cn) or mobile app; appointed travel agents (Click\nhere); or at Hong Kong West Kowloon Station. \n\nFor train schedules, please refer to the 12306 official website (12306. cn) or mobile app, High Speed Rail website or mobile app.",
-                "CONTENT_CN": "內地鐵路部門通知，高速鐵路（香港段）將加開以下臨時車次：\n\n•3月20日：G9695由深圳北站前往香港西九龍站（3月6日開始預售）\n\n•3月24日：G9696由香港西九龍站前往深圳北站（3月10日開始預售）\n\n乘客可透過12306官方網站(12306.cn)或手機應用程式、指定代理(按此)或前往香港西九龍站購買車票。\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-03-06T08:38:14",
-        "last_announcement": "2025-03-06T08:05:00"
-    },
-    "IN-25-01190": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ching Cheung Road",
-            "LOCATION_CN": "呈祥道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Ching Lai Court",
-            "NEAR_LANDMARK_CN": "清麗苑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-06T08:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111335",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ching Cheung Road (Tsuen Wan bound) near Ching Lai Court is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Chak On Estate. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近清麗苑的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往荃灣方向)的車龍龍尾已到龍翔道近澤安邨。 現時上址交通擠塞。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2025-03-06T08:38:14",
-        "last_announcement": "2025-03-06T08:13:00"
     },
     "IN-25-01191": {
         "description": {
@@ -3015,5 +2912,37 @@
         "district": "深水埗區",
         "last_update": "2025-03-09T02:27:49",
         "last_announcement": "2025-03-09T02:07:00"
+    },
+    "IN-25-01261": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hong Chong Road",
+            "LOCATION_CN": "康莊道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
+            "NEAR_LANDMARK_CN": "香港理工大學",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-09T08:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111514",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，康莊道(往海底隧道方向)近香港理工大學的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-03-09T09:38:32",
+        "last_announcement": "2025-03-09T08:34:00"
     }
 }
