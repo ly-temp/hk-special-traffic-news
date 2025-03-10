@@ -183,52 +183,6 @@
         "last_update": "2025-03-07T21:30:47",
         "last_announcement": "2025-03-07T19:36:00"
     },
-    "IN-25-01241": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po",
-            "LOCATION_CN": "大埔",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lai Chi Kok",
-            "DIRECTION_CN": "荔枝角",
-            "NEAR_LANDMARK_EN": "Shek Kip Mei Street",
-            "NEAR_LANDMARK_CN": "石硤尾街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-07T19:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111467",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po (Lai Chi Kok bound) near Shek Kip Mei Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔(往荔枝角方向)近石硤尾街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-07T20:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111469",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Tai Po Road (Lai Chi Kok bound) near Shek Kip Mei Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔道(往荔枝角方向)近石硤尾街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-07T20:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111470",
-                "CONTENT_EN": "The slow lane of Tai Po Road (Lai Chi Kok bound) near Shek Kip Mei Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔道(往荔枝角方向)近石硤尾街的慢線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2025-03-07T20:38:10",
-        "last_announcement": "2025-03-07T20:18:00"
-    },
     "IN-25-01242": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2191,11 +2145,18 @@
                 "ID": "111587",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Tuen Mun bound) near Belvedere Garden is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往屯門方向)近麗城花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-10T20:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111591",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Tuen Mun bound) near Belvedere Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往屯門方向)近麗城花園的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2025-03-10T19:35:47",
-        "last_announcement": "2025-03-10T19:19:00"
+        "last_update": "2025-03-10T20:39:23",
+        "last_announcement": "2025-03-10T20:09:00"
     },
     "IN-25-01294": {
         "description": {
@@ -2223,10 +2184,17 @@
                 "ID": "111589",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Prince Edward Road West (Kowloon City bound) near Canton Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，太子道西(往九龍城方向)近廣東道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-10T20:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111590",
+                "CONTENT_EN": "The slow lane of Prince Edward Road West (Kowloon City bound) near Canton Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的太子道西(往九龍城方向)近廣東道的慢線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-03-10T19:56:07",
-        "last_announcement": "2025-03-10T19:46:00"
+        "last_update": "2025-03-10T20:39:23",
+        "last_announcement": "2025-03-10T20:08:00"
     }
 }
