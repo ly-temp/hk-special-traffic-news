@@ -2139,5 +2139,69 @@
         "district": "屯門區",
         "last_update": "2025-03-10T15:46:32",
         "last_announcement": "2025-03-10T15:36:00"
+    },
+    "IN-25-01286": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Siu Lun Sports Centre",
+            "NEAR_LANDMARK_CN": "兆麟體育館",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-10T15:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111574",
+                "CONTENT_EN": "The fast lane of Tuen Mun Road (Kowloon bound) near Siu Lun Sports Centre which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近兆麟體育館的快線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-03-10T16:22:23",
+        "last_announcement": "2025-03-10T15:53:00"
+    },
+    "IN-25-01285": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Tseung Kwan O Tunnel",
+            "LOCATION_CN": "將軍澳隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-10T15:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111575",
+                "CONTENT_EN": "The tunnel tube fast lane of Tseung Kwan O Tunnel (Kwun Tong bound) which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的將軍澳隧道(往觀塘方向)的管道快線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-03-10T16:22:23",
+        "last_announcement": "2025-03-10T15:57:00"
     }
 }
