@@ -1,64 +1,4 @@
 {
-    "IN-25-01225": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Mong Kok",
-            "DIRECTION_CN": "旺角",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-07T09:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111423",
-                "CONTENT_EN": "Tseung Kwan O Road (Mong Kok bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "將軍澳道(往旺角方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2025-03-07T09:52:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111425",
-                "CONTENT_EN": "The following road sections are busy:\n– Tseung Kwan O Road (Mong Kok bound)\n– Lei Yue Mun Road near Lam Tin MTR Station (Eastern Harbour Crossing bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Princess Margaret Road (Cross Harbour Tunnel bound)\n– West Kowloon Highway (Western Harbour Crossing bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–將軍澳道(往旺角方向)\n–鯉魚門道近藍田港鐵站(往東區海底隧道方向)\n–東九龍走廊(往尖沙咀方向)\n–公主道(往海底隧道方向)\n–西九龍公路(往西區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2025-03-07T10:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111436",
-                "CONTENT_EN": "The following road section(s) are busy:\n– Lei Yue Mun Road near Lam Tin MTR Station (Eastern Harbour Crossing bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– Princess Margaret Road (Cross Harbour Tunnel bound)\n– West Kowloon Highway (Western Harbour Crossing bound)\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.   The following road section has resumed normal:\n– Tseung Kwan O Road (Mong Kok bound).",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–鯉魚門道近藍田港鐵站(往東區海底隧道方向)\n–東九龍走廊(往尖沙咀方向)\n–公主道(往海底隧道方向)\n–西九龍公路(往西區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  以下路段的交通已回復正常:\n–將軍澳道(往旺角方向)。"
-            },
-            "2025-03-07T12:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111442",
-                "CONTENT_EN": "The following road section is busy:\n– Princess Margaret Road (Cross Harbour Tunnel bound)\nMotorists passing through the above road section is advised to drive with utmost care and patience. \n\nThe following road sections have resumed normal:\n– Lei Yue Mun Road near Lam Tin MTR Station (Eastern Harbour Crossing bound)\n– East Kowloon Corridor (Tsim Sha Tsui bound)\n– West Kowloon Highway (Western Harbour Crossing bound)\n.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n–公主道(往海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。\n\n以下路段的交通已回復正常:\n–鯉魚門道近藍田港鐵站(往東區海底隧道方向)\n–東九龍走廊(往尖沙咀方向)\n–西九龍公路(往西區海底隧道方向)\n。"
-            },
-            "2025-03-07T12:53:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111443",
-                "CONTENT_EN": "Traffic at the following road section has resumed normal:\n– Princess Margaret Road (Cross Harbour Tunnel bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–公主道(往海底隧道方向)。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-03-07T13:19:49",
-        "last_announcement": "2025-03-07T12:53:00"
-    },
     "IN-25-01229": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2075,5 +2015,37 @@
         "district": "中西區",
         "last_update": "2025-03-10T12:09:43",
         "last_announcement": "2025-03-10T11:49:00"
+    },
+    "IN-25-01281": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
+            "INCIDENT_DETAIL_CN": "車輛着火",
+            "LOCATION_EN": "Yuen Long Highway",
+            "LOCATION_CN": "元朗公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Tong Yan San Tsuen",
+            "NEAR_LANDMARK_CN": "唐人新村",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-10T12:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111563",
+                "CONTENT_EN": "Due to vehicle on fire , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Tong Yan San Tsuen is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛着火，元朗公路(往上水方向)近唐人新村的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2025-03-10T13:20:34",
+        "last_announcement": "2025-03-10T12:58:00"
     }
 }
