@@ -1,50 +1,4 @@
 {
-    "IN-25-01221": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwok Shui Road",
-            "LOCATION_CN": "國瑞路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Fu Uk Road",
-            "NEAR_LANDMARK_CN": "傅屋路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-07T08:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111419",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Kwok Shui Road (both bounds) near Fu Uk Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，國瑞路(來回方向)近傅屋路的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-03-07T10:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111431",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Kwok Shui Road (both bounds) near Fu Uk Road are still being closed to all traffic.   Affected bus routes have been diverted.   Motorists are advised to use alternative routes.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，國瑞路(來回方向)近傅屋路的全線仍然封閉。  受影響巴士路線須改道行駛。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
-            },
-            "2025-03-07T10:36:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111433",
-                "CONTENT_EN": "All lanes of Kwok Shui Road (both bounds) near Fu Uk Road which was closed due to traffic accident is re-opened to all traffic.   Affected bus routes gradually resume their original routeings.",
-                "CONTENT_CN": "較早前因交通意外而封閉的國瑞路(來回方向)近傅屋路的全線現已解封。  受影響巴士路線陸續恢復原有路線行駛。"
-            }
-        },
-        "district": "荃灣區",
-        "last_update": "2025-03-07T11:15:59",
-        "last_announcement": "2025-03-07T10:36:00"
-    },
     "IN-25-01222": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -157,45 +111,6 @@
         "district": "觀塘區",
         "last_update": "2025-03-07T13:19:49",
         "last_announcement": "2025-03-07T12:53:00"
-    },
-    "IN-25-01226": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": "Airport Road",
-            "LOCATION_CN": "機場路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Airport South Interchange",
-            "NEAR_LANDMARK_CN": "機場南交匯處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-07T10:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111428",
-                "CONTENT_EN": "Due to emergency incident , part of the lanes of Airport Road (both bounds) near Airport South Interchange are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因突發事件，機場路(來回方向)近機場南交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-07T10:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111434",
-                "CONTENT_EN": "Part of the lanes of Airport Road (both bounds) near Airport South Interchange which were closed due to emergency incident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因突發事件而封閉的機場路(來回方向)近機場南交匯處的部份行車線現已解封。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2025-03-07T11:15:59",
-        "last_announcement": "2025-03-07T10:44:00"
     },
     "IN-25-01228": {
         "description": {
@@ -2155,11 +2070,18 @@
                 "ID": "111553",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Yuen Long Highway (Tuen Mun bound) near Fu Tai Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，元朗公路(往屯門方向)近富泰邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-10T11:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111558",
+                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Tuen Mun bound) near Fu Tai Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的元朗公路(往屯門方向)近富泰邨的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-03-10T10:46:05",
-        "last_announcement": "2025-03-10T10:26:00"
+        "last_update": "2025-03-10T11:19:07",
+        "last_announcement": "2025-03-10T11:02:00"
     },
     "IN-25-01278": {
         "description": {
@@ -2192,5 +2114,37 @@
         "district": "葵青區",
         "last_update": "2025-03-10T10:56:04",
         "last_announcement": "2025-03-10T10:43:00"
+    },
+    "IN-25-01279": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Tai Lam Tunnel",
+            "LOCATION_CN": "大欖隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-10T10:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111557",
+                "CONTENT_EN": "Due to emergency repair of road surface , the tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，大欖隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-03-10T11:19:07",
+        "last_announcement": "2025-03-10T10:56:00"
     }
 }
