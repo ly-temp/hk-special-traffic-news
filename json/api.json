@@ -98,38 +98,6 @@
         "last_update": "2025-03-10T09:35:53",
         "last_announcement": "2025-03-10T07:55:00"
     },
-    "IN-25-01255": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": "Fan Kam Road",
-            "LOCATION_CN": "粉錦公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-08T19:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111511",
-                "CONTENT_EN": "Traffic at Fan Kam Road (Sheung Shui bound) has resumed normal.",
-                "CONTENT_CN": "粉錦公路(往上水方向)的交通現已恢復正常。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2025-03-08T19:57:16",
-        "last_announcement": "2025-03-08T19:45:00"
-    },
     "IN-25-01260": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
