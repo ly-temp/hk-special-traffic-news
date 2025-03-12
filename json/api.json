@@ -38,84 +38,6 @@
         "last_update": "2025-03-10T09:35:53",
         "last_announcement": "2025-03-10T07:55:00"
     },
-    "IN-25-01266": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tai Po Road - Sha Tin Heights",
-            "LOCATION_CN": "大埔公路　－　沙田嶺段",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": "Tai Po Water Treatment Works",
-            "NEAR_LANDMARK_CN": "大埔濾水廠",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-09T15:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111529",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tai Po Road - Sha Tin Heights (Sha Tin bound) near Tai Po Water Treatment Works is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，大埔公路　－　沙田嶺段(往沙田方向)近大埔濾水廠的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-09T16:01:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111533",
-                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin Heights (Kowloon bound) near Kowloon Reservoir which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　－　沙田嶺段(往九龍方向)近九龍水塘的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2025-03-09T16:22:01",
-        "last_announcement": "2025-03-09T16:01:00"
-    },
-    "IN-25-01267": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Canal Road Flyover",
-            "LOCATION_CN": "堅拿道天橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Wan Chai Fire Station",
-            "NEAR_LANDMARK_CN": "灣仔消防局",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-09T15:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111531",
-                "CONTENT_EN": "Due to traffic accident , the slow lane of Canal Road Flyover (Cross Harbour Tunnel bound) near Wan Chai Fire Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，堅拿道天橋(往海底隧道方向)近灣仔消防局的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-09T15:48:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111532",
-                "CONTENT_EN": "The slow lane of Canal Road Flyover (Cross Harbour Tunnel bound) near Wan Chai Fire Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的堅拿道天橋(往海底隧道方向)近灣仔消防局的慢線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2025-03-09T16:22:01",
-        "last_announcement": "2025-03-09T15:48:00"
-    },
     "IN-25-01268": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2593,11 +2515,18 @@
                 "ID": "111673",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Sung Wong Toi Road (Argyle Street bound) near Ma Tau Chung Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，宋皇臺道(往亞皆老街方向)近馬頭涌道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-12T15:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111676",
+                "CONTENT_EN": "Part of the lanes of Sung Wong Toi Road (Argyle Street bound) near Ma Tau Chung Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的宋皇臺道(往亞皆老街方向)近馬頭涌道的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-03-12T15:45:57",
-        "last_announcement": "2025-03-12T15:21:00"
+        "last_update": "2025-03-12T16:26:14",
+        "last_announcement": "2025-03-12T15:57:00"
     },
     "IN-25-01335": {
         "description": {
@@ -2630,5 +2559,76 @@
         "district": "西貢區",
         "last_update": "2025-03-12T15:45:57",
         "last_announcement": "2025-03-12T15:28:00"
+    },
+    "IN-25-01336": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "San Hui Playground",
+            "NEAR_LANDMARK_CN": "新墟遊樂場",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-12T15:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111675",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui Playground is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近新墟遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-12T15:57:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "111677",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui Playground which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近新墟遊樂場的部份行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-03-12T16:26:14",
+        "last_announcement": "2025-03-12T15:57:00"
+    },
+    "IN-25-01337": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-12T16:08:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "111679",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近坪石邨的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-03-12T16:26:14",
+        "last_announcement": "2025-03-12T16:08:00"
     }
 }
