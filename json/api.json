@@ -2800,5 +2800,37 @@
         "district": "九龍城區",
         "last_update": "2025-03-12T22:12:42",
         "last_announcement": "2025-03-12T21:43:00"
+    },
+    "IN-25-01343": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Canton Road",
+            "LOCATION_CN": "廣東道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Prince Edward",
+            "DIRECTION_CN": "太子",
+            "NEAR_LANDMARK_EN": "Dundas Street",
+            "NEAR_LANDMARK_CN": "登打士街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-13T06:07:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111695",
+                "CONTENT_EN": "Due to watermain burst , the only lane of Canton Road (Prince Edward bound) near Dundas Street is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管爆裂，廣東道(往太子方向)近登打士街的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-03-13T06:34:57",
+        "last_announcement": "2025-03-13T06:07:00"
     }
 }
