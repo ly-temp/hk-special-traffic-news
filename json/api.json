@@ -45,45 +45,6 @@
         "last_update": "2025-03-10T11:31:09",
         "last_announcement": "2025-03-10T11:16:00"
     },
-    "IN-25-01276": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Incident",
-            "INCIDENT_DETAIL_CN": "道路事故",
-            "LOCATION_EN": "Canton Road",
-            "LOCATION_CN": "廣東道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Salisbury Road",
-            "DIRECTION_CN": "梳士巴利道",
-            "NEAR_LANDMARK_EN": "Kowloon Park Drive",
-            "NEAR_LANDMARK_CN": "九龍公園徑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-10T10:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111552",
-                "CONTENT_EN": "Due to road incident , part of the lanes of Canton Road (Salisbury Road bound) near Kowloon Park Drive is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因道路事故，廣東道(往梳士巴利道方向)近九龍公園徑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-10T10:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111556",
-                "CONTENT_EN": "Part of the lanes of Canton Road (Salisbury Road bound) near Kowloon Park Drive which was closed due to road incident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因道路事故而封閉的廣東道(往梳士巴利道方向)近九龍公園徑的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-03-10T10:56:04",
-        "last_announcement": "2025-03-10T10:44:00"
-    },
     "IN-25-01277": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2768,5 +2729,44 @@
         "district": "中西區",
         "last_update": "2025-03-13T10:24:00",
         "last_announcement": "2025-03-13T09:58:00"
+    },
+    "IN-25-01349": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "Wong Nai Chung Gap Flyover",
+            "LOCATION_CN": "黃泥涌峽天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wong Chuk Hang",
+            "DIRECTION_CN": "黃竹坑",
+            "NEAR_LANDMARK_EN": "tunnel entrance",
+            "NEAR_LANDMARK_CN": "隧道入口",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-13T10:33:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111707",
+                "CONTENT_EN": "Due to emergency tree trimming works , the slow lane of Wong Nai Chung Gap Flyover (Wong Chuk Hang bound) near tunnel entrance is closed to all traffic. \nOnly remaining lane is available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因緊急修樹工程，黃泥涌峽天橋(往黃竹坑方向)近隧道入口的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2025-03-13T10:41:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "111710",
+                "CONTENT_EN": "The slow lane of Wong Nai Chung Gap Flyover (Wong Chuk Hang bound) near Aberdeen tunnel tunnel entrance which was closed due to emergency tree trimming is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急修樹工程而封閉的黃泥涌峽天橋(往黃竹坑方向)近香港仔隧道隧道入口的慢線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-03-13T11:07:41",
+        "last_announcement": "2025-03-13T10:41:00"
     }
 }
