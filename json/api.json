@@ -2489,11 +2489,18 @@
                 "ID": "111735",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong Bypass (Yau Tong bound) ends at Kwun Tong Bypass near EMSD Headquarters. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往油塘方向)的車龍龍尾已到觀塘繞道近機電工程署總部大樓。 現時上址交通擠塞。"
+            },
+            "2025-03-13T19:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111738",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong Bypass (Yau Tong bound) ends at Kwun Tong Bypass near Choi Hung Estate. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘繞道(往油塘方向)的車龍龍尾已到觀塘繞道近彩虹邨。 現時上址交通擠塞。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-03-13T19:26:47",
-        "last_announcement": "2025-03-13T19:07:00"
+        "last_update": "2025-03-13T19:58:11",
+        "last_announcement": "2025-03-13T19:39:00"
     },
     "IN-25-01358": {
         "description": {
@@ -2521,10 +2528,17 @@
                 "ID": "111736",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大埔公路　–　沙田段(往大埔方向)近禾輋邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-13T19:46:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111739",
+                "CONTENT_EN": "The slow lane of Tai Po Road - Sha Tin (Tai Po bound) near Wo Che Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大埔公路　–　沙田段(往大埔方向)近禾輋邨的慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-03-13T19:26:47",
-        "last_announcement": "2025-03-13T19:16:00"
+        "last_update": "2025-03-13T19:58:11",
+        "last_announcement": "2025-03-13T19:46:00"
     }
 }
