@@ -1,43 +1,4 @@
 {
-    "IN-25-01297": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "obstacles on road",
-            "INCIDENT_DETAIL_CN": "路面有障礙物",
-            "LOCATION_EN": "Tsing Sha Highway",
-            "LOCATION_CN": "青沙公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": "the tunnel entrance of Eagle's Nest Tunnel",
-            "NEAR_LANDMARK_CN": "尖山隧道隧道入口",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-11T08:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111597",
-                "CONTENT_EN": "Due to obstacles on road , part of the lanes of Tsing Sha Highway (Sha Tin bound) near the tunnel entrance of Eagle's Nest Tunnel is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因路面有障礙物，青沙公路(往沙田方向)近尖山隧道隧道入口的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-11T11:15:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111614",
-                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Sha Tin bound) near the tunnel entrance of Eagle's Nest Tunnel which was closed due to obstacles on road is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面有障礙物而封閉的青沙公路(往沙田方向)近尖山隧道隧道入口的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2025-03-11T11:42:05",
-        "last_announcement": "2025-03-11T11:15:00"
-    },
     "IN-25-01305": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2439,11 +2400,18 @@
                 "ID": "111762",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tai Chung Road (Castle Peak Road - Tsuen Wan bound) near Sha Tsui Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，大涌道(往青山公路　–　荃灣段方向)近沙咀道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-14T11:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111774",
+                "CONTENT_EN": "Part of the lanes of Tai Chung Road (Castle Peak Road - Tsuen Wan bound) near Sha Tsui Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大涌道(往青山公路　–　荃灣段方向)近沙咀道的部份行車線現已解封。"
             }
         },
         "district": "荃灣區",
-        "last_update": "2025-03-14T10:50:53",
-        "last_announcement": "2025-03-14T10:25:00"
+        "last_update": "2025-03-14T11:44:35",
+        "last_announcement": "2025-03-14T11:27:00"
     },
     "IN-25-01368": {
         "description": {
@@ -2581,11 +2549,18 @@
                 "ID": "111770",
                 "CONTENT_EN": "Due to obstacles on road , the slow lane of Lion Rock Tunnel Road (Kowloon bound) near Administration Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有障礙物，獅子山隧道公路(往九龍方向)近行政大樓的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-14T11:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111772",
+                "CONTENT_EN": "The slow lane of Lion Rock Tunnel Road (Kowloon bound) near Administration Building which was closed due to obstacles on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有障礙物而封閉的獅子山隧道公路(往九龍方向)近行政大樓的慢線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2025-03-14T11:19:55",
-        "last_announcement": "2025-03-14T10:55:00"
+        "last_update": "2025-03-14T11:44:35",
+        "last_announcement": "2025-03-14T11:15:00"
     },
     "IN-25-01372": {
         "description": {
