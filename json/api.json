@@ -1,50 +1,4 @@
 {
-    "IN-25-01296": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Aberdeen Tunnel",
-            "LOCATION_CN": "香港仔隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wong Chuk Hang",
-            "DIRECTION_CN": "黃竹坑",
-            "NEAR_LANDMARK_EN": "Aberdeen Tunnel ex-Toll Plaza",
-            "NEAR_LANDMARK_CN": "香港仔隧道前收費廣場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-11T06:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111594",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Aberdeen Tunnel (Wong Chuk Hang bound) near Aberdeen Tunnel ex-Toll Plaza is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，香港仔隧道(往黃竹坑方向)近香港仔隧道前收費廣場的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
-            },
-            "2025-03-11T07:22:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111596",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Aberdeen Tunnel (Wong Chuk Hang bound) near Aberdeen Tunnel former Toll Plaza is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，香港仔隧道(往黃竹坑方向)近香港仔隧道前收費廣場的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-11T10:40:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111612",
-                "CONTENT_EN": "Part of the lanes of Aberdeen Tunnel (Wong Chuk Hang bound) near Aberdeen Tunnel former Toll Plaza which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的香港仔隧道(往黃竹坑方向)近香港仔隧道前收費廣場的部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-03-11T11:16:27",
-        "last_announcement": "2025-03-11T10:40:00"
-    },
     "IN-25-01297": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -83,45 +37,6 @@
         "district": "沙田區",
         "last_update": "2025-03-11T11:42:05",
         "last_announcement": "2025-03-11T11:15:00"
-    },
-    "IN-25-01304": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tsing Sha Highway",
-            "LOCATION_CN": "青沙公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Hong Kong Heritage Museum",
-            "NEAR_LANDMARK_CN": "香港文化博物館",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-11T10:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111611",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsing Sha Highway (Kowloon bound) near Hong Kong Heritage Museum is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，青沙公路(往九龍方向)近香港文化博物館的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-11T10:48:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111613",
-                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Kowloon bound) near Hong Kong Heritage Museum which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青沙公路(往九龍方向)近香港文化博物館的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2025-03-11T11:16:27",
-        "last_announcement": "2025-03-11T10:48:00"
     },
     "IN-25-01305": {
         "description": {
@@ -2600,5 +2515,108 @@
         "district": "九龍城區",
         "last_update": "2025-03-14T10:50:53",
         "last_announcement": "2025-03-14T10:42:00"
+    },
+    "IN-25-01369": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-14T10:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111766",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近深井的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-14T10:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111768",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近深井的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-03-14T11:19:55",
+        "last_announcement": "2025-03-14T10:54:00"
+    },
+    "IN-25-01371": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "obstacles on road",
+            "INCIDENT_DETAIL_CN": "路面有障礙物",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Administration Building",
+            "NEAR_LANDMARK_CN": "行政大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-14T10:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111770",
+                "CONTENT_EN": "Due to obstacles on road , the slow lane of Lion Rock Tunnel Road (Kowloon bound) near Administration Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因路面有障礙物，獅子山隧道公路(往九龍方向)近行政大樓的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2025-03-14T11:19:55",
+        "last_announcement": "2025-03-14T10:55:00"
+    },
+    "IN-25-01372": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Garden Road",
+            "LOCATION_CN": "花園道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Downhill bound",
+            "DIRECTION_CN": "下山方向",
+            "NEAR_LANDMARK_EN": "Lower Albert Road",
+            "NEAR_LANDMARK_CN": "下亞厘畢道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-14T11:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111771",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Garden Road (downhill bound) near Lower Albert Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，花園道(下山方向)近下亞厘畢道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2025-03-14T11:19:55",
+        "last_announcement": "2025-03-14T11:04:00"
     }
 }
