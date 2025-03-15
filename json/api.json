@@ -1,75 +1,4 @@
 {
-    "IN-25-01321": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsuen Tsing Interchange",
-            "LOCATION_CN": "荃青交匯處",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T07:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111647",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsuen Tsing Interchange  is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，荃青交匯處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-03-12T09:09:52",
-        "last_announcement": "2025-03-12T07:56:00"
-    },
-    "IN-25-01322": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Waterloo Road",
-            "LOCATION_CN": "窩打老道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Rutland Quadrant",
-            "NEAR_LANDMARK_CN": "律倫街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T08:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111648",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-12T08:47:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111649",
-                "CONTENT_EN": "Part of the lanes of Waterloo Road (Lion Rock Tunnel bound) near Rutland Quadrant which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往獅子山隧道方向)近律倫街的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-03-12T09:09:52",
-        "last_announcement": "2025-03-12T08:47:00"
-    },
     "IN-25-01323": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2681,5 +2610,140 @@
         "district": "觀塘區",
         "last_update": "2025-03-15T07:41:35",
         "last_announcement": "2025-03-15T07:31:00"
+    },
+    "IN-25-01391": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tuen Hing Road",
+            "NEAR_LANDMARK_CN": "屯興路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T09:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111821",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Hing Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，屯門公路(往九龍方向)近屯興路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-15T09:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111823",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near Tuen Hing Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往九龍方向)近屯興路的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-03-15T10:12:00",
+        "last_announcement": "2025-03-15T09:18:00"
+    },
+    "IN-25-01392": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Hoi Fai Road",
+            "LOCATION_CN": "海輝道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lin Cheung Road",
+            "DIRECTION_CN": "連翔道",
+            "NEAR_LANDMARK_EN": "Tai Kok Tsui Traction Substation",
+            "NEAR_LANDMARK_CN": "大角咀牽引變電站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T09:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111822",
+                "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Hoi Fai Road (Lin Cheung Road bound) near Tai Kok Tsui Traction Substation is closed to all traffic. Only remaining lane is available to motorists.",
+                "CONTENT_CN": "因緊急路面維修，海輝道(往連翔道方向)近大角咀牽引變電站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-03-15T10:12:00",
+        "last_announcement": "2025-03-15T09:08:00"
+    },
+    "IN-25-01393": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Waterloo Road",
+            "LOCATION_CN": "窩打老道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsim Sha Tsui",
+            "DIRECTION_CN": "尖沙咀",
+            "NEAR_LANDMARK_EN": "Lancashire Road",
+            "NEAR_LANDMARK_CN": "蘭開夏道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T09:36:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111824",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Lancashire Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Waterloo Road (Tsim Sha Tsui bound) ends at Waterloo Road near Hong Kong Baptist University. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，窩打老道(往尖沙咀方向)近蘭開夏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在窩打老道(往尖沙咀方向)的車龍龍尾已到窩打老道近香港浸會大學。 現時上址交通擠塞。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-03-15T10:12:00",
+        "last_announcement": "2025-03-15T09:36:00"
+    },
+    "IN-25-01394": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Lai King Estate",
+            "NEAR_LANDMARK_CN": "荔景邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T10:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111825",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Tsuen Wan Road (Kowloon bound) near Lai King Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近荔景邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2025-03-15T10:12:00",
+        "last_announcement": "2025-03-15T10:02:00"
     }
 }
