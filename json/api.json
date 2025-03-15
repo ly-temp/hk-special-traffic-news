@@ -38,84 +38,6 @@
         "last_update": "2025-03-12T11:07:33",
         "last_announcement": "2025-03-12T10:50:00"
     },
-    "IN-25-01324": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Tin Chiu Street",
-            "NEAR_LANDMARK_CN": "電照街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T09:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111652",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Central bound) near Tin Chiu Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，東區走廊(往中環方向)近電照街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-12T09:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111653",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Tin Chiu Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往中環方向)近電照街的部份行車線現已解封。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2025-03-12T10:34:42",
-        "last_announcement": "2025-03-12T09:08:00"
-    },
-    "IN-25-01325": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Yuen Long Highway",
-            "LOCATION_CN": "元朗公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Shui",
-            "DIRECTION_CN": "上水",
-            "NEAR_LANDMARK_EN": "Nam Sang Wai Road",
-            "NEAR_LANDMARK_CN": "南生圍路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T09:08:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111654",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Yuen Long Highway (Sheung Shui bound) near Nam Sang Wai Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，元朗公路(往上水方向)近南生圍路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-12T10:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111657",
-                "CONTENT_EN": "Part of the lanes of Yuen Long Highway (Sheung Shui bound) near Nam Sang Wai Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的元朗公路(往上水方向)近南生圍路的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2025-03-12T10:34:42",
-        "last_announcement": "2025-03-12T10:08:00"
-    },
     "IN-25-01326": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -154,45 +76,6 @@
         "district": "油尖旺區",
         "last_update": "2025-03-14T07:10:07",
         "last_announcement": "2025-03-14T06:50:00"
-    },
-    "IN-25-01327": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "malfunction of traffic lights",
-            "INCIDENT_DETAIL_CN": "交通燈失靈",
-            "LOCATION_EN": "Argyle Street",
-            "LOCATION_CN": "亞皆老街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T09:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111656",
-                "CONTENT_EN": "Due to malfunction of traffic lights at the junction of Argyle Street and Yim Po Fong Street, Motorists are advised to drive with utmost care when passing through the road junction, pay extra attention to the traffic signs and safety of pedestrians. \nPedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.   Members of the public are advised to pay attention to radio / TV announcements on traffic conditions.",
-                "CONTENT_CN": "由於亞皆老街和染布房街交界的交通燈失靈，駕駛人士在駛經有關路口時，請加倍小心，注意交通標誌的指示並留意過路行人的安全。行人在交通燈失靈的路口橫過馬路時，請特別注意車輛。  市民請留意電台/電視廣播的最新交通情況。"
-            },
-            "2025-03-12T10:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111658",
-                "CONTENT_EN": "All traffic lights at the junction of Argyle Street and Yim Po Fong Street have resumed normal operation.",
-                "CONTENT_CN": "位於亞皆老街和染布房街交界的交通燈已恢復正常運作。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-03-12T10:34:42",
-        "last_announcement": "2025-03-12T10:17:00"
     },
     "IN-25-01328": {
         "description": {
@@ -2708,11 +2591,18 @@
                 "ID": "111824",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Lancashire Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Waterloo Road (Tsim Sha Tsui bound) ends at Waterloo Road near Hong Kong Baptist University. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往尖沙咀方向)近蘭開夏道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在窩打老道(往尖沙咀方向)的車龍龍尾已到窩打老道近香港浸會大學。 現時上址交通擠塞。"
+            },
+            "2025-03-15T10:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111829",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Tsim Sha Tsui bound) near Lancashire Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往尖沙咀方向)近蘭開夏道的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-03-15T10:12:00",
-        "last_announcement": "2025-03-15T09:36:00"
+        "last_update": "2025-03-15T11:01:00",
+        "last_announcement": "2025-03-15T10:48:00"
     },
     "IN-25-01394": {
         "description": {
@@ -2740,10 +2630,49 @@
                 "ID": "111825",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Tsuen Wan Road (Kowloon bound) near Lai King Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，荃灣路(往九龍方向)近荔景邨的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-15T10:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111826",
+                "CONTENT_EN": "The fast lane of Tsuen Wan Road (Kowloon bound) near Lai King Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近荔景邨的快線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2025-03-15T10:12:00",
-        "last_announcement": "2025-03-15T10:02:00"
+        "last_update": "2025-03-15T11:01:00",
+        "last_announcement": "2025-03-15T10:06:00"
+    },
+    "IN-25-01395": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hiram's Highway",
+            "LOCATION_CN": "西貢公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Hebe Haven",
+            "NEAR_LANDMARK_CN": "白沙灣",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T10:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111827",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hiram's Highway (Kowloon bound) near Hebe Haven is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，西貢公路(往九龍方向)近白沙灣的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2025-03-15T11:01:00",
+        "last_announcement": "2025-03-15T10:38:00"
     }
 }
