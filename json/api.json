@@ -38,45 +38,6 @@
         "last_update": "2025-03-14T07:10:07",
         "last_announcement": "2025-03-14T06:50:00"
     },
-    "IN-25-01334": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Sung Wong Toi Road",
-            "LOCATION_CN": "宋皇臺道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Argyle Street",
-            "DIRECTION_CN": "亞皆老街",
-            "NEAR_LANDMARK_EN": "Ma Tau Chung Road",
-            "NEAR_LANDMARK_CN": "馬頭涌道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T15:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111673",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sung Wong Toi Road (Argyle Street bound) near Ma Tau Chung Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，宋皇臺道(往亞皆老街方向)近馬頭涌道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-12T15:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111676",
-                "CONTENT_EN": "Part of the lanes of Sung Wong Toi Road (Argyle Street bound) near Ma Tau Chung Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的宋皇臺道(往亞皆老街方向)近馬頭涌道的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-03-12T16:26:14",
-        "last_announcement": "2025-03-12T15:57:00"
-    },
     "IN-25-01335": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -115,77 +76,6 @@
         "district": "西貢區",
         "last_update": "2025-03-12T16:55:20",
         "last_announcement": "2025-03-12T16:37:00"
-    },
-    "IN-25-01336": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "San Hui Playground",
-            "NEAR_LANDMARK_CN": "新墟遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T15:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111675",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui Playground is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近新墟遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-12T15:57:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111677",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near San Hui Playground which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近新墟遊樂場的部份行車線現已解封。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2025-03-12T16:26:14",
-        "last_announcement": "2025-03-12T15:57:00"
-    },
-    "IN-25-01337": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yau Tong",
-            "DIRECTION_CN": "油塘",
-            "NEAR_LANDMARK_EN": "Ping Shek Estate",
-            "NEAR_LANDMARK_CN": "坪石邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T16:08:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "111679",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往油塘方向)近坪石邨的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-03-12T16:26:14",
-        "last_announcement": "2025-03-12T16:08:00"
     },
     "IN-25-01338": {
         "description": {
@@ -2706,5 +2596,69 @@
         "district": "九龍城區",
         "last_update": "2025-03-15T16:12:13",
         "last_announcement": "2025-03-15T16:00:00"
+    },
+    "IN-25-01402": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fallen Tree",
+            "INCIDENT_DETAIL_CN": "塌樹",
+            "LOCATION_EN": "San Tin Highway",
+            "LOCATION_CN": "新田公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sheung Shui",
+            "DIRECTION_CN": "上水",
+            "NEAR_LANDMARK_EN": "Fairview Park",
+            "NEAR_LANDMARK_CN": "錦繡花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T16:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111847",
+                "CONTENT_EN": "Part of the lanes of San Tin Highway (Sheung Shui bound) near Fairview Park which was closed due to fallen tree is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因塌樹而封閉的新田公路(往上水方向)近錦繡花園的部份行車線現已解封。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2025-03-15T16:33:03",
+        "last_announcement": "2025-03-15T16:10:00"
+    },
+    "IN-25-01406": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Ma Tei",
+            "DIRECTION_CN": "油麻地",
+            "NEAR_LANDMARK_EN": "Ho Man Tin MTR Station",
+            "NEAR_LANDMARK_CN": "何文田港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T16:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111848",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Chatham Road North (Yau Ma Tei bound) near Ho Man Tin MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道北(往油麻地方向)近何文田港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-03-15T16:33:03",
+        "last_announcement": "2025-03-15T16:16:00"
     }
 }
