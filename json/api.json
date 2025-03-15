@@ -2190,11 +2190,18 @@
                 "ID": "111822",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Hoi Fai Road (Lin Cheung Road bound) near Tai Kok Tsui Traction Substation is closed to all traffic. Only remaining lane is available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，海輝道(往連翔道方向)近大角咀牽引變電站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-03-15T16:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111852",
+                "CONTENT_EN": "Part of the lanes of Hoi Fai Road (Lin Cheung Road bound) near Tai Kok Tsui Traction Substation which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的海輝道(往連翔道方向)近大角咀牽引變電站的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-03-15T10:12:00",
-        "last_announcement": "2025-03-15T09:08:00"
+        "last_update": "2025-03-15T16:45:38",
+        "last_announcement": "2025-03-15T16:38:00"
     },
     "IN-25-01393": {
         "description": {
@@ -2660,5 +2667,37 @@
         "district": "九龍城區",
         "last_update": "2025-03-15T16:33:03",
         "last_announcement": "2025-03-15T16:16:00"
+    },
+    "IN-25-01407": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tate's Cairn Highway",
+            "LOCATION_CN": "大老山公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Sha Tin Sewage Treatment Works",
+            "NEAR_LANDMARK_CN": "沙田污水處理廠",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T16:32:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "111850",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Tate's Cairn Highway (Tai Po bound) near Sha Tin Sewage Treatment Works is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，大老山公路(往大埔方向)近沙田污水處理廠的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-03-15T16:45:38",
+        "last_announcement": "2025-03-15T16:32:00"
     }
 }
