@@ -1,43 +1,4 @@
 {
-    "IN-25-01323": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Shek O Road",
-            "LOCATION_CN": "石澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Tai Tam Gap Correctional Institution",
-            "NEAR_LANDMARK_CN": "大潭峽懲教所",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T08:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111650",
-                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Shek O Road near Tai Tam Gap Correctional Institution. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，石澳道近大潭峽懲教所現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2025-03-12T10:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111659",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Shek O Road near Tai Tam Gap Correctional Institution due to traffic accident is now cancelled.",
-                "CONTENT_CN": "較早前因交通意外而於石澳道近大潭峽懲教所實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-03-12T11:07:33",
-        "last_announcement": "2025-03-12T10:50:00"
-    },
     "IN-25-01326": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2488,11 +2449,18 @@
                 "ID": "111820",
                 "CONTENT_EN": "Due to obstacles on road , part of the lanes of Kwun Tong Road (Yau Tong bound) near Ping Shek Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路面有障礙物，觀塘道(往油塘方向)近坪石邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-15T10:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111831",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Ping Shek Estate which was closed due to obstacles on road is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路面有障礙物而封閉的觀塘道(往油塘方向)近坪石邨的部份行車線現已解封。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2025-03-15T07:41:35",
-        "last_announcement": "2025-03-15T07:31:00"
+        "last_update": "2025-03-15T11:32:08",
+        "last_announcement": "2025-03-15T10:56:00"
     },
     "IN-25-01391": {
         "description": {
@@ -2674,5 +2642,37 @@
         "district": "西貢區",
         "last_update": "2025-03-15T11:01:00",
         "last_announcement": "2025-03-15T10:38:00"
+    },
+    "IN-25-01396": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tsuen Wan Road",
+            "LOCATION_CN": "荃灣路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Tsuen Tsing Interchange",
+            "NEAR_LANDMARK_CN": "荃青交匯處",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-15T10:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111830",
+                "CONTENT_EN": "Part of the lanes of Tsuen Wan Road (Kowloon bound) near Tsuen Tsing Interchange which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的荃灣路(往九龍方向)近荃青交匯處的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-03-15T11:32:08",
+        "last_announcement": "2025-03-15T10:56:00"
     }
 }
