@@ -38,52 +38,6 @@
         "last_update": "2025-03-14T07:10:07",
         "last_announcement": "2025-03-14T06:50:00"
     },
-    "IN-25-01330": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Lau Fau Shan Road",
-            "LOCATION_CN": "流浮山道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Tin Wah Road",
-            "NEAR_LANDMARK_CN": "天華路",
-            "BETWEEN_LANDMARK_EN": "Deep Bay Road",
-            "BETWEEN_LANDMARK_CN": "深灣路",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-12T13:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "111663",
-                "CONTENT_EN": "Due to vehicle on fire , all lanes of Lau Fau Shan Road (both bounds) between Tin Wah Road and Deep Bay Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，流浮山道(來回方向)介乎天華路與深灣路之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-03-12T13:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111664",
-                "CONTENT_EN": "Due to vehicle on fire , the one-lane-two-way traffic arrangement is being implemented on Lau Fau Shan Road. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，流浮山道現已實施單線雙程行車措施。 現時上址交通繁忙。"
-            },
-            "2025-03-12T14:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "111666",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Lau Fau Shan Road due to vehicle on fire is now cancelled.",
-                "CONTENT_CN": "較早前因車輛着火而於流浮山道實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "元朗區",
-        "last_update": "2025-03-12T14:48:50",
-        "last_announcement": "2025-03-12T14:19:00"
-    },
     "IN-25-01332": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2630,10 +2584,17 @@
                 "ID": "111833",
                 "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Richland Garden is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，觀塘繞道(往油塘方向)近麗晶花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-15T14:44:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "111834",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Richland Garden which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘繞道(往油塘方向)近麗晶花園的部份行車線現已解封。"
             }
         },
         "district": "北區",
-        "last_update": "2025-03-15T13:51:25",
-        "last_announcement": "2025-03-15T13:36:00"
+        "last_update": "2025-03-15T14:58:20",
+        "last_announcement": "2025-03-15T14:44:00"
     }
 }
