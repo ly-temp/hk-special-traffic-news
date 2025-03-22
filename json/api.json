@@ -1,43 +1,4 @@
 {
-    "IN-25-01502": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Sung Wong Toi Road",
-            "LOCATION_CN": "宋皇臺道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Ma Tau Chung Road",
-            "DIRECTION_CN": "馬頭涌道",
-            "NEAR_LANDMARK_EN": "Pak Tai Street",
-            "NEAR_LANDMARK_CN": "北帝街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-19T17:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112067",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sung Wong Toi Road (Ma Tau Chung Road bound) near Pak Tai Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，宋皇臺道(往馬頭涌道方向)近北帝街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-19T17:49:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "112072",
-                "CONTENT_EN": "Part of the lanes of Sung Wong Toi Road (Ma Tau Chung Road bound) near Pak Tai Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的宋皇臺道(往馬頭涌道方向)近北帝街的部份行車線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-03-19T18:23:31",
-        "last_announcement": "2025-03-19T17:49:00"
-    },
     "IN-25-01505": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -115,38 +76,6 @@
         "district": "油尖旺區",
         "last_update": "2025-03-19T18:41:32",
         "last_announcement": "2025-03-19T18:29:00"
-    },
-    "IN-25-01504": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Princess Margaret Road",
-            "LOCATION_CN": "公主道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lion Rock Tunnel",
-            "DIRECTION_CN": "獅子山隧道",
-            "NEAR_LANDMARK_EN": "Argyle Street",
-            "NEAR_LANDMARK_CN": "亞皆老街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-19T18:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112075",
-                "CONTENT_EN": "The slow lane of Princess Margaret Road (Lion Rock Tunnel bound) near Argyle Street which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的公主道(往獅子山隧道方向)近亞皆老街的慢線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-03-19T18:23:31",
-        "last_announcement": "2025-03-19T18:07:00"
     },
     "IN-25-01507": {
         "description": {
