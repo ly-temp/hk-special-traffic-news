@@ -3324,11 +3324,18 @@
                 "ID": "112276",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，屯門公路(往元朗方向)近青田路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-22T16:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112282",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near Tsing Tin Road which was closed due to traffic accident is re-opened to all traffic. Traffic queues take time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的屯門公路(往元朗方向)近青田路的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-03-22T15:52:09",
-        "last_announcement": "2025-03-22T15:35:00"
+        "last_update": "2025-03-22T16:33:20",
+        "last_announcement": "2025-03-22T16:15:00"
     },
     "IN-25-01597": {
         "description": {
@@ -3393,5 +3400,37 @@
         "district": "中西區",
         "last_update": "2025-03-22T16:13:25",
         "last_announcement": "2025-03-22T16:00:00"
+    },
+    "IN-25-01598": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Texaco Road North",
+            "LOCATION_CN": "德士古道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Kam Interchange",
+            "DIRECTION_CN": "荃錦交匯處",
+            "NEAR_LANDMARK_EN": "Shek Wai Kok Estate",
+            "NEAR_LANDMARK_CN": "石圍角邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-22T16:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112285",
+                "CONTENT_EN": "Part of the lanes of Texaco Road North (Tsuen Kam Interchange bound) near Shek Wai Kok Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的德士古道北(往荃錦交匯處方向)近石圍角邨的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-03-22T16:33:20",
+        "last_announcement": "2025-03-22T16:19:00"
     }
 }
