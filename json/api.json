@@ -38,116 +38,6 @@
         "last_update": "2025-03-20T11:43:41",
         "last_announcement": "2025-03-20T09:27:00"
     },
-    "IN-25-01521": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Princess Margaret Road",
-            "LOCATION_CN": "公主道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Hong Chong Road",
-            "NEAR_LANDMARK_CN": "康莊道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-20T09:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112112",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Princess Margaret Road (Cross Harbour Tunnel bound) near Hong Chong Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，公主道(往海底隧道方向)近康莊道的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-20T10:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112119",
-                "CONTENT_EN": "The slow lane of Princess Margaret Road (Cross Harbour Tunnel bound) near Hong Chong Road which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的公主道(往海底隧道方向)近康莊道的慢線現已解封。 車龍有待消散。"
-            },
-            "2025-03-20T09:56:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112116",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Princess Margaret Road (Cross Harbour Tunnel bound) near Hong Chong Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Princess Margaret Road (Cross Harbour Tunnel bound) ends at Princess Margaret Road near Hung Hom Police Station. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，公主道(往海底隧道方向)近康莊道的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在公主道(往海底隧道方向)的車龍龍尾已到公主道近紅磡警署。 現時上址交通擠塞。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-03-20T11:19:10",
-        "last_announcement": "2025-03-20T09:56:00"
-    },
-    "IN-25-01517": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road West",
-            "LOCATION_CN": "干諾道西",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Shun Tak Centre",
-            "NEAR_LANDMARK_CN": "信德中心",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-20T10:07:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112118",
-                "CONTENT_EN": "Part of the lanes of Connaught Road West (Central bound) near Shun Tak Centre which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的干諾道西(往中環方向)近信德中心的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2025-03-20T11:19:10",
-        "last_announcement": "2025-03-20T10:07:00"
-    },
-    "IN-25-01523": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Island Eastern Corridor",
-            "LOCATION_CN": "東區走廊",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Man Hong Street",
-            "NEAR_LANDMARK_CN": "民康街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-20T10:38:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112121",
-                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Central bound) near Man Hong Street which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的東區走廊(往中環方向)近民康街的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "東區",
-        "last_update": "2025-03-20T11:19:10",
-        "last_announcement": "2025-03-20T10:38:00"
-    },
     "IN-25-01522": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3012,10 +2902,17 @@
                 "ID": "112294",
                 "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Fu Road (Tuen Mun Town Centre bound) near Lung Fu Road roundabout is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，龍富路(往屯門市中心方向)近龍富路迴旋處的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-23T11:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112296",
+                "CONTENT_EN": "The slow lane of Lung Fu Road (Tuen Mun Town Centre bound) near Lung Fu Road roundabout which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的龍富路(往屯門市中心方向)近龍富路迴旋處的慢線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-03-23T11:11:27",
-        "last_announcement": "2025-03-23T10:43:00"
+        "last_update": "2025-03-23T11:42:12",
+        "last_announcement": "2025-03-23T11:28:00"
     }
 }
