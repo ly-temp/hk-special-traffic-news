@@ -38,109 +38,6 @@
         "last_update": "2025-03-20T11:43:41",
         "last_announcement": "2025-03-20T09:27:00"
     },
-    "IN-25-01511": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tseung Kwan O Road",
-            "LOCATION_CN": "將軍澳道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tseung Kwan O Tunnel",
-            "DIRECTION_CN": "將軍澳隧道",
-            "NEAR_LANDMARK_EN": "Tsui Ping South Estate",
-            "NEAR_LANDMARK_CN": "翠屏南邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-20T07:57:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "112089",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Tsui Ping South Estate is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tseung Kwan O Road (Tseung Kwan O Tunnel bound) ends at Kwun Tong Bypass near Laguna City. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，將軍澳道(往將軍澳隧道方向)近翠屏南邨的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在將軍澳道(往將軍澳隧道方向)的車龍龍尾已到觀塘繞道近麗港城。 現時上址交通擠塞。"
-            },
-            "2025-03-20T08:16:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "112092",
-                "CONTENT_EN": "The slow lane of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Tsui Ping South Estate which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的將軍澳道(往將軍澳隧道方向)近翠屏南邨的慢線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-03-20T09:47:57",
-        "last_announcement": "2025-03-20T08:16:00"
-    },
-    "IN-25-01514": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Hong Chong Road",
-            "LOCATION_CN": "康莊道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Cross Harbour Tunnel",
-            "DIRECTION_CN": "海底隧道",
-            "NEAR_LANDMARK_EN": "Hong Kong Polytechnic University",
-            "NEAR_LANDMARK_CN": "香港理工大學",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-20T08:20:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "112093",
-                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Cross Harbour Tunnel bound) near Hong Kong Polytechnic University which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的康莊道(往海底隧道方向)近香港理工大學的部份行車線現已解封。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-03-20T09:47:57",
-        "last_announcement": "2025-03-20T08:20:00"
-    },
-    "IN-25-01499": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Leung Wan Street",
-            "LOCATION_CN": "良運街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Tsun Wen Road",
-            "NEAR_LANDMARK_CN": "震寰路",
-            "BETWEEN_LANDMARK_EN": "Leung Tak Street",
-            "BETWEEN_LANDMARK_CN": "良德街",
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-20T07:15:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "112085",
-                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Leung Wan Street between Tsun Wen Road and Leung Tak Street due to watermain burst is now cancelled.",
-                "CONTENT_CN": "較早前因水管爆裂而於良運街介乎震寰路與良德街之間實施的單線雙程行車措施現已取消。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-03-20T09:47:57",
-        "last_announcement": "2025-03-20T07:15:00"
-    },
     "IN-25-01512": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3230,5 +3127,37 @@
         "district": "南區",
         "last_update": "2025-03-22T19:37:47",
         "last_announcement": "2025-03-22T19:27:00"
+    },
+    "IN-25-01602": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Wong Tai Sin MTR Station",
+            "NEAR_LANDMARK_CN": "黃大仙港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-23T10:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112293",
+                "CONTENT_EN": "Lung Cheung Road (Tsuen Wan bound) near Wong Tai Sin MTR Station is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "龍翔道(往荃灣方向)近黃大仙港鐵站的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2025-03-23T10:20:06",
+        "last_announcement": "2025-03-23T10:02:00"
     }
 }
