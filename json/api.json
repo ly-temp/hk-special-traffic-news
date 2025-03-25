@@ -130,38 +130,6 @@
         "last_update": "2025-03-22T17:18:53",
         "last_announcement": "2025-03-22T16:19:00"
     },
-    "IN-25-01596": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sheung Wan",
-            "DIRECTION_CN": "上環",
-            "NEAR_LANDMARK_EN": "Jubilee Street",
-            "NEAR_LANDMARK_CN": "租庇利街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-22T16:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112280",
-                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Sheung Wan bound) near Jubilee Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往上環方向)近租庇利街的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2025-03-22T16:13:25",
-        "last_announcement": "2025-03-22T16:00:00"
-    },
     "IN-25-01598": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
