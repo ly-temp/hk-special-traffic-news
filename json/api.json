@@ -2834,11 +2834,18 @@
                 "ID": "112461",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Man Kam To Road (both bounds) near Kong Nga Po Road are closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，文錦渡路(來回方向)近缸瓦甫路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-26T12:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112465",
+                "CONTENT_EN": "Part of the lanes of Man Kam To Road (both bounds) near Kong Nga Po Road which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的文錦渡路(來回方向)近缸瓦甫路的部份行車線現已解封。"
             }
         },
         "district": "元朗區",
-        "last_update": "2025-03-26T12:33:37",
-        "last_announcement": "2025-03-26T12:04:00"
+        "last_update": "2025-03-26T13:20:15",
+        "last_announcement": "2025-03-26T12:58:00"
     },
     "IN-25-01678": {
         "description": {
@@ -2866,10 +2873,17 @@
                 "ID": "112463",
                 "CONTENT_EN": "Due to fire , all lanes of Wing Lok Street  between Des Voeux Road West and Bonham Strand are closed to all traffic. Motorists are advised to use alternative routes.",
                 "CONTENT_CN": "因火警，永樂街介乎德輔道西與文咸東街之間的全線現已封閉。 駕駛人士請考慮改用其他道路。"
+            },
+            "2025-03-26T12:57:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "112464",
+                "CONTENT_EN": "All lanes of Wing Lok Street  between Des Voeux Road West and Bonham Strand which was closed due to fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因火警而封閉的永樂街介乎德輔道西與文咸東街之間的全線現已解封。"
             }
         },
         "district": "中西區",
-        "last_update": "2025-03-26T12:56:46",
-        "last_announcement": "2025-03-26T12:34:00"
+        "last_update": "2025-03-26T13:20:15",
+        "last_announcement": "2025-03-26T12:57:00"
     }
 }
