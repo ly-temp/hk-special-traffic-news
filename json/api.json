@@ -52,45 +52,6 @@
         "last_update": "2025-03-23T17:37:31",
         "last_announcement": "2025-03-23T13:37:00"
     },
-    "IN-25-01603": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Fu Road",
-            "LOCATION_CN": "龍富路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tuen Mun Town Centre",
-            "DIRECTION_CN": "屯門市中心",
-            "NEAR_LANDMARK_EN": "Lung Fu Road roundabout",
-            "NEAR_LANDMARK_CN": "龍富路迴旋處",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-23T10:43:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112294",
-                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lung Fu Road (Tuen Mun Town Centre bound) near Lung Fu Road roundabout is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，龍富路(往屯門市中心方向)近龍富路迴旋處的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-23T11:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112296",
-                "CONTENT_EN": "The slow lane of Lung Fu Road (Tuen Mun Town Centre bound) near Lung Fu Road roundabout which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的龍富路(往屯門市中心方向)近龍富路迴旋處的慢線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-03-23T11:42:12",
-        "last_announcement": "2025-03-23T11:28:00"
-    },
     "IN-25-01605": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2775,5 +2736,44 @@
         "district": "屯門區",
         "last_update": "2025-03-26T11:34:06",
         "last_announcement": "2025-03-26T11:04:00"
+    },
+    "IN-25-01676": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Connaught Road Central",
+            "LOCATION_CN": "干諾道中",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Central",
+            "DIRECTION_CN": "中環",
+            "NEAR_LANDMARK_EN": "Shun Tak Centre",
+            "NEAR_LANDMARK_CN": "信德中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-26T11:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112458",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Connaught Road Central flyover (Central bound) near Shun Tak Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，干諾道中天橋(往中環方向)近信德中心的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-26T11:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112459",
+                "CONTENT_EN": "The slow lane of Connaught Road Central flyover (Central bound) near Shun Tak Centre which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的干諾道中天橋(往中環方向)近信德中心的慢線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2025-03-26T11:50:47",
+        "last_announcement": "2025-03-26T11:31:00"
     }
 }
