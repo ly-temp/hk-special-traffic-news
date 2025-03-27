@@ -1,89 +1,4 @@
 {
-    "IN-25-01623": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Ngau Tau Kok Road",
-            "LOCATION_CN": "牛頭角道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Ngau Tau Kok MTR Station",
-            "NEAR_LANDMARK_CN": "牛頭角港鐵站",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-24T15:12:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112337",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Ngau Tau Kok Road (both bounds) near Ngau Tau Kok MTR Station is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，牛頭角道(來回方向)近牛頭角港鐵站的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-24T15:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112339",
-                "CONTENT_EN": "Part of the lanes of Ngau Tau Kok Road (both bounds) near Ngau Tau Kok MTR Station which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的牛頭角道(來回方向)近牛頭角港鐵站的部份行車線現已解封。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-03-24T16:32:38",
-        "last_announcement": "2025-03-24T15:49:00"
-    },
-    "IN-25-01624": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Island Road",
-            "LOCATION_CN": "香島道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Deep Water Bay Road",
-            "NEAR_LANDMARK_CN": "深水灣道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-24T15:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112338",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Road (both bounds) near Deep Water Bay Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，香島道(來回方向)近深水灣道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-24T15:57:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112340",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Road (both bounds) near Repulse Bay Road is closed to all traffic. Only remaining lane is available to motorists. Traffic queues on Island Road (both bounds) ends at Wong Chuk Hang Road near Ocean Park Station and Repulse Bay Road near Chung Hom Kok Road. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，香島道(來回方向)近淺水灣道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時在香島道(來回方向)的車龍龍尾已到黃竹坑道近海洋公園站及淺水灣道近舂磡角道。 現時上址交通擠塞。"
-            },
-            "2025-03-24T16:08:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112341",
-                "CONTENT_EN": "Part of the lanes of Island Road (both bounds) near Repulse Bay Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的香島道(來回方向)近淺水灣道的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-03-24T16:32:38",
-        "last_announcement": "2025-03-24T16:08:00"
-    },
     "IN-25-01625": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3253,5 +3168,37 @@
         "district": "黃大仙區",
         "last_update": "2025-03-27T15:41:12",
         "last_announcement": "2025-03-27T15:21:00"
+    },
+    "IN-25-01709": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-27T16:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112545",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Kwun Tong Road underpass (Yau Tong bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，觀塘道下行車道(往油塘方向)的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-03-27T16:37:56",
+        "last_announcement": "2025-03-27T16:10:00"
     }
 }
