@@ -1,43 +1,4 @@
 {
-    "IN-25-01629": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Oil Stain On Road",
-            "INCIDENT_DETAIL_CN": "路面有油漬",
-            "LOCATION_EN": "Tai Lam Tunnel",
-            "LOCATION_CN": "大欖隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-24T17:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112347",
-                "CONTENT_EN": "Due to oil stain on road , the tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists.",
-                "CONTENT_CN": "因路面有油漬，大欖隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2025-03-25T01:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112362",
-                "CONTENT_EN": "The tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) which was closed due to oil stain on road is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因路面有油漬而封閉的大欖隧道(往九龍方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "九龍城區",
-        "last_update": "2025-03-25T01:45:04",
-        "last_announcement": "2025-03-25T01:27:00"
-    },
     "IN-25-01635": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3479,5 +3440,37 @@
         "district": "荃灣區",
         "last_update": "2025-03-28T01:42:37",
         "last_announcement": "2025-03-28T01:30:00"
+    },
+    "IN-25-01724": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Johnston Road",
+            "LOCATION_CN": "莊士敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Causeway Bay",
+            "DIRECTION_CN": "銅鑼灣",
+            "NEAR_LANDMARK_EN": "Thomson Road",
+            "NEAR_LANDMARK_CN": "譚臣道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-28T01:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112591",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Johnston Road (Causeway Bay bound) near Thomson Road is closed to all traffic. Only remaining lane is available to motorists.",
+                "CONTENT_CN": "因水管爆裂，莊士敦道(往銅鑼灣方向)近譚臣道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2025-03-28T01:52:46",
+        "last_announcement": "2025-03-28T01:37:00"
     }
 }
