@@ -798,11 +798,18 @@
                 "ID": "112405",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Luk Keng Road (both bounds) near Nam Chung are closed to all traffic. Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，鹿頸路(來回方向)近南涌的全線現已封閉。 現時上址交通繁忙。"
+            },
+            "2025-03-27T21:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112587",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Luk Keng Road (both bounds) near Nam Chung are still being closed to all traffic. \n\nAffected NT Green Minibus Route No. 56K will make u-turn at Luk Keng Road near Tin Hau Temple. \n\nDuring the road closure period, the Transport Department has coordinated with the operator of NT Green Minibus Route No. 20R to temporarily divert the route via Luk Keng after departing from Wu Kau Tang at 7:15am, 8:15am and 9:15am, then proceed to Tai Po Market Station; and arrange return services from Tai Po Market Station to Luk Keng via Wu Kau Tang at 5:40pm, 6:40pm and 7:40pm to facilitate the commuting of the residents.",
+                "CONTENT_CN": "因水管爆裂，鹿頸路(來回方向)近南涌的全線仍然封閉。\n\n受影響新界專線小巴第56K號線會於鹿頸路近天后宮掉頭。\n\n在道路封閉期間，運輸署已與新界專線小巴第20R號線的營辦商協調，於上午7時15分、8時15分及9時15分，臨時安排該路線由烏蛟騰開出後繞經鹿頸，再前往大埔墟站；並於下午5時40分、6時40分及7時40分提供由大埔墟站經烏蛟騰往鹿頸的回程服務，以便利居民出行。"
             }
         },
         "district": "北區",
-        "last_update": "2025-03-25T18:50:43",
-        "last_announcement": "2025-03-25T18:31:00"
+        "last_update": "2025-03-27T21:32:16",
+        "last_announcement": "2025-03-27T21:09:00"
     },
     "IN-25-01656": {
         "description": {
@@ -2882,11 +2889,18 @@
                 "ID": "112535",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Salisbury Road (Star Ferry Pier bound) near Nathan Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，梳士巴利道(往天星碼頭方向)近彌敦道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-27T15:52:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "112543",
+                "CONTENT_EN": "Part of the lanes of Salisbury Road (Star Ferry Pier bound) near Nathan Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的梳士巴利道(往天星碼頭方向)近彌敦道的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-03-27T14:54:58",
-        "last_announcement": "2025-03-27T14:46:00"
+        "last_update": "2025-03-27T21:32:16",
+        "last_announcement": "2025-03-27T15:52:00"
     },
     "IN-25-01706": {
         "description": {
