@@ -45,45 +45,6 @@
         "last_update": "2025-03-29T01:10:30",
         "last_announcement": "2025-03-29T00:29:00"
     },
-    "IN-25-01661": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Jockey Club Road",
-            "LOCATION_CN": "馬會道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Pak Wo Road",
-            "DIRECTION_CN": "百和路",
-            "NEAR_LANDMARK_EN": "Fanling Highway",
-            "NEAR_LANDMARK_CN": "粉嶺公路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-26T02:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112422",
-                "CONTENT_EN": "Due to traffic accident , the only lane of Jockey Club Road (Pak Wo Road bound) near Fanling Highway is closed to all traffic. Motorists are advised to use alternative routes.",
-                "CONTENT_CN": "因交通意外，馬會道(往百和路方向)近粉嶺公路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
-            },
-            "2025-03-26T06:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112425",
-                "CONTENT_EN": "The only lane of Jockey Club Road (Pak Wo Road bound) near Fanling Highway which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的馬會道(往百和路方向)近粉嶺公路的唯一行車線現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2025-03-26T06:50:49",
-        "last_announcement": "2025-03-26T06:34:00"
-    },
     "IN-25-01662": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
