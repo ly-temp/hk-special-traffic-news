@@ -3841,5 +3841,37 @@
         "district": "屯門區",
         "last_update": "2025-03-28T12:42:06",
         "last_announcement": "2025-03-28T12:25:00"
+    },
+    "IN-25-01742": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High-Speed Rail (Hong Kong Section) Enhances Train Services for Ching Ming Festival",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加強清明節列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-28T12:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112630",
+                "CONTENT_EN": "To meet passenger demand during the Ching Ming Festival period, the High-Speed Rail (Hong Kong Section) will enhance its services by adding sleeper train services on April 2 and 3, including: - An additional pair of sleeper trains between Hong Kong West Kowloon Station and Shanghai Hongqiao Station on both April 2 and April 3. - An additional pair of sleeper trains between Hong Kong West Kowloon Station and Beijingxi Station on April 3. Tickets are available for purchase through the 12306 official website (12306. cn/en/) or mobile app; appointed travel agents (Click here); or at Hong Kong West Kowloon Station. For train schedules, please refer to the 12306 official website (12306. cn/en/) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "高速鐵路(香港段)將於4月2至3日增加臥鋪列車班次，包括： -4月2日及3日各加開一對來往上海虹橋站的臥鋪班次 -4月3日加開一對來往北京西站的臥鋪班次 你可透過12306官方網站(12306.cn)或手機應用程式、指定代理(按此)或前往香港西九龍站購買列車車票。 有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-03-28T13:12:58",
+        "last_announcement": "2025-03-28T12:42:00"
     }
 }
