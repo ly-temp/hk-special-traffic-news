@@ -38,38 +38,6 @@
         "last_update": "2025-03-25T16:39:55",
         "last_announcement": "2025-03-25T14:50:00"
     },
-    "IN-25-01644": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle On Fire",
-            "INCIDENT_DETAIL_CN": "車輛着火",
-            "LOCATION_EN": "Yuen Shin Road",
-            "LOCATION_CN": "完善路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "Tai Po Tai Wo Road",
-            "NEAR_LANDMARK_CN": "大埔太和路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-25T14:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112384",
-                "CONTENT_EN": "Due to vehicle on fire , all lanes of Yuen Shin Road (Kowloon bound) near Tai Po Tai Wo Road are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛着火，完善路(往九龍方向)近大埔太和路的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2025-03-25T15:18:12",
-        "last_announcement": "2025-03-25T14:57:00"
-    },
     "IN-25-01645": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
