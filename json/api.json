@@ -3170,5 +3170,37 @@
         "district": "屯門區",
         "last_update": "2025-03-29T12:11:39",
         "last_announcement": "2025-03-29T11:50:00"
+    },
+    "IN-25-01757": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Nan Street",
+            "LOCATION_CN": "大南街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Kweilin Street",
+            "NEAR_LANDMARK_CN": "桂林街",
+            "BETWEEN_LANDMARK_EN": "Yen Chow Street",
+            "BETWEEN_LANDMARK_CN": "欽州街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-29T12:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112668",
+                "CONTENT_EN": "Due to traffic accident , the only lane of Tai Nan Street between Kweilin Street and Yen Chow Street is closed to all traffic. \nAt the same time, vehicles cannot turn from Kweilin Street to Tai Nan Street.   Motorists are advised to use alternative routes.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大南街介乎桂林街與欽州街之間的唯一行車線現已封閉。\n同時，車輛不能由桂林街轉入大南街。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-03-29T12:49:47",
+        "last_announcement": "2025-03-29T12:42:00"
     }
 }
