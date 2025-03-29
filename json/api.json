@@ -140,45 +140,6 @@
         "last_update": "2025-03-26T20:50:56",
         "last_announcement": "2025-03-26T20:10:00"
     },
-    "IN-25-01689": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Shing Mun Tunnels",
-            "LOCATION_CN": "城門隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Sha Tin",
-            "DIRECTION_CN": "沙田",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-26T18:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112494",
-                "CONTENT_EN": "Due to traffic accident , the tunnel tube fast lane of Shing Mun Tunnels (Sha Tin bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，城門隧道(往沙田方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-26T18:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112499",
-                "CONTENT_EN": "The tunnel tube fast lane of Shing Mun Tunnels (Sha Tin bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的城門隧道(往沙田方向)的管道快線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-03-26T19:14:09",
-        "last_announcement": "2025-03-26T18:54:00"
-    },
     "IN-25-01690": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3105,11 +3066,18 @@
                 "ID": "112691",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Choi Shek Lane is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近彩石里的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-29T18:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112694",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Yau Tong bound) near Choi Shek Lane is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Kwun Tong Road (Yau Tong bound) ends at Lung Cheung Road near Diamond Hill MTR Station. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往油塘方向)近彩石里的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在觀塘道(往油塘方向)的車龍龍尾已到龍翔道近鑽石山港鐵站。 現時上址交通擠塞。"
             }
         },
         "district": "觀塘區",
-        "last_update": "2025-03-29T18:33:45",
-        "last_announcement": "2025-03-29T18:23:00"
+        "last_update": "2025-03-29T19:14:30",
+        "last_announcement": "2025-03-29T18:48:00"
     },
     "IN-25-01769": {
         "description": {
@@ -3137,11 +3105,18 @@
                 "ID": "112692",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of A Kung Ngam Village Road and Tung Hei Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，阿公岩村道和東喜道交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            },
+            "2025-03-29T18:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112695",
+                "CONTENT_EN": "Part of the lanes of the junction of A Kung Ngam Village Road  and Tung Hei Road  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的阿公岩村道和東喜道 交界的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2025-03-29T18:45:18",
-        "last_announcement": "2025-03-29T18:32:00"
+        "last_update": "2025-03-29T19:14:30",
+        "last_announcement": "2025-03-29T18:59:00"
     },
     "IN-25-01766": {
         "description": {
