@@ -39,11 +39,18 @@
                 "ID": "112657",
                 "CONTENT_EN": "Please broadcast the following message as soon as possible (The 2-4 paragraphs may be used by telephone / paging companies) :  Due to watermain burst , part of the lanes of Luk Keng Road (both bounds) near Nam Chung is still being closed. Only remaining lane is available to motorists. NT Green Minibus Route No. 56K resumes normal operation.   Please note that coaches and goods vehicles currently still cannot pass through the above-mentioned road section.",
                 "CONTENT_CN": "請盡早播放以下消息(電訊公司可播放第2-4段訊息):  因水管爆裂，鹿頸路(來回方向)近南涌的部份行車線仍然封閉。駕駛人士只可使用餘下行車線行車。新界專線小巴第56K號線恢復正常運作。  請注意，目前巴士及貨車仍未能通過上述路段。"
+            },
+            "2025-03-29T08:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112659",
+                "CONTENT_EN": "Part of the lanes of Luk Keng Road (both bounds) near Nam Chung which was closed due to watermain burst is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管爆裂而封閉的鹿頸路(來回方向)近南涌的部份行車線現已解封。"
             }
         },
         "district": "北區",
-        "last_update": "2025-03-29T01:10:30",
-        "last_announcement": "2025-03-29T00:29:00"
+        "last_update": "2025-03-29T08:42:01",
+        "last_announcement": "2025-03-29T08:04:00"
     },
     "IN-25-01662": {
         "description": {
@@ -90,45 +97,6 @@
         "district": "北區",
         "last_update": "2025-03-26T15:23:50",
         "last_announcement": "2025-03-26T15:07:00"
-    },
-    "IN-25-01664": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-26T07:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112428",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-26T07:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112432",
-                "CONTENT_EN": "Part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往機場方向) 的部份行車線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-03-26T07:58:49",
-        "last_announcement": "2025-03-26T07:51:00"
     },
     "IN-25-01665": {
         "description": {
@@ -3539,5 +3507,44 @@
         "district": "觀塘區",
         "last_update": "2025-03-28T22:22:20",
         "last_announcement": "2025-03-28T22:12:00"
+    },
+    "IN-25-01753": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin Heights",
+            "LOCATION_CN": "大埔公路　–　沙田嶺段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Sha Tin Heights",
+            "NEAR_LANDMARK_CN": "沙田花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-29T08:01:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112658",
+                "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Tai Po Road - Sha Tin Heights near Sha Tin Heights. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大埔公路　–　沙田嶺段近沙田花園現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2025-03-29T08:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112660",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Tai Po Road - Sha Tin Heights near Sha Tin Heights due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於大埔公路　–　沙田嶺段近沙田花園實施的單線雙程行車措施現已取消。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-03-29T08:42:01",
+        "last_announcement": "2025-03-29T08:25:00"
     }
 }
