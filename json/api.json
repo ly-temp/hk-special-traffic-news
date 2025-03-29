@@ -3098,10 +3098,49 @@
                 "ID": "112688",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Airport bound) near Princess Margaret Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青葵公路(往機場方向)近瑪嘉烈醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-29T17:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112689",
+                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Airport bound) near Princess Margaret Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往機場方向)近瑪嘉烈醫院的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2025-03-29T17:51:23",
-        "last_announcement": "2025-03-29T17:43:00"
+        "last_update": "2025-03-29T18:08:57",
+        "last_announcement": "2025-03-29T17:47:00"
+    },
+    "IN-25-01765": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Kwu Tung",
+            "NEAR_LANDMARK_CN": "古洞",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-29T17:47:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112690",
+                "CONTENT_EN": "The fast lane of Fanling Highway (Yuen Long bound) near Kwu Tung which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往元朗方向)近古洞的快線現已解封。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2025-03-29T18:08:57",
+        "last_announcement": "2025-03-29T17:47:00"
     }
 }
