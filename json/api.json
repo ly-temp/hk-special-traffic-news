@@ -98,38 +98,6 @@
         "last_update": "2025-03-26T15:23:50",
         "last_announcement": "2025-03-26T15:07:00"
     },
-    "IN-25-01675": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Tram Incident",
-            "INCIDENT_HEADING_CN": "電車事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tram service disruption",
-            "LOCATION_CN": "電車服務受阻",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-26T11:54:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112460",
-                "CONTENT_EN": "The westbound tram service between Java Road and North Point Terminus which was suspended due to traffic accident has been resumed.",
-                "CONTENT_CN": "較早前因交通意外而暫停的介乎渣華道及北角總站之間的西行線電車服務現已恢復正常。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-03-26T12:10:45",
-        "last_announcement": "2025-03-26T11:54:00"
-    },
     "IN-25-01677": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3112,11 +3080,18 @@
                 "ID": "112662",
                 "CONTENT_EN": "Due to road surface cleansing, the slow lane of Lin Cheung Road (Kwai Chung bound) between Hing Wah Street West and Mei Ching Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因路⾯清潔，連翔道(往葵涌方向)介乎興華街西與美青路之間的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-29T11:57:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "112666",
+                "CONTENT_EN": "The slow lane of Lin Cheung Road (Kwai Chung bound) between Hing Wah Street West and Mei Ching Road which was closed due to road surface cleansing is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因路⾯清潔而封閉的連翔道(往葵涌方向)介乎興華街西與美青路之間的慢線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2025-03-29T11:05:52",
-        "last_announcement": "2025-03-29T10:24:00"
+        "last_update": "2025-03-29T12:11:39",
+        "last_announcement": "2025-03-29T11:57:00"
     },
     "IN-25-01755": {
         "description": {
@@ -3149,5 +3124,44 @@
         "district": "沙田區",
         "last_update": "2025-03-29T11:05:52",
         "last_announcement": "2025-03-29T10:52:00"
+    },
+    "IN-25-01756": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
+            "LOCATION_CN": "青嶼幹線(青馬大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-29T11:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112664",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往九龍方向) 的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-03-29T11:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112665",
+                "CONTENT_EN": "Part of the lanes of Lantau Link (Tsing Ma Bridge) (Kowloon bound) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往九龍方向) 的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-03-29T12:11:39",
+        "last_announcement": "2025-03-29T11:50:00"
     }
 }
