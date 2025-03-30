@@ -2136,5 +2136,37 @@
         "district": null,
         "last_update": "2025-03-30T19:45:39",
         "last_announcement": "2025-03-30T19:26:00"
+    },
+    "IN-25-01778": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Tsat Tsz Mui Road",
+            "LOCATION_CN": "七姊妹道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Kam Hong Street",
+            "NEAR_LANDMARK_CN": "琴行街",
+            "BETWEEN_LANDMARK_EN": "Shu Kuk Street",
+            "BETWEEN_LANDMARK_CN": "書局街",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-31T06:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112715",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Tsat Tsz Mui Road  between Kam Hong Street and Shu Kuk Street are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，七姊妹道介乎琴行街與書局街之間的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2025-03-31T06:31:13",
+        "last_announcement": "2025-03-31T06:10:00"
     }
 }
