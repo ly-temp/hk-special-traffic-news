@@ -2001,5 +2001,37 @@
         "district": "西貢區",
         "last_update": "2025-03-31T18:20:53",
         "last_announcement": "2025-03-31T17:54:00"
+    },
+    "IN-25-01794": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Ma On Shan Road",
+            "LOCATION_CN": "馬鞍山路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wu Kai Sha",
+            "DIRECTION_CN": "烏溪沙",
+            "NEAR_LANDMARK_EN": "Kam Tai Court",
+            "NEAR_LANDMARK_CN": "錦泰苑",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-03-31T18:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112752",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Ma On Shan Road (Wu Kai Sha bound) near Kam Tai Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，馬鞍山路(往烏溪沙方向)近錦泰苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-03-31T18:41:01",
+        "last_announcement": "2025-03-31T18:26:00"
     }
 }
