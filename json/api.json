@@ -1883,11 +1883,18 @@
                 "ID": "112764",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-04-01T06:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112768",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-03-31T23:24:54",
-        "last_announcement": "2025-03-31T23:00:00"
+        "last_update": "2025-04-01T06:25:23",
+        "last_announcement": "2025-04-01T06:07:00"
     },
     "IN-25-01800": {
         "description": {
@@ -1915,10 +1922,17 @@
                 "ID": "112766",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Hong Chong Road (Ho Man Tin bound) near Chatham Road North is closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，康莊道(往何文田方向)近漆咸道北的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-04-01T06:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112767",
+                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Ho Man Tin bound) near Chatham Road North which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的康莊道(往何文田方向)近漆咸道北的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-03-31T23:39:58",
-        "last_announcement": "2025-03-31T23:00:00"
+        "last_update": "2025-04-01T06:25:23",
+        "last_announcement": "2025-04-01T06:07:00"
     }
 }
