@@ -38,77 +38,6 @@
         "last_update": "2025-03-29T18:33:45",
         "last_announcement": "2025-03-29T17:42:00"
     },
-    "IN-25-01767": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Tsing Kwai Highway",
-            "LOCATION_CN": "青葵公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": "Princess Margaret Hospital",
-            "NEAR_LANDMARK_CN": "瑪嘉烈醫院",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-29T17:43:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112688",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Kwai Highway (Airport bound) near Princess Margaret Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青葵公路(往機場方向)近瑪嘉烈醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-29T17:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112689",
-                "CONTENT_EN": "Part of the lanes of Tsing Kwai Highway (Airport bound) near Princess Margaret Hospital which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青葵公路(往機場方向)近瑪嘉烈醫院的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2025-03-29T18:08:57",
-        "last_announcement": "2025-03-29T17:47:00"
-    },
-    "IN-25-01765": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Kwu Tung",
-            "NEAR_LANDMARK_CN": "古洞",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-29T17:47:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112690",
-                "CONTENT_EN": "The fast lane of Fanling Highway (Yuen Long bound) near Kwu Tung which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往元朗方向)近古洞的快線現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2025-03-29T18:08:57",
-        "last_announcement": "2025-03-29T17:47:00"
-    },
     "IN-25-01768": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2060,10 +1989,17 @@
                 "ID": "112808",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Sha Highway (Tai Po bound) near To Fung Shan Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tsing Sha Highway (Tai Po bound) ends at Eagle's Nest Tunnel (Tai Po bound) near the tunnel entrance.   Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，青沙公路(往大埔方向)近道風山路的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在青沙公路(往大埔方向)的車龍龍尾已到尖山隧道(往大埔方向)近隧道入口。  現時上址交通擠塞。"
+            },
+            "2025-04-01T17:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112809",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Sha Highway (Tai Po bound) near To Fung Shan Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic queue on Tsing Sha Highway (Tai Po bound) ends at Tsing Sha Highway (Tai Po bound) near Butterfly Valley Road.   Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，青沙公路(往大埔方向)近道風山路的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  現時在青沙公路(往大埔方向)的車龍龍尾已到青沙公路(往⼤埔⽅向)近蝴蝶谷道。  現時上址交通擠塞。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-04-01T17:54:39",
-        "last_announcement": "2025-04-01T17:39:00"
+        "last_update": "2025-04-01T18:18:20",
+        "last_announcement": "2025-04-01T17:52:00"
     }
 }
