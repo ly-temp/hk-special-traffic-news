@@ -59,45 +59,6 @@
         "last_update": "2025-03-29T15:38:35",
         "last_announcement": "2025-03-29T15:07:00"
     },
-    "IN-25-01760": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-29T13:56:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112674",
-                "CONTENT_EN": "Due to vehicle breakdown , the only lane of the slip road leading from Lung Cheung Road  to Lung Yuet Road  is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，由龍翔道通往龍悅道 的支路的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-03-29T15:13:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112679",
-                "CONTENT_EN": "The only lane of the slip road leading from Lung Cheung Road  to Lung Yuet Road  which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的由龍翔道通往龍悅道 的支路的 唯一行車線現已解封。"
-            }
-        },
-        "district": "黃大仙區",
-        "last_update": "2025-03-29T15:28:12",
-        "last_announcement": "2025-03-29T15:13:00"
-    },
     "IN-25-01762": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1936,11 +1897,18 @@
                 "ID": "112795",
                 "CONTENT_EN": "Due to road works, the slow lane of Sha Tin Road (Tai Po bound) near Pok Hong Estate is still being closed to all traffic. Only remaining lanes is available to motorists. Traffic queue on Sha Tin Road (Tai Po bound) ends at Lion Rock Tunnel Road near Hung Mui Kuk Road. Traffic is congested now.",
                 "CONTENT_CN": "因道路工程，沙田路(往大埔方向)近博康邨的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在沙田路(往大埔方向)的車龍龍尾已到獅子山隧道公路近紅梅谷路。 現時上址交通擠塞。"
+            },
+            "2025-04-01T15:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112796",
+                "CONTENT_EN": "The slow lane of Sha Tin Road (Tai Po bound) near Pok Hong Estate which was closed due to road works is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因道路工程而封閉的沙田路(往大埔方向)近博康邨的慢線現已解封。 車龍有待消散。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-04-01T15:00:02",
-        "last_announcement": "2025-04-01T14:45:00"
+        "last_update": "2025-04-01T15:38:32",
+        "last_announcement": "2025-04-01T15:20:00"
     },
     "IN-25-01809": {
         "description": {
