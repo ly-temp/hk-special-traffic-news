@@ -337,11 +337,18 @@
                 "ID": "112716",
                 "CONTENT_EN": "Due to watermain burst , all lanes of Tsat Tsz Mui Road between Kam Hong Street and Shu Kuk Street are still being closed to all traffic.   Affected CTB routes nos. 82, 85 have been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   Motorists are advised to use alternative routes.   Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，七姊妹道介乎琴行街與書局街之間的全線仍然封閉。  受影響城巴第82及85號線須改道行駛。有關個別巴士路線的最新服務情況，市⺠可參閱巴⼠公司的網⾴或流動應⽤程式內的資訊。  駕駛人士請考慮改用其他道路。  現時上址交通繁忙。"
+            },
+            "2025-04-02T06:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112840",
+                "CONTENT_EN": "All lanes of Tsat Tsz Mui Road  between Kam Hong Street and Shu Kuk Street which was closed due to watermain burst is re-opened to all traffic. Affected bus routes gradually resume their original routeings.",
+                "CONTENT_CN": "較早前因水管爆裂而封閉的七姊妹道介乎琴行街與書局街之間的全線現已解封。 受影響巴士路線陸續恢復原有路線行駛。"
             }
         },
         "district": "東區",
-        "last_update": "2025-03-31T06:52:34",
-        "last_announcement": "2025-03-31T06:37:00"
+        "last_update": "2025-04-02T06:31:09",
+        "last_announcement": "2025-04-02T06:06:00"
     },
     "IN-25-01779": {
         "description": {
@@ -2102,11 +2109,18 @@
                 "ID": "112834",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Hong Chong Road (Ho Man Tin bound) near Chatham Road North is closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，康莊道(往何文田方向)近漆咸道北的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-04-02T06:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112837",
+                "CONTENT_EN": "Part of the lanes of Hong Chong Road (Ho Man Tin bound) near Chatham Road North which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的康莊道(往何文田方向)近漆咸道北的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-04-01T23:42:31",
-        "last_announcement": "2025-04-01T23:19:00"
+        "last_update": "2025-04-02T06:31:09",
+        "last_announcement": "2025-04-02T06:05:00"
     },
     "IN-25-01642": {
         "description": {
@@ -2166,10 +2180,17 @@
                 "ID": "112836",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Tsing Sha Highway (Sha Tin bound) between Sham Mong Road and Kowloon Portal of Eagle's Nest Tunnel is closed to all traffic. Only remaining lanes is available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，青沙公路(往沙田方向)介乎深旺道與尖山隧道九龍入口之間的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-04-02T06:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112838",
+                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Sha Tin bound) between Sham Mong Road and Kowloon Portal of Eagle's Nest Tunnel which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的青沙公路(往沙田方向)介乎深旺道與尖山隧道九龍入口之間的部份行車線現已解封。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2025-04-02T00:41:04",
-        "last_announcement": "2025-04-02T00:07:00"
+        "last_update": "2025-04-02T06:31:09",
+        "last_announcement": "2025-04-02T06:05:00"
     }
 }
