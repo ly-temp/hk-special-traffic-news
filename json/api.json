@@ -1,43 +1,4 @@
 {
-    "IN-25-01775": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwun Tong Road",
-            "LOCATION_CN": "觀塘道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Lam Tin",
-            "DIRECTION_CN": "藍田",
-            "NEAR_LANDMARK_EN": "Tung Yan Street",
-            "NEAR_LANDMARK_CN": "同仁街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-30T15:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112709",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwun Tong Road (Lam Tin bound) near Tung Yan Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，觀塘道(往藍田方向)近同仁街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-30T16:42:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112711",
-                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Lam Tin bound) near Tung Yan Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的觀塘道(往藍田方向)近同仁街的部份行車線現已解封。"
-            }
-        },
-        "district": "大埔區",
-        "last_update": "2025-03-30T17:12:30",
-        "last_announcement": "2025-03-30T16:42:00"
-    },
     "IN-25-01776": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2389,11 +2350,18 @@
                 "ID": "112864",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of East Kowloon Corridor (Yau Ma Tei bound) near San Lau Street is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on East Kowloon Corridor (Yau Ma Tei bound) ends at East Kowloon Corridor near Kai Tak Tunnel. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，東九龍走廊(往油麻地方向)近新柳街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在東九龍走廊(往油麻地方向)的車龍龍尾已到東九龍走廊近啟德隧道。 現時上址交通擠塞。"
+            },
+            "2025-04-02T16:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112866",
+                "CONTENT_EN": "Part of the lanes of East Kowloon Corridor (Yau Ma Tei bound) near San Lau Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東九龍走廊(往油麻地方向)近新柳街的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-04-02T16:54:22",
-        "last_announcement": "2025-04-02T16:35:00"
+        "last_update": "2025-04-02T17:17:15",
+        "last_announcement": "2025-04-02T16:58:00"
     },
     "IN-25-01835": {
         "description": {
@@ -2421,10 +2389,17 @@
                 "ID": "112865",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Waterloo Road (Kowloon Tong bound) near Kwong Wah Hospital is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，窩打老道(往九龍塘方向)近廣華醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-02T17:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112867",
+                "CONTENT_EN": "Part of the lanes of Waterloo Road (Kowloon Tong bound) near Kwong Wah Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的窩打老道(往九龍塘方向)近廣華醫院的部份行車線現已解封。"
             }
         },
         "district": "油尖旺區",
-        "last_update": "2025-04-02T16:54:22",
-        "last_announcement": "2025-04-02T16:43:00"
+        "last_update": "2025-04-02T17:17:15",
+        "last_announcement": "2025-04-02T17:07:00"
     }
 }
