@@ -1326,11 +1326,18 @@
                 "ID": "112812",
                 "CONTENT_EN": "Due to watermain emergency works , the middle lane of Ma On Shan Road (Wu Kai Sha bound) near Kam Tai Court is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ma On Shan Road (Wu Kai Sha bound) ends at Tate's Cairn Highway near Shek Mun Interchange. Traffic is congested now.",
                 "CONTENT_CN": "因水管緊急維修，馬鞍山路(往烏溪沙方向)近錦泰苑的中線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在馬鞍山路(往烏溪沙方向)的車龍龍尾已到大老山公路近石門交匯處。 現時上址交通擠塞。"
+            },
+            "2025-04-03T06:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112893",
+                "CONTENT_EN": "The middle lane of Ma On Shan Road (Wu Kai Sha bound) near Kam Tai Court which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的馬鞍山路(往烏溪沙方向)近錦泰苑的中線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-04-01T18:40:40",
-        "last_announcement": "2025-04-01T18:27:00"
+        "last_update": "2025-04-03T06:17:35",
+        "last_announcement": "2025-04-03T06:06:00"
     },
     "IN-25-01812": {
         "description": {
@@ -2715,11 +2722,18 @@
                 "ID": "112887",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-04-03T06:06:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "112892",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-04-03T00:33:39",
-        "last_announcement": "2025-04-03T00:09:00"
+        "last_update": "2025-04-03T06:17:35",
+        "last_announcement": "2025-04-03T06:06:00"
     },
     "IN-25-01846": {
         "description": {
