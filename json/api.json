@@ -1,43 +1,4 @@
 {
-    "IN-25-01772": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Western Harbour Crossing",
-            "LOCATION_CN": "西區海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-30T09:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112703",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of the slip road leading from Western Harbour Crossing  to Connaught Road West flyover (Central bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，由西區海底隧道通往干諾道西天橋(往中環方向) 的支路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-30T09:18:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112704",
-                "CONTENT_EN": "Part of the lanes of the slip road leading from Western Harbour Crossing  to Connaught Road West flyover (Central bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的由西區海底隧道通往干諾道西天橋(往中環方向) 的支路的 部份行車線現已解封。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-03-30T10:23:32",
-        "last_announcement": "2025-03-30T09:18:00"
-    },
     "IN-25-01773": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1974,11 +1935,18 @@
                 "ID": "112829",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Tsing Sha Highway (Kowloon bound) near Container Terminal 8 is closed to all traffic. Only remaining lanes are available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，青沙公路(往九龍方向)近8號貨櫃碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-04-02T09:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112849",
+                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Kowloon bound) near Container Terminal 8 which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的青沙公路(往九龍方向)近8號貨櫃碼頭的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2025-04-01T20:47:12",
-        "last_announcement": "2025-04-01T20:17:00"
+        "last_update": "2025-04-02T10:35:18",
+        "last_announcement": "2025-04-02T09:12:00"
     },
     "IN-25-01821": {
         "description": {
@@ -2180,11 +2148,18 @@
                 "ID": "112843",
                 "CONTENT_EN": "Tolo Highway (Kowloon bound) is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
                 "CONTENT_CN": "吐露港公路(往九龍方向)的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2025-04-02T08:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112847",
+                "CONTENT_EN": "Traffic at Tolo Highway (Kowloon bound) has resumed normal.",
+                "CONTENT_CN": "吐露港公路(往九龍方向)的交通現已恢復正常。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-04-02T08:57:59",
-        "last_announcement": "2025-04-02T08:22:00"
+        "last_update": "2025-04-02T10:35:18",
+        "last_announcement": "2025-04-02T08:51:00"
     },
     "IN-25-01826": {
         "description": {
@@ -2224,5 +2199,115 @@
         "district": "屯門區",
         "last_update": "2025-04-02T08:57:59",
         "last_announcement": "2025-04-02T08:34:00"
+    },
+    "IN-25-01827": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
+            "LOCATION_CN": "青嶼幹線(青馬大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-02T09:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112848",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-02T09:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112850",
+                "CONTENT_EN": "The slow lane of Lantau Link (Tsing Ma Bridge) (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的青嶼幹線(青馬大橋)(往九龍方向) 的慢線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-04-02T10:35:18",
+        "last_announcement": "2025-04-02T09:32:00"
+    },
+    "IN-25-01829": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
+            "LOCATION_CN": "青嶼幹線(青馬大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-02T09:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112852",
+                "CONTENT_EN": "Due to traffic accident , the middle lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-02T10:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112854",
+                "CONTENT_EN": "Due to traffic accident , the middle lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Lantau Link (Tsing Ma Bridge) (Airport bound) ends at Tsing Sha Highway near Tsing Yi Road West. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的中線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在青嶼幹線(青馬大橋)(往機場方向)的車龍龍尾已到青沙公路近青衣西路。 現時上址交通擠塞。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-04-02T10:35:18",
+        "last_announcement": "2025-04-02T10:10:00"
+    },
+    "IN-25-01828": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Pat Heung Road",
+            "LOCATION_CN": "八鄉路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Lam Tunnel",
+            "DIRECTION_CN": "大欖隧道",
+            "NEAR_LANDMARK_EN": "Tai Lam Tunnel Bus-Bus Interchange",
+            "NEAR_LANDMARK_CN": "大欖隧道巴士轉乘站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-02T10:07:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "112853",
+                "CONTENT_EN": "The only lane of Pat Heung Road (Tai Lam Tunnel bound) near Tai Lam Tunnel Bus-Bus Interchange which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的八鄉路(往大欖隧道方向)近大欖隧道巴士轉乘站的唯一行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-04-02T10:35:18",
+        "last_announcement": "2025-04-02T10:07:00"
     }
 }
