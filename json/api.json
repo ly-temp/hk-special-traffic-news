@@ -45,59 +45,6 @@
         "last_update": "2025-04-02T06:31:09",
         "last_announcement": "2025-04-02T06:06:00"
     },
-    "IN-25-01794": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain Burst",
-            "INCIDENT_DETAIL_CN": "水管爆裂",
-            "LOCATION_EN": "Ma On Shan Road",
-            "LOCATION_CN": "馬鞍山路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wu Kai Sha",
-            "DIRECTION_CN": "烏溪沙",
-            "NEAR_LANDMARK_EN": "Kam Tai Court",
-            "NEAR_LANDMARK_CN": "錦泰苑",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-31T18:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112752",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Ma On Shan Road (Wu Kai Sha bound) near Kam Tai Court is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，馬鞍山路(往烏溪沙方向)近錦泰苑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-31T18:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112756",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Ma On Shan Road (Wu Kai Sha bound) near Kam Tai Court is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ma On Shan Road (Wu Kai Sha bound) ends at Tate's Cairn Highway near Shek Mun Interchange. Traffic is congested now.",
-                "CONTENT_CN": "因水管爆裂，馬鞍山路(往烏溪沙方向)近錦泰苑的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在馬鞍山路(往烏溪沙方向)的車龍龍尾已到大老山公路近石門交匯處。 現時上址交通擠塞。"
-            },
-            "2025-03-31T20:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112765",
-                "CONTENT_EN": "Due to watermain burst , part of the lanes of Ma On Shan Road (Wu Kai Sha bound) near Kam Tai Court is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因水管爆裂，馬鞍山路(往烏溪沙方向)近錦泰苑的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-04-01T06:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112769",
-                "CONTENT_EN": "Part of the lanes of Ma On Shan Road (Wu Kai Sha bound) near Kam Tai Court which was closed due to watermain burst is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管爆裂而封閉的馬鞍山路(往烏溪沙方向)近錦泰苑的部份行車線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2025-04-01T06:40:43",
-        "last_announcement": "2025-04-01T06:19:00"
-    },
     "IN-25-01801": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2913,5 +2860,37 @@
         "district": "荃灣區",
         "last_update": "2025-04-04T06:39:24",
         "last_announcement": "2025-04-04T06:17:00"
+    },
+    "IN-25-01872": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Airport",
+            "INCIDENT_DETAIL_CN": "機場",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-04T06:33:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112949",
+                "CONTENT_EN": "Due to heavy traffic at the road section leading from Airport Road to Hong Kong International Airport’s Terminal 1 Departures Kerb, motorists are advised to use the drop-off area at the Airport’s Car Park 1. Members of the public heading to the Airport are advised to allow sufficient time for their journey and consider taking the Airport Express and buses.",
+                "CONTENT_CN": "現時機場路通往香港國際機場一號客運大樓離港層落客區的路段交通繁忙，駕駛人士請考慮改用機場一號停車場落客區。前往機場的市民，請預留足夠交通時間，並考慮乘搭機場快綫或巴士。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-04-04T06:49:33",
+        "last_announcement": "2025-04-04T06:33:00"
     }
 }
