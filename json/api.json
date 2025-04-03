@@ -45,84 +45,6 @@
         "last_update": "2025-04-02T06:31:09",
         "last_announcement": "2025-04-02T06:06:00"
     },
-    "IN-25-01788": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "road inspection work",
-            "INCIDENT_DETAIL_CN": "道路檢查",
-            "LOCATION_EN": "Cheung Tsing Tunnel",
-            "LOCATION_CN": "長青隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-31T12:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112740",
-                "CONTENT_EN": "Due to road inspection work, the tunnel tube slow lane of Cheung Tsing Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因道路檢查，長青隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-31T16:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112747",
-                "CONTENT_EN": "The tunnel tube slow lane of Cheung Tsing Tunnel (Kowloon bound) which was closed due to road inspection work is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因道路檢查而封閉的長青隧道(往九龍方向)的管道慢線現已解封。"
-            }
-        },
-        "district": "沙田區",
-        "last_update": "2025-03-31T16:40:51",
-        "last_announcement": "2025-03-31T16:30:00"
-    },
-    "IN-25-01791": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Pok Fu Lam Road",
-            "LOCATION_CN": "薄扶林道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Central",
-            "DIRECTION_CN": "中環",
-            "NEAR_LANDMARK_EN": "Pokfield Road",
-            "NEAR_LANDMARK_CN": "蒲飛路",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-03-31T15:54:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112745",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Pok Fu Lam Road (Central bound) near Pokfield Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，薄扶林道(往中環方向)近蒲飛路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-03-31T16:03:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112746",
-                "CONTENT_EN": "Part of the lanes of Pok Fu Lam Road (Central bound) near Pokfield Road which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的薄扶林道(往中環方向)近蒲飛路的部份行車線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2025-03-31T16:40:51",
-        "last_announcement": "2025-03-31T16:03:00"
-    },
     "IN-25-01792": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2759,10 +2681,17 @@
                 "ID": "112919",
                 "CONTENT_EN": "Due to traffic accident , the fast lane of Ching Cheung Road (Tsuen Wan bound) near Butterfly Valley Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Lung Cheung Road Lookout. Traffic is congested now.",
                 "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近蝴蝶谷道的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往荃灣方向)的車龍龍尾已到龍翔道近龍翔道眺望處。 現時上址交通擠塞。"
+            },
+            "2025-04-03T16:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112920",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Ching Cheung Road (Tsuen Wan bound) near Butterfly Valley Road is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Ching Cheung Road (Tsuen Wan bound) ends at Lung Cheung Road near Chuk Yuen Road. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，呈祥道(往荃灣方向)近蝴蝶谷道的快線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在呈祥道(往荃灣方向)的車龍龍尾已到龍翔道近竹園道。 現時上址交通擠塞。"
             }
         },
         "district": "深水埗區",
-        "last_update": "2025-04-03T16:29:02",
-        "last_announcement": "2025-04-03T16:13:00"
+        "last_update": "2025-04-03T16:47:31",
+        "last_announcement": "2025-04-03T16:31:00"
     }
 }
