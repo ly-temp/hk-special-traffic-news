@@ -45,194 +45,6 @@
         "last_update": "2025-04-02T06:31:09",
         "last_announcement": "2025-04-02T06:06:00"
     },
-    "IN-25-01802": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Choi Yuen Estate",
-            "NEAR_LANDMARK_CN": "彩園邨",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-01T08:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112773",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fanling Highway (Yuen Long bound) near Choi Yuen Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，粉嶺公路(往元朗方向)近彩園邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-04-01T08:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112775",
-                "CONTENT_EN": "Part of the lanes of Fanling Highway (Yuen Long bound) near Choi Yuen Estate which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的粉嶺公路(往元朗方向)近彩園邨的部份行車線現已解封。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2025-04-01T10:10:10",
-        "last_announcement": "2025-04-01T08:17:00"
-    },
-    "IN-25-01803": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) Train Service Adjustments",
-            "INCIDENT_DETAIL_CN": "高速鐵路（香港段）列車服務調整",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-01T08:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112774",
-                "CONTENT_EN": "High Speed Rail (Hong Kong Section) Train Service Adjustments Starting from April 10, 2025, the High-Speed Rail (Hong Kong Section) will introduce the following adjustments: ● from Guangzhounan Station to Hong Kong West Kowloon Station - Train G6525: will stop at Qingsheng Station and will not stop at Humen Station; departure time from Guangzhounan Station will change to 13:54 ● from Shanwei Station to Hong Kong West Kowloon Station - Train G6531: departure time from Shanwei Station will change to 07:14 ● from Hong Kong West Kowloon Station to Guangzhounan Station - Train G6536: will stop at Qingsheng Station - Train G6588: will stop at Qingsheng Station and will not stop at Humen Station The arrival times for certain stations of the above trains have been slightly adjusted, please (click here) to view the new train schedule. Tickets are available for purchase through the 12306 official website (12306. cn/en/) or mobile app; appointed travel agents (Click here); or at Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "高速鐵路（香港段）列車服務調整 由2025年4月10日起，高速鐵路（香港段）將作出以下調整： ●由廣州南站前往香港西九龍站 -車次G6525:新增停靠慶盛站，不停虎門站；改為13:54於廣州南開出 ●由汕尾站前往香港西九龍站 -車次G6531:改為07:14於汕尾開出 ●由香港西九龍站前往廣州南站 -車次G6536:新增停靠慶盛站 -車次G6588:新增停靠慶盛站，不停虎門站 上述車次個別站點到達時間略有調整，請(按此) 瀏覽新行車時間表。 你可透過12306官方網站(12306.cn)或手機應用程式、指定代理(按此)或前往香港西九龍站購買列車車票。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-04-01T10:10:10",
-        "last_announcement": "2025-04-01T08:10:00"
-    },
-    "IN-25-01804": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "traffic accident happened earlier",
-            "INCIDENT_DETAIL_CN": "較早前交通意外",
-            "LOCATION_EN": "Fanling Highway",
-            "LOCATION_CN": "粉嶺公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Yuen Long",
-            "DIRECTION_CN": "元朗",
-            "NEAR_LANDMARK_EN": "Kwu Tung",
-            "NEAR_LANDMARK_CN": "古洞",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-01T08:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112776",
-                "CONTENT_EN": "Due to traffic accident happened earlier , Fanling Highway (Yuen Long bound) near Kwu Tung is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前交通意外，粉嶺公路(往元朗方向)近古洞的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2025-04-01T08:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112782",
-                "CONTENT_EN": "Traffic at Fanling Highway (Yuen Long bound) near Kwu Tung has resumed normal.",
-                "CONTENT_CN": "粉嶺公路(往元朗方向)近古洞的交通現已恢復正常。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2025-04-01T10:10:10",
-        "last_announcement": "2025-04-01T08:58:00"
-    },
-    "IN-25-01805": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
-            "LOCATION_CN": "青嶼幹線(青馬大橋)",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-01T08:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112777",
-                "CONTENT_EN": "Due to traffic accident , the middle lane of Lantau Link (Tsing Ma Bridge) (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-04-01T08:31:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112779",
-                "CONTENT_EN": "The middle lane of Lantau Link (Tsing Ma Bridge) (Airport bound) which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的青嶼幹線(青馬大橋)(往機場方向) 的中線現已解封。"
-            }
-        },
-        "district": "屯門區",
-        "last_update": "2025-04-01T10:10:10",
-        "last_announcement": "2025-04-01T08:31:00"
-    },
-    "IN-25-01806": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Island Line",
-            "INCIDENT_DETAIL_CN": "港島綫",
-            "LOCATION_EN": "Island Line Service Disruption",
-            "LOCATION_CN": "港島綫服務延誤",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-01T08:38:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112780",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Island Line extra travelling time because of a passenger on a train requiring urgent medical assistance at Causeway Bay Station. This could extend the total journey time between Kennedy Town Station and Chai Wan Station by 10-15 minutes.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 銅鑼灣站列車上有乘客需要緊急醫療協助，港島綫需要額外行車時間。來往堅尼地城站及柴灣站的行車時間預計需要額外10-15分鐘。"
-            },
-            "2025-04-01T08:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112781",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The case of a passenger request for assistance at Causeway Bay station on the Island Line has been resolved. Normal train service is gradually resuming.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 於銅鑼灣站乘客求助的事件已妥善處理，港島綫列車服務逐步回復正常。"
-            }
-        },
-        "district": "北區",
-        "last_update": "2025-04-01T10:10:10",
-        "last_announcement": "2025-04-01T08:43:00"
-    },
     "IN-25-01807": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2894,10 +2706,81 @@
                 "ID": "112951",
                 "CONTENT_EN": "Due to traffic accident , the slow lane of Chatham Road North (Cross Harbour Tunnel bound) near Wuhu Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，漆咸道北(往海底隧道方向)近蕪湖街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-04T09:52:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "112952",
+                "CONTENT_EN": "The slow lane of Chatham Road North (Cross Harbour Tunnel bound) near Wuhu Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的漆咸道北(往海底隧道方向)近蕪湖街的慢線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-04-04T09:57:37",
-        "last_announcement": "2025-04-04T09:19:00"
+        "last_update": "2025-04-04T11:02:31",
+        "last_announcement": "2025-04-04T09:52:00"
+    },
+    "IN-25-01874": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Sai Kung Man Yee Road",
+            "LOCATION_CN": "西貢萬宜路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-04T10:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112953",
+                "CONTENT_EN": "The traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam is very busy at the moment. The operator of Green Minibus Route No. 9A has strengthened its service to cater for passenger demand. Members of the public are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing.",
+                "CONTENT_CN": "通往萬宜水庫東壩的西貢萬宜路交通現時非常繁忙，專線小巴第9A號線的營辦商已加強服務應付乘客需求。請市民妥善規劃行程，預留充裕交通時間，同時在輪候時保持忍讓。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2025-04-04T11:02:31",
+        "last_announcement": "2025-04-04T10:02:00"
+    },
+    "IN-25-01875": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lantau Link (Tsing Ma Bridge)",
+            "LOCATION_CN": "青嶼幹線(青馬大橋)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Airport",
+            "DIRECTION_CN": "機場",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-04T10:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "112955",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lantau Link (Tsing Ma Bridge) (Airport bound) is still being closed to all traffic. \nOnly remaining lane is available to motorists.   The lower deck of Lantau Link (Airport bound) has been opened.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，青嶼幹線(青馬大橋)(往機場方向) 的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  青嶼幹線下層(往機場方向)現已開放。  現時上址交通繁忙。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-04-04T11:02:31",
+        "last_announcement": "2025-04-04T10:35:00"
     }
 }
