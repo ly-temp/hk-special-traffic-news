@@ -91,59 +91,6 @@
         "last_update": "2025-04-03T06:17:35",
         "last_announcement": "2025-04-03T06:06:00"
     },
-    "IN-25-01813": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Sai Yee Street",
-            "LOCATION_CN": "洗衣街",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Boundary Street",
-            "DIRECTION_CN": "界限街",
-            "NEAR_LANDMARK_EN": "Mong Kok Road",
-            "NEAR_LANDMARK_CN": "旺角道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-01T15:47:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112797",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Sai Yee Street (Boundary Street bound) near Mong Kok Road is closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，洗衣街(往界限街方向)近旺角道的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
-            },
-            "2025-04-01T15:53:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112798",
-                "CONTENT_EN": "Due to traffic accident , all lanes of Sai Yee Street (Sai Yee Street bound) near Mong Kok Road are closed to all traffic. At the same time, vehicles cannot make left turning from Mong Kok Road (Sai Yee Street bound) to Sai Yee Street. Motorists are advised to use alternative routes. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，洗衣街(往洗衣街方向)近旺角道的全線現已封閉。 同時，車輛不能由旺角道(往洗衣街方向)左轉洗衣街。 駕駛人士請考慮改用其他道路。 現時上址交通擠塞。"
-            },
-            "2025-04-01T16:05:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112799",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sai Yee Street (both bounds) near Mong Kok Road are closed to all traffic. Only remaining lanes are available to motorists. Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，洗衣街(來回方向)近旺角道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通擠塞。"
-            },
-            "2025-04-01T16:21:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112803",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Sai Yee Street (Boundary Street bound) near Mong Kok Road is still being closed to all traffic. Only remaining lane is available to motorists. \nPart of the lanes of Sai Yee Street (Argyle Street bound) near Mong Kok Road is re-opened to all traffic.   Traffic queue on Sai Yee Street (Boundary Street bound) ends at Nathan Road near Boundary Street.   Traffic is congested now.",
-                "CONTENT_CN": "因交通意外，洗衣街(往界限街方向)近旺角道的部份行車線仍然封閉。駕駛人士只可使用餘下行車線行車。\n洗衣街(往亞皆老街方向)近旺角道的部份行車線現已解封。  現時在洗衣街(往界限街方向)的車龍龍尾已到彌敦道近界限街。  現時上址交通擠塞。"
-            }
-        },
-        "district": "油尖旺區",
-        "last_update": "2025-04-01T16:50:59",
-        "last_announcement": "2025-04-01T16:21:00"
-    },
     "IN-25-01815": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
