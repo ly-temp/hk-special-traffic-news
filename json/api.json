@@ -144,45 +144,6 @@
         "last_update": "2025-04-01T16:50:59",
         "last_announcement": "2025-04-01T16:21:00"
     },
-    "IN-25-01814": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Victoria Park Road",
-            "LOCATION_CN": "維園道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Wing Hing Street",
-            "DIRECTION_CN": "永興街",
-            "NEAR_LANDMARK_EN": "Hing Fat Street",
-            "NEAR_LANDMARK_CN": "興發街",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-01T16:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112801",
-                "CONTENT_EN": "Due to traffic accident , part of the lanes of Victoria Park Road (Wing Hing Street bound) near Hing Fat Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，維園道(往永興街方向)近興發街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-04-01T16:23:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112802",
-                "CONTENT_EN": "Part of the lanes of Victoria Park Road (Wing Hing Street bound) near Hing Fat Street which was closed due to traffic accident is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的維園道(往永興街方向)近興發街的部份行車線現已解封。"
-            }
-        },
-        "district": "灣仔區",
-        "last_update": "2025-04-01T16:33:11",
-        "last_announcement": "2025-04-01T16:23:00"
-    },
     "IN-25-01815": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2647,5 +2608,37 @@
         "district": "屯門區",
         "last_update": "2025-04-04T15:41:35",
         "last_announcement": "2025-04-04T15:29:00"
+    },
+    "IN-25-01878": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Car park at West Kowloon Culture Park",
+            "INCIDENT_DETAIL_CN": "西九文化區車位已泊滿",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-04T16:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112964",
+                "CONTENT_EN": "All car parks at West Kowloon Cultural District are full. Members of the public are encouraged to take public transport to the West Kowloon Cultural District.",
+                "CONTENT_CN": "西九文化區內所有停車場現已泊滿車輛，前往西九文化區一帶的市民請使用公共交通工具。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-04-04T16:39:41",
+        "last_announcement": "2025-04-04T16:30:00"
     }
 }
