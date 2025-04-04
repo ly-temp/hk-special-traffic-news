@@ -45,38 +45,6 @@
         "last_update": "2025-04-02T06:31:09",
         "last_announcement": "2025-04-02T06:06:00"
     },
-    "IN-25-01801": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Fire",
-            "INCIDENT_DETAIL_CN": "火警",
-            "LOCATION_EN": "Sheung Yuet Road",
-            "LOCATION_CN": "常悅道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Enterprise Square",
-            "NEAR_LANDMARK_CN": "企業廣場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-01T07:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112770",
-                "CONTENT_EN": "Due to fire , part of the lanes of Sheung Yuet Road and Lam Lok Street near Enterprise Square are closed to all traffic.   Citizens please take note KMB routes nos. 107 and 606X have been affected. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   Traffic is busy now.",
-                "CONTENT_CN": "因火警，常悅道和臨樂街近企業廣場的部份行車線現已封閉。  市民請留意九巴第107及606X號線會受影響。有關個別巴士路線的最新服務情況，市⺠可參閱巴⼠公司的網⾴或流動應⽤程式內的資訊。  現時上址交通繁忙。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-04-01T07:59:22",
-        "last_announcement": "2025-04-01T07:32:00"
-    },
     "IN-25-01802": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2899,5 +2867,37 @@
         "district": null,
         "last_update": "2025-04-04T06:49:33",
         "last_announcement": "2025-04-04T06:33:00"
+    },
+    "IN-25-01873": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Chatham Road North",
+            "LOCATION_CN": "漆咸道北",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Cross Harbour Tunnel",
+            "DIRECTION_CN": "海底隧道",
+            "NEAR_LANDMARK_EN": "Wuhu Street",
+            "NEAR_LANDMARK_CN": "蕪湖街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-04T09:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "112951",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Chatham Road North (Cross Harbour Tunnel bound) near Wuhu Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，漆咸道北(往海底隧道方向)近蕪湖街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-04-04T09:57:37",
+        "last_announcement": "2025-04-04T09:19:00"
     }
 }
