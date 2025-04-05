@@ -2455,11 +2455,18 @@
                 "ID": "113005",
                 "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Cheung Tsing Tunnel (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因車輛故障，長青隧道(往機場方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-05T16:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113008",
+                "CONTENT_EN": "The tunnel tube slow lane of Cheung Tsing Tunnel (Airport bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的長青隧道(往機場方向)的管道慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-04-05T16:28:52",
-        "last_announcement": "2025-04-05T15:55:00"
+        "last_update": "2025-04-05T16:43:41",
+        "last_announcement": "2025-04-05T16:24:00"
     },
     "IN-25-01898": {
         "description": {
@@ -2487,10 +2494,17 @@
                 "ID": "113006",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Island Eastern Corridor (Chai Wan bound) near Quarry Bay Park Phase II is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，東區走廊(往柴灣方向)近鰂魚涌公園二期的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-05T16:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113007",
+                "CONTENT_EN": "Part of the lanes of Island Eastern Corridor (Chai Wan bound) near Quarry Bay Park Phase II which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的東區走廊(往柴灣方向)近鰂魚涌公園二期的部份行車線現已解封。"
             }
         },
         "district": "東區",
-        "last_update": "2025-04-05T16:28:52",
-        "last_announcement": "2025-04-05T16:14:00"
+        "last_update": "2025-04-05T16:43:41",
+        "last_announcement": "2025-04-05T16:20:00"
     }
 }
