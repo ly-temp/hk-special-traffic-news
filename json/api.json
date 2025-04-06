@@ -1,68 +1,4 @@
 {
-    "IN-25-01862": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Lung Cheung Road",
-            "LOCATION_CN": "龍翔道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Tsuen Wan",
-            "DIRECTION_CN": "荃灣",
-            "NEAR_LANDMARK_EN": "Tai Po Road",
-            "NEAR_LANDMARK_CN": "大埔道",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-03T17:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "112931",
-                "CONTENT_EN": "The fast lane of Lung Cheung Road (Tsuen Wan bound) near Tai Po Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往荃灣方向)近大埔道的快線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "深水埗區",
-        "last_update": "2025-04-03T18:28:36",
-        "last_announcement": "2025-04-03T17:58:00"
-    },
-    "IN-25-01863": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Cross-boundary Public Transport Services for long weekend of Ching Ming Festival Holiday",
-            "INCIDENT_DETAIL_CN": "清明節假期長周末的跨境公共運輸服務安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-03T18:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112932",
-                "CONTENT_EN": "The Transport Department (TD) anticipates that there may be a large number of passengers and visitors using public transport services to travel to and from the Mainland or Macao via various land-based boundary control points (BCPs) during the long weekend of the Ching Ming Festival holiday, in particular on the first day (April 4) and the last day (April 6). The TD particularly appeals to the members of the public to plan their trips in advance and allow sufficient travelling time. The TD has approached various public transport operators to strengthen their services during the long weekend in order to cater for the demand but the waiting time for the franchised bus services plying to and from BCPs and the Hong Kong-Zhuhai-Macao Bridge (HZMB) shuttle bus (Gold Bus) may be longer. Passengers are encouraged to make their journeys during non-peak hours and shall observe order and heed advice from the on-site Police and staff of the public transport service operators concerned. Members of the public are advised to check the latest traffic news through radio, television broadcasts, and TD's HKeMobility mobile application.",
-                "CONTENT_CN": "運輸署預計清明節假期長周末期間會有大量市民和旅客使用公共運輸服務經各陸路管制站往來內地及澳門，尤其是長周末的第一天（四月四日）及最後一天（四月六日）。運輸署呼籲市民及早規劃行程，預留充裕交通時間。 運輸署已主動聯繫各公共運輸營辦商在長周末期間加強服務應對需求，但往來口岸的專營巴士及港珠澳大橋穿梭巴士（金巴）服務的等候時間或會較長。旅客應考慮於非繁忙時間出行，而在候車期間應遵守秩序，並遵從現場警務人員及相關公共運輸服務營辦商職員的指示。 市民請留意電台、電視台及運輸署流動應用程式「香港出行易」發放的最新交通消息。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-04-03T18:28:36",
-        "last_announcement": "2025-04-03T18:00:00"
-    },
     "IN-25-01864": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -1585,11 +1521,18 @@
                 "ID": "113021",
                 "CONTENT_EN": "Due to emergency repairing works , the tunnel tube slow lane of Cheung Tsing Tunnel (Airport bound) is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因緊急維修，長青隧道(往機場方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-06T18:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113025",
+                "CONTENT_EN": "The tunnel tube slow lane of Cheung Tsing Tunnel (Airport bound) which was closed due to emergency repairing works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急維修而封閉的長青隧道(往機場方向)的管道慢線現已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-04-06T15:12:09",
-        "last_announcement": "2025-04-06T14:47:00"
+        "last_update": "2025-04-06T18:32:25",
+        "last_announcement": "2025-04-06T18:01:00"
     },
     "IN-25-01905": {
         "description": {
