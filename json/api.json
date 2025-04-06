@@ -1,36 +1,4 @@
 {
-    "IN-25-01854": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced service during Ching Ming Festival",
-            "INCIDENT_DETAIL_CN": "清明節加強服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-03T12:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "112913",
-                "CONTENT_EN": "To facilitate grave sweeping activities, MTRCL will increase train frequency on the East Rail Line during specific periods on the Ching Ming Festival (4 April) and the following Sunday (6 April). \n\nService of MTR Bus route K52A between Tuen Mun Station and Tsang Tsui Columbarium will also be enhanced:\n· Ching Ming Festival long weekend (4 – 6 April) and the following weekend (12 – 13 April)\n· Service hours will be extended\n· Frequencies will be increased to about 10 to 30 minutes during most periods\n\nPlease refer to MTRCL website for more information.",
-                "CONTENT_CN": "清明節（4月4日）及隨後的星期日（4月6日），東鐵綫部分時段加密列車班次，方便乘客外出掃墓。\n\n港鐵巴士K52A路綫來往屯門站及曾咀靈灰安置所亦加強服務。\n·清明節長假期(4月4至6日)及下周末(4月12及13日)\n·延長服務時間\n·大部分時段加密至約10 至30 分鐘一班車\n\n詳情請瀏覽港鐵公司網頁。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-04-03T12:26:34",
-        "last_announcement": "2025-04-03T12:06:00"
-    },
     "IN-25-01855": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
