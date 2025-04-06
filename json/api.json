@@ -1331,5 +1331,37 @@
         "district": "南區",
         "last_update": "2025-04-06T17:30:03",
         "last_announcement": "2025-04-06T17:01:00"
+    },
+    "IN-25-01854": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced service during Ching Ming Festival",
+            "INCIDENT_DETAIL_CN": "清明節加強服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-07T06:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113026",
+                "CONTENT_EN": "To facilitate grave sweeping activities, service of MTR Bus route K52A between Tuen Mun Station and Tsang Tsui Columbarium will be enhanced: · 12 – 13 April · Service hours will be extended · Frequencies will be increased to about 10 to 30 minutes during most periods Please refer to MTRCL website for more information.",
+                "CONTENT_CN": "港鐵巴士K52A路綫來往屯門站及曾咀靈灰安置所亦加強服務，方便乘客外出掃墓。 ·4月12及13日 ·延長服務時間 ·大部分時段加密至約10 至30 分鐘一班車 詳情請瀏覽港鐵公司網頁。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-04-07T06:36:41",
+        "last_announcement": "2025-04-07T06:13:00"
     }
 }
