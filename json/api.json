@@ -1780,10 +1780,49 @@
                 "ID": "113018",
                 "CONTENT_EN": "Due to traffic accident , the one-lane-two-way traffic arrangement is being implemented on Carpenter Road near Hau Wong Road. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，賈炳達道近侯王道現已實施單線雙程行車措施。 現時上址交通繁忙。"
+            },
+            "2025-04-06T12:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113020",
+                "CONTENT_EN": "The one-lane-two-way traffic arrangement which was implemented on Carpenter Road near Hau Wong Road due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而於賈炳達道近侯王道實施的單線雙程行車措施現已取消。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-04-06T11:51:16",
-        "last_announcement": "2025-04-06T11:30:00"
+        "last_update": "2025-04-06T12:51:37",
+        "last_announcement": "2025-04-06T12:33:00"
+    },
+    "IN-25-01903": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "tree trimming works",
+            "INCIDENT_DETAIL_CN": "樹木修剪工程",
+            "LOCATION_EN": "Ching Cheung Road",
+            "LOCATION_CN": "呈祥道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsuen Wan",
+            "DIRECTION_CN": "荃灣",
+            "NEAR_LANDMARK_EN": "Caritas Medical Centre",
+            "NEAR_LANDMARK_CN": "明愛醫院",
+            "BETWEEN_LANDMARK_EN": "Lai Chi Kok Park",
+            "BETWEEN_LANDMARK_CN": "荔枝角公園",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-06T12:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113019",
+                "CONTENT_EN": "Due to tree trimming works, part of the lanes of Ching Cheung Road (Tsuen Wan bound) between Caritas Medical Centre and Lai Chi Kok Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因樹木修剪工程，呈祥道(往荃灣方向)介乎明愛醫院與荔枝角公園之間的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-04-06T12:51:37",
+        "last_announcement": "2025-04-06T12:28:00"
     }
 }
