@@ -1862,11 +1862,18 @@
                 "ID": "113071",
                 "CONTENT_EN": "Due to emergency repair of road surface , the fast lane of On King Street (Pictorial Garden bound) near Tai Chung Kiu Road is closed to all traffic. \nOnly remaining lane is available to motorists.   At the same time, the slow lane of Tai Chung Kiu Road (Ma On Shan bound) near On King Street is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
                 "CONTENT_CN": "因緊急路面維修，安景街(往碧濤花園方向)近大涌橋路的快線現已封閉。\n駕駛人士只可使用餘下行車線行車。  同時，大涌橋路(往馬鞍山方向)近安景街的慢線現已封閉。\n駕駛⼈⼠只可使⽤餘下⾏⾞線⾏⾞。  現時上址交通繁忙。"
+            },
+            "2025-04-08T06:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113073",
+                "CONTENT_EN": "The fast lane of On King Street (Pictorial Garden bound) near Tai Chung Kiu Road which was closed due to emergency repair of road surface is re-opened to all traffic.   At the same time, the slow lane of Tai Chung Kiu Road (Ma On Shan bound) near On King Street is also re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的安景街(往碧濤花園方向)近大涌橋路的快線現已解封。  同時，大涌橋路(往馬鞍山方向)近安景街的慢線亦已解封。"
             }
         },
         "district": "沙田區",
-        "last_update": "2025-04-07T21:18:10",
-        "last_announcement": "2025-04-07T20:49:00"
+        "last_update": "2025-04-08T06:22:23",
+        "last_announcement": "2025-04-08T06:07:00"
     },
     "IN-25-01928": {
         "description": {
@@ -1894,10 +1901,17 @@
                 "ID": "113072",
                 "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills is closed to all traffic. \nOnly remaining lane is available to motorists.",
                 "CONTENT_CN": "因緊急路面維修，觀塘繞道(往油塘方向)近九龍麵粉廠的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-04-08T06:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113074",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Bypass (Yau Tong bound) near Kowloon Flour Mills which was closed due to emergency repair of road surface is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因緊急路面維修而封閉的九龍(往油塘方向)近九龍麵粉廠的部份行車線現已解封。"
             }
         },
         "district": "九龍城區",
-        "last_update": "2025-04-08T00:40:29",
-        "last_announcement": "2025-04-08T00:02:00"
+        "last_update": "2025-04-08T06:22:23",
+        "last_announcement": "2025-04-08T06:13:00"
     }
 }
