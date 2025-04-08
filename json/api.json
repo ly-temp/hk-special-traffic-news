@@ -142,11 +142,18 @@
                 "ID": "112967",
                 "CONTENT_EN": "Due to watermain burst , part of the lanes of Lai King Hill Road (both bounds) near King Lai Path is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因水管爆裂，荔景山路(來回方向)近景荔徑的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-08T08:57:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "113089",
+                "CONTENT_EN": "Part of the lanes of Lai King Hill Road (both bounds) near King Lai Path which was closed due to watermain emergency works is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的荔景山路(來回方向)近景荔徑的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2025-04-05T10:13:15",
-        "last_announcement": "2025-04-05T08:42:00"
+        "last_update": "2025-04-08T09:48:54",
+        "last_announcement": "2025-04-08T08:57:00"
     },
     "IN-25-01882": {
         "description": {
@@ -1947,11 +1954,18 @@
                 "ID": "113078",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Johnston Road (Sheung Wan bound) near Stone Nullah Lane is still being closed to all traffic. \nOnly remaining lane is available to motorists.   The westbound tram service from Stone Nullah Lane to Cleverly Street which was suspended due to traffic accident has been resumed.   Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，莊士敦道(往上環方向)近石水渠街的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  較早前因交通意外⽽暫停的石水渠街⾄急庇利街之間的西⾏線電⾞服務現已恢復正常。  現時上址交通繁忙。"
+            },
+            "2025-04-08T08:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113084",
+                "CONTENT_EN": "Part of the lanes of Johnston Road (Sheung Wan bound) near Stone Nullah Lane which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的莊士敦道(往上環方向)近石水渠街的部份行車線現已解封。"
             }
         },
         "district": "灣仔區",
-        "last_update": "2025-04-08T07:57:10",
-        "last_announcement": "2025-04-08T07:49:00"
+        "last_update": "2025-04-08T09:48:54",
+        "last_announcement": "2025-04-08T08:18:00"
     },
     "IN-25-01930": {
         "description": {
@@ -1984,5 +1998,232 @@
         "district": "屯門區",
         "last_update": "2025-04-08T07:57:10",
         "last_announcement": "2025-04-08T07:43:00"
+    },
+    "IN-25-01931": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hang Hau Po Ning Road",
+            "LOCATION_CN": "坑口寶寧路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Ying Yip Road",
+            "NEAR_LANDMARK_CN": "影業路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-08T07:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113080",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Hang Hau Po Ning Road Roundabout  near Ying Yip Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，坑口寶寧路迴旋處近影業路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-08T08:03:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "113081",
+                "CONTENT_EN": "Part of the lanes of Hang Hau Po Ning Road Roundabout  near Ying Yip Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的坑口寶寧路迴旋處近影業路的部份行車線現已解封。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2025-04-08T09:48:54",
+        "last_announcement": "2025-04-08T08:03:00"
+    },
+    "IN-25-01932": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Wong Chu Road",
+            "LOCATION_CN": "皇珠路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Lung Fu Road",
+            "DIRECTION_CN": "龍富路",
+            "NEAR_LANDMARK_EN": "Tuen Mun Heung Sze Wui Road",
+            "NEAR_LANDMARK_CN": "屯門鄉事會路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-08T08:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113082",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chu Road (Lung Fu Road bound) near Tuen Mun Heung Sze Wui Road is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，皇珠路(往龍富路方向)近屯門鄉事會路的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-08T08:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113085",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Wong Chu Road (Lung Fu Road bound) near Tuen Mun Heung Sze Wui Road is still being closed to all traffic. Only remaining lane is available to motorists. Traffic queue on Wong Chu Road (Lung Fu Road bound) ends at Tuen Mun Road near Tsing Tin Interchange. Traffic is congested now.",
+                "CONTENT_CN": "因交通意外，皇珠路(往龍富路方向)近屯門鄉事會路的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在皇珠路(往龍富路方向)的車龍龍尾已到屯門公路近青田交匯處。 現時上址交通擠塞。"
+            },
+            "2025-04-08T08:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113087",
+                "CONTENT_EN": "Part of the lanes of Wong Chu Road (Lung Fu Road bound) near Tuen Mun Heung Sze Wui Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的皇珠路(往龍富路方向)近屯門鄉事會路的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-04-08T09:48:54",
+        "last_announcement": "2025-04-08T08:48:00"
+    },
+    "IN-25-01933": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wong Chu Road",
+            "DIRECTION_CN": "皇珠路",
+            "NEAR_LANDMARK_EN": "San Hui",
+            "NEAR_LANDMARK_CN": "新墟",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-08T08:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113083",
+                "CONTENT_EN": "Tuen Mun Road (Wong Chu Road bound) near San Hui is busy. Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "屯門公路(往皇珠路方向)近新墟的交通繁忙。 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2025-04-08T08:29:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113086",
+                "CONTENT_EN": "Tuen Mun Road (Wong Chu Road bound) near San Hui is busy.   Traffic queue on Tuen Mun Road (Wong Chu Road bound) ends at Yuen Long Highway near Tan Kwai Tsuen. Motorists passing through the above road section is advised to drive with utmost care and patience.",
+                "CONTENT_CN": "屯門公路(往皇珠路方向)近新墟的交通繁忙。  現時在屯門公路(往皇珠路方向)的車龍龍尾已到元朗公路近丹桂村。駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-04-08T09:48:54",
+        "last_announcement": "2025-04-08T08:29:00"
+    },
+    "IN-25-01935": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Kwu Tung",
+            "LOCATION_CN": "古洞",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-08T08:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113090",
+                "CONTENT_EN": "The following road sections near Kwu Tung Ho Sheung Heung area are busy:\n– Castle Peak Road - Kwu Tung (bound)\n– Castle Peak Road - Chau Tau (bound)\n– Fanling Highway (Yuen Long bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下近古洞河上鄉一帶路段的交通繁忙:\n–青山公路　－　古洞段(往方向)\n–青山公路　－　洲頭段(往方向)\n–粉嶺公路(往元朗方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2025-04-08T09:48:54",
+        "last_announcement": "2025-04-08T08:55:00"
+    },
+    "IN-25-01934": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tai Po Road - Sha Tin",
+            "LOCATION_CN": "大埔公路　–　沙田段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Wo Che Estate",
+            "NEAR_LANDMARK_CN": "禾輋邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-08T09:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113092",
+                "CONTENT_EN": "Part of the lanes of Tai Po Road - Sha Tin (Kowloon bound) near Wo Che Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大埔公路　–　沙田段(往九龍方向)近禾輋邨的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-04-08T09:48:54",
+        "last_announcement": "2025-04-08T09:03:00"
+    },
+    "IN-25-01936": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Fanling Highway",
+            "LOCATION_CN": "粉嶺公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Tai Tau Leng",
+            "NEAR_LANDMARK_CN": "大頭嶺",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-08T09:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113093",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Fanling Highway (Yuen Long bound) near Tai Tau Leng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，粉嶺公路(往元朗方向)近大頭嶺的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-08T09:28:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113094",
+                "CONTENT_EN": "The fast lane of Fanling Highway (Yuen Long bound) near Tai Tau Leng which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的粉嶺公路(往元朗方向)近大頭嶺的快線現已解封。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2025-04-08T09:48:54",
+        "last_announcement": "2025-04-08T09:28:00"
     }
 }
