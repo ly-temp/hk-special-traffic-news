@@ -2587,5 +2587,69 @@
         "district": "葵青區",
         "last_update": "2025-04-09T18:57:28",
         "last_announcement": "2025-04-09T18:46:00"
+    },
+    "IN-25-01975": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Connaught Road West",
+            "LOCATION_CN": "干諾道西",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sai Wan",
+            "DIRECTION_CN": "西環",
+            "NEAR_LANDMARK_EN": "Shun Tak Centre",
+            "NEAR_LANDMARK_CN": "信德中心",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-09T18:59:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113176",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Connaught Road West flyover (Sai Wan bound) near Shun Tak Centre is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，干諾道西天橋(往西環方向)近信德中心的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2025-04-09T19:19:14",
+        "last_announcement": "2025-04-09T18:59:00"
+    },
+    "IN-25-01976": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Special traffic arrangements may be implemented at Lok Ma Chau Control Point / Shenzhen Bay Port from today to early mor",
+            "INCIDENT_DETAIL_CN": "落馬洲管制站及深圳灣口岸由即日起至4月13日凌晨或會實施特別交通安排",
+            "LOCATION_EN": "Special traffic arrangements may be implemented at Lok Ma Chau Control Point / Shenzhen Bay Port from today to early morning of 13 April",
+            "LOCATION_CN": "落馬洲管制站及深圳灣口岸由即日起至4月13日凌晨或會實施特別交通安排",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-09T19:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113178",
+                "CONTENT_EN": "Special traffic arrangements may be implemented at Lok Ma Chau Control Point / Shenzhen Bay Port from today to early morning of 13 April\nMotorists are advised that, subject to actual traffic conditions, special traffic arrangements may be implemented at Lok Ma Chau Control Point / Shenzhen Bay Port to allow smooth access of public transport vehicles to above control points. Motorists are advised to pay extra attention to variable message signs and traffic signs along the road. They are also advised to be patient in case of traffic congestion, and follow the instructions of the on-site Police.",
+                "CONTENT_CN": "落馬洲管制站及深圳灣口岸由即日起至4月13日凌晨或會實施特別交通安排\n駕駛人士請注意，視乎現場交通情況，落馬洲管制站及深圳灣口岸或會實施特別交通安排，以便公共運輸車輛能暢順地進入上述管制站。駕駛人士請特別留意沿途可變信息顯示屏及交通標誌，如遇交通受阻，請保持忍讓及遵從現場警務人員的指示。"
+            }
+        },
+        "district": "元朗區",
+        "last_update": "2025-04-09T19:19:14",
+        "last_announcement": "2025-04-09T19:05:00"
     }
 }
