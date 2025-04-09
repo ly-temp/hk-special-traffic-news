@@ -38,45 +38,6 @@
         "last_update": "2025-04-08T09:48:54",
         "last_announcement": "2025-04-08T08:57:00"
     },
-    "IN-25-01901": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tsing Sha Highway",
-            "LOCATION_CN": "青沙公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Airport",
-            "DIRECTION_CN": "機場",
-            "NEAR_LANDMARK_EN": "Container Terminal 8",
-            "NEAR_LANDMARK_CN": "八號貨櫃碼頭",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-06T10:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "113016",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tsing Sha Highway (Airport bound) near Container Terminal 8 is closed to all traffic. Only remaining lanes are available to motorists.",
-                "CONTENT_CN": "因車輛故障，青沙公路(往機場方向)近八號貨櫃碼頭的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。"
-            },
-            "2025-04-06T10:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "113017",
-                "CONTENT_EN": "Part of the lanes of Tsing Sha Highway (Airport bound) near Container Terminal 8 which was closed due to vehicle breakdown is re-opened to all traffic.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的青沙公路(往機場方向)近八號貨櫃碼頭的部份行車線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2025-04-06T10:56:51",
-        "last_announcement": "2025-04-06T10:34:00"
-    },
     "IN-25-01902": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -2374,5 +2335,37 @@
         "district": "沙田區",
         "last_update": "2025-04-09T10:19:40",
         "last_announcement": "2025-04-09T09:26:00"
+    },
+    "IN-25-01963": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency Repairing Works",
+            "INCIDENT_DETAIL_CN": "緊急維修",
+            "LOCATION_EN": "Sha Tin Road",
+            "LOCATION_CN": "沙田路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Pok Hong Estate",
+            "NEAR_LANDMARK_CN": "博康邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-09T10:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113154",
+                "CONTENT_EN": "Due to emergency repairing works , the slow lane of Sha Tin Road (Tai Po bound) near Pok Hong Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急維修，沙田路(往大埔方向)近博康邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-04-09T11:10:50",
+        "last_announcement": "2025-04-09T10:12:00"
     }
 }
