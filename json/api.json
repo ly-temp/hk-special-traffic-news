@@ -2367,5 +2367,37 @@
         "district": "沙田區",
         "last_update": "2025-04-09T11:10:50",
         "last_announcement": "2025-04-09T10:12:00"
+    },
+    "IN-25-01964": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High-Speed Rail (Hong Kong Section) Enhances Train Services for Easter",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加強復活節列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-09T11:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113155",
+                "CONTENT_EN": "High Speed Rail (Hong Kong Section) will add the following temporary train trips:\n\n· April 18: Train G9535, G9533, G9541 (from Shenzhenbei Station to Hong Kong West Kowloon Station)\n\n· April 21: Train G9536, G9534, G9542 (from Hong Kong West Kowloon Station to Shenzhenbei Station)\n\nTickets are available for purchase through the 12306 official website (12306. cn/en/) or mobile app; appointed travel agents (Click here); or at Hong Kong West Kowloon Station. \n\nFor train schedules, please refer to the 12306 official website (12306. cn/en/) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "高速鐵路（香港段）將加開以下臨時車次：\n\n·4月18日：G9535,G9533,G9541（由深圳北站前往香港西九龍站）\n\n·4月21日：G9536,G9534,G9542（由香港西九龍站前往深圳北站）\n\n你可透過12306官方網站(12306.cn)或手機應用程式、指定代理(按此)或前往香港西九龍站購買列車車票。\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-04-09T12:22:52",
+        "last_announcement": "2025-04-09T11:43:00"
     }
 }
