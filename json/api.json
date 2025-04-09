@@ -2711,5 +2711,37 @@
         "district": "深水埗區",
         "last_update": "2025-04-09T20:14:18",
         "last_announcement": "2025-04-09T19:52:00"
+    },
+    "IN-25-01977": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Chun Yeung Street",
+            "LOCATION_CN": "春秧街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-09T21:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113183",
+                "CONTENT_EN": "Due to fire , all lanes of Chun Yeung Street is closed to all traffic. \nMotorists are advised to use alternative routes.   At the same time, the eastbound tram service between Chun Yeung Street and North Point Terminus is suspended.   Traffic is busy now.",
+                "CONTENT_CN": "因火警，春秧街的全線現已封閉。\n駕駛人士請考慮改用其他道路。  同時，介乎春秧街及北⾓總站之間的東⾏線電⾞服務暫停。  現時上址交通繁忙。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2025-04-09T21:33:28",
+        "last_announcement": "2025-04-09T21:17:00"
     }
 }
