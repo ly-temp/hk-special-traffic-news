@@ -3019,5 +3019,69 @@
         "district": "屯門區",
         "last_update": "2025-04-10T17:52:03",
         "last_announcement": "2025-04-10T17:42:00"
+    },
+    "IN-25-02001": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwai Chung Road",
+            "LOCATION_CN": "葵涌道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Princess Margaret Hospital",
+            "NEAR_LANDMARK_CN": "瑪嘉烈醫院",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-10T17:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113239",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Mong Kok bound) near Princess Margaret Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，葵涌道(往旺角方向)近瑪嘉烈醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "葵青區",
+        "last_update": "2025-04-10T18:12:34",
+        "last_announcement": "2025-04-10T17:46:00"
+    },
+    "IN-25-02002": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Sha Tin Rural Committee Road",
+            "LOCATION_CN": "沙田鄉事會路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Siu Lek Yuen",
+            "DIRECTION_CN": "小瀝源",
+            "NEAR_LANDMARK_EN": "Yuen Wo Road",
+            "NEAR_LANDMARK_CN": "源禾路",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-10T17:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113240",
+                "CONTENT_EN": "Due to vehicle breakdown , the fast lane of Sha Tin Rural Committee Road (Siu Lek Yuen bound) near Yuen Wo Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，沙田鄉事會路(往小瀝源方向)近源禾路的快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-04-10T18:12:34",
+        "last_announcement": "2025-04-10T17:52:00"
     }
 }
