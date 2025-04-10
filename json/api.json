@@ -2975,11 +2975,18 @@
                 "ID": "113235",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Cheung Road (Kwai Chung bound) near Chuk Yuen Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍翔道(往葵涌方向)近竹園道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-10T18:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113241",
+                "CONTENT_EN": "Part of the lanes of Lung Cheung Road (Kwai Chung bound) near Chuk Yuen Road which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道(往葵涌方向)近竹園道的部份行車線現已解封。 車龍有待消散。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2025-04-10T17:41:42",
-        "last_announcement": "2025-04-10T17:27:00"
+        "last_update": "2025-04-10T18:37:41",
+        "last_announcement": "2025-04-10T18:08:00"
     },
     "IN-25-02000": {
         "description": {
@@ -3046,11 +3053,18 @@
                 "ID": "113239",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Kwai Chung Road (Mong Kok bound) near Princess Margaret Hospital is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，葵涌道(往旺角方向)近瑪嘉烈醫院的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-10T18:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113242",
+                "CONTENT_EN": "Part of the lanes of Kwai Chung Road (Mong Kok bound) near Princess Margaret Hospital which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的葵涌道(往旺角方向)近瑪嘉烈醫院的部份行車線現已解封。"
             }
         },
         "district": "葵青區",
-        "last_update": "2025-04-10T18:12:34",
-        "last_announcement": "2025-04-10T17:46:00"
+        "last_update": "2025-04-10T18:37:41",
+        "last_announcement": "2025-04-10T18:12:00"
     },
     "IN-25-02002": {
         "description": {
