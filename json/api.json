@@ -1,50 +1,4 @@
 {
-    "IN-25-01937": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
-            "INCIDENT_DETAIL_CN": "車輛故障",
-            "LOCATION_EN": "Tuen Mun Road",
-            "LOCATION_CN": "屯門公路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": "Kowloon",
-            "DIRECTION_CN": "九龍",
-            "NEAR_LANDMARK_EN": "San Wo Lane Playground",
-            "NEAR_LANDMARK_CN": "新和里遊樂場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-08T11:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "113099",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near San Wo Lane Playground is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近新和里遊樂場的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
-            },
-            "2025-04-08T11:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "113101",
-                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near San Wo Lane Playground is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic queue on Tuen Mun Road (Kowloon bound) ends at Yuen Long Highway near Nai Wai. Traffic is congested now.",
-                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近新和里遊樂場的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時在屯門公路(往九龍方向)的車龍龍尾已到元朗公路近泥圍。 現時上址交通擠塞。"
-            },
-            "2025-04-08T11:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "113102",
-                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Kowloon bound) near San Wo Lane Playground which was closed due to vehicle breakdown is re-opened to all traffic. Traffic queue takes time to disperse.",
-                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往九龍方向)近新和里遊樂場的部份行車線現已解封。 車龍有待消散。"
-            }
-        },
-        "district": "觀塘區",
-        "last_update": "2025-04-08T12:11:00",
-        "last_announcement": "2025-04-08T11:44:00"
-    },
     "IN-25-01939": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3062,5 +3016,37 @@
         "district": "西貢區",
         "last_update": "2025-04-11T11:55:35",
         "last_announcement": "2025-04-11T11:44:00"
+    },
+    "IN-25-02019": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-11T11:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113278",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Tuen Mun Road (Kowloon bound) near Sham Tseng is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，屯門公路(往九龍方向)近深井的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-04-11T12:23:46",
+        "last_announcement": "2025-04-11T11:56:00"
     }
 }
