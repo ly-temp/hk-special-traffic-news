@@ -38,52 +38,6 @@
         "last_update": "2025-04-09T07:30:20",
         "last_announcement": "2025-04-09T07:20:00"
     },
-    "IN-25-01951": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": "Kwai Yi Road",
-            "LOCATION_CN": "葵義路",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-04-08T21:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "113126",
-                "CONTENT_EN": "Due to traffic accident, vehicles cannot make left turning from Kwai Foo Road to Kwai Yi Road. Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，車輛不能由葵富路左轉葵義路。 現時上址交通繁忙。"
-            },
-            "2025-04-08T21:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "113128",
-                "CONTENT_EN": "Due to traffic accident, vehicles still cannot make left turning from Kwai Foo Road to Kwai Yi Road.   Affected KMB route no. 67A has been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.   Traffic is busy now.",
-                "CONTENT_CN": "因交通意外，車輛仍然不能由葵富路左轉葵義路。  受影響九巴第67A線須改道行駛。有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。  現時上址交通繁忙。"
-            },
-            "2025-04-08T22:46:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "113130",
-                "CONTENT_EN": "All lanes of Kwai Yi Road (Container Port Road bound) near Kwai Foo Road which were closed due to traffic accident are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因交通意外而封閉的葵義路(往貨櫃碼頭路方向)近葵富路的全線現已解封。"
-            }
-        },
-        "district": "葵青區",
-        "last_update": "2025-04-08T23:09:06",
-        "last_announcement": "2025-04-08T22:46:00"
-    },
     "IN-25-01952": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -3298,11 +3252,18 @@
                 "ID": "113315",
                 "CONTENT_EN": "The concert at Kai Tak Stadium of the Kai Tak Sports Park (KTSP) is scheduled to end later tonight (April 11). As a large number of spectators is expected to disperse at the same time, the Transport Department (TD) urges those leaving the venue to take the MTR as far as possible. The TD has been steering public transport service arrangements and the overall traffic conditions have mostly been smooth so far:\n\nMTR:\n- The headway of the Tuen Ma Line will be further enhanced to about 2.5 minutes and the service level of the northbound East Rail Line (ERL) will also be enhanced accordingly;\n- Of note, for cross-boundary travellers, the last train to Lo Wu Station on the ERL via interchanging at Tai Wai Station will depart from Sung Wong Toi Station at 10.59pm and Kai Tak Station at 11.01pm;\n\nSpecial bus routes:\n- Eleven special bus routes have been arranged at the Sung Wong Toi Road Pick-up/Drop-off Area departing for ports and major districts across the territory;\n- Cross-boundary travellers may take route no. SP12 to Lok Ma Chau (San Tin) Public Transport Interchange and transfer to the Lok Ma Chau-Huanggang cross-boundary shuttle bus (Yellow Bus) to Lok Ma Chau/Huanggang Port; or route No. A25S to the Hong Kong-Zhuhai-Macao Bridge (HZMB) Hong Kong Port and transfer to the HZMB shuttle bus (Gold Bus) to Macao and Zhuhai; and\n\nTaxis:\n- In view of an outflux of spectators, the waiting time is anticipated to be longer and your patience is appreciated. The TD has made all-out efforts with the taxi trade to mobilise more taxis for picking up passengers, including disseminating real-time information on passengers queuing to the trade directly. The KTSP Limited has also mobilised taxis via instant messaging platform. \n\nSpectators are advised to take heed of the real-time information via on-site broadcast and the \"Easy Leave\" (easyleave. police. gov. hk) as well as the latest traffic news through the TD's website (www. td. gov. hk), the \"HKeMobility\" mobile application, radio and television broadcasts.",
                 "CONTENT_CN": "正在啟德體育園啟德主場館舉行的演唱會預計今日（四月十一日）稍後結束。由於同一時間離場觀眾較多，運輸署呼籲離場人士盡量乘搭港鐵。署方一直督導公共運輸服務安排，整體交通至今大致暢順：\n\n　　港鐵：\n- 屯馬綫班次會進一步加密至約2.5分鐘一班車，東鐵綫北行亦會相應加密班次；\n- 過境旅客請注意，經大圍站接駁東鐵綫往羅湖站的最後一班列車將於晚上十時五十九分由宋皇臺站，以及十一時○一分由啟德站開出；\n\n　　特別巴士路線：\n- 宋皇臺道上落客區已安排11條特別巴士路線前往口岸及港九新界各主要地區；\n- 過境旅客可乘坐第SP12號線往落馬洲（新田）公共運輸交匯處，轉乘落馬洲—皇崗過境穿梭巴士(皇巴)前往落馬洲/皇崗口岸；或第A25S號線在港珠澳大橋香港口岸轉乘港珠澳大橋穿梭巴士（金巴）前往澳門及珠海；及\n\n　的士：\n- 由於離場人士較多，預期輪候時間會較長，請耐心輪候登車。署方已全方位調動的士業界指派更多的士到場接載乘客，向業界直接發放乘客候車的實時資訊；啟德體育園有限公司亦已經即時通訊平台呼籲的士到場。\n\n　　觀眾請留意場地廣播和「離場易」（easyleave.police.gov.hk）提供的實時資訊，以及經運輸署網頁（www.td.gov.hk）、「香港出行易」流動應用程式、電台和電視台發放的最新交通消息。"
+            },
+            "2025-04-11T23:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113322",
+                "CONTENT_EN": "The Transport Department (TD) today (April 11) said that the last train to Lo Wu Station on the East Rail Line (ERL) via interchanging at Tai Wai Station has departed from Sung Wong Toi Station and Kai Tak Station. Cross-boundary travellers who missed the last train to Lo Wu Station may take the ERL to Sheung Shui Station and then the KMB route No. 276B or N73 to Lok Ma Chau (San Tin) Public Transport Interchange, and transfer to the Lok Ma Chau-Huanggang cross-boundary shuttle bus (Yellow Bus) for their journey to the Mainland. Spectators are advised to take heed of the real-time information via on-site broadcast and the \"Easy Leave\" (easyleave. police. gov. hk) as well as the latest traffic news through the TD's website (www. td. gov. hk), the \"HKeMobility\" mobile application, radio and television broadcasts.",
+                "CONTENT_CN": "運輸署今日（四月十一日）表示，經港鐵大圍站接駁東鐵綫往羅湖站的最後一班列車已由宋皇臺站及啟德站開出。未能乘搭最後一班列車往羅湖站的過境旅客，可乘搭東鐵綫往上水站，然後轉乘九巴第276B或N73號線往落馬洲（新田）公共運輸交匯處，轉乘落馬洲—皇崗過境穿梭巴士（皇巴）返回內地。 觀眾請留意場地廣播和「離場易」（easyleave.police.gov.hk）提供的實時資訊，以及經運輸署網頁（www.td.gov.hk）、「香港出行易」流動應用程式、電台和電視台發放的最新交通消息。"
             }
         },
         "district": "黃大仙區",
-        "last_update": "2025-04-11T22:10:59",
-        "last_announcement": "2025-04-11T21:45:00"
+        "last_update": "2025-04-11T23:21:58",
+        "last_announcement": "2025-04-11T23:05:00"
     },
     "IN-25-02038": {
         "description": {
@@ -3330,11 +3291,18 @@
                 "ID": "113318",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Fu Road roundabout  is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，龍富路迴旋處的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-11T23:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113323",
+                "CONTENT_EN": "Part of the lanes of Lung Fu Road roundabout  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍富路迴旋處的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-04-11T22:33:43",
-        "last_announcement": "2025-04-11T22:19:00"
+        "last_update": "2025-04-11T23:21:58",
+        "last_announcement": "2025-04-11T23:11:00"
     },
     "IN-25-02039": {
         "description": {
@@ -3399,5 +3367,37 @@
         "district": "元朗區",
         "last_update": "2025-04-11T22:46:19",
         "last_announcement": "2025-04-11T22:35:00"
+    },
+    "IN-25-02041": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Emergency repair of road surface",
+            "INCIDENT_DETAIL_CN": "緊急路面維修",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tseung Kwan O Tunnel",
+            "DIRECTION_CN": "將軍澳隧道",
+            "NEAR_LANDMARK_EN": "Tsui Ping South Estate",
+            "NEAR_LANDMARK_CN": "翠屏南邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-11T22:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113321",
+                "CONTENT_EN": "Due to emergency repair of road surface , part of the lanes of Tseung Kwan O Road (Tseung Kwan O Tunnel bound) near Tsui Ping South Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因緊急路面維修，將軍澳道(往將軍澳隧道方向)近翠屏南邨的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-04-11T23:21:58",
+        "last_announcement": "2025-04-11T22:51:00"
     }
 }
