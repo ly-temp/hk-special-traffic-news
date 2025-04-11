@@ -2660,11 +2660,18 @@
                 "ID": "113258",
                 "CONTENT_EN": "Due to low visibility , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge, with details as shown below: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge are lowered from 100km/h to 60 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge is lowered from 80km/h to 60 km/h.",
                 "CONTENT_CN": "由於能見度低，港珠澳大橋主橋已實施以下特別交通及運輸安排： (i)港珠澳大橋主橋的快線及中線車速限制由每小時100公里降至每小時60 公里；及 (ii)港珠澳大橋主橋的慢線車速限制由每小時80公里降至每小時60 公里。"
+            },
+            "2025-04-11T14:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113283",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge has resumed 100 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge has resumed 80km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋主橋已實施以下安排： (i)港珠澳大橋主橋的快線及中線車速限制恢復為每小時100公里；及 (ii)港珠澳大橋主橋的慢線車速限制恢復為每小時80公里。"
             }
         },
         "district": null,
-        "last_update": "2025-04-11T06:26:10",
-        "last_announcement": "2025-04-11T06:10:00"
+        "last_update": "2025-04-11T14:35:05",
+        "last_announcement": "2025-04-11T14:15:00"
     },
     "IN-25-02010": {
         "description": {
@@ -3089,10 +3096,49 @@
                 "ID": "113281",
                 "CONTENT_EN": "Due to traffic accident , part of the lanes of Tsing Wun Road (Butterfly Beach bound) near Hong Kong Institute of Vocational Education (Tuen Mun) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
                 "CONTENT_CN": "因交通意外，青雲路(往蝴蝶灣方向)近香港專業教育學院屯門分校的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-04-11T14:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "113282",
+                "CONTENT_EN": "Part of the lanes of Tsing Wun Road (Butterfly Beach bound) near Hong Kong Institute of Vocational Education (Tuen Mun) which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的青雲路(往蝴蝶灣方向)近香港專業教育學院屯門分校的部份行車線現已解封。"
             }
         },
         "district": "屯門區",
-        "last_update": "2025-04-11T13:49:04",
-        "last_announcement": "2025-04-11T13:31:00"
+        "last_update": "2025-04-11T14:35:05",
+        "last_announcement": "2025-04-11T14:05:00"
+    },
+    "IN-25-02023": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Man Kam To Road",
+            "LOCATION_CN": "文錦渡路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Fu Tei Au Road",
+            "NEAR_LANDMARK_CN": "虎地㘭道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-04-11T14:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "113284",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Man Kam To Road (both bounds) near Fu Tei Au Road are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，文錦渡路(來回方向)近虎地㘭道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "北區",
+        "last_update": "2025-04-11T14:35:05",
+        "last_announcement": "2025-04-11T14:25:00"
     }
 }
