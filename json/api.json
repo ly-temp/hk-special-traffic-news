@@ -1,0 +1,1115 @@
+{
+    "IN-25-02463": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Nathan Road",
+            "LOCATION_CN": "彌敦道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Waterloo Road",
+            "NEAR_LANDMARK_CN": "窩打老道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T08:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114288",
+                "CONTENT_EN": "Due to fire , part of the lanes of Nathan Road (Mong Kok bound) near Waterloo Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因火警，彌敦道(往旺角方向)近窩打老道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-04T08:54:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114289",
+                "CONTENT_EN": "Part of the lanes of Nathan Road (Mong Kok bound) near Waterloo Road which was closed due to fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因火警而封閉的彌敦道(往旺角方向)近窩打老道的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-05-04T10:42:30",
+        "last_announcement": "2025-05-04T08:54:00"
+    },
+    "IN-25-02464": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy Road Sections (Chai Wan)",
+            "LOCATION_CN": "繁忙路段(柴灣)",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T10:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114290",
+                "CONTENT_EN": "The following road sections are busy:\n– Lin Shing Road\n– Cape Collinson Road\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n–連城道\n–歌連臣角道\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            },
+            "2025-05-04T15:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114302",
+                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Lin Shing Road\n– Cape Collinson Road.",
+                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–連城道\n–歌連臣角道。"
+            }
+        },
+        "district": "東區",
+        "last_update": "2025-05-04T15:54:01",
+        "last_announcement": "2025-05-04T15:42:00"
+    },
+    "IN-25-02465": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": "East Rail Line Service Disruption",
+            "LOCATION_CN": "東鐵綫服務延誤",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T11:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114291",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that there is an additional travelling time of 10 to 15 minutes on the East Rail Line between Admiralty and Lo Wu or Lok Ma Chau because of a technical fault on a train near TaiPo Market Station.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於大埔墟站附近有列車機件故障，東鐵綫來往金鐘至羅湖或落馬洲的車程延長10至15分鐘。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2025-05-04T11:59:52",
+        "last_announcement": "2025-05-04T11:26:00"
+    },
+    "IN-25-02467": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Salisbury Road",
+            "LOCATION_CN": "梳士巴利道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom",
+            "DIRECTION_CN": "紅磡",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T13:08:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114292",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Salisbury Road (Hung Hom bound) and Nathan Road (Mong Kok bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，梳士巴利道(往紅磡方向)和彌敦道(往旺角方向) 交界的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-04T13:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114293",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of the junction of Salisbury Road (Hung Hom bound) and Nathan Road (Mong Kok bound) is closed to all traffic. \nOnly remaining lane is available to motorists.   At the same time, vehicles cannot turn from Salisbury Road (both bounds) to Nathan Road (Mong Kok bound).   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，梳士巴利道(往紅磡方向)和彌敦道(往旺角方向) 交界的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  同時，車輛不能由梳士巴利道(來回方向)轉入彌敦道(往旺角方向)。  現時上址交通繁忙。"
+            },
+            "2025-05-04T13:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114296",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Nathan Road (Mong Kok bound) near Salisbury Road is still being closed to all traffic. \nOnly remaining lane is available to motorists.   Part of the lanes of Salisbury Road (Hung Hom bound) which was closed is re-opened to all traffic.   Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，彌敦道(往旺角方向)近梳士巴利道的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  較早前封閉的梳士巴利道(往紅磡⽅向)的部份⾏⾞線現已解封。  現時上址交通繁忙。"
+            },
+            "2025-05-04T14:36:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114300",
+                "CONTENT_EN": "Part of the lanes of Nathan Road (Mong Kok bound) near Salisbury Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的彌敦道(往旺角方向)近梳士巴利道的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-05-04T14:49:47",
+        "last_announcement": "2025-05-04T14:36:00"
+    },
+    "IN-25-02466": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Inbound Cross-boundary Transportation Arrangements/Precautions during Labour Day and The Birthday of the Buddha holidays",
+            "INCIDENT_DETAIL_CN": "勞動節及佛誕假期入境跨境交通安排/注意事項",
+            "LOCATION_EN": "Inbound Cross-boundary Transportation Arrangements / Precautions during Labour Day and The Birthday of the Buddha holidays",
+            "LOCATION_CN": "勞動節及佛誕假期入境跨境交通安排/注意事項",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T14:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114297",
+                "CONTENT_EN": "The Transport Department (TD) anticipates that more travellers would return to Hong Kong via land-based Boundary Control Points later today (4 May) and tomorrow (5 May). It is anticipated that the demand for public transport services will be higher during the period and the waiting time would increase. The Transport Department has instructed public transport operators to strengthen their services to meet passenger demand. In the meantime, the number of cross boundary private cars travelling to / from the Mainland / Macao via the HZMB will also increase substantially. The TD appeals to these inbound travellers to plan their journeys ahead, allow sufficient travelling time and travel outside peak periods as far as possible. In order to plan their journeys ahead, the public can make use of the TD's HKeMobility mobile application to access snapshots of traffic conditions at inbound and outbound vehicle plazas of the Hong Kong Port. They can also check real-time situations of the vehicle clearance plaza of the Zhuhai port through the WeChat official accounts \"hzmbzhport\" or \"zhuhaifabu\" (traffic-info. gzazhka. com:5015/#/) (Chinese only), and check the forecast of peak hours of inbound and outbound vehicles at the HZMB Zhuhai Port through the WeChat official account of the HZMB integrated information dissemination platform (mp. weixin. qq. com/s/PXLza25svheLQZuTXSbwFQ) (Chinese only). The TD will closely monitor the traffic conditions at all BCPs and disseminate the latest traffic information to the public. Members of the public are advised to check the latest traffic news through radio, television broadcasts, and HKeMobility.",
+                "CONTENT_CN": "運輸署預計今日較後時間(5月4日)及明日(5月5日)將有較多跨境旅客使用各陸路管制站回港，預計在返港高峰時間的公共運輸需求會較高，乘客候車時間亦會較長。運輸署已指示公共運輸服務營辦商加強服務應付乘客需求。而經港珠澳大橋往返內地／澳門的跨境私家車亦會顯著增加，運輸署呼籲有關旅客預早妥善規劃行程，預留充裕交通時間，盡量選擇於非繁忙時段出行。 市民可透過運輸署流動應用程式「香港出行易」查閱大橋香港口岸出境及入境客車通關廣場的交通快拍，亦可透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務（traffic-info.gzazhka.com:5015/#/），查閱大橋珠海口岸的車輛實時通關情況；以及透過「港珠澳大橋統一信息發布平台」微信公眾號（mp.weixin.qq.com/s/PXLza25svheLQZuTXSbwFQ），查看大橋珠海口岸車輛出入境高峰時段預測，以便及早計劃行程。 運輸署會密切留意各口岸的交通情況，並向市民發放最新交通消息。請市民留意電台、電視台及「香港出行易」發放的最新交通消息。"
+            },
+            "2025-05-05T10:23:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114318",
+                "CONTENT_EN": "The Transport Department (TD) anticipates that more travellers would return to Hong Kong via land-based Boundary Control Points today (5 May). It is anticipated that the demand for public transport services will be higher during the period and the waiting time would increase. The Transport Department has instructed public transport operators to strengthen their services to meet passenger demand. In the meantime, the number of cross boundary private cars travelling to / from the Mainland / Macao via the HZMB will also increase substantially. The TD appeals to these inbound travellers to plan their journeys ahead, allow sufficient travelling time and travel outside peak periods as far as possible. In order to plan their journeys ahead, the public can make use of the TD's HKeMobility mobile application to access snapshots of traffic conditions at inbound and outbound vehicle plazas of the Hong Kong Port. They can also check real-time situations of the vehicle clearance plaza of the Zhuhai port through the WeChat official accounts \"hzmbzhport\" or \"zhuhaifabu\" (traffic-info. gzazhka. com:5015/#/) (Chinese only), and check the forecast of peak hours of inbound and outbound vehicles at the HZMB Zhuhai Port through the WeChat official account of the HZMB integrated information dissemination platform (mp. weixin. qq. com/s/PXLza25svheLQZuTXSbwFQ) (Chinese only). The TD will closely monitor the traffic conditions at all BCPs and disseminate the latest traffic information to the public. Members of the public are advised to check the latest traffic news through radio, television broadcasts, and HKeMobility.",
+                "CONTENT_CN": "運輸署預計今日(5月5日)將有較多跨境旅客使用各陸路管制站回港，預計在返港高峰時間的公共運輸需求會較高，乘客候車時間亦會較長。運輸署已指示公共運輸服務營辦商加強服務應付乘客需求。而經港珠澳大橋往返內地／澳門的跨境私家車亦會顯著增加，運輸署呼籲有關旅客預早妥善規劃行程，預留充裕交通時間，盡量選擇於非繁忙時段出行。 市民可透過運輸署流動應用程式「香港出行易」查閱大橋香港口岸出境及入境客車通關廣場的交通快拍，亦可透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務（traffic-info.gzazhka.com:5015/#/），查閱大橋珠海口岸的車輛實時通關情況；以及透過「港珠澳大橋統一信息發布平台」微信公眾號（mp.weixin.qq.com/s/PXLza25svheLQZuTXSbwFQ），查看大橋珠海口岸車輛出入境高峰時段預測，以便及早計劃行程。 運輸署會密切留意各口岸的交通情況，並向市民發放最新交通消息。請市民留意電台、電視台及「香港出行易」發放的最新交通消息。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2025-05-05T11:34:01",
+        "last_announcement": "2025-05-05T10:23:00"
+    },
+    "IN-25-02468": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic lights malfunction",
+            "INCIDENT_DETAIL_CN": "交通燈失靈",
+            "LOCATION_EN": "Junction of Salisbury Road and Nathan Road",
+            "LOCATION_CN": "梳士巴利道和彌敦道交界",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T14:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114298",
+                "CONTENT_EN": "Due to malfunction of traffic lights at the junction of Salisbury Road and Nathan Road, motorists are advised to drive with utmost care when passing through the road junctions, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.",
+                "CONTENT_CN": "由於梳⼠巴利道和彌敦道交界的交通燈失靈，駕駛人士在駛經有關路口時，請加倍小心，注意交通標誌的指示並留意過路行人的安全。行人在交通燈失靈的路口橫過馬路時，請特別注意車輛。"
+            },
+            "2025-05-04T14:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114299",
+                "CONTENT_EN": "The traffic light at the junction of Salisbury Road and Nathan Road has resumed normal services.",
+                "CONTENT_CN": "位於梳⼠巴利道和彌敦道交界的交通燈已恢復正常運作。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-05-04T14:49:47",
+        "last_announcement": "2025-05-04T14:21:00"
+    },
+    "IN-25-02469": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Prince Edward Road West",
+            "LOCATION_CN": "太子道西",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Waterloo Road",
+            "NEAR_LANDMARK_CN": "窩打老道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T15:16:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114301",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Prince Edward Road West (Mong Kok bound) near Waterloo Road is closed to all traffic. \nOnly remaining lanes are available to motorists.   At the same time, vehicles cannot make left turning from Prince Edward Road West (Mong Kok bound) to Waterloo Road.   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，太子道西(往旺角方向)近窩打老道的部份行車線現已封閉。\n駕駛人士只可使用餘下行車線行車。  同時，車輛不能由太子道西(往旺角方向)左轉窩打老道。  現時上址交通繁忙。"
+            },
+            "2025-05-04T16:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114303",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Prince Edward Road West (Mong Kok bound) near Waterloo Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists.   Vehicles cannot make left turning from Prince Edward Road West (Mong Kok bound) to Waterloo Road (Yau Ma Tei bound). \nAt the same time, vehicles from Waterloo Road (Lion Rock Tunnel bound) can only make left turning to Prince Edward Road West (Mong Kok bound).   Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，太子道西(往旺角方向)近窩打老道的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  ⾞輛不能由太⼦道西(往旺⾓⽅向)左轉窩打⽼道(往油麻地方向)。\n同時，由窩打⽼道(往獅子山隧道方向)的車輛只能左轉太子道西(往旺⾓方向)。  現時上址交通繁忙。"
+            },
+            "2025-05-04T18:39:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114306",
+                "CONTENT_EN": "Due to watermain burst , the slow lane of Prince Edward Road West (Mong Kok bound) near Waterloo Road is still being closed to all traffic. Only remaining lanes are available to motorists. Vehicles from Waterloo Road (Lion Rock Tunnel bound) can only make left turning to Prince Edward Road West (Mong Kok bound). Traffic is busy now.",
+                "CONTENT_CN": "因水管爆裂，太子道西(往旺角方向)近窩打老道的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。 由窩打⽼道(往獅子山隧道方向)的車輛只能左轉太子道西(往旺⾓方向)。 現時上址交通繁忙。"
+            },
+            "2025-05-04T19:42:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114307",
+                "CONTENT_EN": "Due to watermain burst , the slow lane of Prince Edward Road West (Mong Kok bound) near Waterloo Road is still being closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因水管爆裂，太子道西(往旺角方向)近窩打老道的慢線仍然封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-05-05T21:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114338",
+                "CONTENT_EN": "Due to watermain emergency works , the slow lane of Prince Edward Road West (Mong Kok bound) near Waterloo Road is still being closed to all traffic. \nOnly remaining lanes are available to motorists. \nAt the same time, vehicles cannot make right turning from Waterloo Road (northbound) via Prince Edward Road West onto Boundary Street.",
+                "CONTENT_CN": "因水管緊急維修，太子道西(往旺角方向)近窩打老道的慢線仍然封閉。\n駕駛人士只可使用餘下行車線行車。\n同時，車輛不能由窩打老道(北行)經太子道西右轉界限街。"
+            },
+            "2025-05-06T06:11:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114342",
+                "CONTENT_EN": "The slow lane of Prince Edward Road West (Mong Kok bound) near Waterloo Road which was closed due to watermain emergency works is re-opened to all traffic. At the same time, the traffic arrangement of banning right turning from Waterloo Road (northbound) via Prince Edward Road West onto Boundary Street which was implemented before is now cancelled.",
+                "CONTENT_CN": "較早前因水管緊急維修而封閉的太子道西(往旺角方向)近窩打老道的慢線現已解封。 同時，較早前實施的禁止車輛由窩打⽼道(北⾏)經太⼦道西右轉界限街的行車措施現已取消。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-05-06T06:34:38",
+        "last_announcement": "2025-05-06T06:11:00"
+    },
+    "IN-25-02470": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Sha Tin",
+            "DIRECTION_CN": "沙田",
+            "NEAR_LANDMARK_EN": "Deerhill Bay",
+            "NEAR_LANDMARK_CN": "鹿茵山莊",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T18:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114304",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the s and slow lanes of Tolo Highway (Sha Tin bound) near Deerhill Bay is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，吐露港公路(往沙田方向)近鹿茵山莊的部份及慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-04T18:31:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114305",
+                "CONTENT_EN": "Part of the s and slow lanes of Tolo Highway (Sha Tin bound) near Deerhill Bay which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的吐露港公路(往沙田方向)近鹿茵山莊的部份及慢線現已解封。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2025-05-04T18:44:53",
+        "last_announcement": "2025-05-04T18:31:00"
+    },
+    "IN-25-02471": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwai Chung Road",
+            "LOCATION_CN": "葵涌道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Lai Chi Kok Fire Station",
+            "NEAR_LANDMARK_CN": "荔枝角消防局",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-04T20:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114308",
+                "CONTENT_EN": "Due to traffic accident , the fast lane of Kwai Chung Road (Mong Kok bound) near Lai Chi Kok Fire Station is closed to all traffic. Only remaining lane is available to motorists.",
+                "CONTENT_CN": "因交通意外，葵涌道(往旺角方向)近荔枝角消防局的快線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-05-04T20:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114309",
+                "CONTENT_EN": "The fast lane of Kwai Chung Road (Mong Kok bound) near Lai Chi Kok Fire Station which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的葵涌道(往旺角方向)近荔枝角消防局的快線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-05-04T20:47:31",
+        "last_announcement": "2025-05-04T20:09:00"
+    },
+    "IN-25-02472": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge",
+            "LOCATION_CN": "港珠澳大橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T00:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114310",
+                "CONTENT_EN": "As more cross-boundary vehicles are returning to Hong Kong via the Hong Kong-Zhuhai-Macao Bridge (HZMB), the inbound vehicle clearance plaza of the HZMB Hong Kong Port is very busy now. Affected motorists please follow the instruction of on-site staff, drive with care and be patient while queuing. The public may make use of \"HKeMobility\" to access the snapshots of traffic conditions at the inbound vehicle plazas of Hong Kong-Zhuhai-Macao Bridge (HZMB) Hong Kong Port.",
+                "CONTENT_CN": "由於有較多跨境車輛經港珠澳大橋回港，港珠澳大橋香港口岸的入境車輛通關廣場現時非常繁忙，請受影響的駕駛人士依照現場工作人員的指示，小心駕駛及在輪候時保持忍讓。市民亦可透過「香港出行易」查閱港珠澳大橋香港口岸入境客車通關廣場的交通快拍。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2025-05-05T01:06:30",
+        "last_announcement": "2025-05-05T00:45:00"
+    },
+    "IN-25-02473": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Dai Fat Street",
+            "LOCATION_CN": "大發街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Ting Kok Road",
+            "DIRECTION_CN": "汀角路",
+            "NEAR_LANDMARK_EN": "Dai Shing Street",
+            "NEAR_LANDMARK_CN": "大盛街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T08:29:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114313",
+                "CONTENT_EN": "Due to traffic accident , all lanes of Dai Fat Street (Ting Kok Road bound) near Dai Shing Street are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，大發街(往汀角路方向)近大盛街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            },
+            "2025-05-05T08:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114314",
+                "CONTENT_EN": "All lanes of Dai Fat Street (Ting Kok Road bound) near Dai Shing Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的大發街(往汀角路方向)近大盛街的全線現已解封。"
+            }
+        },
+        "district": "大埔區",
+        "last_update": "2025-05-05T08:58:06",
+        "last_announcement": "2025-05-05T08:34:00"
+    },
+    "IN-25-02474": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Shun Fai Road",
+            "LOCATION_CN": "順暉路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port Passenger Clearance Building",
+            "NEAR_LANDMARK_CN": "港珠澳大橋香港口岸旅檢大樓",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T08:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114315",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Shun Fai Road  near Hong Kong-Zhuhai-Macao Bridge Hong Kong Port Passenger Clearance Building is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，順暉路近港珠澳大橋香港口岸旅檢大樓的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-05T09:01:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "114316",
+                "CONTENT_EN": "Part of the lanes of Shun Fai Road  near Hong Kong-Zhuhai-Macao Bridge Hong Kong Port Passenger Clearance Building which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的順暉路近港珠澳大橋香港口岸旅檢大樓的部份行車線現已解封。"
+            }
+        },
+        "district": "離島區",
+        "last_update": "2025-05-05T10:45:57",
+        "last_announcement": "2025-05-05T09:01:00"
+    },
+    "IN-25-02475": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Cross Harbour Tunnel",
+            "LOCATION_CN": "海底隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T12:46:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114319",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube fast lane of Cross Harbour Tunnel (Kowloon bound) is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，海底隧道(往九龍方向)的管道快線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-05T12:52:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114320",
+                "CONTENT_EN": "The tunnel tube fast lane of Cross Harbour Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的海底隧道(往九龍方向)的管道快線現已解封。"
+            }
+        },
+        "district": "南區",
+        "last_update": "2025-05-05T13:26:46",
+        "last_announcement": "2025-05-05T12:52:00"
+    },
+    "IN-25-02477": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Gascoigne Road Flyover",
+            "LOCATION_CN": "加士居道天橋",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hung Hom",
+            "DIRECTION_CN": "紅磡",
+            "NEAR_LANDMARK_EN": "Prosperous Garden",
+            "NEAR_LANDMARK_CN": "駿發花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T14:24:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114322",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，加士居道天橋(往紅磡方向)近駿發花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-05T14:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114323",
+                "CONTENT_EN": "Part of the lanes of Gascoigne Road Flyover (Hung Hom bound) near Prosperous Garden which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的加士居道天橋(往紅磡方向)近駿發花園的部份行車線現已解封。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-05-05T14:58:27",
+        "last_announcement": "2025-05-05T14:40:00"
+    },
+    "IN-25-02476": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Fat Kwong Street",
+            "LOCATION_CN": "佛光街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "To Kwa Wan",
+            "DIRECTION_CN": "土瓜灣",
+            "NEAR_LANDMARK_EN": "Sheung Shing Street",
+            "NEAR_LANDMARK_CN": "常盛街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T15:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114324",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Fat Kwong Street (To Kwa Wan bound) near Sheung Shing Street is still being closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，佛光街(往土瓜灣方向)近常盛街的部份行車線仍然封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-05T15:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114326",
+                "CONTENT_EN": "Part of the lanes of Fat Kwong Street (To Kwa Wan bound) near Sheung Shing Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的佛光街(往土瓜灣方向)近常盛街的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-05-05T15:59:33",
+        "last_announcement": "2025-05-05T15:40:00"
+    },
+    "IN-25-02478": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Sham Tseng",
+            "NEAR_LANDMARK_CN": "深井",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T15:43:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114327",
+                "CONTENT_EN": "Part of the lanes of Tuen Mun Road (Yuen Long bound) near Sham Tseng which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的屯門公路(往元朗方向)近深井的部份行車線現已解封。"
+            }
+        },
+        "district": "荃灣區",
+        "last_update": "2025-05-05T15:59:33",
+        "last_announcement": "2025-05-05T15:43:00"
+    },
+    "IN-25-02479": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": "Clear Water Bay Road",
+            "LOCATION_CN": "清水灣道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T16:37:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114328",
+                "CONTENT_EN": "Due to malfunction of traffic lights at the junction of Clear Water Bay Road and New Clear Water Bay Road, motorists are advised to drive with utmost care when passing through the road junctions, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.",
+                "CONTENT_CN": "由於清⽔灣道和新清⽔灣道交界路⼝的交通燈失靈，駕駛⼈⼠在駛經有關路⼝時，請加倍⼩⼼，注意交通標誌的指⽰並留意過路⾏⼈的安全。⾏⼈在交通燈失靈的路⼝橫過⾺路時，請特別注意⾞輛。"
+            },
+            "2025-05-05T17:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114331",
+                "CONTENT_EN": "The traffic lights at the junction of Clear Water Bay Road and New Clear Water Bay Road have resumed normal services.",
+                "CONTENT_CN": "位於清⽔灣道和新清⽔灣道交界路⼝的交通燈已恢復正常運作。"
+            },
+            "2025-05-05T18:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114332",
+                "CONTENT_EN": "Due to malfunction of traffic lights at the junction of Clear Water Bay Road and New Clear Water Bay Road, motorists are advised to drive with utmost care when passing through the road junctions, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.",
+                "CONTENT_CN": "由於清⽔灣道和新清⽔灣道交界路⼝的交通燈失靈，駕駛⼈⼠在駛經有關路⼝時，請加倍⼩⼼，注意交通標誌的指⽰並留意過路⾏⼈的安全。⾏⼈在交通燈失靈的路⼝橫過⾺路時，請特別注意⾞輛。"
+            },
+            "2025-05-05T20:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114335",
+                "CONTENT_EN": "The traffic lights at the junction of Clear Water Bay Road and New Clear Water Bay Road have resumed normal services.",
+                "CONTENT_CN": "位於清⽔灣道和新清⽔灣道交界路⼝的交通燈已恢復正常運作。"
+            }
+        },
+        "district": "西貢區",
+        "last_update": "2025-05-05T21:01:00",
+        "last_announcement": "2025-05-05T20:13:00"
+    },
+    "IN-25-02480": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Lai Chi Kok Road",
+            "LOCATION_CN": "荔枝角道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mei Foo",
+            "DIRECTION_CN": "美孚",
+            "NEAR_LANDMARK_EN": "Nam Cheong Street",
+            "NEAR_LANDMARK_CN": "南昌街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T16:43:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114329",
+                "CONTENT_EN": "Due to fire , part of the lanes of Lai Chi Kok Road (Mei Foo bound) near Nam Cheong Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因火警，荔枝角道(往美孚方向)近南昌街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-05T17:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114330",
+                "CONTENT_EN": "Part of the lanes of Lai Chi Kok Road (Mei Foo bound) near Nam Cheong Street which was closed due to fire is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因火警而封閉的荔枝角道(往美孚方向)近南昌街的部份行車線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-05-05T17:36:08",
+        "last_announcement": "2025-05-05T17:08:00"
+    },
+    "IN-25-02482": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Lion Rock Tunnel Road",
+            "LOCATION_CN": "獅子山隧道公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tai Po",
+            "DIRECTION_CN": "大埔",
+            "NEAR_LANDMARK_EN": "Worldwide Gardens",
+            "NEAR_LANDMARK_CN": "世界花園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-05T19:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114334",
+                "CONTENT_EN": "Due to vehicle breakdown , part of the lanes of Lion Rock Tunnel Road (Tai Po bound) near Worldwide Gardens is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，獅子山隧道公路(往大埔方向)近世界花園的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-05T20:41:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "114336",
+                "CONTENT_EN": "Part of the lanes of Lion Rock Tunnel Road (Tai Po bound) near Worldwide Gardens which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的獅子山隧道公路(往大埔方向)近世界花園的部份行車線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-05-05T21:01:00",
+        "last_announcement": "2025-05-05T20:41:00"
+    },
+    "IN-25-02483": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Man Fung Path",
+            "LOCATION_CN": "民豐徑",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Princess Margaret Road",
+            "DIRECTION_CN": "公主道",
+            "NEAR_LANDMARK_EN": "Pui Ching Road",
+            "NEAR_LANDMARK_CN": "培正道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T00:38:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114340",
+                "CONTENT_EN": "Due to traffic accident , the only lane of Man Fung Path (Princess Margaret Road bound) near Pui Ching Road is closed to all traffic. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因交通意外，民豐徑(往公主道方向)近培正道的唯一行車線現已封閉。 駕駛人士請考慮改用其他道路。"
+            },
+            "2025-05-06T06:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114341",
+                "CONTENT_EN": "The only lane of Man Fung Path (Princess Margaret Road bound) near Pui Ching Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的民豐徑(往公主道方向)近培正道的唯一行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-05-06T06:34:38",
+        "last_announcement": "2025-05-06T06:05:00"
+    },
+    "IN-25-02484": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Cheung Road",
+            "LOCATION_CN": "龍翔道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Ping Shek Estate",
+            "NEAR_LANDMARK_CN": "坪石邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T07:44:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114343",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Lung Cheung Road flyover (Kwun Tong bound) near Ping Shek Estate is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍翔道天橋(往觀塘方向)近坪石邨的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-06T07:58:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "114344",
+                "CONTENT_EN": "The slow lane of Lung Cheung Road flyover (Kwun Tong bound) near Ping Shek Estate which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍翔道天橋(往觀塘方向)近坪石邨的慢線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-05-06T09:23:12",
+        "last_announcement": "2025-05-06T07:58:00"
+    },
+    "IN-25-02485": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Boundary Street",
+            "LOCATION_CN": "界限街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "Earl Street",
+            "NEAR_LANDMARK_CN": "伯爵街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T08:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114345",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Boundary Street (Kwun Tong bound) near Earl Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，界限街(往觀塘方向)近伯爵街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-06T09:04:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114352",
+                "CONTENT_EN": "Part of the lanes of Boundary Street (Kwun Tong bound) near Earl Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的界限街(往觀塘方向)近伯爵街的部份行車線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-05-06T09:23:12",
+        "last_announcement": "2025-05-06T09:04:00"
+    },
+    "IN-25-02486": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tolo Highway",
+            "LOCATION_CN": "吐露港公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": "Hong Kong Science Park",
+            "NEAR_LANDMARK_CN": "香港科學園",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T08:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114346",
+                "CONTENT_EN": "Due to vehicle breakdown , the slow lane of Tolo Highway (Kowloon bound) near Hong Kong Science Park is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，吐露港公路(往九龍方向)近香港科學園的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-06T08:33:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "114348",
+                "CONTENT_EN": "The slow lane of Tolo Highway (Kowloon bound) near Hong Kong Science Park which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的吐露港公路(往九龍方向)近香港科學園的慢線現已解封。"
+            }
+        },
+        "district": "沙田區",
+        "last_update": "2025-05-06T09:23:12",
+        "last_announcement": "2025-05-06T08:33:00"
+    },
+    "IN-25-02487": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Lung Wo Road",
+            "LOCATION_CN": "龍和道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Causeway Bay",
+            "DIRECTION_CN": "銅鑼灣",
+            "NEAR_LANDMARK_EN": "Yiu Sing Street",
+            "NEAR_LANDMARK_CN": "耀星街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T08:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114347",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Lung Wo Road (Causeway Bay bound) near Yiu Sing Street is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，龍和道(往銅鑼灣方向)近耀星街的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-06T08:38:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "114350",
+                "CONTENT_EN": "Part of the lanes of Lung Wo Road (Causeway Bay bound) near Yiu Sing Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的龍和道(往銅鑼灣方向)近耀星街的部份行車線現已解封。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2025-05-06T09:23:12",
+        "last_announcement": "2025-05-06T08:38:00"
+    },
+    "IN-25-02488": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Austin Road",
+            "LOCATION_CN": "柯士甸道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T08:33:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114349",
+                "CONTENT_EN": "Due to traffic accident, vehicles making turns from Austin Road (Both Bounds) onto Cox's Road are prohibited. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，車輛禁止由柯士甸道(來回方向)轉入覺士道。 現時上址交通繁忙。"
+            },
+            "2025-05-06T09:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114355",
+                "CONTENT_EN": "The traffic arrangement of banning turns to Cox's Road from Austin Road (both bounds) which was implemented before due to traffic accident is now cancelled.",
+                "CONTENT_CN": "較早前因交通意外而實施的車輛不能由柯士甸道(來回方向)轉入覺士道的行車措施現已取消。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-05-06T10:51:58",
+        "last_announcement": "2025-05-06T09:18:00"
+    },
+    "IN-25-02489": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "West Kowloon Highway",
+            "LOCATION_CN": "西九龍公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Western Harbour Crossing",
+            "DIRECTION_CN": "西區海底隧道",
+            "NEAR_LANDMARK_EN": "Hoi Tat Estate",
+            "NEAR_LANDMARK_CN": "海達邨",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T09:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114353",
+                "CONTENT_EN": "Due to vehicle breakdown , the middle lane of West Kowloon Highway (Western Harbour Crossing bound) near Hoi Tat Estate is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因車輛故障，西九龍公路(往西區海底隧道方向)近海達邨的中線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            },
+            "2025-05-06T09:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114354",
+                "CONTENT_EN": "The middle lane of West Kowloon Highway (Western Harbour Crossing bound) near Hoi Tat Estate which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的西九龍公路(往西區海底隧道方向)近海達邨的中線現已解封。"
+            }
+        },
+        "district": "深水埗區",
+        "last_update": "2025-05-06T10:51:58",
+        "last_announcement": "2025-05-06T09:15:00"
+    },
+    "IN-25-02492": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Leighton Road",
+            "LOCATION_CN": "禮頓道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Canal Road East",
+            "NEAR_LANDMARK_CN": "堅拿道東",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T09:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114358",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Leighton Road (both bounds) near Canal Road East are closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，禮頓道(來回方向)近堅拿道東的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "灣仔區",
+        "last_update": "2025-05-06T10:51:58",
+        "last_announcement": "2025-05-06T09:47:00"
+    },
+    "IN-25-02490": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yau Tong",
+            "DIRECTION_CN": "油塘",
+            "NEAR_LANDMARK_EN": "Yue Man Square",
+            "NEAR_LANDMARK_CN": "裕民坊",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-06T09:56:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114360",
+                "CONTENT_EN": "Part of the lanes of Kwun Tong Road (Yau Tong bound) near Yue Man Square which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的觀塘道(往油塘方向)近裕民坊的部份行車線現已解封。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-05-06T10:51:58",
+        "last_announcement": "2025-05-06T09:56:00"
+    }
+}
