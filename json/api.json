@@ -105,38 +105,6 @@
         "last_update": "2025-05-06T06:34:38",
         "last_announcement": "2025-05-06T06:11:00"
     },
-    "IN-25-02472": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": "Hong Kong-Zhuhai-Macao Bridge",
-            "LOCATION_CN": "港珠澳大橋",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-05-05T00:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "114310",
-                "CONTENT_EN": "As more cross-boundary vehicles are returning to Hong Kong via the Hong Kong-Zhuhai-Macao Bridge (HZMB), the inbound vehicle clearance plaza of the HZMB Hong Kong Port is very busy now. Affected motorists please follow the instruction of on-site staff, drive with care and be patient while queuing. The public may make use of \"HKeMobility\" to access the snapshots of traffic conditions at the inbound vehicle plazas of Hong Kong-Zhuhai-Macao Bridge (HZMB) Hong Kong Port.",
-                "CONTENT_CN": "由於有較多跨境車輛經港珠澳大橋回港，港珠澳大橋香港口岸的入境車輛通關廣場現時非常繁忙，請受影響的駕駛人士依照現場工作人員的指示，小心駕駛及在輪候時保持忍讓。市民亦可透過「香港出行易」查閱港珠澳大橋香港口岸入境客車通關廣場的交通快拍。"
-            }
-        },
-        "district": "離島區",
-        "last_update": "2025-05-05T01:06:30",
-        "last_announcement": "2025-05-05T00:45:00"
-    },
     "IN-25-02473": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
