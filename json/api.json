@@ -62,5 +62,37 @@
         "district": null,
         "last_update": "2025-05-08T15:31:41",
         "last_announcement": "2025-05-08T15:00:00"
+    },
+    "IN-25-02567": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Concerts in Kai Tak Keep Rolling in May",
+            "INCIDENT_DETAIL_CN": "五月啟德演唱會",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-09T12:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114535",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Kai Tak Sports Park will host concerts in the evenings on 9 – 11 and 13 May. Passenger heading to the venue, should exit at either Kai Tak or Sung Wong Toi Station. Passenger should set off early, as the stations may be relatively busy during entry time. After the show, MTR Corporation Limited will increase the train frequency as necessary to facilitate passengers’ return. Allow extra time for your journeys and have your return ticket ready in advance. Departure time of the last train connecting to Lo Wu: Sung Wong Toi Station: 22:59 Kai Tak Station: 23:01",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 啟德體育園於5月9至11及13日晚上舉行演唱會，前往觀賞的乘客可使用啟德或宋皇臺站。入場時間車站相對繁忙，乘客可預早出發。 散場時，港鐵公司會按需要加密列車班次。請為行程預留較多時間及準備回程車票。 羅湖尾班車時間： 宋皇臺站:22:59 啟德站:23:01"
+            }
+        },
+        "district": null,
+        "last_update": "2025-05-09T12:32:17",
+        "last_announcement": "2025-05-09T12:02:00"
     }
 }
