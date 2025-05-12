@@ -293,5 +293,101 @@
         "district": "元朗區",
         "last_update": "2025-05-12T18:15:03",
         "last_announcement": "2025-05-12T17:30:00"
+    },
+    "IN-25-02638": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Connaught Road Central",
+            "LOCATION_CN": "干諾道中",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Wan Chai",
+            "DIRECTION_CN": "灣仔",
+            "NEAR_LANDMARK_EN": "Hong Kong City Hall",
+            "NEAR_LANDMARK_CN": "香港大會堂",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-12T18:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "114692",
+                "CONTENT_EN": "Part of the lanes of Connaught Road Central (Wan Chai bound) near Hong Kong City Hall which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的干諾道中(往灣仔方向)近香港大會堂的部份行車線現已解封。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2025-05-12T18:41:26",
+        "last_announcement": "2025-05-12T18:00:00"
+    },
+    "IN-25-02639": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": "Wai Yip Street",
+            "LOCATION_CN": "偉業街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Kwun Tong Public Pier",
+            "NEAR_LANDMARK_CN": "觀塘公衆碼頭",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-12T18:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114693",
+                "CONTENT_EN": "Due to road works, the slow lane of Wai Yip Street (Mong Kok bound) near Kwun Tong Public Pier is closed to all traffic. \nOnly remaining lanes are available to motorists.   Traffic is busy now.",
+                "CONTENT_CN": "因道路工程，偉業街(往旺角方向)近觀塘公衆碼頭的慢線現已封閉。\n駕駛人士只可使用餘下行車線行車。  現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-05-12T18:41:26",
+        "last_announcement": "2025-05-12T18:12:00"
+    },
+    "IN-25-02640": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Fire",
+            "INCIDENT_DETAIL_CN": "火警",
+            "LOCATION_EN": "Des Voeux Road West",
+            "LOCATION_CN": "德輔道西",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kennedy Town",
+            "DIRECTION_CN": "堅尼地城",
+            "NEAR_LANDMARK_EN": "Water Street",
+            "NEAR_LANDMARK_CN": "水街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-12T18:22:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "114694",
+                "CONTENT_EN": "Due to fire , all lanes of Des Voeux Road West (Kennedy Town bound) near Water Street are closed to all traffic. Motorists are advised to use alternative routes. Traffic is busy now.",
+                "CONTENT_CN": "因火警，德輔道西(往堅尼地城方向)近水街的全線現已封閉。 駕駛人士請考慮改用其他道路。 現時上址交通繁忙。"
+            }
+        },
+        "district": "中西區",
+        "last_update": "2025-05-12T18:41:26",
+        "last_announcement": "2025-05-12T18:22:00"
     }
 }
