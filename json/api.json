@@ -1,36 +1,4 @@
 {
-    "IN-25-02606": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": "Cross Harbour Tunnel",
-            "LOCATION_CN": "海底隧道",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-05-12T01:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "114654",
-                "CONTENT_EN": "Part of the lanes of Cross Harbour Tunnel (Ho Man Tin bound) near The Hong Kong Polytechnic University, which was closed due to malfunction of traffic light, are re-opened to all traffic. The traffic light at the road section concerned has resumed normal.",
-                "CONTENT_CN": "較早前因交通燈失靈而封閉的海底隧道(往何文田方向)近香港理工大學的部份行車線現已解封。位於該路段的交通燈已恢復正常運作。"
-            }
-        },
-        "district": "南區",
-        "last_update": "2025-05-12T01:39:11",
-        "last_announcement": "2025-05-12T01:24:00"
-    },
     "IN-25-02626": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
