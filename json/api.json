@@ -30,5 +30,37 @@
         "district": "東區",
         "last_update": "2025-05-16T13:14:49",
         "last_announcement": "2025-05-16T12:28:00"
+    },
+    "IN-25-02773": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Fung Tak Road",
+            "LOCATION_CN": "鳳德道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": "Po Kong Village Road",
+            "NEAR_LANDMARK_CN": "蒲崗村道",
+            "BETWEEN_LANDMARK_EN": "Fung Tak Estate access road",
+            "BETWEEN_LANDMARK_CN": "鳳德邨通道",
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-18T00:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "115014",
+                "CONTENT_EN": "Due to watermain burst , all lanes of Fung Tak Road (both bounds) between Po Kong Village Road and Fung Tak Estate access road are closed to all traffic. Affected KMB routes nos. 3B, 10, 11, 11C, 61X, 75X, 82X, 85M, 91M and 671, as well as CTB route nos. A23 and N23 have been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application. Motorists are advised to use alternative routes.",
+                "CONTENT_CN": "因水管爆裂，鳳德道(來回方向)介乎蒲崗村道與鳳德邨通道之間的全線現已封閉。 受影響九巴第3B、10、11、11C、61X、75X、82X、85M、91M及671號線，以及城巴第A23及N23號線須改道⾏駛。有關個別巴⼠路線的最新服務情況，市⺠可參閱巴⼠公司的網⾴或流動應⽤程式內的資訊。 駕駛人士請考慮改用其他道路。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2025-05-18T05:16:44",
+        "last_announcement": "2025-05-18T00:33:00"
     }
 }
