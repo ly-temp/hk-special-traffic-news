@@ -44,5 +44,204 @@
         "district": null,
         "last_update": "2025-05-18T15:22:46",
         "last_announcement": "2025-05-18T15:08:00"
+    },
+    "IN-25-02819": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Tseung Kwan O Road",
+            "LOCATION_CN": "將軍澳道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "East Kowloon Government Offices",
+            "NEAR_LANDMARK_CN": "東九龍政府合署",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-21T08:36:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "115132",
+                "CONTENT_EN": "Part of the lanes of Tseung Kwan O Road (Kwun Tong bound) near East Kowloon Government Offices which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的將軍澳道(往觀塘方向)近東九龍政府合署的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-05-21T10:41:15",
+        "last_announcement": "2025-05-21T08:36:00"
+    },
+    "IN-25-02823": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Po Kong Village Road",
+            "LOCATION_CN": "蒲崗村道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tsz Wan Shan",
+            "DIRECTION_CN": "慈雲山",
+            "NEAR_LANDMARK_EN": "Fung Tak Road",
+            "NEAR_LANDMARK_CN": "鳳德道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-21T08:36:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "115133",
+                "CONTENT_EN": "Part of the lanes of Po Kong Village Road (Tsz Wan Shan bound) near Fung Tak Road which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的蒲崗村道(往慈雲山方向)近鳳德道的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2025-05-21T10:41:15",
+        "last_announcement": "2025-05-21T08:36:00"
+    },
+    "IN-25-02822": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Prince Edward Road East",
+            "LOCATION_CN": "太子道東",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kwun Tong",
+            "DIRECTION_CN": "觀塘",
+            "NEAR_LANDMARK_EN": "King Tai Street",
+            "NEAR_LANDMARK_CN": "景泰街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-21T09:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "115134",
+                "CONTENT_EN": "Part of the lanes of Prince Edward Road East (Kwun Tong bound) near King Tai Street which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的太子道東(往觀塘方向)近景泰街的部份行車線現已解封。"
+            }
+        },
+        "district": "黃大仙區",
+        "last_update": "2025-05-21T10:41:15",
+        "last_announcement": "2025-05-21T09:07:00"
+    },
+    "IN-25-02824": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Cherry Street",
+            "LOCATION_CN": "櫻桃街",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Hoi Fai Road",
+            "DIRECTION_CN": "海輝道",
+            "NEAR_LANDMARK_EN": "Hoi Wang Road",
+            "NEAR_LANDMARK_CN": "海泓道",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-21T09:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "115135",
+                "CONTENT_EN": "Due to traffic accident , part of the lanes of Cherry Street (Hoi Fai Road bound) near Hoi Wang Road is closed to all traffic. Only remaining lanes are available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，櫻桃街(往海輝道方向)近海泓道的部份行車線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "油尖旺區",
+        "last_update": "2025-05-21T10:41:15",
+        "last_announcement": "2025-05-21T09:31:00"
+    },
+    "IN-25-02825": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Kwun Tong Road",
+            "LOCATION_CN": "觀塘道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Mong Kok",
+            "DIRECTION_CN": "旺角",
+            "NEAR_LANDMARK_EN": "Yan Yip Street",
+            "NEAR_LANDMARK_CN": "欣業街",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-21T09:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "115136",
+                "CONTENT_EN": "Due to traffic accident , the slow lane of Kwun Tong Road (Mong Kok bound) near Yan Yip Street is closed to all traffic. Only remaining lane is available to motorists. Traffic is busy now.",
+                "CONTENT_CN": "因交通意外，觀塘道(往旺角方向)近欣業街的慢線現已封閉。 駕駛人士只可使用餘下行車線行車。 現時上址交通繁忙。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-05-21T10:41:15",
+        "last_announcement": "2025-05-21T09:42:00"
+    },
+    "IN-25-02826": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Vehicle Breakdown",
+            "INCIDENT_DETAIL_CN": "車輛故障",
+            "LOCATION_EN": "Tai Lam Tunnel",
+            "LOCATION_CN": "大欖隧道",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Kowloon",
+            "DIRECTION_CN": "九龍",
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-21T09:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "115137",
+                "CONTENT_EN": "Due to vehicle breakdown , the tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) is closed to all traffic. Only remaining lanes are available to motorists.",
+                "CONTENT_CN": "因車輛故障，大欖隧道(往九龍方向)的管道慢線現已封閉。 駕駛人士只可使用餘下行車線行車。"
+            },
+            "2025-05-21T10:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "115139",
+                "CONTENT_EN": "The tunnel tube slow lane of Tai Lam Tunnel (Kowloon bound) which was closed due to vehicle breakdown is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因車輛故障而封閉的大欖隧道(往九龍方向)的管道慢線現已解封。"
+            }
+        },
+        "district": "九龍城區",
+        "last_update": "2025-05-21T10:41:15",
+        "last_announcement": "2025-05-21T10:06:00"
     }
 }
