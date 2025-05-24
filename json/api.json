@@ -94,5 +94,37 @@
         "district": null,
         "last_update": "2025-05-24T12:51:38",
         "last_announcement": "2025-05-24T12:20:00"
+    },
+    "IN-25-02904": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Train scheduling arrangements",
+            "INCIDENT_DETAIL_CN": "列車調度安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-24T13:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "115341",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that as informed by Mainland Railway Authorities, advance ticket sales for the following train trips will be suspended due to train scheduling arrangements. For June 4 and onwards: - G6532 (To Shanwei Station), - G828/5 (From Xianbei Station) For June 5 and onwards: - G826/7 (To Xianbei Station) - G6531 (From Shanwei Station) For the latest advance ticket sales arrangements, please refer to the 12306 official website and mobile app, High Speed Rail website (12306. cn) and mobile app.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，內地鐵路單位通報，因應列車調度安排，以下車次會暫停預售。 6月4日及以後的車次： -G6532 （前往汕尾站） -G828/5（由西安北站出發） 6月5日及以後的車次： -G826/7（前往西安北站） -G6531（由汕尾站出發） 有關最新預售安排，請留意12306官方網站(12306.cn)及手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-05-24T13:44:43",
+        "last_announcement": "2025-05-24T13:25:00"
     }
 }
