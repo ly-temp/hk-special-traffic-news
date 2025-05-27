@@ -506,5 +506,101 @@
         "district": "黃大仙區",
         "last_update": "2025-05-27T18:17:50",
         "last_announcement": "2025-05-27T17:39:00"
+    },
+    "IN-25-02951": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Watermain Burst",
+            "INCIDENT_DETAIL_CN": "水管爆裂",
+            "LOCATION_EN": "Tuen Mun Road",
+            "LOCATION_CN": "屯門公路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Yuen Long",
+            "DIRECTION_CN": "元朗",
+            "NEAR_LANDMARK_EN": "Siu Hong MTR Station",
+            "NEAR_LANDMARK_CN": "兆康港鐵站",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-27T17:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "115497",
+                "CONTENT_EN": "Due to watermain burst , part of the lanes of Tuen Mun Road (Yuen Long bound) near Siu Hong MTR Station are still being closed to all traffic. \nOnly remaining lane is available to motorists.   Motorists heading from the urban areas to the vicinity of Yuen Long may consider using alternative routes, such as Tai Lam Tunnel.   Traffic queues on Tuen Mun Road (Yuen Long bound) ends at Tuen Mun Road near Siu Lam and Lung Fu Road near Tuen Mun Golf Centre.   Citizens please take note KMB's &amp; LWB's service travelling via Tuen Mun Road (Yuen Long bound) have been affected. \nPlease consider using other public transport services, such as MTR services.   The following affected bus routes have been diverted:\nLWB: A33, A33X, A36, A37, E36, E36A and E37\nKMB: 60M, 60X, 61X, 62P, 62X, 259D, 259E, 259S, 259X, 260B, 263, 263A, 263B, 263C, 960B and B9\nMTR Bus: K54\nFor the latest service arrangement of individual franchised bus routes, members of the public can refer to the information on the website or mobile application of the franchised bus operator(s).   Traffic is congested now.",
+                "CONTENT_CN": "因水管爆裂，屯門公路(往元朗方向)近兆康港鐵站的部份行車線仍然封閉。\n駕駛人士只可使用餘下行車線行車。  由市區前往元朗一帶的駕駛人士可考慮改用其他道路，例如大欖隧道。  現時在屯門公路(往元朗方向)的車龍龍尾已到屯門公路近小欖及龍富路近屯門高爾夫球中心。  市民請留意九巴及龍運巴士途經屯門公路(往元朗方向)的服務會受影響。\n請考慮使用其他公共交通服務，例如港鐵服務。  以下受影響巴士路線須改道行駛:\n龍運巴士:A33、A33X、A36、A37、E36、E36A及E37\n九巴:60M、60X、61X、62P、62X、259D、259E、259S、259X、260B、263、263A、263B、263C、960B及B9\n港鐵巴士:K54\n有關個別專營巴士路線的最新服務情況，市民可參閱專營巴士公司的網頁或流動應用程式內的資訊。  現時上址交通擠塞。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-05-27T18:42:08",
+        "last_announcement": "2025-05-27T17:59:00"
+    },
+    "IN-25-02968": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": "Busy Road Sections",
+            "LOCATION_CN": "繁忙路段",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-27T18:06:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "115498",
+                "CONTENT_EN": "The following road section(s) are still busy: – Ming Kum Road (Po Tin Estate bound) – Tsing Wun Road (Po Tin Estate bound) – Castle Peak Road - San Hui (Yuen Long bound) – Castle Peak Road - Lingnan (Yuen Long bound) – Tsing Tin Road (Tuen Mun Road bound) – San Tin Highway (Yuen Long bound) Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通仍然繁忙: –鳴琴路(往寶田邨方向) –青雲路(往寶田邨方向) –青山公路－新墟段(往元朗方向) –青山公路－嶺南段(往元朗方向) –青田路(往屯門公路方向) –新田公路(往元朗方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": "觀塘區",
+        "last_update": "2025-05-27T18:42:08",
+        "last_announcement": "2025-05-27T18:06:00"
+    },
+    "IN-25-02967": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Hung Tin Road",
+            "LOCATION_CN": "洪天路",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": "Tin Shui Wai",
+            "DIRECTION_CN": "天水圍",
+            "NEAR_LANDMARK_EN": "Castle Peak Road - Hung Shui Kiu",
+            "NEAR_LANDMARK_CN": "青山公路　–　洪水橋段",
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-05-27T18:12:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "115499",
+                "CONTENT_EN": "Part of the lanes of Hung Tin Road (Tin Shui Wai bound) near Castle Peak Road - Hung Shui Kiu which was closed due to traffic accident is re-opened to all traffic. Traffic queue takes time to disperse.",
+                "CONTENT_CN": "較早前因交通意外而封閉的洪天路(往天水圍方向)近青山公路　–　洪水橋段的部份行車線現已解封。 車龍有待消散。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-05-27T18:42:08",
+        "last_announcement": "2025-05-27T18:12:00"
     }
 }
