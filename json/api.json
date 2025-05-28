@@ -1,36 +1,4 @@
 {
-    "IN-25-02914": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": "Connaught Road Central",
-            "LOCATION_CN": "干諾道中",
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": "Rumsey Street Multi-Storey Car Park",
-            "NEAR_LANDMARK_CN": "林士街多層停車場",
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-05-25T18:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "115375",
-                "CONTENT_EN": "The fast lane of Connaught Road Central (both bounds) near Rumsey Street Multi-Storey Car Park which were closed due to watermain emergency works are re-opened to all traffic.",
-                "CONTENT_CN": "較早前因水管緊急維修而封閉的干諾道中(來回方向)近林士街多層停車場的快線現已解封。"
-            }
-        },
-        "district": "中西區",
-        "last_update": "2025-05-25T18:49:34",
-        "last_announcement": "2025-05-25T18:28:00"
-    },
     "IN-25-02920": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
