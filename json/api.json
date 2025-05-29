@@ -1,36 +1,4 @@
 {
-    "IN-25-02949": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Cancellation of Individual Sleeper Train Trips",
-            "INCIDENT_DETAIL_CN": "個別卧鋪列車車次取消",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-05-26T19:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "115440",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that As informed by Mainland Railway Authorities, sleeper train trips G899 and G900 travelling between Hong Kong West Kowloon Station and Shanghai Hongqiao Station on the following dates have been cancelled due to works in the mainland section. Cancellation dates: June 8, 9, 15, 16",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 內地鐵路單位通報，因應內地路段工程，以下來往香港西九龍站及上海虹橋站的卧鋪列車車次G899及G900取消。 車次取消日期： 6月8,9,15,16日"
-            }
-        },
-        "district": null,
-        "last_update": "2025-05-26T19:56:54",
-        "last_announcement": "2025-05-26T19:35:00"
-    },
     "IN-25-02966": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
