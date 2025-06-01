@@ -1,36 +1,4 @@
 {
-    "IN-25-02998": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced train service of East Rail Line for Tuen Ng Festival",
-            "INCIDENT_DETAIL_CN": "端午節東鐵綫加強列車服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-05-29T12:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "115585",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that MTRC will increase train frequency on the East Rail Line during Tuen Ng Festival holidays (31 May – 2 June). More passengers are expected in Lo Wu and Lok Ma Chau, please allow sufficient time for your journey. \nPlease visit MTRCL's webpage for more information.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，東鐵綫於端午節期間(5月31日-6月2日)於不同時段加強列車服務。預料羅湖及落馬洲站乘客較多，請為行程預留充足時間。\n詳情請參閱港鐵公司的網⾴。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-05-29T12:34:15",
-        "last_announcement": "2025-05-29T12:14:00"
-    },
     "IN-25-03032": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
