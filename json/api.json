@@ -1,36 +1,4 @@
 {
-    "IN-25-03058": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Takeover of Tai Lam Tunnel and Yuen Long Approach Road",
-            "INCIDENT_DETAIL_CN": "接收大欖隧道及元朗引道",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-05-31T00:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "115726",
-                "CONTENT_EN": "The Government has taken over the Tai Lam Tunnel at 0am today (31 May 2025) and implemented new tolls, with substantially reduced tolls for all vehicle types. To facilitate the launch of HKeToll, temporary traffic and transport arrangements will take place in phases in the vicinity of the Tai Lam Tunnel from 1am today, with the Tai Lam Tunnel and all slip road entrances being fully closed from 3am to 5am. Motorists should opt for Tuen Mun Road during the full closure. Members of the public can visit TD’s website for detailed toll information or use HKeMobility to obtain real-time toll information of Tai Lam Tunnel.",
-                "CONTENT_CN": "政府已於今日（五月三十一日）零時零分接收大欖隧道並實施新收費，所有車種的收費已大幅下調。為配合易通行實施，大欖隧道一帶將於今日凌晨一時起分階段採取臨時交通及運輸安排。於凌晨一時至三時，收費廣場、所有經青朗公路前往大欖隧道的支路分階段封閉部分行車線。於凌晨三時至五時，大欖隧道和所有支路入口全線封閉，駕駛人士需改用屯門公路。 市民可瀏覽運輸署網頁查詢收費詳情或使用「香港出行易」以了解大欖隧道的實時收費。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-05-31T00:33:17",
-        "last_announcement": "2025-05-31T00:00:00"
-    },
     "IN-25-03063": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
