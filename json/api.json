@@ -62,5 +62,37 @@
         "district": "九龍城區",
         "last_update": "2025-05-31T12:31:29",
         "last_announcement": "2025-05-31T11:37:00"
+    },
+    "PE-25-00010": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Event",
+            "INCIDENT_HEADING_CN": "活動",
+            "INCIDENT_DETAIL_EN": "Monitoring of boundary control points, traffic and transport arrangements during the 2025 Tuen Ng Festival Long Weekend",
+            "INCIDENT_DETAIL_CN": "Monitoring of boundary control points, traffic and transport arrangements during the 2025 Tuen Ng Festival Long Weekend",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-02T20:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "115853",
+                "CONTENT_EN": "To facilitate monitoring the cross-boundary traffic and transport arrangements at selected boundary control point during Tuen Ng Festival (2 June 2025 (Monday)), Transport Department's Emergency Transport Coordination Centre (ETCC) has been changed from Tier Response 3 to Tier Response 2 since 8:00 pm.",
+                "CONTENT_CN": "為配合監察端午節期間（2025年6月2日（星期一））選定邊境管制站的跨境交通及運輸安排，運輸署的緊急事故交通協調中心已於下午8時由第三級運作轉為第二級運作。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-02T21:08:02",
+        "last_announcement": "2025-06-02T20:24:00"
     }
 }
