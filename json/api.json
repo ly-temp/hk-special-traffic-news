@@ -30,5 +30,37 @@
         "district": null,
         "last_update": "2025-06-02T21:08:02",
         "last_announcement": "2025-06-02T20:24:00"
+    },
+    "IN-25-03132": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Traffic Accident",
+            "INCIDENT_DETAIL_CN": "交通意外",
+            "LOCATION_EN": "Pok Oi Interchange",
+            "LOCATION_CN": "博愛交匯處",
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-04T12:39:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "115918",
+                "CONTENT_EN": "Part of the lanes of Pok Oi Interchange  which was closed due to traffic accident is re-opened to all traffic.",
+                "CONTENT_CN": "較早前因交通意外而封閉的博愛交匯處的部份行車線現已解封。"
+            }
+        },
+        "district": "屯門區",
+        "last_update": "2025-06-04T13:35:57",
+        "last_announcement": "2025-06-04T12:39:00"
     }
 }
