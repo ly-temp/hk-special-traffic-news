@@ -1,36 +1,4 @@
 {
-    "IN-25-03275": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-06-10T21:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "116245",
-                "CONTENT_EN": "Due to a signalling equipment fault near Tsuen Wan West Station, the total journey time between Tuen Mun Station and Wu Kai Sha Station could be extended by 15-20 minutes. Please consider using alternative MTR Lines or other transport, and allow more time for travel.",
-                "CONTENT_CN": "由於荃灣西站附近信號設備故障，來往屯門站及烏溪沙站的行車時間預計需要額外15-20分鐘。 請考慮使用港鐵其他綫路或其他交通工具，並為行程預留充裕時間。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-06-10T21:56:47",
-        "last_announcement": "2025-06-10T21:40:00"
-    },
     "IN-25-03288": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
