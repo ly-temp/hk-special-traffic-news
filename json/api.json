@@ -126,5 +126,37 @@
         "district": null,
         "last_update": "2025-06-14T07:23:57",
         "last_announcement": "2025-06-14T07:09:00"
+    },
+    "IN-25-03385": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Hoisting of Strong Wind Signal No. 3",
+            "INCIDENT_DETAIL_CN": "三號強風信號現正生效",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-14T09:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116510",
+                "CONTENT_EN": "The services of the following kaito/ferry routes will be/have been adjusted before and after the hoisting of Typhoon Signal No. 3. \n\nTsui Wah Ferry Service (H. K. ) Limited\n-Ma Liu Shui to Tap Mun : last sailing at 08:30 am\n-Tap Mun to Ma Liu Shui : last sailing at 11:10 am\n-Wong Shek to Ma Liu Shui : last sailing at 10:35 am\n\n- Between Ma Liu Shui and Tung Ping Chau: suspended until further notice\n- Between Aberdeen/Stanley and Po Toi Island: suspended until further notice\n- Between Sai Kung and Kau Sai Village/High Island: suspended until further notice.",
+                "CONTENT_CN": "以下街渡/渡輪服務將會/已經在三號強風信號生效前後期間作出調整。\n\n翠華船務（香港）有限公司\n-馬料水至塔門:上午08時30分開出尾班船\n-塔門至馬料水:上午11時10分開出尾班船\n-黃石至馬料水:上午10時35分開出尾班船\n\n-馬料水來往東平洲:暫停服務直至另行通知\n-香港仔/赤柱來往蒲台島:暫停服務直至另行通知\n-西貢來往滘西村/糧船灣:暫停服務直至另行通知。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-14T10:05:48",
+        "last_announcement": "2025-06-14T09:10:00"
     }
 }
