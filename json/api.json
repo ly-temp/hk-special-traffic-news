@@ -296,5 +296,37 @@
         "district": null,
         "last_update": "2025-06-15T08:55:30",
         "last_announcement": "2025-06-15T08:09:00"
+    },
+    "IN-25-03415": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "NT GMB 9A service suspension due to Strong Wing Signal No. 3",
+            "INCIDENT_DETAIL_CN": "新界專線小巴第9A號線受三號強風信號影響暫停服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-15T09:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116574",
+                "CONTENT_EN": "Due to the influence of the Strong Wind Signal No. 3, the service of New Territories Green Minibus Route 9A (Pak Tam Chung – High Island Reservoir East Dam) will be suspended until further notice.",
+                "CONTENT_CN": "受三號強風信號影響，新界專線小巴第9A號線(北潭涌–萬宜水庫東壩)暫停服務至另行通知。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-15T10:53:49",
+        "last_announcement": "2025-06-15T09:15:00"
     }
 }
