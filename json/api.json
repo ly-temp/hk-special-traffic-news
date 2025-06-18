@@ -1,43 +1,4 @@
 {
-    "IN-25-03383": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-06-14T07:09:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "116506",
-                "CONTENT_EN": "Due to strong wind condition, the following temporary traffic arrangements are now in force:\n\nStonecutters Bridge:\nDue to strong wind, the following temporary traffic arrangements are implemented on Stonecutters Bridge:\nThe middle lanes of Stonecutters Bridge are closed. Only fast and slow lanes are opened to traffic. Speed limit is reduced to 50km/h.   Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
-                "CONTENT_CN": "由於強風關係，下列的臨時交通措施現已生效：\n\n昂船洲大橋：\n由於強風關係，昂船洲大橋已實施下列臨時交通措施：\n昂船洲大橋的中線封閉，只餘快線及慢線開放予車輛行駛，車速限制降至每小時50公里。  市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
-            },
-            "2025-06-15T20:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "116595",
-                "CONTENT_EN": "Stonecutters Bridge: The Middle lane closure and temporary speed limit arrangements which were implemented before in the Stonecutters Bridge are cancelled. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
-                "CONTENT_CN": "昂船洲大橋： 較早前於昂船洲大橋實施的中線封閉及臨時車速限制措施現已取消。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-06-15T20:47:08",
-        "last_announcement": "2025-06-15T20:00:00"
-    },
     "IN-25-03445": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
