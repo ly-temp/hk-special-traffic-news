@@ -1,0 +1,218 @@
+{
+    "IN-25-03383": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-14T07:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116506",
+                "CONTENT_EN": "Due to strong wind condition, the following temporary traffic arrangements are now in force:\n\nStonecutters Bridge:\nDue to strong wind, the following temporary traffic arrangements are implemented on Stonecutters Bridge:\nThe middle lanes of Stonecutters Bridge are closed. Only fast and slow lanes are opened to traffic. Speed limit is reduced to 50km/h.   Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
+                "CONTENT_CN": "由於強風關係，下列的臨時交通措施現已生效：\n\n昂船洲大橋：\n由於強風關係，昂船洲大橋已實施下列臨時交通措施：\n昂船洲大橋的中線封閉，只餘快線及慢線開放予車輛行駛，車速限制降至每小時50公里。  市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
+            },
+            "2025-06-15T20:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116595",
+                "CONTENT_EN": "Stonecutters Bridge: The Middle lane closure and temporary speed limit arrangements which were implemented before in the Stonecutters Bridge are cancelled. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
+                "CONTENT_CN": "昂船洲大橋： 較早前於昂船洲大橋實施的中線封閉及臨時車速限制措施現已取消。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-15T20:47:08",
+        "last_announcement": "2025-06-15T20:00:00"
+    },
+    "IN-25-03385": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Hoisting of Strong Wind Signal No. 3",
+            "INCIDENT_DETAIL_CN": "三號強風信號現正生效",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-14T09:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116510",
+                "CONTENT_EN": "The services of the following kaito/ferry routes will be/have been adjusted before and after the hoisting of Typhoon Signal No. 3. \n\nTsui Wah Ferry Service (H. K. ) Limited\n-Ma Liu Shui to Tap Mun : last sailing at 08:30 am\n-Tap Mun to Ma Liu Shui : last sailing at 11:10 am\n-Wong Shek to Ma Liu Shui : last sailing at 10:35 am\n\n- Between Ma Liu Shui and Tung Ping Chau: suspended until further notice\n- Between Aberdeen/Stanley and Po Toi Island: suspended until further notice\n- Between Sai Kung and Kau Sai Village/High Island: suspended until further notice.",
+                "CONTENT_CN": "以下街渡/渡輪服務將會/已經在三號強風信號生效前後期間作出調整。\n\n翠華船務（香港）有限公司\n-馬料水至塔門:上午08時30分開出尾班船\n-塔門至馬料水:上午11時10分開出尾班船\n-黃石至馬料水:上午10時35分開出尾班船\n\n-馬料水來往東平洲:暫停服務直至另行通知\n-香港仔/赤柱來往蒲台島:暫停服務直至另行通知\n-西貢來往滘西村/糧船灣:暫停服務直至另行通知。"
+            },
+            "2025-06-14T10:02:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116517",
+                "CONTENT_EN": "The services of the following ferry/kaito routes will be/have been adjusted before and after the hoisting of Typhoon Signal No. 3. \n\nTsui Wah Ferry Service (H. K. ) Limited\n-Ma Liu Shui to Tap Mun : last sailing at 08:30 am\n-Tap Mun to Ma Liu Shui : last sailing at 11:10 am\n-Wong Shek to Ma Liu Shui : last sailing at 10:35 am\n\n- Between Ma Liu Shui and Tung Ping Chau: suspended until further notice\n- Between Aberdeen/Stanley and Po Toi Island: suspended until further notice\n- Between Sai Kung and Kau Sai Village/High Island: suspended until further notice\n\nPeng Chau Kaito Limited\n-Discovery Bay to Mui Wo : last sailing at 01:15 pm\n-Mui Wo to Discovery Bay : last sailing at 01:45 pm.",
+                "CONTENT_CN": "以下渡輪/街渡服務將會/已經在三號風球生效前後期間作出調整。\n\n翠華船務（香港）有限公司\n-馬料水至塔門:上午08時30分開出尾班船\n-塔門至馬料水:上午11時10分開出尾班船\n-黃石至馬料水:上午10時35分開出尾班船\n\n-來往馬料水及東平洲:暫停服務直至另行通知\n-來往香港仔/赤柱及蒲台島:暫停服務直至另行通知\n-來往西貢及滘西村/糧船灣:暫停服務直至另行通知\n\n坪洲街渡有限公司\n-愉景灣至梅窩:下午01時15分開出尾班船\n-梅窩至愉景灣:下午01時45分開出尾班船。"
+            },
+            "2025-06-14T10:53:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116518",
+                "CONTENT_EN": "The services of the following ferry/kaito routes will be/have been adjusted before and after the hoisting of Typhoon Signal No. 3. \n\nTsui Wah Ferry Service (H. K. ) Limited\n-Ma Liu Shui to Tap Mun : last sailing at 08:30 am\n-Tap Mun to Ma Liu Shui : last sailing at 11:10 am\n-Wong Shek to Ma Liu Shui : last sailing at 10:35 am\n\n-Between Ma Liu Shui and Tung Ping Chau: suspended until further notice\n-Between Aberdeen/Stanley and Po Toi Island: suspended until further notice\n-Between Sai Kung and Kau Sai Village/High Island: suspended until further notice\n\nPeng Chau Kaito Limited\n-Discovery Bay to Mui Wo : last sailing at 01:15 pm\n-Mui Wo to Discovery Bay : last sailing at 01:45 pm\n\nFortune Ferry Company Limited\n-Tuen Mun to Tai O : last sailing at 11:00 am\n-Tung Chung to Tai O : last sailing at 12:00 pm\n- Tai O to Tuen Mun : last sailing at 03:00 pm\n.",
+                "CONTENT_CN": "以下渡輪/街渡服務將會/已經在三號風球生效前後期間作出調整。\n\n翠華船務（香港）有限公司\n-馬料水至塔門:上午08時30分開出尾班船\n-塔門至馬料水:上午11時10分開出尾班船\n-黃石至馬料水:上午10時35分開出尾班船\n\n-來往馬料水及東平洲:暫停服務直至另行通知\n-來往香港仔/赤柱及蒲台島:暫停服務直至另行通知\n-來往西貢及滘西村/糧船灣:暫停服務直至另行通知\n\n坪洲街渡有限公司\n-愉景灣至梅窩:下午01時15分開出尾班船\n-梅窩至愉景灣:下午01時45分開出尾班船\n\n富裕小輪有限公司\n-屯門至大澳:上午11時00分開出尾班船\n-東涌至大澳:下午12時00分開出尾班船\n-大澳至屯門: 下午03時00分尾班船。"
+            },
+            "2025-06-14T12:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116530",
+                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3 , the following ferry/kaito services will be or have been adjusted. \n\nTsui Wah Ferry Service (H. K. ) Limited\n-Ma Liu Shui to Tap Mun : last sailing at 08:30 am\n-Tap Mun to Ma Liu Shui : last sailing at 11:10 am\n-Wong Shek to Ma Liu Shui : last sailing at 10:35 am\n\n-Between Ma Liu Shui and Tung Ping Chau: suspended until further notice\n-Between Aberdeen/Stanley and Po Toi Island: suspended until further notice\n-Between Sai Kung and Kau Sai Village/High Island: suspended until further notice\n\nPeng Chau Kaito Limited\n-Discovery Bay to Mui Wo : last sailing at 01:15 pm\n-Mui Wo to Discovery Bay : last sailing at 01:45 pm\n\nFortune Ferry Company Limited\n-Tuen Mun to Tai O : last sailing at 11:00 am\n-Tung Chung to Tai O : last sailing at 12:00 pm\n- Tai O to Tuen Mun : last sailing at 03:00 pm\n\nYun Lee Marine Holdings Limited\n-Tseung Kwan O (South) to Sai Wan Ho : suspended until further notice\n-Sai Wan Ho to Tseung Kwan O (South) : suspended until further notice.",
+                "CONTENT_CN": "因三號強風信號現正生效，以下渡輪/街渡服務將會/已經作出調整。\n\n翠華船務（香港）有限公司\n-馬料水至塔門:上午08時30分開出尾班船\n-塔門至馬料水:上午11時10分開出尾班船\n-黃石至馬料水:上午10時35分開出尾班船\n\n-來往馬料水及東平洲:暫停服務直至另行通知\n-來往香港仔/赤柱及蒲台島:暫停服務直至另行通知\n-來往西貢及滘西村/糧船灣:暫停服務直至另行通知\n\n坪洲街渡有限公司\n-愉景灣至梅窩:下午01時15分開出尾班船\n-梅窩至愉景灣:下午01時45分開出尾班船\n\n富裕小輪有限公司\n-屯門至大澳:上午11時00分開出尾班船\n-東涌至大澳:下午12時00分開出尾班船\n-大澳至屯門: 下午03時00分開出尾班船\n\n潤利海事控股有限公司\n-將軍澳(南)至西灣河: 暫停服務直至另行通知\n-西灣河至將軍澳(南): 暫停服務直至另行通知。"
+            },
+            "2025-06-14T12:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116531",
+                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3 , the following ferry/kaito services will be or have been adjusted. \n\nTsui Wah Ferry Service (H. K. ) Limited\n-Ma Liu Shui to Tap Mun : last sailing at 08:30 am\n-Tap Mun to Ma Liu Shui : last sailing at 11:10 am\n-Wong Shek to Ma Liu Shui : last sailing at 10:35 am\n-Tap Mun to Wong Shek : last sailing at 02:00 pm\n-Wong Shek to Tap Mun : last sailing at 02:35 pm\n\n-Between Ma Liu Shui and Tung Ping Chau: suspended until further notice\n-Between Aberdeen/Stanley and Po Toi Island: suspended until further notice\n-Between Sai Kung and Kau Sai Village/High Island: suspended until further notice\n\nPeng Chau Kaito Limited\n-Discovery Bay to Mui Wo : last sailing at 01:15 pm\n-Mui Wo to Discovery Bay : last sailing at 01:45 pm\n\nFortune Ferry Company Limited\n-Tuen Mun to Tai O : last sailing at 11:00 am\n-Tung Chung to Tai O : last sailing at 12:00 pm\n- Tai O to Tuen Mun : last sailing at 03:00 pm\n\nYun Lee Marine Holdings Limited\n-Tseung Kwan O (South) to Sai Wan Ho : suspended until further notice\n-Sai Wan Ho to Tseung Kwan O (South) : suspended until further notice.",
+                "CONTENT_CN": "因三號強風信號現正生效，以下渡輪/街渡服務將會/已經作出調整。\n\n翠華船務（香港）有限公司\n-馬料水至塔門:上午08時30分開出尾班船\n-塔門至馬料水:上午11時10分開出尾班船\n-黃石至馬料水:上午10時35分開出尾班船\n-塔門至黃石:下午02時00分開出尾班船\n-黃石至塔門:下午02時35分開出尾班船\n\n-來往馬料水及東平洲:暫停服務直至另行通知\n-來往香港仔/赤柱及蒲台島:暫停服務直至另行通知\n-來往西貢及滘西村/糧船灣:暫停服務直至另行通知\n\n坪洲街渡有限公司\n-愉景灣至梅窩:下午01時15分開出尾班船\n-梅窩至愉景灣:下午01時45分開出尾班船\n\n富裕小輪有限公司\n-屯門至大澳:上午11時00分開出尾班船\n-東涌至大澳:下午12時00分開出尾班船\n-大澳至屯門: 下午03時00分開出尾班船\n\n潤利海事控股有限公司\n-將軍澳(南)至西灣河: 暫停服務直至另行通知\n-西灣河至將軍澳(南): 暫停服務直至另行通知。"
+            },
+            "2025-06-15T15:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116587",
+                "CONTENT_EN": "The following ferry service(s) which were suspended due to hoisting of Strong Wind Signal No. 3 will be or have been resumed:\nFortune Ferry Company Limited\n-Tuen Mun to Tai O : Fast departure at 03:30 pm\n-Tung Chung to Tai O : Fast departure at 04:00 pm\n- Tai O to Tuen Mun : Last departure at 05:00 pm\n-Tuen Mun to Tuen Mun: Last departure at 05:00 pm\n-Tai O - Sha Lo Wan - Tung Chung - Tuen Mun : Last departure at 06:00 pm\nPeng Chau Kaito Limited\n-Discovery Bay to Mui Wo : resumes at 06:15 pm\n-Mui Wo to Discovery Bay : resumes at 06:45 pm.",
+                "CONTENT_CN": "較早前因受三號強風信號現正生效而停航的以下渡輪服務將會或已經恢復服務:\n富裕小輪有限公司\n-屯⾨⾄⼤澳:下午03時30分開頭班船\n-東涌⾄⼤澳:下午04時00分開頭班船\n-⼤澳⾄屯⾨: 下午05時00分開出尾班船\n-屯門至大澳:下午05時00分開出尾班船\n-大澳至屯門:下午06時00分開出尾班船\n坪洲街渡有限公司\n-愉景灣至梅窩:下午06時15分恢復\n-梅窩至愉景灣:下午06時45分恢復。"
+            },
+            "2025-06-15T16:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116591",
+                "CONTENT_EN": "The following ferry services which were suspended due to hoisting of Strong Wind Signal No. 3 will be or have been resumed:\nFortune Ferry Company Limited\n-Tuen Mun to Tai O : First departure at 03:30 pm\n-Tung Chung to Tai O : First departure at 04:00 pm\n-Tai O to Tuen Mun : First departure at 05:00 pm\n-Tuen Mun to Tuen Mun: Last departure at 05:00 pm\n-Tai O to Tuen Mun : Last departure at 06:00 pm\nPeng Chau Kaito Limited\n-Discovery Bay to Mui Wo : resumes at 06:15 pm\n-Mui Wo to Discovery Bay : resumes at 06:45 pm.  The following ferry/kaito services will continue to be suspended today:\n\nTsui Wah Ferry Service (H. K. ) Limited\n-Ma Liu Shui to Tap Mun\n-Tap Mun to Ma Liu Shui\n-Wong Shek to Ma Liu Shui\n-Tap Mun to Wong Shek\n-Wong Shek to Tap Mun\n-Between Ma Liu Shui and Tung Ping Chau\n-Between Aberdeen/Stanley and Po Toi Island\n-Between Sai Kung and Kau Sai Village/High Island\n\nYun Lee Marine Holdings Limited\n-Tseung Kwan O (South) to Sai Wan Ho\n-Sai Wan Ho to Tseung Kwan O (South)\n.",
+                "CONTENT_CN": "較早前因受三號強風信號現正生效而停航的以下渡輪服務將會或已經恢復服務:\n富裕小輪有限公司\n-屯⾨⾄⼤澳:下午03時30分開頭班船\n-東涌⾄⼤澳:下午04時00分開頭班船\n-⼤澳⾄屯⾨: 下午05時00分開出頭班船\n-屯門至大澳:下午05時00分開出尾班船\n-大澳至屯門:下午06時00分開出尾班船\n坪洲街渡有限公司\n-愉景灣至梅窩:下午06時15分恢復\n-梅窩至愉景灣:下午06時45分恢復。  以下渡輪/街渡服務今日將會繼續暫停服務：\n\n翠華船務（⾹港）有限公司 \n-⾺料⽔⾄塔⾨\n-塔⾨⾄⾺料⽔\n-⿈⽯⾄⾺料⽔\n-塔⾨⾄⿈⽯\n-⿈⽯⾄塔⾨\n-來往⾺料⽔及東平洲\n-來往⾹港仔/⾚柱及蒲台島\n-來往西貢及滘西村/糧船灣\n\n潤利海事控股有限公司 \n-將軍澳(南)⾄西灣河\n-西灣河⾄將軍澳(南)。  頭。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-15T16:52:26",
+        "last_announcement": "2025-06-15T16:30:00"
+    },
+    "IN-25-03445": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Rainstorm Incident",
+            "INCIDENT_HEADING_CN": "暴雨事故",
+            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
+            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-17T07:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116649",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-17T07:39:36",
+        "last_announcement": "2025-06-17T07:30:00"
+    },
+    "IN-25-03463": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-17T16:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116702",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that as informed by the Mainland's Railway Authorities, the following adjustments will be made to train services:\n\n- From July 1, 2025, to facilitate improvement work in Mainland Section, train service to and from Qingsheng will be temporarily adjusted to one northbound and one southbound train per day. \n\n- Temporary Suspension of Advance Ticket Sales of the trains listed below for July 1 and onwards:\nTo/From Shanghai Hongqiao: G100, G99\nTo/From Xianbei: G826/7, G828/5\nTo Tianjinxi: G306\nTo Zhanjiangxi: G6048/5\nTo Shantou: G6578/5\nDeparting from Zhangjiajiexi: G6079\n\n- In addition, the schedules of some train services will be adjusted starting July 1. \n\n- For information, please visit the official 12306 website (12306. cn) or mobile app, High Speed Rail website or mobile app.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，內地鐵路部門通報，列車服務將作出以下調整： \n\n- 由2025年7月1日起，來往慶盛的列車服務因配合內地段工程需要，將暫時提供每日北行及南行各一班列車服務。\n\n- 下列車次於7月1日及以後的車票預售將暫時延後：\n來往上海虹橋：G100,G99\n來往西安北：G826/7,G828/5\n前往天津西：G306\n前往湛江西：G6048/5\n前往汕頭：G6578/5\n由張家界西出發：G6079\n\n- 此外，部份列車班次將於7月1日起調整時間。\n\n- 有關資料請瀏覽12306官方網站(12306.cn)或使用手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-17T16:44:35",
+        "last_announcement": "2025-06-17T16:17:00"
+    },
+    "IN-25-03489": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Road Incident",
+            "INCIDENT_DETAIL_CN": "道路事故",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-18T09:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116757",
+                "CONTENT_EN": "Due to malfunction of traffic lights at the junction of Lei Yue Mun Road and Cha Kwo Ling Road, motorists are advised to drive with utmost care when passing through the road junctions, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.",
+                "CONTENT_CN": "由於鯉魚門道和茶果嶺道交界路口的交通燈失靈，駕駛人士在駛經有關路口時，請加倍小心，注意交通標誌的指示並留意過路行人的安全。行人在交通燈失靈的路口橫過馬路時，請特別注意車輛。"
+            },
+            "2025-06-18T09:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116759",
+                "CONTENT_EN": "The traffic lights at the junction of Lei Yue Mun Road and Cha Kwo Ling Road have resumed normal services.",
+                "CONTENT_CN": "位於鯉魚門道和茶果嶺道交界路口的交通燈已恢復正常運作。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-18T11:05:28",
+        "last_announcement": "2025-06-18T09:50:00"
+    }
+}
