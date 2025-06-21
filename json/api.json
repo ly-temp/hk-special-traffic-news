@@ -38,45 +38,6 @@
         "last_update": "2025-06-20T12:03:16",
         "last_announcement": "2025-06-20T11:25:00"
     },
-    "IN-25-03489": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Road Incident",
-            "INCIDENT_DETAIL_CN": "道路事故",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-06-18T09:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "116757",
-                "CONTENT_EN": "Due to malfunction of traffic lights at the junction of Lei Yue Mun Road and Cha Kwo Ling Road, motorists are advised to drive with utmost care when passing through the road junctions, pay extra attention to the traffic signs and safety of pedestrians. Pedestrians please pay attention to vehicles when crossing junctions with malfunctioned traffic lights.",
-                "CONTENT_CN": "由於鯉魚門道和茶果嶺道交界路口的交通燈失靈，駕駛人士在駛經有關路口時，請加倍小心，注意交通標誌的指示並留意過路行人的安全。行人在交通燈失靈的路口橫過馬路時，請特別注意車輛。"
-            },
-            "2025-06-18T09:50:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "116759",
-                "CONTENT_EN": "The traffic lights at the junction of Lei Yue Mun Road and Cha Kwo Ling Road have resumed normal services.",
-                "CONTENT_CN": "位於鯉魚門道和茶果嶺道交界路口的交通燈已恢復正常運作。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-06-18T11:05:28",
-        "last_announcement": "2025-06-18T09:50:00"
-    },
     "IN-25-03512": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
