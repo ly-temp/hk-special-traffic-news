@@ -69,5 +69,37 @@
         "district": null,
         "last_update": "2025-06-19T13:25:52",
         "last_announcement": "2025-06-19T13:01:00"
+    },
+    "IN-25-03572": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Hong Kong West Kowloon Station Public Car Park Now Full",
+            "INCIDENT_DETAIL_CN": "香港西九龍站公眾停車場現已泊滿",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-21T14:42:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116949",
+                "CONTENT_EN": "All car parks at West Kowloon Cultural District are full. Members of the public are encouraged to take public transport to the West Kowloon Cultural District.",
+                "CONTENT_CN": "西九文化區內所有停車場現已泊滿車輛，前往西九文化區一帶的市民請使用公共交通工具。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-21T14:51:52",
+        "last_announcement": "2025-06-21T14:42:00"
     }
 }
