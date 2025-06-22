@@ -38,38 +38,6 @@
         "last_update": "2025-06-20T12:03:16",
         "last_announcement": "2025-06-20T11:25:00"
     },
-    "IN-25-03512": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Jordan Station access arrangements",
-            "INCIDENT_DETAIL_CN": "佐敦站進出安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-06-19T13:01:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "116816",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that because of road closures near the station, Entrance/Exit C1 in Jordan Station is temporarily closed. Please use other Entrances/Exits.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於站外有封路措施，佐敦站C1出入口暫時關閉，請使用其他出入口。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-06-19T13:25:52",
-        "last_announcement": "2025-06-19T13:01:00"
-    },
     "IN-25-03572": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
