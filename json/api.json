@@ -101,5 +101,51 @@
         "district": null,
         "last_update": "2025-06-21T14:51:52",
         "last_announcement": "2025-06-21T14:42:00"
+    },
+    "IN-25-03585": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Tuen Ma Line extra travelling time",
+            "INCIDENT_DETAIL_CN": "屯馬綫額外行車時間",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-22T11:23:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "116984",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Tuen Ma Line extra travelling time",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 屯馬綫額外行車時間"
+            },
+            "2025-06-22T11:27:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116985",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to a signalling equipment fault near Tai Wai Station, the total journey time between Tuen Mun Station and Wu Kai Sha Station could be extended by 15-20 minutes.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 由於大圍站附近信號設備故障,來往屯門站及烏溪沙站的行車時間預計需要額外15-20分鐘。"
+            },
+            "2025-06-22T11:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "116986",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that due to a signalling equipment fault near Tai Wai Station, the total journey time from Tuen Mun Station to Wu Kai Sha Station could be extended by 5-8 minutes.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於大圍站附近信號設備故障,由屯門站往烏溪沙站的行車時間預計需要額外5-8分鐘。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-22T12:02:21",
+        "last_announcement": "2025-06-22T11:48:00"
     }
 }
