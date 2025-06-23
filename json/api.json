@@ -108,5 +108,37 @@
         "district": null,
         "last_update": "2025-06-22T23:42:56",
         "last_announcement": "2025-06-22T23:31:49"
+    },
+    "IN-25-03608": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "High-Speed Rail (Hong Kong Section) adds Temporary Train Services",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-23T15:19:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "117041",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that\nAs informed by the Mainland Railway Authorities, High Speed Rail (Hong Kong Section) will arrange the following temporary train trips:\n\n\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station\n\n• Jun 25: Train G9531\n\n• Jun 27: Train G9537\n\n• Jun 28: Train G9531, G9541, G9545, G9675\n\n\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station\n\n• Jun 27: Train G9792\n\n• Jun 30: Train G9546\n\n• Jul 1: Train G9534\n\n\nFrom Hong Kong West Kowloon Station to Guangzhounan Station\n\n• Jun 30: Train G9532\n\n\nTickets are available for purchase through the 12306 official website (12306. cn/en/) or mobile app; appointed travel agents (Click\nhere); or at Hong Kong West Kowloon Station. \n\n\nFor train schedules, please refer to the 12306 official website (12306. cn/en/) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，內地鐵路部門通知，高速鐵路（香港段）將加開以下臨時車次：\n\n\n由深圳北站前往香港西九龍站\n\n•6月25日：G9531\n\n•6月27日：G9537\n\n•6月28日：G9531,G9541,G9545,G9675\n\n\n由香港西九龍站前往深圳北站\n\n•6月27日：G9792\n\n•6月30日：G9546\n\n•7月1日：G9534\n\n\n由香港西九龍站前往廣州南站\n\n•6月30日：G9532\n\n\n你可透過12306官方網站(12306.cn)或手機應用程式、指定代理(按此)或前往香港西九龍站購買列車車票。\n\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-23T15:27:29",
+        "last_announcement": "2025-06-23T15:19:00"
     }
 }
