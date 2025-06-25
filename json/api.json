@@ -1,36 +1,4 @@
 {
-    "IN-25-03594": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-06-22T23:31:49": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "117006",
-                "CONTENT_EN": "As more cross-boundary vehicles are returning to Hong Kong via the Hong Kong-Zhuhai-Macao Bridge (HZMB), the inbound vehicle clearance plaza of the HZMB Hong Kong Port is very busy now. Affected motorists please follow the instruction of on-site staff, drive with care and be patient while queuing.",
-                "CONTENT_CN": "由於有較多跨境車輛經港珠澳大橋回港，港珠澳大橋香港口岸的入境車輛通關廣場現時非常繁忙，請受影響的駕駛人士依照現場工作人員的指示，小心駕駛及在輪候時保持忍讓。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-06-22T23:42:56",
-        "last_announcement": "2025-06-22T23:31:49"
-    },
     "IN-25-03608": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
