@@ -57,10 +57,17 @@
                 "ID": "117249",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that because of road closures near the station, Entrance/Exit B1 in Exhibition Centre is temporarily closed. Please use other Entrances/Exits.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知，由於站外有封路措施，會展站B1出入口暫時關閉，請使用其他出入口。"
+            },
+            "2025-06-26T10:59:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "117255",
+                "CONTENT_EN": "Because of road closures near the station, Entrance/Exit B1 in Exhibition Centre is temporarily closed. Please use other Entrances/Exits.   At the same time, affected bus routes gradually resume to their original routeings.",
+                "CONTENT_CN": "由於站外有封路措施，會展站B1出入口暫時關閉，請使用其他出入口。  同時，受影響巴士路線陸續恢復原有路線行駛。"
             }
         },
         "district": null,
-        "last_update": "2025-06-26T10:10:19",
-        "last_announcement": "2025-06-26T09:43:00"
+        "last_update": "2025-06-26T11:31:34",
+        "last_announcement": "2025-06-26T10:59:00"
     }
 }
