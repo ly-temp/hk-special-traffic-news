@@ -69,5 +69,37 @@
         "district": null,
         "last_update": "2025-06-26T20:37:57",
         "last_announcement": "2025-06-26T19:45:00"
+    },
+    "IN-25-03731": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Arrangements at Kai Tak Station and Sung Wong Toi Station",
+            "INCIDENT_DETAIL_CN": "啟德站及宋皇臺站安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-06-27T12:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "117351",
+                "CONTENT_EN": "Kai Tak Sports Park will host concerts on 27 – 29 June for three consecutive nights. Passengers may exit at either Kai Tak or Sung Wong Toi Station to reach the venue. \nAfter the show, MTRCL will increase the train frequency as necessary. \nIf passengers need to cross the boundary, please note the departure time of the last train connecting to Lo Wu:\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "啟德體育園於6月27至29日一連三晚舉行演唱會，前往觀賞的乘客可使用啟德或宋皇臺站。\n散場時，港鐵公司會按需要加密列車班次。\n需要過境的乘客，請留意往羅湖尾班車時間：\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-06-27T12:22:54",
+        "last_announcement": "2025-06-27T12:06:00"
     }
 }
