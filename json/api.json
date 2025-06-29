@@ -1,36 +1,4 @@
 {
-    "IN-25-03713": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-06-26T19:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "117304",
-                "CONTENT_EN": "Motorists are advised that, the number of cross-boundary private cars travelling to and from the Mainland via the land boundary control points may increase during the aforesaid period from 27 June to early morning of 2 July 2025. Subject to actual traffic conditions, special traffic arrangements may be implemented at Lok Ma Chau Control Point and Shenzhen Bay Port during the aforesaid days to allow smooth access of public transport vehicles to above control point. Cross-boundary private cars and their passengers are expected to have a longer clearance time for crossing the control point. Motorists are advised to pay extra attention to variable message signs and traffic signs along the road. They are also advised to be patient in case of traffic congestion, and follow the instructions of the on-site Police.",
-                "CONTENT_CN": "駕駛人士請注意，在2025年6月27至7月2日凌晨期間，經各陸路管制站往來內地的跨境私家車或會增加。視乎現場交通情況，落馬洲管制站及深圳灣口岸在上述日子或會實施特別交通安排，以便公共運輸車輛能暢順地進入上述管制站。跨境私家車及其乘客輪候通過口岸的時間預計會較長。 駕駛人士請特別留意沿途可變信息顯示屏及交通標誌，如遇交通受阻，請保持忍讓及遵從現場警務人員的指示。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-06-26T20:37:57",
-        "last_announcement": "2025-06-26T19:45:00"
-    },
     "IN-25-03731": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
