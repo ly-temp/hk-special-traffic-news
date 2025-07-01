@@ -1,43 +1,4 @@
 {
-    "IN-25-03751": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Structural / Mechanical Defects or Closure of Access",
-            "INCIDENT_DETAIL_CN": "結構/機械缺陷或關閉",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-06-28T09:19:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "117402",
-                "CONTENT_EN": "Due to mechanical defects, the ferry service from Sai Kung Pier to Kau Sai Village and High Island of Tsui Wah Ferry Service (H. K. ) Limited has been suspended until further notice.",
-                "CONTENT_CN": "因機件故障，翠華船務（⾹港）有限公司來往由西貢碼頭開出往滘西洲及糧船灣的渡輪服務已經暫停，直⾄另⾏通知。"
-            },
-            "2025-06-28T09:58:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "117407",
-                "CONTENT_EN": "The ferry service from Sai Kung Pier to Kau Sai Village and High Island of Tsui Wah Ferry Service (H. K. ) Limited which was suspended due to mechanical defects has gradually resumed normal.",
-                "CONTENT_CN": "較早前因機件故障而暫停的翠華船務（⾹港）有限公司由西貢碼頭開出往滘西洲及糧船灣的渡輪服務已陸續回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-06-28T10:52:39",
-        "last_announcement": "2025-06-28T09:58:00"
-    },
     "IN-25-03779": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
