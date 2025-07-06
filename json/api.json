@@ -62,5 +62,37 @@
         "district": null,
         "last_update": "2025-07-04T21:05:55",
         "last_announcement": "2025-07-04T20:23:00"
+    },
+    "IN-25-03933": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-06T11:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "117815",
+                "CONTENT_EN": "As informed by Mainland Railway Authorities, High Speed Rail train services on 6 July 2025 traveling between Hong Kong West Kowloon Station and Shanghai Hongqiao Station have been cancelled due to adverse weather conditions. \n\nCancelled train services:\nTo Shanghai Hongqiao: G900\nFrom Shanghai Hongqiao : G899\n\nFor latest train schedules, please refer to 12306 official website (12306. cn) or mobile app. Passengers may also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station. \n\nFor ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306. cn) or mobile app.",
+                "CONTENT_CN": "內地鐵路單位通報，由於天氣情況惡劣，2025年7月6日來往香港西九龍站及上海虹橋站的高速鐵路列車車次取消。\n\n已取消的車次:\n前往上海虹橋:G900\n由上海虹橋出發:G899\n\n有關車次的資料，請留意12306官方網站(12306.cn)或手機應用程式。乘客亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-06T12:20:17",
+        "last_announcement": "2025-07-06T11:50:00"
     }
 }
