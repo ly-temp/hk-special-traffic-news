@@ -1,36 +1,4 @@
 {
-    "IN-25-03887": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds a temporary additional train trip",
-            "INCIDENT_DETAIL_CN": "高速鐵路(香港段) 加開臨時列車車次",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-07-04T10:16:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "117708",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that High Speed Rail (Hong Kong Section) will add the following temporary additional train trips: From Guangzhounan Station to Hong Kong West Kowloon Station - July 12: Train G9793 Tickets are available for purchase through the 12306 official website (12306. cn/en/), mobile app, or appointed travel agents. For train schedules, please refer to the 12306 official website (12306. cn/en/) or mobile app, High Speed Rail website or mobile app.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，高速鐵路(香港段)將加開以下臨時車次： 由廣州南站前往香港西九龍站 -7月12日:G9793 你可透過12306官方網站(12306.cn)或手機應用程式、指定代理或前往香港西九龍站購買新增列車車票。 有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-07-04T11:08:37",
-        "last_announcement": "2025-07-04T10:16:00"
-    },
     "IN-25-03909": {
         "description": {
             "INCIDENT_HEADING_EN": "Ferry Incident",
