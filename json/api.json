@@ -44,5 +44,37 @@
         "district": null,
         "last_update": "2025-07-10T13:00:22",
         "last_announcement": "2025-07-10T12:40:00"
+    },
+    "IN-25-04052": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Emergency Incident",
+            "INCIDENT_DETAIL_CN": "突發事件",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-10T13:55:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "118097",
+                "CONTENT_EN": "Due to Emergency Incident, the following ferry service will be or has been suspended. \nFortune Ferry Company Limited\n-Central - Hung Hom (both bounds): suspended from 02:00 pm until further notice.",
+                "CONTENT_CN": "因突發事件，以下渡輪服務將會或已經暫停服務。\n富裕小輪有限公司\n中環-紅磡(來回方向):下午02時00分起暫停，直至另行通知。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-10T14:13:36",
+        "last_announcement": "2025-07-10T13:55:00"
     }
 }
