@@ -1,36 +1,4 @@
 {
-    "IN-25-04083": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "schools' suspension on 11 July 2025",
-            "INCIDENT_DETAIL_CN": "應2025年7月11日的停課安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-07-11T09:51:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "118186",
-                "CONTENT_EN": "In connection with schools' suspension on 11 July 2025, the following ferry service will be or have been suspended. \nPeng Chau Kaito Limited\n-Discovery Bay to Mui Wo : suspended today ;\n-Mui Wo to Discovery Bay : suspended today ;",
-                "CONTENT_CN": "因應2025年7月11日的停課安排，以下渡輪服務將會或已經暫停服務。\n坪洲街渡有限公司\n-愉景灣至梅窩:今天全日暫停;\n-梅窩至愉景灣:今天全日暫停;"
-            }
-        },
-        "district": null,
-        "last_update": "2025-07-11T11:19:21",
-        "last_announcement": "2025-07-11T09:51:00"
-    },
     "IN-25-04108": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
