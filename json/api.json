@@ -241,11 +241,18 @@
                 "ID": "118713",
                 "CONTENT_EN": "Due to hoisting of No. 8 Northeast Gale or Storm Signal and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "由於八號東北烈風或暴風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
+            },
+            "2025-07-20T07:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "118743",
+                "CONTENT_EN": "Due to hoisting of Increasing Gale or Storm Signal No. 9 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於九號烈風或暴風風力增強信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2025-07-20T00:26:44",
-        "last_announcement": "2025-07-20T00:20:00"
+        "last_update": "2025-07-20T07:35:38",
+        "last_announcement": "2025-07-20T07:20:00"
     },
     "IN-25-04301": {
         "description": {
@@ -448,5 +455,37 @@
         "district": null,
         "last_update": "2025-07-20T05:31:47",
         "last_announcement": "2025-07-20T04:59:00"
+    },
+    "IN-25-04314": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-20T07:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "118742",
+                "CONTENT_EN": "Due to high wind , the following traffic and transport arrangements will be implemented on Cross Bay Bridge at Tseung Kwan O : Motorists heading for Cross Bay Bridge are advised that the Cross Bay Bridge is going to be closed soon due to high wind. Motorists are advised to use alternative route for travelling to LOHAS Park, Kowloon and Tiu Keng Leng.",
+                "CONTENT_CN": "因強風，將軍澳跨灣大橋將實施下列交通及運輸安排: 前往跨灣大橋駕駛人士請注意，因強風，跨灣大橋即將封閉。駕駛人士請改用其他道路前往日出康城、九龍及調景嶺。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-20T07:35:38",
+        "last_announcement": "2025-07-20T07:00:00"
     }
 }
