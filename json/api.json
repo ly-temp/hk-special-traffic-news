@@ -614,5 +614,37 @@
         "district": null,
         "last_update": "2025-07-20T17:27:39",
         "last_announcement": "2025-07-20T17:00:00"
+    },
+    "IN-25-04331": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Car Park Publicity",
+            "INCIDENT_HEADING_CN": "Car Park Publicity",
+            "INCIDENT_DETAIL_EN": "AAHK (Morning Peak)",
+            "INCIDENT_DETAIL_CN": "機場管理局 早上繁忙時段",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-20T17:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "118804",
+                "CONTENT_EN": "Due to heavy traffic at the road section leading from Airport Road to Hong Kong International Airport’s Terminal 1 Departures Kerb, motorists are advised to use the drop-off area at the Airport’s Car Park 1. Members of the public heading to the Airport are advised to allow sufficient time for their journey and consider taking the Airport Express and buses.",
+                "CONTENT_CN": "現時機場路通往香港國際機場一號客運大樓離港層落客區的路段交通繁忙，駕駛人士請考慮改用機場一號停車場落客區。前往機場的市民，請預留足夠交通時間，並考慮乘搭機場快綫或巴士。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-20T18:16:48",
+        "last_announcement": "2025-07-20T17:53:00"
     }
 }
