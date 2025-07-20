@@ -681,5 +681,37 @@
         "district": null,
         "last_update": "2025-07-20T18:16:48",
         "last_announcement": "2025-07-20T17:53:00"
+    },
+    "IN-25-04336": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Additional Service on Airport Express",
+            "INCIDENT_DETAIL_CN": "機場快綫加開班次",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-20T21:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "118833",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Additional Airport Express service from Airport Station to Hong Kong Station will depart from Airport Station at 01:15 am, 01:45 am, 02:15 am, 02:45 am, 03:15 am and 03:45 am on 21 July 2025. Operating hours on other lines remain normal. As train service on other railway lines will end by that time, passengers taking the additional Airport Express service are advised to plan their connecting transport in city areas in advance. Airport Express service from Hong Kong Station to Airport/AsiaWorld-Expo Station remains normal with the last train departing at 12:48 am.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 機場快綫由機場站往香港站的加班車將於2025年7月21日凌晨1時15分、1時45分、2時15分、2時45分、3時15分及3時45分由機場站開出。其他鐵路綫維持正常服務時間。 屆時其他鐵路綫的列車服務已結束，乘搭機場快綫加開班次的乘客，請預先計劃到達市區後的接駁交通。 機場快綫由香港站往機場/博覽館方向的服務維持正常，尾班車於凌晨12時48分開出。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-20T21:42:15",
+        "last_announcement": "2025-07-20T21:30:00"
     }
 }
