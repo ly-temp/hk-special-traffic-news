@@ -248,11 +248,18 @@
                 "ID": "118743",
                 "CONTENT_EN": "Due to hoisting of Increasing Gale or Storm Signal No. 9 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "由於九號烈風或暴風風力增強信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
+            },
+            "2025-07-20T09:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "118754",
+                "CONTENT_EN": "Due to hoisting of Hurricane Signal No. 10 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於十號颶風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2025-07-20T07:35:38",
-        "last_announcement": "2025-07-20T07:20:00"
+        "last_update": "2025-07-20T11:02:23",
+        "last_announcement": "2025-07-20T09:20:00"
     },
     "IN-25-04301": {
         "description": {
@@ -487,5 +494,37 @@
         "district": null,
         "last_update": "2025-07-20T07:35:38",
         "last_announcement": "2025-07-20T07:00:00"
+    },
+    "IN-25-04316": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-20T08:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "118752",
+                "CONTENT_EN": "Due to strong wind condition, the following special traffic and transport arrangements have been implemented on Shenzhen Bay Bridge, with the details as shown below: The middle lanes of both bounds of the Shenzhen Bay Bridge are closed. Shenzhen bound goods vehicles should keep to the slow lane on the Bridge to enter the Cargo Clearance Area of Shenzhen Bay Port. All other Shenzhen bound vehicles should keep to the fast lane to enter the Passenger Clearance Area of Shenzhen Bay Port. The speed limit of the Shenzhen Bay Bridge is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "因強⾵關係，深圳灣公路大橋已實施以下特別交通及運輸安排: 深圳灣公路大橋來回方向的中線已經封閉。往深圳方向的貨車請使用慢線以進入深圳灣口岸貨物檢查區，而其他往深圳方向的車輛請使用快線以進入深圳灣口岸旅客檢查區。深圳灣公路大橋的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-20T11:02:23",
+        "last_announcement": "2025-07-20T08:30:00"
     }
 }
