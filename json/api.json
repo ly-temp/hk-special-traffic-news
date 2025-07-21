@@ -1,36 +1,4 @@
 {
-    "IN-25-04256": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-07-18T09:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "118578",
-                "CONTENT_EN": "The following road sections are busy:\nKowloon\n– Lei Yue Mun Road (Eastern Harbour Crossing bound)\n– Kwun Tong Bypass (Eastern Harbour Crossing bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n九龍\n–鯉魚門道(往東區海底隧道方向)\n–觀塘繞道(往東區海底隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-07-18T11:02:16",
-        "last_announcement": "2025-07-18T09:50:00"
-    },
     "IN-25-04283": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
