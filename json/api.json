@@ -631,5 +631,37 @@
         "district": null,
         "last_update": "2025-07-20T21:42:15",
         "last_announcement": "2025-07-20T21:30:00"
+    },
+    "IN-25-04380": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Individual train service cancelled",
+            "INCIDENT_DETAIL_CN": "個別列車車次取消",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-22T10:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "118952",
+                "CONTENT_EN": "As informed by the Mainland Railway Authorities, some High Speed Rail train services on 22 Jul 2025 traveling between Hong Kong West Kowloon Station and GuangZhoudong have been cancelled due to equipment fault in the relevant Mainland section. \n\nCancelled train service:\nTo GuangZhoudong: : G6568, G6556\nTo Hong Kong West Kowloon: G6565, G6553\n\nFor the latest train schedules, please refer to the 12306 official website (12306. cn) or on the mobile app. Passengers may also check latest train information from the HSR website, mobile app or see the information provided at Hong Kong West Kowloon Station. Passengers may also consider taking the East Rail Line to Lo Wu/ Lok Ma Chau or using other transport to enter the Mainland. \n\nFor ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306. cn) or mobile app and avoid coming to Hong Kong West Kowloon Station. \n.",
+                "CONTENT_CN": "內地鐵路單位通報，由於相關內地段有設備故障，2025年07月22日部分由香港西九龍站前往廣州東站的高速鐵路列車車次取消。\n\n已取消的車次:\n前往廣州東:G6568,G6556\n前往香港西九龍:G6565,G6553\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。乘客亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。乘客可考慮乘搭東鐵綫經羅湖/落馬洲，或使用其他跨境交通工具前往內地。\n\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-22T11:12:33",
+        "last_announcement": "2025-07-22T10:47:00"
     }
 }
