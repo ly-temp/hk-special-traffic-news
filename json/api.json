@@ -253,80 +253,6 @@
         "last_update": "2025-07-20T19:42:53",
         "last_announcement": "2025-07-20T19:32:00"
     },
-    "IN-25-04307": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Lok Ma Chau – Huanggang Cross-boundaryShuttle Bus",
-            "INCIDENT_DETAIL_CN": "落馬洲 – 皇崗穿梭巴士",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-07-19T21:29:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "118702",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows:\n\nLok Ma Chau – Huanggang Cross-boundary Shuttle Bus\nWill continue to provide normal service for at least two hours after the signal is hoisted, with enhanced frequency if necessary. Afterward, the Shuttle Bus service will operate at 30-minute intervals. Service adjustments may be made depending on weather or road conditions. Passengers are advised to stay updated by following our latest announcements.",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下：\n\n落馬洲-皇崗過境穿梭巴士\n維持正常服務至八號信號生效後最少兩小時，並在有需要時加密班次，其後班次會調整至每三十分鐘一班。若因應天氣或路面狀況，服務有需要進一步調整，會適時公布。"
-            },
-            "2025-07-20T00:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "118712",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary coach will be adjusted as follows: -The service of Hong Kong-Zhuhai-Macao Bridge Shuttle Bus will be suspended at 1 am. -Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will remain limited services. -Short-haul Cross-boundary Coach Service Mong Kok Route (Northbound): Last departure operated at 2:00 am Mong Kok Route (Southbound): Last departure operated at 2:00 am Wan Chai Route (Northbound): Last departure operated at 2:00 am Wan Chai Route (Southbound): Last departure operated at 2:00 am Yau Tsim Route (Northbound): Last departure operated at 12:20 am Yau Tsim Route (Southbound): Last departure operated at 12:20 am Kwun Tong Route (Northbound): Last departure operated at 12:20 am Kwun Tong Route (Southbound): Last departure operated at 12:20 am Tsuen Wan Route (Northbound): Last departure operated at 2:00 am Tsuen Wan Route (Southbound): Last departure operated at 2:00 am",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士會在上午1時暫停服務 -落馬洲-皇崗過境穿梭巴士服務會維持有限度服務。 -短途跨境巴士服務 旺角線(北行)：尾班車上午2時00分開出 旺角線(南行)：尾班車上午2時00分開出 灣仔線(北行)：尾班車上午2時00分開出 灣仔線(南行)：尾班車上午2時00分開出 油尖線(北行)：尾班車上午12時20分開出 油尖線(南行)：尾班車上午12時20分開出 觀塘線(北行)：尾班車上午12時20分開出 觀塘線(南行)：尾班車上午12時20分開出 荃灣線(北行)：尾班車上午2時00分開出 荃灣線(南行)：尾班車上午2時00分開出"
-            },
-            "2025-07-20T02:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "118723",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross boundary bus are adjusted as follows:\n\n-The service of Hong Kong-Zhuhai-Macao Bridge Shuttle Bus has been suspended. \n\n-Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will remain limited services. \n\n-Short-haul Cross-boundary Coach Service\n\nMong Kok Route (Northbound): Suspended\nMong Kok Route (Southbound): Suspended\nWan Chai Route (Northbound): Suspended\nWan Chai Route (Southbound): Suspended\nYau Tsim Route (Northbound): Suspended\nYau Tsim Route (Southbound): Suspended\nKwun Tong Route (Northbound): Suspended\nKwun Tong Route (Southbound): Suspended\nTsuen Wan Route (Northbound): Suspended\nTsuen Wan Route (Southbound): Suspended.",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下：\n-港珠澳大橋穿梭巴士已暫停服務\n\n-落馬洲-皇崗過境穿梭巴士服務會維持有限度服務。\n\n-短途跨境巴士服務\n旺角線(北行)：暫停服務\n旺角線(南行)：暫停服務\n灣仔線(北行)：暫停服務\n灣仔線(南行)：暫停服務\n油尖線(北行)：暫停服務\n油尖線(南行)：暫停服務\n觀塘線(北行)：暫停服務\n觀塘線(南行)：暫停服務\n荃灣線(北行)：暫停服務\n荃灣線(南行)：暫停服務。"
-            },
-            "2025-07-20T05:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "118737",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross boundary bus are adjusted as follows: -The service of Hong Kong-Zhuhai-Macao Bridge Shuttle Bus has been suspended. -Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will remain limited services, with enhanced frequency if necessary -Short-haul Cross-boundary Coach Service Mong Kok Route (Northbound): Suspended Mong Kok Route (Southbound): Suspended Wan Chai Route (Northbound): Suspended Wan Chai Route (Southbound): Suspended Yau Tsim Route (Northbound): Suspended Yau Tsim Route (Southbound): Suspended Kwun Tong Route (Northbound): Suspended Kwun Tong Route (Southbound): Suspended Tsuen Wan Route (Northbound): Suspended Tsuen Wan Route (Southbound): Suspended",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士已暫停服務 -落馬洲-皇崗過境穿梭巴士服務會維持有限度服務，並在有需要時加密班次 -短途跨境巴士服務 旺角線(北行)：暫停服務 旺角線(南行)：暫停服務 灣仔線(北行)：暫停服務 灣仔線(南行)：暫停服務 油尖線(北行)：暫停服務 油尖線(南行)：暫停服務 觀塘線(北行)：暫停服務 觀塘線(南行)：暫停服務 荃灣線(北行)：暫停服務 荃灣線(南行)：暫停服務"
-            },
-            "2025-07-20T11:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "118769",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross boundary bus are adjusted as follows: -The service of Hong Kong-Zhuhai-Macao Bridge Shuttle Bus has been suspended. -Due to fallen tree, Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus has been suspended. -Short-haul Cross-boundary Coach Service Mong Kok Route (Northbound): Suspended Mong Kok Route (Southbound): Suspended Wan Chai Route (Northbound): Suspended Wan Chai Route (Southbound): Suspended Yau Tsim Route (Northbound): Suspended Yau Tsim Route (Southbound): Suspended Kwun Tong Route (Northbound): Suspended Kwun Tong Route (Southbound): Suspended Tsuen Wan Route (Northbound): Suspended Tsuen Wan Route (Southbound): Suspended",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士已暫停服務 -因塌樹，落馬洲-皇崗過境穿梭巴士服務暫停服務 -短途跨境巴士服務 旺角線(北行)：暫停服務 旺角線(南行)：暫停服務 灣仔線(北行)：暫停服務 灣仔線(南行)：暫停服務 油尖線(北行)：暫停服務 油尖線(南行)：暫停服務 觀塘線(北行)：暫停服務 觀塘線(南行)：暫停服務 荃灣線(北行)：暫停服務 荃灣線(南行)：暫停服務"
-            },
-            "2025-07-20T13:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "118778",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross boundary bus are adjusted as follows: -The service of Hong Kong-Zhuhai-Macao Bridge Shuttle Bus has been suspended -Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus will remain limited services -Short-haul Cross-boundary Coach Service Mong Kok Route (Northbound): Suspended Mong Kok Route (Southbound): Suspended Wan Chai Route (Northbound): Suspended Wan Chai Route (Southbound): Suspended Yau Tsim Route (Northbound): Suspended Yau Tsim Route (Southbound): Suspended Kwun Tong Route (Northbound): Suspended Kwun Tong Route (Southbound): Suspended Tsuen Wan Route (Northbound): Suspended Tsuen Wan Route (Southbound): Suspended",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下： -港珠澳大橋穿梭巴士已暫停服務 -落馬洲-皇崗過境穿梭巴士服務會維持有限度服務 -短途跨境巴士服務 旺角線(北行)：暫停服務 旺角線(南行)：暫停服務 灣仔線(北行)：暫停服務 灣仔線(南行)：暫停服務 油尖線(北行)：暫停服務 油尖線(南行)：暫停服務 觀塘線(北行)：暫停服務 觀塘線(南行)：暫停服務 荃灣線(北行)：暫停服務 荃灣線(南行)：暫停服務"
-            },
-            "2025-07-20T18:24:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "118810",
-                "CONTENT_EN": "The service of cross boundary bus will be adjusted as follows:\n\n-Due to strong wind, Hong Kong-Zhuhai-Macao Bridge remain closed. The service of Hong Kong-Zhuhai-Macao Bridge Shuttle Bus has been suspended. \n\n-Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus has resumed services gradually from 6 p. m. \n\n-Short-haul Cross-boundary Coach Service\nMong Kok Route (Northbound / Southbound): Resume service at 8:30 p. m\nWan Chai Route (Northbound / Southbound): Resume service at 8:30 p. m\nYau Tsim Route (Northbound / Southbound): Resume service at 8:00 p. m\nKwun Tong Route (Northbound / Southbound): Resume service at 8:00 p. m\nTsuen Wan Route (Northbound / Southbound): Resume service at 8:30 p. m.",
-                "CONTENT_CN": "跨境巴士服務安排如下：\n\n-因強風關係，港珠澳大橋現正封閉。港珠澳大橋穿梭巴士暫停服務\n\n-落馬洲-皇崗過境穿梭巴士服務由下午6時起陸續恢復服務\n\n-短途跨境巴士服務\n旺角線(南北行)：下午8時30分恢復服務\n灣仔線(南北行)：下午8時30分恢復服務\n油尖線(南北行)：下午8時正恢復服務\n觀塘線(南北行)：下午8時正恢復服務\n荃灣線(南北行)：下午8時30分恢復服務。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-07-20T18:42:17",
-        "last_announcement": "2025-07-20T18:24:00"
-    },
     "IN-25-04309": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -425,38 +351,6 @@
         "district": null,
         "last_update": "2025-07-21T00:27:22",
         "last_announcement": "2025-07-20T23:47:00"
-    },
-    "IN-25-04331": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Car Park Publicity",
-            "INCIDENT_HEADING_CN": "Car Park Publicity",
-            "INCIDENT_DETAIL_EN": "AAHK (Morning Peak)",
-            "INCIDENT_DETAIL_CN": "機場管理局 早上繁忙時段",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-07-20T17:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "118804",
-                "CONTENT_EN": "Due to heavy traffic at the road section leading from Airport Road to Hong Kong International Airport’s Terminal 1 Departures Kerb, motorists are advised to use the drop-off area at the Airport’s Car Park 1. Members of the public heading to the Airport are advised to allow sufficient time for their journey and consider taking the Airport Express and buses.",
-                "CONTENT_CN": "現時機場路通往香港國際機場一號客運大樓離港層落客區的路段交通繁忙，駕駛人士請考慮改用機場一號停車場落客區。前往機場的市民，請預留足夠交通時間，並考慮乘搭機場快綫或巴士。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-07-20T18:16:48",
-        "last_announcement": "2025-07-20T17:53:00"
     },
     "IN-25-04336": {
         "description": {
