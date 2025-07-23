@@ -140,52 +140,6 @@
         "last_update": "2025-07-21T00:27:22",
         "last_announcement": "2025-07-20T23:58:00"
     },
-    "IN-25-04309": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-07-19T23:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "118708",
-                "CONTENT_EN": "Due to high wind , the following arrangements will be implemented on cycle track and footpath of Cross Bay Bridge at Tseung Kwan O: Members of the public heading for Cross Bay Bridge are advised that the cycle track and footpath of the Cross Bay Bridge are going to be closed soon due to high wind. Please use alternative route for travelling to LOHAS Park and Tiu Keng Leng.",
-                "CONTENT_CN": "因強風，將軍澳跨灣大橋單車徑及行人路將實施下列安排: 前往跨灣大橋人士請注意，因強風，跨灣大橋單車徑及行人路即將封閉。請改用其他單車徑及行人路前往日出康城及調景嶺。"
-            },
-            "2025-07-20T00:25:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "118715",
-                "CONTENT_EN": "Due to high wind , the following arrangements have been implemented on cycle track and footpath of Cross Bay Bridge at Tseung Kwan O: Members of the public heading for Cross Bay Bridge are advised that the cycle track and footpath of the Cross Bay Bridge have been closed due to high wind. Please use alternative route for travelling to LOHAS Park and Tiu Keng Leng.",
-                "CONTENT_CN": "因強風，將軍澳跨灣大橋單車徑及行人路現已實施下列安排: 前往跨灣大橋人士請注意，因強風，跨灣大橋單車徑及行人路已經封閉。請改用其他單車徑及行人路前往日出康城及調景嶺。"
-            },
-            "2025-07-20T22:35:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "118839",
-                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on cycle track and footpath of Cross Bay Bridge at Tseung Kwan O: Members of the public heading for Cross Bay Bridge are advised that the cycle track and footpath of Cross Bay Bridge have been re-opened.",
-                "CONTENT_CN": "因天氣情況改善，將軍澳跨灣大橋單車徑及行人路現已實施下列安排: 前往跨灣大橋人士請注意，跨灣大橋單車徑及行人路已經重開。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-07-20T23:07:47",
-        "last_announcement": "2025-07-20T22:35:00"
-    },
     "IN-25-04310": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
