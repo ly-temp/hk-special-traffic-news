@@ -62,5 +62,37 @@
         "district": null,
         "last_update": "2025-07-22T20:47:39",
         "last_announcement": "2025-07-22T20:00:00"
+    },
+    "IN-25-04465": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Special traffic arrangement may be implemented at Lok Ma Chau Control Point",
+            "INCIDENT_DETAIL_CN": "落馬洲管制站或會實施特別交通安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-25T10:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119145",
+                "CONTENT_EN": "Special traffic arrangement may be implemented at Lok Ma Chau Control\nPoint on 27 July and 1 August 2025\n\nMotorists are advised that, the number of cross-boundary private cars travelling to and from the Mainland via Lok Ma Chau Control Point may increase in the small hours of 27 July and 1 August 2025. Subject to actual traffic condition, special traffic arrangement may be implemented at the approaches to the Lok Ma Chau Control Point during the period concerned to allow smooth access of passenger service vehicles to above control point. Cross-boundary private cars are expected to take a longer time to pass through the control point. \n\nMotorists are advised to pay extra attention to the traffic management measures to be implemented by the Police on the approaches to the control point. They are also advised to be patient in case of traffic congestion, and follow the instructions of the Police. \n.",
+                "CONTENT_CN": "落馬洲管制站在2025年7月27及8月1日或會實施特別交通安排\n\n駕駛人士請注意，在2025年7月27及8月1日的凌晨時段經落馬洲管制站往來內地的跨境私家車或會增加。視乎現場交通情況，通往落馬洲管制站的道路在有關時段或會實施特別交通安排，以便公共運輸車輛能暢順地進入上述管制站。跨境私家車輪候通過口岸的時間預計會較長。\n\n駕駛人士請特別留意警方在通往管制站的道路上實施的交通管理措施，如遇交通受阻，請保持忍讓及遵從警務人員的指示。\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-25T10:49:03",
+        "last_announcement": "2025-07-25T10:30:00"
     }
 }
