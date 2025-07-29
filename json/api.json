@@ -181,10 +181,17 @@
                 "ID": "119390",
                 "CONTENT_EN": "Transport Department has received notification from MTR that due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits. High Speed Rail train service remains normal.",
                 "CONTENT_CN": "運輸署接獲港鐵通知，由於天氣情況惡劣，香港西九龍站C出入口暫時關閉以作預防措施，請使用其他出入口。 高速鐵路服務維持正常。"
+            },
+            "2025-07-29T13:13:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119420",
+                "CONTENT_EN": "Transport Department has received notification from MTR that Entrance/Exit C of Hong Kong West Kowloon Station is reopened.",
+                "CONTENT_CN": "運輸署接獲港鐵通知，香港西九龍站C出入口重新開放。"
             }
         },
         "district": null,
-        "last_update": "2025-07-29T11:19:36",
-        "last_announcement": "2025-07-29T10:58:00"
+        "last_update": "2025-07-29T13:42:32",
+        "last_announcement": "2025-07-29T13:13:00"
     }
 }
