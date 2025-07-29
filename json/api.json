@@ -64,10 +64,113 @@
                 "ID": "119355",
                 "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2025-07-29T11:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119392",
+                "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2025-07-29T09:07:04",
-        "last_announcement": "2025-07-29T08:40:00"
+        "last_update": "2025-07-29T11:19:36",
+        "last_announcement": "2025-07-29T11:05:00"
+    },
+    "IN-25-04566": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Entrances/Exits Arrangements in Stations",
+            "INCIDENT_DETAIL_CN": "車站進出安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-29T09:49:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119374",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that heavy rain is expected and preventative flooding measures are in place. The following entrances/exits are temporarily closed. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於預料會有大雨，以下車站出入口暫時關閉以便作防護措施。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-29T11:19:36",
+        "last_announcement": "2025-07-29T09:49:00"
+    },
+    "IN-25-04565": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Inclement Weather",
+            "INCIDENT_DETAIL_CN": "惡劣天氣",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-29T10:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119385",
+                "CONTENT_EN": "The following ferry services will be or have been suspended. The last sailings are:\n\nCoral Sea Ferry Service Company Limited\nKwun Tong to Sai Wan Ho: 09:48\nSai Wan Ho to Kwun Tong: 10:03\nSam Ka Tsuen to Sai Wan Ho: 09:30\nSai Wan Ho to Sam Ka Tsuen: 09:15\n\nTsui Wah Ferry Service (H. K. ) Limited\nBetween Aberdeen and Po Toi Island: Service suspended.",
+                "CONTENT_CN": "以下渡輪服務將會或已經暫停服務。尾班船如下：\n\n珊瑚海船務有限公司\n觀塘往西灣河:09:48\n西灣河往觀塘:10:03\n三家村往西灣河:09:30\n西灣河往三家村:09:15\n\n翠華船務（香港）有限公司\n香港仔至蒲台島:暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-29T11:19:36",
+        "last_announcement": "2025-07-29T10:38:00"
+    },
+    "IN-25-04571": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-29T10:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119390",
+                "CONTENT_EN": "Transport Department has received notification from MTR that due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits. High Speed Rail train service remains normal.",
+                "CONTENT_CN": "運輸署接獲港鐵通知，由於天氣情況惡劣，香港西九龍站C出入口暫時關閉以作預防措施，請使用其他出入口。 高速鐵路服務維持正常。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-29T11:19:36",
+        "last_announcement": "2025-07-29T10:58:00"
     }
 }
