@@ -193,5 +193,37 @@
         "district": null,
         "last_update": "2025-07-29T13:42:32",
         "last_announcement": "2025-07-29T13:13:00"
+    },
+    "IN-25-04594": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-30T11:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119462",
+                "CONTENT_EN": "As informed by Mainland Railway Authorities, High Speed Rail train service on 30 July 2025 travelling G100 from Hong Kong West Kowloon Station to Shanghai Hongqiao Station has been cancelled due to adverse weather conditions. Passengers may refer to MTRCL's High Speed Rail website and process your ticket refund within the time stated.",
+                "CONTENT_CN": "內地鐵路單位通報，由於天氣情況惡劣，2025年07月30日由香港西九龍站前往上海虹橋站的高速鐵路列車車次G100取消。 乘客可參閱港鐵高速鐵路網頁並於指定日期內辦理退票。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-30T12:10:22",
+        "last_announcement": "2025-07-30T11:02:00"
     }
 }
