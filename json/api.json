@@ -193,5 +193,37 @@
         "district": null,
         "last_update": "2025-07-30T12:10:22",
         "last_announcement": "2025-07-30T11:02:00"
+    },
+    "IN-25-04601": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-07-30T17:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119479",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that, as informed by Mainland Railway Authorities, High Speed Rail train service on 30 July 2025 travelling From Shanghai Hongqiao Station to Hong Kong West Kowloon Station G99 and From Hong Kong West Kowloon Station to Guangzhounan Station G6504 has been cancelled due to adverse weather conditions.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，內地鐵路單位通報，由於天氣情況惡劣，2025年07月30日由上海虹橋站前往香港西九龍站的高速鐵路列車車次G99及由香港西九龍站前往廣州南站的高速鐵路列車車次G6504取消。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-07-30T17:45:02",
+        "last_announcement": "2025-07-30T17:20:00"
     }
 }
