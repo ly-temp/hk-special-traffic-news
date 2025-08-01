@@ -52,38 +52,6 @@
         "last_update": "2025-07-29T12:27:55",
         "last_announcement": "2025-07-29T11:45:00"
     },
-    "IN-25-04566": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Entrances/Exits Arrangements in Stations",
-            "INCIDENT_DETAIL_CN": "車站進出安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-07-29T09:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "119374",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that heavy rain is expected and preventative flooding measures are in place. The following entrances/exits are temporarily closed. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於預料會有大雨，以下車站出入口暫時關閉以便作防護措施。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-07-29T11:19:36",
-        "last_announcement": "2025-07-29T09:49:00"
-    },
     "IN-25-04565": {
         "description": {
             "INCIDENT_HEADING_EN": "Ferry Incident",
