@@ -71,11 +71,18 @@
                 "ID": "119681",
                 "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2025-08-02T12:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119686",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2025-08-02T12:23:17",
-        "last_announcement": "2025-08-02T11:45:00"
+        "last_update": "2025-08-02T12:54:40",
+        "last_announcement": "2025-08-02T12:30:00"
     },
     "IN-25-04673": {
         "description": {
@@ -103,11 +110,18 @@
                 "ID": "119662",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits. \nHigh Speed Rail train service remains normal.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知，由於天氣情況惡劣，香港西九龍站C出入口暫時關閉以作預防措施，請使用其他出入口。\n高速鐵路服務維持正常。"
+            },
+            "2025-08-02T12:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119688",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Entrance/Exit C of Hong Kong West Kowloon Station is reopened.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 香港西九龍站C出入口重新開放。"
             }
         },
         "district": null,
-        "last_update": "2025-08-02T10:44:46",
-        "last_announcement": "2025-08-02T10:09:00"
+        "last_update": "2025-08-02T12:54:40",
+        "last_announcement": "2025-08-02T12:40:00"
     },
     "IN-25-04675": {
         "description": {
@@ -142,11 +156,18 @@
                 "ID": "119668",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that heavy rain is expected and preventative flooding measures are in place. The following entrances/exits are temporarily closed. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nPlease use other entrances/exits.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知，由於預料會有大雨，以下車站出入口暫時關閉以便作防護措施。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n請使用其他出入口。"
+            },
+            "2025-08-02T12:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119685",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that the entrances/exits closed earlier have resumed normal.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，較早前已關閉的出入口已回復正常。"
             }
         },
         "district": null,
-        "last_update": "2025-08-02T11:47:23",
-        "last_announcement": "2025-08-02T10:40:00"
+        "last_update": "2025-08-02T12:54:40",
+        "last_announcement": "2025-08-02T12:14:00"
     },
     "IN-25-04676": {
         "description": {
