@@ -89,10 +89,113 @@
                 "ID": "119643",
                 "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2025-08-02T09:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119651",
+                "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2025-08-02T07:19:05",
-        "last_announcement": "2025-08-02T06:50:00"
+        "last_update": "2025-08-02T10:44:46",
+        "last_announcement": "2025-08-02T09:10:00"
+    },
+    "IN-25-04673": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Some entrances/exits of Hong Kong West Kowloon Station closed",
+            "INCIDENT_DETAIL_CN": "香港西九龍站部分出入口暫時關閉",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-02T10:09:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119662",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits. \nHigh Speed Rail train service remains normal.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於天氣情況惡劣，香港西九龍站C出入口暫時關閉以作預防措施，請使用其他出入口。\n高速鐵路服務維持正常。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-02T10:44:46",
+        "last_announcement": "2025-08-02T10:09:00"
+    },
+    "IN-25-04675": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Entrances/Exits Arrangements in Stations",
+            "INCIDENT_DETAIL_CN": "車站進出安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-02T10:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119665",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that heavy rain is expected and preventative flooding measures are in place. The following entrances/exits are temporarily closed. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於預料會有大雨，以下車站出入口暫時關閉以便作防護措施。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-02T10:44:46",
+        "last_announcement": "2025-08-02T10:18:00"
+    },
+    "IN-25-04676": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Inclement Weather",
+            "INCIDENT_DETAIL_CN": "惡劣天氣",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-02T10:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119666",
+                "CONTENT_EN": "Due to inclement weather , the following ferry service(s) will be or have been suspended. \nThe last sailing is:\nCoral Sea Ferry Service Company Limited\nKwun Tong to Sai Wan Ho: 10:18\nSai Wan Ho to Kwun Tong: 10:33\nSam Ka Tsuen to Sai Wan Ho: 10:30\nSai Wan Ho to Sam Ka Tsuen: 10:15.",
+                "CONTENT_CN": "因惡劣天氣，以下渡輪服務將會或已經暫停服務。\n尾班船如下：\n珊瑚海船務有限公司\n觀塘往西灣河:10:18\n西灣河往觀塘:10:33\n三家村往西灣河:10:30\n西灣河往三家村:10:15。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-02T10:44:46",
+        "last_announcement": "2025-08-02T10:20:00"
     }
 }
