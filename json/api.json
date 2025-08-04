@@ -491,5 +491,69 @@
         "district": null,
         "last_update": "2025-08-05T02:38:19",
         "last_announcement": "2025-08-05T02:10:00"
+    },
+    "IN-25-04772": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Entrances/Exits Arrangements in Stations",
+            "INCIDENT_DETAIL_CN": "車站進出安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-05T06:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119915",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that heavy rain is expected and preventative flooding measures are in place, the following entrances/exits are temporarily closed. \n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\nBecause of flooding near the station, the following entrances/exits are temporarily closed. \n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於預料會有大雨，以下車站出入口暫時關閉以便作防護措施。\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n由於站外路面水浸，以下車站出入口暫時關閉。\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-05T06:40:54",
+        "last_announcement": "2025-08-05T06:15:00"
+    },
+    "IN-25-04774": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Inclement Weather",
+            "INCIDENT_DETAIL_CN": "惡劣天氣",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-05T06:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "119917",
+                "CONTENT_EN": "Due to inclement weather , the following ferry services have been suspended. \n\nTsui Wah Ferry Service (H. K. ) Limited\n- Aberdeen - Yung Shue Wan via Pak Kok Tsuen\n- Discovery Bay - Peng Chau/Trappist Monastery\n.",
+                "CONTENT_CN": "因惡劣天氣，以下渡輪服務已經暫停服務。\n\n翠華船務（香港）有限公司\n-香港仔—北角村—榕樹灣\n-愉景灣-坪洲/聖母神樂院\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-05T06:40:54",
+        "last_announcement": "2025-08-05T06:25:00"
     }
 }
