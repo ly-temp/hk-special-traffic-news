@@ -137,77 +137,6 @@
         "last_update": "2025-08-02T12:54:40",
         "last_announcement": "2025-08-02T12:14:00"
     },
-    "IN-25-04676": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Inclement Weather",
-            "INCIDENT_DETAIL_CN": "惡劣天氣",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-02T10:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "119666",
-                "CONTENT_EN": "Due to inclement weather , the following ferry service(s) will be or have been suspended. \nThe last sailing is:\nCoral Sea Ferry Service Company Limited\nKwun Tong to Sai Wan Ho: 10:18\nSai Wan Ho to Kwun Tong: 10:33\nSam Ka Tsuen to Sai Wan Ho: 10:30\nSai Wan Ho to Sam Ka Tsuen: 10:15.",
-                "CONTENT_CN": "因惡劣天氣，以下渡輪服務將會或已經暫停服務。\n尾班船如下：\n珊瑚海船務有限公司\n觀塘往西灣河:10:18\n西灣河往觀塘:10:33\n三家村往西灣河:10:30\n西灣河往三家村:10:15。"
-            },
-            "2025-08-02T12:09:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "119684",
-                "CONTENT_EN": "Due to inclement weather, the following ferry/ kaito ferry services will be or have been suspended. \nTsui Wa Ferry Service (H. K. ) Limited\nBetween Aberdeen and Po Toi Island: Service suspended\nBetween Stanley and Po Toi Island: Service suspended\nBetween Wong Shek and Tap Mun: Service suspended\nBetween Ma Liu Shui and Tap Mun: Service delayed\nBetween Sai Kung and Kau Sai Village/ High Island: Sailing at 11:30 from Sai Kung suspended.  At the same time, the following ferry/ kaito ferry services will be or have been resumed:\nCoral Sea Ferry Service Company Limited\nResumed at:\nKwun Tong to Sai Wan Ho: 12:18\nSai Wan Ho to Kwun Tong: 12:33\nSam Ka Tsuen to Sai Wan Ho: 12:00\nSai Wan Ho to Sam Ka Tsuen: 12:15\nSam Ka Tsuen to Tsim Sha Tsui and Central: 12:15\nCentral and Tsim Sha Tsui to Sam Ka Tsuen: 13:05.",
-                "CONTENT_CN": "因惡劣天氣，以下渡輪/街渡渡輪服務將會或已經暫停服務。\n翠華船務(⾹港)有限公司\n⾹港仔⾄蒲台島:暫停服務\n赤柱⾄蒲台島:暫停服務\n黃石至塔門:暫停服務\n馬料水至塔門:服務延誤\n西貢至滘西村及糧船灣:11:30西貢開出的航班暫停服務。  同時，以下渡輪/街渡渡輪服務將會或已經恢復服務。\n珊瑚海船務有限公司\n復航時間如下:\n觀塘往西灣河:12:18\n西灣河往觀塘:12:33\n三家村往西灣河:12:00\n西灣河往三家村:12:15\n三家村往尖沙咀及中環:12:15\n中環及尖沙咀往三家村:13:05。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-02T12:23:17",
-        "last_announcement": "2025-08-02T12:09:00"
-    },
-    "IN-25-04680": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Hong Kong West Kowloon Station Public Car Park Now Full",
-            "INCIDENT_DETAIL_CN": "香港西九龍站公眾停車場現已泊滿",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-02T11:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "119682",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Hong Kong West Kowloon Station Public Car Park is now full. Please use public transport to reach the station.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 香港西九龍站公眾停車場現已泊滿。請使用公共交通工具前往。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-02T12:23:17",
-        "last_announcement": "2025-08-02T11:45:00"
-    },
     "IN-25-04702": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
@@ -518,11 +447,25 @@
                 "ID": "119915",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that heavy rain is expected and preventative flooding measures are in place, the following entrances/exits are temporarily closed. \n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\nBecause of flooding near the station, the following entrances/exits are temporarily closed. \n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知，由於預料會有大雨，以下車站出入口暫時關閉以便作防護措施。\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n由於站外路面水浸，以下車站出入口暫時關閉。\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            },
+            "2025-08-05T11:18:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119963",
+                "CONTENT_EN": "For more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            },
+            "2025-08-05T11:58:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "119967",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
             }
         },
         "district": null,
-        "last_update": "2025-08-05T06:40:54",
-        "last_announcement": "2025-08-05T06:15:00"
+        "last_update": "2025-08-05T12:27:53",
+        "last_announcement": "2025-08-05T11:58:00"
     },
     "IN-25-04774": {
         "description": {
