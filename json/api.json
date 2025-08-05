@@ -535,11 +535,18 @@
                 "ID": "120001",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The entrances/exits closed earlier have reopened.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知， 早前關閉的車站出入口已重新開放。"
+            },
+            "2025-08-05T19:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "120012",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Train services during the evening period would be adjusted to facilitate your journey. \nPlease allow more time for travel.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 傍晚時段的列車服務會按需要作出調整，以配合乘客出行。 \n請為行程預留充裕時間。"
             }
         },
         "district": null,
-        "last_update": "2025-08-05T17:28:25",
-        "last_announcement": "2025-08-05T17:22:00"
+        "last_update": "2025-08-05T19:26:24",
+        "last_announcement": "2025-08-05T19:10:00"
     },
     "IN-25-04783": {
         "description": {
