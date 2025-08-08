@@ -52,45 +52,6 @@
         "last_update": "2025-08-05T23:25:04",
         "last_announcement": "2025-08-05T22:55:00"
     },
-    "IN-25-04777": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Central to Mid-Levels Escalator",
-            "INCIDENT_DETAIL_CN": "中環⾄半⼭⾃動扶梯",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-05T08:19:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "119933",
-                "CONTENT_EN": "The service of Central to Mid-Levels Escalator was suspended.",
-                "CONTENT_CN": "中環⾄半⼭⾃動扶梯已暫停服務。"
-            },
-            "2025-08-05T18:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "120007",
-                "CONTENT_EN": "The service of Central to Mid-Levels Escalator has resumed normal.",
-                "CONTENT_CN": "中環⾄半⼭⾃動扶梯已恢復正常服務。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-05T18:44:23",
-        "last_announcement": "2025-08-05T18:10:00"
-    },
     "IN-25-04782": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
@@ -210,38 +171,6 @@
         "district": null,
         "last_update": "2025-08-06T05:25:39",
         "last_announcement": "2025-08-06T04:50:00"
-    },
-    "IN-25-04776": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Peak Tram Incident",
-            "INCIDENT_HEADING_CN": "山頂纜車事故",
-            "INCIDENT_DETAIL_EN": "the hoisting of Black Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "黑色暴雨警告現正生效",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-05T18:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "120009",
-                "CONTENT_EN": "Transport Department has received notification from Peak Tramways Limited that Peak Tram service is resumed from 6.05 pm.",
-                "CONTENT_CN": "運輸署接獲山頂纜車公司通知，山頂纜車服務於下午6時05分恢復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-05T18:44:23",
-        "last_announcement": "2025-08-05T18:20:00"
     },
     "IN-25-04789": {
         "description": {
