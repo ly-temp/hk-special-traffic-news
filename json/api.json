@@ -239,38 +239,6 @@
         "last_update": "2025-08-05T18:44:23",
         "last_announcement": "2025-08-05T18:10:00"
     },
-    "IN-25-04778": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Low visibility",
-            "INCIDENT_DETAIL_CN": "能見度低",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-05T08:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "119935",
-                "CONTENT_EN": "Due to low visibility , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge (HZMB) Main Bridge, with details as shown below: (i) The speed limit of the fast and middle lanes of HZMB Main Bridge are lowered from 100km/h to 50 km/h; and (ii) The speed limit of the slow lane of HZMB Main Bridge is lowered from 80km/h to 50 km/h.",
-                "CONTENT_CN": "由於能見度低，港珠澳大橋主橋已實施以下特別交通及運輸安排： (i)港珠澳大橋主橋的快線及中線車速限制由每小時100公里降至每小時50 公里；及 (ii)港珠澳大橋主橋的慢線車速限制由每小時80公里降至每小時50 公里。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-05T09:07:24",
-        "last_announcement": "2025-08-05T08:10:00"
-    },
     "IN-25-04782": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
