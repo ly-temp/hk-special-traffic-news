@@ -1,36 +1,4 @@
 {
-    "IN-25-04898": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Hong Kong West Kowloon Station Public Car Park Now Full",
-            "INCIDENT_DETAIL_CN": "香港西九龍站公眾停車場現已泊滿",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-09T12:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "120291",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Hong Kong West Kowloon Station Public Car Park is now full. Please use public transport to reach the station.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，香港西九龍站公眾停車場現已泊滿。請使用公共交通工具前往。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-09T12:35:49",
-        "last_announcement": "2025-08-09T12:26:00"
-    },
     "IN-25-04783": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
