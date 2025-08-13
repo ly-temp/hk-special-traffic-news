@@ -1,36 +1,4 @@
 {
-    "IN-25-04783": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Bus Services Arrangement",
-            "INCIDENT_DETAIL_CN": "巴士服務安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-06T04:50:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "120029",
-                "CONTENT_EN": "Due to landslide, the bus service arrangement is as follows: The bus service of KMB route no. 94 will be truncated: Sai Kung <-> Pak Tam Chung For the latest service arrangement of individual bus route, members of the public can refer to the information on the bus company's website or mobile application.",
-                "CONTENT_CN": "因受山泥傾瀉影響，以下巴⼠服務安排如下： 九巴第94號線縮短行程:西貢<->北潭涌 有關個別巴士路線的最新服務情況，市⺠可參閱巴⼠公司的網⾴或流動應⽤程式內的資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-10T15:18:50",
-        "last_announcement": "2025-08-06T04:50:00"
-    },
     "IN-25-04953": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
