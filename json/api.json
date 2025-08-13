@@ -30,5 +30,37 @@
         "district": null,
         "last_update": "2025-08-12T16:16:15",
         "last_announcement": "2025-08-12T15:46:00"
+    },
+    "IN-25-04960": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-13T20:19:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "120527",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that as informed by the Mainland Railway Authorities, some High Speed Rail train services on 14 Aug 2025 traveling between Hong Kong West Kowloon Station and the Mainland have been cancelled or had their departing station and destination changed due to typhoon. \n\nCancelled Train Service:\nSouth Bound Trains:\nG6541 / G5609 / G3001\nNorth Bound Trains:\nG6542 / G3006 / G3002\n\nDeparting Station/Destination Changed:\nG6524 / G6574 (Arrive at Chaoshan Station)\nG6523 / G6573 (Departure from Chaoshan Station)\n\nFor the latest train schedules, please refer to the 12306 official website (12306. cn) or mobile app. Passengers may also check latest train information from the HSR website, mobile app or see the information provided at Hong Kong West Kowloon Station. \n\nPassengers may also consider taking the East Rail Line to Lo Wu/ Lok Ma Chau or using other transport to enter the Mainland. \n\nFor ticket refunds, please refer to the High Speed Rail website and process within the time stated.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，內地鐵路單位通報，受颱風影響，2025年08月14日部分來往香港西九龍站及內地的高速鐵路列車車次取消或需要更改始發站及終到站。\n已取消的車次:\n南行列車車次:\nG6541 /G5609 /G3001\n北行列車車次:\nG6542 /G3006 /G3002\n\n更改始發站及終到站的車次:\nG6524 /G6574 (終到站更改為潮汕站)\nG6523 /G6573 (始發站更改為潮汕站)\n\n有關車次的資料，請留意12306官方網站(12306.cn)或手機應用程式。乘客亦可留意高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n\n乘客可考慮乘搭東鐵綫經羅湖/落馬洲，或使用其他跨境交通工具前往內地。\n\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-13T20:40:01",
+        "last_announcement": "2025-08-13T20:19:00"
     }
 }
