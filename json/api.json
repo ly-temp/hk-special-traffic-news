@@ -96,10 +96,81 @@
                 "ID": "120530",
                 "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2025-08-14T07:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "120535",
+                "CONTENT_EN": "Black Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黑色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2025-08-14T06:49:12",
-        "last_announcement": "2025-08-14T06:35:00"
+        "last_update": "2025-08-14T08:50:45",
+        "last_announcement": "2025-08-14T07:50:00"
+    },
+    "IN-25-05011": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Car Park Publicity",
+            "INCIDENT_HEADING_CN": "Car Park Publicity",
+            "INCIDENT_DETAIL_EN": "AAHK (Morning Peak)",
+            "INCIDENT_DETAIL_CN": "機場管理局 早上繁忙時段",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-14T08:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "120538",
+                "CONTENT_EN": "Due to heavy traffic at the road section leading from Airport Road to Hong Kong International Airport’s Terminal 1 Departures Kerb, motorists are advised to use the drop-off area at the Airport’s Car Park 1. Members of the public heading to the Airport are advised to allow sufficient time for their journey and consider taking the Airport Express and buses.",
+                "CONTENT_CN": "現時機場路通往香港國際機場一號客運大樓離港層落客區的路段交通繁忙，駕駛人士請考慮改用機場一號停車場落客區。前往機場的市民，請預留足夠交通時間，並考慮乘搭機場快綫或巴士。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-14T08:50:45",
+        "last_announcement": "2025-08-14T08:02:00"
+    },
+    "IN-25-05014": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-14T08:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "120543",
+                "CONTENT_EN": "Some entrances/exits of Hong Kong West Kowloon Station closed\n\nDue to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits. \n\n\nHigh Speed Rail train service remains normal.",
+                "CONTENT_CN": "香港西九龍站部分出入口暫時關閉\n\n由於天氣情況惡劣，香港西九龍站C出入口暫時關閉以作預防措施，請使用其他出入口。\n\n高速鐵路服務維持正常。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-14T08:50:45",
+        "last_announcement": "2025-08-14T08:34:00"
     }
 }
