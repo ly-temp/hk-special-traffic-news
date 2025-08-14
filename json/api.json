@@ -310,5 +310,37 @@
         "district": null,
         "last_update": "2025-08-14T13:00:30",
         "last_announcement": "2025-08-14T12:38:00"
+    },
+    "IN-25-05026": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-14T15:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "120592",
+                "CONTENT_EN": "The following road sections are busy:\nKowloon\n– Jordan Road (Elements bound)\n– Austin Road (Hung Hom bound)\n– Nathan Road (Mong Kok bound) near Jordan Road\n– Gascoigne Road (Yau Ma Tei bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n九龍\n–佐敦道(往圓方方向)\n–柯士甸道(往紅磡方向)\n–彌敦道(往旺角方向)近佐敦道\n–加士居道(往油麻地方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-14T15:26:45",
+        "last_announcement": "2025-08-14T15:06:00"
     }
 }
