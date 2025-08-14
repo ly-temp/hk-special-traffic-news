@@ -278,5 +278,37 @@
         "district": null,
         "last_update": "2025-08-14T10:43:21",
         "last_announcement": "2025-08-14T09:03:00"
+    },
+    "IN-25-05018": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Bus services affected by adverse weather",
+            "INCIDENT_DETAIL_CN": "受惡劣天氣影響的巴士服務安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-14T12:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "120580",
+                "CONTENT_EN": "Due to the adverse weather, the bus services arrangement are as follows: CTB Suspended: H1、H1S、H2、H3、H4 Limited Service：6、6X、9、14、15、63、66、73、260、973",
+                "CONTENT_CN": "因受惡劣天氣影響，以下巴⼠服務安排如下： 城巴 暫停⾏駛：H1、H1S、H2、H3、H4 有限度服務：6、6X、9、14、15、63、66、73、260、973"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-14T13:00:30",
+        "last_announcement": "2025-08-14T12:38:00"
     }
 }
