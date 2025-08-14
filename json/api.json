@@ -172,5 +172,90 @@
         "district": null,
         "last_update": "2025-08-14T08:50:45",
         "last_announcement": "2025-08-14T08:34:00"
+    },
+    "IN-25-05015": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Inclement Weather",
+            "INCIDENT_DETAIL_CN": "惡劣天氣",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-14T08:50:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "120546",
+                "CONTENT_EN": "Due to inclement weather , the following ferry / kaito services have been suspended. \nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui - Tap Mun\n- Wong Shek - Tap Mun\n- Aberdeen - Po Toi\n\nThe follow ferry service remain unchanged:\n- Aberdeen - Pak Kok Tsuen - Yung Shue Wan\n- Discovery Bay - Peng Chau/Trappist Monastery\n\nDue to rough condition, journey time may be lengthened, and ferry \ndeparture time may be delayed.",
+                "CONTENT_CN": "因惡劣天氣，以下渡輪/街渡服務已經暫停服務。\n翠華船務（香港）有限公司\n-馬料水—塔門\n-黃石—塔門\n-香港仔—蒲台島\n\n以下航班服務維持不變:\n-香港仔—北角村—榕樹灣\n-愉景灣—坪洲/聖母神樂院\n\n受到天氣影響，渡輪航班服務時間可能受到延誤。"
+            },
+            "2025-08-14T09:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "120549",
+                "CONTENT_EN": "Due to inclement weather , the following ferry/kaito services have been suspended. \n\nFortune Ferry Company Limited\n-Central - Hung Hom\n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui - Tap Mun\n- Wong Shek - Tap Mun\n- Aberdeen - Po Toi\n\nThe follow ferry service remain unchanged:\n- Aberdeen - Pak Kok Tsuen - Yung Shue Wan\n- Discovery Bay - Peng Chau/Trappist Monastery\n\nDue to rough condition, journey time may be lengthened, and ferry departure time may be delayed.",
+                "CONTENT_CN": "因惡劣天氣，以下渡輪服務已經暫停服務。\n\n富裕小輪有限公司\n-中環—紅磡\n\n翠華船務（香港）有限公司\n-馬料水—塔門\n-黃石—塔門\n-香港仔—蒲台島\n\n以下航班服務維持不變:\n-香港仔—北角村—榕樹灣\n-愉景灣—坪洲/聖母神樂院\n\n受到天氣影響，渡輪航班服務時間可能受到延誤。"
+            },
+            "2025-08-14T09:07:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "120551",
+                "CONTENT_EN": "Due to inclement weather , the following ferry/kaito services have been suspended. \nFortune Ferry Company Limited\n-Central - Hung Hom : Service suspended\n-Tuen Mun - Tung Chung - Sha Lo Wan - Tai O : Service suspended\n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui - Tap Mun : Service suspended\n- Wong Shek - Tap Mun : Service suspended\n- Aberdeen - Po Toi : Service suspended\n\nThe follow ferry service remain unchanged:\n- Aberdeen - Pak Kok Tsuen - Yung Shue Wan\n- Discovery Bay - Peng Chau/Trappist Monastery\n\nDue to rough condition, journey time may be lengthened, and ferry departure time may be delayed.",
+                "CONTENT_CN": "因惡劣天氣，以下渡輪/街渡服務已經暫停服務。\n富裕小輪有限公司\n-中環—紅磡: 暫停服務\n-屯門-東涌-沙螺灣-大澳: 暫停服務\n\n翠華船務（香港）有限公司\n-馬料水—塔門: 暫停服務\n-黃石—塔門: 暫停服務\n-香港仔—蒲台島: 暫停服務\n\n以下航班服務維持不變:\n-香港仔—北角村—榕樹灣\n-愉景灣—坪洲/聖母神樂院\n\n受到天氣影響，渡輪航班服務時間可能受到延誤。"
+            },
+            "2025-08-14T09:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "120554",
+                "CONTENT_EN": "Due to inclement weather , the following ferry/kaito services have been suspended. \nFortune Ferry Company Limited\n-Central - Hung Hom : Service suspended\n-Tuen Mun - Tung Chung - Sha Lo Wan - Tai O : Service suspended\n-North Point – Kwun Tong : Last Sailing at 9:30 am\n-Kwun Tong – North Point: Last Sailing at 9:45 am\n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui - Tap Mun : Service suspended\n- Wong Shek - Tap Mun : Service suspended\n- Aberdeen - Po Toi : Service suspended\n\nThe follow ferry service remain unchanged:\n- Aberdeen - Pak Kok Tsuen - Yung Shue Wan\n- Discovery Bay - Peng Chau/Trappist Monastery\n\nDue to rough condition, journey time may be lengthened, and ferry departure time may be delayed. \n.",
+                "CONTENT_CN": "因惡劣天氣，以下渡輪/街渡服務已經暫停服務。\n富裕小輪有限公司\n-中環—紅磡: 暫停服務\n-屯門-東涌-沙螺灣-大澳: 暫停服務\n-北角-觀塘: 尾班船於上午09時30分開出\n-觀塘-北角: 尾班船於上午09時45分開出\n\n翠華船務（香港）有限公司\n-馬料水—塔門: 暫停服務\n-黃石—塔門: 暫停服務\n-香港仔—蒲台島: 暫停服務\n\n以下航班服務維持不變:\n-香港仔—北角村—榕樹灣\n-愉景灣—坪洲/聖母神樂院\n\n受到天氣影響，渡輪航班服務時間可能受到延誤。\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-14T10:43:21",
+        "last_announcement": "2025-08-14T09:26:00"
+    },
+    "IN-25-05013": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Entrances/Exits Arrangements in MTR Stations",
+            "INCIDENT_DETAIL_CN": "港鐵車站進出安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-14T09:03:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "120550",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to adverse weather, the following entrances/exits are temporarily closed as preventative measures. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nPlease use other entrances/exits. \n.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，因惡劣天氣，以下車站出入口暫時關閉以作防護措施。\n\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n請使用其他出入口。\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-14T10:43:21",
+        "last_announcement": "2025-08-14T09:03:00"
     }
 }
