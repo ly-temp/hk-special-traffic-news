@@ -374,5 +374,37 @@
         "district": null,
         "last_update": "2025-08-14T20:59:31",
         "last_announcement": "2025-08-14T20:18:00"
+    },
+    "IN-25-05058": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Kai Tak Sports Park",
+            "INCIDENT_DETAIL_CN": "啟德體育園",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-15T12:54:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "120664",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Kai Tak Sports Park will host G. E. M. WORLD TOUR concerts in the evenings of 15 - 17 and 19 - 20 August. Passengers can access the venue either from Kai Tak or Sung Wong Toi stations. After the show, train frequency will be enhanced as necessary. Passengers please have your ticket ready. If passengers need to cross the boundary, please note the departure times of the last trains connecting to Lo Wu: Sung Wong Toi Station: 22:59 Kai Tak Station: 23:01",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 啟德體育園於8月15 –17 及19 –20日晚上舉行G.E.M.世界巡迴演唱會，前往觀賞的乘客可使用啟德或宋皇臺站。 散場時，港鐵公司會按需要加密列車班次，請乘客預先準備好回程車票。 需要過境的乘客，記得留意接駁至羅湖尾班車時間： 宋皇臺站:22:59 啟德站:23:01"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-15T13:20:50",
+        "last_announcement": "2025-08-15T12:54:00"
     }
 }
