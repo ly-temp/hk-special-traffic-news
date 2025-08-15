@@ -1,36 +1,4 @@
 {
-    "IN-25-04953": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-12T15:46:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "120410",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that as informed by the Mainland Railway Authorities, the destination of High Speed Rail train G3008 on 13 August 2025 travelling to Xiamen Station will change to Chaoshan Station due to typhoon. \nTrains affected:\nG3008 (will arrive at Chaoshan Station)\n\nFor the latest train schedules, please refer to the 12306 official website (12306. cn) or mobile app. Citizens may also check latest train information from the HSR website, mobile app or see the information provided at Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，內地鐵路單位通報，受颱風影響，2025年8月13日原定前往廈門的高速鐵路列車車次G3008，終到站更改為潮汕站。\n受影響車次:\nG3008\n(終到站更改為潮汕站)\n\n有關車次的資料，請留意12306官方網站(12306.cn)或手機應用程式。市民亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-12T16:16:15",
-        "last_announcement": "2025-08-12T15:46:00"
-    },
     "IN-25-04960": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
