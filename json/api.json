@@ -59,45 +59,6 @@
         "last_update": "2025-08-14T12:46:50",
         "last_announcement": "2025-08-14T12:10:00"
     },
-    "IN-25-05014": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-14T08:34:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "120543",
-                "CONTENT_EN": "Some entrances/exits of Hong Kong West Kowloon Station closed\n\nDue to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits. \n\n\nHigh Speed Rail train service remains normal.",
-                "CONTENT_CN": "香港西九龍站部分出入口暫時關閉\n\n由於天氣情況惡劣，香港西九龍站C出入口暫時關閉以作預防措施，請使用其他出入口。\n\n高速鐵路服務維持正常。"
-            },
-            "2025-08-14T11:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "120572",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Entrance/Exit C of Hong Kong West Kowloon Station is reopened.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，香港西九龍站C出入口重新開放。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-14T12:17:22",
-        "last_announcement": "2025-08-14T11:35:00"
-    },
     "IN-25-05018": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
