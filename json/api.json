@@ -38,38 +38,6 @@
         "last_update": "2025-08-17T23:17:28",
         "last_announcement": "2025-08-17T23:05:00"
     },
-    "IN-25-05109": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Taxi service for concert at Kai Tak Sports Park",
-            "INCIDENT_DETAIL_CN": "啟德體育園演唱會的士服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-17T22:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "120778",
-                "CONTENT_EN": "The Transport Department (TD) today (August 17) said that it is the peak dispersal period of concert at Kai Tak Sports Park, the passenger queue for taxi service at the Kai Tak Stadium Taxi Pick-up/Drop-off Area is relatively long and it would take some time for boarding the taxis. Spectators are advised to use the MTR to leave the Kai Tak Sports Park. Spectators are advised to take heed of the real-time information via on-site broadcast and the \"Easy Leave\" (easyleave. police. gov. hk) as well as the latest traffic news through the TD's website (www. td. gov. hk), the \"HKeMobility\" mobile application, radio and television broadcasts.",
-                "CONTENT_CN": "運輸署今日(八月十七日）表示現時為啟德體育園演唱會散場人流高峰時段，啟德主場館的士上落客區現時輪候人數較多，輪候時間會較長。觀眾請選擇乘搭港鐵離開啟德體育園。 觀眾請留意場地廣播和「離場易」（easyleave.police.gov.hk）提供的實時資訊，以及經運輸署網頁（www.td.gov.hk）、「香港出行易」流動應用程式、電台和電視台發放的最新交通消息。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-17T22:31:00",
-        "last_announcement": "2025-08-17T22:20:00"
-    },
     "IN-25-05110": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
@@ -172,5 +140,37 @@
         "district": null,
         "last_update": "2025-08-20T22:27:44",
         "last_announcement": "2025-08-20T21:50:00"
+    },
+    "IN-25-05180": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Taxi service for concert at Kai Tak Sports Park",
+            "INCIDENT_DETAIL_CN": "啟德體育園演唱會的士服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-20T22:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "120957",
+                "CONTENT_EN": "The Transport Department (TD) today (August 20) said that it is the peak dispersal period of concert at Kai Tak Sports Park, the passenger queue for taxi service at the Kai Tak Stadium Taxi Pick-up/Drop-off Area is relatively long and it would take some time for boarding the taxis. Spectators are advised to use the MTR to leave the Kai Tak Sports Park. Spectators are advised to take heed of the real-time information via on-site broadcast and the \"Easy Leave\" (easyleave. police. gov. hk) as well as the latest traffic news through the TD's website (www. td. gov. hk), the \"HKeMobility\" mobile application, radio and television broadcasts.",
+                "CONTENT_CN": "運輸署今日(八月二十日）表示現時為啟德體育園演唱會散場人流高峰時段，啟德主場館的士上落客區現時輪候人數較多，輪候時間會較長。觀眾請選擇乘搭港鐵離開啟德體育園。 　　觀眾請留意場地廣播和「離場易」（easyleave.police.gov.hk）提供的實時資訊，以及經運輸署網頁（www.td.gov.hk）、「香港出行易」流動應用程式、電台和電視台發放的最新交通消息。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-20T22:46:12",
+        "last_announcement": "2025-08-20T22:20:00"
     }
 }
