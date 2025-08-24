@@ -147,5 +147,37 @@
         "district": null,
         "last_update": "2025-08-24T09:53:50",
         "last_announcement": "2025-08-24T08:00:00"
+    },
+    "IN-25-05271": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Car Park Publicity",
+            "INCIDENT_HEADING_CN": "Car Park Publicity",
+            "INCIDENT_DETAIL_EN": "West Kowloon Cultural District",
+            "INCIDENT_DETAIL_CN": "西九文化區",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-24T11:17:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "121183",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Hong Kong West Kowloon Station Public Car Park is now full. Please use public transport to reach the station.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，⾹港西九⿓站公眾停⾞場現已泊滿。請使⽤公共交通⼯具前往。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-24T11:56:39",
+        "last_announcement": "2025-08-24T11:17:00"
     }
 }
