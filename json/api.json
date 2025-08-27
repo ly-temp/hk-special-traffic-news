@@ -1,36 +1,4 @@
 {
-    "IN-25-05269": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-24T08:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "121179",
-                "CONTENT_EN": "Due to road works still in progress, the following temporary traffic arrangements is implementing: (I) Banning of Turning Movement All vehicles will be temporarily prohibited from making right-turn movements from Sha Tsui Road eastbound onto Tai Chung Road southbound; and All vehicles will be temporarily prohibited from making left-turn movements from Sha Tsui Road eastbound onto Tai Chung Road northbound. All vehicles will be temporarily prohibited from making right-turn movements from Sha Tsui Road westbound onto Tai Chung Road northbound; and All vehicles will be temporarily prohibited from making left-turn movements from Tai Chung Road southbound onto Sha Tsui Road eastbound. (II) Traffic Diversion Affected vehicles on Sha Tsui Road eastbound heading for Tai Chung Road southbound will be diverted via Sha Tsui Road eastbound, Tso Kung Street, Hoi Pa Street westbound, Heung Che Street and Tai Chung Road southbound. Affected vehicles on Sha Tsui Road eastbound heading for Tai Chung Road northbound will be diverted via Sha Tsui Road eastbound, Tso Kung Street, Hoi Pa Street westbound, Heung Che Street, Tai Chung Road southbound, roundabout and Tai Chung Road northbound. Affected vehicles on Sha Tsui Road westbound heading for Tai Chung Road northbound will be diverted via Tai Chung Road southbound, roundabout and Tai Chung Road northbound. Affected vehicles on Tai Chung Road southbound heading for Sha Tsui Road eastbound will be diverted via Tai Chung Road southbound, roundabout, Tai Chung Road northbound and Sha Tsui Road eastbound. Appropriate traffic signs will be erected on site to guide motorists. Motorists are advised to follow the instructions on site and drive with utmost care.",
-                "CONTENT_CN": "因道路工程仍在進行，現實施下列臨時交通安排： (I)禁止轉向 所有車輛將會臨時禁止由沙咀道東行右轉入大涌道南行；及 所有車輛將會臨時禁止由沙咀道東行左轉入大涌道北行。 所有車輛將會臨時禁止由沙咀道西行右轉入大涌道北行；及 所有車輛將會臨時禁止由大涌道南行左轉入沙咀道東行。 (II)交通改道 沿沙咀道東行前往大涌道南行的受影響車輛，須改經沙咀道東行、曹公街、海壩街西行、香車街及大涌道南行；及 沿沙咀道東行前往大涌道北行的受影響車輛，須改經沙咀道東行、曹公街、海壩街西行、香車街、大涌道南行、迴旋處及大涌道北行。 沿沙咀道西行前往大涌道北行的受影響車輛，須改經大涌道南行、迴旋處及大涌道北行；及 沿大涌道南行前往沙咀道東行的受影響車輛，須改經大涌道南行、迴旋處、大涌道北行及沙咀道東行。 有關地點將設置適當的交通標誌，指導駕駛人士。駕駛人士請遵照指示，小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-24T09:53:50",
-        "last_announcement": "2025-08-24T08:00:00"
-    },
     "IN-25-05271": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
