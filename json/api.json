@@ -1,1 +1,41 @@
-{}
+{
+    "IN-25-05367": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-08-28T13:11:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "121411",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that there is an additional travelling time of 10 to 15 minutes on the Tuen Ma Line between Tai Wai and Wu Kai Sha because of a passenger on a train requiring urgent medical assistance at Shek Mun Station.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於石門站列車上有乘客需要緊急醫療協助，屯馬綫來往大圍至烏溪沙的車程延長10至15分鐘。"
+            },
+            "2025-08-28T13:16:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "121412",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that the incident on the Tuen Ma Line is now over. Train service is gradually resuming.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，較早前屯馬綫的事故已經妥善處理。班次會逐步回復正常。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-08-28T13:35:54",
+        "last_announcement": "2025-08-28T13:16:00"
+    }
+}
