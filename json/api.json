@@ -1,36 +1,4 @@
 {
-    "IN-25-05204": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Suspension of Advance Ticket Sales for Selected Train Trips",
-            "INCIDENT_DETAIL_CN": "個別列車車次暫停預售",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-08-30T02:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "121543",
-                "CONTENT_EN": "As informed by Mainland Railway Authorities, the scheduling adjustments announced previously have been completed, and advance ticket sales for the following train trips have now resumed: Train trips (Starting from September 1): • G99, G100 (travelling between Hong Kong West Kowloon Station and Shanghai Hongqiao Station) • G6503, G6504 (travelling between Hong Kong West Kowloon Station and Guangzhounan Station) For the latest fare and train schedule, please refer to the 12306 official website (12306. cn) and mobile app.",
-                "CONTENT_CN": "內地鐵路單位通報，較早前的列車調度已完成，以下車次現已恢復售票： 9月1日起行駛的班次： •G99、G100（來往香港西九龍站及上海虹橋站） •G6503、G6504（來往香港西九龍站及廣州南站） 有關最新票價及時間表，請留意12306官方網站(12306.cn)及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-08-30T02:40:21",
-        "last_announcement": "2025-08-30T02:27:00"
-    },
     "IN-25-05430": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
