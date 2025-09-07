@@ -1,1 +1,66 @@
-{}
+{
+    "IN-25-05639": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Typhoon Incident",
+            "INCIDENT_HEADING_CN": "颱風事故",
+            "INCIDENT_DETAIL_EN": "Strong Wind Signal No. 3",
+            "INCIDENT_DETAIL_CN": "三號強風信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-07T08:04:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "122056",
+                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於三號強風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-07T10:02:18",
+        "last_announcement": "2025-09-07T08:04:00"
+    },
+    "IN-25-05640": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-07T08:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "122057",
+                "CONTENT_EN": "The following ferry/ kaito ferry services will be or have been adjusted:\n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui to Tung Ping Chau: Service suspended\n- Tung Ping Chau to Ma Liu Shui: Last sailing at 10:00\n- Sai Kung to Kau Sai Village &amp; High Island: Service suspended\n- High Island &amp; Kau Sai Village to Sai Kung: Service suspended\n- Ma Liu Shui to Tap Mun: Service suspended\n- Tap Mun to Ma Liu Shui: Service suspended\n- Wong Shek to Tap Mun: Service suspended\n- Tap Mun to Wong Shek: Sailings at 08:00 &amp; 13:00 only\n- Aberdeen to Po Toi Island: Service suspended\n- Po Toi Island to Aberdeen: Last sailing at 09:30 (omit Stanley)\n\nFortune Ferry Company Limited\n- Tuen Mun to Tung Chung, Sha Lo Wan &amp; Tai O: Service suspended\n- Tai O, Sha Lo Wan &amp; Tung Chung to Tuen Mun: Service suspended\n\nPeng Chau Kai To Limited\n- Discovery Bay to Mui Wo: Service suspended\n- Mui Wo to Discovery Bay: Service suspended\n\nDiscovery Bay Transportation Services Limited\n- Discovery Bay to Discovery Bay North: Service suspended\n- Discovery Bay North to Discovery Bay: Service suspended.",
+                "CONTENT_CN": "以下渡輪/街渡服務將會或已作出調整：\n\n翠華船務（香港）有限公司\n-馬料水至東平洲：暫停服務\n-東平洲至馬料水：尾班船於10:00開出\n-西貢至滘西村及糧船灣：暫停服務\n-糧船灣及滘西村至西貢：暫停服務\n-馬料水至塔門：暫停服務\n-塔門至馬料水：暫停服務\n-黃石至塔門：暫停服務\n-塔門及高流灣至黃石：只於08:00及13:00開出\n-香港仔至蒲台島：暫停服務\n-蒲台島至香港仔：尾班船於09:30開出(不經赤柱)\n\n富裕小輪有限公司\n-屯門至東涌、沙螺灣及大澳：暫停服務\n-大澳、沙螺灣及東涌至屯門：暫停服務\n\n坪洲街渡有限公司\n-愉景灣至梅窩：暫停服務\n-梅窩至愉景灣：暫停服務\n\n愉景灣航運服務有限公司\n-愉景灣至愉景灣北：暫停服務\n-愉景灣北至愉景灣：暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-07T10:02:18",
+        "last_announcement": "2025-09-07T08:34:00"
+    }
+}
