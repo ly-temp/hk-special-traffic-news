@@ -186,38 +186,6 @@
         "last_update": "2025-09-08T19:39:37",
         "last_announcement": "2025-09-08T19:32:00"
     },
-    "IN-25-05656": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Public Transport Services on 7 September 2025",
-            "INCIDENT_DETAIL_CN": "2025年9月7日之公共運輸服務安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-09-07T18:57:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "122093",
-                "CONTENT_EN": "Due to typhoon, the arrangements of public transport services are as follows:\n\nKMB &amp; LWB\nThe last departure of \"KMB Tour HK\" HK1 will be advanced to 20:00. \nAll KMB and LWB daytime routes will be temporarily suspended from 23:20 onwards, while LWB Routes S1 and S64 will maintain services until their last departures. \nAll KMB and LWB late night and overnight services will be temporarily suspended.",
-                "CONTENT_CN": "受颱風影響，公共運輸服務安排如下：\n\n九巴及龍運巴士\n「九巴遊香港」HK1將於晚上八時正開出尾班車。\n龍運路線S1及S64將維持服務至尾班車時間；其餘九巴及龍運所有日間路線將於晚上十一時二十分起暫停服務。\n九巴及龍運所有深宵及通宵路線將暫停服務。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-09-07T19:16:24",
-        "last_announcement": "2025-09-07T18:57:00"
-    },
     "IN-25-05662": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
