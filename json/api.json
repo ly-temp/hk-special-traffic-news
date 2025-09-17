@@ -62,5 +62,37 @@
         "district": null,
         "last_update": "2025-09-17T06:27:39",
         "last_announcement": "2025-09-17T06:00:00"
+    },
+    "IN-25-05970": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-17T18:44:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "122933",
+                "CONTENT_EN": "As informed by the Mainland Railway Authorities, High Speed Rail (Hong Kong Section) will add the following temporary train trips:\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station\n• September 19: G9531\n• September 26: G9533\n\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station\n• September 21: G9532\n• September 28: G9534\n\nFor schedules of the above mentioned additional train trips, please refer to the 12306 official website (12306. cn), or mobile app.",
+                "CONTENT_CN": "內地鐵路部門通知，高速鐵路（香港段）將加開以下臨時車次：\n\n由廣州南站前往香港西九龍站\n•9月19日：G9531\n•9月26日：G9533\n\n由香港西九龍站前往深圳北站\n•9月21日：G9532\n•9月28日：G9534\n\n有關上述加班列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-17T18:55:05",
+        "last_announcement": "2025-09-17T18:44:00"
     }
 }
