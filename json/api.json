@@ -147,5 +147,37 @@
         "district": null,
         "last_update": "2025-09-19T06:29:15",
         "last_announcement": "2025-09-19T06:02:00"
+    },
+    "IN-25-06018": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-19T06:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123053",
+                "CONTENT_EN": "Due to the approaching of tropical cyclone, the following kaito ferry service will be adjusted:\n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui to Tap Mun: Sailing at 8:30 am remain unchanged / Sailing at 3:00 pm suspended.",
+                "CONTENT_CN": "受熱帶氣旋影響，以下街渡服務將會作出調整：\n\n翠華船務（香港）有限公司\n-馬料水至塔門：早上8:30航班維持正常服務/下午3時航班暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-19T07:08:53",
+        "last_announcement": "2025-09-19T06:40:00"
     }
 }
