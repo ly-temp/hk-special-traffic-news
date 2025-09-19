@@ -200,5 +200,37 @@
         "district": null,
         "last_update": "2025-09-19T09:52:23",
         "last_announcement": "2025-09-19T09:20:00"
+    },
+    "IN-25-06043": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) runs additional sleeper trains trips and cancellation of selected sleeper train trip",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時臥鋪列車服務及部分臥鋪列車車次取消",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-19T19:52:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123115",
+                "CONTENT_EN": "In response to the demand, High Speed Rail (Hong Kong Section) will add the following temporary sleeper train trips: Between Hong Kong West Kowloon Station and Beijingxi Station: 30 Sep, 1, 2, 7, 8 Oct: G897, G898 Between Hong Kong West Kowloon Station and Shanghai Hongqiao Station: 30 Sep, 1, 7, 8 Oct: G899, G900 In addition, as informed by Mainland Railway Authorities, the following sleeper train trips have been cancelled due to scheduling arrangements: Between Hong Kong West Kowloon Station and Beijingxi Station: 28 Sep, 3, 4 Oct: G897, G898 Please refer to the High Speed Rail website and process your ticket refund within the time stated. Tickets are available for purchase through the 12306 official website (12306. cn) or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station. For train schedules, please refer to the 12306 official website (12306. cn) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "配合客運需求，高速鐵路(香港段)將加開以下臨時臥鋪列車車次： 來往香港西九龍站及北京西站： 9月30日，10月1、2、7、8日：G897,G898 來往香港西九龍站及上海虹橋站： 9月30日，10月1、7、8日：G899,G900 另外，因列車調度安排，以下臥鋪列車車次取消： 來往香港西九龍站及北京西站： 9月28日，10月3、4日：G897,G898 你可參閱高速鐵路網頁並於指定日期內辦理退票。 你可透過12306官方網站(12306.cn)或手機應用程式、指定代理或前往香港西九龍站購買列車車票。 有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-19T20:14:16",
+        "last_announcement": "2025-09-19T19:52:00"
     }
 }
