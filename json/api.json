@@ -174,10 +174,56 @@
                 "ID": "123053",
                 "CONTENT_EN": "Due to the approaching of tropical cyclone, the following kaito ferry service will be adjusted:\n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui to Tap Mun: Sailing at 8:30 am remain unchanged / Sailing at 3:00 pm suspended.",
                 "CONTENT_CN": "受熱帶氣旋影響，以下街渡服務將會作出調整：\n\n翠華船務（香港）有限公司\n-馬料水至塔門：早上8:30航班維持正常服務/下午3時航班暫停服務。"
+            },
+            "2025-09-19T07:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "123056",
+                "CONTENT_EN": "Due to the approaching of tropical cyclone, the following ferry/ kaito ferry service will be adjusted:\n\nTsui Wah Ferry Service (H. K. ) Limited\nMa Liu Shui to Tap Mun: Sailing at 8:30 am remain unchanged / Sailing at 3:00 pm suspended\n\nFortune Ferry Company Limited\nTuen Mun - Tung Chung - Sha Lo Wan - Tai O\n-Tuen Mun to Tung Chung: Last sailing at 08:00 am\n-Tung Chung to Tuen Mun: Last sailing at 08:30 am\n-Tuen Mun - Tai O / Tai O - Tuen Mun: Service suspended.",
+                "CONTENT_CN": "受熱帶氣旋影響，以下渡輪/街渡服務將會作出調整：\n\n翠華船務（香港）有限公司\n馬料水至塔門：早上8:30航班維持正常服務/下午3時航班暫停服務\n\n富裕小輪有限公司\n屯門—東涌—沙螺灣—大澳\n-屯門—東涌:尾班船於早上08:00開出\n-東涌—屯門:尾班船於早上08:30開出\n-屯門—大澳/大澳—屯門:暫停服務。"
+            },
+            "2025-09-19T08:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "123057",
+                "CONTENT_EN": "Due to the approaching of tropical cyclone, the following ferry/ kaito ferry service will be adjusted:\n\nTsui Wah Ferry Service (H. K. ) Limited\nMa Liu Shui to Tap Mun: Sailing at 8:30 am remain unchanged / Sailing at 3:00 pm suspended\n\nFortune Ferry Company Limited\n-Tuen Mun - Tai O: Last sailing at 09:00 am\n-Tai O - Tuen Mun: Last sailing at 10:00 am.",
+                "CONTENT_CN": "受熱帶氣旋影響，以下渡輪/街渡服務將會作出調整：\n\n翠華船務（香港）有限公司\n馬料水至塔門：早上8:30航班維持正常服務/下午3時航班暫停服務\n\n富裕小輪有限公司\n-屯門—大澳:尾班船於早上09:00開出\n-大澳—屯門:尾班船於早上10:00開出。"
             }
         },
         "district": null,
-        "last_update": "2025-09-19T07:08:53",
-        "last_announcement": "2025-09-19T06:40:00"
+        "last_update": "2025-09-19T09:52:23",
+        "last_announcement": "2025-09-19T08:20:00"
+    },
+    "IN-25-06020": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Typhoon Incident",
+            "INCIDENT_HEADING_CN": "颱風事故",
+            "INCIDENT_DETAIL_EN": "Strong Wind Signal No. 3",
+            "INCIDENT_DETAIL_CN": "三號強風信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-19T09:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123054",
+                "CONTENT_EN": "Due to hoisting of Strong Wind Signal No. 3, Transport Department appeals motorists and the commuters to:\ni. pay attention to the special traffic and transport arrangements may be implemented;\nii. pay attention to the possible traffic congestions of the roads;\niii. plan the journey in advance;\niv. allow more traveling time to cater for delay;\nv. drive with extra care and patience; and\nvi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於三號強風信號現正生效，運輸署呼籲駕駛人士及乘客須:\ni.留意當局可能會實施特別的交通及運輸措施；\nii.留意在個別道路可能會出現交通擠塞的情況；\niii.提早計劃行程路線；\niv.預留充裕時間出門；\nv.小心駕駛及保持忍讓；及\nvi.特别留意視線受阻的交通繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-19T09:52:23",
+        "last_announcement": "2025-09-19T09:20:00"
     }
 }
