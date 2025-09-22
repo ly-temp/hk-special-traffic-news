@@ -402,5 +402,37 @@
         "district": null,
         "last_update": "2025-09-22T22:44:56",
         "last_announcement": "2025-09-22T22:25:00"
+    },
+    "IN-25-06152": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Close Approaching of Tropical Cyclone",
+            "INCIDENT_DETAIL_CN": "熱帶氣旋逐漸逼近",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-23T01:23:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123390",
+                "CONTENT_EN": "Due to tropical cyclone, the following ferry/ kaito ferry services will be adjusted on 23 September 2025:\n\nSun Ferry Services Company Limited\nInter Islands:\n- Cheung Chau to Mui Wo/ Peng Chau: Last sailing at 6:35 am\n- Peng Chau to Mui Wo/ Cheung Chau Last sailing at 7:30 am\n- Mui Wo to Peng Chau: Last sailing at 7:10 am\n- Mui Wo to Cheung Chau: Last sailing at 8:00 am (via Chi Ma Wan)\n- Mui Wo to Chi Ma Wan: Last sailing at 8:00 am\n- Chi Ma Wan to Mui Wo/ Peng Chau: Last sailing at 6:52 am\n- Chi Ma Wan to Cheung Chau: Last sailing at 8:20 am\n- Cheung Chau to Chi Ma Wan: Last sailing at 6:35 am\n\nTsui Wah Ferry Service (H. K. ) Limited\n- Ma Liu Shui to Tap Mun: Service suspended\n- Tap Mun to Ma Liu Shui: Service suspended\n- Wong Shek to Ko Lau Wan &amp; Tap Mun: Service suspended\n- Tap Mun &amp; Ko Lau Wan to Wong Shek: Service suspended\n- Aberdeen to Po Toi Island: Service suspended\n- Po Toi Island to Aberdeen: Service suspended\n- Stanley to Po Toi Island: Service suspended\n- Po Toi Island to Stanley: Service suspended\n\nFortune Ferry Company Limited\n- Tuen Mun to Tung Chung, Sha Lo Wan &amp; Tai O: Service suspended from 7:00 am\n- Tai O, Sha Lo Wan &amp; Tung Chung to Tuen Mun: Service suspended from 7:00 am\n\nPeng Chau Kai To Limited\n- Discovery Bay to Mui Wo: Service suspended\n- Mui Wo to Discovery Bay: Service suspended.",
+                "CONTENT_CN": "受熱帶氣旋影響，以下渡輪/街渡服務將於2025年9月23日作出調整：\n\n新渡輪服務有限公司\n橫水渡：\n-長洲至梅窩/坪洲：尾班船於上午6時35分開出\n-坪洲至梅窩/長洲：尾班船於上午7時30分開出\n-梅窩至坪洲：尾班船於上午7時10分開出\n-梅窩至長洲：尾班船於上午8時開出(經芝麻灣)\n-梅窩至芝麻灣：尾班船於上午8時開出\n-芝麻灣至梅窩/坪洲：尾班船於上午6時52分開出\n-芝麻灣至長洲：尾班船於上午8時20分開出\n-長洲至芝麻灣：尾班船於上午6時35分開出\n\n翠華船務（香港）有限公司\n-馬料水至塔門：暫停服務\n-塔門至馬料水：暫停服務\n-黃石至高流灣及塔門：暫停服務\n-塔門及高流灣至黃石：暫停服務\n-香港仔至蒲台島：暫停服務\n-蒲台島至香港仔：暫停服務\n-赤柱至蒲台島：暫停服務\n-蒲台島至赤柱：暫停服務\n\n富裕小輪有限公司\n-屯門至東涌、沙螺灣及大澳：由上午7時起暫停服務\n-大澳、沙螺灣及東涌至屯門：由上午7時起暫停服務\n\n坪洲街渡有限公司\n-愉景灣至梅窩：暫停服務\n-梅窩至愉景灣：暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-23T02:14:46",
+        "last_announcement": "2025-09-23T01:23:00"
     }
 }
