@@ -349,5 +349,37 @@
         "district": null,
         "last_update": "2025-09-23T12:48:24",
         "last_announcement": "2025-09-23T12:30:00"
+    },
+    "IN-25-06159": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Pedestrian subways closure",
+            "INCIDENT_DETAIL_CN": "⾏⼈隧道封閉",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-23T13:36:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123421",
+                "CONTENT_EN": "Due to inclement weather, the following pedestrian subways at Tai Chung Kiu Road and Lion Rock Tunnel Road have been closed by Highway Department: Across Lion Rock Tunnel Road NS16(near the Riverpark) Across Tai Chung Kiu Road NS25(near Tsang Tai Uk) Pedestrians please take note of the above arrangement, and consider using other roads.",
+                "CONTENT_CN": "因惡劣天氣，路政署已封閉以下位於⼤涌橋路與獅子山隧道公路的⾏⼈隧道: 橫過獅子山隧道公路 NS16(近溱岸8號) 橫過⼤涌橋路 NS25(近曾大屋) ⾏⼈請注意上述安排，並改⽤其他道路。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-23T13:49:40",
+        "last_announcement": "2025-09-23T13:36:00"
     }
 }
