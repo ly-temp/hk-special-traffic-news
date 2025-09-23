@@ -443,11 +443,18 @@
                 "ID": "123427",
                 "CONTENT_EN": "Due to hoisting of No. 8 Northwest Gale or Storm Signal and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "由於八號西北烈風或暴風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
+            },
+            "2025-09-24T01:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "123459",
+                "CONTENT_EN": "Due to hoisting of Increasing Gale or Storm Signal No. 9 and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於九號烈風或暴風風力增強信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2025-09-23T14:37:50",
-        "last_announcement": "2025-09-23T14:20:00"
+        "last_update": "2025-09-24T01:58:00",
+        "last_announcement": "2025-09-24T01:40:00"
     },
     "IN-25-06162": {
         "description": {
@@ -551,5 +558,37 @@
         "district": null,
         "last_update": "2025-09-24T01:27:08",
         "last_announcement": "2025-09-24T01:05:00"
+    },
+    "IN-25-06169": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-24T01:47:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123461",
+                "CONTENT_EN": "The Hong Kong Observatory has announced that Typhoon Signal 9 is now issued. Before your journey, please check your train information through 12306 official website (12306. cn), mobile app or High Speed Rail website ; please attention to road or traffic conditions, and allow more time to travel to Hong Kong West Kowloon Station. If you purchased your ticket through the 12306 official website (12306. cn) or mobile app and would like to make changes to your journey, you may change the booking or obtain a ticket refund up to 45 minutes before the train departure time using the original purchase process.",
+                "CONTENT_CN": "香港天文台公佈9號風球現正生效。 出發前，請在12306官方網站(12306.cn)、手機應用程式或高速鐵路網頁查閱 \n有關班次的資料，留意路面或交通情況的最新公佈消息，並預留額外時間前往香港西九龍站。 乘客如果之前透過12306官方網站(12306.cn)或手機應用程式購買高鐵車票，如果想更改行程，可以透過12306平台，在列車出發前45分鐘辦理更改或取消車次。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-24T01:58:00",
+        "last_announcement": "2025-09-24T01:47:00"
     }
 }
