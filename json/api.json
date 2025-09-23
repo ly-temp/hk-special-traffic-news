@@ -611,5 +611,37 @@
         "district": null,
         "last_update": "2025-09-24T03:07:23",
         "last_announcement": "2025-09-24T02:44:00"
+    },
+    "IN-25-06173": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Technical Fault",
+            "INCIDENT_DETAIL_CN": "列車機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-24T06:39:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123476",
+                "CONTENT_EN": "For more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-24T06:48:37",
+        "last_announcement": "2025-09-24T06:39:00"
     }
 }
