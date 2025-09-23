@@ -480,5 +480,37 @@
         "district": null,
         "last_update": "2025-09-23T14:37:50",
         "last_announcement": "2025-09-23T14:24:00"
+    },
+    "IN-25-06167": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-23T23:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123452",
+                "CONTENT_EN": "Due to strong wind condition, the following traffic and transport arrangements will be implemented on Cross Bay Bridge at Tseung Kwan O. Details are shown below:\n\nTraffic Arrangement\nMotorists heading for Cross Bay Bridge are advised that the Cross Bay Bridge is going to be closed soon due to strong wind. Motorists are advised to use alternative route for travelling to LOHAS Park, Kowloon and Tiu Keng Leng. \n\nTransport Department Advice\n- Motorists are requested to drive with care and pay attention to direction of the Police. \n.",
+                "CONTENT_CN": "因強風關係，將軍澳跨灣大橋將實施下列的交通及運輸安排:\n\n交通安排\n前往跨灣大橋駕駛人士請注意，因強風關係跨灣大橋即將封閉。駕駛人士請改用其他道路前往日出康城、九龍及調景嶺。\n\n運輸署公告\n-駕駛人士請盡量忍讓及留意警務人員的指示。\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-24T00:21:54",
+        "last_announcement": "2025-09-23T23:45:00"
     }
 }
