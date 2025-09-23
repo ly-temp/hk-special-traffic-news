@@ -519,5 +519,37 @@
         "district": null,
         "last_update": "2025-09-24T00:53:16",
         "last_announcement": "2025-09-24T00:25:00"
+    },
+    "IN-25-06168": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Road Flooding Risk Special Tips",
+            "INCIDENT_DETAIL_CN": "道路水浸風險特別提示",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-24T01:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123455",
+                "CONTENT_EN": "According to Hong Kong Observatory's prediction, storm surge will occur on 24 September early morning due to the effect of Super Typhoon Ragasa. The water level of Sha Tin Shing Mun River, Tai Po Lam Tsuen River and Tai Po River will rise and may exceed the river bank resulting in flooding at riverside areas' footpaths, cycle track and the nearby subways. Citizen shall avoid routing through flood-prone areas and stay away from watercourses.",
+                "CONTENT_CN": "根據天文台的預測，因受超強颱風樺加沙影響，風暴潮預計於9月24日清晨出現。沙田城門河、大埔林村河及大埔河的水位有可能會超出河堤而引致河畔一帶行人路、單車徑及附近的隧道出現水浸。市民應遠離河道，並儘量避免途經有關地點。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-24T01:27:08",
+        "last_announcement": "2025-09-24T01:05:00"
     }
 }
