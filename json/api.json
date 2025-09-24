@@ -432,11 +432,18 @@
                 "ID": "123471",
                 "CONTENT_EN": "Due to adverse weather conditions, Entrances/ Exits C, M and N at Hong Kong West Kowloon Station are closed. Please use other entrances/ exits.",
                 "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C,M及N出入口暫時關閉，請使用其他出入口。"
+            },
+            "2025-09-24T14:14:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "123520",
+                "CONTENT_EN": "Due to adverse weather conditions, Entrances/ Exit C at Hong Kong West Kowloon Station is closed. Please use other entrances/ exits. Entrances/Exits M and N of Hong Kong West Kowloon Station are reopened.",
+                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C出入口暫時關閉，請使用其他出入口。 香港西九龍站M及N出入口重新開放。"
             }
         },
         "district": null,
-        "last_update": "2025-09-24T06:24:54",
-        "last_announcement": "2025-09-24T06:04:00"
+        "last_update": "2025-09-24T14:37:09",
+        "last_announcement": "2025-09-24T14:14:00"
     },
     "IN-25-06167": {
         "description": {
@@ -602,10 +609,17 @@
                 "ID": "123501",
                 "CONTENT_EN": "Due to unstable weather, the following entrances/exits are temporarily closed. \nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nPlease use other entrances/exits.",
                 "CONTENT_CN": "由於天氣不穩，以下車站出入口暫時關閉。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n請使用其他出入口。"
+            },
+            "2025-09-24T13:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "123514",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The entrances/exits closed earlier have resumed normal.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 早前關閉的車站出入口已重新開放。"
             }
         },
         "district": null,
-        "last_update": "2025-09-24T11:10:23",
-        "last_announcement": "2025-09-24T10:42:00"
+        "last_update": "2025-09-24T14:37:09",
+        "last_announcement": "2025-09-24T13:51:00"
     }
 }
