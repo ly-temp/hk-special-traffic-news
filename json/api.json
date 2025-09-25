@@ -1,36 +1,4 @@
 {
-    "IN-25-06143": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-09-22T19:32:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "123365",
-                "CONTENT_EN": "As informed by Mainland Railway Authorities, High Speed Rail train service between Hong Kong and the Mainland after 18:00 on 23 Sep 2025 and on 24 Sep 2025 have been cancelled due to expected adverse weather conditions. For ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306. cn) or mobile app and there is no need to rush to Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "內地鐵路單位通報，由於預期天氣情況惡劣，2025年9月23日由18:00之後及2025年9月24日所有來往香港及內地的高速鐵路列車班次取消。 如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-09-22T19:54:05",
-        "last_announcement": "2025-09-22T19:32:00"
-    },
     "IN-25-06142": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -670,5 +638,37 @@
         "district": null,
         "last_update": "2025-09-24T15:30:09",
         "last_announcement": "2025-09-24T15:20:00"
+    },
+    "IN-25-06210": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Special traffic arrangement at Lok Ma Chau Control Point",
+            "INCIDENT_DETAIL_CN": "落馬洲管制站特別交通安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-25T20:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123674",
+                "CONTENT_EN": "Motorists are advised that, the number of cross-boundary private cars travelling to and from the Mainland via Lok Ma Chau Control Point may increase in the small hours of 28 and 29 September 2025. Subject to actual traffic condition, special traffic arrangement may be implemented at the approaches to the Lok Ma Chau Control Point during the period concerned to allow smooth access of all cross-boundary and domestic passenger service vehicles (including cross-boundary coaches and Yellow Bus) to the above control point. Cross-boundary private cars are expected to take a longer time to pass through the control point. \n\nMotorists are advised to pay extra attention to the traffic management measures to be implemented by the Police on the approaches to the control point. They are also advised to be patient in case of traffic congestion, and follow the instructions of the Police.",
+                "CONTENT_CN": "駕駛人士請注意，在2025年9月28及29日的凌晨時段經落馬洲管制站往來內地的跨境私家車或會增加。視乎現場交通情況，通往落馬洲管制站的道路在有關時段或會實施特別交通安排，以便所有過境及非過境的公共客運服務車輛（包括跨境巴士及皇巴）能暢順地進入上述管制站。跨境私家車輪候通過口岸的時間預計會較長。\n\n駕駛人士請特別留意警方在通往管制站的道路上實施的交通管理措施，如遇交通受阻，請保持忍讓及遵從警務人員的指示。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-25T20:26:16",
+        "last_announcement": "2025-09-25T20:00:00"
     }
 }
