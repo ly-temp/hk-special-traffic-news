@@ -175,38 +175,6 @@
         "last_update": "2025-09-26T06:45:47",
         "last_announcement": "2025-09-26T06:33:00"
     },
-    "IN-25-06156": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "the service of cross-boundary bus",
-            "INCIDENT_DETAIL_CN": "跨境巴士服務安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-09-23T12:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "123413",
-                "CONTENT_EN": "Due to Tropical Cyclone, the service of cross-boundary bus will be adjusted as follows:\n\nLok Ma Chau Control Point\nThe Lok Ma Chau – Huanggang Cross-boundary Shuttle Bus Service will continue to provide normal service for at least two hours after the signal is hoisted, with enhanced frequency if necessary. Afterward, the Shuttle Bus service will operate at 30-minute intervals. Service adjustments may be made depending on weather or road conditions. \n.",
-                "CONTENT_CN": "因受熱帶氣旋影響，跨境巴士服務安排如下：\n\n落馬洲管制站\n落馬洲-皇崗過境穿梭巴士服務會維持正常服務至八號信號生效後最少兩小時，並在有需要時加密班次，其後班次會調整至每三十分鐘一班。若因應天氣或路面狀況，服務有需要進一步調整。\n。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-09-23T12:48:24",
-        "last_announcement": "2025-09-23T12:30:00"
-    },
     "IN-25-06159": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
