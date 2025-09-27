@@ -624,5 +624,37 @@
         "district": null,
         "last_update": "2025-09-27T12:32:39",
         "last_announcement": "2025-09-27T12:00:00"
+    },
+    "IN-25-06269": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Suspension of advance ticket sales for selected train trips",
+            "INCIDENT_DETAIL_CN": "個別列車車次暫停預售",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-27T13:26:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123819",
+                "CONTENT_EN": "As informed by Mainland Railway Authorities, advance ticket sales for the following train trips will be suspended due to train schedule adjustments: For 11 Oct and onwards: To Tianjinxi Station: G306 To Kunmingnan Station: G408/9 To Shanghai Hongqiao Station: G900 To Guangzhoudong Station: G6550 Departing from Meizhouxi Station: G6541 Departing from Guangzhoudong Station: G6561 For the latest advance ticket sales arrangements, please refer to the 12306 official website (12306. cn) and mobile app, High Speed Rail website and mobile app.",
+                "CONTENT_CN": "內地鐵路單位通知，為配合行車時間表調整，以下列車車次會暫停預售： 10月11日及以後的車次： 前往天津西：G306 前往昆明南：G408/9 前往上海虹橋：G900 前往廣州東：G6550 由梅州西出發：G6541 由廣州東出發：G6561 有關最新預售安排，請留意12306官方網站(12306.cn)及手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-27T13:42:12",
+        "last_announcement": "2025-09-27T13:26:00"
     }
 }
