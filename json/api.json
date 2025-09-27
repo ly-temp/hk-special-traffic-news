@@ -175,59 +175,6 @@
         "last_update": "2025-09-24T21:48:06",
         "last_announcement": "2025-09-24T21:22:00"
     },
-    "IN-25-06162": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Some entrances/exits of Hong Kong West Kowloon Station closed",
-            "INCIDENT_DETAIL_CN": "香港西九龍站部分出入口暫時關閉",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-09-23T14:24:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "123428",
-                "CONTENT_EN": "Due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed. Please use other entrances/exits.",
-                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C出入口暫時關閉，請使用其他出入口。"
-            },
-            "2025-09-24T06:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "123471",
-                "CONTENT_EN": "Due to adverse weather conditions, Entrances/ Exits C, M and N at Hong Kong West Kowloon Station are closed. Please use other entrances/ exits.",
-                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C,M及N出入口暫時關閉，請使用其他出入口。"
-            },
-            "2025-09-24T14:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "123520",
-                "CONTENT_EN": "Due to adverse weather conditions, Entrances/ Exit C at Hong Kong West Kowloon Station is closed. Please use other entrances/ exits. Entrances/Exits M and N of Hong Kong West Kowloon Station are reopened.",
-                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C出入口暫時關閉，請使用其他出入口。 香港西九龍站M及N出入口重新開放。"
-            },
-            "2025-09-24T20:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "123561",
-                "CONTENT_EN": "Entrance/Exit C of Hong Kong West Kowloon Station is reopened.",
-                "CONTENT_CN": "香港西九龍站C出入口重新開放。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-09-24T21:02:18",
-        "last_announcement": "2025-09-24T20:28:00"
-    },
     "IN-25-06210": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
