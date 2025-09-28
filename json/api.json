@@ -455,5 +455,37 @@
         "district": null,
         "last_update": "2025-09-27T21:59:20",
         "last_announcement": "2025-09-27T21:40:00"
+    },
+    "IN-25-06288": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Ma Liu Shui - Tap Mun",
+            "INCIDENT_DETAIL_CN": "馬料水- 塔門",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-09-28T17:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "123866",
+                "CONTENT_EN": "Due to the mechanical defects, the kaito service Ma Liu Shui - Tap Mun via Ko Lau Wan, Chek Keng and Wong Shek Pier has been suspended. The operator is arranging another vessel, and the service resume time will be announced as soon as possible.",
+                "CONTENT_CN": "由於機件故障馬料水—塔門航線經高流灣、赤徑及黃石碼頭的服務暫停。營辦商現正安排後備船，復航時間將盡快通知。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-09-28T17:49:19",
+        "last_announcement": "2025-09-28T17:40:00"
     }
 }
