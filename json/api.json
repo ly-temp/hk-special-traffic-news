@@ -1,36 +1,4 @@
 {
-    "IN-25-06235": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-09-26T14:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "123737",
-                "CONTENT_EN": "The following road sections are busy:\nHong Kong Island\n– Gloucester Road (both bounds)\n– Connaught Road Central (Western Harbour Crossing bound)\nNew Territories\n– Sha Tin Road (Tai Po bound) near Pok Hong Estate\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n香港島\n–告士打道(來回方向)\n–干諾道中(往西區海底隧道方向)\n新界\n–沙田路(往大埔方向)近博康邨\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-09-26T15:23:40",
-        "last_announcement": "2025-09-26T14:48:00"
-    },
     "IN-25-06250": {
         "description": {
             "INCIDENT_HEADING_EN": "Ferry Incident",
