@@ -1,36 +1,4 @@
 {
-    "IN-25-06250": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Ferry Service Adjustments and Special Bus Service Arrangements",
-            "INCIDENT_DETAIL_CN": "渡輪服務調整及特別巴士服務安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-09-26T18:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "123772",
-                "CONTENT_EN": "On 30 September (Tuesday) and 3 October (Friday) 2025, the following licensed ferry services will be adjusted. Relevant details and special bus service arrangements are as follows:\n\n(1) 30 September 2025 (Tuesday)\n\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm \n\n\n\n(2) 3 October 2025 (Friday)\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\nThe ferry operators will advise passengers of temporary service adjustments through their websites and/or mobile applications, as well as by displaying notices at relevant piers and inside the vessels.",
-                "CONTENT_CN": "在2025年9月30日（星期二）及10月3日（星期五），以下持牌渡輪服務將作出調整。相關詳情及特別巴士服務安排如下：\n\n(一)2025年9月30日（星期二）\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n\n(二)2025年10月3日（星期五）\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n渡輪營辦商會透過網頁及/或手機應用程式，並於相關碼頭及船上張貼通告，通知乘客上述安排。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-09-26T18:33:19",
-        "last_announcement": "2025-09-26T18:05:00"
-    },
     "IN-25-06265": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
