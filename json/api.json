@@ -94,5 +94,37 @@
         "district": null,
         "last_update": "2025-10-01T21:57:25",
         "last_announcement": "2025-10-01T21:40:00"
+    },
+    "IN-25-06395": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced train service during National Day and Mid-Autumn Festival Holidays",
+            "INCIDENT_DETAIL_CN": "國慶假期及中秋節期間加強列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-10-02T06:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "124126",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that to facilitate passengers’ travel, MTRCL will enhance train service during the period of the National Day holidays, Mid-Autumn Festival and the days before and after. \n\nNational Day holidays, Mid-Autumn Festival and the days before and after (2 – 8 October)\n•More frequent train trips will be provided on the East Rail Line during different periods on a number of days\n\nMid-Autumn Festival (6 October)\n•Enhanced train service from 3pm: local lines (except the Airport Express and Disneyland Resort Line)\n•Overnight train service: all local lines (except the Airport Express, Disneyland Resort Line and journeys to or from Lo Wu and Lok Ma Chau stations on the East Rail Line) and 7 Light Rail routes\n•Extended MTR Bus service hours: routes 506, K51 and K54A\n\nCrowd management measures may be implemented at stations when necessary and please refer to the latest service updates. \n\nPlease refer to MTR's website for details.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，為方便乘客出行，港鐵會於國慶假期及中秋節前後加強列車服務。\n\n國慶假期及中秋節前後（10月2至8日）\n•東鐵綫於不同日子及時段加密班次\n\n中秋節（10月6日）\n•下午3時起加強服務：本地鐵路綫（機場快綫及迪士尼綫除外）\n•通宵行駛：所有本地鐵路綫（機場快綫、迪士尼綫及東鐵綫來往羅湖及落馬洲站除外）及7條輕鐵路綫\n•延長服務時間：港鐵巴士506、K51及K54A\n\n部分車站在人多時或會實施客流管理措施，請留意最新車務資訊。\n\n詳情請參閱港鐵網頁。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-10-02T06:34:59",
+        "last_announcement": "2025-10-02T06:15:00"
     }
 }
