@@ -1,36 +1,4 @@
 {
-    "IN-25-06358": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Cross-boundary Transport Services and Special Traffic Arrangements for National Day Golden Week of Mainland and Mid-Autu",
-            "INCIDENT_DETAIL_CN": "內地國慶黃金周及中秋節假期跨境運輸服務及特別交通安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-09-30T17:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "124035",
-                "CONTENT_EN": "Cross-boundary Transport Services and Special Traffic Arrangements for National Day Golden Week of Mainland and Mid-Autumn Festival holiday\n\nThe Transport Department (TD) anticipates that there may be a large number of members of the public, vehicles and Mainland visitors travelling to and from the Mainland or Macao via various land-based boundary control points (BCPs) during the National Day Golden Week of the Mainland and the Mid-autumn Festival holiday. The TD urges the public and visitors to plan their trips in advance and allow sufficient travelling time. \n\nThe TD has co-ordinated with local and cross-boundary public transport operators (PTOs) to enhance their capacity and reserve sufficient vehicles and manpower to meet the travel needs of passengers during the public holiday. It is anticipated that the waiting time for public transport services, including the Hong Kong-Zhuhai-Macao Bridge (HZMB) shuttle bus (Gold Bus) and local franchised bus B routes connecting various land-based BCPs, may be longer. Passengers are advised to plan their journeys ahead, allow sufficient travelling time and travel outside peak periods as far as possible. \n\nMotorists are advised that, subject to actual traffic conditions, special traffic arrangements may be implemented at Lok Ma Chau Control Point and Shenzhen Bay Port from 1 to 8 October 2025 to allow smooth access of public transport vehicles to above control points. Cross-boundary private cars may need to queue up for crossing the BCPs. Motorists should pay extra attention to variable message signs and traffic signs along the road. In case of traffic congestion, they should remain patient and follow the instructions of on-site Police. \n\nFor the HZMB, to plan their journeys ahead, members of the public can make use of TD’s “HKeMobility” mobile application or TD’s website (hkemobility. gov. hk/en/traffic-information/live/cctv) to access the snapshots of traffic conditions at inbound and outbound vehicle plazas of the HZMB Hong Kong Port. They can also check the real-time situations of the vehicle clearance plaza of the HZMB Zhuhai Port through the WeChat official accounts “hzmbzhport” or “zhuhaifabu” (traffic-info. gzazhka. com:5015/#/) (Chinese only), and check the forecast of peak hours of inbound and outbound vehicles at HZMB Zhuhai Port through the WeChat official account of the HZMB integrated information dissemination platform (mp. weixin. qq. com/s/kjIcHlYEbwJ0B97GU9Vm0w) (Chinese only). Moreover, motorists are reminded to always comply with the traffic control measures implemented by the Zhuhai authority when driving on the HZMB Main Bridge. Vehicles shall not occupy the emergency lane unless instructed by the Zhuhai authority. \n\nThe public and visitors may visit the one-stop information platform on immigration clearance “Easy Boundary” (www. sb. gov. hk/eng/bwt/status. html?type=outbound) newly launched by the Security Bureau or the TD’s HKeMobility mobile app for the latest information on various land-based BCPs more conveniently. The TD will provide information on the service and waiting time of the Gold Bus, the Lok Ma Chau-Huanggang cross-boundary shuttle bus (Yellow Bus) and MTR on the platform. Members of the public are also advised to check the latest traffic news through radio, the television broadcasts and the HKeMobility.",
-                "CONTENT_CN": "內地國慶黃金周及中秋節假期跨境運輸服務及特別交通安排\n\n運輸署預計在內地國慶黃金周及中秋節假期將會有大量市民、車輛及內地旅客經各陸路管制站往來內地及澳門。運輸署呼籲市民和旅客及早規劃行程，預留充裕交通時間。\n\n運輸署已協調本地及跨境公共運輸服務營辦商在假期期間加大運力，預留車輛及人手應對乘客的出行需求。運輸署預計公共運輸服務（包括港珠澳大橋穿梭巴士（金巴）及連接各陸路管制站的本地專營巴士B線）的等候時間或會較長，旅客應及早規劃行程，預留充裕交通時間，及盡量選擇於非繁忙時段出行。\n\n駕駛人士請注意，視乎現場交通情況，落馬洲管制站及深圳灣口岸在10月1日至10月8日期間或會實施特別交通安排，以便公共運輸車輛能暢順地進入上述口岸，跨境私家車或需輪候通過口岸。駕駛人士請特別留意沿途可變信息顯示屏及交通標誌。如遇交通受阻，請保持忍讓及遵從現場警務人員的指示。\n\n至於港珠澳大橋，市民可透過運輸署流動應用程式「香港出行易」或運輸署網頁（hkemobility.gov.hk/tc/traffic-information/live/cctv）查閱港珠澳大橋香港口岸出境及入境客車通關廣場的交通快拍，亦可透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務（traffic-info.gzazhka.com:5015/#/），查閱大橋珠海口岸的車輛實時通關情況；以及透過「港珠澳大橋統一信息發佈平台」微信公眾號（mp.weixin.qq.com/s/kjIcHlYEbwJ0B97GU9Vm0w），查看大橋珠海口岸車輛出入境高峰時段預測，以便及早計劃行程。此外，運輸署亦提醒駕駛人士於大橋主橋行駛時，應時刻遵照珠海當局實施的交通管控措施，除非獲珠海市當局指示，否則車輛一律不可佔用應急車道。\n\n市民和旅客可透過保安局新推出的一站式過關資訊平台「口岸通」（www.sb.gov.hk/chi/bwt/status.html?type=outbound）或運輸署流動應用程式「香港出行易」，更方便地取得各陸路口岸的最新資訊。當中，運輸署會提供金巴、落馬洲—皇崗過境穿梭巴士（皇巴）及港鐵服務情況及輪候時間。市民請留意電台、電視台及「香港出行易」發放的最新交通消息。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-09-30T17:32:20",
-        "last_announcement": "2025-09-30T17:20:00"
-    },
     "IN-25-06377": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
