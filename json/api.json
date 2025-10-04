@@ -45,38 +45,6 @@
         "last_update": "2025-10-04T11:29:28",
         "last_announcement": "2025-10-04T11:09:00"
     },
-    "IN-25-06392": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Some entrances/exits of Hong Kong West Kowloon Station closed",
-            "INCIDENT_DETAIL_CN": "香港西九龍站部分出入口暫時關閉",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-10-01T21:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "124123",
-                "CONTENT_EN": "Entrance/Exit N of Hong Kong West Kowloon Station is reopened.",
-                "CONTENT_CN": "香港西九龍站N出入口重新開放。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-10-01T21:57:25",
-        "last_announcement": "2025-10-01T21:40:00"
-    },
     "IN-25-06395": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
