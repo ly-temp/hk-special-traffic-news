@@ -37,5 +37,37 @@
         "district": null,
         "last_update": "2025-10-09T19:57:40",
         "last_announcement": "2025-10-09T19:45:00"
+    },
+    "IN-25-06653": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Change of station names",
+            "INCIDENT_DETAIL_CN": "車站站名更改",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-10-10T19:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "124793",
+                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, on 11 Oct 2025, the following stations will be renamed:\n\n• Xintang Station will be renamed Guangzhouxintang Station\n\n• Qingsheng Station will be renamed Nanshabei Station.",
+                "CONTENT_CN": "中國內地鐵路單位通報，由2025年10月11日起，以下車站將採用新站名：\n\n•新塘站將更改為廣州新塘站\n\n•慶盛站將更改為南沙北站。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-10-10T19:50:56",
+        "last_announcement": "2025-10-10T19:40:00"
     }
 }
