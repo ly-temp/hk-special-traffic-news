@@ -1,1 +1,34 @@
-{}
+{
+    "IN-25-06724": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Thrilling football back at Kai Tak",
+            "INCIDENT_DETAIL_CN": "熾熱足球賽事再臨啟德",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-10-14T12:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "124966",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that AFC Asian Cup Qualifiers will be playing at Kai Tak Sports Park in the evening of 14 October. Passengers can access the venue from either Kai Tak or Sung Wong Toi stations. After the event, the train frequency will be enhanced as necessary.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 亞洲足協亞洲盃外圍賽於10月14日晚上於啟德園區作賽。前往觀賞的乘客可使用啟德或宋皇臺站。 散場時，港鐵公司會按需要加密列車班次。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-10-14T12:52:08",
+        "last_announcement": "2025-10-14T12:30:00"
+    }
+}
