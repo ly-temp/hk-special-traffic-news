@@ -62,5 +62,37 @@
         "district": null,
         "last_update": "2025-10-17T14:50:12",
         "last_announcement": "2025-10-17T14:30:00"
+    },
+    "IN-25-06869": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Suspension of advance ticket sales for selected train trips",
+            "INCIDENT_DETAIL_CN": "個別列車車次暫停預售",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-10-18T18:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "125317",
+                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, advance ticket sales for the following train trips will be suspended: From Hong Kong West Kowloon Station to Guangzhounan Station • From 1 Nov and onwards: G6582, G6536, G6508, G6538, G6588, G6505, G6527, G6583, G6537, G6585, G6509 From Zhaoqingdong Station to Hong Kong West Kowloon Station • From 1 Nov and onwards: G6579 For the latest advance ticket sales arrangements, please refer to the 12306 official website (12306. cn) and mobile app, High Speed Rail website and mobile app.",
+                "CONTENT_CN": "中國內地鐵路單位通知，以下列車車次會暫停預售： 來往香港西九龍站及廣州南站 •11月1日及以後：G6582,G6536,G6508,G6538,G6588,G6505,G6527,G6583,G6537,G6585,G6509 由肇慶東站前往香港西九龍站 •11月1日及以後：G6579 有關最新預售安排，請留意12306官方網站(12306.cn)及手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-10-18T18:30:39",
+        "last_announcement": "2025-10-18T18:02:00"
     }
 }
