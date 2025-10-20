@@ -1,36 +1,4 @@
 {
-    "IN-25-06826": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "mechanical failure of the vessel",
-            "INCIDENT_DETAIL_CN": "船隻機械故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-10-17T14:30:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "125211",
-                "CONTENT_EN": "Due to mechanical failure of the vessel, the following ferry service is suspended from 02:15 pm. \nCoral Sea Ferry Service Company Limited\n- between Sam Ka Tsuen and Sai Wan Ho .",
-                "CONTENT_CN": "因船隻機械故障，以下渡輪服務於下午02時15分起暫停服務。\n珊瑚海船務有限公司\n-往來三家村及西灣河:"
-            }
-        },
-        "district": null,
-        "last_update": "2025-10-17T14:50:12",
-        "last_announcement": "2025-10-17T14:30:00"
-    },
     "IN-25-06869": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
