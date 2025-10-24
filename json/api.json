@@ -52,45 +52,6 @@
         "last_update": "2025-10-21T19:14:47",
         "last_announcement": "2025-10-21T18:45:00"
     },
-    "IN-25-06913": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Highwind Incident",
-            "INCIDENT_HEADING_CN": "強風管理",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-10-21T09:13:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "125414",
-                "CONTENT_EN": "Ting Kau Bridge: Due to strong wind, Stage 1 temporary traffic arrangements are implemented on Ting Kau Bridge: (i) The middle lanes of Ting Kau Bridge are closed. Only fast and slow lanes are opened to traffic. Speed limit is reduced to 50km/h. (ii) Except vehicles with overall height not exceeding 1.6 meters (e.g. lower-height private cars and taxis), all vehicles (including motorcycles and motor tricycles) are prohibited from using Ting Kau Bridge. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
-                "CONTENT_CN": "汀九橋： 由於強風關係，汀九橋已實施第一階段臨時交通措施： (i)汀九橋的中線封閉，只餘快線及慢線開放予車輛行駛，車速限制降至每小時50公里。 (ii)除1.6米或以下的車輛（例如較矮身的私家車及的士）外，所有車輛（包括電單車及機動三輪車）禁止使用汀九橋。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
-            },
-            "2025-10-21T12:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "125429",
-                "CONTENT_EN": "Ting Kau Bridge: The temporary speed limit arrangement which was implemented before in the Ting Kau Bridge is cancelled. Members of the public are advised to watch out for the latest traffic news through radio and television broadcasts, and for the traffic signs on site.",
-                "CONTENT_CN": "汀九橋： 較早前於汀九橋實施的臨時車速限制措施現已取消。 市民請留意電台/電視廣播的最新交通消息，以及現場的交通標誌。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-10-21T12:53:29",
-        "last_announcement": "2025-10-21T12:35:00"
-    },
     "IN-25-06915": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
