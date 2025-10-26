@@ -1,43 +1,4 @@
 {
-    "IN-25-07014": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "HZMB HKLR",
-            "INCIDENT_DETAIL_CN": "港珠澳⼤橋⾹港連接路",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-10-23T23:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "125657",
-                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR), with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
-                "CONTENT_CN": "由於強⾵，港珠澳⼤橋⾹港連接路已實施以下特別交通及運輸安排： 港珠澳⼤橋⾹港連接路的最⾼⾞速限制由每⼩時100 公⾥降低⾄每⼩時50 公⾥。"
-            },
-            "2025-10-24T06:10:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "125661",
-                "CONTENT_EN": "Due to improved weather condition, the following special traffic and transport arrangements have been implemented on Hong Kong Zhuhai-Macao-Bridge Hong Kong Link Road (HZMB HKLR): - The speed limit of the HZMB HKLR resumes to 100 km/h",
-                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路現已實施下列特別交通及運輸安排: -港珠澳大橋香港連接路最高車速限制回復每小時100 公里。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-10-24T06:37:40",
-        "last_announcement": "2025-10-24T06:10:00"
-    },
     "IN-25-07055": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
