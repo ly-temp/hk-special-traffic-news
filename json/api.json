@@ -1,43 +1,4 @@
 {
-    "IN-25-07055": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Pedestrian subway along Sha Tin Shing Mun River",
-            "INCIDENT_DETAIL_CN": "沙田城門河沿岸的行人隧道",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-10-24T22:49:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "125755",
-                "CONTENT_EN": "Under the combined effect of spring tide and the northeast monsoon, the following pedestrian subway along Sha Tin Shing Mun River has been closed by the Highway Department: Connecting Tai Chung Kiu Road and Shing Mun River riverside NS35(near Belair Garden) Pedestrians please take note of the above arrangement, and consider using other roads.",
-                "CONTENT_CN": "受天文大潮及東北季候風的共同影響，路政署已封閉以下位於沙田城門河沿岸的行人隧道: 連接大涌橋路與城門河畔 NS35(近富豪花園) 行人請注意上述安排，並改用其他道路。"
-            },
-            "2025-10-25T00:49:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "125756",
-                "CONTENT_EN": "The following pedestrian subway along Sha Tin Shing Mun River is now reopened: Connecting Tai Chung Kiu Road and Shing Mun River riverside NS35(near Belair Garden)",
-                "CONTENT_CN": "以下位於沙田城門河沿岸的行人隧道已經重開: 連接大涌橋路與城門河畔 NS35(近富豪花園)"
-            }
-        },
-        "district": null,
-        "last_update": "2025-10-25T01:00:40",
-        "last_announcement": "2025-10-25T00:49:00"
-    },
     "IN-25-07056": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
