@@ -1,36 +1,4 @@
 {
-    "IN-25-07087": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Structural / Mechanical Defects or Closure of Access",
-            "INCIDENT_DETAIL_CN": "結構/機械缺陷或關閉",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-10-26T12:07:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "125820",
-                "CONTENT_EN": "Due to mechanical failure, the following ferry services will be or have been adjusted:\n\nFortune Ferry Company Limited\n‘Water Taxi’ Route:\n- Tsim Sha Tsui to Lei Yue Mun: Service suspended for the trip at 11:40 a. m. \n- Tsim Sha Tsui East to Lei Yue Mun: Service suspended for the trip at 11:50 a. m. \n- Lei Yue Mun to Tsim Sha Tsui: Service suspended for the trip at 12:30 p. m.",
-                "CONTENT_CN": "因機件故障，以下渡輪服務將會或已經作出調整：\n\n富裕小輪有限公司\n「水上的士」航線：\n-尖沙咀至鯉魚門：於上午11時40分的航班暫停服務\n-尖東至鯉魚門：於上午11時50分的航班暫停服務\n-鯉魚門至尖沙咀：於下午12時30分的航班暫停服務。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-10-26T12:43:39",
-        "last_announcement": "2025-10-26T12:07:00"
-    },
     "IN-25-07091": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
