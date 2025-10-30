@@ -94,5 +94,37 @@
         "district": null,
         "last_update": "2025-10-30T18:30:23",
         "last_announcement": "2025-10-30T18:14:00"
+    },
+    "IN-25-07204": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Suspension of advance ticket sales for selected train trips",
+            "INCIDENT_DETAIL_CN": "個別列車車次暫停預售",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-10-30T20:18:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "126096",
+                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, advance ticket sales for the train trips travelling between Hong Kong West Kowloon Station and Guangzhoudong Station for 3 Nov and onwards will be suspended. \n\nFor the latest advance ticket sales arrangements, please refer to the 12306 official website (12306. cn) and mobile app, High Speed Rail website and mobile app.",
+                "CONTENT_CN": "中國內地鐵路單位通知，11月3日及以後來往香港西九龍站及廣州東站的列車車次會暫停預售。\n\n有關最新預售安排，請留意12306官方網站(12306.cn)及手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-10-30T21:06:38",
+        "last_announcement": "2025-10-30T20:18:00"
     }
 }
