@@ -158,5 +158,37 @@
         "district": null,
         "last_update": "2025-10-31T21:01:30",
         "last_announcement": "2025-10-31T20:42:00"
+    },
+    "IN-25-07248": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-11-01T00:06:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "126196",
+                "CONTENT_EN": "Citizens please take note KMB's service travelling in the vicinity of Des Voeux Road Central in Central has been affected due to traffic condition. Please consider using other public transport services, such as MTR services.",
+                "CONTENT_CN": "市民請留意九巴途經中環德輔道中一帶的服務因交通情況受到影響。請考慮使用其他公共交通服務，例如港鐵服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-11-01T00:33:02",
+        "last_announcement": "2025-11-01T00:06:00"
     }
 }
