@@ -165,5 +165,37 @@
         "district": null,
         "last_update": "2025-11-01T11:30:05",
         "last_announcement": "2025-11-01T10:30:00"
+    },
+    "IN-25-07266": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "HKeMobility message for the special traffic and transport arrangements for the 15th National Games Torch Relay",
+            "INCIDENT_DETAIL_CN": "第十五屆全國運動會火炬傳遞(香港站)特別交通及運輸安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-11-01T21:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "126252",
+                "CONTENT_EN": "To facilitate the 15th National Games torch relay in Hong Kong, the Hong Kong Police Force will implement temporary road closures and traffic control measures in the vicinity of Wan Chai North, Tsim Sha Tsui and Kai Tak Sport Park in the morning of 2 November 2025. Members of the public and visitors please note the following special public transport arrangements:\n\nFranchised Bus and Green Minibus\n- 52 franchised bus routes and five green minibus (GMB) routes operating in the vicinity of Expo Drive East in Wan Chai, Tsim Sha Tsui Ferry Pier Bus Terminus, Nathan Road and Salisbury Road will adjust their services starting from the first departure in the morning of 2 November 2025. \n- KMB Route No. 8P (Laguna Verde – Tsim Sha Tsui (Circular)) will be suspended. The remaining affected bus and GMB routes will require temporary diversion or suspension/ relocation of relevant stops within the affected areas. \n- Services of the franchised bus and GMB concerned will gradually resume normal operation after road re-opening. \n\nFerry\n- Subject to the actual situation, there may be temporary service adjustment in the Wan Chai – Tsim Sha Tsui ferry route during 9.45 a. m. to 10.30 a. m. on 2 November 2025. \n\nIt is anticipated that the traffic in Wan Chai North, West Kowloon and East Kowloon will be relatively busy. Members of the public and visitors who intend to go to the affected areas are advised to use railway services as far as possible, avoid driving to the areas concerned, plan their journey ahead and allow sufficient traveling time. \n\nFor the detailed special traffic and transport arrangements, please refer to the official website of the Transport Department:\nhttps://www. td. gov. hk/en/traffic_notices/index_id_83530. html.",
+                "CONTENT_CN": "為配合第十五屆全國運動會火炬傳遞(香港站)，於2025年11月2日上午，警方會於灣仔北、尖沙咀及啟德體育園一帶實施的臨時道路封閉及交通管制措施。市民和旅客請留意以下特別公共運輸安排:\n\n專營巴士及專線小巴\n-行經灣仔博覽道東、尖沙咀碼頭巴士總站、彌敦道及梳士巴利道一帶共52條專營巴士及5條專線小巴路線，由2025年11月2日早上首班車起調整服務。\n-九巴來往海逸豪園—尖沙咀的第8P號線會暫停服務，其餘巴士及小巴路線需臨時改道或停用／遷移站點。\n-有關的巴士及小巴服務會在道路重開後陸續恢復正常。\n\n渡輪\n-來往灣仔—尖沙咀航線預計於2025年11月2日上午約9時45分至10時30分期間或因實際情況臨時調整服務。\n\n於灣仔北、西九龍及東九龍的交通預計會較為繁忙。如欲前往受影響地區的市民和旅客應盡量使用鐵路服務，避免駕車前往有關地區，並預早計劃行程及預留充裕交通時間。\n\n有關詳細的特別交通及運輸安排，請參閱運輸署網頁：\nhttps://www.td.gov.hk/tc/traffic_notices/index_id_83530.html。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-11-01T21:21:28",
+        "last_announcement": "2025-11-01T21:12:00"
     }
 }
