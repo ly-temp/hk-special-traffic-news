@@ -1,36 +1,4 @@
 {
-    "IN-25-07195": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Additional station stop for selected train trips",
-            "INCIDENT_DETAIL_CN": "個別列車車次新增站點",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-10-30T18:14:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "126067",
-                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, the following train trips will stop\nat Nanshabei Station starting from 1 Nov, 2025:\n\nFrom Hong Kong West Kowloon Station to Guangzhounan Station: G6508, G6536, G6538, G6588\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station: G6505, G6509, \nG6527, G6537, G6583\n\nFrom Zhaoqingdong Station to Hong Kong West Kowloon Station: G6579\n\nTickets are available for purchase through the 12306 official website (12306. cn) or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station. \n\nFor train schedules, please refer to the 12306 official website (12306. cn) or mobile app, or the High Speed Rail website or mobile app.",
-                "CONTENT_CN": "中國內地鐵路單位通知，由2025年11月1日起，以下列車車次會停靠南沙北站：\n\n由香港西九龍站前往廣州南站：G6508，G6536，G6538，G6588\n\n由廣州南站前往香港西九龍站：G6505，G6509，G6527，G6537，G6583\n\n由肇慶東站前往香港西九龍站：G6579\n\n你可透過12306官方網站(12306.cn)或手機應用程式、指定代理或前往香港西九龍站購買列車車票。\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-10-30T18:30:23",
-        "last_announcement": "2025-10-30T18:14:00"
-    },
     "IN-25-07204": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
