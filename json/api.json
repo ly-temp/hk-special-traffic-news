@@ -57,10 +57,17 @@
                 "ID": "126462",
                 "CONTENT_EN": "Due to a malfunction in the payment platform used by HKeMeter, transactions using Apple Pay Mastercard are currently affected. Drivers are advised to use other payment methods. The relevant payment platform is undergoing emergency repairs. If you encounter duplicate payments or other issues, please retain your transaction records, and we will follow up with the relevant payment platform. We apologize for any inconvenience caused.",
                 "CONTENT_CN": "由於入錶易所使用的支付平台出現故障，現時使用ApplePay 萬事達卡的交易正受影響，請駕駛人士使用其他支付工具。有關支付平台現正進行搶修。如遇到重複支付或其他問題，請保留交易資料，我們會與相關支付平台作出跟進。不便之處敬請原諒。"
+            },
+            "2025-11-06T06:25:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "126466",
+                "CONTENT_EN": "The Transport Department has received a notification from the payment platform used by HKeMeter, stating that the earlier malfunction in the relevant payment platform has been repaired and has now resumed normal. Drivers can currently continue to use Apple Pay with Mastercard for transactions. The Transport Department will continue to monitor the situation.",
+                "CONTENT_CN": "運輸署收到入錶易所使用的支付平台的通知，早前有關支付平台出現的故障經搶修後已回復正常。現時駕駛人士可繼續使用ApplePay萬事達卡進行交易。運輸署會繼續監察有關情況。"
             }
         },
         "district": null,
-        "last_update": "2025-11-05T23:48:04",
-        "last_announcement": "2025-11-05T23:36:00"
+        "last_update": "2025-11-06T06:45:39",
+        "last_announcement": "2025-11-06T06:25:00"
     }
 }
