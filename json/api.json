@@ -37,5 +37,37 @@
         "district": null,
         "last_update": "2025-11-06T06:45:39",
         "last_announcement": "2025-11-06T06:25:00"
+    },
+    "IN-25-07386": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) runs additional trains trips",
+            "INCIDENT_DETAIL_CN": "Busy Road Sections",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-11-06T18:53:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "126534",
+                "CONTENT_EN": "High Speed Rail (Hong Kong Section) runs additional trains trips As informed by the Chinese Mainland Railway Authorities, High Speed Rail (Hong Kong Section) will add the following temporary train trips: From Hong Kong West Kowloon Station to Shenzhenbei Station ● 10 Nov: G9536 ● 24 Nov: G9534 From Shenzhenbei Station to Hong Kong West Kowloon Station ● 8 Nov: G9535 ● 22 Nov: G9531, G9533 Tickets are available for purchase through the 12306 official website (12306. cn) or mobile app; appointed travel agents (Click here); or at Hong Kong West Kowloon Station. For train schedules, please refer to the 12306 official website (12306. cn) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "高速鐵路(香港段)加開臨時列車服務 中國內地鐵路部門通知，高速鐵路（香港段）將加開以下臨時列車車次： 由香港西九龍站前往深圳北站 ●11月10日：G9536 ●11月24日：G9534 由深圳北站前往香港西九龍站 ●11月8日：G9535 ●11月22日：G9531,G9533 你可透過12306官方網站(12306.cn)或手機應用程式、指定代理(按此)或前往香港西九龍站購買列車車票。 有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-11-06T19:13:53",
+        "last_announcement": "2025-11-06T18:53:00"
     }
 }
