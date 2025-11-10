@@ -119,38 +119,6 @@
         "last_update": "2025-11-09T11:52:17",
         "last_announcement": "2025-11-09T11:34:00"
     },
-    "IN-25-07415": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-11-07T12:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "126601",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that to facilitate passengers watching the National Games in Hong Kong, train frequency on the East Rail Line will be increased during selected periods from 12 to 17 November.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，為配合全運會香港區賽事，港鐵會於11月12日至17日加密東鐵綫部分時段的班次。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-11-07T12:31:19",
-        "last_announcement": "2025-11-07T12:00:00"
-    },
     "IN-25-07469": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
