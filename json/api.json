@@ -1,36 +1,4 @@
 {
-    "IN-25-07529": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Structural / Mechanical Defects or Closure of Access",
-            "INCIDENT_DETAIL_CN": "結構/機械缺陷或關閉",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-11-11T18:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "126885",
-                "CONTENT_EN": "The following ferry service has been suspended. \nFortune Ferry Company Limited\n‘Water Taxi’ Route:\nPremium ferry sailing at 5:35p. m. from East Tsim Sha Tsui.",
-                "CONTENT_CN": "以下渡輪服務已經暫停服務。\n富裕小輪有限公司\n「水上的士」航線：\n於下午5時35分由尖東開出的豪華航班。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-11-11T18:42:14",
-        "last_announcement": "2025-11-11T18:20:00"
-    },
     "IN-25-07604": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
