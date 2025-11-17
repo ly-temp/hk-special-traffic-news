@@ -84,38 +84,6 @@
         "last_update": "2025-11-16T17:41:30",
         "last_announcement": "2025-11-16T17:30:00"
     },
-    "IN-25-07644": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Technical Fault",
-            "INCIDENT_DETAIL_CN": "列車機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-11-14T14:58:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "127147",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that the train service on the East Rail Line is being affected because of a faulty train near Hung Hom Station.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於紅磡站附近有列車運作不暢順，東鐵綫的列車服務受到影響。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-11-14T15:16:32",
-        "last_announcement": "2025-11-14T14:58:00"
-    },
     "IN-25-07679": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
