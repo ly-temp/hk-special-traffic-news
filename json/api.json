@@ -38,45 +38,6 @@
         "last_update": "2025-11-16T17:41:30",
         "last_announcement": "2025-11-16T17:30:00"
     },
-    "IN-25-07690": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Emergency Incident",
-            "INCIDENT_DETAIL_CN": "突發事件",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-11-16T10:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "127254",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that the train service on the Kwun Tong Line is being affected because of a passenger on a train requiring urgent medical assistance at Mong Kok Station.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於旺角站列車上有乘客需要緊急醫療協助，觀塘綫的列車服務受到影響。"
-            },
-            "2025-11-16T10:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "127255",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that the case of a passenger requiring urgent medical assistance on Kwun Tong Line has been resolved. Train service will be back to normal within a short period of time.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，較早前觀塘綫列車內有乘客需要緊急醫療服務的事件已經妥善處理，列車班次會逐步回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-11-16T11:33:48",
-        "last_announcement": "2025-11-16T10:44:00"
-    },
     "IN-25-07695": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
