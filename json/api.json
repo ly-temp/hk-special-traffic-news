@@ -303,5 +303,37 @@
         "district": null,
         "last_update": "2025-11-21T10:46:32",
         "last_announcement": "2025-11-21T09:02:00"
+    },
+    "IN-25-07861": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Special traffic and transport arrangements for Cross Harbour Race in Wan Chai North and Tsim Sha Tsui",
+            "INCIDENT_DETAIL_CN": "為配合渡海泳比賽灣仔北及尖沙咀特別交通及運輸安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-11-21T12:36:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "127641",
+                "CONTENT_EN": "Special traffic and transport arrangements would be implemented in Wan Chai North and Tsim Sha Tsui to facilitate the holding of the Cross Harbour Race 2025 on November 22. For details of the special traffic and public transport arrangements, members of the public may visit the TD's website (https://www. td. gov. hk/filemanager/en/content_13/TDN_%20Victoria%20Harbour%20Race%202025_Eng. pdf) or its mobile application \"HKeMobility\". Passengers may also refer to the passenger notices displayed by the relevant public transport operators.",
+                "CONTENT_CN": "為配合十一月二十二日舉行的二○二五年渡海泳比賽，灣仔北及尖沙咀實施特別交通及運輸安排，詳情可瀏覽運輸署網頁（https://www.td.gov.hk/filemanager/en/content_13/TDN_%20Victoria%20Harbour%20Race%202025_Chi.pdf）、「香港出行易」流動應用程式或參閱相關公共運輸營辦商所發出的乘客通告。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-11-21T12:46:01",
+        "last_announcement": "2025-11-21T12:36:00"
     }
 }
