@@ -335,5 +335,37 @@
         "district": null,
         "last_update": "2025-11-21T12:46:01",
         "last_announcement": "2025-11-21T12:36:00"
+    },
+    "IN-25-07865": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Hong Kong Streetathon 2025",
+            "INCIDENT_DETAIL_CN": "香港街馬2025",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-11-21T15:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "127649",
+                "CONTENT_EN": "Special traffic and transport arrangements will be implemented in phases at various locations on Hong Kong Island, in Kowloon East and Tseung Kwan O from 1am Sunday (23 November) to facilitate the holding of the Hong Kong Streetathon 2025. \n\nMotorists should pay particular attention to the road closures and public transport arrangements at Lung Wo Road, the Central-Wan Chai Bypass, Island Eastern Corridor, Eastern Harbour Crossing, Tseung Lam Highway, Cha Kwo Ling Road, Kwun Tong Bypass, Hoi Bun Road and Kai Fuk Road. \n\nDue to extensive road closures, the TD anticipates that traffic will be very congested. Motorists are advised to avoid driving to the affected/ congested areas unless absolutely necessary. Besides, in view of the road closures, bus and Green Minibus routes observing the above roads will also be affected and subject to diversion, truncation or relocation of stops in phases. \n\nFor details of the special traffic and public transport arrangements to be implemented on the event day, please refer to the Transport Department Notice\n(https://www. td. gov. hk/filemanager/en/content_13/WCO/tdn_hkstreetathon25_eng. pdf).",
+                "CONTENT_CN": "為配合舉行香港街馬2025，香港島、九龍東及將軍澳多處在周日（十一月二十三日）凌晨一時起分階段實施特別交通及運輸安排。\n\n駕駛人士請特別留意活動當日在龍和道、中環及灣仔繞道、東區走廊、東區海底隧道、將藍公路、茶果嶺道、觀塘繞道、海濱道及啟福道的封路安排。\n\n運輸署預計大範圍封路將會令交通非常擠塞，駕駛人士如非必要，請不要駕車前往受影響的地區。此外，行經上述路段的巴士及專線小巴路線亦會因應封路安排分階段實施改道、縮短路線或遷站安排。\n\n有關活動當日實施特別交通及運輸安排的詳細資料，請參閱運輸署公告(https://www.td.gov.hk/filemanager/en/content_13/WCO/tdn_hkstreetathon25_tc.pdf)。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-11-21T15:27:12",
+        "last_announcement": "2025-11-21T15:05:00"
     }
 }
