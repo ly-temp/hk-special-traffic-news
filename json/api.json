@@ -1,43 +1,4 @@
 {
-    "IN-25-07846": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-11-21T08:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "127611",
-                "CONTENT_EN": "Fortune Ferry Company Limited Due to malfunction of lift system in WestK Quay, \"West Kowloon – Central\" ferry service is supended until further notice.",
-                "CONTENT_CN": "富裕小輪有限公司 因西九碼頭升降台故障，「中環－西九龍」線暫停服務，復航時間待定"
-            },
-            "2025-11-21T09:02:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "127615",
-                "CONTENT_EN": "The following ferry service which was suspended due to malfunction of lift system in WestK Quay will be or have been resumed:\nFortune Ferry Company Limited\n-Central to West Kowloon : resumed at 09:00 am\n-West Kowloon to Central : resumes at 09:15 am.",
-                "CONTENT_CN": "較早前因受西九碼頭升降台故障而停航的以下渡輪服務將會或已經恢復服務:\n富裕小輪有限公司\n-中環至西九龍:上午09時00分恢復\n-西九龍至中環:上午09時15分恢復。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-11-21T10:46:32",
-        "last_announcement": "2025-11-21T09:02:00"
-    },
     "IN-25-07861": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
