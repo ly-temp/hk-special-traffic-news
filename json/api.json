@@ -126,5 +126,37 @@
         "district": null,
         "last_update": "2025-11-27T22:59:55",
         "last_announcement": "2025-11-27T22:45:00"
+    },
+    "IN-25-08093": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Hong Kong Cyclothon",
+            "INCIDENT_DETAIL_CN": "香港單車節",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-11-28T17:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "128234",
+                "CONTENT_EN": "Due to the cancellation of Hong Kong Cyclothon, the special traffic and public transport service arrangements earlier announced for the event will be cancelled accordingly.",
+                "CONTENT_CN": "因應香港單車節宣告取消，早前公布的相關特別交通及公共運輸安排同告取消。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-11-28T17:33:56",
+        "last_announcement": "2025-11-28T17:14:00"
     }
 }
