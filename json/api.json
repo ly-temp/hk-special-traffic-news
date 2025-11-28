@@ -62,5 +62,37 @@
         "district": null,
         "last_update": "2025-11-28T17:33:56",
         "last_announcement": "2025-11-28T17:14:00"
+    },
+    "IN-25-08114": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced Support on the East Rail Line and MTR Bus Service",
+            "INCIDENT_DETAIL_CN": "東鐵綫及港鐵巴士特別支援安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-11-29T06:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "128291",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that In view of the transportation needs near the Tai Po area, the train frequency will be enhanced on the relevant section of the East Rail Line during the morning peak today to ease passenger flow. Extra MTR staff will also be deployed at relevant stations to assist passengers. MTR Buses for Tai Po area will also enhance service for the residents.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 因應大埔區附近的交通需要，東鐵綫今早繁忙時段將額外加密相關路段的班次，以疏導客流，並於相關車站加強人手協助乘客。大埔區內的港鐵巴士路線亦會加密班次接載居民。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-11-29T06:43:45",
+        "last_announcement": "2025-11-29T06:30:00"
     }
 }
