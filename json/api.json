@@ -62,5 +62,37 @@
         "district": null,
         "last_update": "2025-12-06T09:01:31",
         "last_announcement": "2025-12-06T08:03:00"
+    },
+    "IN-25-08364": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Services for Kai Tak Sports Park",
+            "INCIDENT_DETAIL_CN": "前往啟德體育園的列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-12-06T12:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "128906",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that concerts will be held at Kai Tak Sports Park in the evenings of 6 and 7 December. Passengers can reach the venue from either Kai Tak or Sung Wong Toi stations. Passengers are advised to arrive early to avoid large crowds before the show starts. \nAfter the show, train frequency will be enhanced as necessary. \nIf passengers need to cross the boundary, please note the departure times of the last trains connecting to Lo Wu:\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，啟德體育園於12月6及7日晚上舉行演唱會，前往觀賞的乘客可使用啟德或宋皇臺站。開場前客流或會較多，建議乘客預早到達。\n散場時，港鐵公司會按需要加密列車班次。\n需要過境的乘客，請留意往羅湖尾班車時間：\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-12-06T12:25:01",
+        "last_announcement": "2025-12-06T12:10:00"
     }
 }
