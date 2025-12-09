@@ -1,36 +1,4 @@
 {
-    "IN-25-08354": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Train Service Adjustment on 7 December 2025",
-            "INCIDENT_DETAIL_CN": "2025年12月7日列車服務調整",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-12-06T08:03:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "128889",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that to facilitate the arrangements for the Legislative Council General Election on 7 December, train service of most MTR lines will start earlier on Sunday to facilitate polling staff to get to their assigned polling stations for preparations. \nFor details, please refer to MTRCL website.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，為配合12月7日立法會換屆選舉的安排，大部份綫路會於星期日早上提早開出頭班車，以便票站人員前往票站作準備。\n詳情請參閱港鐵公司網頁。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-12-06T09:01:31",
-        "last_announcement": "2025-12-06T08:03:00"
-    },
     "IN-25-08364": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
