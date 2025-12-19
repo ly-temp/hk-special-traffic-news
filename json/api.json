@@ -1,43 +1,4 @@
 {
-    "IN-25-08689": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "vessel fault",
-            "INCIDENT_DETAIL_CN": "船舶故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-12-16T17:26:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "129641",
-                "CONTENT_EN": "Transport Department has received notification, due to vessel fault, the following ferry service has been suspended. \nFortune Ferry Company Limited\n‘Central – West Kowloon’ Route:\n- Central to West Kowloon: Service suspended from 4:45 p. m. \n- West Kowloon to Central: Service suspended from 5:00 p. m.",
-                "CONTENT_CN": "運輸署接獲通知，因船舶故障，以下渡輪服務已經暫停服務。\n富裕小輪有限公司\n「中環-西九龍」航線：\n-中環至西九龍：下午4時45分起暫停服務\n-西九龍至中環：下午5時正起暫停服務。"
-            },
-            "2025-12-16T17:43:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "129644",
-                "CONTENT_EN": "The following ferry service which was suspended due to vessel fault will be or has been resumed:\nFortune Ferry Company Limited\n‘Central - West Kowloon’ Route:\n- Central to West Kowloon: Service resumes from 5:45 p. m. \n- West Kowloon to Central: Service resumes from 6:00 p. m.",
-                "CONTENT_CN": "較早前因受船舶故障而停航的以下渡輪服務將會或已經恢復服務:\n富裕小輪有限公司\n「中環-西九⿓」航線：\n-中環⾄西九⿓：下午5時45分起恢復服務\n-西九⿓⾄中環：下午6時正起恢復服務。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-12-16T17:56:30",
-        "last_announcement": "2025-12-16T17:43:00"
-    },
     "IN-25-08783": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
