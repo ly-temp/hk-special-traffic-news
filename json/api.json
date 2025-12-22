@@ -1,36 +1,4 @@
 {
-    "IN-25-08783": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Handy tips for travelling during holidays",
-            "INCIDENT_DETAIL_CN": "假日乘車小貼士",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-12-19T12:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "129867",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that as it is the peak period for travel, please: 1. Allow more time for immigration procedures. You may enter the gate at Level B1 up to 120 minutes before the departure of your train. 2. Visit the 12306 official website (12306. cn) or mobile app to check for the latest train schedules and any service adjustments. 3. Use public transport to get to the station as parking places will be in high demand. 4. Use the drop-off/pick-up area at the Ground level, Exit B (Wui Man Road pick-up/drop-off area) for pre-booked taxis or vehicles.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，因應假日出行高峰，出發前請注意： 1.預留足夠時間辦理出入境手續。最早可於開車前120分鐘於B1層入閘。 2.瀏覽12306官方網站(12306.cn)或手機應用程式，查看最新的列車班次及車務調動資訊。 3.車站停車場泊位需求緊張，建議使用公共交通工具前往。 4.建議於地面層B出口(匯民道上落客區)等候預約的士或車輛。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-12-19T12:45:32",
-        "last_announcement": "2025-12-19T12:21:00"
-    },
     "IN-25-08810": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
