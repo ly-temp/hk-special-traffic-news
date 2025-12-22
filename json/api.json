@@ -126,5 +126,37 @@
         "district": null,
         "last_update": "2025-12-21T14:34:56",
         "last_announcement": "2025-12-21T14:27:00"
+    },
+    "IN-25-08892": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds temporary train trips",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-12-22T17:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "130114",
+                "CONTENT_EN": "In response to the demand, the High Speed Rail (Hong Kong Section) will add the following temporary train trips:\n\nFrom Hong Kong West Kowloon Station to Futian Station\n\n• 24, 27 Dec 2025; 1, 3 Jan 2026 : G5834, G5836, G5838, G5840, G5842, G5844, G5846, G5848, G5850, G5852, G5854, G5856, G5868\n\n• 25 Dec 2025: G5844, G5846, G5848, G5850, G5852, G5854, G5856, G5868\n\n• 28 Dec 2025:G5834, G5836, G5838, G5840, G5842, G5844, G5846, G5848\n\n• 31 Dec 2025: G5866\n\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station\n\n• 27 Dec 2025: G9536, G9540\n\n• 28 Dec 2025: G9532, G9606, G9622, G9624\n\n• 31 Dec 2025: G5690\n\nFrom Hong Kong West Kowloon Station to Guangzhounan Station\n\n• 28 Dec 2025: G9538\n\nFrom Hong Kong West Kowloon Station to Beijingxi Station\n\n• 31 Dec 2025; 1 Jan 2026: G898 (Sleeper train)\n\nFrom Hong Kong West Kowloon Station to Shanghai Hongqiao Station\n\n• 31 Dec 2025; 1 Jan 2026: G900 (Sleeper train)\n\nFrom Futian Station to Hong Kong West Kowloon Station\n\n• 24, 27 Dec 2025; 1, 3 Jan 2026 : G5833, G5835, G5837, G5839, G5841, G5843, G5845, G5847, G5849, G5851, G5853, G5855, G5867\n\n• 25 Dec 2025: G5843, G5845, G5847, G5849, G5851, G5853, G5855, G5867\n\n• 28 Dec 2025: G5833, G5835, G5837, G5839, G5841, G5843, G5845, G5847\n\n• 31 Dec 2025: G5865\n\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station\n\n• 25 Dec 2025: G9535, G9539, G9549\n\n• 26 Dec 2025: G9537\n\n• 28 Dec 2025: G9621, G9625\n\n• 31 Dec 2025: G5689\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station\n\n• 25 Dec 2025: G9685\n\nFrom Beijingxi Station to Hong Kong West Kowloon Station\n\n• 31 Dec 2025; 1 Jan 2026: G897 (Sleeper train)\n\nFrom Shanghai Hongqiao Station to Hong Kong West Kowloon Station\n\n• 31 Dec 2025; 1 Jan 2026: G899 (Sleeper train)\n\nTickets are available for purchase through the 12306 official website (12306. cn) or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station. \n\nFor train schedules, please refer to the 12306 official website (12306. cn) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "配合客運需求，高速鐵路(香港段)將加開以下臨時列車車次：\n\n由香港西九龍站前往福田站\n•2025年12月24,27日,2026年1月1,3日：G5834,G5836,G5838,G5840,G5842,G5844,G5846,G5848,G5850,G5852,G5854,G5856,G5868\n\n•2025年12月25日：G5844,G5846,G5848,G5850,G5852,G5854,G5856,G5868\n\n•2025年12月28日：G5834,G5836,G5838,G5840,G5842,G5844,G5846,G5848\n\n•2025年12月31日：G5866\n\n由香港西九龍站前往深圳北站\n\n•2025年12月27日：G9536,G9540\n\n•2025年12月28日：G9532,G9606,G9622,G9624\n\n•2025年12月31日：G5690\n\n由香港西九龍站前往廣州南站\n\n•2025年12月28日：G9538\n\n由香港西九龍站前往北京西站\n\n•2025年12月31日,2026年1月1日：G898(臥鋪列車)\n\n由香港西九龍站前往上海虹橋站\n\n•2025年12月31日,2026年1月1日：G900(臥鋪列車)\n\n由福田站前往香港西九龍站\n\n•2025年12月24,27日,2026年1月1,3日：G5833,G5835,G5837,G5839,G5841,G5843,G5845,G5847,G5849,G5851,G5853,G5855,G5867\n\n•2025年12月25日：G5843,G5845,G5847,G5849,G5851,G5853,G5855,G5867\n\n•2025年12月28日：G5833,G5835,G5837,G5839,G5841,G5843,G5845,G5847\n\n•2025年12月31日：G5865\n\n由深圳北站前往香港西九龍站\n\n•2025年12月25日：G9535,G9539,G9549\n\n•2025年12月26日：G9537\n\n•2025年12月28日：G9621,G9625\n\n•2025年12月31日：G5689\n\n由廣州南站前往香港西九龍站\n\n•2025年12月25日：G9685\n\n由北京西站前往香港西九龍站\n\n•2025年12月31日,2026年1月1日：G897(臥鋪列車)\n\n由上海虹橋站前往香港西九龍站\n\n•2025年12月31日,2026年1月1日：G899(臥鋪列車)\n\n你可透過12306官方網站(12306.cn)或手機應用程式、指定代理(按此)或前往香港西九龍站購買列車車票。\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-12-22T17:32:52",
+        "last_announcement": "2025-12-22T17:10:00"
     }
 }
