@@ -1,36 +1,4 @@
 {
-    "IN-25-08855": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Car Park Publicity",
-            "INCIDENT_HEADING_CN": "Car Park Publicity",
-            "INCIDENT_DETAIL_EN": "West Kowloon Cultural District",
-            "INCIDENT_DETAIL_CN": "西九文化區",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-12-21T14:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "130036",
-                "CONTENT_EN": "All car parks at West Kowloon Cultural District are full. Members of the public are encouraged to take public transport to the West Kowloon Cultural District.",
-                "CONTENT_CN": "西九文化區內所有停車場現已泊滿車輛，前往西九文化區一帶的市民請使用公共交通工具。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-12-21T14:34:56",
-        "last_announcement": "2025-12-21T14:27:00"
-    },
     "IN-25-08892": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -94,5 +62,37 @@
         "district": null,
         "last_update": "2025-12-24T12:59:33",
         "last_announcement": "2025-12-24T12:45:00"
+    },
+    "IN-25-08940": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Special traffic and transport arrangements for Christmas Eve and Christmas Day",
+            "INCIDENT_DETAIL_CN": "平安夜及聖誕日的特別交通及運輸安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-12-24T14:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "130240",
+                "CONTENT_EN": "The Transport Department reminded the public that the following special traffic and transport arrangements will be implemented on December 24 and 25 to facilitate the celebrations on Christmas Eve and Christmas Day. \n\nRoad closures \n\nRoad closures will be implemented in Central from 2pm onwards on December 24. The associated bus stops, public light bus stands, taxi stands and parking spaces will be suspended. Depending on the actual situation, the Police may extend the closure area in Central in phases. The bus and green minibus (GMB) routes operating in the affected areas may be subject to temporary diversions, suspension of services or adjustments of associated stops. \n\nThe TD urged members of the public to heed ad-hoc traffic and public transport measures which may be implemented by the Police in the Tsim Sha Tsui area at short notice, including roads closures, traffic diversions, alterations or suspension of public transport services and their relevant stops when public safety considerations arise. \n\nPublic transport services on December 24 will be adjusted as follows: \nThe first departure of MTR Airport Express from Hong Kong to Airport/AsiaWorld-Expo will be advanced and its service from AsiaWorld-Expo (via Airport) to Hong Kong will be extended;  The service levels of MTR lines (except Airport Express) will be strengthened in phases from 3pm;  MTR lines (except Airport Express, Disneyland Resort Line and East Rail Line section between Sheung Shui and Lok Ma Chau/Lo Wu) and Light Rail route nos. 505, 507, 610, 614P, 615P, 706 and 751 will provide overnight services;  The operating hours of MTR bus route nos. 506, K51 and K54A will be extended;  Five special bus services (KMB route nos. N43, N64P, N71, N243 and N272) will be operated in the small hours on December 25. The operating hours of 12 KMB routes in Kowloon and New Territories will be extended; and.  The operating hours of three GMB routes in Kowloon and one GMB route in New Territories will be extended.    \n\nCentral to Mid-Levels Escalator and Walkway System Services \n\nThe operating hours of the Central to Mid-Levels Escalator and Walkway System on December 24 and 25 will be extended to 1am on the following day. \n\nFor details of the special traffic and public transport arrangements, members of the public may visit the TD's website (www. td. gov. hk) or its mobile application \"HKeMobility\". Passengers may also refer to the passenger notices displayed by the relevant public transport operators. \n\nMembers of the public are advised to make use of public transport services as far as possible to avoid traffic congestion and unnecessary delays. The TD and the Police will closely monitor the traffic situation and implement appropriate measures when necessary. The Police may adjust the traffic arrangements, subject to the prevailing crowd and traffic conditions in the areas. The public should pay attention to the latest traffic news through radio, television or \"HKeMobility\". \n\n2.",
+                "CONTENT_CN": "運輸署提醒市民，為配合平安夜及聖誕日的節慶活動，於十二月二十四日及二十五日將實施以下特別交通及運輸安排： \n\n道路封閉 \n\n　　中環將於十二月二十四日下午二時開始實施封路，相關巴士站、公共小巴站、的士站及泊車位將暫停使用。視乎實際情況，警方或會分階段進一步擴大中環一帶的封路範圍。行經受影響地區的巴士及專線小巴路線或需臨時改道、暫停服務及相應調整車站安排。 \n\n　　運輸署呼籲市民留意，當出現公眾安全考慮時，警方或會在短時間內於尖沙咀區實施臨時交通和運輸措施，包括封路、交通改道、更改或暫停公共運輸服務及其相關的站點。 \n\n公共運輸服務於十二月二十四日會有以下調整： \n港鐵機場快線（由香港往機場／博覽館方向）首班車會提早開出，而其由博覽館（經機場）往香港方向亦會延長服務時間；。  港鐵路線（機場快線除外）由下午三時起分階段加強服務；。  港鐵路線（機場快線、迪士尼線及東鐵線上水至落馬洲／羅湖段除外）及輕鐵線第505、507、610、614P、615P、706及751號會提供通宵服務；。  港鐵巴士第506、K51及K54A線會延長服務時間；。  五條特別巴士路線（九巴第N43、N64P、N71、N243及N272號線）會於十二月二十五日凌晨提供服務；九龍及新界區12條九巴路線會延長服務時間；及。  九龍三條及新界一條專線小巴路線會延長服務時間。   \n\n中環至半山自動扶梯系統服務 \n\n　　中環至半山自動扶梯系統的運作時間將於十二月二十四及二十五日延長至翌日凌晨一時。 \n\n　　有關的特別交通及公共運輸安排詳情，市民可瀏覽運輸署網頁（www.td.gov.hk）、「香港出行易」流動應用程式或參閱公共運輸營辦商發出的乘客通告。 \n\n　　運輸署呼籲市民盡量使用公共運輸服務，以避免交通擠塞及不必要的延誤。運輸署及警方會密切留意交通情況，並會在有需要時採取適當措施。警方將視乎各區當時的人潮及交通情況，調整有關交通安排。市民請留意電台、電視台或「香港出行易」發放的最新交通消息。 \n\n2."
+            }
+        },
+        "district": null,
+        "last_update": "2025-12-24T14:51:41",
+        "last_announcement": "2025-12-24T14:30:00"
     }
 }
