@@ -165,5 +165,37 @@
         "district": null,
         "last_update": "2025-12-25T06:38:43",
         "last_announcement": "2025-12-25T06:24:00"
+    },
+    "IN-25-08959": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "MTR Train service enhancement during New Year",
+            "INCIDENT_DETAIL_CN": "港鐵新年期間加強服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-12-25T08:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "130288",
+                "CONTENT_EN": "Transport Department received notification from MTR Corporation Limited that to facilitate travel needs, train services will be enhanced with more frequent trips on several rail lines during different periods from now until 4 January. \n\nNew Year's Eve (31 December)\n•Overnight train service: all local lines (except the Airport Express, Disneyland Resort Line and journeys to or from Lo Wu and Lok Ma Chau stations on the East Rail Line) and 7 Light Rail routes\n•Extended rail service hours: East Rail Line service to/from Lo Wu, Disneyland Resort Line\n•Extended bus service hours: MTR Bus routes 506, K51 and K54A\n\nAirport Express will have the following special arrangement:\n•28 December and 1 January: the last train will depart from AsiaWorld-Expo Station at 1:00am the next day\n•31 December: the last train will depart from AsiaWorld-Expo Station at 1:30am the next day\n\nPlease see MTRC's website for more information: https://www.mtr.com.hk/archive/ch/pdf/traffic-news/04_Train_service_enhancement_xmas_new_year_2025_M2_ENG.pdf\n\nCrowd management measures may be implemented in stations when necessary. Please refer to the latest service updates.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，為方便大家外出，即日至1月4日期間，多條本地鐵路綫於不同時段加密班次，加強列車服務。\n\n除夕夜（12月31日）\n•通宵行駛：本地鐵路綫及7條輕鐵路綫（不包括機場快綫、迪士尼綫及東鐵綫往返羅湖及落馬洲站）\n•延長鐵路服務時間：東鐵綫往返羅湖站、迪士尼綫\n•延長巴士服務時間：3條巴士綫506、K51及K54A\n\n機場快綫亦會作出以下特別安排：\n•12月31日：博覽館站尾班車延至翌日凌晨01:30開出\n•1月1日：博覽館站尾班車延至翌日凌晨01:00開出\n\n詳情請參閲港鐵網頁：https://www.mtr.com.hk/archive/ch/pdf/traffic-news/05_Train_service_enhancement_xmas_new_year_2025_M2.1_CHI.pdf\n\n部分車站在人多時或會實施客流管理措施，請留意最新車務資訊。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-12-25T09:22:28",
+        "last_announcement": "2025-12-25T08:15:00"
     }
 }
