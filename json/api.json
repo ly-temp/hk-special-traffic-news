@@ -229,5 +229,37 @@
         "district": null,
         "last_update": "2025-12-28T14:41:21",
         "last_announcement": "2025-12-28T14:31:00"
+    },
+    "IN-25-09007": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-12-29T07:14:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "130391",
+                "CONTENT_EN": "Traffic is busy at Man Kam To Road northbound near Kong Nga Po Road. Motorists are encouraged to remain tolerant. Cross-boundary public transport services to and from Man Kam To Control Point may be affected and passenger waiting time may be longer. Passengers are advised to be patient.",
+                "CONTENT_CN": "文錦渡路北行近缸瓦甫路交通繁忙，駕駛人士請保持忍讓。來往文錦渡管制站的跨境公共運輸服務或會受到影響，乘客候車時間或會延長，請耐心等候。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-12-29T07:35:24",
+        "last_announcement": "2025-12-29T07:14:00"
     }
 }
