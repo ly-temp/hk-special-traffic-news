@@ -1,36 +1,4 @@
 {
-    "IN-25-08983": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Hong Kong West Kowloon Station Public Car Park now full",
-            "INCIDENT_DETAIL_CN": "香港西九龍站公眾停車場現已泊滿",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2025-12-26T09:11:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "130342",
-                "CONTENT_EN": "Hong Kong West Kowloon Station Public Car Park is now full. Please use public transport to reach the station.",
-                "CONTENT_CN": "香港西九龍站公眾停車場現已泊滿。請使用公共交通工具前往。"
-            }
-        },
-        "district": null,
-        "last_update": "2025-12-26T10:48:08",
-        "last_announcement": "2025-12-26T09:11:00"
-    },
     "IN-25-08988": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
@@ -222,5 +190,37 @@
         "district": null,
         "last_update": "2025-12-29T07:35:24",
         "last_announcement": "2025-12-29T07:14:00"
+    },
+    "IN-25-08922": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Car Park Publicity",
+            "INCIDENT_HEADING_CN": "Car Park Publicity",
+            "INCIDENT_DETAIL_EN": "AAHK (Evening Peak)",
+            "INCIDENT_DETAIL_CN": "機場管理局 晚間繁忙時段",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-12-23T17:30:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "130193",
+                "CONTENT_EN": "Due to the high passenger traffic during the holiday season, all long-term parking spaces for private vehicle and light goods vehicle at Hong Kong International Airport are fully occupied. Travellers are recommended to take public transport when travelling to the airport to avoid any unnecessary delays.",
+                "CONTENT_CN": "由於假期人流暢旺，香港國際機場所有私家車及輕型客貨車長期停車位已全部泊滿，建議旅客使用公共交通工具前往機場，以免不必要的延誤。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-12-29T11:58:21",
+        "last_announcement": "2025-12-23T17:30:00"
     }
 }
