@@ -321,5 +321,37 @@
         "district": null,
         "last_update": "2025-12-31T16:56:45",
         "last_announcement": "2025-12-31T16:13:00"
+    },
+    "IN-25-09087": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Entrances/Exits Arrangements in Central Station",
+            "INCIDENT_DETAIL_CN": "中環站進出安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2025-12-31T18:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "130562",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that to facilitate the Police with Crowd Management, Entrances/Exits J1 and L of Central Station are temporarily closed. Please use other entrances/exits.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，為配合警方的人潮管制措施，中環站J1及L出入口暫時關閉，請使用其他出入口。"
+            }
+        },
+        "district": null,
+        "last_update": "2025-12-31T18:30:29",
+        "last_announcement": "2025-12-31T18:12:00"
     }
 }
