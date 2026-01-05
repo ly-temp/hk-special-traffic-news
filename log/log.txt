@@ -6700,3 +6700,10 @@ del: IN-25-08959
 20260106-0729[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f96231ed970>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
 20260106-0730[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f96231ed4c0>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
 
+2026-01-06 07:47:46
+20260106-0742[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4a1d679760>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+20260106-0743[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4a1d67ab10>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+20260106-0744[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4a1d679b50>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+20260106-0745[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4a1d67b770>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+20260106-0746[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4a1d679ac0>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+
