@@ -37,5 +37,37 @@
         "district": null,
         "last_update": "2026-01-11T05:46:06",
         "last_announcement": "2026-01-11T05:34:00"
+    },
+    "IN-26-00304": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) train service enhancement",
+            "INCIDENT_DETAIL_CN": "高速鐵路（香港段）進一步提升列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-01-12T12:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "131274",
+                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, the following train service adjustments will come into effect on 26 January: · Schedules, stopping stations and train numbers of some train trips will be adjusted · Train service on the Shanghai Hongqiao Line will be enhanced: o 1 additional pair of regular train trips* will operate, stopping at new stations including Nanjingnan, Wuxidong and Hefeinan o 1 additional pair of sleeper train trips will operate on Tuesdays, Wednesdays and Thursdays, stopping at Ganzhouxi and Nanchangdong · Five pairs of short-haul train trips will be extended to departing from/ ending at Guangzhounan · A pair of train trips originally departing from/ending at Xiamen Station will now be extended to Fuzhou * Train trips G384/385 departing from Shanghai Hongqiao will operate from 27 January. To facilitate the above adjustments, the following train trips will be suspended on designated dates: · 25 January Travelling between Hong Kong West Kowloon Station and between Xiamen Station: G3008 and G3007 · 26 January From Meizhouxi Station to Hong Kong West Kowloon Station: G6590 (originally G6542) Tickets for train trips operating under the new timetable will be available for sale^. Ticket purchase: · 12306 official website (12306. cn) or mobile app · Appointed travel agents · Hong Kong West Kowloon Station Train schedules: · 12306 official website (12306. cn) or mobile app · High Speed Rail website or mobile app ^Arrangements for train trips G918 and G917 (to and from Chengdudong) and train trips G6398 and G6397 (to and from Shantou) are pending confirmation by the Chinese Mainland Railway Authorities. Tickets for these train trips will be available for sale later.",
+                "CONTENT_CN": "中國內地鐵路部門通報，由1月26日起，列車服務將作出以下調整：  ·部份列車班次時間、停靠站及編號調整。 ·加強上海虹橋綫列車服務： o 新增一對恆常列車*，途經南京南、無錫東及合肥南等新站 o 新增一對臥鋪列車，逢周二、三、四開行，經贛州西及南昌東站。 ·五對短途列車延伸至廣州南站為起點/終點站。 ·一對來往廈門站的列車延伸至福州站為起點/終點站。 *由上海虹橋出發的G384/5次將於1月27日起運行 配合上述調整，以下列車將於特定日子停運： ·1月25日 來往廈門站：G3008,G3007 ·1月26日 由梅州西站出發：G6590（原G6542） 按新時間表運營的列車車票現已開始發售^。 購票方法： ·12306官方網站（12306.cn）或手機應用程式 ·指定代理 ·前往香港西九龍站 列車服務詳情： ·12306官方網站（12306.cn）或手機應用程式 ·高速鐵路網頁及手機應用程式 ^來往成都東的G918，G917及來往汕頭的G6398及G6397列車安排仍待內地鐵路部門確認，相關車票將於稍後開始發售。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-01-12T12:36:01",
+        "last_announcement": "2026-01-12T12:15:00"
     }
 }
