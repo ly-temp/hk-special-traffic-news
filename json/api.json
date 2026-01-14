@@ -30,5 +30,37 @@
         "district": null,
         "last_update": "2026-01-12T12:36:01",
         "last_announcement": "2026-01-12T12:15:00"
+    },
+    "IN-26-00373": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Obstruction of Ferry Berth at Ferry Piers",
+            "INCIDENT_DETAIL_CN": "輪渡碼頭泊位阻塞",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-01-14T11:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "131428",
+                "CONTENT_EN": "Due to emergency repair of Tsim Sha Tsui Landing, the following ferry service has been suspended. \nFortune Ferry Company Limited\n‘Water Taxi’ Route: \"Tsim Sha Tsui East – Central\" Route sailing at 10:40 a. m. and 11:20 a. m. from East Tsim Sha Tsui.",
+                "CONTENT_CN": "因尖東碼頭進行緊急維修，以下渡輪服務已經暫停服務。\n富裕⼩輪有限公司\n「⽔上的⼠」航線：於上午10時40分和上午11時20分由尖東開出的「尖東－中環」線。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-01-14T11:58:35",
+        "last_announcement": "2026-01-14T11:10:00"
     }
 }
