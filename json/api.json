@@ -76,5 +76,37 @@
         "district": null,
         "last_update": "2026-02-08T16:32:12",
         "last_announcement": "2026-02-08T16:05:00"
+    },
+    "IN-26-01139": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Handy tips for travelling during holidays",
+            "INCIDENT_DETAIL_CN": "假日乘車小貼士",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-02-10T06:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "133158",
+                "CONTENT_EN": "As it is the peak period for travel, please note the following before taking High Speed Rail:\n\n1. allow more time for immigration procedures. Passengers may enter the gate at Level B1 up to 120 minutes before departure of the train. \n\n2. visit the 12306 official website (12306. cn) or mobile app to check for the latest train schedules and any service adjustments. \n\n3. use public transport to get to the station as parking places will be in high demand. \n\n4. use the drop-off/pick-up area at the Ground level, Exit B (Wui Man Road pick-up/drop-off area) for pre-booked taxis or vehicles. \n.",
+                "CONTENT_CN": "因應假日出行高峰，乘坐高速鐵路出發前請注意：\n\n1.預留足夠時間辦理出入境手續。最早可於開車前120分鐘於B1層入閘。\n\n2.瀏覽12306官方網站(12306.cn)或手機應用程式，查看最新列車班次及車務調動資訊。\n\n3.車站停車場泊位需求緊張，建議使用公共交通工具前往。\n\n4.建議於地面層B出口(匯民道上落客區)等候預約的士或車輛。\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-02-10T07:06:00",
+        "last_announcement": "2026-02-10T06:15:00"
     }
 }
