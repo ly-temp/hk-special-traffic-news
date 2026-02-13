@@ -30,5 +30,37 @@
         "district": null,
         "last_update": "2026-02-13T07:32:50",
         "last_announcement": "2026-02-13T06:47:00"
+    },
+    "IN-26-01257": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced train service for Chinese New Year",
+            "INCIDENT_DETAIL_CN": "新春加「馬」 列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-02-13T12:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "133433",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that to make your travel more convenient during the festive season, train frequencies will be increased at various times on most MTR Lines during different periods from 13 to 23 February. \n\n16 February\n•Overnight service: All MTR Lines (except Airport Express, Disneyland Resort Line and journeys to or from Lo Wu and Lok Ma Chau stations on the East Rail Line) and 7 Light Rail routes\n•Extended service: MTR Bus routes 506, K51 and K54A\n\n18 February\n•Train frequencies will be increased at various times on the Kwun Tong Line, Tsuen Wan Line, Island Line, South Island Line, Tuen Ma Line, East Rail Line and Tung Chung Line\n\nAirport Express special arrangements:\n•14 – 16 February: First train will depart earlier at 05:35 am from Hong Kong Station\n•19 &amp; 22 February: Last train will depart at 1:00 am the next day from AsiaWorld-Expo Station.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，為方便乘客新春出行，2月13至23日期間，多條本地鐵路綫於不同時段加密班次，加強列車服務。\n\n年廿九晚（2月16日）\n•通宵服務：所有本地鐵路綫及7條輕鐵路綫（不包括機場快綫、迪士尼綫及東鐵綫往返羅湖及落馬洲站）\n•服務延長：巴士綫（506、K51及K54A）\n\n年初二（2月18日）\n•觀塘綫、荃灣綫、港島綫、南港島綫、屯馬綫、東鐵綫及東涌綫於不同時段加密班次\n\n機場快綫特別安排\n•2月14至16日：香港站頭班車提前於上午05:35開出\n•2月19及22日：博覽館站尾班車延至翌日凌晨01:00開出。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-02-13T12:44:39",
+        "last_announcement": "2026-02-13T12:05:00"
     }
 }
