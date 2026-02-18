@@ -37,37 +37,5 @@
         "district": null,
         "last_update": "2026-02-16T06:30:45",
         "last_announcement": "2026-02-16T06:04:00"
-    },
-    "IN-26-01324": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-02-15T17:21:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "133599",
-                "CONTENT_EN": "The following road section(s) is busy: Hong Kong Island - Causeway Road (Both bounds) Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙: 香港島 -高士威道(來回方向) 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-02-15T17:49:39",
-        "last_announcement": "2026-02-15T17:21:00"
     }
 }
