@@ -1,36 +1,4 @@
 {
-    "IN-26-01425": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Hong Kong- Zhuhai-Macao Bridge Zhuhai Port (Hong Kong bound)",
-            "INCIDENT_DETAIL_CN": "港珠澳大橋珠海口岸(往香港方向)",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-02-22T16:50:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "133854",
-                "CONTENT_EN": "The vehicle clearance plaza (Hong Kong bound) of the HZMB Zhuhai Port is very busy now. Members of the public who plan to drive their private cars back to Hong Kong via HZMB are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing. The public can check the real time situations of the vehicle clearance plaza of HZMB Zhuhai Port through the WeChat official accounts (or visit https://traffic-info.gzazhka.com:5015/#/)before starting their journeys.",
-                "CONTENT_CN": "港珠澳大橋珠海口岸(往香港方向)的車輛通關廣場現時非常繁忙，計劃駕駛私家車經大橋返港的市民請妥善規劃行程，預留充裕交通時間，同時在輪候時保持忍讓。市民可於開始行程前透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務(或前往https://traffic-info.gzazhka.com:5015/#/)，查詢大橋珠海口岸的車輛實時通關情況。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-02-22T17:14:43",
-        "last_announcement": "2026-02-22T16:50:00"
-    },
     "IN-26-01434": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
