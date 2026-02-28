@@ -30,5 +30,37 @@
         "district": null,
         "last_update": "2026-02-25T15:17:37",
         "last_announcement": "2026-02-25T14:40:00"
+    },
+    "IN-26-01543": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Music festival event at Lai Chi Wo",
+            "INCIDENT_DETAIL_CN": "荔枝窩音樂節活動",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-02-28T11:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "134114",
+                "CONTENT_EN": "For members of the public attending the music festival event at Lai Chi Wo on 1 March, according to the organiser, the Countryside Conservation Office, all free ferry tickets for the event have been distributed. \n\nDuring the event, kaito ferry services will operate as usual. Members of the public without a free ferry ticket should note that, as demand for kaito services to Lai Chi Wo may be higher on that day, passengers should plan their journeys in advance, allow sufficient time, and take heed of the Countryside Conservation Office’s social media (www. facebook. com/@countrysideconservationhk) for the latest news.",
+                "CONTENT_CN": "計劃3月1日前往荔枝窩參加音樂節活動的市民請注意，根據主辦單位鄉郊保育辦公室的資料，活動的免費船票已派發完畢。\n\n活動進行期間，街渡渡輪服務會照常運作。未持有免費船票的人士請留意，當日可能會有較多人使用前往荔枝窩的街渡服務，請提早計劃行程，預留充裕時間，並留意鄉郊保育辦公室社交媒體（www.facebook.com/@countrysideconservationhk）發放的最新消息。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-02-28T12:01:51",
+        "last_announcement": "2026-02-28T11:05:00"
     }
 }
