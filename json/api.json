@@ -133,5 +133,37 @@
         "district": null,
         "last_update": "2026-03-13T00:13:11",
         "last_announcement": "2026-03-12T23:45:00"
+    },
+    "IN-26-01876": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Peak Tram Incident",
+            "INCIDENT_HEADING_CN": "山頂纜車事故",
+            "INCIDENT_DETAIL_EN": "Track Signaling Fault",
+            "INCIDENT_DETAIL_CN": "信號故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-03-13T09:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "134868",
+                "CONTENT_EN": "Transport Department has received notification from Peak Tramways Limited that due to signaling fault , Peak Tram service is suspended temporarily.   Service of CTB Route No. 15 and GMB Route No.1(Peak Garden - Central [Hong Kong Station Public Transport Interchange]) will strengthen services as appropriate when necessary.",
+                "CONTENT_CN": "運輸署接獲山頂纜車公司通知，因信號故障，山頂纜車已暫停服務。  城巴15號線及專線小巴路線1號(山頂廣場—中環[香港公共運輸交匯處])將會適當加強服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-03-13T10:05:12",
+        "last_announcement": "2026-03-13T09:34:00"
     }
 }
