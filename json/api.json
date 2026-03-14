@@ -1,43 +1,4 @@
 {
-    "IN-26-01833": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "traffic accident happened earlier",
-            "INCIDENT_DETAIL_CN": "較早前交通意外",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-03-11T18:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "134766",
-                "CONTENT_EN": "Due to traffic accident happened earlier , the following road sections are busy:\n– Tuen Mun Road (Yuen Long bound)\n– Wong Chu Road (Tuen Mun Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "因較早前交通意外，以下路段的交通繁忙:\n–屯門公路(往元朗方向)\n–皇珠路(往屯門公路方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2026-03-11T20:04:00": {
-                "INCIDENT_STATUS_EN": "CLOSED",
-                "INCIDENT_STATUS_CN": "完結",
-                "ID": "134774",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n– Tuen Mun Road (Yuen Long bound)\n– Wong Chu Road (Tuen Mun Road bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n–屯門公路(往元朗方向)\n–皇珠路(往屯門公路方向)。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-03-11T21:22:20",
-        "last_announcement": "2026-03-11T20:04:00"
-    },
     "IN-26-01851": {
         "description": {
             "INCIDENT_HEADING_EN": "Other Incident",
