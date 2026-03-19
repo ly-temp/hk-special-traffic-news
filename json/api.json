@@ -30,5 +30,37 @@
         "district": null,
         "last_update": "2026-03-19T16:59:21",
         "last_announcement": "2026-03-19T16:07:00"
+    },
+    "IN-26-02044": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Special Traffic and Transport Arrangements in Wo Hop Shek for Ching Ming Festival 2026",
+            "INCIDENT_DETAIL_CN": "2026 清明節和合石的特別交通及運輸安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-03-20T07:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "135286",
+                "CONTENT_EN": "Members of the public are advised that, the traffic within Wo Hop Shek Cemetery and in its vicinity is expected to be busier on the weekends during the period of Ching Ming Festival. Special traffic and transport arrangements are implemented in Wo Hop Shek for Ching Ming Festival, please visit TD’s webpage for details. Motorists are advised to keep in view the latest traffic news through radio, television broadcasts and TD's \"HKeMobility\" mobile application. In case of traffic congestion, motorists should exercise tolerance and patience, and follow the instructions of the Police.",
+                "CONTENT_CN": "公眾人士請留意，和合石墳場內及附近一帶路道的交通預計在清明節期間的週末會較為繁忙。當局已在清明節期間於和合石實施特別交通及運輸安排，有關詳情請參閲運輸署網頁。駕駛人士亦請留意電台、電視台或「香港出行易」流動應用程式發放的最新交通消息。如遇交通受阻，駕駛人士請保持忍讓，並遵從警方的指示。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-03-20T07:40:17",
+        "last_announcement": "2026-03-20T07:00:00"
     }
 }
