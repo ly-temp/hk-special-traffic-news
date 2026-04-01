@@ -1,36 +1,4 @@
 {
-    "IN-26-02290": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-03-29T20:53:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "135849",
-                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, the following High Speed Rail train trip has been cancelled due to adverse weather conditions:\n\nFrom Hong Kong West Kowloon Station to Shantou Station：G6398\n\nFor ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306. cn) or mobile app.   \nFor updated train schedules, please refer to the information available at Hong Kong West Kowloon Station or call the High Speed Rail Ticketing and Customer Service Hotline on (852) 2120 0888 or visit the High Speed Rail website www. mtr. com. hk/highspeed.",
-                "CONTENT_CN": "中國內地鐵路單位通報，由於天氣情況惡劣，下列高速鐵路列車車次取消：\n\n由香港西九龍站前往汕頭站：G6398\n\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式。  \n有關班次的資料，請留意於香港西九龍站發放的最新資訊，亦可致電高速鐵路購票及客務熱綫(852)2120 0888查詢或瀏覽高速鐵路網站www.mtr.com.hk/highspeed。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-03-29T21:31:39",
-        "last_announcement": "2026-03-29T20:53:00"
-    },
     "IN-26-02293": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
