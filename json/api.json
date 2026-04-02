@@ -1,43 +1,4 @@
 {
-    "IN-26-02303": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-03-30T13:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "135878",
-                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, some train trips will be delayed due to adverse weather conditions. For latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app. You may also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "中國內地鐵路單位通報，由於天氣情況惡劣，部分列車服務將會延遲。 有關車次的資料，請留意12306官方網站(12306.cn)，或手機應用程式。乘客亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。"
-            },
-            "2026-03-30T16:27:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "135888",
-                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, some train trips will be delayed due to adverse weather conditions. For latest train schedules, please refer to 12306 official website (12306. cn) or the mobile app. You may also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.",
-                "CONTENT_CN": "中國內地鐵路單位通報，由於天氣情況惡劣，部分列車服務將會延遲。 有關車次的資料，請留意12306官方網站(12306.cn)，或手機應用程式。乘客亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-03-30T17:54:10",
-        "last_announcement": "2026-03-30T16:27:00"
-    },
     "IN-26-02353": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
@@ -224,10 +185,49 @@
                 "ID": "136064",
                 "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR), with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
                 "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            },
+            "2026-04-02T17:05:00": {
+                "INCIDENT_STATUS_EN": "CLOSED",
+                "INCIDENT_STATUS_CN": "完結",
+                "ID": "136070",
+                "CONTENT_EN": "Due to improved weather condition, the following arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR): The speed limit of the HZMB HKLR resumes to 100 km/h.",
+                "CONTENT_CN": "因天氣情況改善，港珠澳大橋香港連接路已實施以下安排： 港珠澳大橋香港連接路最高車速限制恢復為每小時100 公里。"
             }
         },
         "district": null,
-        "last_update": "2026-04-02T16:08:56",
-        "last_announcement": "2026-04-02T14:55:00"
+        "last_update": "2026-04-02T18:11:39",
+        "last_announcement": "2026-04-02T17:05:00"
+    },
+    "IN-26-02401": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adjustment of tain timetable",
+            "INCIDENT_DETAIL_CN": "列車時間表調整",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-04-02T17:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "136075",
+                "CONTENT_EN": "A new train timetable of HSR will take effect from 15 April 2026. You may check the latest train information on the HSR website (timetable) or mobile app. \n\nTo facilitate the timetable adjustment, ticket sales for some train trips will be slightly deferred. For the latest ticketing arrangements and ticket purchase, please visit the 12306 official website (12306. cn) or mobile app.",
+                "CONTENT_CN": "新的高速鐵路列車時間表將於2026年4月15日起生效。你可瀏覽高速鐵路網頁(時間表)或手機應用程式，查閱最新列車資訊。\n\n為配合時間表調整，部分列車車票的開售時間將稍為延後。你可透過12306官方網站(12306.cn)或手機應用程式購票，並留意車票開售情況。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-04-02T18:11:39",
+        "last_announcement": "2026-04-02T17:35:00"
     }
 }
