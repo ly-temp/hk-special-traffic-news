@@ -1,43 +1,4 @@
 {
-    "IN-26-02407": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-03T07:15:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "136088",
-                "CONTENT_EN": "The following road section(s) are busy: - Lin Cheung Road (Hong Kong West Kowloon Station bound) - Jordan Road (Hong Kong West Kowloon Station bound) Motorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙: -連翔道(往香港西九龍站方向） -佐敦道(往香港西九龍站方向） 駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2026-04-03T08:11:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "136089",
-                "CONTENT_EN": "Traffic at the following road sections have resumed normal:\n- Lin Cheung Road (Hong Kong West Kowloon Station bound)\n- Jordan Road (Hong Kong West Kowloon Station bound).",
-                "CONTENT_CN": "以下路段的交通現已恢復正常:\n-連翔道(往香港西九龍站方向）\n-佐敦道(往香港西九龍站方向）。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-03T09:03:26",
-        "last_announcement": "2026-04-03T08:11:00"
-    },
     "IN-26-02419": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
