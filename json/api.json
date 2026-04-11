@@ -1,36 +1,4 @@
 {
-    "IN-26-02333": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced MTR service during the Easter and Ching Ming Holidays",
-            "INCIDENT_DETAIL_CN": "港鐵復活節及清明節假期加強服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-08T02:14:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "136195",
-                "CONTENT_EN": "The MTR Bus K52A service between Tuen Mun Station and Tsang Tsui Columbarium will be enhanced for the follwoing period: - 11 – 12 and 18 – 19 April: Increased frequency with extended service hours Please click MTR's website for more information.",
-                "CONTENT_CN": "港鐵巴士K52A路綫來往屯門站及曾咀靈灰安置所將於以下時段加強服務: -4月11、12、18、19日：延長服務時間及加密班次 詳情參閲港鐵網頁。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-08T11:26:06",
-        "last_announcement": "2026-04-08T02:14:00"
-    },
     "IN-26-02462": {
         "description": {
             "INCIDENT_HEADING_EN": "Ferry Incident",
