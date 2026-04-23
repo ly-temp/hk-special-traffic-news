@@ -73,38 +73,6 @@
         "last_update": "2026-04-22T19:56:55",
         "last_announcement": "2026-04-22T19:41:00"
     },
-    "IN-26-02729": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-20T08:44:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "136809",
-                "CONTENT_EN": "The following road sections are busy:\nKowloon\n– Princess Margaret Road (Cross Harbour Tunnel bound)\n– Kwun Tong Bypass (Mong Kok bound)\n– Tseung Kwan O Road (Kwun Tong bound)\n\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n九龍\n–公主道(往海底隧道方向)\n–觀塘繞道(往旺角方向)\n–將軍澳道(往觀塘方向)\n\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-20T11:18:43",
-        "last_announcement": "2026-04-20T08:44:00"
-    },
     "IN-26-02783": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
