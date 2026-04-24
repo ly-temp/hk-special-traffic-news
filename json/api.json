@@ -104,5 +104,37 @@
         "district": null,
         "last_update": "2026-04-22T12:15:37",
         "last_announcement": "2026-04-22T11:26:00"
+    },
+    "IN-26-02821": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-04-24T08:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "137025",
+                "CONTENT_EN": "The following road sections are busy:\nNew Territories\n– Tuen Mun Road (Kowloon bound) near Tuen Mun Town Centre\n– Yuen Long Highway (Tuen Mun Road bound) near Fu Tai Estate\n– Wong Chu Road (Tuen Mun Road bound)\n– Lung Fu Road (Tuen Mun - Chek Lap Kok Tunnel bound)\n– Lung Mun Road (Tuen Mun - Chek Lap Kok Tunnel bound)\n– Tsing Long Highway (Kowloon bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n新界\n–屯門公路(往九龍方向)近屯門市中心\n–元朗公路(往屯門公路方向)近富泰邨\n–皇珠路(往屯門公路方向)\n–龍富路(往屯門赤鱲角隧道方向)\n–龍門路(往屯門赤鱲角隧道方向)\n–青朗公路(往九龍方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-04-24T11:47:49",
+        "last_announcement": "2026-04-24T08:27:00"
     }
 }
