@@ -1,36 +1,4 @@
 {
-    "IN-26-02821": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-24T08:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "137025",
-                "CONTENT_EN": "The following road sections are busy:\nNew Territories\n– Tuen Mun Road (Kowloon bound) near Tuen Mun Town Centre\n– Yuen Long Highway (Tuen Mun Road bound) near Fu Tai Estate\n– Wong Chu Road (Tuen Mun Road bound)\n– Lung Fu Road (Tuen Mun - Chek Lap Kok Tunnel bound)\n– Lung Mun Road (Tuen Mun - Chek Lap Kok Tunnel bound)\n– Tsing Long Highway (Kowloon bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n新界\n–屯門公路(往九龍方向)近屯門市中心\n–元朗公路(往屯門公路方向)近富泰邨\n–皇珠路(往屯門公路方向)\n–龍富路(往屯門赤鱲角隧道方向)\n–龍門路(往屯門赤鱲角隧道方向)\n–青朗公路(往九龍方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-24T11:47:49",
-        "last_announcement": "2026-04-24T08:27:00"
-    },
     "IN-26-02882": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
@@ -94,5 +62,101 @@
         "district": null,
         "last_update": "2026-04-26T21:49:35",
         "last_announcement": "2026-04-26T20:32:00"
+    },
+    "IN-26-02783": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds temporary train trips",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-04-27T09:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "137187",
+                "CONTENT_EN": "In response to the demand, the High Speed Rail (Hong Kong Section) will add the following temporary train trips: 30 Apr to 3 May From Hong Kong West Kowloon Station to Futian Station: G5834, G5836, G5838, G5840, G5842, G5844, G5846, G5848, G5850, G5852, G5854, G5856, G5868 From Futian Station to Hong Kong West Kowloon Station: G5833, G5835, G5837, G5839, G5841, G5843, G5845, G5847, G5849, G5851, G5853, G5855, G5867 4-5 May: From Hong Kong West Kowloon Station to Shenzhenbei Station: G5680 From Hong Kong West Kowloon Station to Futian Station: G5866 From Shenzhenbei Station to Hong Kong West Kowloon Station: G5679 From Futian Station to Hong Kong West Kowloon Station: G5865 Tickets are available for purchase through the 12306 official website or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station. For train schedules, please refer to the 12306 official website or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "配合客運需求，高速鐵路(香港段)將加開以下臨時列車車次： 4月30日至5月3日 由香港西九龍站前往福田站：G5834,G5836,G5838,G5840,G5842,G5844,G5846,G5848,G5850,G5852,G5854,G5856,G5868 由福田站前往香港西九龍站：G5833,G5835,G5837,G5839,G5841,G5843,G5845,G5847,G5849,G5851,G5853,G5855,G5867 5月4日至5月5日 由香港西九龍站前往深圳北站：G5680 由香港西九龍站前往福田站：G5866 由深圳北站前往香港西九龍站：G5679 由福田站前往香港西九龍站：G5865 你可透過12306官方網站或手機應用程式、指定代理或前往香港西九龍站購買列車車票。 有關列車服務詳情，請瀏覽12306官方網站或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-04-27T12:42:45",
+        "last_announcement": "2026-04-27T09:40:00"
+    },
+    "IN-26-02892": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-04-27T10:28:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "137188",
+                "CONTENT_EN": "As it is the peak period for travel, please: 1. allow more time for immigration procedures. You may enter the gate at Level B1 up to 120 minutes before the departure of your train. 2. visit the 12306 official website (12306. cn) or mobile app to check for the latest train schedules and any service adjustments. 3. use public transport to get to the station as parking places will be in high demand. 4. use the drop-off/pick-up area at the Ground level, Exit B (Wui Man Road pick-up/drop-off area) for pre-booked taxis or vehicles.",
+                "CONTENT_CN": "因應假日出行高峰，出發前請注意： 1.預留足夠時間辦理出入境手續。最早可於開車前120分鐘於B1層入閘。 2.瀏覽12306官方網站(12306.cn)或手機應用程式，查看最新列車班次及車務調動資訊。 3.車站停車場泊位需求緊張，建議使用公共交通工具前往。 4.建議於地面層B出口(匯民道上落客區)等候預約的士或車輛。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-04-27T12:42:45",
+        "last_announcement": "2026-04-27T10:28:00"
+    },
+    "IN-26-02893": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Traffic within Wo Hop Shek Cemetery and in its vicinity during weekend",
+            "INCIDENT_DETAIL_CN": "週末和合石墳場內及附近一帶的交通",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-04-27T12:27:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "137189",
+                "CONTENT_EN": "Members of the public are advised that, the traffic within Wo Hop Shek Cemetery and in its vicinity (including Tai Wo Service Road West, Wah Ming Road, Wo Hing Road and Pak Wo Road, etc. ) is expected to be busier on this weekend. The Police will implement temporary traffic control measures depending on actual situation. Motorists are advised to watch out for the latest traffic news through media. In case of traffic congestion, motorists should exercise tolerance and patience, and follow the instructions of the Police.",
+                "CONTENT_CN": "公眾人士請留意，和合石墳場內及附近一帶路道（包括大窩西支路、華明路、和興路及百和路等）的交通預計本週末將會較為繁忙，警方會視乎實際情況在上述道路實施臨時交通管制措施。駕駛人士請留意傳媒發放的最新交通消息。如遇交通受阻，駕駛人士請保持忍讓，並遵從警方的指示。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-04-27T12:42:45",
+        "last_announcement": "2026-04-27T12:27:00"
     }
 }
