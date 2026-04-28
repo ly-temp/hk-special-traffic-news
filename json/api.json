@@ -165,5 +165,37 @@
         "district": null,
         "last_update": "2026-04-27T12:42:45",
         "last_announcement": "2026-04-27T12:27:00"
+    },
+    "IN-26-02917": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced cross-boundary train service during Labour Day and Golden Week",
+            "INCIDENT_DETAIL_CN": "五一黃金周加強跨境列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-04-28T12:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "137237",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that To meet passengers’ travel needs, East Rail Line train frequency will be increased during selected periods for the Labour Day and “Golden Week” holiday (30 April – 5 May). Please refer to MTR's website for more information.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 為方便大家出遊，東鐵綫會於勞動節及「五一黃金周」期間(4月30日至5月5日)部分時段加密列車班次。 詳情請參閱港鐵網頁。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-04-28T12:45:34",
+        "last_announcement": "2026-04-28T12:05:00"
     }
 }
