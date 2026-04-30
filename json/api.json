@@ -45,102 +45,6 @@
         "last_update": "2026-04-28T21:11:02",
         "last_announcement": "2026-04-28T20:30:00"
     },
-    "IN-26-02783": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds temporary train trips",
-            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-27T09:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "137187",
-                "CONTENT_EN": "In response to the demand, the High Speed Rail (Hong Kong Section) will add the following temporary train trips: 30 Apr to 3 May From Hong Kong West Kowloon Station to Futian Station: G5834, G5836, G5838, G5840, G5842, G5844, G5846, G5848, G5850, G5852, G5854, G5856, G5868 From Futian Station to Hong Kong West Kowloon Station: G5833, G5835, G5837, G5839, G5841, G5843, G5845, G5847, G5849, G5851, G5853, G5855, G5867 4-5 May: From Hong Kong West Kowloon Station to Shenzhenbei Station: G5680 From Hong Kong West Kowloon Station to Futian Station: G5866 From Shenzhenbei Station to Hong Kong West Kowloon Station: G5679 From Futian Station to Hong Kong West Kowloon Station: G5865 Tickets are available for purchase through the 12306 official website or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station. For train schedules, please refer to the 12306 official website or mobile app, or the High Speed Rail website or mobile app.",
-                "CONTENT_CN": "配合客運需求，高速鐵路(香港段)將加開以下臨時列車車次： 4月30日至5月3日 由香港西九龍站前往福田站：G5834,G5836,G5838,G5840,G5842,G5844,G5846,G5848,G5850,G5852,G5854,G5856,G5868 由福田站前往香港西九龍站：G5833,G5835,G5837,G5839,G5841,G5843,G5845,G5847,G5849,G5851,G5853,G5855,G5867 5月4日至5月5日 由香港西九龍站前往深圳北站：G5680 由香港西九龍站前往福田站：G5866 由深圳北站前往香港西九龍站：G5679 由福田站前往香港西九龍站：G5865 你可透過12306官方網站或手機應用程式、指定代理或前往香港西九龍站購買列車車票。 有關列車服務詳情，請瀏覽12306官方網站或手機應用程式、高速鐵路網頁及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-27T12:42:45",
-        "last_announcement": "2026-04-27T09:40:00"
-    },
-    "IN-26-02892": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-27T10:28:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "137188",
-                "CONTENT_EN": "As it is the peak period for travel, please: 1. allow more time for immigration procedures. You may enter the gate at Level B1 up to 120 minutes before the departure of your train. 2. visit the 12306 official website (12306. cn) or mobile app to check for the latest train schedules and any service adjustments. 3. use public transport to get to the station as parking places will be in high demand. 4. use the drop-off/pick-up area at the Ground level, Exit B (Wui Man Road pick-up/drop-off area) for pre-booked taxis or vehicles.",
-                "CONTENT_CN": "因應假日出行高峰，出發前請注意： 1.預留足夠時間辦理出入境手續。最早可於開車前120分鐘於B1層入閘。 2.瀏覽12306官方網站(12306.cn)或手機應用程式，查看最新列車班次及車務調動資訊。 3.車站停車場泊位需求緊張，建議使用公共交通工具前往。 4.建議於地面層B出口(匯民道上落客區)等候預約的士或車輛。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-27T12:42:45",
-        "last_announcement": "2026-04-27T10:28:00"
-    },
-    "IN-26-02893": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Traffic within Wo Hop Shek Cemetery and in its vicinity during weekend",
-            "INCIDENT_DETAIL_CN": "週末和合石墳場內及附近一帶的交通",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-27T12:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "137189",
-                "CONTENT_EN": "Members of the public are advised that, the traffic within Wo Hop Shek Cemetery and in its vicinity (including Tai Wo Service Road West, Wah Ming Road, Wo Hing Road and Pak Wo Road, etc. ) is expected to be busier on this weekend. The Police will implement temporary traffic control measures depending on actual situation. Motorists are advised to watch out for the latest traffic news through media. In case of traffic congestion, motorists should exercise tolerance and patience, and follow the instructions of the Police.",
-                "CONTENT_CN": "公眾人士請留意，和合石墳場內及附近一帶路道（包括大窩西支路、華明路、和興路及百和路等）的交通預計本週末將會較為繁忙，警方會視乎實際情況在上述道路實施臨時交通管制措施。駕駛人士請留意傳媒發放的最新交通消息。如遇交通受阻，駕駛人士請保持忍讓，並遵從警方的指示。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-27T12:42:45",
-        "last_announcement": "2026-04-27T12:27:00"
-    },
     "IN-26-02917": {
         "description": {
             "INCIDENT_HEADING_EN": "MTR Incident",
@@ -236,5 +140,37 @@
         "district": null,
         "last_update": "2026-04-29T12:41:45",
         "last_announcement": "2026-04-29T11:35:00"
+    },
+    "IN-26-02975": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Cross-boundary Transport Services and Special Traffic Arrangements during Mainland’s Labour Day Golden Week",
+            "INCIDENT_DETAIL_CN": "內地勞動節黃金周期間的跨境運輸服務及特別交通安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-04-30T11:41:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "137369",
+                "CONTENT_EN": "The Transport Department (TD) anticipates that there may be a large number of cross-boundary passengers and vehicles travelling between Hong Kong and the Mainland or Macao via various land-based boundary control points (BCPs) during Mainland’s Labour Day Golden Week (May 1 to 5). The TD urges cross-boundary travellers to plan ahead of their trips and allow sufficient travelling time. The TD has been steering local and cross-boundary public transport (PT) services operators to enhance their capacity and reserve sufficient vehicles and manpower to meet the transport needs of cross-boundary passengers during Mainland’s Labour Day Golden Week. It is anticipated that the waiting time for PT services, including the Hong Kong-Zhuhai-Macao Bridge (HZMB) shuttle bus (Gold Bus) and local franchised bus “B” routes connecting various land-based BCPs, may be longer during peak periods of cross-boundary travel. Passengers should avoid travelling during peak hours, observe order while queuing and heed advice from on-site Police and staff of the PT operators. Passengers intending to take cross-boundary coaches are also advised to reserve their coach tickets in advance. Motorists of cross-boundary private cars crossing the border are advised that, subject to actual traffic conditions, special traffic arrangements may be implemented at Lok Ma Chau Control Point and Shenzhen Bay Port during Mainland’s Labour Day Golden Week to secure smooth access for PT vehicles to the above BCPs. Cross-boundary private cars may experience longer waiting times when crossing the BCPs during the peak periods. Motorists should pay extra attention to variable message signs and traffic signs along the approach roads to the BCPs. In case of traffic congestion, they should remain patient and follow the instructions of on-site Police. For the HZMB, to plan their journeys ahead, members of the public can make use of this mobile app or website of HKeMobility (hkemobility. gov. hk/en/traffic-information/live/cctv) to access snapshots of traffic conditions at inbound and outbound vehicle plazas of the HZMB Hong Kong Port. They can also check the real-time situations of the vehicle clearance plaza of the Zhuhai Port through the WeChat official accounts “hzmbzhport” or “zhuhaifabu” (traffic-info. gzazhka. com:5015/#/) (Chinese only). Moreover, motorists are reminded to always comply with the traffic control measures implemented by the Zhuhai authority when driving on the HZMB Main Bridge. Vehicles must not occupy the emergency lane unless instructed by the Zhuhai authority. Residents and visitors may visit “Easy Boundary” (www. sb. gov. hk/eng/bwt/status. html?type=outbound), a one-stop information platform on immigration clearance launched by the Security Bureau, this mobile app or the website of HKeMobility to obtain useful information, including the respective average waiting time for passengers and private cars at land-based BCPs, as well as for the Gold Bus, the Lok Ma Chau-Huanggang cross-boundary shuttle bus (Yellow Bus) and MTR to plan their trips and save waiting time. Members of the public are advised to check the latest traffic news through radio, the television broadcasts, the TD’s website (www. td. gov. hk) and the HKeMobility.",
+                "CONTENT_CN": "運輸署預計在內地勞動節黃金周期間（五月一日至五日）可能出現大量跨境人士及車輛經各陸路口岸往來香港和內地或澳門。運輸署呼籲跨境出行人士及早規劃行程，預留充裕交通時間。 運輸署已督導本地及跨境公共運輸服務營辦商（營辦商），在內地勞動節黃金周期間加大運力，預留足夠車輛及人手以應對跨境人士的出行需求。運輸署預計公共運輸服務（包括港珠澳大橋穿梭巴士（金巴）及連接各陸路管制站的本地專營巴士「B」線）在跨境人流高峰時段的等候時間或會較長，乘客應避免於繁忙時段出行。候車期間遵守秩序，並遵從現場警務人員及營辦商職員的指示。計劃乘坐跨境巴士的人士亦應提早預訂車票。 駕駛跨境私家車出入境人士請注意，視乎現場交通情況，落馬洲管制站及深圳灣口岸在內地勞動節黃金周期間或會實施特別交通安排，以便保障公共運輸車輛能暢順前往上述口岸，跨境私家車或需輪候通過口岸。駕駛人士請特別留意前往口岸道路沿途的可變信息顯示屏及交通標誌。如遇交通受阻，請保持忍讓及遵從現場警務人員的指示。 至於港珠澳大橋，市民可透過本應用程式或「香港出行易」網頁（hkemobility.gov.hk/tc/traffic-information/live/cctv），查閱大橋香港口岸出境及入境客車通關廣場的交通快拍，亦可透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務（traffic-info.gzazhka.com:5015/#/），查閱大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。此外，運輸署提醒駕駛人士於大橋主橋行駛時，應時刻遵照珠海當局實施的交通管控措施，除非獲珠海市當局指示，否則車輛一律不可佔用應急車道。 市民和旅客可透過保安局的一站式過關資訊平台「口岸通」（www.sb.gov.hk/chi/bwt/status.html?type=outbound）、本應用程式或「香港出行易」網頁，取得各陸路口岸旅客和私家車過關平均輪候時間，以及金巴、落馬洲—皇崗過境穿梭巴士（皇巴）及港鐵服務的平均輪候時間等有用資訊，以便計劃行程及減省等候時間。市民請留意電台、電視台、運輸署網頁（www.td.gov.hk）及「香港出行易」發放的最新交通消息。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-04-30T12:49:11",
+        "last_announcement": "2026-04-30T11:41:00"
     }
 }
