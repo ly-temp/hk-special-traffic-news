@@ -45,38 +45,6 @@
         "last_update": "2026-04-28T21:11:02",
         "last_announcement": "2026-04-28T20:30:00"
     },
-    "IN-26-02917": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced cross-boundary train service during Labour Day and Golden Week",
-            "INCIDENT_DETAIL_CN": "五一黃金周加強跨境列車服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-28T12:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "137237",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that To meet passengers’ travel needs, East Rail Line train frequency will be increased during selected periods for the Labour Day and “Golden Week” holiday (30 April – 5 May). Please refer to MTR's website for more information.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知， 為方便大家出遊，東鐵綫會於勞動節及「五一黃金周」期間(4月30日至5月5日)部分時段加密列車班次。 詳情請參閱港鐵網頁。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-28T12:45:34",
-        "last_announcement": "2026-04-28T12:05:00"
-    },
     "IN-26-02927": {
         "description": {
             "INCIDENT_HEADING_EN": "LRT Incident",
@@ -204,5 +172,37 @@
         "district": null,
         "last_update": "2026-04-30T17:30:11",
         "last_announcement": "2026-04-30T16:00:00"
+    },
+    "IN-26-03007": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Busy traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam",
+            "INCIDENT_DETAIL_CN": "通往萬宜水庫東壩的西貢萬宜路交通繁忙",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-05-01T09:30:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "137434",
+                "CONTENT_EN": "The Transport Department announces that the traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam is very busy at the moment. The operator of Green Minibus Route No. 9A has strengthened its service to cater for passenger demand. Members of the public are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing.",
+                "CONTENT_CN": "運輸署表示，通往萬宜水庫東壩的西貢萬宜路交通現時非常繁忙，專線小巴第9A號線的營辦商已加強服務應付乘客需求。請遊人妥善規劃行程，預留充裕交通時間，同時在輪候時保持忍讓。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-05-01T13:04:01",
+        "last_announcement": "2026-05-01T09:30:00"
     }
 }
