@@ -45,38 +45,6 @@
         "last_update": "2026-04-28T21:11:02",
         "last_announcement": "2026-04-28T20:30:00"
     },
-    "IN-26-02927": {
-        "description": {
-            "INCIDENT_HEADING_EN": "LRT Incident",
-            "INCIDENT_HEADING_CN": "輕鐵事故",
-            "INCIDENT_DETAIL_EN": "Traffic Accident",
-            "INCIDENT_DETAIL_CN": "交通意外",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-04-28T18:34:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "137257",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that the road traffic accident near Tuen Mun Swimming Pool Stop has now been cleared. Light Rail service is gradually resuming.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，在屯門泳池站附近的路面交通意外已清理，輕鐵服務逐步回復正常。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-04-28T19:24:40",
-        "last_announcement": "2026-04-28T18:34:00"
-    },
     "IN-26-02947": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
