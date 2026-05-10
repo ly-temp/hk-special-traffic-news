@@ -1,1 +1,34 @@
-{}
+{
+    "IN-26-03213": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Road Incident",
+            "INCIDENT_HEADING_CN": "道路事故",
+            "INCIDENT_DETAIL_EN": "Heavy Traffic",
+            "INCIDENT_DETAIL_CN": "車多關係",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-05-10T10:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "137947",
+                "CONTENT_EN": "The Transport Department announces that the traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam is very busy at the moment. The operator of Green Minibus Route No. 9A has strengthened its service to cater for passenger demand. Members of the public are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing.",
+                "CONTENT_CN": "運輸署表示，通往萬宜水庫東壩的西貢萬宜路交通現時非常繁忙，專線小巴第9A號線的營辦商已加強服務應付乘客需求。請遊人妥善規劃行程，預留充裕交通時間，同時在輪候時保持忍讓。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-05-10T12:58:00",
+        "last_announcement": "2026-05-10T10:00:00"
+    }
+}
