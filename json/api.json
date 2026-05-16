@@ -59,52 +59,6 @@
         "last_update": "2026-05-14T22:42:07",
         "last_announcement": "2026-05-14T20:20:00"
     },
-    "IN-26-03307": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "vessel mechanical defects",
-            "INCIDENT_DETAIL_CN": "船隻機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-05-13T15:40:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "138118",
-                "CONTENT_EN": "Due to vessel mechanical defects, the following ferry services are suspended. \nCoral Sea Ferry Service Company Limited\n- From Sai Wan Ho: suspended at 3:33 pm\n- From Kwun Tong: suspended at 3:48 pm\n.",
-                "CONTENT_CN": "因船隻機件故障，以下渡輪服務暫停服務。\n珊瑚海船務有限公司\n-西灣河開出:下午3時33分暫停服務\n-觀塘開出:下午3時48分暫停服務\n。"
-            },
-            "2026-05-13T16:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "138122",
-                "CONTENT_EN": "Due to vessel mechanical defects, the following ferry service will be or have been suspended. \nCoral Sea Ferry Service Company Limited\n- From Sai Wan Ho: suspended from 3:33 pm\n- From Kwun Tong: suspended from 3:48 pm.",
-                "CONTENT_CN": "因船隻機件故障，以下渡輪服務將會或已經暫停服務。\n珊瑚海船務有限公司\n-西灣河開出:下午3時33分起暫停服務\n-觀塘開出:下午3時48分起暫停服務。"
-            },
-            "2026-05-13T16:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "138125",
-                "CONTENT_EN": "The following ferry services which was suspended due to vessel mechanical defects will be resumed:\nCoral Sea Ferry Service Company Limited\n-Sai Wan Ho to Kwun Tong : resumed from 5:33 pm\n-Kwun Tong to Sai Wan Ho : resumed from 5:03 pm.",
-                "CONTENT_CN": "較早前因受船隻機件故障而停航的以下渡輪服務將恢復服務:\n珊瑚海船務有限公司\n-西灣河至觀塘:下午5時33分起恢復服務\n-觀塘至西灣河:下午5時03分起恢復服務。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-05-13T18:04:54",
-        "last_announcement": "2026-05-13T16:55:00"
-    },
     "IN-26-03327": {
         "description": {
             "INCIDENT_HEADING_EN": "Road Incident",
