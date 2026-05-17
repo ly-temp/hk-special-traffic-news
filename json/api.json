@@ -182,5 +182,37 @@
         "district": null,
         "last_update": "2026-05-17T13:04:01",
         "last_announcement": "2026-05-17T10:32:00"
+    },
+    "IN-26-03438": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Quiet Cars on all HSR Cross-boundary Trains",
+            "INCIDENT_DETAIL_CN": "跨境高鐵列車靜音車廂",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-05-18T07:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "138427",
+                "CONTENT_EN": "From 1 June 2026, a Quiet Car service will be available on all High-speed Rail cross-boundary trains, excluding sleeper trains. Tickets are available for purchase through the 12306 official website (12306. cn) or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station. Please follow the Quiet Car rules when travelling in designated cars.",
+                "CONTENT_CN": "由2026年6月1日起，所有跨境高鐵列車（臥鋪列車除外）將提供靜音車廂。 乘客可透過12306官方網站(12306.cn)或手機應用程式、指定代理或前往香港西九龍站購買相關車票。 乘坐靜音車廂時，請遵守車廂守則。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-05-18T07:31:53",
+        "last_announcement": "2026-05-18T07:05:00"
     }
 }
