@@ -214,5 +214,69 @@
         "district": null,
         "last_update": "2026-06-15T01:41:16",
         "last_announcement": "2026-06-15T00:05:00"
+    },
+    "IN-26-04154": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Rainstorm Incident",
+            "INCIDENT_HEADING_CN": "暴雨事故",
+            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
+            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-15T06:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140070",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-15T06:54:49",
+        "last_announcement": "2026-06-15T06:10:00"
+    },
+    "IN-26-04153": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Structural / Mechanical Defects or Closure of Access",
+            "INCIDENT_DETAIL_CN": "結構/機械缺陷或關閉",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-15T06:12:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140071",
+                "CONTENT_EN": "Due to structural / mechanical defects or closure of access , the following ferry service(s) will be or have been suspended.\nPark Island Transport Company Limited\n-Park Island to Central : suspended at 06:30 am ;\n-Central to Park Island : suspended at 07:00 am ;\n.",
+                "CONTENT_CN": "因結構/機械缺陷或關閉，以下渡輪服務將會或已經暫停服務。\n珀麗灣客運有限公司\n-珀麗灣至中環:上午06時30分暫停;\n-中環至珀麗灣:上午07時00分暫停;\n。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-15T06:54:49",
+        "last_announcement": "2026-06-15T06:12:00"
     }
 }
