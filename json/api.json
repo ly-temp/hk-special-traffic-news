@@ -87,38 +87,6 @@
         "last_update": "2026-06-14T22:24:58",
         "last_announcement": "2026-06-14T20:45:00"
     },
-    "IN-26-04077": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) runs additional train trips",
-            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-11T20:45:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "139903",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that, as informed by the Chinese Mainland Railway Authorities, the following temporary train trips will be added: From Hong Kong West Kowloon Station to Futian Station ● 19 Jun: G5838, G5840, G5842, G5844, G5846, G5848, G5850, G5852, G5854, G5856, G5868 ● 21 Jun: G5866 From Hong Kong West Kowloon Station to Shenzhenbei Station ● 21 Jun: G9540, G5680 From Futian Station to Hong Kong West Kowloon Station ● 19 Jun: G5837, G5839, G5841, G5843, G5845, G5847, G5849, G5851, G5853, G5855, G5867 ● 21 Jun: G5865 From Shenzhenbei Station to Hong Kong West Kowloon Station ● 21 Jun: G5679 From Guangzhounan Station to Hong Kong West Kowloon Station ● 19 Jun: G9539 Tickets are available for purchase through the 12306 official website or mobile app; appointed travel agents (refer to: https://www.highspeed.mtr.com.hk/res/pdf/list-of-ticket-agents.pdf);orat Hong Kong West Kowloon Station. For train schedules, please refer to the 12306 official website or mobile app, or the High Speed Rail website or mobile app.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，中國內地鐵路部門通知，高速鐵路（香港段）將加開以下臨時列車車次： 由香港西九龍站前往福田站 ●6月19日：G5838,G5840,G5842,G5844,G5846,G5848,G5850,G5852,G5854,G5856,G5868 ●6月21日：G5866 由香港西九龍站前往深圳北站 ●6月21日：G9540,G5680 由福田站前往香港西九龍站 ●6月19日：G5837,G5839,G5841,G5843,G5845,G5847,G5849,G5851,G5853,G5855,G5867 ●6月21日：G5865 由深圳北站前往香港西九龍站 ●6月21日：G5679 由廣州南站前往香港西九龍站 ●6月19日：G9539 乘客可透過12306官方網站(12306.cn)或手機應用程式、指定代理（瀏覽：https://www.highspeed.mtr.com.hk/res/pdf/list-of-ticket-agents.pdf）或前往香港西九龍站購買列車車票。 有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-12T00:54:28",
-        "last_announcement": "2026-06-11T20:45:00"
-    },
     "IN-26-04111": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
@@ -214,5 +182,37 @@
         "district": null,
         "last_update": "2026-06-14T14:19:06",
         "last_announcement": "2026-06-14T09:37:00"
+    },
+    "IN-26-04150": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-15T00:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140066",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that, as informed by the Chinese Mainland Railway Authorities, the following High Speed Rail train trips will be cancelled due to adverse weather conditions:\n\nFrom Hong Kong West Kowloon Station to Shantou Station: G6574, G6392\n\nFrom Shantou Station to Hong Kong West Kowloon Station: G6573, G6389\n\nFrom Hong Kong West Kowloon Station to Guangzhounan Station: G6582, G6518, G6528, G6584, G6520, G6530\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station: G6517, G6527, G6581, G6519, G6529, G6583\n\nFor latest train schedules, please refer to 12306 official website (12306.cn) or the mobile app. You may also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.\n\nYou may consider traveling on the East Rail Line trains to Lo Wu/ Lok Ma Chau to go to the Chinese Mainland.\n\nFor ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306.cn) or mobile app.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，中國內地鐵路單位通報，由於天氣情況惡劣，下列高速鐵路列車車次取消：\n\n由香港西九龍站前往汕頭站：G6574, G6392\n\n由汕頭站前往香港西九龍站：G6573, G6389\n\n由香港西九龍站前往廣州南站：G6582, G6518, G6528, G6584, G6520, G6530\n\n由廣州南站前往香港西九龍站：G6517, G6527, G6581, G6519, G6529, G6583\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n\n您可考慮乘搭東鐵綫經羅湖/落馬洲前往中國內地。\n\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-15T01:41:16",
+        "last_announcement": "2026-06-15T00:05:00"
     }
 }
