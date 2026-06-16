@@ -94,38 +94,6 @@
         "last_update": "2026-06-16T00:27:19",
         "last_announcement": "2026-06-15T20:40:00"
     },
-    "IN-26-04111": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Rainstorm Incident",
-            "INCIDENT_HEADING_CN": "暴雨事故",
-            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-13T06:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "139983",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-13T07:53:18",
-        "last_announcement": "2026-06-13T06:00:00"
-    },
     "IN-26-04125": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
@@ -344,10 +312,17 @@
                 "ID": "140155",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that, as informed by the Chinese Mainland Railway Authorities, the following High Speed Rail\ntrain trips will be cancelled due to adverse weather conditions:\n\nFrom Hong Kong West Kowloon Station to Shantou Station: G6574, G6578, G6392\n\nFrom Shantou Station to Hong Kong West Kowloon Station: G6573, G6577, G6389\n\nFrom Zhaoqingdong Station to Hong Kong West Kowloon Station：G6233\n\nFrom Hong Kong West Kowloon Station to Zhaoqingdong Station：G6580\n\nFrom Hong Kong West Kowloon Station to Guangzhounan Station: G6518, G6520, G6538, G6528, G6530, G6582, G6584\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station: G6517, G6519, G6521, G6527, G6529, G6533, G6581, G6583\n\nFor latest train schedules, please refer to 12306 official website (12306.cn) or the mobile app. You may also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon\nStation.\n\nYou may consider traveling on the East Rail Line trains to Lo Wu/ Lok Ma Chau to go to the Chinese Mainland.\n\nFor ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306.cn) or mobile app.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知，中國內地鐵路單位通報，由於天氣情況惡劣，下列高速鐵路列車車次取消：\n\n由香港西九龍站前往汕頭站: G6574, G6578, G6392\n\n由汕頭站前往香港西九龍站: G6573, G6577, G6389\n\n由肇慶東站前往香港西九龍站: G6233\n\n由香港西九龍站前往肇慶東站: G6580\n\n由香港西九龍站前往廣州南站: G6518, G6520, G6538, G6528, G6530, G6582, G6584\n\n由廣州南站前往香港西九龍站: G6517, G6519, G6521, G6527, G6529, G6533, G6581, G6583\n\n有關最新車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n\n您可考慮乘搭東鐵綫經羅湖/落馬洲前往中國內地。\n\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式。"
+            },
+            "2026-06-16T06:15:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140157",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that, as informed by the Chinese Mainland Railway Authorities, the following High Speed Rail train trips will be cancelled due to adverse weather conditions:\n\nFrom Hong Kong West Kowloon Station to Shantou Station: G6574, G6578, G6392\n\nFrom Shantou Station to Hong Kong West Kowloon Station: G6573, G6577, G6389\n\nFrom Hong Kong West Kowloon Station to Zhaoqingdong Station：G6580\n\nFrom Hong Kong West Kowloon Station to Guangzhounan Station: G6518, G6520, G6538, G6528, G6530, G6582, G6584\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station: G6517, G6519, G6521, G6527, G6529, G6533, G6581, G6583\n\nFor latest train schedules, please refer to 12306 official website (12306.cn) or the mobile app. You may also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.\n\nYou may consider travel on the East Rail Line trains to Lo Wu/ Lok Ma Chau or use other transports to enter the Chinese Mainland.\n\nFor ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306.cn) or mobile app.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，中國內地鐵路單位通報，由於天氣情況惡劣，下列高速鐵路列車車次取消：\n\n由香港西九龍站前往汕頭站：G6574,G6578,G6392\n\n由汕頭站前往香港西九龍站：G6573,G6577,G6389\n\n由香港西九龍站前往肇慶東站：G6580\n\n由香港西九龍站前往廣州南站：G6518,G6520,G6538,G6528,G6530,G6582,G6584\n\n由廣州南站前往香港西九龍站：G6517,G6519,G6521,G6527,G6529,G6533,G6581,G6583\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n\n您可考慮乘搭東鐵綫經羅湖/落馬洲，或使用其他跨境交通工具前往中國內地。\n\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式。"
             }
         },
         "district": null,
-        "last_update": "2026-06-16T00:27:19",
-        "last_announcement": "2026-06-15T23:59:00"
+        "last_update": "2026-06-16T08:09:50",
+        "last_announcement": "2026-06-16T06:15:00"
     }
 }
