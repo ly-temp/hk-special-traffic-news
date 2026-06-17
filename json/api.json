@@ -101,38 +101,6 @@
         "last_update": "2026-06-17T22:34:16",
         "last_announcement": "2026-06-17T20:45:00"
     },
-    "IN-26-04150": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-15T00:05:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "140066",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that, as informed by the Chinese Mainland Railway Authorities, the following High Speed Rail train trips will be cancelled due to adverse weather conditions:\n\nFrom Hong Kong West Kowloon Station to Shantou Station: G6574, G6392\n\nFrom Shantou Station to Hong Kong West Kowloon Station: G6573, G6389\n\nFrom Hong Kong West Kowloon Station to Guangzhounan Station: G6582, G6518, G6528, G6584, G6520, G6530\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station: G6517, G6527, G6581, G6519, G6529, G6583\n\nFor latest train schedules, please refer to 12306 official website (12306.cn) or the mobile app. You may also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.\n\nYou may consider traveling on the East Rail Line trains to Lo Wu/ Lok Ma Chau to go to the Chinese Mainland.\n\nFor ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306.cn) or mobile app.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，中國內地鐵路單位通報，由於天氣情況惡劣，下列高速鐵路列車車次取消：\n\n由香港西九龍站前往汕頭站：G6574, G6392\n\n由汕頭站前往香港西九龍站：G6573, G6389\n\n由香港西九龍站前往廣州南站：G6582, G6518, G6528, G6584, G6520, G6530\n\n由廣州南站前往香港西九龍站：G6517, G6527, G6581, G6519, G6529, G6583\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n\n您可考慮乘搭東鐵綫經羅湖/落馬洲前往中國內地。\n\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-15T01:41:16",
-        "last_announcement": "2026-06-15T00:05:00"
-    },
     "IN-26-04154": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
