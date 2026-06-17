@@ -94,38 +94,6 @@
         "last_update": "2026-06-16T00:27:19",
         "last_announcement": "2026-06-15T20:40:00"
     },
-    "IN-26-04144": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Strong Wind",
-            "INCIDENT_DETAIL_CN": "強風",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-14T09:37:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "140052",
-                "CONTENT_EN": "Due to strong wind , the following ferry services will be or have been suspended.\nTsui Wah Ferry Service (H.K.) Limited\nAberdeen/Stanley - Po Toi Island\nDeparture cancelled:\nFrom Stanley to Po Toi Island: 10:00 am, 11:30 am, 3:30 pm and 5:00 pm\nFrom Po Toi Island to Stanley: 9:15 am, 10:45 am, 3:00 pm and 4:30 pm\n\nService adjusted (not via Stanley):\nFrom Po Toi Island to Aberdeen: 6:00 pm.",
-                "CONTENT_CN": "因強風，以下渡輪服務將會或已經暫停服務。\n翠華船務（香港）有限公司\n⾹港仔/⾚柱-蒲台島\n取消班次：\n由⾚柱開出往蒲台島：早上10：00，早上11：30，下午3：30 及下午5：00\n由蒲台島開出往⾚柱：早上9：15，早上10：45，下午3:00 及下午4:30\n\n服務調整（不經⾚柱）:\n由蒲台島開出前往⾹港仔：下午6:00。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-14T14:19:06",
-        "last_announcement": "2026-06-14T09:37:00"
-    },
     "IN-26-04150": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -356,5 +324,69 @@
         "district": null,
         "last_update": "2026-06-17T09:41:27",
         "last_announcement": "2026-06-17T08:53:00"
+    },
+    "IN-26-04242": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) train service enhancement",
+            "INCIDENT_DETAIL_CN": "高速鐵路（香港段）進一步提升列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-17T10:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140281",
+                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, the following train service adjustments will come into effect on 1 July:\n•Schedules and stopping stations of some train trips will be adjusted\n•6 additional train trips to Futian Station and 7 additional train trips from Futian Station to Hong Kong West Kowloon Station will operate\n\nTickets for train trips operating under the new timetable are now available for\nsale.\n\nTicket purchase: \n•12306 official website (12306.cn) or mobile app \n•Appointed travel agents \n•Hong Kong West Kowloon Station \n\nTrain schedules: \n•12306 official website (12306.cn) or mobile app \n•High Speed Rail website or mobile app.",
+                "CONTENT_CN": "中國內地鐵路部門通報，由7月1日起，列車服務將作出以下調整： \n•部份列車班次時間及停靠站調整。\n•新增6班前往福田站及7班由福田站前往香港西九龍站的列車。\n\n按新時間表運行的列車車票現已開始發售。\n\n購票方法： \n•12306官方網站（12306.cn）或手機應用程式 \n•指定代理\n•前往香港西九龍站 \n\n列車服務詳情： \n•12306官方網站（12306.cn）或手機應用程式 \n•高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-17T14:50:26",
+        "last_announcement": "2026-06-17T10:35:00"
+    },
+    "IN-26-04247": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Enhanced train service for Tuen Ng Festival long weekend",
+            "INCIDENT_DETAIL_CN": "港鐵端午節長周末加強服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-17T12:03:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140289",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that East Rail Line train frequency will be increased during certain periods for the Tuen Ng Festival long weekend (18 – 21 June).",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 東鐵綫於端午節期間(6月18 –21日)部分時段加強列車服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-17T14:50:26",
+        "last_announcement": "2026-06-17T12:03:00"
     }
 }
