@@ -101,38 +101,6 @@
         "last_update": "2026-06-17T22:34:16",
         "last_announcement": "2026-06-17T20:45:00"
     },
-    "IN-26-04165": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Rainstorm Incident",
-            "INCIDENT_HEADING_CN": "暴雨事故",
-            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-15T11:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "140099",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-15T13:25:16",
-        "last_announcement": "2026-06-15T11:10:00"
-    },
     "IN-26-04188": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -331,5 +299,140 @@
         "district": null,
         "last_update": "2026-06-18T07:09:29",
         "last_announcement": "2026-06-18T06:00:00"
+    },
+    "IN-26-04285": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Rainstorm Incident",
+            "INCIDENT_HEADING_CN": "暴雨事故",
+            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
+            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-18T11:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140380",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2026-06-18T12:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140389",
+                "CONTENT_EN": "Black Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黑色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-18T14:28:14",
+        "last_announcement": "2026-06-18T12:55:00"
+    },
+    "IN-26-04292": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Entrances/Exits Arrangements in Stations",
+            "INCIDENT_DETAIL_CN": "車站進出安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-18T13:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140394",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to bad weather conditions, preventative flooding measures are in place. The following entrances/exits are temporarily closed. Please use other entrances/exits.\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於天氣情況惡劣，以下車站出入口暫時關閉以便作防護措施。請使用其他出入口。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-18T14:28:14",
+        "last_announcement": "2026-06-18T13:25:00"
+    },
+    "IN-26-04293": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Other",
+            "INCIDENT_DETAIL_CN": "其他",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-18T13:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140396",
+                "CONTENT_EN": "The following ferry/ kaito ferry services will be or have been adjusted:\nTsui Wah Ferry Service (H. K.) Limited\n‘Wong Shek – Ko Lau Wan – Tap Mun’ Route:\n- Wong Shek to Tap Mun: Last sailing at 2:30p.m.\n- Tap Mun to Wong Shek: Last sailing at 1:45p.m.",
+                "CONTENT_CN": "以下渡輪/街渡渡輪服務將會或已經作出調整：\n翠華船務（香港）有限公司\n「黃石-高流灣-塔門」航線：\n-黃石至塔門：尾班船於下午2時30分開出/暫停服務\n-塔門至黃石：尾班船於下午1時45分開出/暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-18T14:28:14",
+        "last_announcement": "2026-06-18T13:35:00"
+    },
+    "IN-26-04294": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Certain entrance/exits of Hong Kong West Kowloon Station closed",
+            "INCIDENT_DETAIL_CN": "香港西九龍站部分出入口暫時關閉",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-18T13:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "140399",
+                "CONTENT_EN": "Due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed. Please use other entrances/exits. High Speed Rail train service remains normal.",
+                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C出入口暫時關閉，請使用其他出入口。 高速鐵路服務維持正常。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-18T14:28:14",
+        "last_announcement": "2026-06-18T13:45:00"
     }
 }
