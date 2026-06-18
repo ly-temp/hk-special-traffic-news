@@ -361,11 +361,25 @@
                 "ID": "140442",
                 "CONTENT_EN": "Black Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
                 "CONTENT_CN": "黑色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2026-06-18T20:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140469",
+                "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+            },
+            "2026-06-18T21:05:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140474",
+                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
             }
         },
         "district": null,
-        "last_update": "2026-06-18T18:54:48",
-        "last_announcement": "2026-06-18T18:35:00"
+        "last_update": "2026-06-18T22:08:35",
+        "last_announcement": "2026-06-18T21:05:00"
     },
     "IN-26-04292": {
         "description": {
@@ -400,11 +414,25 @@
                 "ID": "140412",
                 "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The entrances/exits closed earlier have resumed normal.",
                 "CONTENT_CN": "運輸署接獲港鐵公司通知， 早前關閉的車站出入口已重新開放。"
+            },
+            "2026-06-18T18:57:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140447",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Due to bad weather conditions, preventative flooding measures are in place. The following entrances/exits are temporarily closed.\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nPlease use other entrances/exits.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於天氣情況惡劣，以下車站出入口暫時關閉以便作防護措施。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n請使用其他出入口。"
+            },
+            "2026-06-18T20:51:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140472",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that The entrances/exits closed earlier have resumed normal.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知， 早前關閉的車站出入口已重新開放。"
             }
         },
         "district": null,
-        "last_update": "2026-06-18T18:54:48",
-        "last_announcement": "2026-06-18T15:26:00"
+        "last_update": "2026-06-18T22:08:35",
+        "last_announcement": "2026-06-18T20:51:00"
     },
     "IN-26-04293": {
         "description": {
@@ -478,11 +506,18 @@
                 "ID": "140399",
                 "CONTENT_EN": "Due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed. Please use other entrances/exits. High Speed Rail train service remains normal.",
                 "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C出入口暫時關閉，請使用其他出入口。 高速鐵路服務維持正常。"
+            },
+            "2026-06-18T20:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140471",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that Entrance/Exit C of Hong Kong West Kowloon Station is reopened.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，香港西九龍站C出入口重新開放。"
             }
         },
         "district": null,
-        "last_update": "2026-06-18T14:28:14",
-        "last_announcement": "2026-06-18T13:45:00"
+        "last_update": "2026-06-18T22:08:35",
+        "last_announcement": "2026-06-18T20:48:00"
     },
     "IN-26-04295": {
         "description": {
@@ -531,10 +566,56 @@
                 "ID": "140438",
                 "CONTENT_EN": "Due to adverse weather condition, the arrangements of public transport services are as follows: Service Suspension KMB Route No. HK1, HK2 For the latest service arrangement of individual bus route, members of the public can refer to the information on the bus company's website or mobile application.",
                 "CONTENT_CN": "受惡劣天氣影響，公共運輸服務安排如下： 暫停服務 九巴 第HK1、HK2號線 有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。"
+            },
+            "2026-06-18T19:32:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140457",
+                "CONTENT_EN": "Due to adverse weather condition, the arrangements of public transport services are as follows:\n\nCTB\nService Suspension\nRoute Nos. H1, H2, H3, H4\n\nKMB\nService Suspension\nRoute Nos. HK1, HK2\nRoute Diversion\nRoute Nos. B1, 268B,268C,268P &amp; 296D\n\nLong Win\nRoute Diversion\nRoute Nos. E36 &amp; A36\n\nFor the latest service arrangement of individual bus route, members of the public can refer to the information on the bus company's website or mobile application.\n\nGMB Services Suspension\nNT: Route 71 and 72\n.",
+                "CONTENT_CN": "受惡劣天氣影響，公共運輸服務安排如下：\n\n城巴\n暫停服務\n第H1,H2,H3,H4號線\n\n九巴\n暫停服務\n第HK1,HK2號線\n路線改路\n第B1,268B,268C,268P 及296D號線\n\n龍運\n路線改路\n第E36 及A36號線\n\n有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。\n\n專線小巴服務暫停:\n新界:第71及72號線\n。"
+            },
+            "2026-06-18T20:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140464",
+                "CONTENT_EN": "Due to adverse weather condition, the arrangements of public transport services are as follows: CTB Service Suspension Route Nos. H1, H2, H3, H4 KMB Service Suspension Route Nos. HK1, HK2 For the latest service arrangement of individual bus route, members of the public can refer to the information on the bus company's website or mobile application. GMB Services Suspension NT: Route 71 and 72",
+                "CONTENT_CN": "受惡劣天氣影響，公共運輸服務安排如下： 城巴 暫停服務 第H1,H2,H3,H4號線 九巴 暫停服務 第HK1,HK2號線 有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。 專線小巴服務暫停: 新界:第71及72號線"
             }
         },
         "district": null,
-        "last_update": "2026-06-18T18:54:48",
-        "last_announcement": "2026-06-18T18:25:00"
+        "last_update": "2026-06-18T22:08:35",
+        "last_announcement": "2026-06-18T20:09:00"
+    },
+    "IN-26-04299": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Traffic and Transport Arrangements of Man Kam To Boundary Control Point",
+            "INCIDENT_DETAIL_CN": "文錦渡口岸交通及運輸安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-18T20:20:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140467",
+                "CONTENT_EN": "Members of the public are advised that the passenger and cargo clearance services at Man Kam To Boundary Control Point have been resumed with effect from 8.00 pm on 18 June 2026. The service of Man Kam To cross-boundary coach service (i.e. \"Man Ba\") towards Man Kam To Control Point has been resumed at 8.00 pm, while \"Man Ba\" towards Sheung Shui will be resumed at 8:30 pm (Sheung Shui bound). Operators will display notices to inform passengers of the above service arrangement. Other cross-boundary coaches, cross-boundary hire cars and cross-boundary private cars and Cross-boundary goods vehicles under the regular quota and issued with valid Closed Road Permit (CRP) of Man Kam To Boundary Control Point originally using Man Kam To Boundary Control Point to travel to Shenzhen shall resume to travel to Shenzhen via Man Kam To Boundary Control Point. Motorists are advised to follow the instructions on site and drive in utmost care.",
+                "CONTENT_CN": "公眾人士請注意，文錦渡口岸已於2026年6月18日下午8時起恢復旅客及貨運清關服務。文錦渡跨境巴士服務（即「文巴」）往文錦渡口岸方向已於下午8時恢復服務，而「文巴」往上水方向將於下午8時30分恢復服務。營辦商會張貼告示通知乘客有關服務安排。 其他原經由文錦渡前往深圳、持文錦渡常規配額及有效的封閉道路通行許可證的跨境巴士、跨境出租車、跨境私家車及跨境貨車須恢復行經文錦渡口岸出境前往深圳。 駕駛人士請遵從在場執法人員指示，小心駕駛。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-18T22:08:35",
+        "last_announcement": "2026-06-18T20:20:00"
     }
 }
