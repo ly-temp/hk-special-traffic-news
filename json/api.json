@@ -133,52 +133,6 @@
         "last_update": "2026-06-18T22:08:35",
         "last_announcement": "2026-06-18T20:51:00"
     },
-    "IN-26-04293": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-18T13:35:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "140396",
-                "CONTENT_EN": "The following ferry/ kaito ferry services will be or have been adjusted:\nTsui Wah Ferry Service (H. K.) Limited\n‘Wong Shek – Ko Lau Wan – Tap Mun’ Route:\n- Wong Shek to Tap Mun: Last sailing at 2:30p.m.\n- Tap Mun to Wong Shek: Last sailing at 1:45p.m.",
-                "CONTENT_CN": "以下渡輪/街渡渡輪服務將會或已經作出調整：\n翠華船務（香港）有限公司\n「黃石-高流灣-塔門」航線：\n-黃石至塔門：尾班船於下午2時30分開出/暫停服務\n-塔門至黃石：尾班船於下午1時45分開出/暫停服務。"
-            },
-            "2026-06-18T14:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "140404",
-                "CONTENT_EN": "The following ferry/ kaito ferry services will be or have been adjusted:\nTsui Wah Ferry Service (H. K.) Limited\n‘Wong Shek – Ko Lau Wan – Tap Mun’ Route:\n- Wong Shek to Tap Mun: Last sailing at 2:30p.m.\n- Tap Mun to Wong Shek: Last sailing at 1:45p.m.\n\nThe following ferry/ kaito ferry services are suspended:\nTsui Wah Ferry Service (H. K.) Limited\n‘Ma Liu Shui – Tap Mun’ Route:\n- Ma Liu Shui to Tap Mun: sailing at 3:00 p.m. suspended\n- Tap Mun to Ma Liu Shui: sailing at 12:25 p.m. suspended\n\n‘Wong Shek – Tap Mun’ Route:\n- Wong Shek to Tap Mun: Last sailing at 1:45 p.m.\n- Tap Mun to Wong Shek: Last sailing at 2:30 p.m.\n.",
-                "CONTENT_CN": "以下渡輪/街渡渡輪服務將會或已經作出調整：\n翠華船務（香港）有限公司\n「黃石-高流灣-塔門」航線：\n-黃石至塔門：尾班船於下午2時30分開出/暫停服務\n-塔門至黃石：尾班船於下午1時45分開出/暫停服務\n\n以下渡輪/街渡渡輪服務暫停:\n翠華船務(香港)公司\n「馬料水–塔門」航線：\n-馬料水至塔門：於下午3時暫停服務\n-塔門至馬料水：於下午12時25分暫停服務\n\n「黃石–塔門」航線：\n-塔門至黃石：尾班船於下午1時45分開出\n-黃石至塔門：尾班船於下午2時30分開出\n。"
-            },
-            "2026-06-18T15:44:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "140415",
-                "CONTENT_EN": "The following ferry/ kaito ferry services will be or have been adjusted:\nTsui Wah Ferry Service (H. K.) Limited\n‘Ma Liu Shui – Tap Mun’ Route:\n- Ma Liu Shui to Tap Mun: sailing at 3:00 p.m. suspended\n- Tap Mun to Ma Liu Shui: sailing at 12:25 p.m. suspended\n\n‘Wong Shek – Tap Mun’ Route:\n- Tap Mun to Wong Shek: Service resumes at 4:30 p.m. (Sailing at 4:20 p.m. suspended)\n- Wong Shek to Tap Mun: Service resumes at 3:45 p.m. (Sailing at 4:55 p.m. suspended).",
-                "CONTENT_CN": "以下渡輪/街渡渡輪服務將會或已經作出調整：\n翠華船務(香港)公司\n「馬料水–塔門」航線：\n-馬料水至塔門：於下午3時暫停服務\n-塔門至馬料水：於下午12時25分暫停服務\n\n「黃石–塔門」航線：\n-塔門至黃石：於下午4時30分恢復服務(下午4時20分班次取消)\n-黃石至塔門：於下午3時45分恢復服務(下午4時55分班次取消)。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-18T18:54:48",
-        "last_announcement": "2026-06-18T15:44:00"
-    },
     "IN-26-04294": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -380,5 +334,37 @@
         "district": null,
         "last_update": "2026-06-20T14:21:55",
         "last_announcement": "2026-06-20T12:26:00"
+    },
+    "IN-26-02541": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Temporary Service Adjustment of Park Island Ferry Services",
+            "INCIDENT_DETAIL_CN": "珀麗灣客運渡輪服務臨時調整",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-21T20:00:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "140562",
+                "CONTENT_EN": "The following ferry services are temporarily adjusted on 22 June 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
+                "CONTENT_CN": "以下渡輪服務於2026年6⽉22⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-21T20:29:43",
+        "last_announcement": "2026-06-21T20:00:00"
     }
 }
