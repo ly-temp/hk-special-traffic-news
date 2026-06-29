@@ -59,77 +59,6 @@
         "last_update": "2026-06-28T20:48:44",
         "last_announcement": "2026-06-28T19:46:00"
     },
-    "IN-26-04493": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Rainstorm Incident",
-            "INCIDENT_HEADING_CN": "暴雨事故",
-            "INCIDENT_DETAIL_EN": "Red Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "紅色暴雨警告信號",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-26T12:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "140871",
-                "CONTENT_EN": "Red Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "紅色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            },
-            "2026-06-26T13:20:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "140880",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-26T16:04:43",
-        "last_announcement": "2026-06-26T13:20:00"
-    },
-    "IN-26-04496": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "adverse weather condition",
-            "INCIDENT_DETAIL_CN": "惡劣天氣",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-26T14:40:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "140882",
-                "CONTENT_EN": "Service of KMB of Route No. HK1 which was affected by adverse weather condition is resumed normal. For the latest service arrangement of individual bus route, members of the public can refer to the information on the bus company's website or mobile application.",
-                "CONTENT_CN": "較早前受惡劣天氣影響的九巴服務第HK1號線已回復正常。 有關個別巴⼠路線的最新服務情況，市⺠可參閱巴⼠公司的網⾴或流動應⽤程式內的資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-26T16:04:43",
-        "last_announcement": "2026-06-26T14:40:00"
-    },
     "IN-26-04541": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
@@ -161,5 +90,37 @@
         "district": null,
         "last_update": "2026-06-28T13:59:31",
         "last_announcement": "2026-06-28T11:10:00"
+    },
+    "IN-26-04570": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Ferry Service Adjustments and Special Bus Service Arrangements",
+            "INCIDENT_DETAIL_CN": "渡輪服務調整及特別巴士服務安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-06-29T19:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "141037",
+                "CONTENT_EN": "On 2 July 2026 (Thursday) and 6 July 2026 (Monday), the following licensed ferry services will be adjusted. Relevant details and special bus service arrangements are as follows:\n\n(1) 2 July 2026 (Thursday)\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\n(2) 6 July 2026 (Monday)\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\nThe ferry operators will advise passengers of the above ferry service adjustments through their websites and/or mobile applications, as well as by displaying notices at relevant piers and inside the vessels.\n\nIn addition, subject to the actual situation, temporary service adjustments for franchised and licensed ferry routes transiting through Victoria Harbour on 2 July and 6 July 2026 may be needed.\n\nThe TD and ferry operators will closely monitor the situation at sea and make corresponding adjustments to ferry services subject to the actual situation in order to minimise disruption to passengers. Ferry passengers, especially residents of outlying islands, are advised to plan their trips on both 2 and 6 July 2026 in advance to allow sufficient travelling time, and pay attention to the latest updates regarding ferry services. If the event concludes earlier than scheduled, ferry operators will resume normal ferry services as soon as possible and may enhance services as needed to ease passenger flow. The TD and ferry operators will announce the latest service updates in a timely manner.\n\nDuring the period of ferry service adjustments, any request for emergency assistance can be directed to the “999” emergency hotline. Relevant departments handling emergency situations, including the Government Flying Service, etc., will provide emergency rescue services.\n\nFor details of the special traffic and public transport arrangements, members of the public may visit the TD's website (www.td.gov.hk); “HKeMobility” or passenger notices issued by the relevant public transport operators.",
+                "CONTENT_CN": "在2026年7月2日（星期四）及7月6日（星期一），以下持牌渡輪服務將作出調整。相關詳情及特別巴士服務安排如下：\n\n(一)2026年7月2日（星期四）\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n(二)2026年7月6日（星期一）\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n渡輪營辦商會透過網頁及/或手機應用程式，並於相關碼頭及船上張貼通告，通知乘客上述渡輪服務調整。\n\n另外，因應實際情況，在2026年7月2日及6日，駛經維多利亞港的專營及持牌渡輪航線或需臨時調整服務。\n\n運輸署及渡輪營辦商會密切留意海上情況，並因應實際情況就渡輪服務作出相應調整，以減低對乘客造成的不便。運輸署建議渡輪乘客(特別是離島居民)預早規劃7月2日及6日的行程，並預留充裕時間出行及留意有關渡輪服務的最新消息。若活動較預定時間提早結束，渡輪營辦商會盡快恢復正常航班服務，並視乎實際情況加強服務以疏導乘客。運輸署及渡輪營辦商會及時宣布服務的最新消息。\n\n渡輪服務調整期間，如有任何緊急求助，可致電「999」緊急求助電話。相關應急部門包括政府飛行服務隊等會提供緊急救援。\n\n有關特別交通及公共運輸安排詳情，市民可瀏覽運輸署網頁（www.td.gov.hk）、「香港出行易」或參閱相關公共運輸營辦商所發出的乘客通告。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-06-29T20:11:36",
+        "last_announcement": "2026-06-29T19:20:00"
     }
 }
