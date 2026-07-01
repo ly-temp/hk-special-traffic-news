@@ -122,5 +122,37 @@
         "district": null,
         "last_update": "2026-06-29T20:11:36",
         "last_announcement": "2026-06-29T19:20:00"
+    },
+    "IN-26-04604": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-07-01T08:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "141108",
+                "CONTENT_EN": "Due to special event , the following ferry service(s) will be or have been suspended.\nFortune Ferry Company Limited\n‘Central - Hung Hom’ Route:\nDeparture cancelled:\n-Central to Hung Hom : 08:30 am \n-Hung Hom to Central : 08:10 am\n\n‘Central - West Kowloon’ Route:\nDeparture cancelled:\n- Central to West Kowloon : 08:00 am\n- West Kowloon to Central : 08:15 am.",
+                "CONTENT_CN": "因特別活動，以下渡輪服務將會或已經暫停服務。\n富裕小輪有限公司\n「中環-紅磡」航線：\n取消班次：\n-中環至紅磡: 上午08時30分\n-紅磡至中環: 上午08時10分\n\n「中環-西九」航線：\n取消班次：\n-中環至西九: 上午08時00分\n-西九至中環: 上午08時15分。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-07-01T09:55:10",
+        "last_announcement": "2026-07-01T08:05:00"
     }
 }
