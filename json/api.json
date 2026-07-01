@@ -122,5 +122,37 @@
         "district": null,
         "last_update": "2026-07-01T09:55:10",
         "last_announcement": "2026-07-01T08:05:00"
+    },
+    "IN-26-04608": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "mechanical defect",
+            "INCIDENT_DETAIL_CN": "機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-07-01T14:23:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "141114",
+                "CONTENT_EN": "Due to mechanical defect, the following ferry service(s) will be or have been suspended. Fortune Ferry Company Limited ‘Water Taxi’ Route: Ordinary ferry sailing at 2:55 p. m., 4:25 p.m. and 5:55 p. m. from East Tsim Sha Tsui",
+                "CONTENT_CN": "因機件故障，以下渡輪服務將會或已經暫停服務。 富裕小輪有限公司 「⽔上的⼠」航線：於下午2時55分，下午4時25分及下午5時55分由尖東開出的普通航班"
+            }
+        },
+        "district": null,
+        "last_update": "2026-07-01T18:29:26",
+        "last_announcement": "2026-07-01T14:23:00"
     }
 }
