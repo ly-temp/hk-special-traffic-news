@@ -60,43 +60,18 @@
                 "ID": "141123",
                 "CONTENT_EN": "The following ferry services are temporarily adjusted on 2 July 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
                 "CONTENT_CN": "以下渡輪服務於2026年7⽉2⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
+            },
+            "2026-07-02T20:08:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "141179",
+                "CONTENT_EN": "The following ferry services are temporarily adjusted on 3 July 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
+                "CONTENT_CN": "以下渡輪服務於2026年7⽉3⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
             }
         },
         "district": null,
-        "last_update": "2026-07-01T21:18:31",
-        "last_announcement": "2026-07-01T19:50:00"
-    },
-    "IN-26-04570": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Ferry Service Adjustments and Special Bus Service Arrangements",
-            "INCIDENT_DETAIL_CN": "渡輪服務調整及特別巴士服務安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-06-29T19:20:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "141037",
-                "CONTENT_EN": "On 2 July 2026 (Thursday) and 6 July 2026 (Monday), the following licensed ferry services will be adjusted. Relevant details and special bus service arrangements are as follows:\n\n(1) 2 July 2026 (Thursday)\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\n(2) 6 July 2026 (Monday)\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\n\nThe ferry operators will advise passengers of the above ferry service adjustments through their websites and/or mobile applications, as well as by displaying notices at relevant piers and inside the vessels.\n\nIn addition, subject to the actual situation, temporary service adjustments for franchised and licensed ferry routes transiting through Victoria Harbour on 2 July and 6 July 2026 may be needed.\n\nThe TD and ferry operators will closely monitor the situation at sea and make corresponding adjustments to ferry services subject to the actual situation in order to minimise disruption to passengers. Ferry passengers, especially residents of outlying islands, are advised to plan their trips on both 2 and 6 July 2026 in advance to allow sufficient travelling time, and pay attention to the latest updates regarding ferry services. If the event concludes earlier than scheduled, ferry operators will resume normal ferry services as soon as possible and may enhance services as needed to ease passenger flow. The TD and ferry operators will announce the latest service updates in a timely manner.\n\nDuring the period of ferry service adjustments, any request for emergency assistance can be directed to the “999” emergency hotline. Relevant departments handling emergency situations, including the Government Flying Service, etc., will provide emergency rescue services.\n\nFor details of the special traffic and public transport arrangements, members of the public may visit the TD's website (www.td.gov.hk); “HKeMobility” or passenger notices issued by the relevant public transport operators.",
-                "CONTENT_CN": "在2026年7月2日（星期四）及7月6日（星期一），以下持牌渡輪服務將作出調整。相關詳情及特別巴士服務安排如下：\n\n(一)2026年7月2日（星期四）\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n(二)2026年7月6日（星期一）\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n\n渡輪營辦商會透過網頁及/或手機應用程式，並於相關碼頭及船上張貼通告，通知乘客上述渡輪服務調整。\n\n另外，因應實際情況，在2026年7月2日及6日，駛經維多利亞港的專營及持牌渡輪航線或需臨時調整服務。\n\n運輸署及渡輪營辦商會密切留意海上情況，並因應實際情況就渡輪服務作出相應調整，以減低對乘客造成的不便。運輸署建議渡輪乘客(特別是離島居民)預早規劃7月2日及6日的行程，並預留充裕時間出行及留意有關渡輪服務的最新消息。若活動較預定時間提早結束，渡輪營辦商會盡快恢復正常航班服務，並視乎實際情況加強服務以疏導乘客。運輸署及渡輪營辦商會及時宣布服務的最新消息。\n\n渡輪服務調整期間，如有任何緊急求助，可致電「999」緊急求助電話。相關應急部門包括政府飛行服務隊等會提供緊急救援。\n\n有關特別交通及公共運輸安排詳情，市民可瀏覽運輸署網頁（www.td.gov.hk）、「香港出行易」或參閱相關公共運輸營辦商所發出的乘客通告。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-06-29T20:11:36",
-        "last_announcement": "2026-06-29T19:20:00"
+        "last_update": "2026-07-02T20:25:50",
+        "last_announcement": "2026-07-02T20:08:00"
     },
     "IN-26-04604": {
         "description": {
