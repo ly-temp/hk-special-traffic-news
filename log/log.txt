@@ -5473,3 +5473,7 @@ del: IN-26-04608
 2026-07-05 22:24:21
 20260705-2148[E]: 'NoneType' object has no attribute 'pop'
 
+2026-07-05 23:45:16
+20260705-2223[E]: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+20260705-2227[E]: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
