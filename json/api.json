@@ -306,5 +306,37 @@
         "district": null,
         "last_update": "2026-07-04T15:53:43",
         "last_announcement": "2026-07-04T14:00:00"
+    },
+    "IN-26-04734": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Some train trips have been cancelled on 06 Jul 2026",
+            "INCIDENT_DETAIL_CN": "2026年07月06日部分列車車次取消",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-07-06T10:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "141388",
+                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, the following High Speed Rail train trips have been cancelled due to adverse weather conditions: From Hong Kong West Kowloon Station to Nanningdong Station 06 Jul: G928 From Nanningdong Station to Hong Kong West Kowloon Station 06 Jul: G927 For latest train schedules, please refer to 12306 official website (12306.cn) or click on the mobile app. You may also check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station. For ticket refunds, please refer to the High Speed Rail website and process within the time stated. Please use the 12306 official website (12306.cn) or mobile app and there is no need to rush to Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "中國內地鐵路單位通報，由於天氣情況惡劣，下列高速鐵路列車車次取消： 由香港西九龍站前往南寧東站 07月06日：G928 由南寧東站前往香港西九龍站 07月06日：G927 有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。 如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-07-06T13:40:04",
+        "last_announcement": "2026-07-06T10:48:00"
     }
 }
