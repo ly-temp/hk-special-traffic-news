@@ -171,5 +171,37 @@
         "district": null,
         "last_update": "2026-07-11T07:38:31",
         "last_announcement": "2026-07-11T06:30:00"
+    },
+    "IN-26-04936": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-07-11T15:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "141841",
+                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, the following High Speed Rail train trips will be cancelled due to adverse weather conditions: 11 July： From Hong Kong West Kowloon Station to Shanghai Hongqiao Station：G900, G902 From Hong Kong West Kowloon Station to Fuzhou Station：G920, G924 From Hong Kong West Kowloon Station to Guangzhounan Station ：G6504 From Shanghai Hongqiao Station to Hong Kong West Kowloon Station：G899, G901 From Fuzhou Station to Hong Kong West Kowloon Station：G919, G923 From Guangzhounan Station to Hong Kong West Kowloon Station：G6503 12 July： From Hong Kong West Kowloon Station to Shanghai Hongqiao Station：G900, G902, G386 From Hong Kong West Kowloon Station to Fuzhou Station：G920 From Hong Kong West Kowloon Station to Guangzhounan Station ：G6504 From Shanghai Hongqiao Station to Hong Kong West Kowloon Station：G899, G901, G385 From Fuzhou Station to Hong Kong West Kowloon Station：G919 From Guangzhounan Station to Hong Kong West Kowloon Station：G6503 For the latest train schedules, please refer to the official website (12306.cn). You may also check the latest service updates on the HSR website, mobile app or see the information available at Hong Kong West Kowloon Station. For ticket refunds, please refer to the information on the High Speed Rail website and process within the stated time. To obtain a refund, please use the 12306 official website (12306.cn) or mobile app. Unless you require assistance, there is no need to go to Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "中國內地鐵路單位通報，由於天氣情況惡劣，下列高速鐵路列車車次取消： 7月11日： 由香港西九龍站前往上海虹橋站：G900,G902 由香港西九龍站前往福州站：G920,G924 由香港西九龍站前往廣州南站：G6504 由上海虹橋站前往香港西九龍站：G899,G901 由福州站前往香港西九龍站：G919,G923 由廣州南站前往香港西九龍站：G6503 7月12日： 由香港西九龍站前往上海虹橋站：G900,G902,G386 由香港西九龍站前往福州站：G920 由香港西九龍站前往廣州南站：G6504 由上海虹橋站前往香港西九龍站：G899,G901,G385 由福州站前往香港西九龍站：G919 由廣州南站前往香港西九龍站：G6503 有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。 如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-07-11T16:23:57",
+        "last_announcement": "2026-07-11T15:15:00"
     }
 }
