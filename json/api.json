@@ -116,11 +116,18 @@
                 "ID": "142026",
                 "CONTENT_EN": "The following ferry services are temporarily adjusted on 15 July 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
                 "CONTENT_CN": "以下渡輪服務於2026年7⽉15⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
+            },
+            "2026-07-15T20:24:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "142137",
+                "CONTENT_EN": "The following ferry services are temporarily adjusted on 16 July 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
+                "CONTENT_CN": "以下渡輪服務於2026年7⽉16⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
             }
         },
         "district": null,
-        "last_update": "2026-07-14T20:54:55",
-        "last_announcement": "2026-07-14T20:30:00"
+        "last_update": "2026-07-15T20:58:28",
+        "last_announcement": "2026-07-15T20:24:00"
     },
     "IN-26-05004": {
         "description": {
@@ -247,10 +254,24 @@
                 "ID": "142127",
                 "CONTENT_EN": "The following road sections are busy:\nKowloon\n– Kwun Tong Bypass (Tseung Kwan O Tunnel bound)\n– Tseung Kwan O Road (Tseung Kwan O Tunnel bound)\n– Kwun Tong Road (Yau Tong bound)\nNew Territories\n– San Tin Highway (Yuen Long bound) near Pok Wai\nMotorists passing through the above road sections are advised to drive with utmost care and patience. Traffic at the following road section has resumed normal:\n– Yuen Long Highway (Tuen Mun bound) near Long Tin Road\n.",
                 "CONTENT_CN": "以下路段的交通繁忙:\n九龍\n–觀塘繞道(往將軍澳隧道方向)\n–將軍澳道(往將軍澳隧道方向)\n–觀塘道(往油塘方向)\n新界\n–新田公路(往元朗方向)近壆圍\n駕駛人士行經上述路段敬請忍讓及小心駕駛。以下路段的交通現已恢復正常:\n–元朗公路(往屯⾨⽅向)近朗天路\n。"
+            },
+            "2026-07-15T19:45:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "142133",
+                "CONTENT_EN": "The following road sections are busy:\nKowloon\n– Kwun Tong Bypass (Tseung Kwan O Tunnel bound)\n– Tseung Kwan O Road (Tseung Kwan O Tunnel bound)\n– Kwun Tong Road (Yau Tong bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience. Traffic at the following road section has resumed normal:\n– San Tin Highway (Yuen Long bound) near Pok Wai\n.",
+                "CONTENT_CN": "以下路段的交通繁忙:\n九龍\n–觀塘繞道(往將軍澳隧道方向)\n–將軍澳道(往將軍澳隧道方向)\n–觀塘道(往油塘方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。以下路段的交通現已恢復正常:\n–新田公路(往元朗方向)近壆圍\n。"
+            },
+            "2026-07-15T20:48:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "142139",
+                "CONTENT_EN": "The following road sections are still busy:\nKowloon\n– Kwun Tong Bypass (Tseung Kwan O Tunnel bound)\n– Tseung Kwan O Road (Tseung Kwan O Tunnel bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.  Traffic at the following road section has resumed normal:\n– Kwun Tong Road (Yau Tong bound).",
+                "CONTENT_CN": "以下路段的交通仍然繁忙:\n九龍\n–觀塘繞道(往將軍澳隧道方向)\n–將軍澳道(往將軍澳隧道方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。  以下路段的交通現已恢復正常:\n–觀塘道(往油塘方向)。"
             }
         },
         "district": null,
-        "last_update": "2026-07-15T19:45:04",
-        "last_announcement": "2026-07-15T19:07:00"
+        "last_update": "2026-07-15T20:58:28",
+        "last_announcement": "2026-07-15T20:48:00"
     }
 }
