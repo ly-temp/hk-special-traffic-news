@@ -234,5 +234,44 @@
         "district": null,
         "last_update": "2026-07-25T03:04:25",
         "last_announcement": "2026-07-25T02:21:00"
+    },
+    "IN-26-05318": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Close Approaching of Tropical Cyclone",
+            "INCIDENT_DETAIL_CN": "熱帶氣旋逐漸逼近",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-07-25T11:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "142729",
+                "CONTENT_EN": "Due to close approaching of Tropical Cyclone, the following ferry services will be or have been suspended.\n\nFortune Ferry Company Limited\n\n- 'Tuen Mun-Tung Chung-Sha Lo Wan-Tai O' ferry service temporarily suspended.\n\n'Tuen Mun - Tai O' Route:\n- Tuen Mun to Tai O: Last Departure from Tuen Mun at 11:00 am\n- Tai O to Tuen Mun: Last Departure from Tai O at 02:00 pm\n\n'Tung Chung - Tai O' Route:\n- Tung Chung to Tai O: Last Departure from Tung Chung at 10:00 am\n- Tai O to Tung Chung: Last Departure from Tai O at 11:00 am\n\nService resumption time until further notice.",
+                "CONTENT_CN": "因熱帶氣旋逐漸逼近，以下渡輪服務將會或已經停航：\n\n富裕小輪有限公司\n\n-「屯門-東涌-沙螺湾-大澳」渡輪服務，暫時停止服務\n\n「屯門-大澳」航線：\n-屯門往大澳：屯門尾班開出時間上午11時00分\n-大澳往屯門：大澳尾班開出時間下午02時00分\n\n「東涌-大澳」航線：\n-東涌往大澳：東涌尾班開出時間上午10時00分\n-大澳往東涌：大澳尾班開出時間上午11時00分\n\n復航時間另行通知。"
+            },
+            "2026-07-25T11:55:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "142730",
+                "CONTENT_EN": "Due to close approaching of Tropical Cyclone, the following ferry / kaito ferry services will be or have been suspended.\n\nFortune Ferry Company Limited\n\n- 'Tuen Mun-Tung Chung-Sha Lo Wan-Tai O' ferry service temporarily suspended.\n\n'Tuen Mun - Tai O' Route:\n- Tuen Mun to Tai O: Last Departure from Tuen Mun at 11:00 am\n- Tai O to Tuen Mun: Last Departure from Tai O at 02:00 pm\n\n'Tung Chung - Tai O' Route:\n- Tung Chung to Tai O: Last Departure from Tung Chung at 10:00 am\n- Tai O to Tung Chung: Last Departure from Tai O at 11:00 am\n\nService resumption time until further notice.\n\nTsui Wah Ferry Service (H.K.) Limited\n\n‘Ma Liu Shui – Tung Ping Chau’ Route:\n- Ma Liu Shui to Tung Ping Chau: 03:30 pm departure from Ma Liu Shui cancelled\n\n‘Aberdeen – Stanley – Po Toi Island’ Route:\n- Po Toi Island to Stanley: 12:30 pm departure from Po Toi Island cancelled\n- Stanley to Po Toi Island: 01:20 pm departure from Stanley cancelled\n- Aberdeen to Po Toi Island: 03:40 pm departure from Aberdeen cancelled\n- Po Toi Island to Aberdeen: 04:00 pm departure from Po Toi Island cancelled\n- Last departure from Po Toi Island at 02:00 pm\n\n‘Ma Liu Shui – Tap Mun’ Route:\n- Last departure from Ma Liu Shui at 12:30 pm\n- Last departure from Tap Mun at 01:45 pm\n\n‘Sai Kung – Kau Sai Village – High Island’ Route:\n- Last departure from Sai Kung at 11:30 am\n- Last departure from High Island at 12:30 pm\n- Last departure from Kau Sai Village at 01:00 pm.",
+                "CONTENT_CN": "因熱帶氣旋逐漸逼近，以下渡輪/街渡服務將會或已經停航：\n\n富裕小輪有限公司\n\n-「屯門-東涌-沙螺湾-大澳」渡輪服務，暫時停止服務\n\n「屯門-大澳」航線：\n-屯門往大澳：屯門尾班開出時間上午11時00分\n-大澳往屯門：大澳尾班開出時間下午02時00分\n\n「東涌-大澳」航線：\n-東涌往大澳：東涌尾班開出時間上午10時00分\n-大澳往東涌：大澳尾班開出時間上午11時00分\n\n復航時間另行通知\n\n翠華船務(香港)有限公司\n\n「馬料水–東平洲]」航線：\n-馬料水開出–往東平洲：下午3時30分取消\n\n「香港仔–赤柱–蒲台島]」航線：\n-蒲台島開出–往赤柱：下午12時40分取消\n-赤柱開出–往蒲台島：下午01時20分取消\n-香港仔開出–往蒲台島：下午03時30分取消\n-蒲台島開出–往香港仔：下午04時00分取消\n-尾班船蒲台島開出於下午02時00分\n\n「馬料水–塔門]」航線：\n-尾班船馬料水開出於下午12時30分\n-尾班船塔門開出於下午01時45分\n\n「西貢–滘西村–糧船灣]」航線：\n-尾班船西貢開出於上午11時30分\n-尾班船糧船灣開出於下午12時30分\n-尾班船滘西村開出於下午01時00分。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-07-25T12:30:07",
+        "last_announcement": "2026-07-25T11:55:00"
     }
 }
