@@ -382,5 +382,101 @@
         "district": null,
         "last_update": "2026-07-25T14:57:02",
         "last_announcement": "2026-07-25T13:21:00"
+    },
+    "IN-26-05321": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Typhoon Incident",
+            "INCIDENT_HEADING_CN": "颱風事故",
+            "INCIDENT_DETAIL_EN": "No. 8 Northwest Gale or Storm Signal",
+            "INCIDENT_DETAIL_CN": "八號西北烈風或暴風信號",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-07-25T22:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "142796",
+                "CONTENT_EN": "Due to hoisting of No. 8 Northwest Gale or Storm Signal and the associated wet weather, Transport Department appeals motorists and the commuters to: i. pay attention to the special traffic and transport arrangements may be implemented; ii. pay attention to the possible traffic congestions of the roads; iii. plan the journey in advance; iv. allow more traveling time to cater for delay; v. drive with extra care and patience; and vi. take heed of traffic situation particularly at busy junctions with obstructive views.",
+                "CONTENT_CN": "由於八號西北烈風或暴風信號現正生效、天雨路滑，運輸署呼籲駕駛人士及乘客須: i.留意當局可能會實施特別的交通及運輸措施； ii.留意在個別道路可能會出現交通擠塞的情況； iii.提早計劃行程路線； iv.預留充裕時間出門； v.小心駕駛及保持忍讓；及 vi.特别留意視線受阻的交通繁忙路口。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-07-25T23:35:07",
+        "last_announcement": "2026-07-25T22:10:00"
+    },
+    "IN-26-05341": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Adverse Weather",
+            "INCIDENT_DETAIL_CN": "內地段天氣影響",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-07-25T22:31:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "142798",
+                "CONTENT_EN": "Due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits. High Speed Rail train service remains normal.",
+                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C出入口暫時關閉以作預防措施，請使用其他出入口。 高速鐵路服務維持正常。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-07-25T23:35:07",
+        "last_announcement": "2026-07-25T22:31:00"
+    },
+    "IN-26-05177": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds temporary train trips",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-07-25T23:10:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "142807",
+                "CONTENT_EN": "As informed by the Chinese Mainland Railway Authorities, the following High Speed Rail train trips' schedules will be adjusted due to expected adverse weather conditions:\n\n25 July 2026\nThe following High Speed Rail train trips will be resumed:\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station: G5609\nFrom Hong Kong West Kowloon Station to Fuzhou Station: G924\nFrom Beijingxi Station to Hong Kong West Kowloon Station: G897\nFrom Hong Kong West Kowloon Station to Beijingxi Station: G898\nThe following High Speed Rail train trips will be cancelled:\nFrom Guangzhounan Station to Hong Kong West Kowloon Station: G6515, G6523, G6525, G6531\nFrom Guangzhoudong Station to Hong Kong West Kowloon Station: G6557, G6561\nFrom Shantou Station to Hong Kong West Kowloon Station: G6573, G6577\nFrom Xiamen Station to Hong Kong West Kowloon Station: G921, G925\nFrom Fuzhou Station to Hong Kong West Kowloon Station: G919, G923\nFrom Shanghai Hongqiao Station to Hong Kong West Kowloon Station: G899, G385\nFrom Meizhouxi Station to Hong Kong West Kowloon Station: G6589\nFrom Hong Kong West Kowloon Station to Guangzhounan Station: G6516, G6522, G6524, G6532\nFrom Hong Kong West Kowloon Station to Guangzhoudong Station: G6560, G6564\nFrom Hong Kong West Kowloon Station to Shantou Station: G6574, G6578, G6398\nFrom Hong Kong West Kowloon Station to Xiamen Station: G922, G926\nFrom Hong Kong West Kowloon Station to Fuzhou Station: G920\nFrom Hong Kong West Kowloon Station to Shanghai Hongqiao Station: G900, G386\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station: G5612\nFrom Hong Kong West Kowloon Station to Meizhouxi Station: G6590\nFrom Hong Kong West Kowloon Station to Shanwei Station: G5660\n\n26 July 2026\nThe following High Speed Rail train trips will be cancelled:\nFrom Guangzhounan Station to Hong Kong West Kowloon Station: G6515, G6523, G6525, G6531, G6539, G6507, G6517, G6519, G6521, G6501, G6527, G6529, G6533, G6535, G6537, G6581, G6583, G6585, G6587, G6503, G6505\nFrom Guangzhoudong Station to Hong Kong West Kowloon Station: G6545, G6547, G6549, G6553, G6557, G6561, G6551, G6555, G6559, G6563, G6565, G6567, G6569\nFrom Shantou Station to Hong Kong West Kowloon Station: G6573, G6577, G6397, G6389, G6391\nFrom Xiamen Station to Hong Kong West Kowloon Station: G921, G925\nFrom Fuzhou Station to Hong Kong West Kowloon Station: G919, G923\nFrom Shanghai Hongqiao Station to Hong Kong West Kowloon Station: G899, G385, G901\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station: G5609, G5617, G5621, G5623, G5607, G5657, G5619\nFrom Meizhouxi Station to Hong Kong West Kowloon Station: G6589\nFrom Beijingxi Station to Hong Kong West Kowloon Station: G897, G381\nFrom Zhangjiajiexi Station to Hong Kong West Kowloon Station: G6079\nFrom Zhanjiangxi Station to Hong Kong West Kowloon Station: G6047\nFrom Zhaoqingdong Station to Hong Kong West Kowloon Station: G6579\nFrom Shanwei Station to Hong Kong West Kowloon Station: G5659\nFrom Futian Station to Hong Kong West Kowloon Station: G5801\nFrom Wuhan Station to Hong Kong West Kowloon Station: G387\nFrom Xi’anbei Station to Hong Kong West Kowloon Station: G913\nFrom Tianjinxi Station to Hong Kong West Kowloon Station: G903\nFrom Hong Kong West Kowloon Station to Guangzhounan Station: G6516, G6522, G6524, G6532, G6540, G6508, G6518, G6520, G6538, G6502, G6528, G6530, G6534, G6536, G6526, G6582, G6584, G6586, G6588, G6504, G6506\nFrom Hong Kong West Kowloon Station to Guangzhoudong Station: G6546, G6548, G6550, G6552, G6556, G6560, G6564, G6554, G6558, G6562, G6566, G6568, G6570\nFrom Hong Kong West Kowloon Station to Shantou Station: G6574, G6578, G6390, G6392\nFrom Hong Kong West Kowloon Station to Xiamen Station: G922, G926\nFrom Hong Kong West Kowloon Station to Fuzhou Station: G920, G924\nFrom Hong Kong West Kowloon Station to Shanghai Hongqiao Station: G900, G386, G902\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station: G5612, G5618, G5620, G5622, G5608, G5658, G5614, G5656, G5670\nFrom Hong Kong West Kowloon Station to Meizhouxi Station: G6590\nFrom Hong Kong West Kowloon Station to Beijingxi Station: G898, G382\nFrom Hong Kong West Kowloon Station to Zhangjiajiexi Station: G6080\nFrom Hong Kong West Kowloon Station to Zhanjiangxi Station: G6048\nFrom Hong Kong West Kowloon Station to Zhaoqingdong Station: G6580\nFrom Hong Kong West Kowloon Station to Shanwei Station: G5660\nFrom Hong Kong West Kowloon Station to Tianjinxi Station: G904\n\n27 July 2026\nThe following High Speed Rail train trips will be cancelled:\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station: G5609\nFrom Shanwei Station Station to Hong Kong West Kowloon Station: G5659\nFrom Shantou Station to Hong Kong West Kowloon Station: G6397\nFrom Hong Kong West Kowloon Station to Fuzhou Station: G924\nFrom Hong Kong West Kowloon Station to Xi’anbei Station: G914\nThe following High Speed Rail train trips on 25-26 July 2026 have been destination changed due to expected adverse weather conditions:\n\n25 July 2026\nDestination Changed: G913, G917 (will arrive at Guangzhounan Station)\n\n26 July 2026\nDestination Changed: G914, G918 (will depart from Guangzhounan Station)\nDestination Changed: G6398 (will arrive at Shenzhenbei Station)\nDestination Changed: G6114 (will arrive at Guangzhounan Station)\n\nFor the latest train schedules, please refer to the official website (12306.cn) in the mobile app. You may also check the latest service updates on the HSR website, mobile app or see the information available at Hong Kong West Kowloon Station.\nYou may also consider using travel on the East Rail Line trains to Lo Wu/ Lok Ma Chau or use other transport to enter the Chinese Mainland.\nFor ticket refunds, please refer to the information on the High Speed Rail website and process within the stated time. To obtain a refund, please use the 12306 official website (12306.cn) or mobile app. Unless you require assistance, there is no need to go to Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "中國內地鐵路單位通報，由於預期天氣情況惡劣，下列高速鐵路部分列車車次調整：\n\n2026年07月25日：\n以下列車車次恢復行駛：\n由深圳北站前往香港西九龍站：G5609\n由香港西九龍站前往福州站：G924\n由北京西站前往香港西九龍站：G897\n由香港西九龍站前往北京西站：G898\n\n以下列車車次取消：\n由廣州南站前往香港西九龍站：G6515,G6523,G6525,G6531\n由廣州東站前往香港西九龍站：G6557,G6561\n由汕頭站前往香港西九龍站：G6573,G6577\n由廈門站前往香港西九龍站：G921,G925\n由福州站前往香港西九龍站：G919,G923\n由上海虹橋站前往香港西九龍站：G899,G385\n由梅州西站前往香港西九龍站：G6589\n由香港西九龍站前往廣州南站：G6516,G6522,G6524,G6532\n由香港西九龍站前往廣州東站：G6560,G6564\n由香港西九龍站前往汕頭站：G6574,G6578,G6398\n由香港西九龍站前往廈門站：G922,G926\n由香港西九龍站前往福州站：G920\n由香港西九龍站前往上海虹橋站：G900,G386\n由香港西九龍站前往深圳北站：G5612\n由香港西九龍站前往梅州西站：G6590\n由香港西九龍站前往汕尾站：G5660\n\n2026年07月26日：\n以下列車車次取消：\n由廣州南站前往香港西九龍站：G6515,G6523,G6525,G6531,G6539,G6507,G6517,G6519,G6521,G6501,G6527,G6529,G6533,G6535,G6537,G6581,G6583,G6585,G6587,G6503,G6505\n由廣州東站前往香港西九龍站：G6545,G6547,G6549,G6553,G6557,G6561,G6551,G6555,G6559,G6563,G6565,G6567,G6569\n由汕頭站前往香港西九龍站：G6573,G6577,G6397,G6389,G6391\n由廈門站前往香港西九龍站：G921,G925\n由福州站前往香港西九龍站：G919,G923\n由上海虹橋站前往香港西九龍站：G899,G385,G901\n由深圳北站前往香港西九龍站：G5609,G5617,G5621,G5623,G5607,G5657,G5619\n由梅州西站前往香港西九龍站：G6589\n由北京西站前往香港西九龍站：G897,G381\n由張家界西站前往香港西九龍站：G6079\n由湛江西站前往香港西九龍站：G6047\n由肇慶東站前往香港西九龍站：G6579\n由汕尾站前往香港西九龍站：G5659\n由福田站前往香港西九龍站：G5801\n由武漢站前往香港西九龍站：G387\n由西安北站前往香港西九龍站：G913\n由天津西站前往香港西九龍站：G903\n由香港西九龍站前往廣州南站：G6516,G6522,G6524,G6532,G6540,G6508,G6518,G6520,G6538,G6502,G6528,G6530,G6534,G6536,G6526,G6582,G6584,G6586,G6588,G6504,G6506\n由香港西九龍站前往廣州東站：G6546,G6548,G6550,G6552,G6556,G6560,G6564,G6554,G6558,G6562,G6566,G6568,G6570\n由香港西九龍站前往汕頭站：G6574,G6578,G6390,G6392\n由香港西九龍站前往廈門站：G922,G926\n由香港西九龍站前往福州站：G920,G924\n由香港西九龍站前往上海虹橋站：G900,G386,G902\n由香港西九龍站前往深圳北站：G5612,G5618,G5620,G5622,G5608,G5658,G5614,G5656,G5670\n由香港西九龍站前往梅州西站：G6590\n由香港西九龍站前往北京西站：G898,G382\n由香港西九龍站前往張家界西站：G6080\n由香港西九龍站前往湛江西站：G6048\n由香港西九龍站前往肇慶東站：G6580\n由香港西九龍站前往汕尾站：G5660\n由香港西九龍站前往天津西站：G904\n\n2026年07月27日：\n以下列車車次取消：\n由深圳北站前往香港西九龍站：G5609\n由汕尾站前往香港西九龍站：G5659\n由汕頭站前往香港西九龍站：G6397\n由香港西九龍站前往福州站：G924\n由香港西九龍站前往西安北站：G914\n\n2026年07月25-26日下列高速鐵路列車車次始發/終到站更改：\n\n2026年07月25日：\n更改終到站的車次：G913,G917 (終到站更改為廣州南站)\n\n2026年07月26日：\n更改始發站的車次：G914,G918 (始發站更改為廣州南站)\n更改終到站的車次：G6398 (終到站更改為深圳北站)\n更改終到站的車次：G6114 (終到站更改為廣州南站)\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。您亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n您可考慮乘搭東鐵綫經羅湖/落馬洲，或使用其他跨境交通工具前往中國內地。\n如需退票，請參閱高速鐵路網頁並於指定日期內辦理。請盡量使用12306官方網站(12306.cn)或手機應用程式，不用急於到香港西九龍站辦理。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-07-25T23:35:07",
+        "last_announcement": "2026-07-25T23:10:00"
     }
 }
