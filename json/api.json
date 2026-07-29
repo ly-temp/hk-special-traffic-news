@@ -270,52 +270,6 @@
         "last_update": "2026-07-26T15:21:31",
         "last_announcement": "2026-07-26T12:40:00"
     },
-    "IN-26-05341": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Adverse Weather",
-            "INCIDENT_DETAIL_CN": "內地段天氣影響",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-07-25T22:31:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "142798",
-                "CONTENT_EN": "Due to adverse weather conditions, Entrance/Exit C at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits. High Speed Rail train service remains normal.",
-                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C出入口暫時關閉以作預防措施，請使用其他出入口。 高速鐵路服務維持正常。"
-            },
-            "2026-07-26T07:04:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "142852",
-                "CONTENT_EN": "Due to adverse weather conditions, Entrance/Exit C and M at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits.",
-                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站C 及M 出入口暫時關閉以作預防措施，請使用其他出入口。"
-            },
-            "2026-07-26T09:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "142869",
-                "CONTENT_EN": "Due to adverse weather conditions, Entrance/Exit M at Hong Kong West Kowloon Station is closed for preventive purpose. Please use other entrances/exits.",
-                "CONTENT_CN": "由於天氣情況惡劣，香港西九龍站M 出入口暫時關閉以作預防措施，請使用其他出入口。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-07-26T12:42:07",
-        "last_announcement": "2026-07-26T09:00:00"
-    },
     "IN-26-05363": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
