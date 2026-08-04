@@ -59,38 +59,6 @@
         "last_update": "2026-08-02T21:53:27",
         "last_announcement": "2026-08-02T20:11:00"
     },
-    "IN-26-05549": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "Hong Kong West Kowloon Station Public Car Park",
-            "INCIDENT_DETAIL_CN": "香港西九龍站公眾停車場",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-08-01T14:52:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "143368",
-                "CONTENT_EN": "Hong Kong West Kowloon Station Public Car Park is now full. Please use public transport to reach the station. Trains affected are",
-                "CONTENT_CN": "香港西九龍站公眾停車場現已泊滿。請使用公共交通工具前往。 受影響車次"
-            }
-        },
-        "district": null,
-        "last_update": "2026-08-01T15:15:42",
-        "last_announcement": "2026-08-01T14:52:00"
-    },
     "IN-26-05562": {
         "description": {
             "INCIDENT_HEADING_EN": "Rainstorm Incident",
