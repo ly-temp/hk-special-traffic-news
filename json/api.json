@@ -79,5 +79,37 @@
         "district": null,
         "last_update": "2026-08-06T22:32:35",
         "last_announcement": "2026-08-06T20:26:00"
+    },
+    "IN-26-05712": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "mechanical defect",
+            "INCIDENT_DETAIL_CN": "機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-08-08T09:44:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "143717",
+                "CONTENT_EN": "Due to mechanical defect, the following Outlying Island ferry services are suspended.\nFortune Ferry Company Limited\n-Tung Chung - Sha Lo Wan - Tai O : suspended at 10:00 am \n-Tai O - Sha Lo Wan - Tung Chung : suspended at 11:00 am.",
+                "CONTENT_CN": "因機件故障，以下離島渡輪服務停航。\n富裕小輪有限公司\n-東涌—沙螺灣—大澳:上午10時00分暫停\n-大澳—沙螺灣—東涌:上午11時00分暫停。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-08-08T10:09:37",
+        "last_announcement": "2026-08-08T09:44:00"
     }
 }
