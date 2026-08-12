@@ -101,45 +101,6 @@
         "last_update": "2026-08-11T21:37:35",
         "last_announcement": "2026-08-11T20:43:00"
     },
-    "IN-26-05713": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Anticipated heavy traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam",
-            "INCIDENT_DETAIL_CN": "通往萬宜水庫東壩的西貢萬宜路交通預計比較繁忙",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-08-08T10:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "143718",
-                "CONTENT_EN": "The Transport Department announces that the traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam is anticipated to be quite busy in general. The operator of Green Minibus Route No. 9A will strengthen its service to cater for passenger demand as necessary. Members of the public are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing.",
-                "CONTENT_CN": "運輸署表示，通往萬宜水庫東壩的西貢萬宜路交通預計一般比較繁忙，專線小巴第9A號線的營辦商會按需要加強服務應付乘客需求。請遊人妥善規劃行程，預留充裕交通時間，同時在輪候時保持忍讓。"
-            },
-            "2026-08-09T10:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "143759",
-                "CONTENT_EN": "The Transport Department announces that the traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam is anticipated to be quite busy in general. The operator of Green Minibus Route No. 9A will strengthen its service to cater for passenger demand as necessary. Members of the public are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing.",
-                "CONTENT_CN": "運輸署表示，通往萬宜水庫東壩的西貢萬宜路交通預計一般比較繁忙，專線小巴第9A號線的營辦商會按需要加強服務應付乘客需求。請遊人妥善規劃行程，預留充裕交通時間，同時在輪候時保持忍讓。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-08-09T10:38:00",
-        "last_announcement": "2026-08-09T10:00:00"
-    },
     "IN-26-05718": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
