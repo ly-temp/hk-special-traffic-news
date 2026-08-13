@@ -107,5 +107,37 @@
         "district": null,
         "last_update": "2026-08-12T21:41:17",
         "last_announcement": "2026-08-12T20:10:00"
+    },
+    "IN-26-05835": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "mechanical defect",
+            "INCIDENT_DETAIL_CN": "機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-08-13T14:01:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "143989",
+                "CONTENT_EN": "Due to mechanical defect, the following ferry service will be or have been suspended.\nFortune Ferry Company Limited\n‘Water Taxi' (Ordinary Ferry):\n‘Tsim Sha Tsui East – Central (via West Kowloon and Wan Chai)’ Route: Sailing 4\n- Tsim Sha Tsui East to West Kowloon: Sailing at 01:25 p.m. suspended\n- West Kowloon to Tsim Sha Tsui East: Sailing at 01:40 p.m. suspended\n- Tsim Sha Tsui East to Wan Chai: Sailing at 01:55 p.m. suspended\n- Wan Chai to Central: Sailing at 02:10 p.m. suspended\n- Central to Wan Chai: Sailing at 02:25 p.m. suspended\n- Wan Chai to Tsim Sha Tsui East: Sailing at 02:40 p.m. suspended.",
+                "CONTENT_CN": "因機件故障，以下渡輪服務將會或已經暫停服務。\n富裕小輪有限公司\n「水上的士」（普通船）：\n-尖沙咀東至西九龍：下午1時25分開出班次暫停服務\n-西九龍至尖沙咀東：下午1時40分開出班次暫停服務\n-尖沙咀東至灣仔：下午1時55分開出班次暫停服務\n-灣仔至中環：下午2時10分開出班次暫停服務\n-中環至灣仔：下午2時25分開出班次暫停服務\n-灣仔至尖沙咀東：下午2時40分開出班次暫停服務。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-08-13T16:06:06",
+        "last_announcement": "2026-08-13T14:01:00"
     }
 }
