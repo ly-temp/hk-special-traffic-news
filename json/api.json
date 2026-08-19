@@ -245,5 +245,37 @@
         "district": null,
         "last_update": "2026-08-19T04:54:29",
         "last_announcement": "2026-08-19T04:32:00"
+    },
+    "IN-26-05996": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-08-19T12:41:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "144350",
+                "CONTENT_EN": "Fortune Ferry Company Limited Due to strong wind, the following sailings of water taxi will not berth at Wan Chai: 19 August 2026 Sailing (2): 12:05,12:35 Sailing (4):14:10,14:40 Sailing (6): 15:40,16:10 Sailing (8): 17:10,17:40 Sailing (10):18:40,19:10",
+                "CONTENT_CN": "富裕小輪有限公司 因受強風影響，以下水上的士循環线(普通航班)不停靠湾仔： 2026年8月19日 航班(二)：12:05,12:35 航班(四)：14:10,14:40 航班(六)：15:40,16:10 航班(八)：17:10,17:40 航班(十)：18:40,19:10"
+            }
+        },
+        "district": null,
+        "last_update": "2026-08-19T13:29:07",
+        "last_announcement": "2026-08-19T12:41:00"
     }
 }
