@@ -136,45 +136,6 @@
         "last_update": "2026-08-18T19:56:41",
         "last_announcement": "2026-08-18T19:35:00"
     },
-    "IN-26-05900": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Structural / Mechanical Defects or Closure of Access",
-            "INCIDENT_DETAIL_CN": "結構/機械缺陷或關閉",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-08-16T15:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "144138",
-                "CONTENT_EN": "Due to vessel breakdown, the following ferry services are temporarily adjusted:\nFortune Ferry Company Limited\nWestK Ferry:\nFrom West Kowloon to Central : Sailing at 3:00 p.m.\nFrom Central to West Kowloon: Sailing at 3: 15 p.m.",
-                "CONTENT_CN": "因船舶故障，以下渡輪服務作出臨時調整：\n富裕小輪有限公司\n西九渡輪:\n由西九至中環:於下午3時開出\n由中環至西九:於下午3時15分開出。"
-            },
-            "2026-08-16T15:28:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "144140",
-                "CONTENT_EN": "Due to vessel breakdown, the following ferry service(s) will be or have been suspended.\nFortune Ferry Company Limited\nWestK Ferry\nDeparture cancelled:\nFrom Central to West Kowloon: 3:00 p.m., 4:00 p.m., 5:00 p.m. and 6:00 p.m.\nFrom West Kowloon to Central : 3:30 p.m., 4:30 p.m., 5:30 p.m. and 6:30 p.m.",
-                "CONTENT_CN": "因船舶故障，以下渡輪服務將會或已經暫停服務。\n富裕小輪有限公司\n西九渡輪\n取消班次：\n由中環至西九:於下午3時、下午4時、下午5時及下午6時\n由西九至中環:於下午3時30分、下午4時30分、下午5時30分及下午6時30分。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-08-16T16:02:35",
-        "last_announcement": "2026-08-16T15:28:00"
-    },
     "IN-26-05982": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
