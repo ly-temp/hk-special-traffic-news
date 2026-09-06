@@ -251,5 +251,44 @@
         "district": null,
         "last_update": "2026-09-03T13:13:24",
         "last_announcement": "2026-09-03T11:30:00"
+    },
+    "IN-26-06536": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Train Service Delay",
+            "INCIDENT_DETAIL_CN": "列車服務延遲",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-09-06T08:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "145597",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that High Speed Rail train service is delayed, MTR is handling the situation and more details will be provided as soon as possible.\n\nFor latest train schedules, please refer to 12306 official website (12306.cn) or the mobile app, Passengers may check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.\n.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，高速鐵路列車服務延遲，港鐵正在處理，會儘快提供進一步消息。\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。乘客亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。\n。"
+            },
+            "2026-09-06T08:34:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "145598",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that High Speed Rail train trips will be delayed due to a signalling fault. MTR is handling the situation and more details will be provided as soon as possible.\n\nFor latest train schedules, please refer to 12306 official website (12306.cn) or the mobile app, Passengers may check latest train information from the HSR website, mobile app or the information available at Hong Kong West Kowloon Station.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，由於信號故障，高速鐵路列車服務將會延遲，港鐵正在處理，會儘快提供進一步消息。\n\n有關車次的資料，請留意12306官方網站(12306.cn)，如已安裝手機應用程式，可按「車站大屏」頁面。乘客亦可留意於高速鐵路網頁、手機應用程式或香港西九龍站發放的最新資訊。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-09-06T09:05:41",
+        "last_announcement": "2026-09-06T08:34:00"
     }
 }
