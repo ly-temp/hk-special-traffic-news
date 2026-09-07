@@ -297,5 +297,37 @@
         "district": null,
         "last_update": "2026-09-06T18:08:24",
         "last_announcement": "2026-09-06T16:55:00"
+    },
+    "IN-26-06557": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Obstruction of Ferry Berth at Ferry Piers",
+            "INCIDENT_DETAIL_CN": "輪渡碼頭泊位阻塞",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-09-07T12:00:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "145651",
+                "CONTENT_EN": "Fortune Ferry Company Limited Due to equipment fault at the WestK Quay, WestK Quay berthing point for the Water Taxi Route (West Kowloon – Central) will be changed to Yau Ma Tei Typhoon Shelter Pier. At the same time, the services of Water taxi will not stop at WestK Quay throughout the day.",
+                "CONTENT_CN": "富裕小輪有限公司 由於西九碼頭設備故障，水上的士(西九文化區-中環)之航班的西九碼頭停靠點將更改至油麻地避風塘公眾碼頭。同時，水上的士航班將全日不停經西九碼頭。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-09-07T12:43:12",
+        "last_announcement": "2026-09-07T12:00:00"
     }
 }
