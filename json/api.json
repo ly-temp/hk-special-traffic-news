@@ -221,43 +221,18 @@
                 "ID": "145695",
                 "CONTENT_EN": "The following ferry services are temporarily adjusted on 8 September 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
                 "CONTENT_CN": "以下渡輪服務於2026年9⽉8⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
+            },
+            "2026-09-09T20:33:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "145818",
+                "CONTENT_EN": "The following ferry services are temporarily adjusted on 10 September 2026:\nPark Island Transport Company Limited\n'Ma Wan - Central' Route:\n- Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S)\n- Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S)\n\n'Ma Wan - Tsuen Wan' Route:\n- Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled\n- Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled.",
+                "CONTENT_CN": "以下渡輪服務於2026年9⽉10⽇作出臨時調整：\n珀麗灣客運有限公司\n「⾺灣-中環」航線：\n-⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運\n-中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運\n\n「⾺灣-荃灣」航線：\n-⾺灣⾄荃灣：取消上午8時10分開出的班次\n-荃灣⾄⾺灣：取消上午8時30分開出的班次。"
             }
         },
         "district": null,
-        "last_update": "2026-09-07T23:18:25",
-        "last_announcement": "2026-09-07T20:14:00"
-    },
-    "IN-26-06542": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "vessel breakdown",
-            "INCIDENT_DETAIL_CN": "船舶故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-09-06T16:55:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "145612",
-                "CONTENT_EN": "Due to vessel breakdown, the following ferry service is suspended.\nFortune Ferry Company Limited\n-Tung Chung - Sha Lo Wan - Tai O : suspended at 4:00 pm\n-Tai O - Sha Lo Wan - Tung Chung : suspended at 5:00 pm.",
-                "CONTENT_CN": "因船舶故障，以下渡輪服務會暫停服務。\n富裕小輪有限公司\n-東涌-沙螺灣-大澳:下午4時暫停\n-大澳-沙螺灣-東涌:下午5時暫停。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-09-06T18:08:24",
-        "last_announcement": "2026-09-06T16:55:00"
+        "last_update": "2026-09-09T22:03:31",
+        "last_announcement": "2026-09-09T20:33:00"
     },
     "IN-26-06557": {
         "description": {
