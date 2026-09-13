@@ -16448,3 +16448,9 @@ del: IN-26-06557
 
 2026-09-14 05:09:06
 
+2026-09-14 07:08:51
+20260914-0704[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f56b1faabd0>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+20260914-0705[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f56b1faa660>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+20260914-0706[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f56b1fa99d0>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+20260914-0707[E]: HTTPSConnectionPool(host='www.als.ogcio.gov.hk', port=443): Max retries exceeded with url: /lookup (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f56b1fa8530>: Failed to resolve 'www.als.ogcio.gov.hk' ([Errno -2] Name or service not known)"))
+
