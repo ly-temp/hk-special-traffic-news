@@ -248,38 +248,6 @@
         "last_update": "2026-09-13T20:05:05",
         "last_announcement": "2026-09-13T19:22:00"
     },
-    "IN-26-06664": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Temporary road closures of the RunAround@SaiKung 2026",
-            "INCIDENT_DETAIL_CN": "兔仔跑西貢2026活動臨時封路安排",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-09-11T07:02:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "145900",
-                "CONTENT_EN": "To facilitate the holding of the RunAround@SaiKung 2026 on 13 September 2026 (Sunday), temporary road closures will be implemented at Tai Mong Tsai Road and Sai Kung Man Yee Road, Sai Kung:\n\nFrom 6.45 am to 7.45 am on 13 September 2026\n\n- The section of Tai Mong Tsai Road between Pak Tam Chung Physically Handicapped and Able-bodied Site and Sai Kung Man Yee Road will be intermittently closed.\n\nFrom 6.00 am to 9.00 am on 13 September 2026\n\n- The section of Sai Kung Man Yee Road from its junction with Tai Mong Tsai Road to a point about 8.3 kilometres south of the same junction will be temporarily closed.\n\nDuring the road closure, all vehicular traffic (including franchised buses, green minibuses and taxis) will be prohibited to enter the aforementioned road sections, until the reopening of the road. Appropriate traffic signs will be erected on site to guide motorists.\n\nOther temporary road and traffic control measures, including adjusting the extent of road closures and alteration or suspension of public transport services, may be implemented by the Police at short notice depending on the actual traffic conditions. The TD appeals to the public to pay attention to the temporary road closures and public transport service adjustment arrangements. Members of the public who plan to go to the affected areas should plan their journey in advance, allow sufficient travelling time to avoid unexpected delay. Motorists and visitors should exercise patience and follow the instructions of the Police on-site.",
-                "CONTENT_CN": "為配合2026年9月13日(星期日)舉行的兔仔跑西貢2026活動，當局將於活動期間在西貢大網仔路及西貢萬宜路實施以下臨時封路安排：\n\n2026年9月13日上午6時45分至上午7時45分\n\n-大網仔路介乎北潭涌傷健樂園及西貢萬宜路之間的路段間歇性封閉。\n\n2026年9月13日上午6時至上午9時\n\n-西貢萬宜路由其與大網仔路交界處起至同一交界以南約8.3公里處止的路段臨時封閉。\n\n封路期間，所有車輛(包括專營巴士、專線小巴及的士)不得進入上述路段，直至道路重開為止。有關地點將設置適當的交通標誌，指導駕駛人士。\n\n警方會視乎現場實際路面情況而在短時間內實施其他臨時道路及交通管制措施，包括調整封路範圍和更改或暫停公共運輸服務。運輸署呼籲市民留意臨時封路及公共運輸服務改動安排。市民應及早計劃行程及預留額外的時間以免延誤。駕駛人士及遊人請保持忍讓，並遵從在場警務人員的指示。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-09-11T08:00:43",
-        "last_announcement": "2026-09-11T07:02:00"
-    },
     "IN-26-06728": {
         "description": {
             "INCIDENT_HEADING_EN": "Highwind Incident",
@@ -318,5 +286,37 @@
         "district": null,
         "last_update": "2026-09-13T09:17:59",
         "last_announcement": "2026-09-13T07:05:00"
+    },
+    "IN-26-06742": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds temporary train trips",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-09-14T08:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "146067",
+                "CONTENT_EN": "In response to passenger demand, the High Speed Rail (Hong Kong Section) will add the following temporary train trips:\n\nFrom Hong Kong West Kowloon Station to Futian Station\n\n25, 26 Sep, 1-4 Oct: G5834, G5836, G5838, G5840, G5842, G5844, G5846, G5848, G5850, G5852, G5854, G5856, G5868\n\n27 Sep: G5866\n\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station\n\n27 Sep: G5680\n\nFrom Futian Station to Hong Kong West Kowloon Station\n\n25, 26 Sep, 1-4 Oct: G5833, G5835, G5837, G5839, G5841, G5843, G5845, G5847, G5849, G5851, G5853, G5855, G5867\n\n27 Sep: G5865\n\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station\n\n27 Sep: G5679\n\nTickets are available for purchase through the 12306 official website (12306.cn) or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station.\n\nFor train schedules, please refer to the 12306 official website (12306.cn) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "配合客運需求，高速鐵路(香港段)將加開以下臨時列車車次：\n\n由香港西九龍站前往福田站\n\n9月25,26日,10月1-4日：G5834,G5836,G5838,G5840,G5842,G5844,G5846,G5848,G5850,G5852,G5854,G5856,G5868\n\n9月27日：G5866\n\n由香港西九龍站前往深圳北站\n\n9月27日：G5680\n\n由福田站前往香港西九龍站\n\n9月25,26日,10月1-4日：G5833,G5835,G5837,G5839,G5841,G5843,G5845,G5847,G5849,G5851,G5853,G5855,G5867\n\n9月27日：G5865\n\n由深圳北站前往香港西九龍站\n\n9月27日：G5679\n\n乘客可透過12306官方網站(12306.cn)或手機應用程式、指定代理或前往香港西九龍站購買列車車票。\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-09-14T09:03:05",
+        "last_announcement": "2026-09-14T08:15:00"
     }
 }
