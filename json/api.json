@@ -263,57 +263,18 @@
                 "ID": "146259",
                 "CONTENT_EN": "The following ferry services are temporarily adjusted on 17 September 2026:\n\nPark Island Transport Company Limited\n'Ma Wan - Central' Route:\n- Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S)\n- Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S)\n\n'Ma Wan - Tsuen Wan' Route:\n- Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled\n- Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled.",
                 "CONTENT_CN": "以下渡輪服務於2026年9⽉17⽇作出臨時調整：\n\n珀麗灣客運有限公司\n「⾺灣-中環」航線：\n-⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運\n-中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運\n\n「⾺灣-荃灣」航線：\n-⾺灣⾄荃灣：取消上午8時10分開出的班次\n-荃灣⾄⾺灣：取消上午8時30分開出的班次。"
+            },
+            "2026-09-17T20:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "146332",
+                "CONTENT_EN": "The following ferry services are temporarily adjusted on 18 September 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
+                "CONTENT_CN": "以下渡輪服務於2026年9⽉18⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
             }
         },
         "district": null,
-        "last_update": "2026-09-17T01:00:35",
-        "last_announcement": "2026-09-16T20:30:00"
-    },
-    "IN-26-06768": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Heavy Traffic",
-            "INCIDENT_DETAIL_CN": "車多關係",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-09-14T18:48:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "146125",
-                "CONTENT_EN": "The following road section(s) are busy:\nHong Kong Island\n– Connaught Road West Flyover (Western Harbour Crossing bound)\n– Connaught Road Central Flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Western Harbour Crossing bound)\n– Harcourt Road (Sheung Wan bound)\n\nKowloon\n– Kwun Tong Bypass (both bounds)\n\nMotorists passing through the above road section(s) are advised to drive with utmost care and patience.",
-                "CONTENT_CN": "以下路段的交通繁忙:\n香港島\n–干諾道西天橋(往西區海底隧道方向)\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往西區海底隧道方向)\n–夏慤道(往上環方向)\n\n九龍\n–觀塘繞道(來回方向)\n\n駕駛人士行經上述路段敬請忍讓及小心駕駛。"
-            },
-            "2026-09-14T19:17:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "146128",
-                "CONTENT_EN": "The following road sections are still busy:\n\nHong Kong Island\n– Connaught Road Central Flyover (Western Harbour Crossing bound)\n– Connaught Road Central (Western Harbour Crossing bound)\n– Harcourt Road (Sheung Wan bound)\n\nKowloon\n– Kwun Tong Bypass (Yau Tong bound)\n\nNew Territories\n– Wong Chu Road (Tuen Mun Road bound)\nMotorists passing through the above road sections are advised to drive with utmost care and patience.\n\nTraffic at the following road section has resumed normal:\n– Connaught Road Central Flyover (Western Harbour Crossing bound).",
-                "CONTENT_CN": "以下路段的交通仍然繁忙:\n\n香港島\n–干諾道中天橋(往西區海底隧道方向)\n–干諾道中(往西區海底隧道方向)\n–夏慤道(往上環方向)\n\n九龍\n–觀塘繞道(往油塘方向)\n\n新界\n–皇珠路(往屯門公路方向)\n駕駛人士行經上述路段敬請忍讓及小心駕駛。\n\n以下路段的交通現已恢復正常:\n–干諾道西天橋(往西區海底隧道方向)。"
-            },
-            "2026-09-14T19:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "146131",
-                "CONTENT_EN": "Traffic at the following road section(s) have resumed normal: – Connaught Road Central Flyover (Western Harbour Crossing bound) – Connaught Road Central (Western Harbour Crossing bound) – Harcourt Road (Sheung Wan bound) – Kwun Tong Bypass (Yau Tong bound) – Wong Chu Road (Tuen Mun Road bound)",
-                "CONTENT_CN": "以下路段的交通現已恢復正常: –干諾道中天橋(往西區海底隧道方向) –干諾道中(往西區海底隧道方向) –夏慤道(往上環方向) –觀塘繞道(往油塘方向) –皇珠路(往屯門公路方向)"
-            }
-        },
-        "district": null,
-        "last_update": "2026-09-14T20:43:40",
-        "last_announcement": "2026-09-14T19:45:00"
+        "last_update": "2026-09-17T23:33:30",
+        "last_announcement": "2026-09-17T20:30:00"
     },
     "IN-26-06805": {
         "description": {
