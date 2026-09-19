@@ -275,37 +275,5 @@
         "district": null,
         "last_update": "2026-09-17T23:33:30",
         "last_announcement": "2026-09-17T20:30:00"
-    },
-    "IN-26-06831": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Watermain emergency works",
-            "INCIDENT_DETAIL_CN": "水管緊急維修",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-09-17T03:10:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "146263",
-                "CONTENT_EN": "Due to watermain emergency works, vehicles on San Wan Road (Tai Po bound) near Cheung Wah Estate are diverted via making right turns onto Fanling Station Road. At the same time, vehicles on San Wan Road (Sheung Shui bound) near Fanling Centre cannot make right turns onto Cheung Wah Estate. Affected bus route nos. NA43 and N42A have been diverted. For the latest service arrangement of individual bus routes, members of the public can refer to the information on the bus company's website or mobile application.",
-                "CONTENT_CN": "因水管緊急維修，新運路(往大埔方向)近祥華邨的車輛需右轉粉嶺車站路。同時，新運路(往上水方向)的車輛近粉嶺中心的車輛不能右轉入祥華邨。受影響巴士路線第NA43及N42A須改道行駛。有關個別巴士路線的最新服務情況，市民可參閱巴士公司的網頁或流動應用程式內的資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-09-17T04:00:27",
-        "last_announcement": "2026-09-17T03:10:00"
     }
 }
