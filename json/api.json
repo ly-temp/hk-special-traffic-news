@@ -291,43 +291,18 @@
                 "ID": "146680",
                 "CONTENT_EN": "The following ferry services are temporarily adjusted on 24 September 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
                 "CONTENT_CN": "以下渡輪服務於2026年9⽉24⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
+            },
+            "2026-09-24T20:35:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "146778",
+                "CONTENT_EN": "The following ferry services are temporarily adjusted on 25 September 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
+                "CONTENT_CN": "以下渡輪服務於2026年9⽉25⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
             }
         },
         "district": null,
-        "last_update": "2026-09-23T21:00:52",
-        "last_announcement": "2026-09-23T20:40:00"
-    },
-    "IN-26-06937": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced train service during the Mid-Autumn Festival holidays",
-            "INCIDENT_DETAIL_CN": "中秋節假期加強列車服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-09-21T18:06:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "146516",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that MTR Corporation Limited will enhance the train service during the Mid-Autumn Festival and over the following weekend.\n\nMid-Autumn Festival (25 September)\n- Enhanced train service from 3pm: Local Lines (except Airport Express and Disneyland Resort Line)\n- Extended service hours for around 1.5 hours: Local Lines (except Airport Express, Disneyland Resort Line, and cross-boundary journeys on the East Rail Line to or from Lo Wu or Lok Ma Chau stations), Light Rail\n- Extended service hours: MTR Bus routes 506, K51 and K54A\n\nMid-Autumn Festival weekend (26 to 27 September)\n- More frequent train trips on the East Rail Line at different periods\n\nCrowd management measures may be implemented in stations where necessary. Members of the public can refer to the information on the MTR Corporation Limited's website or mobile application.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，港鐵公司會於中秋節及隨後的周末加強列車服務。\n\n中秋節（9月25日）\n-下午3時起加強服務：本地鐵路綫（不包括機場快綫及迪士尼綫）\n-延長服務約1.5小時：本地鐵路綫（不包括機場快綫、迪士尼綫及東鐵綫來往羅湖或落馬洲站的過境車程）、輕鐵路綫\n-延長服務：港鐵巴士506、K51及K54A\n\n中秋節周末（9月26至27日）\n-東鐵綫於不同時段加密班次\n\n部分車站在人多時或會實施客流管理措施，市民可參閱港鐵公司的網頁或流動應用程式內的資訊。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-09-21T21:01:16",
-        "last_announcement": "2026-09-21T18:06:00"
+        "last_update": "2026-09-25T01:08:54",
+        "last_announcement": "2026-09-24T20:35:00"
     },
     "IN-26-06956": {
         "description": {
