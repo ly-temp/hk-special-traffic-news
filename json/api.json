@@ -303,37 +303,5 @@
         "district": null,
         "last_update": "2026-09-25T01:08:54",
         "last_announcement": "2026-09-24T20:35:00"
-    },
-    "IN-26-06956": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Other Incident",
-            "INCIDENT_HEADING_CN": "其他事故",
-            "INCIDENT_DETAIL_EN": "Diagonal crossing at On Ming Street/On Muk Street in Sha Tin commissioned",
-            "INCIDENT_DETAIL_CN": "沙田安明街／安睦街對角行人過路處啓用",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-09-22T11:27:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "146558",
-                "CONTENT_EN": "Diagonal crossing at On Ming Street/On Muk Street in Sha Tin commissioned\nA diagonal crossing at the junction of On Ming Street and On Muk Street in Sha Tin has been commissioned on 22 September 2026 to bring convenience to pedestrians in the district in walking across the junction diagonally, thereby shortening walking distance and saving time. This delivers on the objective of optimising crossing and walking environments set out in the Transport Strategy Blueprint.",
-                "CONTENT_CN": "沙田安明街／安睦街對角行人過路處啓用\n沙田安明街與安睦街交界路口的對角行人過路處已於2026年9月22日啓用，便利區內行人以較短距離橫過至對角位置，節省步行時間，落實《運輸策略藍圖》優化過路及步行環境的目標。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-09-22T13:35:59",
-        "last_announcement": "2026-09-22T11:27:00"
     }
 }
