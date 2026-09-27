@@ -335,5 +335,101 @@
         "district": null,
         "last_update": "2026-09-27T08:25:27",
         "last_announcement": "2026-09-27T08:04:00"
+    },
+    "IN-26-07106": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "mechanical fault",
+            "INCIDENT_DETAIL_CN": "機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-09-27T10:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "146910",
+                "CONTENT_EN": "The following ferry service(s) which was suspended due to mechanical fault will be or have been resumed:\nFortune Ferry Company Limited\n-Water Taxi : the service from Tsim Sha Tsui East to Wai Chai resumes at 11:10 am ;",
+                "CONTENT_CN": "較早前因受機件故障而停航的以下渡輪服務將會或已經恢復服務:\n富裕小輪有限公司\n-水上的士:上午11時10分恢復由尖東開出往湾仔方向的服務;"
+            }
+        },
+        "district": null,
+        "last_update": "2026-09-27T18:42:51",
+        "last_announcement": "2026-09-27T10:40:00"
+    },
+    "IN-26-07108": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "mechanical fault",
+            "INCIDENT_DETAIL_CN": "機件故障",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-09-27T12:20:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "146913",
+                "CONTENT_EN": "Due to mechanical fault, the following ferry service(s) may be delayed:\nFortune Ferry Company Limited\n-Ferry services between Tuen Mun, Tung Chung, Sha Lo Wan and Tai O ;\n- Sailing from Tai O to Tuen Mun departed at 11:30 a.m.\n- Sailing from Tuen Mun to Tai O departed at 12:45 p.m.",
+                "CONTENT_CN": "因機件故障，以下渡輪服務或會受到延誤：\n富裕小輪有限公司\n-來往屯門,東涌,沙螺灣及大澳的渡輪服務;\n-大澳向屯門方向上午11:30開出班次\n-屯門向大澳方向下午12:45開出班次。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-09-27T18:42:51",
+        "last_announcement": "2026-09-27T12:20:00"
+    },
+    "IN-26-07110": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "The vehicle clearance plaza (Hong Kong bound) of the HZMB Zhuhai Port is busy",
+            "INCIDENT_DETAIL_CN": "港珠澳大橋珠海口岸(往香港方向)的車輛通關廣場繁忙",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-09-27T15:02:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "146916",
+                "CONTENT_EN": "The vehicle clearance plaza (Hong Kong bound) of the HZMB Zhuhai Port is very busy now. Members of the public who plan to drive their private cars back to Hong Kong via HZMB are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing. The Public can check the real- time situations of the vehicle clearance plaza of HZMB Zhuhai Port through the WeChat official accounts “hzmbzhport” or “zhuhaifabu” (traffic-info.gzazhka.com:5015/#/), before starting their journeys.",
+                "CONTENT_CN": "港珠澳大橋珠海口岸(往香港方向)的車輛通關廣場現時非常繁忙，計劃駕駛私家車經大橋返港的市民請妥善規劃行程，預留充裕交通時間，同時在輪候時保持忍讓。市民可於開始行程前透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務(或前往https://trafficinfo.gzazhka.com:5015/#/)，查詢大橋珠海口岸的車輛實時通關情況。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-09-27T18:42:51",
+        "last_announcement": "2026-09-27T15:02:00"
     }
 }
