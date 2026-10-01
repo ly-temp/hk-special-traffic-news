@@ -319,11 +319,18 @@
                 "ID": "147077",
                 "CONTENT_EN": "The following ferry services are temporarily adjusted on 30 September 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
                 "CONTENT_CN": "以下渡輪服務於2026年9⽉30⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
+            },
+            "2026-10-01T19:50:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "147159",
+                "CONTENT_EN": "The following ferry services are temporarily adjusted on 2 October 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
+                "CONTENT_CN": "以下渡輪服務於2026年10⽉2⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
             }
         },
         "district": null,
-        "last_update": "2026-09-30T00:56:49",
-        "last_announcement": "2026-09-29T20:40:00"
+        "last_update": "2026-10-01T22:31:46",
+        "last_announcement": "2026-10-01T19:50:00"
     },
     "IN-26-07170": {
         "description": {
@@ -388,5 +395,136 @@
         "district": null,
         "last_update": "2026-09-30T13:55:30",
         "last_announcement": "2026-09-30T12:00:00"
+    },
+    "IN-26-07213": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "Entrance/Exit of Hong Kong West Kowloon Station closed",
+            "INCIDENT_DETAIL_CN": "香港西九龍站部分出入口暫時關閉",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-01T18:05:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "147149",
+                "CONTENT_EN": "To facilitate the Police with Crowd Management, Entrance/Exit F at Hong Kong West Kowloon Station is closed. Please use other entrances/exits. High Speed Rail train service remains normal.",
+                "CONTENT_CN": "為配合警方的人潮管制措施，香港西九龍站F出入口暫時關閉，請使用其他出入口。 高速鐵路服務維持正常。"
+            },
+            "2026-10-01T18:21:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "147150",
+                "CONTENT_EN": "To facilitate the Police with Crowd Management, Entrance/Exit F, Sky Corridor and Sightseeing Deck at Hong Kong West Kowloon Station are closed. Please use other entrances/exits. High Speed Rail train service remains normal.",
+                "CONTENT_CN": "為配合警方的人潮管制措施，香港西九龍站F出入口,天空走廊及觀景台暫時關閉，請使用其他出入口。 高速鐵路服務維持正常。"
+            },
+            "2026-10-01T19:09:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "147152",
+                "CONTENT_EN": "To facilitate the Police with Crowd Management, Entrances/ Exits F, N, Sky Corridor and Sightseeing Deck at Hong Kong West Kowloon Station are closed. Please use other entrances/ exits. High Speed Rail train service remains normal.",
+                "CONTENT_CN": "為配合警方的人潮管制措施，香港西九龍站F,N出入口,天空走廊及觀景台暫時關閉，請使用其他出入口。 高速鐵路服務維持正常。"
+            },
+            "2026-10-01T20:30:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "147164",
+                "CONTENT_EN": "To facilitate the Police with Crowd Management, Entrances/ Exits F, N, Sky Corridor and Sightseeing Deck at Hong Kong West Kowloon Station are closed. Please use other entrances/ exits. Entrance/Exit M of Hong Kong West Kowloon Station is reopened. High Speed Rail train service remains normal.",
+                "CONTENT_CN": "為配合警方的人潮管制措施，香港西九龍站F,N出入口,天空走廊及觀景台暫時關閉，請使用其他出入口。 香港西九龍站M 出入口重新開放。 高速鐵路服務維持正常。"
+            },
+            "2026-10-01T20:38:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "147165",
+                "CONTENT_EN": "To facilitate the Police with Crowd Management, Entrance/ Exit N, Sky Corridor and Sightseeing Deck at Hong Kong West Kowloon Station are closed. Please use other entrances/ exits.\n\nEntrances/Exits M and F of Hong Kong West Kowloon Station are reopened.\n\nHigh Speed Rail train service remains normal.",
+                "CONTENT_CN": "為配合警方的人潮管制措施，香港西九龍站N出入口,天空走廊及觀景台暫時關閉，請使用其他出入口。\n\n香港西九龍站M 及F 出入口重新開放。\n\n高速鐵路服務維持正常。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-01T22:31:46",
+        "last_announcement": "2026-10-01T20:38:00"
+    },
+    "IN-26-07214": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-01T18:51:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "147151",
+                "CONTENT_EN": "Transport Department has received notification, due to strong wind and mechanical fault, the following ferry service(s) will be or have been suspended.\nCoral Sea Ferry Service Company Limited\n-Sai Wan Ho to Kwun Tong : sailings at 19:03, 19:33, 20:03, 20:33, 21:03\n-Kwun Tong to Sai Wan Ho : sailings at 18:48, 19:18, 19:48, 20:18, 20:48.",
+                "CONTENT_CN": "運輸署接獲通知，因強風和機件故障，以下渡輪服務將會或已經暫停服務。\n珊瑚海船務有限公司\n-西灣河至觀塘: 19:03, 19:33, 20:03, 20:33, 21:03班次\n-觀塘至西灣河:18:48, 19:18, 19:48, 20:18, 20:48班次。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-01T22:31:46",
+        "last_announcement": "2026-10-01T18:51:00"
+    },
+    "IN-26-07212": {
+        "description": {
+            "INCIDENT_HEADING_EN": "MTR Incident",
+            "INCIDENT_HEADING_CN": "港鐵事故",
+            "INCIDENT_DETAIL_EN": "Entrances/Exits Arrangement at MTR stations",
+            "INCIDENT_DETAIL_CN": "港鐵車站出入口安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-01T21:26:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "147167",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that to facilitate the Police with Crowd Management, the following entrances/exits are temporarily closed.\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nPlease use other entrances/exits.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，為配合警方的人潮管制措施，以下車站出入口暫時關閉。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n請使用其他出入口。"
+            },
+            "2026-10-01T21:40:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "147168",
+                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that to facilitate the Police with Crowd Management, the following entrances/exits are temporarily closed.\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm\nPlease use other entrances/exits.",
+                "CONTENT_CN": "運輸署接獲港鐵公司通知，為配合警方的人潮管制措施，以下車站出入口暫時關閉。\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm\n請使用其他出入口。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-01T22:31:46",
+        "last_announcement": "2026-10-01T21:40:00"
     }
 }
