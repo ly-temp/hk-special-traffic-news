@@ -347,57 +347,25 @@
                 "ID": "147471",
                 "CONTENT_EN": "The following ferry services are temporarily adjusted on 7 October 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
                 "CONTENT_CN": "以下渡輪服務於2026年10⽉7⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
-            }
-        },
-        "district": null,
-        "last_update": "2026-10-06T23:03:34",
-        "last_announcement": "2026-10-06T20:35:00"
-    },
-    "IN-26-07256": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Cross-boundary travel related arrangements / notes for Mainland’s National Day Golden Week holidays",
-            "INCIDENT_DETAIL_CN": "國慶節假期跨境陸路口岸出行的有關安排/注意事項",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-10-03T12:00:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "147267",
-                "CONTENT_EN": "The Transport Department (TD) anticipates that more travellers would return to Hong Kong via land-based Boundary Control Points (BCPs) today (October 3) afternoon and evening, and tomorrow (October 4). The TD appeals to these inbound travellers to plan ahead their journeys and reserve sufficient commuting time. It is anticipated that the demand for public transport services will be higher during the period and the waiting time would increase. The TD has instructed public transport operators to strengthen their services to meet passenger demand. The TD's Emergency Transport Coordination Centre will continue to monitor the traffic and public transport services at all land-based BCPs, and shall disseminate the latest traffic news through the TD's website (www.td.gov.hk) and “HKeMobility”. The public may make use of “HKeMobility” to access the snapshots of traffic conditions of major connecting roads to BCPs and the inbound and outbound vehicle plazas of Hong Kong-Zhuhai-Macao Bridge (HZMB) Hong Kong Port, and they may also check the real time situations of the vehicle clearance plaza of HZMB Zhuhai Port through the WeChat official accounts “hzmbzhport” or “zhuhaifabu” (or visit https://traffic-info.gzazhka.com:5015/#/),inorder to plan their journeys ahead. In addition, according to Zhuhai authority’s notification, temporary traffic arrangement may be implemented in Zhuhai during return peak to facilitate vehicles traveling from Zhuhai city centre to the HZMB Zhuhai Port. For details, please refer to the following link: https://mp.weixin.qq.com/s/OEEKl77NNOHk19Okj9PrPg(Chineseonly).",
-                "CONTENT_CN": "運輸署預料今日（2026年10月3日）下午至傍晚時分及明日（2026年10月4日）將有較多跨境旅客使用陸路口岸回港，運輸署呼籲入境旅客預早妥善規劃行程，預留充裕交通時間。運輸署預計在返港高峰時間的公共運輸需求會較高，乘客候車時間亦會較長。運輸署已指示公共運輸服務營辦商加強服務應付乘客需求。運輸署的緊急交通事故協調中心會繼續監察各陸路口岸的公共運輸服務情況，並會透過運輸署網頁（www.td.gov.hk）及流動應用程式「香港出行易」，發放最新的交通消息。 市民亦可透過「香港出行易」查閱陸路口岸主要連接道路以及港珠澳大橋香港口岸出境及入境客車通關廣場的交通快拍，以及透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務（或前往https://traffic-info.gzazhka.com:5015/#/），查詢大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。 此外，據珠海當局通報，珠海市於回程的繁忙時段或實施臨時交通安排，以便車輛由珠海市內前往大橋珠海口岸，詳情請參閱以下連結:https://mp.weixin.qq.com/s/OEEKl77NNOHk19Okj9PrPg"
             },
-            "2026-10-04T17:37:00": {
+            "2026-10-07T20:30:00": {
                 "INCIDENT_STATUS_EN": "UPDATED",
                 "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "147323",
-                "CONTENT_EN": "The Transport Department (TD) anticipates that more travellers would return to Hong Kong via land-based Boundary Control Points (BCPs) on October 3 afternoon and evening, and on October 4. The TD appeals to these inbound travellers to plan ahead their journeys and reserve sufficient commuting time. It is anticipated that the demand for public transport services will be higher during the period and the waiting time would increase. The TD has instructed public transport operators to strengthen their services to meet passenger demand. The TD's Emergency Transport Coordination Centre will continue to monitor the traffic and public transport services at all land-based BCPs, and shall disseminate the latest traffic news through the TD's website (www.td.gov.hk) and “HKeMobility”. The public may make use of “HKeMobility” to access the snapshots of traffic conditions of major connecting roads to BCPs and the inbound and outbound vehicle plazas of Hong Kong-Zhuhai-Macao Bridge (HZMB) Hong Kong Port, and they may also check the real time situations of the vehicle clearance plaza of HZMB Zhuhai Port through the WeChat official accounts “hzmbzhport” or “zhuhaifabu” (or visit https://traffic-info.gzazhka.com:5015/#/),inorder to plan their journeys ahead. In addition, according to Zhuhai authority’s notification, temporary traffic arrangement may be implemented in Zhuhai during return peak to facilitate vehicles traveling from Zhuhai city centre to the HZMB Zhuhai Port. For details, please refer to the following link: https://mp.weixin.qq.com/s/OEEKl77NNOHk19Okj9PrPg(Chineseonly).",
-                "CONTENT_CN": "運輸署預料2026年10月3日下午至傍晚時分及2026年10月4日將有較多跨境旅客使用陸路口岸回港，運輸署呼籲入境旅客預早妥善規劃行程，預留充裕交通時間。運輸署預計在返港高峰時間的公共運輸需求會較高，乘客候車時間亦會較長。運輸署已指示公共運輸服務營辦商加強服務應付乘客需求。運輸署的緊急交通事故協調中心會繼續監察各陸路口岸的公共運輸服務情況，並會透過運輸署網頁（www.td.gov.hk）及流動應用程式「香港出行易」，發放最新的交通消息。 市民亦可透過「香港出行易」查閱陸路口岸主要連接道路以及港珠澳大橋香港口岸出境及入境客車通關廣場的交通快拍，以及透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務（或前往https://traffic-info.gzazhka.com:5015/#/），查詢大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。 此外，據珠海當局通報，珠海市於回程的繁忙時段或實施臨時交通安排，以便車輛由珠海市內前往大橋珠海口岸，詳情請參閱以下連結:https://mp.weixin.qq.com/s/OEEKl77NNOHk19Okj9PrPg"
+                "ID": "147547",
+                "CONTENT_EN": "The following ferry services are temporarily adjusted on 8 October 2026: Park Island Transport Company Limited 'Ma Wan - Central' Route: - Ma Wan to Central: Sailings departing at 5:00 p.m. and 7:30 p.m. are replaced by bus services (Route NR338S) - Central to Ma Wan: Sailings departing at 5:30 p.m. and 8:00 p.m. are replaced by bus services (Route NR338S) 'Ma Wan - Tsuen Wan' Route: - Ma Wan to Tsuen Wan: Sailing at 8:10 a.m. is cancelled - Tsuen Wan to Ma Wan: Sailing at 8:30 a.m. is cancelled",
+                "CONTENT_CN": "以下渡輪服務於2026年10⽉8⽇作出臨時調整： 珀麗灣客運有限公司 「⾺灣-中環」航線： -⾺灣⾄中環：下午5時及下午7時30分開出的班次由巴⼠服務(路線NR338S)代替營運 -中環⾄⾺灣：下午5時30分及下午8時開出的班次由巴⼠服務(路線NR338S)代替營運 「⾺灣-荃灣」航線： -⾺灣⾄荃灣：取消上午8時10分開出的班次 -荃灣⾄⾺灣：取消上午8時30分開出的班次"
             }
         },
         "district": null,
-        "last_update": "2026-10-04T22:26:01",
-        "last_announcement": "2026-10-04T17:37:00"
+        "last_update": "2026-10-08T00:43:18",
+        "last_announcement": "2026-10-07T20:30:00"
     },
-    "IN-26-07280": {
+    "IN-26-07361": {
         "description": {
-            "INCIDENT_HEADING_EN": "Rainstorm Incident",
-            "INCIDENT_HEADING_CN": "暴雨事故",
-            "INCIDENT_DETAIL_EN": "Amber Rainstorm Warning Signal",
-            "INCIDENT_DETAIL_CN": "黃色暴雨警告信號",
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Hong Kong Cyclothon (11 Oct (Sun)) - Road Closures in New Territories and Kowloon",
+            "INCIDENT_DETAIL_CN": "香港單車節（十月十一日（星期日））- 新界區及九龍區封路",
             "LOCATION_EN": null,
             "LOCATION_CN": null,
             "DISTRICT_EN": null,
@@ -412,16 +380,144 @@
             "LONGITUDE": null
         },
         "message": {
-            "2026-10-04T20:20:00": {
+            "2026-10-07T17:37:00": {
                 "INCIDENT_STATUS_EN": "NEW",
                 "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "147327",
-                "CONTENT_EN": "Amber Rainstorm Warning Signal is in force. Due to wet weather and slippery roads, Transport Department appeals motorists and the commuters to: i. plan the journey in advance; ii. allow more traveling time; iii. drive with extra care and patience; and iv. take heed of traffic situation particularly at busy junctions with obstructive views.",
-                "CONTENT_CN": "黃色暴雨警告信號現已生效，天雨路滑，運輸署呼籲駕駛人士及乘客須: i.提早計劃行程路線； ii.預留充裕時間出門； iii.小心駕駛及保持忍讓；及 iv.留意交通情況，特别在視線受阻的繁忙路口。"
+                "ID": "147525",
+                "CONTENT_EN": "Hong Kong Cyclothon (11 Oct (Sun)) - Road Closures in New Territories and Kowloon\n\nSpecial traffic and transport arrangements will be implemented in phases at various locations in the New Territories South, Kowloon West, West Kowloon Cultural District and the Central Kowloon Bypass (Yau Ma Tei Section) from 1am Sunday (11 October) to facilitate the holding of the 2026 Hong Kong Cyclothon.\n\nMotorists should pay particular attention to the road closures and public transport arrangements at the Lantau Link, Ting Kau Bridge, Cheung Tsing Tunnel, Stonecutters Bridge, Eagle's Nest Tunnel, Sha Tin Heights Tunnel, West Kowloon Highway and Central Kowloon Bypass (Yau Ma Tei Section) on that day. Due to extensive road closures, the TD anticipates that traffic will be very congested. Motorists are advised to avoid driving to the affected/congested areas unless absolutely necessary and should exercise restraint and patience in case of traffic congestion and follow instructions by the Police.\n\nDuring the event, the road closures will not affect vehicles from Hong Kong Island/Kowloon/the New Territories East heading for the airport and Lantau Island. Due to the closure of Ting Kau Bridge (Kowloon bound), motorists travelling from the New Territories West to the Airport and Lantau Island via Tuen Mun Road or Tai Lam Tunnel will be diverted to use Tsuen Wan Road, Tsuen Tsing Interchange, Tsing Tsuen Road, Tsing Tsuen Bridge, Tam Kong Shan Interchange and Tsing Yi North Coastal Road heading for Tsing Ma Bridge.\n\nBoth traffic bounds of Western Harbour Crossing will remain in normal operation. Due to the closure of the West Kowloon Highway (Western Harbour Crossing bound), motorists traveling from New Territories West or Kowloon West to Hong Kong Island will be diverted via the slip road of Lin Cheung Road (northbound) near the Civil Aid Service Headquarters heading for the Western Harbour Crossing.\n\nFor details of road closure on the event day, please refer to the Transport Department Notice:\n(https://www.td.gov.hk/en/traffic_notices/index_id_89116.html).",
+                "CONTENT_CN": "香港單車節（十月十一日（星期日））-新界區及九龍區封路\n\n為配合舉行二○二六香港單車節，新界南、九龍西、西九文化區及中九龍繞道（油麻地段）多處在周日（十月十一日）凌晨一時起分階段實施特別交通及運輸安排。\n\n駕駛人士請特別留意活動當日在青嶼幹線、汀九橋、長青隧道、昂船洲大橋、尖山隧道、沙田嶺隧道、西九龍公路及中九龍繞道（油麻地段）的封路安排。運輸署預計大範圍封路將會令交通非常擠塞，駕駛人士如非必要，請不要駕車前往受影響的地區。如遇交通受阻，駕車人士請保持忍讓，並遵從警方的指示。\n\n封路安排將不會影響由港島／九龍／新界東前往機場及大嶼山的車輛。至於由新界西經屯門公路或大欖隧道前往機場及大嶼山的車輛，由於受到汀九橋（九龍方向）封閉的影響，需改經荃灣路、荃青交匯處、青荃路、青荃橋、担杆山交匯處及青衣北岸公路前往青馬大橋。\n\n西區海底隧道（來回方向）亦將維持正常行車。至於由新界西或九龍西前往港島的車輛，受西九龍公路（往西區海底隧道方向）封閉影響，需改經連翔道（北行）近民眾安全服務隊總部的支路前往西區海底隧道。\n\n有關活動當日封路的詳細資料，請參閱運輸署公告：\n（https://www.td.gov.hk/tc/traffic_notices/index_id_89116.html）。"
             }
         },
         "district": null,
-        "last_update": "2026-10-04T22:26:01",
-        "last_announcement": "2026-10-04T20:20:00"
+        "last_update": "2026-10-08T00:43:18",
+        "last_announcement": "2026-10-07T17:37:00"
+    },
+    "IN-26-07365": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Hong Kong Cyclothon (11 Oct (Sun)) - Points to Note for Departing Travellers",
+            "INCIDENT_DETAIL_CN": "香港單車節（十月十一日（星期日））- 離境旅客注意事項",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-07T17:48:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "147528",
+                "CONTENT_EN": "Hong Kong Cyclothon (11 Oct (Sun)) - Points to Note for Departing Travellers\n\nTo facilitate the holding of the Hong Kong Cyclothon on 11 October (Sunday), road closure will be implemented in phases at various locations in New Territories South, Kowloon West, West Kowloon Cultural District and the Central Kowloon Bypass (Yau Ma Tei Section) from 1am on the event day.\n\nOn the event day, journey time of bus services from Airport to Urban/New Territories Areas will be increased, it may affect the stability of the bus services from Urban/New Territories Areas back to Airport. Travellers should allow more travelling time for their journey to/from Airport and Urban/New Territories.\n\nTravellers going to the Airport Express Line Kowloon Station and Hong Kong West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link are advised to plan their journey early to avoid any delay caused by road closures and traffic diversions.\n\nFor details of road closure on the event day, please refer to the Transport Department Notice:\n(https://www.td.gov.hk/en/traffic_notices/index_id_89116.html).",
+                "CONTENT_CN": "香港單車節（十月十一日（星期日））- 離境旅客注意事項\n\n為配合十月十一日（星期日）舉行香港單車節，新界南、九龍西、西九文化區及中九龍繞道（油麻地段）多處，將於活動當日凌晨一時起分階段實施封路安排。\n\n在活動當日，由機場開出往市區／新界的巴士服務的行車時間將會增加，繼而使由市區／新界開出返回機場的巴士服務可能出現不穩定的情況。因此，活動當日往返機場與市區／新界的旅客應預留額外的行程時間。\n\n旅客如需前往機場快綫九龍站及廣深港高速鐵路香港西九龍站，請預早計劃行程，避免因交通改道或封路而延誤行程。\n\n有關活動當日封路的詳細資料，請參閱運輸署公告：\n（https://www.td.gov.hk/tc/traffic_notices/index_id_89116.html）。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-08T00:43:18",
+        "last_announcement": "2026-10-07T17:48:00"
+    },
+    "IN-26-07366": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Hong Kong Cyclothon (11 Oct (Sun)) - Traffic diversion from New Territories West to Airport and Lantau Island",
+            "INCIDENT_DETAIL_CN": "香港單車節（十月十一日（星期日））- 由新界西前往機場及大嶼山的交通改道安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-07T17:56:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "147529",
+                "CONTENT_EN": "Hong Kong Cyclothon (11 Oct (Sun)) - Traffic diversion from New Territories West to Airport and Lantau Island\n\nTo facilitate the holding of the Hong Kong Cyclothon on 11 October (Sunday), Ting Kau Bridge (Kowloon bound) will be closed from 1am on the event day.\n\nAffected by the above road closure, motorists travelling from the New Territories West to the Airport and Lantau Island via Tuen Mun Road or Tai Lam Tunnel will be diverted to use Tsuen Wan Road, Tsuen Tsing Interchange, Tsing Tsuen Road, Tsing Tsuen Bridge, Tam Kong Shan Interchange and Tsing Yi North Coastal Road heading for Tsing Ma Bridge.\n\nTravellers going to the Airport should plan their journeys early to avoid unexpected delays.\n\nFor details of road closure on the event day, please refer to the Transport Department Notice: (https://www.td.gov.hk/en/traffic_notices/index_id_89116.html).",
+                "CONTENT_CN": "香港單車節（十月十一日（星期日））-由新界西前往機場及大嶼山的交通改道安排\n\n為配合十月十一日（星期日）舉行香港單車節，汀九橋（往九龍方向），將於活動當日凌晨一時起封閉。\n\n受上述封路影響，由新界西經屯門公路或大欖隧道前往機場及大嶼山的車輛，由於受到汀九橋（九龍方向）封閉的影響，則需改經荃灣路、荃青交匯處、青荃路、青荃橋、担杆山交匯處及青衣北岸公路前往青馬大橋。\n\n旅客如需前往機場，請預早計劃行程，避免因交通改道或封路而延誤行程。\n\n有關活動當日封路的詳細資料，請參閱運輸署公告：\n（https://www.td.gov.hk/tc/traffic_notices/index_id_89116.html）。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-08T00:43:18",
+        "last_announcement": "2026-10-07T17:56:00"
+    },
+    "IN-26-07367": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Hong Kong Cyclothon (11 Oct (Sun)) - Traffic diversion on the Central Kowloon Bypass (Yau Ma Tei Section)",
+            "INCIDENT_DETAIL_CN": "香港單車節（十月十一日（星期日）- 中九龍繞道（油麻地段）的交通改道安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-07T18:15:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "147532",
+                "CONTENT_EN": "Hong Kong Cyclothon (11 Oct (Sun)) - Traffic diversion on the Central Kowloon Bypass (Yau Ma Tei Section)\n\nTo facilitate the holding of the Hong Kong Cyclothon on 11 October (Sunday), the Central Kowloon Bypass (Yau Ma Tei Section) will be closed in phases from 2am on the event day.\n\nKowloon Bay Bound:\n• The Kowloon Bay bound tube will be temporarily closed from 2am on that day;\n• vehicles from the New Territories West to Kowloon East will be diverted via Ching Cheung Road and Lung Cheung Road; and\n• vehicles from Kowloon West via Lin Cheung Road to Kowloon East will be diverted via Lai Cheung Road, Gascoigne Road flyover, Chatham Road North and East Kowloon Corridor heading for Kai Tak Tunnel.\n\nYau Ma Tei bound:\n• The Yau Ma Tei bound tube will also be temporarily closed from 7am on that day; and\n• vehicles from Kowloon East to Kowloon West or the New Territories West will be diverted via Kai Tak Tunnel, East Kowloon Corridor, Chatham Road North and Gascoigne Road flyover heading for Ferry Street or the West Kowloon Corridor.\n\nBoth bounds tubes of the Central Kowloon Bypass (Yau Ma Tei Section) will be reopened at around 1.15pm.\n\nFor details of road closure on the event day, please refer to the Transport Department Notice:\n(https://www.td.gov.hk/tc/traffic_notices/index_id_89116.html).",
+                "CONTENT_CN": "香港單車節（十月十一日（星期日）-中九龍繞道（油麻地段）的交通改道安排\n\n為配合十月十一日（星期日）舉行香港單車節，中九龍繞道（油麻地段）將於活動當日凌晨兩時起分階段封閉。\n\n往九龍灣方向：\n•往九龍灣方向的管道將於當日凌晨二時起臨時封閉；\n•由新界西前往九龍東的車輛需改經呈祥道及龍翔道；及\n•由九龍西經連翔道前往九龍東的車輛則需改經麗翔道、加士居道天橋、漆咸道北及東九龍走廊前往啟德隧道。\n\n往油麻地方向：\n•往油麻地方向的管道亦將於當日上午七時起臨時封閉；及\n•由九龍東前往九龍西或新界西的車輛需改經啟德隧道、東九龍走廊、漆咸道北及加士居道天橋前往渡船街或西九龍走廊。\n\n中九龍繞道（油麻地段）雙向行車管道將會在下午約一時十五分重開。\n\n有關活動當日封路的詳細資料，請參閱運輸署公告：\n（https://www.td.gov.hk/tc/traffic_notices/index_id_89116.html）。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-08T00:43:18",
+        "last_announcement": "2026-10-07T18:15:00"
+    },
+    "IN-26-07375": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Hong Kong Cyclothon (11 Oct (Sun)) – Special Traffic and Transport Arrangements in the West Kowloon Cultural District",
+            "INCIDENT_DETAIL_CN": "香港單車節（十月十一日（星期日）- 西九文化區特別交通及運輸安排",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-07T19:40:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "147544",
+                "CONTENT_EN": "Hong Kong Cyclothon (11 Oct (Sun)) – Special Traffic and Transport Arrangements in the West Kowloon Cultural District\n\nTo facilitate the holding of the Hong Kong Cyclothon on 11 October (Sunday), Museum Drive and Cultural Drive in the West Kowloon Cultural District (WKCD) will be closed from 1am on the event day.\n\nBus stops, GMB stops, taxi stands (including taxi pick-up/drop-off points), fleet taxi stopping places and private carparks within the WKCD will be suspended until the roads reopen at around 1.15pm.\n\nMembers of the public and visitors heading for the WKCD are advised to use public transport services in the vicinity (such as railway, franchised bus, GMB and \"water taxi\" \"Central - West Kowloon\" route services).\n\nFor details of road closure on the event day, please refer to the Transport Department Notice:\n(https://www.td.gov.hk/tc/traffic_notices/index_id_89116.html).",
+                "CONTENT_CN": "香港單車節（十月十一日（星期日）-西九文化區特別交通及運輸安排\n\n為配合十月十一日（星期日）舉行香港單車節，西九文化區內的博物館道及文化道將於活動當日凌晨一時分起封閉。\n\n所有位於西九文化區內的巴士站、專線小巴站、的士站（包括的士上落客點）、車隊的士停車處及私人停車場亦將會暫停使用，直至道路在下午約一時十五分重開為止。\n\n前往西九文化區的市民及旅客可使用附近的公共運輸服務（例如鐵路、專營巴士、專線小巴及水上的士「中環—西九龍」航線）。\n\n有關活動當日封路的詳細資料，請參閱運輸署公告：\n（https://www.td.gov.hk/tc/traffic_notices/index_id_89116.html）。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-08T00:43:18",
+        "last_announcement": "2026-10-07T19:40:00"
     }
 }
