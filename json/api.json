@@ -388,73 +388,6 @@
         "last_update": "2026-10-14T02:29:06",
         "last_announcement": "2026-10-13T20:31:00"
     },
-    "PE-26-00017": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Event",
-            "INCIDENT_HEADING_CN": "活動",
-            "INCIDENT_DETAIL_EN": "2026 Hong Kong Cyclothon",
-            "INCIDENT_DETAIL_CN": "2026 Hong Kong Cyclothon",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-10-11T00:55:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "147720",
-                "CONTENT_EN": "To facilitate the “Hong Kong Cyclothon” today, road closure and traffic diversions will be implemented starting from 1:00 a.m. in phases on various road sections in New Territories South, Kowloon West, West Kowloon Cultural District (WKCD) and the Central Kowloon Bypass (Yau Ma Tei Section), with major closed roads include:\n\nNew Territories: Upper Deck of Lantau Link (Kowloon-bound), Ting Kau Bridge (Kowloon-bound), Cheung Tsing Highway (southbound), Cheung Tsing Tunnel (southbound), Tsing Kwai Highway (southbound), Nam Wan Tunnel (southbound), Stonecutters Bridge (southbound), Eagle’s Nest Tunnel (Shatin-bound) and Sha Tin Heights Tunnel (Shatin-bound).\n\nKowloon: West Kowloon Highway (southbound), Lin Cheung Road (southbound), Jordan Road (eastbound), Nga Cheung Road (northbound), the Central Kowloon Bypass (Yau Ma Tei Section) and WKCD (Museum Drive and Cultural Drive).\n\nThe vehicular traffic on both bounds of Western Harbour Crossing and from Kowloon or New Territories East via Route 3 or Route 8 to the Airport, Lantau, Ma Wan and New Territories West will remain normal.\n\nDuring the road closures, 120 franchised bus routes and seven green minibus routes will be affected and subject to diversion, truncation or relocation of stops in phases. In addition, taxi stands (including taxi pick-up/drop-off points), fleet taxi stopping places, private carparks and roadside parking spaces within the closed roads will also be suspended.\n\nThe traffic in the affected areas and the major roads in the vicinity will become significantly congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. In case of traffic congestion, motorists should exercise patience and follow the instruction of the Police on site. When going to the aforesaid areas, the public should plan their journeys early and allow sufficient traveling time to avoid unexpected delay, use railway services as far as possible, and stay alert to the latest traffic news through the media.\n\nMembers of the public are advised to pay attention to radio/ TV announcements on the latest traffic news.",
-                "CONTENT_CN": "為配合今日舉行「香港單車節」，新界南、九龍西、西九文化區及中九龍繞道(油麻地段)多處路段將於上午1時起分階段實施封路及交通改道措施，主要封閉路段包括：\n\n新界區：青嶼幹線上層(九龍方向)、汀九橋(九龍方向)、長青公路(南行)、長青隧道(南行)、青葵公路(南行)、南灣隧道(南行)、昂船洲大橋(南行)、尖山隧道(沙田方向)及沙田嶺隧道(沙田方向)。\n\n九龍區：西九龍公路(南行)、連翔道(南行)、佐敦道(東行)、雅翔道(北行)、中九龍繞道(油麻地段)及西九文化區(博物館道及文化道)。\n\n西區海底隧道來回方向及由九龍/新界東經3號幹線或8號幹線前往機場、大嶼山、馬灣及新界西等地的行車將維持正常。\n\n封路期間，合共120條專營巴士路線及七條專線小巴路線需要分階段實施改道、縮短路線或遷站。此外，位於封路範圍內的的士站(包括的士上落客點)、車隊的士停車處、私人停車場及路旁停車位亦將暫停使用。\n\n在受影響地區及附近的主要道路的交通將會較平常的星期日顯著擠塞。駕駛人士請避免駕車前往受影響的地區。如遇交通擠塞時，駕車人士請保持忍讓，並遵從在場警方的指示。市民如前往受影響地區，請提早計劃行程及預留額外的行程時間以免延誤，盡量使用鐵路服務，並留意傳媒廣播的最新交通消息。"
-            },
-            "2026-10-11T02:15:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "147722",
-                "CONTENT_EN": "To facilitate the “Hong Kong Cyclothon” today, road closure and traffic diversions have been implemented on various road sections in New Territories South, Kowloon West, West Kowloon Cultural District (WKCD) and the Central Kowloon Bypass (Yau Ma Tei Section), with major closed roads include:\n\nNew Territories: Upper Deck of Lantau Link (Kowloon-bound), Ting Kau Bridge (Kowloon-bound), Cheung Tsing Highway (southbound), Cheung Tsing Tunnel (southbound), Tsing Kwai Highway (southbound), Nam Wan Tunnel (southbound), Stonecutters Bridge (southbound), Eagle’s Nest Tunnel (Shatin-bound) and Sha Tin Heights Tunnel (Shatin-bound).\n\nKowloon: West Kowloon Highway (southbound), Lin Cheung Road (southbound), Jordan Road (eastbound), Nga Cheung Road (northbound), the Central Kowloon Bypass (Yau Ma Tei Section)(Kowloon Bay-bound) and WKCD (Museum Drive and Cultural Drive).\n\nThe Kowloon Bay-bound tube of the Central Kowloon Bypass (Yau Ma Tei Section) has been closed. Vehicles from the New Territories West to Kowloon East will be diverted via Ching Cheung Road and Lung Cheung Road, while vehicles from Kowloon West via Lin Cheung Road to Kowloon East will be diverted via Lai Cheung Road, Gascoigne Road flyover, Chatham Road North and East Kowloon Corridor heading for Kai Tak Tunnel.\n\nThere are 29 bus routes and 1 green minibus route currently being diverted, truncated or relocated on their stops. In addition, taxi stands (including taxi pick-up/drop-off points), fleet taxi stopping places, private carparks and roadside parking spaces within the closed roads will also be suspended.\n\nThe traffic in the affected areas and the major roads in the vicinity will become significantly congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. In case of traffic congestion, motorists should exercise patience and follow the instruction of the Police on site. When going to the aforesaid areas, the public should plan their journeys early and allow sufficient traveling time to avoid unexpected delay, use railway services as far as possible, and stay alert to the latest traffic news through the media.\n\nMembers of the public are advised to pay attention to radio/ TV announcements on the latest traffic news.",
-                "CONTENT_CN": "為配合今日舉行「香港單車節」，新界南、九龍西、西九文化區及中九龍繞道(油麻地段)多處路段，現正實施封路及交通改道措施，主要封閉路段包括：\n\n新界區：青嶼幹線上層(九龍方向)、汀九橋(九龍方向)、長青公路(南行)、長青隧道(南行)、青葵公路(南行)、南灣隧道(南行)、昂船洲大橋(南行)、尖山隧道(沙田方向)及沙田嶺隧道(沙田方向)。\n\n九龍區：西九龍公路(南行)、連翔道(南行)、佐敦道(東行)、雅翔道(北行)、中九龍繞道(油麻地段)(九龍灣方向)及西九文化區(博物館道及文化道)。\n\n中九龍繞道(油麻地段)往九龍灣方向的行車管道已經封閉。由新界西前往九龍東的車輛需改經呈祥道及龍翔道，而九龍西經連翔道前往九龍東的車輛則需改經麗翔道、加士居道天橋、漆咸道北及東九龍走廊前往啟德隧道。\n\n現時，29條巴士路線及1條專線小巴路線正實施改道、縮短路線或遷站安排。此外，位於封路範圍內的的士站(包括的士上落客點)、車隊的士停車處、私人停車場及路旁停車位亦將暫停使用。\n\n在受影響地區及附近的主要道路的交通將會較平常的星期日顯著擠塞。駕駛人士請避免駕車前往受影響的地區。如遇交通擠塞時，駕車人士請保持忍讓，並遵從在場警方的指示。市民如前往受影響地區，請提早計劃行程及預留額外的行程時間以免延誤，盡量使用鐵路服務，並留意傳媒廣播的最新交通消息。"
-            },
-            "2026-10-11T07:00:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "147725",
-                "CONTENT_EN": "To facilitate the “Hong Kong Cyclothon” today, road closure and traffic diversions have been implemented on various road sections in New Territories South, Kowloon West, West Kowloon Cultural District (WKCD) and the Central Kowloon Bypass (Yau Ma Tei Section), with major closed roads include:\n\nNew Territories: Upper Deck of Lantau Link (Kowloon-bound), Ting Kau Bridge (Kowloon-bound), Cheung Tsing Highway (southbound), Cheung Tsing Tunnel (southbound), Tsing Kwai Highway (southbound), Nam Wan Tunnel (southbound), Stonecutters Bridge (southbound), Eagle’s Nest Tunnel (Shatin-bound) and Sha Tin Heights Tunnel (Shatin-bound).\n\nKowloon: West Kowloon Highway (southbound), Lin Cheung Road (southbound), Jordan Road (eastbound), Nga Cheung Road (northbound), the Central Kowloon Bypass (Yau Ma Tei Section) and WKCD (Museum Drive and Cultural Drive).\n\nThere are 91 bus routes and 6 green minibus routes currently being diverted, truncated or relocated on their stops. In addition, taxi stands (including taxi pick-up/drop-off points), fleet taxi stopping places, private carparks and roadside parking spaces within the closed roads will also be suspended.\n\nThe traffic in the affected areas and the major roads in the vicinity will become significantly congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. In case of traffic congestion, motorists should exercise patience and follow the instruction of the Police on site. When going to the aforesaid areas, the public should plan their journeys early and allow sufficient traveling time to avoid unexpected delay, use railway services as far as possible, and stay alert to the latest traffic news through the media.\n\nMembers of the public are advised to pay attention to radio/ TV announcements on the latest traffic news.",
-                "CONTENT_CN": "為配合今日舉行「香港單車節」，新界南、九龍西、西九文化區及中九龍繞道(油麻地段)多處路段，現正實施封路及交通改道措施，主要封閉路段包括：\n\n新界區：青嶼幹線上層(九龍方向)、汀九橋(九龍方向)、長青公路(南行)、長青隧道(南行)、青葵公路(南行)、南灣隧道(南行)、昂船洲大橋(南行)、尖山隧道(沙田方向)及沙田嶺隧道(沙田方向)。\n\n九龍區：西九龍公路(南行)、連翔道(南行)、佐敦道(東行)、雅翔道(北行)、中九龍繞道(油麻地段)及西九文化區(博物館道及文化道)。\n\n現時，91條巴士路線及6條專線小巴路線正實施改道、縮短路線或遷站安排。此外，位於封路範圍內的的士站(包括的士上落客點)、車隊的士停車處、私人停車場及路旁停車位亦將暫停使用。\n\n在受影響地區及附近的主要道路的交通將會較平常的星期日顯著擠塞。駕駛人士請避免駕車前往受影響的地區。如遇交通擠塞時，駕車人士請保持忍讓，並遵從在場警方的指示。市民如前往受影響地區，請提早計劃行程及預留額外的行程時間以免延誤，盡量使用鐵路服務，並留意傳媒廣播的最新交通消息。"
-            },
-            "2026-10-11T09:30:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "147736",
-                "CONTENT_EN": "Several closed roads for the “Hong Kong Cyclothon” including Upper Deck of Lantau Link (Kowloon-bound), Eagle’s Nest Tunnel (Shatin-bound) and Sha Tin Heights Tunnel (Shatin-bound) have been re-opened to traffic.\n\nRoad Closure\n\nVarious road sections in New Territories South, Kowloon West, West Kowloon Cultural District (WKCD) and the Central Kowloon Bypass (Yau Ma Tei Section) remain closed, with major closed roads include:\n\nNew Territories: Ting Kau Bridge (Kowloon-bound), Cheung Tsing Highway (southbound), Cheung Tsing Tunnel (southbound), Tsing Kwai Highway (southbound), Nam Wan Tunnel (southbound) and Stonecutters Bridge (southbound).\n\nKowloon: West Kowloon Highway (southbound), Lin Cheung Road (southbound), Jordan Road (eastbound), Nga Cheung Road (northbound), the Central Kowloon Bypass (Yau Ma Tei Section) and WKCD (Museum Drive and Cultural Drive).\n\nThere are 79 bus routes and 6 green minibus routes currently being diverted, truncated or relocated on their stops. In addition, taxi stands (including taxi pick-up/drop-off points), fleet taxi stopping places, private carparks and roadside parking spaces within the closed roads will also be suspended.\n\nHeading for the WKCD\n\nBus stops, GMB stops, taxi stands (including taxi pick-up/drop-off points), fleet taxi stopping places and private carparks within the WKCD will be suspended until the roads reopen at around 1.15pm. Members of the public heading for the WKCD are advised to use public transport services in the vicinity (such as railway, franchised bus, GMB and \"water taxi\" \"Central - West Kowloon\" route services).\n\nThe traffic in the affected areas and the major roads in the vicinity will become significantly congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. In case of traffic congestion, motorists should exercise patience and follow the instruction of the Police on site. When going to the aforesaid areas, the public should plan their journeys early and allow sufficient travelling time to avoid unexpected delay, use railway services as far as possible, and stay alert to the latest traffic news through the media.\n\nMembers of the public are advised to pay attention to radio/ TV announcements on the latest traffic news.",
-                "CONTENT_CN": "因應「香港單車節」早前封閉的青嶼幹線上層(九龍方向)、尖山隧道(沙田方向)及沙田嶺隧道(沙田方向)已經重開。\n\n道路封閉\n\n位於新界南、九龍西、西九文化區及中九龍繞道(油麻地段)多處路段現時仍然封閉，主要路段包括：\n\n新界區：汀九橋(九龍方向)、長青公路(南行)、長青隧道(南行)、青葵公路(南行)、南灣隧道(南行)及昂船洲大橋(南行)。\n\n九龍區：西九龍公路(南行)、連翔道(南行)、佐敦道(東行)、雅翔道(北行)、中九龍繞道(油麻地段)及西九文化區(博物館道及文化道)。\n\n現時，79條巴士路線及6條專線小巴路線正實施改道、縮短路線或遷站安排。此外，位於封路範圍內的的士站(包括的士上落客點)、車隊的士停車處、私人停車場及路旁停車位亦將暫停使用。\n\n前往西九文化區\n\n所有位於西九文化區內的巴士站、專線小巴站、的士站（包括的士上落客點）、車隊的士停車處及私人停車場已暫停使用，直至道路在下午約一時十五分重開為止。前往西九文化區的市民可使用附近的公共運輸服務（例如鐵路、專營巴士、專線小巴及水上的士「中環—西九龍」航線）。\n\n\n在受影響地區及附近的主要道路的交通將會較平常的星期日顯著擠塞。駕駛人士請避免駕車前往受影響的地區。如遇交通擠塞時，駕車人士請保持忍讓，並遵從在場警方的指示。市民如前往受影響地區，請提早計劃行程及預留額外的行程時間以免延誤，盡量使用鐵路服務，並留意傳媒廣播的最新交通消息。"
-            },
-            "2026-10-11T12:45:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "147750",
-                "CONTENT_EN": "Several closed roads for the “Hong Kong Cyclothon”, including West Kowloon Highway (southbound) and all affected road sections in New Territories South have been re-opened to traffic.\n\nOther closed road sections in Kowloon West, including Lin Cheung Road (southbound), Jordan Road (eastbound), Nga Cheung Road (northbound), the Central Kowloon Bypass (Yau Ma Tei Section) and WKCD (Museum Drive and Cultural Drive) remain closed.\n\nThere are 25 bus routes and 4 green minibus routes currently being diverted, truncated or relocated on their stops. In addition, taxi stands (including taxi pick-up/drop-off points), fleet taxi stopping places, private carparks and roadside parking spaces within the closed roads will also be suspended.\n\nHeading for the WKCD\n\nBus stops, GMB stops, taxi stands (including taxi pick-up/drop-off points), fleet taxi stopping places and private carparks within the WKCD will be suspended until the roads reopen at around 1.15pm. Members of the public heading for the WKCD are advised to use public transport services in the vicinity (such as railway, franchised bus, GMB and \"water taxi\" \"Central - West Kowloon\" route services).\n\nThe traffic in the affected areas and the major roads in the vicinity will become significantly more congested than normal Sundays. Motorists are advised to avoid driving to the affected areas. In case of traffic congestion, motorists should exercise patience and follow the instruction of the Police on site. When going to the aforesaid areas, the public should plan their journeys early and allow sufficient travelling time to avoid unexpected delay, use railway services as far as possible, and stay alert to the latest traffic news through the media.\n\nMembers of the public are advised to pay attention to radio/ TV announcements on the latest traffic news.",
-                "CONTENT_CN": "因應「香港單車節」早前封閉的西九龍公路(南行)，以及所有新界南的受影響道路已經重開。\n\n其他在九龍西的封閉路段，包括連翔道(南行)、佐敦道(東行)、雅翔道(北行)、中九龍繞道(油麻地段)及西九文化區(博物館道及文化道)，現時仍然封閉。\n\n現時，25條巴士路線及4條專線小巴路線正實施改道、縮短路線或遷站安排。此外，位於封路範圍內的的士站(包括的士上落客點)、車隊的士停車處、私人停車場及路旁停車位亦將暫停使用。\n\n前往西九文化區\n\n所有位於西九文化區內的巴士站、專線小巴站、的士站（包括的士上落客點）、車隊的士停車處及私人停車場已暫停使用，直至道路在下午約一時十五分重開為止。前往西九文化區的市民可使用附近的公共運輸服務（例如鐵路、專營巴士、專線小巴及水上的士「中環—西九龍」航線）。\n\n在受影響地區及附近的主要道路的交通將會較平常的星期日顯著擠塞。駕駛人士請避免駕車前往受影響的地區。如遇交通擠塞時，駕車人士請保持忍讓，並遵從在場警方的指示。市民如前往受影響地區，請提早計劃行程及預留額外的行程時間以免延誤，盡量使用鐵路服務，並留意傳媒廣播的最新交通消息。"
-            },
-            "2026-10-11T13:35:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "147753",
-                "CONTENT_EN": "In connection to the “Hong Kong Cyclothon”, the previously closed roads in New Territories South, Kowloon West, West Kowloon Cultural District (WKCD) and the Central Kowloon Bypass (Yau Ma Tei Section) are now re-opened for traffic, and all the affected public transport services have been resumed normal. Members of the public are advised to pay attention to radio/ TV announcements on the latest traffic news.",
-                "CONTENT_CN": "因應「香港單車節」早前封閉的新界南、九龍西、西九文化區及中九龍繞道(油麻地段)道路，現已全部解封，而所有受影響的公共交通服務亦已回復正常。 市民請留意電台/電視廣播的最新交通消息。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-10-11T15:03:15",
-        "last_announcement": "2026-10-11T13:35:00"
-    },
     "IN-26-07462": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
@@ -518,5 +451,37 @@
         "district": null,
         "last_update": "2026-10-14T14:46:33",
         "last_announcement": "2026-10-14T11:36:00"
+    },
+    "IN-26-07525": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds temporary train trips",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-14T15:25:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "147916",
+                "CONTENT_EN": "In response to the demand, the High Speed Rail (Hong Kong Section) will add the following\ntemporary train trips:\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station\n15 October: G9771\n\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station\n16 October: G5679\n17 October: G9771\n\nFrom Futian Station to Hong Kong West Kowloon Station\n16 October: G5865\n17 October: G5833, G5835, G5837, G5841, G5843, G5845, G5847, G5849, G5851, G5853, G5855, G5867\n18, 19 October: G5833, G5835, G5837, G5841, G5843, G5845, G5847, G5849, G5853, G5855\n\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station\n16 October: G5680\n19 October: G9772, G9774\n\nFrom Hong Kong West Kowloon Station to Futian Station\n16 October: G5866\n17 October: G5834, G5836, G5838, G5842, G5844, G5846, G5848, G5850, G5852, G5854, G5856, G5868\n18, 19 October: G5836, G5838, G5840, G5844, G5846, G5848, G5850, G5852, G5856, G5868\n\nTickets are available for purchase through the 12306 official website (12306.cn) or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station.\n\nFor train schedules, please refer to the 12306 official website (12306.cn) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "配合客運需求，高速鐵路(香港段)將加開以下臨時列車車次：\n\n由廣州南站前往香港西九龍站\n10月15日：G9771\n\n由深圳北站前往香港西九龍站\n10月16日：G5679\n10月17日：G9771\n\n由福田站前往香港西九龍站\n10月16日：G5865\n10月17日：G5833,G5835,G5837,G5841,G5843,G5845,G5847,G5849,G5851,G5853,G5855,G5867\n10月18-19日：G5833,G5835,G5837,G5841,G5843,G5845,G5847,G5849,G5853,G5855\n\n由香港西九龍站前往深圳北站\n10月16日：G5680\n10月19日：G9772,G9774\n\n由香港西九龍站前往福田站\n10月16日：G5866\n10月17日：G5834,G5836,G5838,G5842,G5844,G5846,G5848,G5850,G5852,G5854,G5856,G5868\n10月18-19日：G5836,G5838,G5840,G5844,G5846,G5848,G5850,G5852,G5856,G5868\n\n你可透過12306官方網站(12306.cn)或手機應用程式、指定代理或前往香港西九龍站購買列車車票。\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-14T20:28:33",
+        "last_announcement": "2026-10-14T15:25:00"
     }
 }
