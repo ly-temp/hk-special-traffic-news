@@ -402,38 +402,6 @@
         "last_update": "2026-10-16T01:00:03",
         "last_announcement": "2026-10-15T20:20:00"
     },
-    "IN-26-07517": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "mechanical fault",
-            "INCIDENT_DETAIL_CN": "機件故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-10-14T11:36:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "147899",
-                "CONTENT_EN": "Due to mechanical fault, the following ferry service is suspended.\nTsui Wah Ferry Service (H.K.) Limited\n-Tap Mun to Wong Shek : suspended at 11:45 am ;\n-Wong Shek to Tap Mun : suspended at 12:30 pm ;\n\n-Tap Mun to Wong Shek: resume normal from 1:45 pm\n.",
-                "CONTENT_CN": "因機件故障，以下渡輪服務暫停。\n翠華船務（香港）有限公司\n-塔門至黃石:上午11時45分暫停;\n-黃石至塔門:下午12時30分暫停;\n\n-塔門至黃石:下午1:45 恢復正常\n。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-10-14T14:46:33",
-        "last_announcement": "2026-10-14T11:36:00"
-    },
     "IN-26-07525": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
