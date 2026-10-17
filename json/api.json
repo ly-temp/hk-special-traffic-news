@@ -402,38 +402,6 @@
         "last_update": "2026-10-16T01:00:03",
         "last_announcement": "2026-10-15T20:20:00"
     },
-    "IN-26-07525": {
-        "description": {
-            "INCIDENT_HEADING_EN": "High Rail Incident",
-            "INCIDENT_HEADING_CN": "高鐵事故",
-            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds temporary train trips",
-            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-10-14T15:25:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "147916",
-                "CONTENT_EN": "In response to the demand, the High Speed Rail (Hong Kong Section) will add the following\ntemporary train trips:\n\nFrom Guangzhounan Station to Hong Kong West Kowloon Station\n15 October: G9771\n\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station\n16 October: G5679\n17 October: G9771\n\nFrom Futian Station to Hong Kong West Kowloon Station\n16 October: G5865\n17 October: G5833, G5835, G5837, G5841, G5843, G5845, G5847, G5849, G5851, G5853, G5855, G5867\n18, 19 October: G5833, G5835, G5837, G5841, G5843, G5845, G5847, G5849, G5853, G5855\n\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station\n16 October: G5680\n19 October: G9772, G9774\n\nFrom Hong Kong West Kowloon Station to Futian Station\n16 October: G5866\n17 October: G5834, G5836, G5838, G5842, G5844, G5846, G5848, G5850, G5852, G5854, G5856, G5868\n18, 19 October: G5836, G5838, G5840, G5844, G5846, G5848, G5850, G5852, G5856, G5868\n\nTickets are available for purchase through the 12306 official website (12306.cn) or mobile app; appointed travel agents; or at Hong Kong West Kowloon Station.\n\nFor train schedules, please refer to the 12306 official website (12306.cn) or mobile app, or the High Speed Rail website or mobile app.",
-                "CONTENT_CN": "配合客運需求，高速鐵路(香港段)將加開以下臨時列車車次：\n\n由廣州南站前往香港西九龍站\n10月15日：G9771\n\n由深圳北站前往香港西九龍站\n10月16日：G5679\n10月17日：G9771\n\n由福田站前往香港西九龍站\n10月16日：G5865\n10月17日：G5833,G5835,G5837,G5841,G5843,G5845,G5847,G5849,G5851,G5853,G5855,G5867\n10月18-19日：G5833,G5835,G5837,G5841,G5843,G5845,G5847,G5849,G5853,G5855\n\n由香港西九龍站前往深圳北站\n10月16日：G5680\n10月19日：G9772,G9774\n\n由香港西九龍站前往福田站\n10月16日：G5866\n10月17日：G5834,G5836,G5838,G5842,G5844,G5846,G5848,G5850,G5852,G5854,G5856,G5868\n10月18-19日：G5836,G5838,G5840,G5844,G5846,G5848,G5850,G5852,G5856,G5868\n\n你可透過12306官方網站(12306.cn)或手機應用程式、指定代理或前往香港西九龍站購買列車車票。\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-10-14T20:28:33",
-        "last_announcement": "2026-10-14T15:25:00"
-    },
     "IN-26-07594": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
