@@ -465,5 +465,69 @@
         "district": null,
         "last_update": "2026-10-18T12:23:26",
         "last_announcement": "2026-10-18T08:49:00"
+    },
+    "IN-26-07525": {
+        "description": {
+            "INCIDENT_HEADING_EN": "High Rail Incident",
+            "INCIDENT_HEADING_CN": "高鐵事故",
+            "INCIDENT_DETAIL_EN": "High Speed Rail (Hong Kong Section) adds temporary train trips",
+            "INCIDENT_DETAIL_CN": "高速鐵路(香港段)加開臨時列車服務",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-18T15:49:00": {
+                "INCIDENT_STATUS_EN": "UPDATED",
+                "INCIDENT_STATUS_CN": "更新情況",
+                "ID": "148142",
+                "CONTENT_EN": "In response to the demand, the High Speed Rail (Hong Kong Section) will add the following temporary train trips:\n\nFrom Shenzhenbei Station to Hong Kong West Kowloon Station\n19 October: G5679\n\nFrom Futian Station to Hong Kong West Kowloon Station\n18, 19 October: G5833, G5835, G5837, G5841, G5843, G5845, G5847, G5849, G5853, G5855\n\n19 October: G5865\nFrom Hong Kong West Kowloon Station to Shenzhenbei Station\n19 October: G9772, G9774, G5680\n\nFrom Hong Kong West Kowloon Station to Futian Station\n18, 19 October: G5836, G5838, G5840, G5844, G5846, G5848, G5850, G5852, G5856, G5868\n19 October: G5866\n\nTickets are available for purchase through the 12306 official website (12306.cn) or mobile app; appointed travel agents (Click here); or at Hong Kong West Kowloon Station.\n\nFor train schedules, please refer to the 12306 official website (12306.cn) or mobile app, or the High Speed Rail website or mobile app.",
+                "CONTENT_CN": "配合客運需求，高速鐵路(香港段)將加開以下臨時列車車次：\n\n由深圳北站前往香港西九龍站\n10月19日：G5679\n\n由福田站前往香港西九龍站\n10月18-19日：G5833, G5835,G5837,G5841,G5843,G5845,G5847,G5849,G5853,G5855\n10月19日：G5865\n\n\n由香港西九龍站前往深圳北站\n10月19日：G9772,G9774,G5680\n\n\n由香港西九龍站前往福田站\n10月18-19日：G5836, G5838,G5840,G5844,G5846,G5848,G5850,G5852,G5856,G5868,\n10月19日：G5866\n\n你可透過12306官方網站(12306.cn)或手機應用程式、指定代理(按此)或前往香港西九龍站購買列車車票。\n\n有關列車服務詳情，請瀏覽12306官方網站(12306.cn)或手機應用程式、高速鐵路網頁及手機應用程式。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-18T16:58:06",
+        "last_announcement": "2026-10-18T15:49:00"
+    },
+    "IN-26-07622": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Car Park Publicity",
+            "INCIDENT_HEADING_CN": "Car Park Publicity",
+            "INCIDENT_DETAIL_EN": "West Kowloon Cultural District",
+            "INCIDENT_DETAIL_CN": "西九文化區",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-18T16:34:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "148145",
+                "CONTENT_EN": "All car parks at West Kowloon Cultural District are full. Members of the public are encouraged to take public transport to the West Kowloon Cultural District.",
+                "CONTENT_CN": "西九文化區內所有停車場現已泊滿車輛，前往西九文化區一帶的市民請使用公共交通工具。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-18T16:58:06",
+        "last_announcement": "2026-10-18T16:34:00"
     }
 }
