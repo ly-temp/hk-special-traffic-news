@@ -38,38 +38,6 @@
         "last_update": "2026-10-19T21:38:37",
         "last_announcement": "2026-10-19T14:38:00"
     },
-    "IN-26-07629": {
-        "description": {
-            "INCIDENT_HEADING_EN": "MTR Incident",
-            "INCIDENT_HEADING_CN": "港鐵事故",
-            "INCIDENT_DETAIL_EN": "Enhanced In-town Check-in service in Hong Kong Station",
-            "INCIDENT_DETAIL_CN": "香港站市區預辦登機服務提升",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-10-19T12:04:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "148161",
-                "CONTENT_EN": "Transport Department has received notification from MTR Corporation Limited that to make it easier for passengers to travel, the In-town Check-in service in Hong Kong Station will be enhanced:\nFor more details, please visit: https://www.td.gov.hk/en/special_news/spnews.htm.",
-                "CONTENT_CN": "運輸署接獲港鐵公司通知，爲方便乘客出行，香港站市區預辦登機服務將會提升：\n詳情請參看: https://www.td.gov.hk/tc/special_news/spnews.htm。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-10-19T14:18:55",
-        "last_announcement": "2026-10-19T12:04:00"
-    },
     "IN-26-02541": {
         "description": {
             "INCIDENT_HEADING_EN": "Ferry Incident",
