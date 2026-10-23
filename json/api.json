@@ -51,5 +51,37 @@
         "district": null,
         "last_update": "2026-10-22T21:02:08",
         "last_announcement": "2026-10-22T20:40:00"
+    },
+    "IN-26-07727": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Structural / Mechanical Defects or Closure of Access",
+            "INCIDENT_DETAIL_CN": "結構/機械缺陷或關閉",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-23T11:35:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "148391",
+                "CONTENT_EN": "Due to vessel mechanical defects, the following kaito ferry services will be suspended. Tsui Wah Ferry Service (H.K.) Ltd. - Tap Mun to Wong Shek: suspended from 11:45 am onwards - Wong Shek to Tap Mun: suspended from 12:30 pm onwards",
+                "CONTENT_CN": "因船隻機件故障，以下街渡渡輪服務將會暫停服務： 翠華船務(香港)有限公司 -塔門至黃石：上午11:45起臨時取消 -黃石至塔門：下午12:30起臨時取消"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-23T12:34:59",
+        "last_announcement": "2026-10-23T11:35:00"
     }
 }
