@@ -122,5 +122,37 @@
         "district": null,
         "last_update": "2026-10-25T00:38:54",
         "last_announcement": "2026-10-24T21:20:00"
+    },
+    "IN-26-07773": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Ferry Incident",
+            "INCIDENT_HEADING_CN": "渡輪事故",
+            "INCIDENT_DETAIL_EN": "Fortune Ferry",
+            "INCIDENT_DETAIL_CN": "富裕小輪「東涌-沙螺灣-大澳」",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-10-25T09:10:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "148493",
+                "CONTENT_EN": "Due to mechanical fault, the following ferry service(s) will be or have been suspended.\nFortune Ferry Company Limited\n-Tuen Mun to Tung Chung - Sha Lo Wan - Tai O : sailing at 9:15 am\n-Tai O to Sha Lo Wan - Tung Chung : sailing at 11:00 am.",
+                "CONTENT_CN": "因船舶機件，以下渡輪服務將會或已經暫停服務。\n富裕小輪有限公司\n-屯門往東涌-沙螺灣-大澳方向:上午9時15分航班\n-大澳往沙螺灣-東涌方向:上午11時航班。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-10-25T09:36:31",
+        "last_announcement": "2026-10-25T09:10:00"
     }
 }
