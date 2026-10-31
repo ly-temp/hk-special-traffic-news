@@ -80,38 +80,6 @@
         "last_update": "2026-10-30T01:36:03",
         "last_announcement": "2026-10-29T20:45:00"
     },
-    "IN-26-07845": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Ferry Incident",
-            "INCIDENT_HEADING_CN": "渡輪事故",
-            "INCIDENT_DETAIL_EN": "Malfuntion on Dock Lift of of West Kowloon Quay",
-            "INCIDENT_DETAIL_CN": "西九碼頭升降台故障",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-10-29T00:22:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "148664",
-                "CONTENT_EN": "Transport Department has received notification, due to Malfuntion on Dock Lift of of West Kowloon Quay, the following ferry service(s) will be suspended. Fortune Ferry Company Limited ‘West Kowloon – Central’ Route: - West Kowloon to Central: Service suspended from 1:30p.m. - Central to West Kowloon: Service suspended from 1:15p.m. ‘Water Taxi’: ‘Tsim Sha Tsui East – Central (via West Kowloon and Wan Chai)’ Route: (For Premium Ferry Sailing) - Tsim Sha Tsui East to Central: Omit West Kowloon Quay from 2:05p.m. - West Kowloon to Tsim Sha Tsui East, Wan Chai, Central: Service suspended from 2:20p.m. (For Ordinary Ferry Sailing) - Tsim Sha Tsui East to Central: Omit West Kowloon Quay from 1:25p.m. - West Kowloon to Tsim Sha Tsui East, Wan Chai, Central: Service suspended from 1:40p.m.",
-                "CONTENT_CN": "運輸署接獲通知，因西九碼頭升降台故障，以下渡輪服務將會暫停服務。 富裕小輪有限公司 「西九龍-中環」航線： -西九龍至中環：下午1時30分起暫停服務 -中環至西九龍：下午1時15分起暫停服務 「水上的士」： 「尖沙咀東-中環（經西九龍及灣仔）」航線： (豪華船航班) -尖沙咀東至中環：下午2時05分起不途徑西九碼頭 -西九龍至尖沙咀東，灣仔，中環：下午2時20分起暫停服務 (普通船航班) -尖沙咀東至中環：下午1時25分起不途徑西九碼頭 -西九龍至尖沙咀東，灣仔，中環：下午1時40分起暫停服務"
-            }
-        },
-        "district": null,
-        "last_update": "2026-10-28T16:28:49",
-        "last_announcement": "2026-10-29T00:22:00"
-    },
     "IN-26-07933": {
         "description": {
             "INCIDENT_HEADING_EN": "Car Park Publicity",
