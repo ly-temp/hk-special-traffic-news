@@ -188,5 +188,37 @@
         "district": null,
         "last_update": "2026-11-11T19:56:27",
         "last_announcement": "2026-11-11T14:45:00"
+    },
+    "IN-26-08289": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Other Incident",
+            "INCIDENT_HEADING_CN": "其他事故",
+            "INCIDENT_DETAIL_EN": "Traffic in the vicinity of cemeteries along Cape Collinson Road in Chai Wan",
+            "INCIDENT_DETAIL_CN": "柴灣歌連臣角道一帶墳場附近道路的交通",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-11-14T10:58:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "149711",
+                "CONTENT_EN": "Members of the public are advised that, the traffic in the vicinity of cemeteries along Cape Collinson Road in Chai Wan (including Cape Collinson Road, Lin Shing Road, Wan Tsui Road, Chai Wan Road Roundabout and Shek O Road, etc.) is expected to be busier today. The Police will implement temporary traffic control measures depending on actual situation. Motorists are advised to watch out for the latest traffic news through media. In case of traffic congestion, motorists should exercise tolerance and patience, and follow the instructions of the Police.",
+                "CONTENT_CN": "公眾人士請留意，柴灣歌連臣角道一帶墳場附近道路（包括歌連臣角道、連城道、環翠道、柴灣道迴旋處及石澳道等）的交通預計在今天將會較為繁忙，警方會視乎實際情況在上述道路實施臨時交通管制措施。駕駛人士請留意傳媒發放的最新交通消息。如遇交通受阻，駕駛人士請保持忍讓，並遵從警方的指示。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-11-14T11:29:34",
+        "last_announcement": "2026-11-14T10:58:00"
     }
 }
