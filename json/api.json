@@ -199,45 +199,6 @@
         "last_update": "2026-11-24T03:30:30",
         "last_announcement": "2026-11-23T20:39:00"
     },
-    "IN-26-08499": {
-        "description": {
-            "INCIDENT_HEADING_EN": "Road Incident",
-            "INCIDENT_HEADING_CN": "道路事故",
-            "INCIDENT_DETAIL_EN": "Other",
-            "INCIDENT_DETAIL_CN": "其他",
-            "LOCATION_EN": null,
-            "LOCATION_CN": null,
-            "DISTRICT_EN": null,
-            "DISTRICT_CN": null,
-            "DIRECTION_EN": null,
-            "DIRECTION_CN": null,
-            "NEAR_LANDMARK_EN": null,
-            "NEAR_LANDMARK_CN": null,
-            "BETWEEN_LANDMARK_EN": null,
-            "BETWEEN_LANDMARK_CN": null,
-            "LATITUDE": null,
-            "LONGITUDE": null
-        },
-        "message": {
-            "2026-11-21T09:51:00": {
-                "INCIDENT_STATUS_EN": "NEW",
-                "INCIDENT_STATUS_CN": "最新情況",
-                "ID": "150189",
-                "CONTENT_EN": "The Transport Department announces that the traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam is anticipated to be quite busy in general. The operator of Green Minibus Route No. 9A will strengthen its service to cater for passenger demand as necessary. Members of the public are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing.",
-                "CONTENT_CN": "運輸署表⽰，通往萬宜⽔庫東壩的西貢萬宜路交通預計⼀般⽐較繁忙，專線⼩巴第9A號線的營辦商會按需要加強服務應付乘客需求。請遊⼈妥善規劃⾏程，預留充裕交通時間，同時在輪候時保持忍讓。"
-            },
-            "2026-11-21T10:32:00": {
-                "INCIDENT_STATUS_EN": "UPDATED",
-                "INCIDENT_STATUS_CN": "更新情況",
-                "ID": "150193",
-                "CONTENT_EN": "The Transport Department announced that the traffic on Sai Kung Man Yee Road leading to High Island Reservoir East Dam is very busy at the moment. The operator of Green Minibus Route No. 9A has strengthened its service to cater for passenger demand. Visitors are advised to plan ahead their journeys, reserve sufficient commuting time, and be patient while queuing.",
-                "CONTENT_CN": "運輸署表示，通往萬宜水庫東壩的西貢萬宜路交通現時非常繁忙，專線小巴第9A號線的營辦商已加強服務應對乘客需求。請遊人妥善計劃行程，預留充裕交通時間，同時在輪候時保持忍讓。"
-            }
-        },
-        "district": null,
-        "last_update": "2026-11-21T11:55:01",
-        "last_announcement": "2026-11-21T10:32:00"
-    },
     "IN-26-08511": {
         "description": {
             "INCIDENT_HEADING_EN": "High Rail Incident",
@@ -301,5 +262,37 @@
         "district": null,
         "last_update": "2026-11-22T19:55:04",
         "last_announcement": "2026-11-22T15:21:00"
+    },
+    "IN-26-08574": {
+        "description": {
+            "INCIDENT_HEADING_EN": "Highwind Incident",
+            "INCIDENT_HEADING_CN": "強風管理",
+            "INCIDENT_DETAIL_EN": "Strong Wind",
+            "INCIDENT_DETAIL_CN": "強風",
+            "LOCATION_EN": null,
+            "LOCATION_CN": null,
+            "DISTRICT_EN": null,
+            "DISTRICT_CN": null,
+            "DIRECTION_EN": null,
+            "DIRECTION_CN": null,
+            "NEAR_LANDMARK_EN": null,
+            "NEAR_LANDMARK_CN": null,
+            "BETWEEN_LANDMARK_EN": null,
+            "BETWEEN_LANDMARK_CN": null,
+            "LATITUDE": null,
+            "LONGITUDE": null
+        },
+        "message": {
+            "2026-11-24T08:45:00": {
+                "INCIDENT_STATUS_EN": "NEW",
+                "INCIDENT_STATUS_CN": "最新情況",
+                "ID": "150358",
+                "CONTENT_EN": "Due to high wind , the following special traffic and transport arrangements have been implemented on Hong Kong-Zhuhai-Macao Bridge Hong Kong Link Road (HZMB HKLR), with details as shown below: The speed limit of the HZMB HKLR is lowered from 100 km/h to 50 km/h.",
+                "CONTENT_CN": "由於強風，港珠澳大橋香港連接路已實施以下特別交通及運輸安排： 港珠澳大橋香港連接路的最高車速限制由每小時100 公里降低至每小時50 公里。"
+            }
+        },
+        "district": null,
+        "last_update": "2026-11-24T12:24:07",
+        "last_announcement": "2026-11-24T08:45:00"
     }
 }
